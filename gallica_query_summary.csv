@@ -1,0 +1,29 @@
+﻿query_label,query_string,total_reported,records_collected
+lovejoy_exact_arthur_o,"(gallica all ""Arthur O. Lovejoy"")",0,0
+lovejoy_exact_arthur_oncken,"(gallica all ""Arthur Oncken Lovejoy"")",0,0
+lovejoy_exact_a_o,"(gallica all ""A. O. Lovejoy"")",0,0
+lovejoy_creator,"(dc.creator all ""Lovejoy"" or dc.contributor all ""Lovejoy"")",0,0
+lovejoy_all,"(gallica all ""Lovejoy"")",0,0
+upadana,"(gallica all ""upadana"")",0,0
+upadisesa,"(gallica all ""upadisesa"")",0,0
+paticca_samuppada,"(gallica all ""paticca-samuppada"")",0,0
+sankhya_buddhism,"(gallica all ""Sankhya"" and gallica all ""Buddhism"")",0,0
+bouddhisme_samkhya,"(gallica all ""bouddhisme"" and gallica all ""samkhya"")",0,0
+primitivism,"(gallica all ""primitivism"")",0,0
+primitivisme,"(gallica all ""primitivisme"")",0,0
+primitive_religion,"(gallica all ""primitive religion"")",0,0
+religion_primitive,"(gallica all ""religion primitive"")",0,0
+philosophie_primitive,"(gallica all ""philosophie primitive"")",0,0
+mana,"(gallica all ""mana"" and gallica all ""religion"")",0,0
+etat_de_nature,"(gallica all ""état de nature"")",0,0
+state_of_nature,"(gallica all ""state of nature"")",0,0
+bon_sauvage,"(gallica all ""bon sauvage"")",0,0
+sauvage_de_bon_sens,"(gallica all ""sauvage de bon sens"")",0,0
+homme_naturel,"(gallica all ""homme naturel"")",0,0
+age_dor,"(gallica all ""âge d'or"")",0,0
+lahontan_sauvage,"(gallica all ""Lahontan"" and gallica all ""sauvage"")",0,0
+dialogues_curieux_lahontan,"(gallica all ""Dialogues curieux"" and gallica all ""Lahontan"")",0,0
+bougainville_diderot,"(gallica all ""Bougainville"" and gallica all ""Diderot"")",0,0
+supplement_bougainville,"(gallica all ""Supplément au voyage de Bougainville"")",0,0
+discours_inegalite,"(gallica all ""Discours sur l'origine de l'inégalité"")",0,0
+rousseau_inegalite,"(gallica all ""Rousseau"" and gallica all ""inégalité"")",0,0
