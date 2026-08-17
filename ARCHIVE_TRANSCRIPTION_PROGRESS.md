@@ -37,7 +37,8 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
 - Source PDF: 120 pages.
-- Completed: PDF pp. 1–105.
+- Completed: PDF pp. 1–120.
+- Status: **complete first pass**.
 - GitHub batches:
   - `archive_transcriptions/MS38_004_001_061_005_p001-015_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p016-030_clean.json`
@@ -46,10 +47,11 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
   - `archive_transcriptions/MS38_004_001_061_005_p061-075_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p076-090_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p091-105_clean.json`
+  - `archive_transcriptions/MS38_004_001_061_005_p106-120_clean.json`
 - Batch 6 manuscript page labels: 153, 155, 157, 159, 161, 163, 165, 167, 171, 173, 175, 177, 179, 181, 183. (The visible sequence skips 169 in the scan organization; PDF p. 84 carries 171.)
 - Batch 7 physical structure: PDF p. 91 is manuscript p. 185; pp. 92–100 are a sequence of inserted slips over manuscript p. 187; regular notebook pagination resumes with pp. 101–104 at manuscript pp. 189, 191, 193, 195. The page label on PDF p. 105 is not visible.
-- Next batch: PDF pp. 106–120 (final 15 pages).
-- Correction policy: especially difficult ethnographic names, multilingual titles, and compressed source references remain provisional; where handwriting is too poor for diplomatic transcription, only source-supported argumentative structure is retained.
+- Final batch: manuscript page labels are not securely visible in the scan, so none are inferred. PDF p. 119 contains a physically separate loose slip; p. 120 is back-leaf memorandum/scheduling material rather than continuation of the main argument.
+- Remaining work is second-pass verification only, concentrated in difficult ethnographic names, French/German titles, source-page numbers, and several low-confidence back-matter fragments.
 
 ### Source-derived topics in pp. 1–15
 
@@ -102,3 +104,15 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - Lovejoy sketches and then criticizes a developmental sequence connecting cultivated plants, domestic animals, and agrarian sacrifice. He argues that agriculture can precede domestication in Africa, undermining a simple wild-animal → domestic-animal sequence.
 - Vegetation spirits are not assumed to be originally anthropomorphic. Following Mannhardt and related evidence, plant souls may be conceived in animal or plant form.
 - A proposed sacrifice of the plant-soul to itself would be quasi-mechanical/magical rather than sacramental. Sacramental sacrifice of a representative of a god is treated as a later, more complicated development.
+
+### Source-derived topics in pp. 106–120
+
+- Cannibalism/anthropophagy is treated as a mechanism problem: public ceremony, repetition, or collective feasting do not by themselves prove a religious or sacramental origin.
+- Lovejoy separates multiple motives for eating human flesh or selected organs, including famine, revenge, affection, acquisition of qualities, sympathetic magic, propitiation, and sacramental union.
+- Human sacrifice to water or hostile spirits is classified as propitiatory in many cases; casting a victim into the sea during danger is contrasted with communion rites addressed to a friendly/protective deity.
+- A universal human-sacrifice → animal-substitution sequence is rejected as poorly demonstrated. Lovejoy allows limited substitution cases but also points to changing social/economic valuation of human life as a factor in the decline of human sacrifice.
+- Circumcision is explicitly rejected as a partial human sacrifice. Puberty rites, bloodletting, beating, scarification, seclusion, menstruation restrictions, and secret-society ordeals are analyzed through initiation, purification, fortification, fraternity, incorporation, and changed social status.
+- Lovejoy reaches a synthetic conclusion: alimentary sacrifice and expiatory/propitiatory sacrifice are frequent, while sacramental union is comparatively exceptional. This is a direct methodological challenge to a single communion theory of sacrifice.
+- Funerary companion-killing and burial of servants/retainers are classified as provision, communication, status-continuity, or propitiation for the dead rather than automatically as mystical union.
+- Eating selected organs is treated through transferable efficacy and sympathetic magic: head/brain → intelligence, heart → courage/life, sexual organs → sexual power.
+- The sustained comparative-religion argument ends on PDF p. 119; a loose slip there and the back-leaf memorandum on p. 120 are physically separate fragments rather than part of the main analytical sequence.
