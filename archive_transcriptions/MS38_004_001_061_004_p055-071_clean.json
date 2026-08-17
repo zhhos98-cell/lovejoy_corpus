@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0-lovejoy-archive-transcription",
+  "source_id": "MS38_004_001_061_004",
+  "source_description": "Arthur O. Lovejoy notebook labelled ‘Sankhya + Buddhism’",
+  "source_pdf_filename": "MS38_004_001_061_004.pdf",
+  "source_pdf_sha256": "1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f",
+  "source_ocr_filename": "MS38_004_001_061_004.pdf_by_PaddleOCR-VL-1.6.json",
+  "source_ocr_sha256": "e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84",
+  "batch": {
+    "batch_id": "p055-071",
+    "pdf_pages": [55, 71],
+    "page_count": 17,
+    "created_at": "2026-08-17T22:36:00+08:00",
+    "method": "Manual visual correction against rendered PDF pages, using PaddleOCR-VL output only as a scaffold.",
+    "policy": [
+      "Preserve Lovejoy’s abbreviations and source-derived terminology where readable.",
+      "Normalize obvious OCR character confusions and paragraph structure.",
+      "Do not silently reconstruct difficult handwriting, French quotations, or Pali/Sanskrit forms; mark uncertainty explicitly.",
+      "The local audit copy retains raw OCR; the GitHub copy stores corrected text for compactness."
+    ],
+    "notebook_completion": true
+  },
+  "research_signals_from_batch": [
+    "Lovejoy closes the dependent-origination section by mapping the twelve nidānas onto the khandhas and comparing Buddhist technical vocabulary with Sāṁkhya and Vedānta.",
+    "The final third becomes an extended philological argument over upādāna, upādhi, upādisesa and anupādisesa, testing attachment, residual impurity, physical aggregates and causal rebirth as rival meanings.",
+    "Lovejoy distinguishes Nirvāṇa as extinction of the causes of rebirth from parinirvāṇa / extinction without residue, and at one point states that the final Buddhist goal is absolute cessation of existence.",
+    "He nevertheless argues that upādisesa/anupādisesa in several Sutta-Nipāta passages are ethical terms for residual impurity or freedom from attachment, not descriptions of whether the present skandhas physically persist.",
+    "The notebook ends with an explicit historical-structural outline: original elements = flux/three characteristics + dependent origination; derived elements = sense-perception theory + psychology + khandhas.",
+    "Saṁyutta-Nikāya passages on non-clinging to the khandhas bind the philological analysis back to the ethical mechanism of liberation."
+  ],
+  "notebook_closure": {
+    "source_pdf_pages": 71,
+    "completed_pdf_pages": [1, 71],
+    "completed_batches": ["p001-018", "p019-036", "p037-054", "p055-071"],
+    "status": "complete_first_pass",
+    "remaining_work": "Second-pass verification of explicitly marked low/medium-confidence readings, especially French quotations, Pali passages, and abbreviated bibliographic references."
+  },
+  "pages": [
+    {
+      "pdf_page": 55,
+      "manuscript_page_label": "149",
+      "page_type": "outline_and_notes",
+      "corrected_text": "Paticca-samuppāda.\n\n1. Avijjā.\n2. Saṅkhārā. [4th khandha; note also 2nd/3rd [?]]\n3. Viññāṇaṃ. 5th khandha.\n4. Nāmarūpaṃ. Rūpam = 1st khandha, in part; nāma includes the mental elements, with marginal cross-reference to vedanā, saññā, and saṅkhārā.\n5. Saḷ-āyatana = rūpam, 1st khandha, in part.\n6. Phasso.\n7. Vedanā. 2nd khandha; ‘concerned with enjoyment’ [MP reference]; hence three kinds: pleasant, painful, indifferent.\n8. Taṇhā.\n9. Upādāna.\n10. Bhavo.\n11. Jāti.\n12. Jarāmaraṇa.\n\nCf. use of technical terms — contact, etc. — in Sāṁkhya & Vedānta. Correspondences with Sāṁkhya are noted, including the three guṇas (rajas, sattva, tamas) beside Buddhist threefold classifications.\n\nDifference between later Piṭakas & MP: on the one hand, in MP the affirmation of Nirvāṇa seems to have passed into a more definite and philosophical doctrine; on the other hand, if later than MP, there had been an increasing reluctance to admit that Nirvāṇa was nothingness, and an increasing tendency to equate it with, or attribute to it, Vedāntist supernatural/absolute ideas.",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["small marginal numerals beside saṅkhārā", "exact wording of the Sāṁkhya correspondence note", "final adjective attached to Vedāntist/Absolute"]
+    },
+    {
+      "pdf_page": 56,
+      "manuscript_page_label": "151",
+      "page_type": "notes",
+      "corrected_text": "In the Piṭakas Nirvāṇa is indeed seldom, if ever (but see p. 161), described as nothingness; but it is there a purely negative conception. I incline to suspect that the philosophical thinker who developed to even greater distinctness the original Buddhist conception of impermanence belonged to a tendency in the history of Buddhism different from, and later than, the popularizing temper which began to tone down Nirvāṇa, and bring rise eventually to Buddhist mysticism.\n\nUpādāna. [Seven passages / secondary-source notes, including a French quotation, partly illegible.] One French note glosses upādāna in relation to perception / pañcakkhandha.\n\nUpādāna in a Majjhima-Nikāya passage: the ‘five upādānakkhandhas’ are connected with love/desire. [Reference partly illegible.]\n\nUp. synonymous with saṁyojana? Saṁyojaniya-dhammā are ‘entanglements’ and amount to just the same as upādāniya-dhammā (v. same source).\n\nUpādhi, āsava, & saṁyojana, then, are three expressions with slightly different connotations and derivations, but systematically/in the system are devised for essentially the same fundamental idea — that of attachment to the objects of physical experience.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["French secondary-source citation and quotation", "exact Majjhima-Nikāya reference", "spelling of saṁyojaniya/upādāniya compounds"]
+    },
+    {
+      "pdf_page": 57,
+      "manuscript_page_label": "153",
+      "page_type": "notes_and_quotation",
+      "corrected_text": "Upādānaṃ.\n\nIn Saṁyutta-Nikāya XXII [reference uncertain]: ‘Master, the trembling of attachment (upādāna-paritassanā).’ Those who know not the doctrine take form for the self, or think that the self is included in form, that form exists in self, or self in form. Of such a follower, the form suffers change; and by reason of the change there arises a consciousness connected with the change of form. The resulting distress/trouble seizes the mind; the mind trembles, being disturbed and anxious and subject to attachment (upādāna). So for the other four khandhas.\n\nUpādānakkhandhas. Saṁy.-Nik. XXII, 48 [?]. The five khandhas are enumerated; then it is asked: What are the five upādānakkhandhas? Whatever rūpa, past, present or future, far or near, is joined with taṇhā & rāga by attachment, is called rūpupādānakkhandha. So for the other four.\n\nV. connection between upādāna & āsava.\n\nBurnouf, Introduction, p. 475: French note on the etymology and compound force of upādāna / upādānakkhandha. [Quotation continues on next page.]",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["Saṁyutta-Nikāya section numbers", "several words in the description of trembling/distress", "Burnouf quotation retained only as a descriptive note here"]
+    },
+    {
+      "pdf_page": 58,
+      "manuscript_page_label": "157",
+      "page_type": "french_quotation_and_notes",
+      "corrected_text": "[Continuation of Burnouf, Introduction, p. 475; French quotation.]\n\n‘Qui est placé le premier, c’est à dire l’upādāna …’ Burnouf discusses the first member/term as a compound and the relation of upādāna to the five skandhas. He treats upādāna as expressing a bond/support or grasping connection, and comments that the constituent elements designated by the compound are the same terms elsewhere expressed by the separate ideas of skandha and upādāna.\n\nThe quotation concludes approximately: ‘je pense qu’il s’agit ici de l’évolution de l’être qui passe par la conception pour arriver à l’existence.’\n\nUpādāna. Burnouf also notes a passage in a Buddhist text [reference partly illegible] and explains upādāna as a concept tied to grasping / the causal process by which existence is constituted.",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["much of the French quotation", "title/page of the Buddhist text cited on right page", "several Sanskrit/Pali forms in Burnouf’s note"]
+    },
+    {
+      "pdf_page": 59,
+      "manuscript_page_label": "159",
+      "page_type": "notes_and_quotations",
+      "corrected_text": "[Continuation of French note:]\n‘… conception; je pense qu’il s’agit ici de l’évolution de l’être qui passe par la conception pour arriver à l’existence.’\n\nUpādāna. Mahāvagga [?] 6 [?]. Pali quotation, including ‘dukkhaṃ … pañcupādānakkhandhā dukkhā.’ Lovejoy glosses the standard statement that the five aggregates subject to attachment are suffering.\n\nDhammacakkappavattana Sutta, Rhys Davids trans.: ‘The next: Five aggregates with attachment … are painful’ [wording abbreviated in notebook]. Upādāna, or grasping / attachment, is thus treated as the source or condition of the aggregates as suffered.\n\nA secondary source (SPCK, p. 113 [?]) is quoted: ‘A comprehensive name for all the five skandhas is upādhi,’ a word derived/allusively connected with upādāna, ‘to grasp,’ either with the hand or the mind. When the Buddhist becomes an Arhat and reaches Nirvāṇa he has extinguished craving and passion, but while alive his upādhi — the skandhas, his body with all its powers — remains. At death, however, ‘he will have reached nir-upādhi-sesa-nirvāṇa-dhātu,’ extinction without residue of the five skandhas.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Mahāvagga reference", "name of secondary source before SPCK p.113", "exact English wording of quoted explanation", "hyphenation/form of nir-upādhi-sesa-nirvāṇa-dhātu"]
+    },
+    {
+      "pdf_page": 60,
+      "manuscript_page_label": "161",
+      "page_type": "notes_and_quotation",
+      "corrected_text": "Upādāna & upadhi applied.\n\nNote also in a Saṁyutta-Nikāya passage [reference partly illegible], quoted by a secondary source, we read: ‘anupādāno bhikkhu parinibbāyati.’\n\nOldenberg points pretty strongly [p. 435 ?] that a form meaning ‘having attachment/residue remaining’ is an attribute of the anāgāmin. These words therefore preserve an ethical use: freedom from sinful nature / attachment may be incomplete even though the causal conditions for a further ordinary rebirth are nearly exhausted. [Several lines uncertain.]\n\nNibbāna.\n\nMP p. 3/2 [?]. A priest, after in vain trying through all the heavens to find a god who can answer the question ‘Where do the elements utterly cease?’, comes back to the Buddha and is answered thus:\n\n‘Where consciousness invisible,\nAnd infinite, of radiance …\nThere do earth, water, fire and wind\nNo footing find;\nAnd there do long and short,\nSmall and great, fair and foul …\nAnd when consciousness with these …\nThis all doth turn to nothingness.’\n\n[Lovejoy underlines the final line.]",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["source author/page before the anupādāno quotation", "exact technical form contrasted with anupādāna", "several lines of the Nibbāna verse"]
+    },
+    {
+      "pdf_page": 61,
+      "manuscript_page_label": "163",
+      "page_type": "argumentative_notes",
+      "corrected_text": "Nibbāna.\n\nSaṁy. / Rhys Davids [?]: it is the extinction of the sinful grasping condition of mind & heart which, according to Buddhism, gives rise to renewed individual existence. N. is therefore the sequel to a sinless ethical state of mind. It goes to the ‘going out’ of the flame/fire of lust, ill-will & delusion. [Reference to a secondary source.]\n\nAlso, the use of upādhi is pressed as evidence. ‘When a Bhikkhu has become an Arhat, when he has reached Nirvāṇa, apart from the body he has extinguished upādāna & rāga; but he is still alive; the upādhi, the skandhas or his body with all its powers … remain. These however are impermanent; they will soon pass away; precisely then there will be no thought/force to bring about the rise of a fresh set of skandhas. The Arhat will be no longer alive or existent in any sense at all.’\n\nHence parinirvāṇa = complete extinction; nir-upādhi-sesa nibbāna-dhātu = extinction not only of passion, but also of the ‘five skandhas.’ Nirvāṇa without the qualifying phrase does not mean exactly the same thing as parinirvāṇa.\n\nRhys Davids discusses a principally unsuccessful attempt to prove the contrary, especially regarding nibbāna & parinibbāna.",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["opening Saṁyutta/Rhys Davids citation", "one phrase before ‘rise of a fresh set of skandhas’", "exact reference for parinirvāṇa terminology"]
+    },
+    {
+      "pdf_page": 62,
+      "manuscript_page_label": "165",
+      "page_type": "argumentative_notes_and_citation",
+      "corrected_text": "[Continuation.]\n\nOn the essential points, Lovejoy concludes: Nirvāṇa means the extinction of the cause of rebirth, and the final goal of Buddhism is the absolute cessation of existence. ‘This is all that is required for the purposes of my paper’; upon the more philosophical question it is not necessary to dwell.\n\nHe adds in passing that Childers’ view of Nirvāṇa is probably correct, whereas a more philosophical or metaphysical interpretation attributed to other writers is profoundly problematic / not securely supported.\n\nN. & flame. Citation.\n\nBuddhavaṁsa: ‘As where heat is, there is cold; so where the three-fold fire is, Nirvāṇa must be sought.’",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["names in the sentence comparing interpretations of Nirvāṇa", "exact wording of the Buddhavaṁsa citation"]
+    },
+    {
+      "pdf_page": 63,
+      "manuscript_page_label": "167",
+      "page_type": "terminological_notes",
+      "corrected_text": "Anupādisesa Nibbāna etc. Residual meaning of the term.\n\nA proposed signification is: ‘one in whom there is, or if not, relatively, still present a remnant of earthly sinful nature.’ Upādi is treated as equivalent to upādhi, perhaps changed in form by scribal error due to a false analogy with anupādisesa / sa-upādisesa. Lovejoy tests this by reference to various passages.\n\nExample: in a Sutta [Majjhima-Nikāya reference], a man wounded by a poisoned arrow is treated by a physician until the poison is removed; he is left in a state described by a form containing -upādisesa. Lovejoy argues the term concerns whether a residual harmful condition remains, not a material residue.\n\nThe poison has really been all removed. In another Majjhima-Nikāya passage (Maj. Nik. 72 [?]) it is said of the Tathāgata at death: if he is upādisesa (having upādi still remaining), will he come again? The answer is no / the question is inapplicable. An anāgāmin is precisely one in whom a small residue of sinful nature remains for destruction in a future celestial existence; to call him one in whom at death ‘no upādi remains’ would be nonsense.\n\nWarren misunderstands this [p. 373 ?]. Evidently ‘upādisesa’ here has not the technical meaning of a residuum of earthly substance, but the ethical meaning of a residuum of impurity.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["opening etymological phrase", "first Sutta reference and exact poisoned-arrow terminology", "Majjhima-Nikāya section number", "Warren page number"]
+    },
+    {
+      "pdf_page": 64,
+      "manuscript_page_label": "169",
+      "page_type": "quotation_stub",
+      "corrected_text": "[Continuation:] ‘residuum of impurity.’\n\nQuotation. Sutta Nip. I.5 [?].\n\nPali line: ‘Yo nāma bhavesu sāraṃ …’ [partly illegible].\n\nLovejoy’s English gloss: ‘Who has not / seeks no essence in the existences, like one that looks for flowers on fig-trees — the bhikkhu leaves this and the further shore.’\n\nMiln.: ‘He sees all this is false.’",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["Pali verse", "exact Sutta-Nipāta reference", "exact wording of the English gloss"]
+    },
+    {
+      "pdf_page": 65,
+      "manuscript_page_label": "171",
+      "page_type": "notes_and_pali_quotation",
+      "corrected_text": "Upādānaṃ.\n\nSaṁy.-Nik. XXIV / XXII, 40 [?]:\n‘What are the things subject to attachment, & what is attachment? The eye etc. is a thing subject to upādāna; and whatever in connection with it is greed & desire, that is upādāna.’\n\nSo also Saṁy.-Nik. 22.121 [?]. Cf. also Saṁy.-Nik. 22.32, where the upādāniya-dhammā are again mentioned: by regarding with pleasure the things subject to attachment, desire arises, and from desire attachment, etc.\n\nSutta Nip. ‘No more, 5 — Birth has been destroyed’ [p. 15?].\n\nThe word upādisesa occurs once in Sutta-Nipāta (p. 135 [?]) in a Pali passage beginning ‘evaṁ … bhikkhuno …’; here it is applied to the anāgāmin. A synonymous / related form occurs once [reference v. 876?], and a negative form anupādisesa occurs in another verse.\n\nPali verse [partly illegible], followed by Lovejoy’s translation:\n‘Thus some paṇḍits say that the chief thing in this world is the purification of the demons; others, again, say that religious observances (? samayaṃ) are the …’",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["first Saṁyutta-Nikāya book/section number", "Pali quotation", "exact related form and reference", "translation continues on next page"]
+    },
+    {
+      "pdf_page": 66,
+      "manuscript_page_label": "173",
+      "page_type": "argumentative_notes",
+      "corrected_text": "[Translation continued:]\n‘… chief thing; but the truly wise say that it is in the condition of being anupādisesa.’\n\nNo one familiar with Buddhist modes of thought could suppose that anupādisesa here meant the extinction of the skandhas, i.e. physical death. To the being who has been freed from desire it is indifferent whether he dies or lives; to speak of death as the summum bonum would be the most un-Buddhistic of sentiments.\n\nClearly, the word anupādisesa here means the moral condition of being freed from attachment. It is to be understood as freedom from attachment rather than as ritual observance / superstition.\n\nThus, in the three passages of the Sutta-Nipāta in which the word upādisesa occurs, it clearly does not refer to the persistence of the five skandhas, but to an ethical condition. When used positively it is applied to the anāgāmin, in whom a small residue of sinful nature still remains; when used negatively it applies to the Arahat, whether before or after his physical death.",
+      "transcription_confidence": "high",
+      "uncertain_readings": ["one sentence contrasting attachment with religious observance / superstition"]
+    },
+    {
+      "pdf_page": 67,
+      "manuscript_page_label": "175",
+      "page_type": "pali_quotation_and_text_criticism",
+      "corrected_text": "Upādhi. v. B. dict. 598 [?].\n\nBuddhaghosa’s commentary on Dh. 89 (Fausbøll ed. p. 278 [?]) is copied in Pali. It distinguishes parinibbuta in relation to the destruction of kilesa and the ending of the khandhas, using both sa-upādisesa and anupādisesa formulations.\n\nLovejoy’s gloss: parinibbāna may be spoken of from the attainment of Arahatship, by means of having put an end to the productive desire, and also by the extinction of the remaining conditions in which upādhi remains, as well as in the state in which no upādhi remains.\n\nMP. Text-criticism.\n\nOf the two Chinese versions, the earlier does not seem to go much further than vol. I, p. 99 (just where the Pali text remarks, ‘Here end the questions by Milinda’ [?]); the latter, though it goes beyond this point, apparently stops at vol. I, p. 114. But Rhys Davids argues that so elaborate an introduction would hardly have been written to so small a text — 39 pages — and more must once have belonged to it.\n\n[Lower-right note:] ‘production of khandhas’ — by the two destructions / two Nirvāṇas, one is extinguished, being free from upādāna, like a lamp that has gone out. Two points are then to be noted, continued next page.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Pali commentary copied from Buddhaghosa", "dictionary/source abbreviation at top", "exact wording of Chinese-version note", "first point in lower-right note continues on p.68"]
+    },
+    {
+      "pdf_page": 68,
+      "manuscript_page_label": "177",
+      "page_type": "argumentative_notes_and_outline",
+      "corrected_text": "[Continuation.]\n\nThe cessation / non-production of new khandhas is connected with the sa-upādisesa state as much as with anupādisesa. Elsewhere neither the [sa-upādisesa class] nor the anupādisesa / Arahat is producing new khandhas.\n\n2. Anupādisesa / anupādāna are used as near-synonyms in the relevant passages.\n\nThe point of the two words is that they are used for two classes of men whose merit / attainment is so great that they will never be born again in this world of the khandhas; one class will be reborn only in the Brahma heaven; the Arahat will not be reborn at all. Neither word has any reference to the extinction of the present khandhas, but both indicate the cessation of the causal influence — desire or attachment — which could produce future rebirth.\n\nOriginal Elements.\n1. Conception of Flux as the reason for Suffering (= 3 Characteristics).\n2. Formula of Dependent Origination.\n\nDerived Elements.\n1. Theory of sense-perception.\n2. Psychology.\n3. Khandhas.",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["names of the two spiritual classes in first paragraphs", "one short clause after the rebirth distinction"]
+    },
+    {
+      "pdf_page": 69,
+      "manuscript_page_label": "179",
+      "page_type": "notes_and_quotations",
+      "corrected_text": "Upādānaṃ.\n\nSutta after Sutta in the Saṁyutta-Nikāya is devoted to the exposition of the five skandhas and the inculcation of the doctrine that they should be looked upon with disgust, without passion, in freedom from attachment.\n\nSaṁy. 22.59.23 [?]: while this exposition was being preached by the Blessed One, the minds of five monks were released from the āsavas.\n\nSaṁy. 22.63: ‘Clinging to the skandhas, man is bound by Māra; but by not clinging one is released from the Evil One / Māra.’\n\nKhandha-Saṁyutta. References to Warren p. 487 and Childers; form-group = rūpakkhandha, derivative form = upādāya-rūpa [?]. [Bibliographic note partly illegible.]\n\nUpādānaṃ. Saṁy. 22.77, 8 + 10 [?]:\n‘Thus hearing the doctrine, the disciple feels disgust at the skandhas; feeling displeased / disgusted, he becomes free from passion; when he is thus freed, the consciousness arises: I am freed.’",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["first Saṁyutta reference numbering", "exact Pali compound for derivative form", "small bibliographic note before the final quotation"]
+    },
+    {
+      "pdf_page": 70,
+      "manuscript_page_label": "181",
+      "page_type": "notes_reference_list",
+      "corrected_text": "Upādāna etc.\n\nSaṁy. 23.8.5 [?]:\n‘Then, O Rādha, a monk, seeing the origin of the five upādānakkhandhas and their destruction, and the taste of them and their extinction as they really are, being free from attachment, becomes released — that monk is called the Arahat, one who has destroyed the āsavas.’\n\nDhammapada 89 [?]. Pali verse beginning ‘Ādānapaṭinissagga … ye ratā …’ [partly legible]. Lovejoy’s gloss: those who delight in freedom from taking/grasping, free from upādāna and craving, enter Nibbāna. Buddhaghosa annotation follows.\n\nPassages referred to:\nSutta Piṭaka — [several Sutta references: 9; I.1; 13; II.2; II.3 etc.]\nMajjhima-Nikāya, Saṅkhārupapatti Sutta [?].\nVinaya, Mahāvagga, p. 134 [?].\n\nHeading for next material: Dhammapada.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Saṁyutta reference", "Pali Dhammapada verse", "reference list on right page", "Majjhima sutta title"]
+    },
+    {
+      "pdf_page": 71,
+      "manuscript_page_label": "183",
+      "page_type": "pali_stub_end_of_notebook",
+      "corrected_text": "[Dhammapada / Pali note; notebook ends.]\n\nPali/Sanskritized phrase partly legible:\n‘… gaṇhāmi (grasping) … cattāri upādānāni kiñci anupādiyitvā … anubhāvato … Arahatta-magga … khandhā …’\n\nThe remaining right-hand page is blank.",
+      "transcription_confidence": "low",
+      "uncertain_readings": ["nearly the entire Pali passage; only isolated forms such as upādāna / anupādiyitvā / Arahatta-magga / khandhā are secure"]
+    }
+  ]
+}
