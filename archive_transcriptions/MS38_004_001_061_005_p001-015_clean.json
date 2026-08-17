@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0-lovejoy-archive-transcription",
+  "source_id": "MS38_004_001_061_005",
+  "source_description": "Arthur O. Lovejoy manuscript notebook; front leaf faintly labelled “Symbolism” [?], with notes on future life, death, myth, ritual, and moral determinants.",
+  "source_pdf_filename": "MS38_004_001_061_005.pdf",
+  "source_pdf_sha256": "7ebf4e672bdb2267e71a9c6b617df2078f057b1f23858f2770a3f9de004d96ad",
+  "source_ocr_filename": "MS38_004_001_061_005.pdf_by_PaddleOCR-VL-1.6.json",
+  "source_ocr_sha256": "e420b098a2cf2bdd272e918434fb452fae923a9fcfb730117825d9dd366ef9c2",
+  "batch": {
+    "batch_id": "p001-015",
+    "pdf_pages": [1, 15],
+    "page_count": 15,
+    "created_at": "2026-08-17T22:10:00+08:00",
+    "method": "Manual visual correction against rendered PDF page images, using PaddleOCR-VL output only as a scaffold.",
+    "policy": [
+      "Preserve Lovejoy’s abbreviations where readable (e.g. F., A., tre, fut., bet., wh., w.).",
+      "Normalize line breaks and obvious OCR character confusions without modernizing Lovejoy’s argument.",
+      "Do not silently reconstruct illegible handwriting; mark [illegible], [?], or explain in uncertain_readings.",
+      "Proper names and ethnographic titles are retained only where visually supported; uncertain bibliography is explicitly flagged.",
+      "The original OCR file is referenced by filename and SHA-256; this batch stores corrected text only."
+    ]
+  },
+  "research_signals_from_batch": [
+    "Future-life beliefs are treated as initially continuous with this-worldly status rather than intrinsically moral.",
+    "Lovejoy separates moral reward/punishment from magical, ritual, social, and status-based determinants of post-mortem destiny.",
+    "Modes of death (suicide, drowning, childbirth) can determine distinct post-mortem destinations independently of moral conduct.",
+    "Many so-called primitive traditions explain death as non-natural: death requires a specific supernatural, sorcerous, accidental, or taboo-breaking cause.",
+    "Origin-of-death myths include failed rejuvenation, mistaken messages, breaking taboos, hostile spirits, and Pandora/Hesiod-type narratives.",
+    "The notebook draws repeatedly on ethnographic literature including Wyatt Gill, Brough Smyth, Codrington, Duff MacDonald, and Rink.",
+    "The analytic outline on PDF pp. 14–15 explicitly treats future-life doctrine as heterogeneous: naturalistic continuity, ritual determinants, social/community determinants, and eventually strictly moral guilt."
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "manuscript_page_label": null,
+      "page_type": "cover / stationer's leaf",
+      "corrected_text": "LIBRAIRIE\nPAPETERIE\nFOURNITURES CLASSIQUES\nCABANON\nLIVRES D’OCCASION\nRELIURE\nTimbres-Poste\n162, Rue Saint-Jacques, 162\nPARIS\nEn face de l’École de Droit.\n\nA. O. Lovejoy\nSymbolism. [?]",
+      "transcription_confidence": "high for printed matter; medium for faint manuscript title",
+      "uncertain_readings": ["The faint notebook title appears to read “Symbolism”; retained with [?]."]
+    },
+    {
+      "pdf_page": 2,
+      "manuscript_page_label": null,
+      "page_type": "bibliography / reading list",
+      "corrected_text": "Bibliography\n\nW. Wyatt Gill: Myths & Songs of the S. Pacific\nBrough Smyth: Aborigines of Australia\n[?]: Samoa\nCodrington: The Melanesians\nDuff MacDonald: Africana\nRink: Tales & Traditions of F. Eskimo\n\nReading:\n[one short reference line illegible]",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["Author before “Samoa” is unclear.", "The final “Reading” reference line is not safely legible."]
+    },
+    {
+      "pdf_page": 3,
+      "manuscript_page_label": "3 [?]",
+      "page_type": "notes",
+      "corrected_text": "[heading / page label uncertain]\n\nF. [future] life by little & little [develops?]; ideas of reward [and/or] moral ideas in F. world gradually get transferred to, or supplemented in, another world whose existence is already believed in.\n\nBut what is meant by moral notions? They certainly do not apply to all F. distinctions wh. savage [mind makes]. Thus when we find A. F. rich in F. next life are still rich, we cannot call A. [continuance] a case of recompense for virtue. Only when F. reward or punishment is applied as a result of [retributive] justice in F. life, wh. tells them both to have been [punished] or rewarded. So are we to make a distinction bet. real & supernatural qualities of F. savage man. Such a distinction does not exist for F. savage mind.",
+      "transcription_confidence": "medium-low",
+      "uncertain_readings": ["Opening heading and several connecting words.", "The phrase around “recompense for virtue” is only partly legible.", "‘retributive’ is a contextual reading and remains uncertain."]
+    },
+    {
+      "pdf_page": 4,
+      "manuscript_page_label": "5 [?]",
+      "page_type": "notes",
+      "corrected_text": "Tre is no diff. bet. before [philos.?] strength of one man & F. superior control over nature of another. Both endowments are equally natural, or supernatural, if you will. It is common among savages to regard both as then reflected, reflected in F. life after death. F. man who was a prince remains a prince; therefore no moral notion here. As little is tre belief A. F. man who has magical power in life will have magical power beyond F. grave. What a man is A. he [remains].\n\nNo more again can religious devotion be held to imply an idea of a moral sort. Those who is faithful in sacrifice [etc.] will perhaps be rewarded after death; but he merely means A., e.g., his sacrifices [and] F. god have become [illegible] in a purely quasi-mechanical manner; rites, practically, F. [means] of heaven, &c. So far among savages it might refer to F. future life; implies no judgment. F. last merely A. its victims who have died before him will [illegible].",
+      "transcription_confidence": "medium-low",
+      "uncertain_readings": ["Several words in the opening sentence.", "Passage on sacrifice/gods is partly illegible.", "Last sentence continues onto the next page and is incomplete here."]
+    },
+    {
+      "pdf_page": 5,
+      "manuscript_page_label": "7",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\n[beyond F. grave] will prove hostile on his voyage to F. land of F. dead. F. citations given in M. Surviv. F. idea is one of simple & direct vengeance; [several words illegible]. And finally where tre is punishment by F. gods, [the idea remains] in large part natural [rather than moral].\n\nBut while F. other [feature?] is a [different] one, it is not probable A. copy of F. terrestrial world of today but of yesterday; the morality supposed to be reigning there is commonly a little traditional & obsolete.\n\nSuch is F. general outline of views F. held w. [respect to] F. future life.",
+      "transcription_confidence": "medium-low",
+      "uncertain_readings": ["First half of left page is faint and compressed.", "‘M. Surviv.’ is Lovejoy’s abbreviated source reference; expansion uncertain.", "The final clause after ‘views’ is partly obscured."]
+    },
+    {
+      "pdf_page": 6,
+      "manuscript_page_label": "9",
+      "page_type": "notes",
+      "corrected_text": "Primitive bef. entering F. life.\n\nCases where F. common people do not survive at all; F. soul [is destroyed?] or are devoured by F. gods. F. fut. destiny depends not exclusively upon condition in life, but also upon F. manner of death — special regions for those who die of suicide, the drowned & women dead in childbirth, &c. The fact we shall see later [in] rites of purification [connected] w. F. surviv.\n\nTo be noted A. survivance, rather than immort., is F. [idea] of F. savage. Immort. is almost foreign to his conception; it is not an idea primitive. There is more: in a great number of cases tre is F. belief in a second death, or even in many successive deaths by wh. F. soul gradually dwindles away to F. point of annihilation. V. Surviv. [abbreviated reference], a series of beliefs showing diff. names & of diff. types & gradation.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["One verb in the first sentence on souls not surviving.", "Abbreviated source after ‘V. Surviv.’", "Closing words after ‘gradation’ are not securely legible."]
+    },
+    {
+      "pdf_page": 7,
+      "manuscript_page_label": "11",
+      "page_type": "notes",
+      "corrected_text": "Mor. 23 [?] — Conception of death among peoples.\n\nNotice, in F. first, F. idea of death appears as a phenomenon entirely natural & necessary. But F. [this is] a product of a long development & does not exist at all among F. great majority of non-civ. peoples. Death is a thing wh. seems to run contrary to F. nature of men & needs to be explained by ref. to some extraordinary & supernatural cause. Thus life is not F. [condition] imposed upon men by F. gods [or] destiny; rather every death requires an explanation in F. special cause — some act of sorcery or whatever it may be.\n\n[Examples / references, partly illegible.]\nBrough Smyth, Aborigines of Australia, p. 428. Personifying death — F. inability to [conceive] of abstract death: death [is] a definite thing wh. kills you.\n\nV. [Powell?]: Samoa.\nCodrington: The Melanesians, p. 26 [and following note].",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Heading number/abbreviation.", "Several example sentences in lower-left/right margins.", "Reference before ‘Samoa’ may not be Powell."]
+    },
+    {
+      "pdf_page": 8,
+      "manuscript_page_label": "13",
+      "page_type": "notes",
+      "corrected_text": "[continuation of origin-of-death examples]\n\n[Story:] death came into F. world because one day an old woman [illegible]; she had just put off [illegible]. Therefore — in accordance w. F. primitive [idea] — F. [cause] becomes F. rule; [a myth explaining why] men die [rather than] merely rejuvenating / returning.\n\nAnother type of explanation results not fr. a deliberate [act], but fr. some sort of dispute bet. two mythical beings. [reference partly illegible]\n\nMor. 28 [?]. Examples cont’d. F. often refers to ideas explanatory of death. [New Guinea / island example, source uncertain:] ... soul / spirit, where he remains only a short time & then returns home; but thereafter all men are subject. But F. man is not F. premier mort; [rather] F. [incident] is F. origin of death. F. spirit was not a definitive death, but only temporary. He sent home [a message] by F. birds, directing his mother to gather his bones together [continuing next page].",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["Both ethnographic examples are difficult; only the causal structure and several phrases are secure.", "Heading/page label may be ‘Mor. 28’ or a similar abbreviation.", "Source names are not safely legible."]
+    },
+    {
+      "pdf_page": 9,
+      "manuscript_page_label": "15",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\n[His bones were to be taken] to his ancestral home, where he would be able to rejuvenate himself in another form. But F. mother [failed / misunderstood] F. directions; [the] spirit went forth [and the intended return failed].\n\nV. also [source], Voyage [in / to] Africa, vol. I, p. 167: death entered F. world by an error. F. moon [or another renewing being] [says]: ‘As I die & am born again, so shall men die & be born again’ [several words illegible].\n\n[Right page:] Whoever [fails to] perform [the required action] ... Hence by F. error F. [creative] power [is frustrated] & men become subject to death. [A marginal note contrasts renewing / non-renewing beings.]\n\nDuff MacDonald, Africana, p. 265; Legend of Annihilation [title reading uncertain].\n\nA very common type of death-origin legend refers it to F. breaking of a taboo. [reference:] Lewin [?], Races of S. [region illegible]. Another legend in wh. we have F. intervention of a hostile spirit; god creates F. world, first animals & then a man & woman. [continuation follows].",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["Narrative details and two source references are only partly legible.", "Quoted renewal formula is reconstructed only from visible words and marked as uncertain.", "‘Legend of Annihilation’ may be a descriptive note rather than a title."]
+    },
+    {
+      "pdf_page": 10,
+      "manuscript_page_label": "17",
+      "page_type": "notes",
+      "corrected_text": "[continuation of mythological examples]\n\n[One being] comes every night [as / with] a great serpent & [illegible]. [A chief / man] cannot [illegible]. At last [the god / being] gives [illegible], for now men die all F. same.\n\nHesiod, Works & Days: men were free fr. sickness & death until Prometheus [episode / Pandora]; then Pandora [opened / released] F. [evils] & let loose sickness & death upon F. world.\n\nAmerican Legends, V. [Brinton?]\n\n[Right-page references:] in vol. I of [book of] Ethnology [?] (legend of F. two brothers &c.), V. Bower [?]; ‘Contr[ibution] à l’Ethnologie de [region illegible]’, [and] ‘A Further Contribution to Funeral Customs’, same vol.; [note:] ‘the moon & the coyote’ [wording partly uncertain].",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["Upper-left myth narrative is difficult.", "Prometheus/Pandora reference is clear in substance but Lovejoy’s exact phrasing is partly illegible.", "Bibliographic references on right are highly abbreviated."]
+    },
+    {
+      "pdf_page": 11,
+      "manuscript_page_label": "19",
+      "page_type": "notes",
+      "corrected_text": "Dec. 14. Conception of fut. destiny among F. Eskimos in Greenland [Egede / source uncertain].\n\n151 — two abodes: pleasant below F. earth & disagreeable in heaven. F. former reserved for F. drowned, for women dying in childbirth, &c. [This] makes up for [what] will not have suffered in F. life. No moral notion is implied at all. For women F. [condition] in F. other world is for a ritual failure [rather than a moral fault]. Indeed, it is not even a punishment for moral negligence; it is only a case of F. absence of [ritual / magical] [qualification]. F. spirit, &c. It is clearly a question magical. (V. [source] about p. 116.)\n\nV. Rink, Tales & Traditions of F. Eskimo, traditions on same point (pp. 36–37), p. 40.\n\nConception in general [continues].",
+      "transcription_confidence": "medium-low",
+      "uncertain_readings": ["Source name in heading and several explanatory words.", "The contrast ‘ritual failure rather than moral fault’ is strongly suggested but exact syntax is uncertain."]
+    },
+    {
+      "pdf_page": 12,
+      "manuscript_page_label": "23 [?]",
+      "page_type": "notes / references",
+      "corrected_text": "[Short left-page note; much of first line illegible.]\n\nAny Carib. [Albert / author?] agree in [illegible] to be a mixture of multiple [levels / beliefs], each of two, up to all [illegible]. More confidence [that] there can be no possibility of error or significance. [heading:] future life.\n\nV. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oct. 1899, for facts in case of children, esp. strikingly [developed] ideas about continued life of friends in F. [future / other] world; cf. belief about [spectral] soul, p. 83; cf. also Stanley Hall’s Study of Death.",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["Left-page paragraph is poorly legible.", "Article title and co-author in the American Journal of Psychology reference are uncertain.", "Page number ‘83’ is visible but its exact referent is not."]
+    },
+    {
+      "pdf_page": 13,
+      "manuscript_page_label": "25",
+      "page_type": "notes",
+      "corrected_text": "[Topic:] influence of a [corrupt priesthood / non-performance] or non-accomplishment of certain rites on destiny of F. dead.\n\n[Series of ethnographic references, many abbreviated and difficult:] New [region / Charter?] of F. Island; [Turner?], [reference]; [Hindu / Indian] examples. General belief: [a heaven] always happy; [illegible].\n\n[An analogue:] [source / people uncertain]. F. [one deity] has created clouds & all obscurity; F. two divide all power over human affairs bet. them. When F. [god] is angry he sends F. [flood / storm]; is appeased w. prayer, &c. [Further example:] F. god of darkness [and] clouds [illegible]. [Reference to Cook / Hawai‘i or another island context, uncertain].",
+      "transcription_confidence": "low",
+      "uncertain_readings": ["Most proper names on this page cannot be safely resolved from the handwriting.", "The causal contrast between deities, weather, prayer, and human fate is readable, but exact wording is not."]
+    },
+    {
+      "pdf_page": 14,
+      "manuscript_page_label": "27",
+      "page_type": "notes",
+      "corrected_text": "[Left page continues examples of divine / supernatural determinants; much is illegible.]\n\n[Conceptual summary on right:]\n1) Heterogeneity. But what is most ‘moral’ [or judicial] in F. [future-life system]? F. determinants of destiny are a jumble of moral & purely supernatural characteristics. F. bad life, a case where F. idea of a retributive fut. life is mixed up in a medley with F. idea of [future life] as merely a direct continuation of F. life (past). Partly it is [the continuity] wh. gives substance to belief in F. life, but partly [there are] accidents / elements [that are] naturalistic, & partly it consists in elements sacerdotal & ritual. A. is the element sacerdotal — F. power of priest to send at pleasure [to one or another destiny].",
+      "transcription_confidence": "medium-low for conceptual summary; low for left-page examples",
+      "uncertain_readings": ["Most left-page narrative detail is not safely legible.", "Several nouns in the ‘heterogeneity’ analysis are inferred from legible stems and context; retained conservatively."]
+    },
+    {
+      "pdf_page": 15,
+      "manuscript_page_label": "29",
+      "page_type": "notes / analytic outline",
+      "corrected_text": "[continuation of analytic outline]\n\n[Various determinants of] good or bad future life, & wh. [work] w. simple process [into] another element — all are symptomatic of a broad distinction wh. primitive [thought does not yet make]. We can by an elimination of F. later elements reconstruct F. earliest [form / relation].\n\n1. Naturalistic idea — F. life a pure continuance, determined by degree of [status / power] in this world.\n2. Ritual element appears — faithfulness in cultivating F. gods produces F. [superiority / advantage] in F. other world.\n3. Here appear F. social [elements] — fidelity to F. community or its associations determines future life.\n4. Social element F. may, as ref. community [??], determine destiny — not F. man himself at all.\n5. Finally F. guilt is strictly moral appears.\n\nNote: F. whole system of ideas given by [Harrison?] — being confused & polymorphic. Are tre things relatively primitive? Ultimately tre appear at first numerous [elements] in F. conception: 1. dualism of good & evil [forms]; 2. mediator bet. [dead / living?]; 3. presence of some few moral elements [amid largely non-moral determinants]; 4. a sort of purification state or period wh. prepares F. good souls for F. sojourn in F. heaven. But F. spirit, where F. resemblance appears in later [systems], seems [to continue].",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["The five-part outline is comparatively clear, but several key nouns are abbreviated or faint.", "Reference in note may be Harrison; not certain.", "Final sentence breaks off and continues beyond this batch."]
+    }
+  ]
+}
