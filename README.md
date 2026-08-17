@@ -25,6 +25,7 @@ A whole-web research stream is active. Evidence is separated into primary works,
 - batch 03, Harvard training: [`research_notes/lovejoy_as_orientalist_web_sweep_batch03_harvard_training.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch03_harvard_training.md)
 - batch 04, Harvard public Orientalism / Vivekananda / Cambridge networks: [`research_notes/lovejoy_as_orientalist_web_sweep_batch04_harvard_public_orientalism.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch04_harvard_public_orientalism.md)
 - batch 05, Paris / Sylvain Lévi: [`research_notes/lovejoy_as_orientalist_web_sweep_batch05_paris_1898_1899.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch05_paris_1898_1899.md)
+- batch 06, 1933 China / mature transmission history: [`research_notes/lovejoy_as_orientalist_web_sweep_batch06_china_1933.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch06_china_1933.md)
 - Harvard training dossier: [`research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`](research_notes/lovejoy_harvard_orientalist_training_1895_1898.md)
 
 ### Major evidentiary upgrade: Harvard training is confirmed
@@ -52,13 +53,17 @@ Wilson records Lovejoy as a member of Harvard’s **Graduate Philosophical Socie
 
 The Cambridge Conferences provide a second public comparative-religion layer. Wilson says Lovejoy attended/enjoyed them; the 1896–97 Cambridge/Evolution of Ethics orbit included talks by Swami Saradananda on Hindu ethics, Anagarika Dharmapala on Buddhist ethics, a Parsi/Zoroastrian lecture, and Chinese ethics. Exact Lovejoy attendance at those individual talks remains to be established from Conference programs, Bull/Curtis papers, and correspondence.
 
+### Mature China strand: a different kind of Orientalism
+
+The 1933 **“The Chinese Origin of a Romanticism”** is now being treated separately from the early Buddhist philology. Close reading of the expanded 1948 version shows that its source architecture is overwhelmingly European-language: Mendoza and early China reports, Jesuit writings and translations, *Confucius Sinarum philosophus*, Kircher, Leibniz, Fénelon, Wolff, Voltaire, Temple, Le Comte, Attiret, Chambers, and European garden/aesthetic literature. Lovejoy is reconstructing how a European **representation of China** travelled and became causal evidence in arguments for irregular landscape gardening and a Romantic aesthetic. At present this is best described as a history of cross-cultural transmission/representation, not direct Sinological philology. The 1933 JEGP original still needs exact comparison with the revised 1948 version.
+
 ### Current provisional career shape
 
 1. **1895–1901: direct Orientalist/comparative-religion formation and practice** — Everett/Toy/Lanman coursework; Sanskrit and Buddhist texts; notebook 004; 1898 JAOS Buddhist philology; Paris private reading with Sylvain Lévi; 1901 “Philosophy of Buddhism” lectures; overlapping Harvard/Cambridge comparative-religion networks.
 2. **c.1901–1906: comparative-religion transformation** — notebook 005 and the emerging problem of causal efficacy / “primitive philosophy.”
-3. **1930s: distributed/global history of ideas** — Chinese transmission as a historical problem and collaboration with area specialists such as William F. Albright and Paul-Émile Dumont in the primitivism project.
+3. **1930s: mediated/distributed global history of ideas** — Chinese transmission reconstructed chiefly through European representations, while Indian and ancient Western-Asian materials enter the primitivism project through area specialists such as P.-E. Dumont and William F. Albright.
 
-The working thesis is that Orientalist philology was not merely an abandoned youthful curiosity. It appears to have been an early laboratory for operations later redistributed into comparative religion and history of ideas: decomposition of systems, semantic discrimination, historical layering, borrowing without identity, and reconstruction of intelligible arrangements.
+The working thesis is that Orientalist philology was not merely an abandoned youthful curiosity. It appears to have been an early laboratory for operations later redistributed into comparative religion and history of ideas: decomposition of systems, semantic discrimination, historical layering, borrowing without identity, and reconstruction of intelligible arrangements. At the same time, Lovejoy’s mode of engagement with Asian material changes substantially across the career, from direct language/text study to mediated transmission history and distributed specialist collaboration.
 
 ## Data-layer rule
 
