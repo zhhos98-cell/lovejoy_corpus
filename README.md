@@ -17,7 +17,7 @@ Current progress: see [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTIO
 
 The completed notebook has now been cross-read against Lovejoy's 1898 *Journal of the American Oriental Society* article, **“The Buddhistic Technical Terms upādāna and upādisesa.”** The comparison is recorded in [`research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`](research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md). Current conclusion: the article is a sharply delimited publication extracted from a broader Sāṁkhya/Buddhism research notebook; the strongest continuity lies in Lovejoy's treatment of upādāna/upādisesa, overlapping nidāna/khandha classifications, and his argument that historically composite or borrowed elements can nevertheless acquire an intelligible and characteristic arrangement.
 
-A second notebook, **MS38_004_001_061_005**, is being processed in parallel; see the progress log for its current state (currently complete through PDF p. 75).
+A second notebook, **MS38_004_001_061_005**, is being processed in parallel; the canonical progress log now records completion through **PDF p. 105**, with pp. 106–120 remaining as the final batch. See [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) for the live batch-by-batch state.
 
 ## Lovejoy as Orientalist / comparative religion — live research sweep
 
