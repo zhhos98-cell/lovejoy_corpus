@@ -1,37 +1,50 @@
 # lovejoy_corpus
 
-Working corpus for Arthur O. Lovejoy research. The repository currently combines OCR/text sources, bibliographic/metadata harvests, a separate archival-transcription layer for manuscript notebooks, and research notes linking manuscript work to Lovejoy's publications.
+Working corpus for Arthur O. Lovejoy research. The repository combines OCR/text sources, bibliographic/metadata harvests, corrected archival transcriptions, and research notes linking manuscripts, training, publications, and reception.
 
 ## Manuscript transcription
 
-Notebook correction is proceeding in batches of 15–20 PDF pages, checked visually against the manuscript images rather than accepting OCR at face value. Uncertain readings remain explicitly marked.
-
 Current progress: see [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md).
 
-**MS38_004_001_061_004 — “Sankhya + Buddhism” is complete through PDF p. 71 (first-pass transcription).** Four corrected batches are stored under `archive_transcriptions/`:
+**MS38_004_001_061_004 — “Sankhya + Buddhism” is complete, 71/71 (first pass).** Four corrected batches are under `archive_transcriptions/`. The notebook has been cross-read against Lovejoy’s 1898 *Journal of the American Oriental Society* article, **“The Buddhistic Technical Terms upādāna and upādisesa.”** See [`research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`](research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md). Current judgment: the article is a sharply delimited publication extracted from a broader Sāṁkhya/Buddhism research notebook.
 
-- [`archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`](archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json)
-- [`archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json`](archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json)
-- [`archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`](archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json)
-- [`archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json`](archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json)
+**MS38_004_001_061_005 is also complete, 120/120 (first pass).** The complete notebook ranges across future life, death, Hebrew/Persian/Greek comparative material, totemism, sacrifice, blood, fetish/charm, magical efficacy, agricultural ritual, initiation, cannibalism, and transferable efficacy. A working manuscript→publication comparison with Lovejoy’s 1906 *Monist* article **“The Fundamental Concept of the Primitive Philosophy”** is active:
 
-The completed notebook has now been cross-read against Lovejoy's 1898 *Journal of the American Oriental Society* article, **“The Buddhistic Technical Terms upādāna and upādisesa.”** The comparison is recorded in [`research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`](research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md). Current conclusion: the article is a sharply delimited publication extracted from a broader Sāṁkhya/Buddhism research notebook; the strongest continuity lies in Lovejoy's treatment of upādāna/upādisesa, overlapping nidāna/khandha classifications, and his argument that historically composite or borrowed elements can nevertheless acquire an intelligible and characteristic arrangement.
+- [`research_notes/MS38_004_001_061_005_vs_1906_Primitive_Philosophy_working_comparison.md`](research_notes/MS38_004_001_061_005_vs_1906_Primitive_Philosophy_working_comparison.md)
+- [`research_notes/MS38_004_001_061_005_vs_1906_addendum_after_complete_notebook.md`](research_notes/MS38_004_001_061_005_vs_1906_addendum_after_complete_notebook.md)
 
-A second notebook, **MS38_004_001_061_005**, is being processed in parallel; the canonical progress log now records completion through **PDF p. 105**, with pp. 106–120 remaining as the final batch. See [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) for the live batch-by-batch state.
-
-A second manuscript→publication relationship is now under active test: **005 → Lovejoy's 1906 “The Fundamental Concept of the Primitive Philosophy.”** Corrected pp. 76–105 distinguish personal/spiritual agency from intrinsic magical efficacy and p. 105 explicitly calls one sacrificial mechanism **“quasi-mechanical and magical rather than sacramental,”** strikingly close to the 1906 paper's independently documented “quasi-mechanical” theory of primitive power. This remains a strong working hypothesis until the full 1906 primary text is ingested and concorded. See [`research_notes/MS38_004_001_061_005_vs_1906_Primitive_Philosophy_working_comparison.md`](research_notes/MS38_004_001_061_005_vs_1906_Primitive_Philosophy_working_comparison.md).
+The strongest manuscript bridge is p.105, where Lovejoy calls one mechanism **“quasi-mechanical and magical rather than sacramental.”** The final pp.106–119 reinforce classification by mechanism: propitiation versus communion, initiation versus sacrifice, sympathetic/transferable efficacy versus sacramental cannibalism, and a synthetic conclusion that alimentary and expiatory/propitiatory sacrifice are common while sacramental union is comparatively exceptional. A direct draft relationship to the 1906 paper remains a strong hypothesis pending ingestion of the full primary article and an exact concordance.
 
 ## Lovejoy as Orientalist / comparative religion — live research sweep
 
-A whole-web research stream is active, with evidence separated into primary works, archival/institutional context, reception, and inference:
+A whole-web research stream is active. Evidence is separated into primary works, archival/institutional evidence, reception, and inference.
 
-- live narrative log: [`research_notes/lovejoy_as_orientalist_web_sweep.md`](research_notes/lovejoy_as_orientalist_web_sweep.md)
-- structured source/evidence register: [`research_notes/lovejoy_orientalist_source_register.csv`](research_notes/lovejoy_orientalist_source_register.csv)
-- web sweep batch 02 (1906 / notebook 005 / reception): [`research_notes/lovejoy_as_orientalist_web_sweep_batch02_1906_and_005.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch02_1906_and_005.md)
+- master live log: [`research_notes/lovejoy_as_orientalist_web_sweep.md`](research_notes/lovejoy_as_orientalist_web_sweep.md)
+- structured source register: [`research_notes/lovejoy_orientalist_source_register.csv`](research_notes/lovejoy_orientalist_source_register.csv)
+- batch 02, 1906 / notebook 005 / reception: [`research_notes/lovejoy_as_orientalist_web_sweep_batch02_1906_and_005.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch02_1906_and_005.md)
+- batch 03, Harvard training: [`research_notes/lovejoy_as_orientalist_web_sweep_batch03_harvard_training.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch03_harvard_training.md)
+- Harvard training dossier: [`research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`](research_notes/lovejoy_harvard_orientalist_training_1895_1898.md)
 
-Current provisional shape: a direct Buddhist/Indic specialist episode in the late 1890s–1901; a likely transformation into comparative religion by 1906; and later Asian/Near Eastern material re-entering the mature history-of-ideas program through Chinese transmission research and collaboration with area specialists such as William F. Albright and Paul-Émile Dumont. A particularly important formation lead is the Harvard context: during Lovejoy's graduate residence, Charles Rockwell Lanman led Sanskrit/Indo-Iranian studies, Henry Clarke Warren's *Buddhism in Translations* appeared in the Harvard Oriental Series (1896), and Lanman publicly lectured on Buddhism, Sāṁkhya/Vedānta, Sanskrit and Pāli in April 1896. Direct Lovejoy enrollment/attendance/contact is not yet proved.
+### Major evidentiary upgrade: Harvard training is confirmed
 
-The second web batch adds another potentially important sequence: notebook 005's analyses of fetish/charm, blood and transferable efficacy, natural/supernatural causation, and quasi-mechanical magical action converge closely with the published 1906 theory later called **“primitive energetics.”** The 1906 paper also had a broader reception than the 1898 Buddhist article: James H. Leuba discussed it by 1912, and C. G. Jung later cited Lovejoy repeatedly in treatments of `mana` and primitive energy. The full 1906 article is public domain and preserved in *The Monist* vol. 16 through HathiTrust / Internet Archive Scholar; locating and ingesting the current scan is the next primary-source priority.
+The previous caution that Lovejoy’s direct link to Charles Rockwell Lanman was unproved is superseded. Daniel J. Wilson’s biography, citing a **Harvard University Archives list of courses taken by Lovejoy**, the *Harvard University Catalogue* 1896–97 (pp.73, 75, 99), and Lovejoy’s October 1896 letters, states that Lovejoy:
+
+- studied **Sanskrit and some sacred Buddhist texts under Charles R. Lanman**;
+- took **comparative religion with Charles C. Everett**, covering Vedic religion, Hinduism, Buddhism, Mazdaism, and Chinese religions;
+- studied **Hebrew religion under Crawford H. Toy**;
+- also took Everett’s course on the psychological basis of religious faith.
+
+This makes “Lovejoy as Orientalist” a documented formation and early scholarly practice, not an inference from a single 1898 publication. The remaining linguistic question is narrower: whether Lovejoy had separately designated formal **Pāli** instruction and how independently he read Pāli texts.
+
+Harvard institutional sources independently confirm Lanman’s Sanskrit professorship, his Harvard Oriental Series work with Henry Clarke Warren, and the 1896 public Buddhism lectures whose syllabus covered Buddhism’s relation to Vedism/Brahmanism, Sāṁkhya/Vedānta, Sanskrit/Pāli sources, the Tipiṭaka, and the Pali Text Society. Lovejoy’s attendance at those particular public lectures remains unproved, but he was by then a documented student of Lanman.
+
+### Current provisional career shape
+
+1. **1895–1901: direct Orientalist/comparative-religion formation and practice** — Everett/Toy/Lanman coursework; Sanskrit and Buddhist texts; notebook 004; 1898 JAOS Buddhist philology; 1901 “Philosophy of Buddhism” lectures.
+2. **c.1901–1906: comparative-religion transformation** — notebook 005 and the emerging problem of causal efficacy / “primitive philosophy.”
+3. **1930s: distributed/global history of ideas** — Chinese transmission as a historical problem and collaboration with area specialists such as William F. Albright and Paul-Émile Dumont in the primitivism project.
+
+The working thesis is that Orientalist philology was not merely an abandoned youthful curiosity. It appears to have been an early laboratory for operations later redistributed into comparative religion and history of ideas: decomposition of systems, semantic discrimination, historical layering, borrowing without identity, and reconstruction of intelligible arrangements.
 
 ## Data-layer rule
 
