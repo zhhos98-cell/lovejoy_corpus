@@ -7,11 +7,23 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_004 — “Sankhya + Buddhism”
 
 - Source PDF: 71 pages.
-- Completed: PDF pp. 1–36.
+- Completed: PDF pp. 1–54.
 - GitHub batches:
   - `archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`
   - `archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json`
-- Next batch if resumed: PDF pp. 37–54.
+  - `archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`
+- Batch 3 manuscript page labels: 107, 109, 111, 113, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147.
+- Next batch: PDF pp. 55–71 (final 17 pages).
+- Batch 3 uncertainties are concentrated in Pali/Sanskrit technical spellings, compressed bibliographic citations, the 52-item saṅkhāra list, and pp. 48/53–54 etymological notes. These remain explicitly provisional rather than silently normalized.
+
+### Source-derived topics in pp. 37–54
+
+- The notebook moves from dependent origination into the five khandhas as an overlapping classificatory system and diagrams relations among `nāmarūpa`, `rūpa`, `vedanā`, `saññā`, `saṅkhāra`, and `viññāṇa`.
+- Lovejoy treats the saṅkhāras as a heterogeneous psychological catalogue and uses the *Milindapañha* soul/window analogy against a substantial inner self.
+- `Upādāna` / `upadhi` become a philological and structural problem: clinging, substratum/support, fuel, and collective designation are compared across sources.
+- He explicitly rejects the claim that the nidāna series is merely accidental: its elements may be composite and heterogeneous, but he thinks a technical system of arrangement is still recoverable.
+- `Avijjā` and `saṅkhāra` are traced beyond Buddhism toward Upanishadic and Sāṁkhya-Yoga conceptual backgrounds, with explicit caution about inferring direct borrowing.
+- The final pages connect karma, rebirth, khandha dissolution, upādāna/upadhi, and `āsava` terminology through etymological notes on support, clinging, and “flowing.”
 
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
