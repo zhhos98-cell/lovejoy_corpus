@@ -1,134 +1,185 @@
 # MS38_004_001_061_005 vs. Lovejoy’s 1906 “The Fundamental Concept of the Primitive Philosophy”
 
-Status: **working comparison; strong lead, not yet final proof of direct draft relationship**  
-Created: 2026-08-18  
-Primary manuscript basis currently compared: corrected pp. 76–105 of `MS38_004_001_061_005` plus the canonical progress summaries for earlier pages.  
+Status: **primary article recovered; strong manuscript→publication continuity established at the level of concepts, mechanisms, vocabulary, and source ecology; direct draft relationship still unproved**  
+Updated: 2026-08-18  
+Manuscript: `MS38_004_001_061_005`, 120/120 first-pass complete, with a Paris 1898–99 Marillier/EPHE core and documented reuse at least to `Hist. Relig. — Dec. 20, 1905`.  
 Published article: Arthur O. Lovejoy, “The Fundamental Concept of the Primitive Philosophy,” *The Monist* 16.3 (July 1906), 357–382.
 
-## Evidentiary rule
+## Evidentiary upgrade
 
-The 1906 article’s bibliographic identity and pagination are confirmed by Oxford Academic. The early *Monist* run is public domain and is independently listed as freely preserved by Internet Archive/HathiTrust, but a clean primary full-text copy of Lovejoy’s article has **not yet been ingested into this repository**. Exact published phrases below are therefore used only where they are independently reproduced by Daniel J. Wilson’s annotated bibliography, a detailed modern history of the category `mana`, or later writers explicitly citing Lovejoy’s page numbers. A full manuscript-to-publication concordance must wait until the primary 1906 text is captured and OCRed.
+A complete 26-page scan/PDF of the 1906 article has now been recovered in the project File Library (`monist190616324.pdf`). The comparison therefore no longer depends on Wilson, Jung, or later histories of `mana` for the article’s argument. The published text can be read directly against corrected notebook 005.
 
-## Why the relationship now looks serious
+This changes the status of the relationship substantially. The strongest claim is no longer merely that 005 “resembles” a later theory of primitive energetics. The notebook and paper share a distinctive analytical architecture:
 
-Notebook 005 is not simply a collection of sacrifice notes. By pp. 76–105 it repeatedly turns sacrifice, blood, fetish/charm, magical efficacy, vegetation spirits, first-fruits, and ritual classification into a problem of **causal efficacy**. Lovejoy separates outwardly similar rites according to the kind of mechanism they presuppose and repeatedly warns against collapsing different historical motives into one scheme.
+1. distinguish **personal/spiritual agency** from **impersonal or quasi-mechanical efficacy**;
+2. classify rites by **causal mechanism rather than outward form**;
+3. treat power/life as **transferable, localizable, manipulable and sometimes intrinsic to objects/materials**;
+4. refuse a sharp magic/religion boundary when the same causal conception operates in both;
+5. reject over-unified anthropomorphic or sacramental interpretations of heterogeneous evidence;
+6. reconstruct a connected conceptual logic from scattered ethnographic data.
 
-The 1906 article, as independently summarized and quoted, makes causality/efficacy the central issue in “primitive philosophy.” Rather than defining early religion principally as a set of personal relations to spirits or gods, Lovejoy argues for a more general conception of transferable/controllable power and proposes “primitive energetics” or “manitouism” as the better description. Later scholarship reproduces his characterization of this power as “impersonal, quasi mechanical … and communicable,” working according to “quite regular and intelligible laws.”
+The remaining caution concerns production history: 005 is a longitudinal notebook, and not every page has been independently dated. It is therefore still premature to call the whole book “the draft” of the 1906 paper.
 
-This is close enough to notebook 005 that a direct preparatory relationship is now a high-priority hypothesis.
+## What the 1906 article actually says
 
-## Manuscript → published-problem correspondences
+### 1. The target is the anthropomorphic/animist master theory
 
-### 1. `quasi-mechanical` is already in notebook 005
+The article opens against Brinton, Guyau, Tylor and the Spencer/Grant Allen line. Lovejoy accepts that anthropomorphism and dealings with spirits are real features of early religion, but argues that they have been made too fundamental. The standard picture reduces primitive religion to transactions between persons: propitiation, entreaty, bargain, alliance, friendship or cajolery.
 
-Corrected PDF p. 105 says that a proposed agrarian sacrifice of the plant-soul to itself would be **“quasi-mechanical and magical rather than sacramental”**: the rite is not yet directed to the plant as a personal deity. Only at a later stage could sacrifice become sacramental sacrifice of a divine representative.
+### 2. The alternative is explicitly called a more fundamental `category`
 
-Published 1906, according to Wilson’s synopsis and later source-critical scholarship, characterizes the relevant primitive relation to power as **quasi-mechanical**, in contrast to the desire to establish friendly personal relations with supernatural beings.
+On p.359 Lovejoy says that behind anthropomorphism lies a category more fundamental than personality: an idea of causation that is **impersonal and quasi-mechanical**. He summarizes it as a diffused and interconnected energy or vital force present in persons and things in different quantities.
 
-This is the strongest lexical bridge located so far. It is not a generic resemblance: the same contrast between a quasi-mechanical causal mechanism and a personal/sacramental relation structures both the notebook and the published argument.
+On pp.359–360 he specifies that this energy:
 
-### 2. Intrinsic efficacy vs. indwelling spirit
+- is localized in persons and natural objects in varying degrees;
+- is revealed by unusual power, ability or productivity;
+- can be transferred from one person or thing to another;
+- can be controlled, regulated or insulated by devices often mechanical in character;
+- can pass through contact without either party’s volition;
+- is the object of rites whose practical function is its manipulation.
 
-Notebook pp. 88–90 distinguishes **fetish** from **charm/amulet**:
+This is the conceptual core against which 005 must be compared.
 
-- a fetish works because a spirit is believed to inhabit or be present in the object;
-- a charm/amulet, plant, drug, stone, blood, body part, etc. may be credited with efficacy **intrinsic to the thing**, without a spiritualistic explanation.
+### 3. He explicitly wants to make scattered practices `connectedly intelligible`
 
-The notebook explicitly says that for the conceptual world Lovejoy reconstructs, medicinal, magical, natural, and supernatural efficacy are not cleanly separated categories.
+Lovejoy concedes that the reconstructed propositions look more abstract and coherent than anything his actors would formulate. His answer is methodological: the consistency must be inferred from language and custom. On pp.359–361 he insists that the apparently contradictory collection of practices is not mere haphazard superstition; it has a logic that can be unraveled, and the fundamental conception makes diverse customs **connectedly intelligible**.
 
-The 1906 argument similarly attacks an overly animistic/anthropomorphic account of “primitive” thought and shifts attention toward **efficacy/power itself**. A modern history of `mana` quotes Lovejoy’s p. 380 formula that `mana` denotes “the efficacious, the powerful, the productive,” not merely the unusual or “supernormal.”
+This matters for the history-of-ideas genealogy. The 1906 paper is not only about `mana`; it is an exercise in analytical reconstruction of a latent category from heterogeneous historical/ethnographic evidence.
 
-The analytical move is the same: do not infer a personal spirit whenever an object is thought to work; first ask what causal efficacy is attributed to it.
+### 4. Magic and religion cannot be sharply divided
 
-### 3. Blood and body parts as transferable power
+On p.361 Lovejoy directly disputes Frazer’s sharp magic/religion distinction. The conception of **diffusive and transferable life-energy** determines practices conventionally classified as religious as well as those classified as magical. The dominant concern is not principally friendship with supernatural persons but establishing well-adjusted, quasi-mechanical relations with sources of supernatural energy.
 
-Notebook pp. 84–87 treats blood, flesh, bones, eyes and other bodily parts as capable of direct protective, curative, rejuvenating, life-giving or transferable efficacy. Lovejoy repeatedly separates this mechanism from sacramental communion and sometimes from sacrifice proper.
+### 5. The paper is deliberately lexical/philological
 
-The 1906 article’s larger category of transferable/communicable power would provide a theoretical umbrella for exactly this class of notebook evidence. Later readers such as Jung cite Lovejoy’s pp. 363–365 precisely for the idea of an all-pervasive, manipulable and transferable life-energy/power.
+From p.362 onward the first installment asks whether different peoples possess words for a universal, impersonal, communicable energy. Lovejoy organizes the evidence under North Americans, Oceania, and Bantu languages and warns that ethnographers often mistranslate terms meaning power/energy as “god” or “spirit.”
 
-This does not by itself prove the notebook was drafted for the 1906 article, but it shows the manuscript evidence is already organized around the published article’s core causal vocabulary.
+For North America he treats `manitou`, `oki`, and `wakonda` as words approximating abstract “power” or “productive energy.” He cites McGee and Alice Fletcher; Fletcher’s Omaha work gives him a model of a common immanent life/directive energy underlying totemic efficacy.
 
-### 4. Form of ritual ≠ mechanism
+The Bantu section similarly investigates terms conventionally rendered as deity/spirit and asks whether their central meaning is instead a property/power inhering in beings and things. This lexical strategy is an important continuation of Lovejoy’s earlier Buddhist technical-term work, even though the source languages and disciplinary setting are very different.
 
-Throughout notebook 005 Lovejoy insists that one visible practice can have different historical/causal explanations:
+## Direct concordances with notebook 005
 
-- human sacrifice may provision the dead, send a messenger, substitute one life for another, protect a foundation, transfer vitality, fertilize crops, or bind/control a spirit;
-- an offering may be alimentary, propitiatory, magical, funerary, expiatory, mystical, or fecundative;
-- first-fruit ceremonies may be purification/taboo rather than sacrifice;
-- apparent communion should not be inferred from shared blood or shared food without evidence;
-- present ritual complexes can contain elements with different histories.
+### A. `quasi-mechanical` is not merely a retrospective similarity
 
-The 1906 paper likewise emerges, on present evidence, as a critique of category mistakes: anthropologists had made “primitive religion” too uniformly anthropomorphic/supernatural. Lovejoy instead isolates a causal conception that may underlie practices later classified as religion, magic, or quasi-natural technique.
+Notebook p.105:
 
-This suggests continuity at the level of **decomposition by mechanism**, not merely shared ethnographic examples.
+> a proposed agrarian sacrifice of the plant-soul to itself would be **“quasi-mechanical and magical rather than sacramental”**; it is not yet directed to the plant as a personal deity.
 
-### 5. Natural / supernatural boundary
+Published 1906 pp.359–361:
 
-Notebook pp. 88–90 explicitly blurs the modern opposition between natural and supernatural efficacy: a plant can be credited with wealth-producing power in much the same conceptual way another plant is credited with medicinal effect. The point is not that Lovejoy accepts the efficacy, but that the native classification need not coincide with a modern nature/supernature division.
+- the fundamental category of causation is `impersonal and quasi-mechanical`;
+- practical religious concern centers on `quasi-mechanical relations` with supernatural energy rather than primarily personal relations with supernatural beings.
 
-The 1906 paper, according to later detailed analysis, criticizes R. R. Marett’s interpretation of `mana` as essentially the “supernormal.” Lovejoy argues instead that such power is mysterious because it is efficacious/powerful, not because it violates a primitive expectation of “nature.”
+The lexical and structural overlap is exceptionally close. We cannot yet date p.105 independently to 1905, but the same physical notebook is demonstrably still active in December 1905.
 
-This is another close structural bridge.
+### B. Notebook p.64 already opposes personal gods to direct action on forces
 
-### 6. Historical decomposition remains active
+Corrected p.64 describes **magical sacrifice “in a sort of machine”** and immediately distinguishes another class in which the rite does not act by constraining the wills of gods at all but **directly upon forces of nature**. If rain is wanted, an imitative act is expected to produce it because of an underlying unity in nature.
 
-Notebook 005 repeatedly decomposes rituals historically:
+This is a remarkably close conceptual precursor to the published opposition between conscious/personal causation and impersonal/quasi-mechanical causal efficacy.
 
-- local nature divinities, dead chiefs, ancestors and tribal gods may later be identified without having one origin;
-- annual/communal sacrifice may be a later reorganization of older funerary, alimentary, local or borrowed practices;
-- human vs. animal victims do not form a safe evolutionary index;
-- agriculture can precede domestication, undermining simple stadial schemes;
-- plant spirits need not have begun anthropomorphically.
+### C. Fetish vs charm/amulet becomes the published attack on animism
 
-This matters because the 1906 paper should not be read only as a theory of `mana`. The notebook suggests Lovejoy reached the theory by **negative comparative work**: stripping away false genealogies, over-unified categories, and premature anthropomorphism until a more elementary causal concept remained.
+Notebook pp.88–90:
 
-## What is already strong enough to say
+- a fetish works because a spirit inhabits/is present in it;
+- a charm/amulet, plant, stone, drug, blood or other object may have efficacy **intrinsic to the object**, with no spiritualistic idea required;
+- medicinal, magical, natural and supernatural efficacy are not sharply separated in the reconstructed conceptual world.
 
-A defensible provisional formulation is:
+Published 1906 begins precisely by denying that belief in efficacy should automatically be translated into an indwelling spirit or personal agent. The article’s lexical program asks whether the supposed “god/spirit” terms instead denote power/energy.
 
-> Notebook 005 appears to preserve the empirical and classificatory laboratory from which Lovejoy’s 1906 theory of a “primitive” conception of efficacy/power could emerge. By pp. 76–105 the notebook already distinguishes personal/spiritual agency from intrinsic or quasi-mechanical efficacy, treats magical power as transferable through blood and objects, and refuses a sharp native boundary between natural and supernatural causation. These are central features independently attributed to Lovejoy’s published 1906 argument.
+### D. Blood/body parts as direct transferable efficacy
+
+Notebook pp.84–90:
+
+- blood, flesh, bones, eyes and other body parts have protective, curative, rejuvenating or transferable power;
+- blood can operate as a charm and can protect a house directly;
+- bodily parts can convey the qualities of the dead;
+- the mechanism need not be communion or spirit possession.
+
+Notebook p.119 makes the transfer rule explicit: head/brain → intelligence; heart → courage/life; sexual organs → sexual power.
+
+Published 1906 defines the central energy precisely as something transferable between persons and things and treats the chief practical problem as obtaining, conserving, transmitting and insulating it.
+
+### E. Agricultural/fecundative evidence converges strongly
+
+Notebook pp.98–105 repeatedly treats agricultural ritual through **blood/life transfer** rather than assuming communion with a personal vegetation deity. The Pawnee and American/Mexican planting material is used to ask how life or power is conveyed to crops; p.105 culminates in the quasi-mechanical/sacramental distinction.
+
+The 1906 North-American section uses totemic/agricultural examples to clarify the same conception of common life/directive energy. Even where the exact examples differ, the causal interpretation is the same research problem.
+
+### F. Sacramental union is demoted in both manuscript and article
+
+Notebook p.117 reaches a synthetic conclusion: alimentary and expiatory/propitiatory sacrifice are frequent, while **sacramental union is comparatively exceptional**. Across pp.46–119 Lovejoy repeatedly refuses to infer communion from shared food, blood, body parts, cannibalism, or ritual killing.
+
+Published 1906 similarly demotes the model of religion as fundamentally a personal/social relation to supernatural beings and rejects a categorical division in which magic is mechanical while religion is personal. The same evidence can be religious and yet organized by impersonal life-energy.
+
+### G. Frazer is a common explicit foil
+
+Notebook 005 repeatedly uses Frazer but resists forcing heterogeneous rites into a single developmental or communion model. Published p.361 explicitly names Frazer as a theorist whose sharp magic/religion distinction cannot be sustained.
+
+This is stronger than a shared bibliography: the **direction of criticism** converges.
+
+### H. Source ecology overlaps
+
+The manuscript source world and the 1906 paper overlap in important ways:
+
+- **Brinton** appears in 005 bibliography/notes and opens the 1906 critique (although the exact Brinton work differs in the securely transcribed notebook reference);
+- **Codrington / Melanesian material** is already present in the opening bibliography of 005 and becomes central to the Oceanic/mana discussion in 1906;
+- **Bantu/southern African ethnography** is a major 005 archive and becomes one of the paper’s three lexical comparison zones;
+- North-American/Pawnee/Dakota material appears throughout 005 and is the first major regional section of the published paper.
+
+A precise authority-by-authority concordance is the next step, because some 005 source names remain paleographically uncertain.
+
+## What the full primary text changes about the production model
+
+The relationship now looks less like a vague thematic afterlife and more like a **process of theoretical compression**.
+
+005 accumulates and classifies a very large range of cases: future life, sacrifice, blood, totemism, charms, fetish, agriculture, initiation, anthropophagy, spirits and ancestor cult. Its typical operation is negative and classificatory: do not infer the mechanism from the visible form; separate propitiation, communion, magic, provision, status, social incorporation, transferable power, and later reinterpretation.
+
+The 1906 paper then extracts one transversal causal principle from that archive: **impersonal, diffusive, transferable life-energy**. It explicitly says that it is not adding new ethnographic data so much as correlating familiar data and bringing out their significance. That self-description fits remarkably well with the function of 005 as an empirical/classificatory dossier.
+
+A defensible current formulation is:
+
+> **Notebook 005 preserves a longitudinal empirical and classificatory laboratory, beginning in Lovejoy’s Marillier/EPHE comparative-religion work in 1898–99 and demonstrably still in use in 1905, out of which the 1906 paper isolates and systematizes one cross-cutting causal category: impersonal, transferable, quasi-mechanical efficacy or life-energy.**
+
+This is stronger than saying that the manuscript and article merely share topics. It is still weaker than saying that every section of 005 was written expressly as a draft for the article.
 
 ## What remains unproved
 
-We should **not yet** write:
+Do not yet write:
 
-- “005 is the draft of the 1906 article.”
-- “Every sacrifice section was written for the 1906 article.”
-- “Lovejoy derived primitive energetics directly from these specific notebook pages.”
+- “005 is the draft manuscript of the 1906 article.”
+- “p.105 was written in 1905.”
+- “all sacrificial material in 005 was collected for `Primitive Philosophy`.”
+- “Lovejoy derived the idea solely from Marillier.”
 
-To prove the direct production relationship we need at least one of:
+To establish a direct documentary production chain we still want:
 
-1. the full primary 1906 text and a page-by-page source/phrase concordance;
-2. a notebook date or archival envelope/title linking 005 to the article;
-3. overlap in exact ethnographic sources, examples, distinctive wording, or sequence of argument;
-4. a surviving article draft/typescript in MS-0038.
+1. page-by-page chronological stratigraphy of 005;
+2. an article draft/typescript or notes explicitly titled `Primitive Philosophy` / `mana` / `manitou` in MS-0038;
+3. exact source/example concordance between the paper and 005, especially North America, Codrington/Oceania and Bantu authorities;
+4. Washington University course/bulletin evidence explaining `Hist. Relig. — Dec. 20, 1905`.
 
-## Primary 1906 retrieval status
+## Wider methodological significance
 
-Confirmed:
+The full paper also strengthens the broader “before unit-ideas” thesis. In 1906 Lovejoy’s own vocabulary already includes:
 
-- Oxford Academic: *The Monist* 16.3, 1 July 1906, pp. 357–382, Washington University affiliation, DOI `10.5840/monist190616324`.
-- The Online Books Page / Wikisource / ISSN Keepers Registry independently establish that *The Monist* vol. 16 (1906) is public domain and preserved by Internet Archive/HathiTrust; the ISSN registry specifically lists Internet Archive Scholar collection `pub_monist` as unrestricted for 1890–1969 and HathiTrust holding v.16 (1906).
-- The old Wikisource IA link for volume 16 resolves to a dead/404 identifier (`monistquart16hegeuoft`), so a different IA Scholar/Hathi object must be located.
+- a fundamental **category** behind more visible doctrines;
+- apparently heterogeneous evidence possessing a recoverable **logic**;
+- the task of making diverse facts **connectedly intelligible**;
+- correlation of familiar data rather than treating inherited ethnographic labels as self-explanatory;
+- a distinction between surface anthropomorphic interpretation and a deeper causal presupposition.
 
-Not yet obtained:
+This should be compared with the 1902 *Religion and the Time-Process*, where Lovejoy already traced categories, presuppositions and logical motives across systems, and with the 1898 Buddhist paper/notebook 004, where heterogeneous borrowed terms are decomposed and their arrangement reconstructed.
 
-- clean scan/OCR of pp. 357–382.
-
-## Reception discovered during this comparison
-
-The 1906 paper had a disciplinary afterlife substantially larger than the 1898 Buddhist article’s visibility outside Buddhist Studies:
-
-- James H. Leuba, *A Psychological Study of Religion* (1912), discusses Lovejoy’s criticism of Marett, quotes the “regular and intelligible laws” formulation, and names his proposal “Primitive Energetics.”
-- C. G. Jung cites Lovejoy repeatedly in his discussions of `mana`/primitive energy; later editions of Jung reproduce Lovejoy page references (especially pp. 361, 363, 365, 380ff.). Jung partly adopts the energetic interpretation while criticizing the modern abstraction implied by calling it a “concept.”
-- A modern history of the category `mana` treats Lovejoy’s 1906 paper as a significant intervention between animist/supernaturalist accounts and later theories of mana as impersonal causality/power.
-
-This reception makes 1906 a major node for the broader “Lovejoy as comparative religion / Orientalism-adjacent thinker” project, not a marginal publication.
+The responsible historical claim is continuity of analytical **operations**, not that the mature `unit-idea` doctrine already existed in 1906.
 
 ## Next actions
 
-1. Obtain primary OCR/scan of *Monist* 16 (1906), pp. 357–382 from HathiTrust or the current Internet Archive Scholar `pub_monist` collection.
-2. Extract every named ethnographic authority and native term in the 1906 article.
-3. Cross-match against corrected notebook 005, especially pp. 61–105 and final pp. 106–120.
-4. Search MS-0038 writings/drafts for the article title, `Primitive Philosophy`, `mana`, `manitou`, `wakonda`, `orenda`, `mulungu`, `Marett`, `Codrington`.
-5. Once pp. 106–120 of 005 are corrected, reassess whether the notebook’s ending converges even more directly on the published thesis.
+1. Build an authority/term concordance for the full 1906 paper: Brinton, Tylor, Guyau, Frazer, McGee, Fletcher, Codrington, Bantu sources, `manitou/oki/wakonda/mana/mulungu` and related terms.
+2. Search 005 again at image level for names obscured by handwriting/OCR, especially `Codrington`, Bantu vocabulary and North-American authorities.
+3. Search MS-0038 for article draft/title/keywords.
+4. Identify the Washington University `Hist. Relig.` course behind the 20 Dec. 1905 notebook page.
+5. Integrate the 1906 primary-text result into the master Orientalist chronology and README.
