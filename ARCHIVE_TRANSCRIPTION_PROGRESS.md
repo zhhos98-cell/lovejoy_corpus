@@ -7,11 +7,13 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_004 — “Sankhya + Buddhism”
 
 - Source PDF: 71 pages.
-- Completed: PDF pp. 1–18.
-- GitHub batch: `archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`
-- Manuscript page labels encountered in this batch: 5, 8, 9, 21, 23, 25, 43, 49, 51, 53, 55, 57, 59, 61, 63, 65.
-- Next batch if resumed: PDF pp. 19–36.
-- First-pass uncertainties retained rather than silently reconstructed: p. 7 opening quotation and one Pali/Sanskrit term; p. 8 bibliographic source; p. 12 source author/title; p. 15 heading for the 19–50 group; scattered abbreviated references.
+- Completed: PDF pp. 1–36.
+- GitHub batches:
+  - `archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`
+  - `archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json`
+- Batch 2 visible manuscript page labels: 67, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103. (The scan images are spreads, so the visible right-hand label is not a one-to-one PDF-page counter.)
+- Next batch if resumed: PDF pp. 37–54.
+- First-pass uncertainties remain explicitly marked rather than silently reconstructed. In batch 2 the most difficult passages are p. 20 on the interrelation of the nidanas, p. 27 lower-right nāmarūpa commentary, p. 29 Childers/viññāṇa commentary, p. 30 source details around avijjā, p. 31 the short “Relation to F. Truths” paragraph, and one analytical sentence on p. 32.
 
 ### Source-derived topics in pp. 1–18
 
@@ -21,6 +23,15 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - Lovejoy's chronological question about the priority/relationship of Sankhya and Buddhism.
 - Brahma-jala / Digha-Nikaya classification of sixty-two heresies.
 - Comparison of Sankhya dualism with early Buddhist formulations concerning self, world, soul/body, and future life.
+
+### Source-derived topics in pp. 19–36
+
+- Paticca-samuppada / dependent origination becomes the organizing problem: Lovejoy explicitly treats the twelve nidanas as the technical working-out of Buddhism’s general philosophical position.
+- The nidanas are decomposed term by term: birth, bhava, upadana, tanha, sensation, contact, ayatana, namarupa, consciousness, sankhara, and avijja.
+- PDF p. 27 contains a diagram mapping consciousness → namarupa → sense-organs → contact → sensation → desire across the six sensory channels.
+- Lovejoy repeatedly compares Warren, Childers, Oldenberg, Rhys Davids, Buddhaghosa, Hardy, and Hopkins rather than relying on a single authority; the notebook is visibly a comparative philological working apparatus.
+- He asks how the nidana chain relates to the Four Truths and whether direct/reverse causal order can substitute for their formulation.
+- Karma and the khandhas become a problem of continuity and identity: khandhas perish, karma carries causal continuity, and Nirvana raises the question of whether annihilation applies merely to the aggregates or to existence itself.
 
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
