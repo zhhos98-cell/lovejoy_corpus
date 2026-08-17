@@ -26,6 +26,7 @@ A whole-web research stream is active. Evidence is separated into primary works,
 - batch 04, Harvard public Orientalism / Vivekananda / Cambridge networks: [`research_notes/lovejoy_as_orientalist_web_sweep_batch04_harvard_public_orientalism.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch04_harvard_public_orientalism.md)
 - batch 05, Paris / Sylvain Lévi: [`research_notes/lovejoy_as_orientalist_web_sweep_batch05_paris_1898_1899.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch05_paris_1898_1899.md)
 - batch 06, 1933 China / mature transmission history: [`research_notes/lovejoy_as_orientalist_web_sweep_batch06_china_1933.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch06_china_1933.md)
+- batch 07, 1935 Albright/Dumont / distributed expertise: [`research_notes/lovejoy_as_orientalist_web_sweep_batch07_1935_distributed_expertise.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch07_1935_distributed_expertise.md)
 - Harvard training dossier: [`research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`](research_notes/lovejoy_harvard_orientalist_training_1895_1898.md)
 
 ### Major evidentiary upgrade: Harvard training is confirmed
@@ -56,6 +57,12 @@ The Cambridge Conferences provide a second public comparative-religion layer. Wi
 ### Mature China strand: a different kind of Orientalism
 
 The 1933 **“The Chinese Origin of a Romanticism”** is now being treated separately from the early Buddhist philology. Close reading of the expanded 1948 version shows that its source architecture is overwhelmingly European-language: Mendoza and early China reports, Jesuit writings and translations, *Confucius Sinarum philosophus*, Kircher, Leibniz, Fénelon, Wolff, Voltaire, Temple, Le Comte, Attiret, Chambers, and European garden/aesthetic literature. Lovejoy is reconstructing how a European **representation of China** travelled and became causal evidence in arguments for irregular landscape gardening and a Romantic aesthetic. At present this is best described as a history of cross-cultural transmission/representation, not direct Sinological philology. The 1933 JEGP original still needs exact comparison with the revised 1948 version.
+
+### 1935: Orientalist expertise becomes explicitly distributed
+
+The Preface to *Primitivism and Related Ideas in Antiquity* provides direct primary evidence for the mature collaboration model. Lovejoy and Boas say they are especially indebted to **W. F. Albright and P.-E. Dumont** for supplementary essays extending the history of primitivism into two regions not previously given special study. Albright writes on ancient Western Asia (Mesopotamia and Israel); Dumont writes on Indian literature through Vedic, epic, and Purāṇic sources. The division of linguistic/area competence is thus made visible in the book itself. Johns Hopkins ArchivesSpace also confirms Albright as a related person in the Lovejoy papers; exact project correspondence remains to be located.
+
+This matters because the mature Lovejoy should not be described as continuing to do all Orientalist philology personally. By 1935 he is also organizing a **division of scholarly labor**: history-of-ideas categories and documentary architecture at the center, specialist textual competence supplied by named collaborators.
 
 ### Current provisional career shape
 
