@@ -8,12 +8,14 @@ Notebook correction is proceeding in batches of 15–20 PDF pages, checked visua
 
 Current progress: see [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md).
 
-For **MS38_004_001_061_004 — “Sankhya + Buddhism”**, PDF pp. 1–36 are now corrected in two batches:
+**MS38_004_001_061_004 — “Sankhya + Buddhism” is now complete through PDF p. 71 (first-pass transcription).** Four corrected batches are stored under `archive_transcriptions/`:
 
 - [`archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`](archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json)
 - [`archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json`](archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json)
+- [`archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`](archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json)
+- [`archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json`](archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json)
 
-A second notebook, **MS38_004_001_061_005**, is also being processed separately; see the progress log for its current state.
+A second notebook, **MS38_004_001_061_005**, is being processed in parallel; see the progress log for its current state.
 
 ## Data-layer rule
 
