@@ -7,12 +7,24 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_004 — “Sankhya + Buddhism”
 
 - Source PDF: 71 pages.
-- Completed: PDF pp. 1–54.
+- Completed: PDF pp. 1–71.
+- Status: **complete first pass**.
 - GitHub batches:
   - `archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`
   - `archive_transcriptions/MS38_004_001_061_004_p019-036_clean.json`
   - `archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`
-- Next batch: PDF pp. 55–71 (final 17 pages).
+  - `archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json`
+- Final-batch visible manuscript page labels: 149, 151, 153, 157, 159, 161, 163, 165, 167, 169, 171, 173, 175, 177, 179, 181, 183.
+- Remaining work is second-pass verification only: explicitly marked low/medium-confidence French quotations, Pali/Sanskrit passages, and compressed bibliographic references. These have not been silently normalized.
+
+### Source-derived topics in pp. 55–71
+
+- Lovejoy explicitly maps the twelve nidānas onto the khandhas and compares Buddhist technical vocabulary with Sāṁkhya and Vedānta.
+- The notebook becomes an extended philological argument over `upādāna`, `upādhi`, `upādisesa`, and `anupādisesa`: attachment, residual impurity, physical aggregates, and causal rebirth are tested as rival meanings.
+- Nirvāṇa is separated from parinirvāṇa / extinction without residue. In one explicit summary Lovejoy writes that Nirvāṇa extinguishes the cause of rebirth and that the final Buddhist goal is absolute cessation of existence.
+- Against a purely physical reading, he argues that `upādisesa` / `anupādisesa` in several Sutta-Nipāta passages are ethical terms for residual impurity or freedom from attachment, not descriptions of whether the present skandhas survive.
+- The notebook closes with a historical-structural outline: **original elements** = flux / Three Characteristics + Dependent Origination; **derived elements** = theory of sense-perception + psychology + khandhas.
+- Saṁyutta-Nikāya passages on non-clinging to the khandhas reconnect the terminological analysis to the practical mechanism of liberation.
 
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
