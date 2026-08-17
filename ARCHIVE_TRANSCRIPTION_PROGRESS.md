@@ -15,6 +15,9 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
   - `archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`
   - `archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json`
 - Remaining work is second-pass verification only: explicitly marked low/medium-confidence French quotations, Pali/Sanskrit passages, and compressed bibliographic references.
+- **Published-paper cross-read completed:** `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`.
+- Direct formal counterpart identified: Arthur O. Lovejoy, “The Buddhistic Technical Terms upādāna and upādisesa,” *Journal of the American Oriental Society* 19 (1898), 126–136. Repository already contains a full-text HTML copy.
+- Current evidential judgment: later portions of the notebook are very likely preparatory or contemporaneous working notes for the 1898 paper, but exact notebook dating remains to be established; the whole notebook appears broader than the published article.
 
 ### Source-derived topics in pp. 55–71
 
@@ -22,6 +25,14 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - Extended analysis of `upādāna`, `upādhi`, `upādisesa`, and `anupādisesa`.
 - Nirvāṇa is separated from parinirvāṇa / extinction without residue.
 - Notebook closes with a historical-structural outline: original elements = flux / Three Characteristics + Dependent Origination; derived elements = theory of sense-perception + psychology + khandhas.
+
+### Notebook ↔ 1898 article: current result
+
+- The article directly publishes the notebook's late-stage `upādāna` / `upādisesa` problem and its Senart–Oldenberg–Childers–Rhys Davids source constellation.
+- Notebook work on overlapping nidāna/khandha taxonomies is compressed in print into a three-stage interpretation of dependent origination; the article explicitly rejects a strict temporal-sequence reading.
+- A central continuity is methodological: Lovejoy accepts that terms/ideas may be historically borrowed or composite while arguing that their arrangement can still be original, characteristic, and intelligible.
+- The notebook's final “original elements / derived elements” outline is not printed as such. Its first half survives strongly in the article's elevation of dependent origination + the Three Characteristics; much of the Sāṁkhya chronology, sensory psychology, and khandha taxonomy is omitted.
+- The article therefore looks like a sharply delimited extraction from a broader notebook project, not a transcription of the notebook as a whole.
 
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
