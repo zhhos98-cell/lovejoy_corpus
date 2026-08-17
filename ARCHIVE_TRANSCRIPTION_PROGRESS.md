@@ -37,15 +37,16 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
 - Source PDF: 120 pages.
-- Completed: PDF pp. 1–75.
+- Completed: PDF pp. 1–90.
 - GitHub batches:
   - `archive_transcriptions/MS38_004_001_061_005_p001-015_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p016-030_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p031-045_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p046-060_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p061-075_clean.json`
-- Batch 5 visible manuscript page labels: 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151.
-- Next batch: PDF pp. 76–90.
+  - `archive_transcriptions/MS38_004_001_061_005_p076-090_clean.json`
+- Batch 6 manuscript page labels: 153, 155, 157, 159, 161, 163, 165, 167, 171, 173, 175, 177, 179, 181, 183. (The visible sequence skips 169 in the scan organization; PDF p. 84 carries 171.)
+- Next batch: PDF pp. 91–105.
 - Correction policy: especially difficult ethnographic names, multilingual titles, and compressed source references remain provisional; where handwriting is too poor for diplomatic transcription, only source-supported argumentative structure is retained.
 
 ### Source-derived topics in pp. 1–15
@@ -81,3 +82,15 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - Southern-African bibliography and cases dominate the comparative apparatus, especially Callaway, Bleek, Hahn, Kolbe, Casalis, Livingstone, Cowper Rose, Lewis Grout, and related works; several titles remain provisional because of handwriting.
 - Destruction or burning of property at funerals is treated as a case of reinterpretation: a practice may begin as prevention of the dead's return and later be explained as releasing/transferring the object's spirit to the dead.
 - Offerings to dead chiefs often contain expected advantage or reciprocity, but Lovejoy also identifies loyalty to the deceased as a distinct motive that should not automatically be redescribed as propitiation or contract.
+
+### Source-derived topics in pp. 76–90
+
+- Human sacrifice can function as utilitarian communication with the dead: the victim may serve as a messenger rather than as the object of worship.
+- Zulu ancestral-sacrifice material (via Lewis Grout) is treated transactionally: illness, neglected ancestors, a demanded cow, and an explicit bargain for cure. Lovejoy separates this from unconditional gift and from mystical union.
+- Substitution/scapegoat mechanisms appear alongside alimentary and funerary sacrifice; the sacrificed cow can be asked to carry away illness or evil, while its skull/horns become protective or fetish objects.
+- Circumcision is analyzed as incorporation through blood. Shared shedding of blood creates fraternity/blood-brotherhood and admission into the tribal or paternal circle, with rights and responsibilities transmitted socially through the rite.
+- Foundation/building sacrifices and use of human flesh, bones, eyes, or blood as protective charms are repeatedly separated from sacramental communion. The victim's material remains can be credited with direct magical efficacy.
+- Blood is treated as life-giving, curative, rejuvenating, protective, and transferable; Lovejoy compares Trumbull and Strack and explicitly distinguishes magical use from medical effect or sacrifice proper.
+- A conceptual distinction emerges between fetish and charm/amulet. A fetish depends on an indwelling/present spirit; an amulet, plant, drug, stone, or body substance can be credited with efficacy intrinsic to the object.
+- Miss Kingsley's West-African material supports a broader point: for the conceptual world Lovejoy is reconstructing, medicinal, magical, natural, and supernatural efficacies are not sharply separated. Belladonna and mandragora can be treated as parallel kinds of efficacious things.
+- Human sacrifice can also be used to bind/control a spirit at a place, while blood sprinkled at houses during epidemic disease functions as a protective charm rather than necessarily as sacrifice.
