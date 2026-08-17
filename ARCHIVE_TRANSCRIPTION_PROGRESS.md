@@ -52,6 +52,8 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - Batch 7 physical structure: PDF p. 91 is manuscript p. 185; pp. 92–100 are a sequence of inserted slips over manuscript p. 187; regular notebook pagination resumes with pp. 101–104 at manuscript pp. 189, 191, 193, 195. The page label on PDF p. 105 is not visible.
 - Final batch: manuscript page labels are not securely visible in the scan, so none are inferred. PDF p. 119 contains a physically separate loose slip; p. 120 is back-leaf memorandum/scheduling material rather than continuation of the main argument.
 - Remaining work is second-pass verification only, concentrated in difficult ethnographic names, French/German titles, source-page numbers, and several low-confidence back-matter fragments.
+- **Chronology/provenance correction:** the notebook has a strong Paris 1898–99 core linked to Léon Marillier's EPHE conferences, but a second-pass visual check of **PDF p.44** reads **`Hist. Relig. — Dec. 20, 1905.`** This proves that the notebook was reused or extended years later. It must now be treated as a **composite longitudinal notebook spanning at least 1898–99 to 1905**, pending page-by-page stratigraphy.
+- The first-pass p.44 JSON still records the year as `1805 [or 1905?]`; this is now superseded at the research/progress level by the visual second pass and should be corrected in the archival JSON during the next controlled second-pass edit.
 
 ### Source-derived topics in pp. 1–15
 
@@ -68,6 +70,7 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 
 - Shift to totemism, clan/gens definitions, Hebrew eschatology, `nephesh` / `ruach`, blood and life, and Greek `psychē` / `thymos` comparisons.
 - Comparative outline spanning Old Testament, Greek primitive, New Testament/intermediate, Hellenistic-Roman, and Persian materials.
+- PDF p.44 contains the now-resolved heading **`Hist. Relig. — Dec. 20, 1905`**, followed by an outline continuing primitive religion, Old Testament material, `psychē`, `nephesh/ruach`, ancestor worship, and totemism.
 
 ### Source-derived topics in pp. 46–60
 
