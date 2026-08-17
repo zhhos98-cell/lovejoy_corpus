@@ -16,13 +16,14 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
 - Source PDF: 120 pages.
-- Completed: PDF pp. 1–30.
+- Completed: PDF pp. 1–45.
 - GitHub batches:
   - `archive_transcriptions/MS38_004_001_061_005_p001-015_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p016-030_clean.json`
-- Batch 2 visible manuscript labels: 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55; pp. 29–30 contain inserted slips over manuscript p. 55.
-- Next batch: PDF pp. 31–45.
-- Correction policy: preserve readable argumentative structure and source names; uncertain ethnographic names and abbreviated bibliography remain explicitly provisional rather than silently normalized.
+  - `archive_transcriptions/MS38_004_001_061_005_p031-045_clean.json`
+- Batch 3 remains physically irregular: pp. 31–36 are inserted/overlaid leaves on manuscript p. 57; pp. 42–43 also contain loose slips. These are marked as inserted notes rather than normalized into false pagination.
+- Next batch: PDF pp. 46–60.
+- Correction policy: preserve readable argumentative structure and source names; uncertain ethnographic, biblical, Greek, and bibliographic details remain explicitly provisional rather than silently normalized.
 
 ### Source-derived topics in pp. 1–15
 
@@ -40,4 +41,12 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - A universally happy afterlife can still be naturalistic: it is an intensified continuation of this world with death removed, not necessarily a reward for virtue.
 - Lovejoy sketches differentiation of destinations and preliminary places of trial as machinery through which moral eschatology can emerge.
 - Soul conceptions remain strongly corporeal/functional in many examples; pp. 29–30 introduce Madagascar/Hova material and a limited future life ending in a “second death” or annihilation.
-- Comparative references include Pawnee, Cheyenne, Australian, New South Wales, Madagascar/Hova materials; several proper names and citations remain provisional because of handwriting.
+
+### Source-derived topics in pp. 31–45
+
+- The inserted leaves continue the problem of ranked/social differentiation among the dead, including persistence of status and ethnographic examples of unequal post-mortem conditions.
+- The notebook then shifts decisively to totemism: what classes of objects serve as totems, whether clan totems are treated as ancestors, kinship between human groups and animal groups, and metamorphosed culture-hero stories.
+- A substantial Hebrew eschatology section organizes evidence around the ignorance/feebleness of the dead, Sheol, the relation of the dead to Yahweh, and biblical uses of `nephesh` and `ruach`.
+- Lovejoy explicitly links blood and life (`nephesh`) and compares the semantic problem with Greek `psychē` / `thymos` notes on loose slips.
+- A comparative teaching/research outline spans Old Testament, Greek primitive, New Testament/intermediate, Hellenistic-Roman, and Persian materials.
+- By p. 45 the notebook is constructing a formal definition of clan/gens and clan or gentile totemism in terms of common name/emblem, claimed descent, shared customs/religious observances, and consanguinity.
