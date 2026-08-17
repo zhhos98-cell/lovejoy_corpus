@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0-lovejoy-archive-transcription",
+  "source_id": "MS38_004_001_061_004",
+  "source_description": "Arthur O. Lovejoy notebook labelled “Sankhya + Buddhism”",
+  "source_pdf_filename": "MS38_004_001_061_004.pdf",
+  "source_pdf_sha256": "1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f",
+  "source_ocr_filename": "MS38_004_001_061_004.pdf_by_PaddleOCR-VL-1.6.json",
+  "source_ocr_sha256": "e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84",
+  "batch": {
+    "batch_id": "p001-018",
+    "pdf_pages": [1, 18],
+    "page_count": 18,
+    "created_at": "2026-08-17T21:41:00+08:00",
+    "method": "Manual visual correction against rendered PDF pages, using PaddleOCR-VL output only as a scaffold.",
+    "policy": [
+      "Preserve Lovejoy’s abbreviations where readable (e.g. F., A., wh., w., tr.).",
+      "Normalize paragraph line breaks and obvious OCR character confusions.",
+      "Do not silently reconstruct illegible handwriting; mark [illegible], [?], or explain in uncertain_readings.",
+      "Sanskrit/Pali spellings are transcribed as legibly as possible; modern normalized forms are not silently substituted.",
+      "The original OCR file is referenced by filename and SHA-256; this GitHub transcription file stores corrected text only to keep the archival layer compact."
+    ]
+  },
+  "research_signals_from_batch": [
+    "Sankhya method: pramana, syllogism, perception, testimony",
+    "Buddhist agnosticism and practical indifference to speculative questions",
+    "Flux/impermanence and the continuity problem",
+    "Chronological priority and possible relation of Sankhya and Buddhism",
+    "Brahma-jala / Digha-Nikaya classification of sixty-two heresies",
+    "Lovejoy’s comparison of Sankhya dualism with early Buddhist formulations about self, world, soul/body, and future life"
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "manuscript_page_label": null,
+      "page_type": "cover",
+      "corrected_text": "A. O. Lovejoy\nSankhya + Buddhism\n\nHarvard Cooperative Society.",
+      "transcription_confidence": "high",
+      "uncertain_readings": []
+    },
+    {
+      "pdf_page": 2,
+      "manuscript_page_label": null,
+      "page_type": "ownership/signature",
+      "corrected_text": "A. O. Lovejoy.",
+      "transcription_confidence": "high",
+      "uncertain_readings": []
+    },
+    {
+      "pdf_page": 3,
+      "manuscript_page_label": "5",
+      "page_type": "index",
+      "corrected_text": "Index.\n\nAnicca, p. 49–52,\nGotama, p. 131, 169,\nAgnosticism, p. 21.",
+      "transcription_confidence": "high",
+      "uncertain_readings": []
+    },
+    {
+      "pdf_page": 4,
+      "manuscript_page_label": "8",
+      "page_type": "notes",
+      "corrected_text": "The Method of the Sankhya\nGarbe p. 150\n[For bibliog. problem, etc. see other note-book.]\n\n“All the Hindu systems manifest a genuine philosophical temper in that they recognize the necessity of giving an account of the sources of knowledge acknowledged by them. The usual wd for a source of kn. is pramana; etymologically = that whereby anything is measured off, accurately established, discovered as real knowledge (pramiti).\n\nThe systems differ in the number of pramanas; but in the discussion of that one wh. is most important, and accepted by all schools as the distinctively philosophical method of proof, viz. the syllogism, the text-book”",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["abbreviated bibliographic parenthesis; some Sanskrit diacritics not explicit in manuscript"]
+    },
+    {
+      "pdf_page": 5,
+      "manuscript_page_label": "9",
+      "page_type": "notes",
+      "corrected_text": "[continuation from preceding page]\n\n“of the orthodox systems show pretty complete agreement. The probable terminology, definitions, examples are on this point almost uniformly the same. This much indicates that the results of the logic worked out by the Nyaya-Vaisesika School had been adopted by the other schools as an established logical method. Consequently when we find a similar theory of the syllogism in certain Sankhya writings (e.g. S.-t.-k. & S. [illegible] Bhasya) we must recognize an alien element; which fact however a European expositor of the Sankhya need notice only in so far as it bears upon the method of the system.\n\nOur system recognizes 3 sources of knowledge:\n1. Perception (pratyaksha, drishta)\n2. Syllogism (anumana)\n3. Certain reliable testimony (aptavacana, sabda).\n\n1. Perception. Defined, Karika 5 as ‘apprehension of indiv. objects.’ First F. [?] says in Sutra I, 89 as ‘F. function of that wh., on contact (w. a thing) represents the form of that thing.’”",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["one Sankhya text title in parenthesis; source label before Sutra I, 89"]
+    },
+    {
+      "pdf_page": 6,
+      "manuscript_page_label": "21",
+      "page_type": "notes",
+      "corrected_text": "Buddh. Agnosticism\n[heading abbreviated/uncertain in manuscript]\n\nSabbasava Sutta of F. Maj. Nik. [?]. First of F. several is F. “considering of things wh. ought not to be considered.”\n\n“Unwisely does he consider thus: Have I existed during F. ages of F. past, or not? What was I during F. ages of F. past? How was I? Having been what, what did I become during F. ages of F. past? Shall I exist in F. future, or shall I not? etc. [The] questions above are repeated for F. future. Or he debates thus w. himself as to F. present: Do I really exist, or do I not? What am I? How am I? Whence did this being come? Whither will it go? In him then unwisely considering there springs up one or another”",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["heading/source line; abbreviated reference to Majjhima Nikaya"]
+    },
+    {
+      "pdf_page": 7,
+      "manuscript_page_label": "23",
+      "page_type": "notes",
+      "corrected_text": "[continuation from preceding page]\n\n“of F. 6 heretical notions: [uncertain passage on the views ‘I have a self,’ ‘I have no self,’ and the permanence of self]. … ‘this self of mine wh. is permanent, lasting, eternal, not subject to change, enduring’ … This F. walker in heresy, F. jungle of heresy, F. wilderness of heresy.”\n\nOn F. certain passages of F. Sutta Nipata, esp. F. Atthaka-vagga, the seeker in possession of an auto-philos. sort wh. cannot be accepted for on the grounds. Though it might be regarded as merely satirical expression of contempt for F. false & fruitless reasoning of F. heretics, & as inquisitiveness agt disputation for F. sake of disputation, wh., by cultivating intellectual pride, will obviously increase rather than diminish attachment to existence. But some sentences are more extreme in tone; e.g. (S.N. 911) “A Brahmana is no follower of heretical doctrines, he is not a friend of knowledge (ñana [?]), & having destroyed acquired opinions wh. have arisen, he is indifferent to learning while others acquire it.” Again, “Not by opinion, not by tradition, not by knowledge, do F. wise call any one a Muni.” But these must be taken in conjunction w. other passages, e.g. w. other passage below in F. [next page].",
+      "transcription_confidence": "low-medium",
+      "uncertain_readings": ["opening quotation on six heretical notions; one Pali/Sanskrit term after ‘knowledge’"]
+    },
+    {
+      "pdf_page": 8,
+      "manuscript_page_label": "25",
+      "page_type": "notes",
+      "corrected_text": "Buddh. indiff. to theoretical kn.\n\n[Source illegible], p. 20f. — Gotama & leaves of Simsapa-wood.\n\n“There are more leaves on F. tree than in my hand, so do I know many more truths than those F. I have revealed to you. Why have I revealed some & not others? Bec. F. ones I have not revealed cannot be of profit to you, since they will not help you the more to turn away fr. earthly things, to suppress desire, to purify the intelligence, etc.”",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["bibliographic source before p. 20f"]
+    },
+    {
+      "pdf_page": 9,
+      "manuscript_page_label": "43",
+      "page_type": "notes",
+      "corrected_text": "Contents, cont.\n\n7 or priority of doctrine of Sankhya & Buddhism.\n[Reference:] [Brahma-jala?] p. 173, tr. s.v. in yellow note bk.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["reference line after topic note"]
+    },
+    {
+      "pdf_page": 10,
+      "manuscript_page_label": "49",
+      "page_type": "notes",
+      "corrected_text": "Flux\n\nV. Warren p. 150 f. Vis Mag.\n\n“Just as a chariot-wheel in rolling rolls only at one point of F. tire, … in exactly F. same way F. living being lasts only for F. period of one thought. As soon as that thought has ceased, F. being is said to have ceased.”\n\nAlso [reference] 141.\n\nIn MP II, 33, Milinda objects A. a doctrine of absolute flux destroys time itself, — you must have some static units, or else your sequence is a chain without links; in his words: “If that wh. was not, becomes, & as soon as it has begun to become passes again away, then surely being thus cut off at both ends it must be entirely destroyed.” N’s answer",
+      "transcription_confidence": "high",
+      "uncertain_readings": ["abbreviated source after Warren; one secondary reference before 141"]
+    },
+    {
+      "pdf_page": 11,
+      "manuscript_page_label": "51",
+      "page_type": "notes",
+      "corrected_text": "Flux\n\n[continuation]\n\nsimply insists upon F. fact A. time is of this sort, — a growing again fr. a point wh. is cut off in F. act of becoming. In other words, he seems to regard F. time process w. all its inconceivabilities as an ultimate & inexplicable fact.\n\nMP II, 35: “All predispositions arise through a (gradual) becoming.” Illustration of building of a house, growing tree, etc.\n\nMaha-Parinibbana-Sutta (vi) [reference]. F. last words of F. Buddha are a reminder of F. first & fundamental of F. 3 characteristics: “And now, F. monks, I take leave of you; all the constituents of being are transitory; work out your salvation with diligence.” F. nothing likely to be preserved scrupulously by tradition; we may therefore regard it as an historical fact that Gotama thus with his last breath emphasized that cardinal doctrine upon which his whole ministry had been based.\n\n2. Pitakas at all events seem to admit A. F. body preserves a permanent identity for a considerable time — c. 21, during a single lifetime while karma continues to hold F. elements to-gether in a single form (rupa). F. extreme doctrine of absolute transitionism is applied only to F. mind; A. object wh. is called mind, intellect, consciousness, keeps up an incessant round by day & night of perishing as one thing",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["abbreviated source details and several pronouns/abbreviations"]
+    },
+    {
+      "pdf_page": 12,
+      "manuscript_page_label": "53",
+      "page_type": "notes",
+      "corrected_text": "Flux\n\n[continuation]\n\n“and springing up as another.” II, p. 151.\n\nMaha-Parinibbana-Sutta, vi, 15. “Then F. Blessed One died, Brahma Sahampati uttered a stanza:\n‘They all, all beings that have life shall lay aside F. complex form, F. aggregate of mental & material qualities wh. gives them, or in heaven or on earth, their fleeting individuality.’\nAnd Sakka said:\n‘They’re transient all, each being’s parts & powers; growth is F. nature, & decay. They are produced, they are dissolved again; and then is best, when they have sunk to rest.’”\n\nF. epigrams of Buddha are probably F. most authentic in F. whole range of Buddhist literature; & whole story of his death has extreme plausibility & verisimilitude.\n\nPhilos. material & contemp. date of Sankhya & Buddhism.\n\n[Com. Le?], Buddhism, p. 24.\n“It was quite otherwise w. F. Sankhya system. Centuries afterward, when Buddhism had become corrupted, it will appear A. F. Sankh. was allied [illegible] to support F. Vedanta; & as it had often been held by European scholars A. Buddhism was more or less based on F. Sankhya, it will be necessary to consider F. question of the priority. Logically it stands half-way bet. F. Vedanta & Buddhism & was before a poss. stepping-stone to F. Buddhist position. And F. Buddhist themselves acknowledge A. Kapila … lived several”",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["source author/title in right-hand paragraph; several abbreviated words"]
+    },
+    {
+      "pdf_page": 13,
+      "manuscript_page_label": "55",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\n“generations bef. F. Buddha. It is, therefore, to say F. Sankhya system also preceded F. Buddhism, or was F. outcome of F. same intellectual movement.\n\nBut what we know is A. in F. centuries immed. before & after F. birth of [Christ?] (i.e., some centuries after F. rise of Buddhism) it was F. Sankhya rather than F. Vedantism wh. was F. predominant school; & A. its adherents claimed a still more remote origin for tr. speculations. Mr. Garbe, … if opinion A. F. Sankhya teachers are right & A. F. teaching does indeed go back before F. rise of Buddhism. F. point seems to me, I confess, to be most doubtful. All F. Sankhya texts are much later in date. F. very oldest of them — F. Sankhya Karika of Isvara Krishna — cannot be placed at an earlier period than a full thousand yrs after F. time of Gotama, and although it is quite certain A. F. system, as a system already worked out, was much older than A., — we find it referred to, & in great part adopted, along w. Vedantism in perhaps certainly 2 or 3 centuries before Christ in Manu, & in F. Bhag. Gita, — yet tre is still a great gap to be bridged over. … On weighing all F. evidence it seems to me A. F. only conclusion”",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["one date marker before parenthesis; Garbe/source phrasing"]
+    },
+    {
+      "pdf_page": 14,
+      "manuscript_page_label": "57",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\n“to be rightly drawn is A. there is no evidence A. Kapila was F. real author of F. school, but A. there were, bef. F. time of F. Buddha, isolated thinkers of whose works we have no trace, who elaborated views similar to those out of wh. F. Sankhya was eventually developed.”\n\nPhilos. that in time of Gotama.\n\nF. sixty-two heresies, given in [reference]: Brahma-jala = Digha-Nikaya 1 (Davids, p. 3).\n\nThe sixty-two theories are as follows:\n1–4. Sassata-Vada. People who either fr. meditation & deeper [?] or fr. reasoning have become to believe A. both F. ext. world as a whole & individual souls are eternal.\n\n5–8. Ekacca-Sassatika. People who in F. way hold A. some souls are eternal & some are not:\na. Those who hold A. God is eternal, but not indiv. souls.\nb. Those who hold A. gods are eternal, but not F. indiv. souls.\nc. F. who hold A. certain illustrious gods are eternal but not F. indiv. souls.\nd. F. who hold A. while F. bodily forms are not eternal, tre is a subtle something called Heart or Mind or Consciousness, wh. is.\n\n9–12. Antanantika. People who dispute abt finity & infinity:\na. F. world is finite.\nb. It is infinite.\nc. It is both.\nd. It is neither.",
+      "transcription_confidence": "high",
+      "uncertain_readings": ["bibliographic parenthesis before Brahma-jala; phrase describing meditation/reasoning"]
+    },
+    {
+      "pdf_page": 15,
+      "manuscript_page_label": "59",
+      "page_type": "notes",
+      "corrected_text": "13–16. Amara-Vikkhepika. People who equivocate abt virtue & vice.\na. Fr. fear lest if they express a decided opinion one (if possible mistake) will incur injury.\nb. From fear of forming injurious attachment.\nc. From fear lest they may not be able to answer skilful disputants.\nd. Fr. dullness or stupidity.\n\n17–18. Adhicca-Samuppannika. People who think A. F. origin of things can be explained without a cause.\n\n19–50. [Heading uncertain]. People who believe in F. future existence of human soul.\na. 16 phases of F. support of a conscious existence after death.\nb. Eight phases of F. support of an unconscious existence after death.\nc. Eight phases of F. support of an existence both conscious & unconscious after death.\n\n51–57. Uccheda-Vada. People who teach F. doctrine A. tre is a soul but A. it will cease to exist:\na. On F. death of F. bodily form.\nb. At F. end of F. next life.\nc. At F. end of subsequent lives.\n\n58–62. Dittha-Dhamma-Nibbana-Vada. People who hold A. tre is a soul & A. it can attain to perfect bliss in F. world, or wherever it happens to be. a. b. c. d. e. (q.v.)\n\nIt is to be noted A. these do not all represent separate systems, but detached doctrines, many of them might or might not be combined w. many of F. others. Buddhism however as a system regards them all as false, and that for a coherent or systematic reason. If it be difficult to summarize",
+      "transcription_confidence": "high",
+      "uncertain_readings": ["heading for nos. 19–50 is difficult in Lovejoy’s hand; classification prose is clear"]
+    },
+    {
+      "pdf_page": 16,
+      "manuscript_page_label": "61",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\nF. negations to get a positive statement of Buddhistic views on F. questions at issue, F. following appears to be F. result:\n\n1. Buddhism does not believe (? denies) in F. eternity of F. world or F. individual souls.\n2. Buddhism declines to make any one of F. 4 logically possible assertions abt F. infinity of F. world.\n3. Bism [blank].\n4. Buddhism holds A. F. origin of things cannot be explained without a cause (?).\n5. Bism, denying the soul, denies alike A. it will continue & A. it will cease to exist.\n\nThe other #4 = F. Sankhya.\n\nF. Language is as follows:\n“In F. case, brethren, some recluse or Brahman is addicted to logic & reasoning. He gives utterance to F. follg. conclusion of his own, reached by his argumentation based on his sophistry: ‘Eternal is the self; eternal is F. world [or Matter]. They give birth to nothing; but are themselves unshaken as a mountain-peak, as a pillar firmly fixed. And though these living beings pass along, transmigrate, fall out of one state of existence & are born in another, yet they are forever & ever.’”\n\nOn F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. F. Sankhya differs fr. F. Vedanta. … F. Sankh. holds A. tre is”",
+      "transcription_confidence": "high",
+      "uncertain_readings": []
+    },
+    {
+      "pdf_page": 17,
+      "manuscript_page_label": "63",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\n“no God, A. the primordial Prakriti is eternal, & A. F. souls have an indiv. existence of tr. own & continue to exist in infinite numbers. It will be noticed on F. other hand A. in F. Bist. description of F. particular heresy F. Sankhya technical term Prakriti is not used, though perhaps F. vague expression ‘world’ may be taken here in F. special sense of F. ‘orig. matter’ of F. Sankhya. Then we come to another contradiction. Acc. F. Sankhya it is precisely out of F. ‘orig. matter’ & F. indiv. souls A. F. visible world & living beings are produced. F. heretics described in our passage hold A. F. soul & F. world … give birth to nothing. I am at a loss to understand how F. passage can be considered good evidence A. F. Sankhya system existed as a whole, just as we find it in F. many centuries later.”\n\nTo R.D.’s remark it should be added A., although F. dualism, in F. eternity of Matter & of F. Self is not its most clear doctrine; the central point wh. it makes, F. point whereon its “doctrine of release” is based is F. separateness of F. Self & F. World, — in a word its thorough-going dualism. A more likely reference to a genuinely Sankhyan doctrine is A. in F. Majjhima-Nikaya Sutta 63: “F. soul is one thing & F. body is another” etc.\n\nN.B. F. list of v. heresies cf. F. list of 10 given in Majjh. Nik. Sutt. 6 [?] (Warren p. 174f): (1) A. F. world is",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["a few abbreviations in Rhys Davids discussion and the final Majjhima Nikaya reference"]
+    },
+    {
+      "pdf_page": 18,
+      "manuscript_page_label": "65",
+      "page_type": "notes",
+      "corrected_text": "[continuation]\n\n“eternal; (2) A. F. world is not eternal; (3) A. F. world is finite; (3) A. F. world is infinite; (4) A. F. soul & body are identical; (5) A. F. soul is one thg, & F. body another; (6) A. F. Saint [manuscript; but rather ‘F. sentient being’] exists after death; (7) A. F. [sentient being] does not exist after death; (8) A. F. sentient being both exists & does not exist after death; (9) A. F. sentient being neither exists nor does not exist after death.”\n\nHere again, then, summarizing we find 4 subjects upon wh. Bism is declared fr. assertion one way or another, viz.:\n1. Infinity (presumably spatial).\n2. Eternity of world.\n3. Relation of Soul to Body.\n4. Future life.\nSimilarly in Maj. Nik. Sutt. 72.\n\nNow this certainly seems at first sight like F. philosophical agnosticism of a purely practical teacher who regards such questions with contempt. But a closer scrutiny of F. passages themselves will show A. this is not a necessary interpretation of F. language employed; & that F. still more general survey of Bist teaching will show A. the refusals to assert are based on an objection to F. form of F. questions put, not merely to F. impertinence of a “common-sense” moralist. Bism too is a doctrine of salvation based on insight; it finds F. origin of suffering wh. for it = F. origin of existence, before it prescribes methods”",
+      "transcription_confidence": "high",
+      "uncertain_readings": []
+    }
+  ]
+}
