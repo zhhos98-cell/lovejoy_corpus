@@ -37,7 +37,7 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 ## MS38_004_001_061_005 — faint front-leaf title “Symbolism” [?]
 
 - Source PDF: 120 pages.
-- Completed: PDF pp. 1–90.
+- Completed: PDF pp. 1–105.
 - GitHub batches:
   - `archive_transcriptions/MS38_004_001_061_005_p001-015_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p016-030_clean.json`
@@ -45,8 +45,10 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
   - `archive_transcriptions/MS38_004_001_061_005_p046-060_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p061-075_clean.json`
   - `archive_transcriptions/MS38_004_001_061_005_p076-090_clean.json`
+  - `archive_transcriptions/MS38_004_001_061_005_p091-105_clean.json`
 - Batch 6 manuscript page labels: 153, 155, 157, 159, 161, 163, 165, 167, 171, 173, 175, 177, 179, 181, 183. (The visible sequence skips 169 in the scan organization; PDF p. 84 carries 171.)
-- Next batch: PDF pp. 91–105.
+- Batch 7 physical structure: PDF p. 91 is manuscript p. 185; pp. 92–100 are a sequence of inserted slips over manuscript p. 187; regular notebook pagination resumes with pp. 101–104 at manuscript pp. 189, 191, 193, 195. The page label on PDF p. 105 is not visible.
+- Next batch: PDF pp. 106–120 (final 15 pages).
 - Correction policy: especially difficult ethnographic names, multilingual titles, and compressed source references remain provisional; where handwriting is too poor for diplomatic transcription, only source-supported argumentative structure is retained.
 
 ### Source-derived topics in pp. 1–15
@@ -78,19 +80,25 @@ Manuscript notebooks are corrected in batches of 15–20 PDF pages against the p
 - Lovejoy treats syncretism historically. Rituals that now look like one sacrificial form may combine motives that were once distinct; analysis must separate inherited ritual elements before assigning a type.
 - Funerary sacrifice is treated first as provision and social continuity for the dead: food, blood, property, attendants, wives, slaves, or retainers continue the deceased person's household and status into the next life.
 - Human versus animal sacrifice is explicitly rejected as a simple evolutionary index. Animal sacrifice can be later than human sacrifice, and apparent “advancement” cannot be inferred from victim type alone.
-- Ritual killing, cannibalism, punishment of failed rain-makers/diviners, animal sanctity, totemic-looking restrictions, and sacrifice are repeatedly distinguished rather than collapsed into one category.
-- Southern-African bibliography and cases dominate the comparative apparatus, especially Callaway, Bleek, Hahn, Kolbe, Casalis, Livingstone, Cowper Rose, Lewis Grout, and related works; several titles remain provisional because of handwriting.
 - Destruction or burning of property at funerals is treated as a case of reinterpretation: a practice may begin as prevention of the dead's return and later be explained as releasing/transferring the object's spirit to the dead.
-- Offerings to dead chiefs often contain expected advantage or reciprocity, but Lovejoy also identifies loyalty to the deceased as a distinct motive that should not automatically be redescribed as propitiation or contract.
 
 ### Source-derived topics in pp. 76–90
 
 - Human sacrifice can function as utilitarian communication with the dead: the victim may serve as a messenger rather than as the object of worship.
-- Zulu ancestral-sacrifice material (via Lewis Grout) is treated transactionally: illness, neglected ancestors, a demanded cow, and an explicit bargain for cure. Lovejoy separates this from unconditional gift and from mystical union.
-- Substitution/scapegoat mechanisms appear alongside alimentary and funerary sacrifice; the sacrificed cow can be asked to carry away illness or evil, while its skull/horns become protective or fetish objects.
-- Circumcision is analyzed as incorporation through blood. Shared shedding of blood creates fraternity/blood-brotherhood and admission into the tribal or paternal circle, with rights and responsibilities transmitted socially through the rite.
-- Foundation/building sacrifices and use of human flesh, bones, eyes, or blood as protective charms are repeatedly separated from sacramental communion. The victim's material remains can be credited with direct magical efficacy.
-- Blood is treated as life-giving, curative, rejuvenating, protective, and transferable; Lovejoy compares Trumbull and Strack and explicitly distinguishes magical use from medical effect or sacrifice proper.
-- A conceptual distinction emerges between fetish and charm/amulet. A fetish depends on an indwelling/present spirit; an amulet, plant, drug, stone, or body substance can be credited with efficacy intrinsic to the object.
-- Miss Kingsley's West-African material supports a broader point: for the conceptual world Lovejoy is reconstructing, medicinal, magical, natural, and supernatural efficacies are not sharply separated. Belladonna and mandragora can be treated as parallel kinds of efficacious things.
-- Human sacrifice can also be used to bind/control a spirit at a place, while blood sprinkled at houses during epidemic disease functions as a protective charm rather than necessarily as sacrifice.
+- Zulu ancestral-sacrifice material (via Lewis Grout) is treated transactionally: illness, neglected ancestors, a demanded cow, and an explicit bargain for cure.
+- Circumcision is analyzed as incorporation through blood. Shared shedding of blood creates fraternity/blood-brotherhood and admission into the tribal or paternal circle.
+- Foundation/building sacrifices and use of human flesh, bones, eyes, or blood as protective charms are repeatedly separated from sacramental communion.
+- Blood is treated as life-giving, curative, rejuvenating, protective, and transferable; fetish is distinguished from charm/amulet by the presence or absence of an indwelling spirit.
+- Miss Kingsley's West-African material supports a broader point: medicinal, magical, natural, and supernatural efficacies are not sharply separated in the conceptual world Lovejoy is reconstructing.
+
+### Source-derived topics in pp. 91–105
+
+- First-fruit rites become a problem of classification: purification or taboo before eating new grain must be distinguished from sacrifice proper.
+- The inserted notes over manuscript p. 187 compare ancestor cult, dead chiefs, local/nature divinities, collective tribal gods, and naturalistic sacred powers as historically layered categories that can become identified or superimposed.
+- African material is used to test a political-development hypothesis in which high/supreme gods emerge with chieftainship or more complex political organization; Lovejoy treats the correlation as a hypothesis rather than a rule.
+- Annual and communal sacrifice may represent a later reorganization of older funerary, alimentary, local, or borrowed practices. The same ritual complex can contain elements with different histories.
+- Agricultural and harvest rites are sorted among magical, propitiatory, alimentary, mystical, and fecundative mechanisms. Blood may matter independently of the killing of a victim.
+- A Pawnee springtime human sacrifice and American/Mexican seed-corn/planting rites are treated as evidence for fecundative sacrifice through transfer of life or power to the crop.
+- Lovejoy sketches and then criticizes a developmental sequence connecting cultivated plants, domestic animals, and agrarian sacrifice. He argues that agriculture can precede domestication in Africa, undermining a simple wild-animal → domestic-animal sequence.
+- Vegetation spirits are not assumed to be originally anthropomorphic. Following Mannhardt and related evidence, plant souls may be conceived in animal or plant form.
+- A proposed sacrifice of the plant-soul to itself would be quasi-mechanical/magical rather than sacramental. Sacramental sacrifice of a representative of a god is treated as a later, more complicated development.
