@@ -1,251 +1,173 @@
 # Arthur O. Lovejoy as Orientalist — live web sweep
 
-Status: ACTIVE  
-Started: 2026-08-18 06:00 +08:00  
-Last substantial sync: 2026-08-18, first broad web pass  
-Working rule: distinguish (A) primary evidence by Lovejoy, (B) institutional/archival evidence, (C) contemporary reception, (D) later reception, and (E) inference. Do not convert inference into biography without corroboration.
+Status: **ACTIVE**  
+Started: 2026-08-18  
+Last substantial sync: 2026-08-18, batches 09–10  
+Working rule: distinguish (A) primary evidence by Lovejoy, (B) institutional/archival evidence, (C) contemporary reception, (D) later reception, and (E) inference. Do not convert institutional proximity or methodological resemblance into biography without corroboration.
+
+Detailed discoveries are preserved in numbered batch notes; this file records the current master model.
 
 ## Working question
 
-How far can Arthur O. Lovejoy be reconstructed as an Orientalist / student and teacher of Asian religions and philosophies, especially Indian philosophy and early Buddhism, and how did this work relate to his later method of decomposing intellectual systems into historically mobile elements?
+How far can Arthur O. Lovejoy be reconstructed as an Orientalist / student and teacher of Asian religions and philosophies, especially Indian philosophy and early Buddhism, and how did this work feed into comparative religion and the later history of ideas?
 
-The term “Orientalist” is a research category to be tested, not assumed. The **strict core** includes India, Buddhism, Pāli/Sanskrit technical vocabulary, Asian philosophies, courses, institutional affiliations, and specialist reception. An **adjacent comparative-religion layer** includes “primitive philosophy” where the same philological/comparative apparatus can be shown textually. A **later global/transmission layer** includes Lovejoy’s uses of Chinese, Indian, and ancient Near Eastern material inside the mature history-of-ideas project, often through collaboration with area specialists rather than direct philological authorship.
+`Orientalist` remains a research category to be specified rather than a permanent career label. The **strict core** includes Sanskrit/Buddhist-text training, Indian philosophy, Pāli/Sanskrit vocabulary, specialist publications and teaching. An **adjacent comparative-religion layer** includes Lovejoy’s work on “primitive religion/philosophy,” sacrifice, eschatology, magic, causal efficacy and comparative ritual. A **mature global/transmission layer** includes China, India and ancient Western Asia when they enter later history-of-ideas projects through representation, transmission or specialist collaboration.
 
-## Working chronology
+## Current chronology
 
-### 1895–1898 — Harvard environment and Buddhist/Indic formation
+### 1895–1898 — Harvard: formal Orientalist/comparative-religion formation
 
-Confirmed context:
+Now confirmed through Daniel J. Wilson’s use of a Harvard Archives course list, the 1896–97 Harvard catalogue, and Lovejoy’s 1896 letters:
 
-- Lovejoy attended Harvard from 1895, received the M.A. in 1897, and remained another year before Paris. JHU and Daniel J. Wilson agree that Harvard was his main graduate formation before 1898–99 at the Sorbonne/Bibliothèque Nationale.
-- Harvard at exactly this moment possessed an unusually strong institutional infrastructure for Indic/Buddhist studies. Charles Rockwell Lanman had been Professor of Sanskrit since 1880, co-founded the Harvard Oriental Series with Henry Clarke Warren in 1891, and headed Indo-Iranian studies.
-- Warren’s *Buddhism in Translations*, Harvard Oriental Series III, appeared in 1896 and was translated from original Pāli; it is one of the works Lovejoy repeatedly cites in notebook 004 and the 1898 article.
-- On 29 April 1896, while Lovejoy was a Harvard graduate student, Lanman began a three-lecture public series on Buddhism at the Fogg Art Museum. The first lecture covered Buddhism’s relation to Vedism/Brahmanism and contemporaneous Sāṁkhya/Vedānta, Sanskrit/Pāli sources, the Tipiṭaka, Pali Text Society, and the King of Siam’s edition. This overlap with notebook 004 is striking.
+- **Charles R. Lanman:** Sanskrit and some sacred Buddhist texts.
+- **Charles C. Everett:** comparative religion, including Vedic religion, Hinduism, Buddhism, Mazdaism and Chinese religions; also psychological basis of religious faith.
+- **Crawford H. Toy:** Hebrew religion.
 
-**Evidence limit:** no source yet proves that Lovejoy enrolled in Lanman’s Sanskrit courses or attended the 1896 Buddhism lectures. For now this is a strong *institutional and chronological context*, not a teacher–student relationship. Searches for direct Lovejoy–Lanman or Lovejoy–Warren correspondence have not yet produced a hit.
+Harvard’s institutional ecology independently fits this: Lanman led Sanskrit/Indo-Iranian work; Lanman and Henry Clarke Warren created the Harvard Oriental Series; Warren’s *Buddhism in Translations* appeared in 1896 and became a heavily used Lovejoy authority; Lanman lectured publicly on Buddhism, Sāṁkhya/Vedānta and Sanskrit/Pāli sources in April 1896.
 
-Primary sources for this context:
-- Harvard South Asian Studies history: https://sas.fas.harvard.edu/about/history/
-- Lanman papers, Harvard University Archives: https://hollisarchives.lib.harvard.edu/catalog/hua82020
-- Harvard Crimson, “Lecture on Buddhism,” 29 April 1896: https://www.thecrimson.com/article/1896/4/29/lecture-on-buddhism-the-first-of/
-- Warren, *Buddhism in Translations* (1896), Harvard Oriental Series III.
+A further institutional intersection is the Graduate Philosophical Society. Wilson records Lovejoy as a member and later secretary; Vivekananda addressed that Society on **25 March 1896** on Vedānta. Lovejoy’s attendance at that particular lecture remains unproved.
 
-### 1898 — strict philological core
+**Remaining linguistic question:** separate formal Pāli instruction and the degree of Lovejoy’s independent Pāli competence.
 
-**Arthur Oncken Lovejoy, “The Buddhistic Technical Terms upādāna and upādisesa,” *Journal of the American Oriental Society* 19 (1898), 126–136.**
+### c.1896–1898 — notebook 004 and the 1898 Buddhist paper
 
-- Affiliation printed in the article: Harvard University, Cambridge, Mass.
-- Full text online at NTU Buddhist Studies database: https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-ENG/love.htm
-- Repo copy: `The Buddhistic technical terms upadana and upadisesa..html`.
-- The paper treats `upādāna` as a pivotal link in `paṭicca-samuppāda`; rejects Senart’s identification of `upādāna` with the five skandhas; reads Pāli canonical passages against Warren, Childers, Burnouf, Senart, Buddhaghosa and others; and argues that a formula built from inherited/borrowed terms can still possess a characteristic and intelligible arrangement.
-- Direct archival bridge: `MS38_004_001_061_004 — “Sankhya + Buddhism”`, fully first-pass transcribed in four JSON batches. Its later pages are unmistakably preparatory/contemporaneous working material for the 1898 article, while the notebook as a whole is broader than the article.
+`MS38_004_001_061_004 — “Sankhya + Buddhism”` is complete first pass, 71/71. It treats Sāṁkhya method, Buddhist agnosticism, impermanence/flux, chronological priority, dependent origination, khandhas, `upādāna/upādhi/upādisesa`, Nirvāṇa and related philology.
 
-### 1898–1899 — Paris
+The notebook directly feeds Arthur O. Lovejoy, **“The Buddhistic Technical Terms upādāna and upādisesa,” *Journal of the American Oriental Society* 19 (1898), 126–136.** The article extracts the late `upādāna/upādisesa` problem from a broader notebook project. The notebook closes with an explicit historical decomposition: original elements = flux/Three Characteristics + dependent origination; derived elements = sense-perception theory + psychology + khandhas.
 
-Confirmed only at broad level:
+Current methodological lead: historically borrowed/composite terms need not form an accidental heap; their arrangement may still be characteristic and intelligible.
 
-- Wilson and JHU state that Lovejoy worked at the Bibliothèque Nationale and studied at the Sorbonne in 1898–99, ostensibly toward a Ph.D.
-- No evidence yet ties his Paris year specifically to Sylvain Lévi, Émile Senart, Sanskrit/Pāli study, École pratique des hautes études, or Buddhist philology.
+### 1898–1899 — Paris: Lévi + Marillier, now a central site
 
-This is now a high-priority negative/unknown: do not describe Paris as “Orientalist training” until a course, teacher, letter, notebook, or registration record is found.
+Wilson, citing Lovejoy’s letters of **17 October, 1 December and 5 December 1898**, says Lovejoy’s Paris year was largely historical/comparative religion. He studied Psalms with Maurice Vernes, heard Jean Réville, hoped to take a course in **Pāli Buddhism with Sylvain Lévi**, and when the course was not offered **occasionally went to Lévi’s home to read sacred texts with him**. Exact texts and reading languages still need the letters themselves.
 
-### 1901 — Buddhism as teaching, not merely a one-off article
+The official EPHE Section des sciences religieuses report for 1898–99 adds a second direct strand: **Lovejoy is named among the auditors who took an active part in Léon Marillier’s conferences.** Those conferences studied survival of the soul, non-moral future-life beliefs, human sacrifice and ritual anthropophagy, with funerary, expiatory, magical and fecundative mechanisms and African/North-American/non-Aryan-Indian material.
 
-Wilson’s annotated bibliography, entry 243, records **“Syllabus: The Philosophy of Buddhism,” The Washington University Association, 1901**, a four-lecture course:
+Marillier’s earlier memoir, **“La survivance de l’âme et l’idée de justice chez les peuples non civilisés”** (EPHE annual, 1893; separate printing 1894), has now been identified as the source behind notebook 005 abbreviations `M. Surviv.` / `Surviv.`. Marillier’s earlier course reports on origin-of-death myths, death as non-natural, post-mortem continuation and social rank likewise map closely onto 005.
 
-1. “The Place of Buddhism among the Philosophies of India”
-2–3. “Two Essential Formulas of Buddhism”
-4. “Buddhist Ethics and its Goal”
+### 1898–1905 — notebook 005 is longitudinal, not single-date
 
-This materially changes the earlier specialist-biographical claim that Lovejoy “apparently never returned to Buddhist studies” after 1898. At minimum, the 1898 research was converted into public/university teaching in 1901. The surviving syllabus itself has not yet been located independently online; Wilson is currently the discovery source.
+`MS38_004_001_061_005` is complete first pass, 120/120. It contains a strong **Paris 1898–99 core**: Paris stationery, `Dec. 14`, `May 29`, `Marillier — Survivance — 12 June`, and extensive direct overlap with Marillier’s EPHE programme.
 
-### 1906 — comparative religion / “primitive philosophy”
+A second-pass visual check of **PDF p.44** now resolves a previously uncertain date as:
 
-**“The Fundamental Concept of the Primitive Philosophy,” *The Monist* 16.3 (July 1906), 357–382.**
+> **Hist. Relig. — Dec. 20, 1905.**
 
-- Oxford Academic confirms title, author, Washington University affiliation, issue and pagination: https://academic.oup.com/monist/article/16/3/357/995254
-- Wilson describes it as a critique of overly anthropomorphic accounts of “primitive” religion; Lovejoy compares American Indian, Melanesian/Polynesian and Bantu terminology and argues for quasi-mechanical relations to supernatural power.
-- This is **adjacent comparative religion**, not strict Indology. It matters if close reading shows continuity with the 1898 operation: isolate terms/concepts, resist flattening heterogeneous practices into a single Weltanschauung, and rebuild relations from linguistic/ethnographic evidence.
+The dated outline continues primitive religious evolution, Old Testament material, `psychē`, `nephesh/ruach`, ancestor worship and totemism. Therefore 005 was **reused or extended at least through 1905**. It is a composite longitudinal notebook, not simply an 1898–99 Paris notebook. Individual later pages must be stratified before assigning them to 1905.
 
-### 1933 — China inside mature history of ideas
+This materially revises the 005→1906 model: **Marillier/EPHE comparative source collection (1898–99) → continued `Hist. Relig.` notebook work documented in 1905 → theoretical condensation in 1906.**
 
-**“The Chinese Origin of a Romanticism,” *Journal of English and Germanic Philology* 32.1 (1933), 1–20**, later revised/reprinted in *Essays in the History of Ideas*.
+The institutional meaning of the 1905 heading remains unresolved. Washington University’s 1904/05 catalogue is digitally extant and a 1905 *Hatchet* page names Lovejoy managing editor of the Bulletin of the Washington University Association, but a specific Lovejoy course titled `History of Religion` has not yet been independently recovered.
 
-- This should not be called Sinology in the specialist sense without further evidence. Lovejoy is examining a European aesthetic/intellectual genealogy and the possible transmission of representations of Chinese gardening/aesthetics into European Romantic taste.
-- It is nevertheless important for the broader project because Asia is no longer only an early philological episode: “China” becomes a causal/transmission problem inside mature history of ideas.
-- Next step: reconstruct his source base. Did he work through Jesuit/travel/garden literature and European representations of China, or through Chinese-language/specialist Sinological scholarship? This distinction is central to any claim about Lovejoy as “Orientalist.”
+### 1901 — Buddhism becomes teaching
 
-### 1935 — Asian/Near Eastern material institutionalized by collaboration
+Wilson’s annotated bibliography records **“Syllabus: The Philosophy of Buddhism,” Washington University Association, 1901**, four lectures:
 
-**Lovejoy and George Boas, *Primitivism and Related Ideas in Antiquity* (Johns Hopkins Press, 1935)** includes supplementary essays by:
+1. The Place of Buddhism among the Philosophies of India
+2–3. Two Essential Formulas of Buddhism
+4. Buddhist Ethics and its Goal
 
-- William Foxwell Albright, “Primitivism in Ancient Western Asia”
-- P.-E. (Paul-Émile) Dumont, “Primitivism in Indian Literature”
+The syllabus object itself remains to be located. Its existence means the 1898 research was converted into teaching and was not a one-off publication.
 
-Bibliographic confirmation: CiNii, Persée, Nature reviews, and later reference works. Dumont was a Sanskrit/Vedic specialist whose work included the Aśvamedha, Vedic ritual and Sanskrit text editions/translations.
+### 1906 — “primitive philosophy” / causal efficacy
 
-This is methodologically important. In the mature primitivism project Lovejoy did not simply universalize a Greek/European archive; he deliberately brought ancient Western Asia and India into the documentary program **through named area specialists**. That is a different form of Orientalist relation from 1898: from direct Buddhist technical philology to collaborative, distributed expertise within history of ideas.
+Arthur O. Lovejoy, **“The Fundamental Concept of the Primitive Philosophy,” *The Monist* 16.3 (1906), 357–382**, is confirmed by Oxford Academic.
 
-JHU’s Lovejoy finding aid also lists William Foxwell Albright as a related person in the papers. A direct Lovejoy–Albright archival link is therefore confirmed at collection level; the exact correspondence/folder and its relevance to the 1935 project still need to be located. No Dumont correspondence hit has yet been found.
+Notebook 005 repeatedly distinguishes outward ritual form from causal mechanism, personal/spiritual agency from intrinsic efficacy, fetish from charm/amulet, sacramental union from magical action, and natural from “supernatural” efficacy. PDF p.105 calls one agrarian mechanism **“quasi-mechanical and magical rather than sacramental.”** These are strong bridges to the published theory later described as `primitive energetics`.
 
-## Archival evidence
+A direct draft relation is still unproved because the full 1906 primary text has not yet been ingested. The key test is now a three-layer concordance: **Marillier → 005 (1898–99 + 1905 reuse) → 1906.**
 
-### Johns Hopkins, Arthur Oncken Lovejoy papers, MS-0038
+### 1907 — Indian philosophy remains active
 
-Official finding aid: https://aspace.library.jhu.edu/repositories/3/resources/54
+Lovejoy reviewed Paul Deussen, **_Outline of the Vedānta System of Philosophy, According to Shankara_**, in *Journal of Philosophy, Psychology and Scientific Methods* 4.1 (1907), 23–24. PhilPapers confirms the metadata; Wilson says Lovejoy regarded the English outline as useful for teachers of Hindu philosophy and urged study of **Rāmānuja’s Vedānta** rather than continued concentration on Śaṅkara.
 
-- Papers span 1872–1963 and contain lecture notes, notebooks, drafts, typescripts, galley proofs, correspondence, and annotated books.
-- JHU says Lovejoy’s Berkeley study emphasized humanities and languages; his prime interest shifted from religion to philosophy under George Holmes Howison; at Harvard he studied under Josiah Royce and William James; at the Sorbonne in 1898–99.
-- The biographical note explicitly says that in the early twentieth century Lovejoy published on the history of religion as well as philosophy.
-- Marjorie Nicolson’s processing note says much of Lovejoy’s research material formed the basis of published articles: important corroboration for treating notebook 004 as a production archive rather than marginal juvenilia.
-- Collection-level related names include William Foxwell Albright and Owen Lattimore. These links are leads, not automatically evidence of Orientalist scholarship; the correspondence must be read before interpretation.
+This is important strict-core evidence: direct Indian-philosophy engagement survives well beyond the 1898 Buddhist article and 1901 syllabus. Primary scan still needed for exact wording.
 
-### Digitized notebooks in the corpus
+### 1907–1908 — sustained history-of-religion publication programme
 
-- `MS38_004_001_061_004` — “Sankhya + Buddhism”: 71/71 first-pass complete.
-- `MS38_004_001_061_005` — comparative religion / sacrifice / future-life material: being transcribed in parallel. **Always read `ARCHIVE_TRANSCRIPTION_PROGRESS.md` before stating a page total; parallel work is advancing independently.**
+The religion strand remains dense:
 
-## Biographical / disciplinary recognition
+- 1907, **“The Entangling Alliance of Religion and History,”** *Hibbert Journal* 5, 258–276.
+- 1907, **“The Origins of Ethical Inwardness in Jewish Thought,”** *American Journal of Theology* 11, 228–249.
+- 1908, **“Pragmatism and Theology,”** *American Journal of Theology* 12, 116–143.
+- 1908, **“Religious Transition and Ethical Awakening in America,”** *Hibbert Journal* 6, 500–514.
+- 1908, **“The Theory of a Pre-Christian Cult of Jesus,”** *The Monist* 18, 597–609.
 
-### Klaus Karttunen, *Persons of Indian Studies*
+The last is methodologically notable. Lovejoy tests W. Benjamin Smith’s claim that primitive Christianity arose through a vast slow syncretism and concludes that the proposed genealogy is not sustained and is sometimes contradicted by its evidence. William Benjamin Smith replied in *The Monist* 19.3 (1909), 409–420.
 
-Entry: https://whowaswho-indology.info/3895/lovejoy-arthur-oncken/
+Wilson’s broader judgment is now important but must be independently tested textually: Lovejoy’s early history-of-religion/history-of-philosophy articles were early essays in the method later refined as history of ideas.
 
-- Lovejoy receives a specialist Indology biographical entry.
-- It lists the 1898 JAOS paper and says he apparently did not return to Buddhist studies.
-- Our current evidence requires qualification: his **formal Buddhist publication footprint** may indeed consist essentially of the 1898 paper, but the 1901 syllabus shows continued Buddhist teaching, and notebook evidence broadens the research base.
+### 1933 — China as transmission/representation
 
-## Specialist afterlife of the 1898 article
+**“The Chinese Origin of a Romanticism”** is not, on present evidence, direct Sinology. The expanded 1948 version relies overwhelmingly on European-language mediation: Mendoza, Jesuit reports/translations, *Confucius Sinarum philosophus*, Kircher, Leibniz, Fénelon, Wolff, Voltaire, Temple, Le Comte, Attiret, Chambers and European garden/aesthetic literature.
 
-Modern Buddhist scholarship still cites Lovejoy’s 1898 paper, particularly in disputes over:
+The object is the historical efficacy of a **European representation of China** in the emergence of irregular landscape gardening and Romantic taste. The original 1933 version still requires exact comparison with the 1948 revision.
 
-- `upādāna` and its relation to the skandhas/khandhas;
-- `upādi / upādisesa`;
-- nibbāna/parinibbāna and “residue” interpretations.
+### 1935 — mature Orientalist expertise becomes distributed
 
-This is a small but real disciplinary afterlife distinct from Lovejoy’s canonical reception as a history-of-ideas theorist. A citation register should record *what proposition* later Buddhist scholars cite him for, rather than merely counting citations.
+The Preface to Lovejoy and Boas, *Primitivism and Related Ideas in Antiquity*, explicitly thanks **W. F. Albright** and **P.-E. Dumont** for supplementary essays extending the project into Ancient Western Asia and Indian literature. Albright and Dumont therefore supply named area/language expertise inside a larger history-of-ideas architecture.
 
-## Harvard formation: current evidentiary state
+Current mature-career model: direct early philology gives way partly to **distributed specialist collaboration**, not to simple disappearance of Asian material.
 
-This is the most promising new lead in the first broad web pass.
+## Archival priorities
 
-What is confirmed:
+### Johns Hopkins
 
-- Lanman was Professor of Sanskrit at Harvard throughout Lovejoy’s graduate years and a central organizer of American Indology.
-- Lanman and Warren founded the Harvard Oriental Series in 1891.
-- Warren’s *Buddhism in Translations* appeared in 1896, during Lovejoy’s Harvard residence, and became one of Lovejoy’s heavily used authorities.
-- Lanman publicly lectured on Buddhism in April 1896, including precisely the relation of Buddhism to Sāṁkhya/Vedānta and the Sanskrit/Pāli textual corpus.
-- Harvard’s Indo-Iranian program offered Sanskrit instruction in these years; by 1902 the field was renamed Indic Philology as Pāli/Prakrit were added institutionally.
+- `MS-0038 Arthur Oncken Lovejoy papers`: notebooks, drafts, lecture notes, correspondence, annotated books.
+- `MS-0873 Daniel J. Wilson transcriptions of Arthur O. Lovejoy letters`: highest-value immediate target for 1896 Harvard and 1898 Paris letters.
+- Search writing/draft files for `Primitive Philosophy`, `mana`, `Marillier`, `Survivance`, `Buddhism`, `Sankhya`, `Vedanta`, `Deussen`, `Ramanuja`, `Jewish Thought`, `Vorchristliche`.
 
-What is **not yet confirmed**:
+### Washington University
 
-- Lovejoy enrolled in Sanskrit.
-- Lovejoy studied personally with Lanman or Warren.
-- Lovejoy attended Lanman’s 1896 Buddhism lectures.
-- Lovejoy knew enough Pāli to translate independently rather than work through editions, dictionaries, and translations.
+- 1904/05 and 1905/06 annual catalogues: identify the course/lecture context of `Hist. Relig. — Dec. 20, 1905`.
+- Washington University Association Bulletins/syllabi: locate 1901 *Philosophy of Buddhism* and any 1905 history-of-religion teaching.
 
-The correct current formulation is therefore: **Lovejoy’s 1898 Buddhist philology emerged inside a Harvard environment where Sanskrit, Pāli Buddhism, and the Harvard Oriental Series were unusually visible, and his notebooks/article use scholarship produced by that environment; a direct pedagogical link remains to be proved.**
+### Harvard
 
-## American Oriental Society: current status
+- exact 1896–97 course descriptions / student course list;
+- Graduate Philosophical Society minutes around 25 March 1896;
+- Lanman/Warren papers and Lovejoy letters.
 
-Confirmed: the 1898 article appeared in the *Journal of the American Oriental Society*.
+### Paris / EPHE
 
-Not yet confirmed: Lovejoy’s formal membership in the American Oriental Society, attendance at meetings, presentation of the paper orally, or sustained participation after publication. Broad searches have so far returned the article/bibliography but no membership evidence. Next step: search JAOS proceedings and membership lists for 1897–1902.
+- full Marillier *Survivance* memoir and course material;
+- Marillier papers/readings;
+- Lévi correspondence and 1898–99 course records;
+- Lovejoy letters via MS-0873/original correspondence.
 
-## Current model — provisional
+## Current evidentiary model
 
-The emerging career shape is not “Lovejoy was continuously an Orientalist.” A more defensible model has three phases:
+The old three-phase model has been refined:
 
-1. **Direct specialist episode, c.1896–1901:** Buddhist/Indic technical philology, notebook 004, 1898 JAOS article, 1901 Buddhist philosophy lectures.
-2. **Comparative-religion transformation, c.1906:** Asian/Oceanic/African materials become part of a broader critique of categories such as “primitive philosophy.”
-3. **Distributed/global history of ideas, 1930s:** Chinese transmission becomes a history-of-ideas problem; Indian and ancient Western Asian primitivism are integrated through collaborators such as Dumont and Albright.
+1. **1895–1901: direct Orientalist/comparative-religion formation and practice.** Sanskrit/Buddhist texts, comparative religion, Hebrew religion, notebook 004, JAOS philology, Lévi private reading, Marillier EPHE work, Buddhism teaching.
+2. **1898–1908: sustained transformation rather than abandonment.** Notebook 005 begins in Paris but remains active in 1905; `primitive philosophy`, Jewish/Christian history of religion and a 1907 Vedānta review show overlapping continuities.
+3. **1930s: mediated/distributed global history of ideas.** China appears as a representation/transmission problem; Indian and ancient Western-Asian material is organized with specialist collaborators.
 
-A potentially strong thesis is therefore that **Orientalist philology was not an abandoned youthful curiosity but an early laboratory whose operations were later redistributed into comparative religion and collaborative history of ideas**. This remains a hypothesis until the 1906/1933/1935 texts and correspondence are compared at the level of actual method.
+The strongest current thesis is not “Lovejoy was continuously an Orientalist.” It is that **Orientalist and comparative-religion training formed an early laboratory for analytical operations later redistributed into history of ideas**: decomposition of apparent systems, semantic discrimination, historical layering, classification by causal mechanism, caution about borrowing/syncretism, and reconstruction of intelligible arrangements. The evidence now supports a much longer transition than a youthful 1898 episode, while the mode of engagement with non-European material changes substantially across the career.
 
-## Immediate hypotheses to test
+## Active search queue
 
-1. **Short publication record, longer research/teaching afterlife.** One JAOS article understates the size of Lovejoy’s Buddhist work.
-2. **Harvard matters institutionally.** The Lanman–Warren–Harvard Oriental Series environment is probably relevant to the genesis of the 1898 paper, but direct contact remains unproved.
-3. **Methodological bridge before “unit-ideas.”** Notebook 004 + 1898 paper already decompose a coherent doctrinal system into historically/functionally different elements and reconstruct their arrangement.
-4. **Comparative religion is a transformation, not necessarily continuity.** The 1906 Monist article must be close-read for actual carryover of method.
-5. **Mature history of ideas uses distributed expertise.** The 1935 primitivism volume provides a test case for how Lovejoy organized non-European histories through Albright and Dumont.
-6. **“China” requires source criticism.** The 1933 essay could reveal either serious engagement with Orientalist scholarship or primarily a European history of representations of China; we need its footnotes/source architecture.
+1. Full primary scan/OCR of 1906 *Primitive Philosophy*.
+2. Washington University 1904/05 + 1905/06 catalogue and Association Bulletin: identify `Hist. Relig.` and 1901 Buddhism syllabus.
+3. Primary two-page Lovejoy review of Deussen (1907).
+4. Full 1907 *Origins of Ethical Inwardness* and 1908 Smith review + 1909 reply.
+5. MS-0873 letters, especially March/October 1896 and Oct/Dec 1898.
+6. Marillier *Survivance* → 005 pp.1–30 source/example concordance.
+7. Second-pass chronological stratigraphy of 005 and correction of p.44 archival JSON.
+8. AOS proceedings/membership 1897–1902.
+9. Lovejoy–Albright/Dumont project correspondence.
+10. 1933 vs 1948 China essay source comparison.
 
-## Search streams
+## Batch notes
 
-### A — primary works and teaching
-- independently locate the 1901 *Philosophy of Buddhism* syllabus;
-- obtain/search full text of the 1906 *Fundamental Concept of the Primitive Philosophy*;
-- systematically scan Wilson bibliography for India / Buddhism / Oriental / comparative religion / China / Asia / Sanskrit / Pāli / Persia / Semitic / Hebrew;
-- university catalogues/bulletins at Stanford, Washington University, Columbia, Missouri, Johns Hopkins.
+- `lovejoy_as_orientalist_web_sweep_batch02_1906_and_005.md`
+- `lovejoy_as_orientalist_web_sweep_batch03_harvard_training.md`
+- `lovejoy_as_orientalist_web_sweep_batch04_harvard_public_orientalism.md`
+- `lovejoy_as_orientalist_web_sweep_batch05_paris_1898_1899.md`
+- `lovejoy_as_orientalist_web_sweep_batch06_china_1933.md`
+- `lovejoy_as_orientalist_web_sweep_batch07_1935_distributed_expertise.md`
+- `lovejoy_as_orientalist_web_sweep_batch08_marillier_005_breakthrough.md`
+- `lovejoy_as_orientalist_web_sweep_batch09_marillier_text_and_1907_1908_religion.md`
+- `lovejoy_as_orientalist_web_sweep_batch10_005_1905_reuse_and_vedanta_review.md`
 
-### B — Harvard / training network
-- Harvard course catalogues 1895–98 and, if accessible, Lovejoy enrollment/transcript records;
-- Lanman correspondence and teaching records; Henry Clarke Warren papers/materials;
-- 1896 Lanman Buddhism lecture series and its printed outlines;
-- History of Religions Club at Harvard;
-- George Foot Moore and other religion/Oriental-studies networks.
-
-### C — Paris
-- Sorbonne/EPHE course lists, 1898–99;
-- Sylvain Lévi / Émile Senart / Indology and comparative religion courses;
-- Lovejoy letters from Paris and notebooks dated 1898–99;
-- Bibliothèque Nationale research traces.
-
-### D — American Oriental Society / contemporary reception
-- AOS membership and proceedings, 1897–1902;
-- reviews/notices/citations of the 1898 paper before 1930;
-- relations with Warren, Rhys Davids, Oldenberg, Senart, Burnouf/Childers traditions.
-
-### E — mature Asian/global strands
-- close-read 1933 “Chinese Origin” source base;
-- locate Lovejoy–Albright correspondence and 1935 project records;
-- search for Dumont correspondence;
-- compare “Primitivism in Indian Literature” with Lovejoy/Boas framing;
-- map whether later history-of-ideas projects planned further Asian volumes/materials.
-
-### F — later reception
-- Buddhist Studies citations of 1898 paper by proposition;
-- histories of Indology/American Orientalism;
-- reception of 1906 “primitive philosophy,” including its use in psychology/anthropology;
-- secondary scholarship on Lovejoy, China, global intellectual history, Orientalism or Eurocentrism.
-
-## Discovery log
-
-### Batch 1 — broad sweep, 2026-08-18
-
-Confirmed / high value:
-
-- NTU Buddhist Studies full text of 1898 paper — primary.
-- Oxford Academic metadata for 1906 Monist paper — primary metadata.
-- Wilson annotated bibliography — 1901 Buddhism syllabus and broad publication map; discovery source pending independent verification for syllabus.
-- JHU MS-0038 finding aid — archival scope, early history-of-religion activity, research-to-publication pattern.
-- Karttunen *Persons of Indian Studies* — specialist recognition; “never returned” needs qualification.
-- Harvard Lanman archive + Harvard South Asian Studies institutional history — strong context.
-- Harvard Crimson, 29 Apr 1896 — Lanman Buddhism lecture during Lovejoy’s residence, with Sāṁkhya/Vedānta + Sanskrit/Pāli content strikingly close to 004’s concerns.
-- CiNii/Persée and other bibliographic records — 1935 project includes Albright on ancient Western Asia and Dumont on Indian literature.
-- JHU finding aid — Albright is a named related person in Lovejoy papers.
-
-Negative / unresolved results worth preserving:
-
-- no direct Lovejoy–Lanman correspondence hit yet;
-- no direct Lovejoy–Warren correspondence hit yet;
-- no proof of Lovejoy’s Sanskrit/Pāli enrollment;
-- no independent online copy of 1901 Buddhism syllabus yet;
-- no AOS membership/meeting evidence yet;
-- no specific Paris Indology teacher/course link yet;
-- no Dumont correspondence hit yet.
-
-## Status snapshot
-
-**Strict Orientalist core, strongly confirmed:** notebook 004 + 1898 JAOS article + 1901 Buddhism lectures (bibliographically confirmed; syllabus scan pending).
-
-**Formation context, strongly confirmed but pedagogical link unproved:** Harvard’s Lanman/Warren/Oriental Series/Buddhism environment, 1895–98.
-
-**Adjacent comparative religion:** 1906 Monist article; notebook 005 likely highly relevant but should be interpreted only as transcription advances.
-
-**Mature non-European/global strands:** 1933 China-transmission essay; 1935 Albright/Dumont collaboration in *Primitivism and Related Ideas in Antiquity*.
-
-**Highest-priority unknowns:** exact linguistic training; direct Harvard Orientalist contacts; 1901 syllabus object; AOS participation; Paris Indology connections; contemporary reception of 1898; Lovejoy–Albright/Dumont project correspondence; other unpublished Asian notebooks.
-
-This file is a live research log. Substantial search batches should be synchronized here rather than left only in chat.
+This file is the canonical live interpretive status; `lovejoy_orientalist_source_register.csv` is the structured evidence ledger.
