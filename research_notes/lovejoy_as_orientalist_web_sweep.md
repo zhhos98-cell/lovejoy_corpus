@@ -2,7 +2,7 @@
 
 Status: **ACTIVE**  
 Started: 2026-08-18  
-Last substantial sync: **batch 16**  
+Last substantial sync: **batch 21**  
 Evidence rule: distinguish primary evidence, institutional/archival evidence, contemporary reception, later reception, and inference. Do not convert institutional proximity, resemblance, or later terminology into biography without corroboration.
 
 Detailed discoveries are preserved in numbered batch notes; this file records the current canonical model.
@@ -12,6 +12,8 @@ Detailed discoveries are preserved in numbered batch notes; this file records th
 How far can Arthur O. Lovejoy be reconstructed as an Orientalist / student and teacher of Asian religions and philosophies, especially Indian philosophy and early Buddhism, and how did this work feed into comparative religion and the later history of ideas?
 
 `Orientalist` is used as a research category specifying forms of training and practice, not as a permanent career label. The **strict core** includes Sanskrit/Buddhist-text training, Indian philosophy, Pāli/Sanskrit vocabulary, specialist publication/review/teaching. An **adjacent comparative-religion layer** includes “primitive religion/philosophy,” sacrifice, eschatology, magic and causal efficacy. A **mature global/transmission layer** includes China, India and ancient Western Asia when they enter later history-of-ideas projects through representation, transmission or specialist collaboration.
+
+The present highest-yield microhistory is narrower: **notebook 005 as a material record of comparative-religion research production in Marillier’s EPHE workshop, and its later transformation into Lovejoy’s own causal/classificatory method.**
 
 ## Current chronology and evidentiary spine
 
@@ -33,9 +35,62 @@ Methodological lead: historically borrowed/composite elements need not form an a
 
 Wilson, citing Lovejoy’s letters of 17 October, 1 December and 5 December 1898, says Lovejoy hoped to take **Pāli Buddhism with Sylvain Lévi** and, when that course was unavailable, **occasionally went to Lévi’s home to read sacred texts with him**. He also studied Psalms with Maurice Vernes and heard Jean Réville. Exact texts/languages still require the letters themselves.
 
-The official EPHE religious-sciences report independently names **Lovejoy among auditors who took an active part in Léon Marillier’s conferences**. Those conferences treated survival of the soul, non-moral future-life beliefs, human sacrifice, ritual anthropophagy, and funerary/expiatory/magical/fecundative mechanisms using African, North-American and non-Aryan Indian evidence.
+The official EPHE religious-sciences report independently names **Lovejoy among auditors who took an active part in Léon Marillier’s conferences**. The 1898–99 report records 20 enrolled participants; regular titular students included **Nathan Söderblom, Travers and Schaefer**, while active auditors included **Lovejoy, W. S. Andrews and Lorette**.
 
-Marillier’s **“La survivance de l’âme et l’idée de justice chez les peuples non civilisés”** (1893; separate 1894 printing) has been identified as the source behind 005 abbreviations `M. Surviv.` / `Surviv.`.
+Marillier’s Monday conference studied `survivance` and explicitly aimed to show that moral retribution does not occur at the origin of the eschatology of non-civilized peoples. The report says the conference **refuted Steinmetz’s objections** to Marillier’s earlier memoir and added new supporting facts especially from **the two Americas**. The Tuesday conference treated human sacrifice and ritual anthropophagy across Bantu southern Africa, Guinea, North America and non-Aryan India, distinguishing expiatory, funerary, anthropophagic, magical, agrarian and fecundative mechanisms.
+
+Marillier’s **“La survivance de l’âme et l’idée de justice chez les peuples non civilisés”** (1893; separate 1894 printing) is securely identified as the source behind 005 abbreviations `M. Surviv.` / `Surviv.`.
+
+### 1898–1901 — Marillier’s seminar was a paper-based research workshop
+
+The documentary context is now substantially stronger than a lecturer-to-student model.
+
+- N. W. Thomas (1896), a first-person witness to Marillier’s EPHE teaching, describes the school principle as **work by pupils directed by the lecturer**: students could prepare essays on defined problems, read them in class, receive Marillier’s comments and discuss them with peers.
+- Ida Tarbell’s recollections of the Marillier household describe Léon spreading research papers out for scholarly inspection and Jeanne Marillier acting as amanuensis, copy/proof reader and adviser.
+- RAI **MS 99 — L. Marillier, “Notes and extracts”** preserves Marillier-attributed thematic dossiers whose architecture reproduces his EPHE programme: origin of death / abode of dead / survivance, totemism, human sacrifice, marriage, myths, flood, taboo, cult of dead/sorcery and bibliography. Exact autograph/provenance remains to be tested because some catalogue headings contain later `E. Torday` references.
+- Arnold Van Gennep later recalled that Marillier’s teaching changed both the **documents** and the **direction of method** of his research.
+
+Most importantly, Nathan Söderblom’s 1901 *La vie future d’après le mazdéisme* provides **direct primary evidence of dossier circulation**. In the preface he says Marillier generously offered him his own notes; at printed p.191 he specifies that Marillier allowed him to consult abundant notes on cosmogony and flood narratives and says direct extracts from Marillier’s files are marked `M.`. The following bibliography visibly uses that siglum.
+
+This proves that Marillier’s personal thematic extract dossiers could move directly into student research outputs. It does **not** prove that Lovejoy handled the identical sheets, but it gives a documented material mechanism for transmission inside the same seminar environment.
+
+### 1898–1901 — same-teacher control: Söderblom versus Lovejoy
+
+Söderblom is now the strongest independent control. His 1898 EPHE diploma, *Traces dans le Mazdéisme d’une ancienne conception sur la survivance des morts*, was explicitly directed by Marillier and expanded into *Les Fravashis* (1899). He simultaneously worked in Avestan philology under Antoine Meillet.
+
+Söderblom’s 1901 book says he profited greatly from Marillier’s 1898–99 conferences, adopts the `continuation/survivance` problem, and explicitly says he will proceed with **different divisions and a somewhat different point of view**. He also attributes to Marillier the Melanesian-derived expression **`le mana de l’homme`**.
+
+Cross-reading Söderblom 1901 pp.17–48 against 005 pp.1–30 yields several exact/near-exact source clusters:
+
+- C. A. Murray, *Travels in North America*, Pawnee future hunting;
+- Greenland/Eskimo two-abode problem, including drowning and women dying in childbirth without necessary moral reward/punishment;
+- Cheyenne/status-selection material;
+- strongest: **Madagascar / Abinal & Vaissière / Hova / second death**, while Lovejoy’s inserted slip is explicitly headed `Marillier — Survivance — 12 June`.
+
+The crucial difference is analytical. Söderblom organizes much of the material morphologically by forms/abodes of survival and reasons for separation among the dead. Lovejoy increasingly sorts by **determinant/mechanism**: naturalistic continuation/status → ritual → social/community → strictly moral guilt/desert. Shared documents therefore produce distinct abstractions.
+
+### 1898–1899 — 005 inside the Steinmetz–Marillier controversy
+
+Marcel Mauss’s 1896 review of S. R. Steinmetz, *Ethnologische Studien zur ersten Entwickelung der Strafe*, reconstructs the controversy that Marillier’s 1898–99 conference explicitly resumed. Mauss directly opposes Marillier’s observations to Steinmetz and argues that **critique of texts** can yield very different results from recording their raw/general content.
+
+The dispute turns on exactly the operations visible in 005 pp.16–30:
+
+- Christian contamination in reported American and other eschatologies;
+- Buddhist/Hindu contamination elsewhere, with lexical borrowing such as Sanskrit `naraka` used as evidence;
+- differential afterlives caused by continued inequality, **performance of rites**, or **manner of death**, rather than moral desert;
+- refusal to infer retributive justice merely from the existence of two or more post-mortem destinations.
+
+Lovejoy’s notebook repeatedly tests missionary influence, diffusion, suicide, drowning, childbirth, status, bodily continuity and ritual/social qualification against a moral reading. PDF p.19 turns the Murray/Pawnee case into a chronology/contact problem. Thus the early 005 section is best read as residue of a **live evidentiary controversy**, not simply notes copied from Marillier’s 1893 memoir.
+
+### 1897–1901 — Elizabeth Laetitia Moon Conard as an American evidence node
+
+A parallel research line may help explain Marillier’s statement that the 1898–99 conference added new facts especially from the Americas. Elizabeth Laetitia Moon (later Conard) studied at the École des Hautes Études/Sorbonne in Paris in 1897–98 and began a University of Chicago comparative-religion dissertation on Algonquian ideas of God and future life. She completed the Ph.D. in 1899.
+
+BnF/Persée bibliographic records explicitly state that her dissertation, *Ideas of the future life held by Algonkin Indians*, was **translated by Léon Marillier**. The French study appeared in two instalments in *Revue de l’histoire des religions* 42 (1900), pp.9–49 and 220–274, and as a 99-page Leroux volume in 1901.
+
+The source/problem field overlaps 005 closely: missionary relations, Schoolcraft, Cheyenne and other North-American material, corporeal soul, continued hunting/ordinary life after death, Christian/contact elements, and a Charlevoix passage in which prowess/status — good hunting, bravery, worldly success, killing enemies — gives titles to paradise rather than straightforward moral virtue.
+
+**Evidence limit:** Moon/Conard has not yet been proved to have attended Marillier’s conference or supplied the specific new American facts used in 1898–99. She is therefore treated as a **parallel American-input node**, not a demonstrated student/source for Lovejoy.
 
 ### 1898–1905 — notebook 005 is longitudinal
 
@@ -43,11 +98,25 @@ Marillier’s **“La survivance de l’âme et l’idée de justice chez les pe
 
 A controlled second pass securely resolves PDF p.44 as **`Hist. Relig. — Dec. 20, 1905.`** The archival JSON itself has been corrected. The page continues primitive religion, Old Testament material, `psychē`, `nephesh/ruach`, ancestor worship and totemism. Thus 005 was reused/extended at least through 1905; page order cannot simply be equated with composition chronology.
 
-Current model: **Marillier/EPHE comparative source collection (1898–99) → continued `Hist. Relig.` notebook work documented in 1905 → theoretical condensation in 1906.** The Washington University course/lecture behind the 1905 heading remains unidentified.
+The revised production model is:
+
+> **Marillier thematic dossiers / publications / seminar controversy**  
+> ↕  
+> **student research, presentations, teacher criticism and peer discussion**  
+> ↕  
+> **Lovejoy 005 as an active research notebook rather than simple lecture transcription**  
+> ↓  
+> **continued/reused `Hist. Relig.` work documented in 1905**  
+> ↓  
+> **Lovejoy’s 1906 abstraction of a cross-cutting causal category**
+
+The same environment produced different student outcomes: Söderblom reorganized survivance into comparative eschatology; Lovejoy increasingly reorganized the field by causal and normative determinant.
 
 ### 1901 — Buddhism becomes teaching
 
 Wilson records **“Syllabus: The Philosophy of Buddhism,” Washington University Association, 1901**, four lectures: place of Buddhism among Indian philosophies; two essential formulas; Buddhist ethics and its goal. The original syllabus remains to be located.
+
+The Washington University Association later becomes a concrete institutional channel: the 1905 *Hatchet* lists Lovejoy as **Managing Editor** of the Association *Bulletin*. This makes an Association/public-lecture connection to the 1905 `Hist. Relig.` reuse searchable, but no source yet identifies the notebook heading with a specific Association event or formal course.
 
 ### 1902 — technical Buddhist philology becomes history of a category
 
@@ -111,11 +180,7 @@ The public **Box 44** listing for Series 1/Sub-Series 6 Publishing is fully chec
 
 Current archival statement: **Lovejoy’s presence in MSS 027 is confirmed at collection-index level; exact publishing-correspondence/manuscript container remains unresolved.**
 
-Best archive request:
-
-> All MSS 027 records indexed to Arthur O. Lovejoy (1873–1962), especially Series 1/Sub-Series 6 Publishing and Series 2 Manuscripts, c.1905–1909, including material relating to “The Fundamental Concept of the Primitive Philosophy” (1906), “The Theory of a Pre-Christian Cult of Jesus” (1908), William Benjamin Smith / *Der Vorchristliche Jesus*, or other Lovejoy contributions to *The Monist* / *The Open Court*.
-
-Three distinct early ecologies:
+Three distinct early ecologies remain useful context:
 
 1. **Harvard:** Lanman/Warren/Everett/Toy — formal language/text/religion formation.
 2. **Paris/EPHE:** Lévi/Marillier — Buddhist reading and comparative-religion source/classification work.
@@ -134,32 +199,40 @@ The Preface to Lovejoy and Boas, *Primitivism and Related Ideas in Antiquity*, e
 ## Current evidentiary model
 
 1. **1895–1901: direct Orientalist/comparative-religion formation and practice.**
-2. **1898–1909: sustained transformation rather than abandonment:** technical philology, comparative religion, category-history, causal-efficacy theory, current Vedānta scholarship, Jewish/Christian history of religion and a live syncretism/genealogy debate overlap.
-3. **1930s: mediated/distributed global history of ideas:** China as representation/transmission; India and ancient Western Asia through specialist collaboration.
+2. **1898–1901: a document-producing seminar ecology:** Marillier dossiers, printed arguments, student research, teacher criticism, peer discussion, translation/editorial circulation and explicit transfer of working notes coexist.
+3. **1898–1909: sustained transformation rather than abandonment:** technical philology, comparative religion, category-history, causal-efficacy theory, current Vedānta scholarship, Jewish/Christian history of religion and a live syncretism/genealogy debate overlap.
+4. **1930s: mediated/distributed global history of ideas:** China as representation/transmission; India and ancient Western Asia through specialist collaboration.
 
-The strongest current thesis is not “Lovejoy was continuously an Orientalist.” It is that **Orientalist and comparative-religion training formed an early laboratory for analytical operations later redistributed into history of ideas**: decomposition of apparent systems, semantic discrimination, historical layering, logical versus chronological sequencing, classification by causal mechanism, caution about borrowing/syncretism, and reconstruction of intelligible arrangements. By 1902 and 1906 Lovejoy’s own vocabulary already includes `categories`, `presuppositions`, `logical motives`, recoverable `logic`, `system`, `connectedness`, and analytical correlation. The mature `unit-idea` vocabulary should not be projected backward as already fully formed.
+The strongest current thesis is no longer merely that Orientalist/comparative-religion training supplied topics later reused by Lovejoy. **005 lets us reconstruct the production of an analytical practice at documentary scale.** Marillier’s workshop supplied problems, classified cases, source criticism and circulating dossiers; same-seminar students demonstrably reorganized those materials differently; Lovejoy increasingly decomposed them by determinant and causal mechanism. The notebook then remained available for reuse through at least 1905, immediately before the 1906 abstraction of quasi-mechanical/transferable efficacy.
 
-## Active queue
+This claim can be made without projecting the mature `unit-idea` vocabulary backward. By 1902 and 1906 Lovejoy’s own vocabulary already includes `categories`, `presuppositions`, `logical motives`, recoverable `logic`, `system`, `connectedness`, and analytical correlation; the earlier 005 evidence shows the practical operations from which such abstraction could be built.
 
-1. **Extract the public-domain 1908/1909 debate:** Lovejoy pp.597–609 from IA `monistquart18hegeuoft`; Smith pp.409–420 from IA `monistquart19hegeuoft`; build claim/evidence/objection/reply table.
-2. **SIU MSS 027:** continue container identification beyond Box 44 and ask for all Lovejoy-indexed items in Publishing correspondence + Manuscripts c.1905–1909.
-3. **Extract Lovejoy’s 1907 Deussen review**, then test the exact Śaṅkara/Rāmānuja language. Confirmed public routes: HathiTrust/Open Library/Wikisource; IA identifiers include `journalphilosop04orggoog` and `journalofphiloso04lancuoft`.
-4. **Harvard Woods archives:** HUG 1880.2xx + MS Am 2693, search Lovejoy/Deussen/Rāmānuja/Vedānta/Śaṅkara; direct correspondence unresolved.
-5. Extract full 1906 authority/term concordance and match against 005 page images.
-6. Identify Washington University course behind `Hist. Relig. — Dec. 20, 1905` and locate 1901 Buddhism syllabus.
-7. Build formal **004 → 1898 → 1902** concordance.
-8. Build **005(1905 Hebrew layer) → 1907 Ethical Inwardness** concordance.
-9. Retrieve MS-0873 letters; Marillier *Survivance* → 005 pp.1–30 concordance; AOS proceedings/membership 1897–1902.
-10. Lovejoy–Albright/Dumont correspondence; 1933 vs 1948 China comparison.
+## Active queue — refocused on the 005 paper
+
+1. **Build the publication-level three-way survivance concordance:** Marillier 1893/94 ↔ Söderblom 1901 pp.17–48 ↔ Lovejoy 005 pp.1–30, including exact source books, page numbers, case order and classificatory differences.
+2. **Build the controversy table:** Steinmetz claim → Mauss/Marillier rebuttal → 005 case/test. Prioritize missionary/contact contamination, rites, manner of death, status and differentiated destinations.
+3. **Obtain RAI MS 99 images `/1–4`, `/9–11`**, beginning with folder covers and bibliography/source order. The highest-value proof would be distinctive source order/page-reference matches between teacher dossier and 005.
+4. **Test Söderblom’s `M.` bibliography against MS 99 `/8 Déluge`** as a control for what demonstrable Marillier-dossier transmission looks like.
+5. **Extract Moon/Conard 1900/1901 into searchable text** and compare exact Algonquian source/page sequences with 005 and Marillier. Search EPHE registration/Chicago doctoral files before making a direct student/source claim.
+6. **Resolve the remaining 1898–99 seminar population** (Travers, Schaefer, W. S. Andrews, Lorette) from EPHE registration/attendance records and then search their personal papers for another notebook.
+7. Identify the Washington University context behind `Hist. Relig. — Dec. 20, 1905` and locate the standalone 1901 Buddhism syllabus.
+8. Extract Marillier’s own Steinmetz reviews / related polemical writing, especially `Endokannibalismus`, for a closer pre-seminar bridge.
+9. Keep 1906 `Primitive Philosophy` as the endpoint control: complete authority/source concordance against the now-reconstructed 005 workshop layers.
+10. Lower-priority wider-project work remains: 004→1898→1902, 005 Hebrew layer→1907, Deussen review, Open Court archive, 1933/1948 China.
 
 ## Batch notes
 
-Batches 02–16 are stored under `research_notes/`. Latest:
+Batches 02–21 are stored under `research_notes/`. Most relevant recent files:
 
 - `lovejoy_as_orientalist_web_sweep_batch12_1906_primary_concordance.md`
 - `lovejoy_as_orientalist_web_sweep_batch13_monist_open_court_ecology.md`
 - `lovejoy_as_orientalist_web_sweep_batch14_open_court_archive_narrowing.md`
 - `lovejoy_as_orientalist_web_sweep_batch15_siu_box44_and_monist_1908_1909_routes.md`
 - `lovejoy_as_orientalist_web_sweep_batch16_deussen_woods_harvard_indic_network.md`
+- `lovejoy_as_orientalist_web_sweep_batch17_marillier_sem_population_soderblom_washu_context.md`
+- `lovejoy_as_orientalist_web_sweep_batch18_soderblom_primary_marillier_notes.md`
+- `lovejoy_as_orientalist_web_sweep_batch19_cross_student_survivance_concordance.md`
+- `lovejoy_as_orientalist_web_sweep_batch20_steinmetz_mauss_marillier_005_controversy.md`
+- `lovejoy_as_orientalist_web_sweep_batch21_moon_conard_algonquian_input.md`
 
 This file is the canonical live interpretive status; `lovejoy_orientalist_source_register.csv` plus batch delta CSVs form the structured evidence ledger.
