@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "source_id": "nw_thomas_ephe_folklore_1896",
+  "author": "Northcote Whitridge Thomas",
+  "title": "The École Pratique des hautes Études",
+  "container": "Folk-Lore",
+  "volume": 7,
+  "year": 1896,
+  "printed_pages": "200-201",
+  "public_domain": true,
+  "digital_witnesses": [
+    {
+      "provider": "Wikisource",
+      "identifier": "Index:Folk-lore - A Quarterly Review. Volume 7, 1896.djvu",
+      "type": "DjVu facsimile + transcription",
+      "status": "online",
+      "printed_p200_scan_page": 226,
+      "printed_p201_scan_page": 227,
+      "p200_text_status": "search-indexed and readable",
+      "p201_text_status": "scan locator known; current web search did not expose indexed transcription"
+    }
+  ],
+  "primary_evidence": {
+    "seminar_subjects": ["Legends of a Deluge", "The Rites of Marriage"],
+    "pedagogical_formula": "work by the pupils, directed by the lecturer",
+    "seminar_process": [
+      "student writes essay on a defined point",
+      "essay is read in the lecture",
+      "Marillier comments on it",
+      "other pupils discuss it"
+    ],
+    "evidential_status": "secure for p.200; complete two-page transcription still pending"
+  },
+  "research_value": "Contemporary first-person student witness to Marillier seminar pedagogy; strongly informs interpretation of Lovejoy notebook 005 as interactive seminar/research work rather than lecture dictation.",
+  "next_actions": [
+    "capture printed p.201 / DjVu 227 at image or raw-text level",
+    "collate 1895-1896 flood/marriage topics with RAI MS99 /5-8",
+    "search Thomas pre-1901 papers for Paris notebooks and Marillier correspondence"
+  ],
+  "updated": "2026-08-18"
+}
