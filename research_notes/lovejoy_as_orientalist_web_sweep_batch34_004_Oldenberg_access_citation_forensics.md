@@ -38,37 +38,43 @@ The asymmetry should be kept intact rather than converted into a dependence clai
 2. **Lovejoy generally knew Oldenberg** = availability/plausibility of transmission;
 3. **Lovejoy does not cite the exact earlier locus in the relevant section** = dependence remains open.
 
-## 3. Corpus / biographical audit
+## 3. Corpus / biographical audit — correction
 
-The Wilson biography material in the clean corpus confirms that Lovejoy remained at Harvard through 1897–98 and cites a Harvard University Archives list of his courses for 1897–98. It also identifies an archival item called **“A. O. Lovejoy H[ome] L[ibrary] Group 32”** and dates related evidence to October 1898.
+The Wilson biography material confirms Lovejoy's Harvard context and cites a Harvard University Archives list of his courses. A previous version of this note misread Wilson's archival shorthand **“A. O. Lovejoy H[ome] L[ibrary] Group 32”** as a possible personal book/library inventory.
 
-This creates two concrete archival access routes:
+**That interpretation is incorrect and is hereby retired.** Wilson's surrounding narrative identifies Lovejoy's `Home Library` activity as volunteer work in the **Boston Children's Aid Society Home Library program**. Small circulating libraries were placed in children's homes; Lovejoy worked with a group of school-age students, meeting them repeatedly for reading, discussion, current events, and neighborhood activities. `Group 32` is therefore a Home Library program/group identifier, not evidence of Lovejoy's private book ownership.
 
-### A. Harvard course / library environment
+Consequences:
 
-The 1897–98 course list may establish the institutional context in which Buddhist/Sanskrit/Indian-philosophy materials were being read, but the current corpus excerpt does not itself mention Oldenberg or an Oriental languages course. Course catalog pages and the actual course list should be checked before making any claim about curricular transmission.
+- `Home Library Group 32` has **no evidentiary value** for possession or use of Oldenberg, Senart, Jacobi, Warren, Childers, or Rhys Davids;
+- it must not be searched or cited as a personal-library catalogue;
+- the Oldenberg access problem remains open and must be pursued through course records, correspondence, actual citations, borrowing/library records if found, or Lanman/Harvard teaching materials.
 
-### B. Lovejoy Home Library Group 32
+## 4. Harvard access environment remains relevant, but only as context
 
-This is potentially higher-yield. If Group 32 is a personal book/library inventory, it may directly record editions owned or used by Lovejoy. The current clean corpus only preserves Wilson's citation to the notebook, not its contents. A hit for Oldenberg, _Buddha_, Senart, Jacobi, Warren, Childers, Rhys Davids, or related Indological books would materially change the dependence/circulation argument.
+Lovejoy's documented Harvard training provides a plausible access environment without proving use of the 1897 third edition. Lanman led Sanskrit/Indo-Iranian study; Warren and Lanman were central to the Harvard Oriental Series; Lovejoy studied Sanskrit and Buddhist texts in this environment; and Lanman publicly lectured on Buddhism in 1896, explicitly discussing the relation of Buddhism to Sāṁkhya/Vedānta and Sanskrit/Pāli sources.
 
-## 4. Negative searches completed
+This establishes **availability and problem ecology**, not a chain of transmission to Oldenberg p.273n.
 
-Repository/corpus searches for combinations of `Oldenberg`, `Buddha`, `1897`, `third edition`, `Home Library`, and Lovejoy correspondence produced no direct third-edition ownership/use statement.
+The high-value archival controls are therefore:
 
-This is useful negative evidence at the project level, but it is not evidence of absence in the full Lovejoy Papers. The clean corpus is not a complete transcription of all correspondence or library records.
+1. Harvard University course lists/catalogues for 1896–97 and 1897–98, especially Lanman/Everett and any assigned texts;
+2. Lovejoy correspondence in late 1897 and early 1898 for current reading/research references;
+3. Wilson's transcriptions of Lovejoy letters (MS-0873) where originals are cumbersome to reach;
+4. Lanman teaching papers/correspondence or Harvard Oriental Series records if they preserve reading lists or circulation of current German scholarship.
 
 ## 5. Current inference ladder
 
 ### Secure
 
-- Oldenberg's anti-Senart semantic rebuttal is in the 1897 third edition, attested by both Jacobi 1898 and Oldenberg 1898.
+- Oldenberg's anti-Senart semantic rebuttal is in the 1897 third edition, attested by Jacobi 1898 and Oldenberg 1898.
 - Lovejoy's 004 notebook works deeply with Oldenberg and with the same nidāna vocabulary.
 - Lovejoy 1898 explicitly cites Oldenberg elsewhere in the same article.
+- `Home Library Group 32` is a social/educational volunteer-program reference, not a personal library inventory.
 
 ### Strong contextual probability
 
-- Lovejoy could plausibly have encountered the 1897 third edition or its argument in the active 1897–98 controversy.
+- Lovejoy could plausibly have encountered the 1897 third edition or its argument in the active Harvard/Orientalist environment of 1897–98.
 
 ### Not established
 
@@ -76,24 +82,24 @@ This is useful negative evidence at the project level, but it is not evidence of
 - that his anti-Senart section depends on it;
 - that a missing citation represents omission rather than independent convergence.
 
-## 6. What this does to the historical claim
+## 6. Revised historical claim after the Hardy recovery
 
-The safest formulation is now:
+Batch 35 further narrows what can be assigned specifically to Lovejoy. The karma/`upādāna` two-factor causal architecture is itself upstream in R. Spence Hardy, _A Manual of Budhism_ (1853), p.394, which 004 cites directly. Lovejoy's stronger analytical specificity therefore does **not** lie simply in allocating two causal roles.
 
-> By 1897 Oldenberg had already published the basic textual objection to Senart's equation of `upādāna` with the `upādānakkhandhas`. Lovejoy's 1898 article independently presents the same basic distinction in a more extended causal reconstruction, but current evidence does not yet establish whether he knew Oldenberg's third-edition note. Lovejoy's stronger claim to analytical specificity lies in the allocation of causal roles among `taṇhā`, `upādāna`, karma, and rebirth, not in priority for the elementary semantic correction.
+The safer formulation is:
 
-That wording preserves what can be demonstrated while leaving the transmission problem genuinely open.
+> By 1897 Oldenberg had already published the basic textual objection to Senart's equation of `upādāna` with the `upādānakkhandhas`; Hardy had much earlier supplied the two-factor reproduction/karma distinction that Lovejoy explicitly records in 004. Lovejoy's identifiable work lies in recomposing these inherited problems: he stabilizes Hardy's distinction as `fact of rebirth` versus `particular condition`, separates `upādāna` semantically from karma through textual testing, and historicizes why inherited karma vocabulary and the specifically Buddhist problem of terminating rebirth require different explanatory roles. Current evidence does not establish dependence on Oldenberg's 1897 note.
 
 ## 7. Next archival targets
 
 Priority order:
 
-1. **A. O. Lovejoy Home Library Group 32** — search for Oldenberg, _Buddha_, Senart, Jacobi, Warren, Childers, Rhys Davids, Buddhism, Sāṁkhya/Sankhya.
-2. **Harvard University Archives course list, 1897–98**, and catalogue pp.347–349 — identify courses/teachers that could explain this research cluster.
-3. Lovejoy → Wallace W. Lovejoy letters, **October/November 1897 and 1 February 1898**, for reading/project references.
-4. Actual 1897 _Buddha_³ p.273 and pp.443–455 — still useful as visual/wording control, though no longer a priority bottleneck.
-5. If needed, 1898 JAOS/ZDMG fascicle chronology for immediate-reception ordering after the access question is clarified.
+1. **Harvard University Archives course lists/catalogues, 1896–97 and 1897–98** — exact Lanman/Everett course descriptions and, if recoverable, assigned texts.
+2. **Lovejoy → Wallace W. Lovejoy letters, late 1897 / early 1898**, plus Wilson MS-0873 transcriptions — search for Buddhist/Sanskrit reading and named scholars/books.
+3. **Lanman papers / teaching materials / HOS correspondence** — test whether current German Buddhist scholarship such as Oldenberg's 1897 third edition circulated through Lovejoy's immediate training environment.
+4. Actual 1897 _Buddha_³ p.273 and pp.443–455 — still useful as exact wording control.
+5. If needed, 1898 JAOS/ZDMG fascicle chronology for publication-order control.
 
 ## Working historiographical implication
 
-The archive now favors a history of **problem circulation** over a simple priority story. Senart, Jacobi, Oldenberg, and Lovejoy are operating inside a very tight late-1890s argumentative field. The most productive question is increasingly not “who first noticed `upādāna`?” but how each scholar redistributed the same textual difficulties among genealogy, semantics, causal function, and system reconstruction.
+The archive favors a history of **problem circulation and source transformation** over a simple priority story. Senart, Jacobi, Oldenberg, Hardy and Lovejoy distribute the same difficulties differently among genealogy, semantics, causal function and system reconstruction. The notebook's special value is that it lets us observe those redistributions before they are compressed into Lovejoy's 1898 article.
