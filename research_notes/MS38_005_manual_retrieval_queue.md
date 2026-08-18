@@ -19,6 +19,8 @@ Why this is highest priority:
 - Marillier personally reviewed that exact recent work before Lovejoy’s 1898–99 Paris seminar year.
 - Three pages could allow a direct `Steinmetz → Marillier → 005` proposition-by-proposition comparison.
 
+**Automated progress since this queue was created:** Mauss’s critical treatment of Steinmetz is now collated closely enough to identify the discriminating question for Marillier’s review. Mauss narrows `endocannibalisme` to `l’anthropophagie rituelle des parents`, says the `vertus du mort` enter the survivors, and then explicitly classifies the mechanism as `un simple acte de communion`. Lovejoy 005 later separates essentially this transfer-of-quality mechanism from communion and treats it as sympathetic / transferable efficacy. Therefore the highest-value question for pp.113–115 is now very specific: **does Marillier place kin/body-part transfer under communion, under magic, under funerary solidarity, or under a plural mechanism scheme?**
+
 Useful identifiers:
 
 - BSB/MDZ object previously located: `bsb11809713`.
