@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "project": "Lovejoy / Marillier seminar and publication genealogy",
   "updated": "2026-08-18",
   "sources": [
@@ -11,12 +11,14 @@
       "volume": "XXVIII",
       "printed_pages": "341-364",
       "year": 1900,
+      "volume_issue_span": "3 May 1900-29 October 1900",
+      "chronology_note": "The volume span narrows publication to 1900 but does not establish whether Marillier's article preceded or followed Lovejoy's own 1900 formulation.",
       "public_domain": true,
       "digital_witnesses": [
         {
           "provider": "Gallica",
           "identifier": "bpt6k24663w",
-          "type": "facsimile",
+          "type": "facsimile / IIIF-capable",
           "status": "online"
         },
         {
@@ -26,6 +28,7 @@
           "page_count": 1284,
           "file_size_mb": 101.07,
           "status": "online",
+          "source_archive_identifier": "lagrandeencyclop28dref",
           "working_scan_locator": "article approximately scans 353-376; verify before citation"
         },
         {
@@ -34,6 +37,11 @@
           "type": "scan/OCR source",
           "status": "identifier confirmed through Wikisource"
         }
+      ],
+      "machine_routes": [
+        "https://api.archivelab.org/books/{itemid}/searchinside?q={query}",
+        "https://api.archivelab.org/books/{itemid}/pages/{page}/ocr",
+        "Gallica IIIF Presentation API: /iiif/ark:/12148/{ark}/manifest.json"
       ],
       "priority_pages": [349, 350, 351],
       "keywords": ["mana", "magie", "force", "puissance", "rite", "initiation", "fécondité"],
@@ -49,9 +57,16 @@
         {
           "provider": "Internet Archive",
           "identifier": "laviefuturedapr00sdgoog",
-          "type": "Google/Michigan scan with OCR",
-          "status": "online / full text and PDF exposed"
+          "ark": "ark:/13960/t50g3xd34",
+          "source_library": "University of Michigan",
+          "type": "Google scan with OCR",
+          "page_count": 468,
+          "status": "online; full text, PDF, EPUB, ABBYY and TIFF options exposed"
         }
+      ],
+      "machine_routes": [
+        "https://api.archivelab.org/books/{itemid}/searchinside?q={query}",
+        "https://api.archivelab.org/books/{itemid}/pages/{page}/ocr"
       ],
       "priority_pages": [37],
       "keywords": ["Marillier", "mana", "survivance", "force", "puissance"],
@@ -76,6 +91,40 @@
       "next_action": "retain as institutional control for seminar cohort and topics"
     },
     {
+      "id": "mauss_ephe_1901_1902_marillier_tradition",
+      "author": "Marcel Mauss",
+      "title": "I. Religions des peuples non civilisés",
+      "container": "EPHE report for 1901-1902",
+      "year": 1901,
+      "page": 29,
+      "digital_witnesses": [
+        {
+          "provider": "Persée",
+          "identifier": "ephe_0000-0002_1901_num_15_11_19570",
+          "type": "scan/OCR",
+          "status": "online"
+        }
+      ],
+      "research_value": "Primary institutional control: Mauss says his Tuesday seminar critically studying Melanesian magic sought to maintain traditions implanted in this field by his teacher Marillier.",
+      "next_action": "use as direct evidence that Melanesian magic belonged to the Marillier seminar tradition immediately after his death"
+    },
+    {
+      "id": "britannica_magic_1911_marillier",
+      "author": "Encyclopaedia Britannica contributor",
+      "title": "Magic",
+      "year": 1911,
+      "type": "near-contemporary secondary relay",
+      "digital_witnesses": [
+        {
+          "provider": "Project Gutenberg mirror",
+          "identifier": "43060",
+          "status": "online full text"
+        }
+      ],
+      "research_value": "Explicitly attributes to L. Marillier a three-class scheme of magic: word/act; human qualification independent of formula; special-powered person plus forms, including mana. Its bibliography cites the article 'Religion' in La Grande Encyclopédie.",
+      "next_action": "verify the scheme directly against Marillier 1900 facsimile before treating Britannica wording as Marillier's own wording"
+    },
+    {
       "id": "ephe_archives_digitization_061975",
       "author": "EPHE / Archives nationales",
       "title": "L'EPHE dans la recherche française pendant le premier siècle de son existence (1868-1968)",
@@ -93,6 +142,7 @@
         "scolarite": "20190568/185-368"
       },
       "target_record_types": ["registres d'inscription", "listes de présence"],
+      "current_resolution": "Public indexing confirms the scolarité block but has not yet exposed the exact 1898-1899 unit cote.",
       "next_action": "resolve 1898-1899 component cotes and daogrp/image links from EAD"
     },
     {
@@ -128,7 +178,7 @@
         "Dag- och anteckningsböcker 1898-1915",
         "Almanackor 1892-1899"
       ],
-      "next_action": "resolve volume/capsule identifiers from C/E and D finding aids; request narrow digitization if needed"
+      "next_action": "resolve volume/capsule identifiers from paper finding aids; request narrow digitization if needed"
     },
     {
       "id": "marillier_notes_coutume_tabou_1901",
@@ -137,10 +187,12 @@
       "publisher": "Félix Alcan",
       "place": "Paris",
       "year": 1901,
+      "sudoc_id": "086800310",
       "discovery_source": "Sudoc record exposed through Persée authority data",
-      "digital_status": "full text not yet located",
+      "digital_status": "full text not yet located in current web sweep",
       "keywords": ["coutume", "tabou", "obligation morale"],
-      "next_action": "resolve exact Sudoc/BnF record and search digitized holdings; compare with notebook 005 pp.14-20"
+      "research_value": "High-priority control for notebook 005 pp.14-20, where Lovejoy separates custom/taboo/ritual determinants from genuinely moral guilt/desert.",
+      "next_action": "use Sudoc ID to resolve holding libraries and search BnF/Google/IA/Hathi or a journal/offprint source"
     }
   ]
 }
