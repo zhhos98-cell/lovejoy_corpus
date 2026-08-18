@@ -28,6 +28,25 @@ Useful identifiers:
 
 **Please return:** screenshots/PDF containing all of printed pp.113, 114, 115. No OCR needed.
 
+## Priority A2 — Steinmetz, `Endokannibalismus`: the discriminating primary-page packet
+
+Automated work has now narrowed the original Steinmetz text to four loci. These are nearly as valuable as the Marillier review and can be returned as a small page packet rather than the whole 60-page offprint.
+
+**Need:** Rudolf S. Steinmetz, *Endokannibalismus* (Vienna, 1896), offprint from *Mittheilungen der Anthropologischen Gesellschaft in Wien* XXVI:
+
+1. **pp.36–47 (§§16–22)** — Mauss explicitly names this range as an example of Steinmetz’s method of exposition. We need to see how contrary cases, motives, variation and source reliability are actually handled.
+2. **p.45, col.2** — Mauss cites this locus for rites involving mutilation of a corpse / eating selected parts in relation to magical vengeance or danger from the dead.
+3. **p.52, §26** — Mauss cites this in the kin-anthropophagy / bodily-fragment discussion that he classifies as communion.
+4. **pp.59–60** — Steinmetz’s conclusion. A. H. Keane quotes these pages for the claim that endocannibalism can with high probability be treated as a regular custom of primitive humanity / lower peoples.
+
+Why this packet matters:
+
+- recent web collation shows Steinmetz was already explicitly **counterfact-sensitive**: Mauss says he required contrary facts to be presented and explained and that ethnology learns especially from deviations;
+- Lovejoy 005 therefore should not be contrasted with a naive Steinmetz who ignored exceptions;
+- the sharper comparison is **counterfact-sensitive comparison → category/mechanism redivision → limits on universal primitive inference**.
+
+**Please return:** p.45, p.52, pp.59–60 at minimum; if easy, pp.36–47 as one continuous PDF. Original page numbers visible. No OCR required.
+
 ## Priority B — Marillier review of Codrington, `The Melanesians`
 
 **Need:**
