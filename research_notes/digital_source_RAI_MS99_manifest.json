@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "source_id": "rai_ms99_marillier_notes",
+  "repository": "Royal Anthropological Institute of Great Britain and Ireland",
+  "reference_code": "GB 1446 MS 99",
+  "catalog_title": "Marillier, L. (MS 99): Notes and extracts",
+  "physical_description": {
+    "catalog_extent": "8 pts.",
+    "dimensions_cm": "31 x 24.5",
+    "medium": "handwritten",
+    "housing": "paper folders, beige cloth spines, inscribed on upper cover"
+  },
+  "catalog_components": [
+    {"id":"/1","title":"Origine de la mort – Séjour des morts – Conditions des âmes dans l’autre vie","lovejoy_005_target":"PDF pp.1-30"},
+    {"id":"/2","title":"Folk-lore – Survivance – Völkerpsychologie E. Torday psychologie religieuse","lovejoy_005_target":"PDF pp.1-30; especially p.29 Marillier—Survivance slip"},
+    {"id":"/3","title":"Totemism [with regional subdivisions]","lovejoy_005_target":"PDF pp.37-45"},
+    {"id":"/4","title":"Anthropologie rituale – Sacrifices humains (Afrique, Inde)","lovejoy_005_target":"PDF pp.46-119"},
+    {"id":"/5","title":"Mariage: Asie boréale – Amérique du Nord","lovejoy_005_target":"control dossier"},
+    {"id":"/6","title":"Mariage: Polynesie, Melanesie, Australie, Micronesie","lovejoy_005_target":"control dossier"},
+    {"id":"/7","title":"Mythes, legends E. Torday contes de l’Océanie","lovejoy_005_target":"PDF pp.7-10 / control"},
+    {"id":"/8","title":"Déluge: Asie, Amérique – Océanie","lovejoy_005_target":"negative/control dossier"},
+    {"id":"/9","title":"Tabou","lovejoy_005_target":"PDF pp.14-20 and 112-117"},
+    {"id":"/10","title":"Culte des morts E. Torday sorcellerie","lovejoy_005_target":"PDF pp.1-36, 64-90, 118"},
+    {"id":"/11","title":"Notes bibliographiques et divers","lovejoy_005_target":"bibliography/source-order collation across notebook"}
+  ],
+  "digital_access": {
+    "rai_public_catalog": "online",
+    "wiley_digital_archives_rai": "online subscription resource; RAI visitors have full in-house access",
+    "ms99_wda_item_confirmed": false,
+    "wda_likelihood_note": "RAI/Wiley describe a very large digitized corpus including manuscripts, notes and personal papers, but no public search-engine result yet confirms the MS99 item identifier.",
+    "next_action": "ask RAI archivist whether MS99 /1-11 is present in Wiley Digital Archives and request collection/box/folder identifier; if absent request scan estimate for /1-4,/9-11"
+  },
+  "provenance_status": {
+    "donor": null,
+    "acquisition_date": null,
+    "hand_identification": "not yet verified",
+    "arrangement_originality": "unknown",
+    "torday_problem": "Components /2, /7 and /10 contain E. Torday in catalogue headings despite Marillier's death in 1901 and Torday's separately catalogued later RAI papers. Inspect covers/handwriting/internal dates before treating all material as autograph/pre-1901 Marillier."
+  },
+  "priority": "S",
+  "updated": "2026-08-18"
+}
