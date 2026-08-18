@@ -1,13 +1,13 @@
 # Manual retrieval queue — notebook 004 / source-control problem
 
 Date: 2026-08-18  
-Status updated after Senart/Jacobi/Oldenberg recovery and the newly identified **Hardy p.394 → 004** source chain. The priority question has shifted from Oldenberg priority to direct control of Hardy’s causal paragraph.
+Status updated after direct recovery of Hardy 1853 pp.394–396 and correction of the `Home Library Group 32` misreading.
 
 ## RESOLVED — Oldenberg, “Buddhistische Studien,” ZDMG 52 (1898)
 
 Recovered: section VII pp.681–694, including pp.690–694.
 
-Result: Oldenberg gives a textual-semantic analysis of `upādāna`, rejects the Sāṁkhya `adṛṣṭa` / karma construction, and explicitly distinguishes the stages `phassa → vedanā → taṇhā → upādāna`. No `Lovejoy` hit occurs in the recovered section OCR. This makes immediate Oldenberg uptake from Lovejoy unlikely and narrows Lovejoy’s originality claim.
+Result: Oldenberg gives a textual-semantic analysis of `upādāna`, rejects the Sāṁkhya `adṛṣṭa` / karma construction, and explicitly distinguishes the stages `phassa → vedanā → taṇhā → upādāna`. No `Lovejoy` hit occurs in the recovered section OCR. Immediate Oldenberg uptake from Lovejoy is therefore unsupported.
 
 ## RESOLVED — Senart 1896
 
@@ -19,77 +19,68 @@ Result: primary text confirms Senart’s late/composite construction thesis and 
 
 Recovered: Hermann Jacobi, “Über das Verhältnis der buddhistischen Philosophie zu Sāṁkhya-Yoga und die Bedeutung der Nidānas,” pp.1–15.
 
-Result: Jacobi explicitly refers the Senart `upādāna = upādānakkhandha` issue to **Oldenberg, *Buddha*³, p.273 note**, and the broader anti-Jacobi discussion to *Buddha*³ p.448ff. More importantly for the new Hardy line, Jacobi p.13 quotes **R. Spence Hardy, _Manual of Budhism_, p.394**, describing `upādāna` as producing renewed existence while karma controls its manner.
+Result: Jacobi explicitly refers the Senart `upādāna = upādānakkhandha` issue to **Oldenberg, *Buddha*³, p.273 note**, and quotes **R. Spence Hardy, _Manual of Budhism_, p.394** while moving `upādāna` toward `adṛṣṭa` / karma.
 
-## NEWLY RESOLVED IN 004 — direct Hardy p.394 uptake
+## RESOLVED — Hardy 1853 p.394 primary
 
-The corrected 004 transcription, PDF p.33 / manuscript p.97, contains the heading **“Upādāna, Relation to Karma”** and asks whether `upādāna` may be called the cause of the **fact of continued existence**, while karma is the cause of its **manner**, followed by `Hardy, p.394`.
+Direct public-domain primary recovered from Internet Archive item `manualofbudhism00hard`, R. Spence Hardy, _A Manual of Budhism, in its Modern Development_ (London: Partridge and Oakey, 1853).
 
-This is the direct notebook precursor of Lovejoy’s published 1898 distinction:
+Relevant printed pages are now text-controlled:
 
-- karma → the **particular condition** in which one is reborn;
-- `upādāna` → the **fact of rebirth in itself**.
+- **p.394:** `upādāna` is “cleaving to existing objects”; Hardy distinguishes `upādāna` and karma as two properties continuing through the reproduction problem. He says `upādāna` necessarily produces another being and that destroying it alone can secure cessation of being.
+- **pp.394–395:** Hardy states that by `upādāna` a new existence is produced, while the **manner** of its operation is controlled by the connected karma. He admits ambiguity over which is the efficient cause, but then says karma appoints the species/state/grade of the renewed existence.
+- **p.395:** if reborn human, karma appoints male/female, monarch/outcaste, beautiful/ugly, happy/miserable.
+- **p.396:** karma naturally produces new existence **in conjunction with upādāna**; neither possesses a mind.
 
-The two-factor causal distinction therefore comes upstream from Hardy. Lovejoy’s stronger increment is the later stabilization and historical explanation of the distinction, not its invention.
+This closes the source chain:
 
-## P0 REMAINING — R. Spence Hardy, *A Manual of Budhism* (1853), printed p.394
+`Hardy 1853 p.394 → 004 p.33 explicit fact/manner reformulation → Lovejoy 1898 fact-of-rebirth / particular-condition distinction`.
 
-**Need now:**
+No manual Hardy upload is now required unless a facsimile page is wanted for publication/image citation.
 
-1. printed **p.394** in full;
-2. preferably **pp.393–395** to preserve the surrounding argument;
-3. title page only if edition metadata is not already obvious.
+Direct access:
+- Internet Archive item: https://archive.org/details/manualofbudhism00hard
+- searchable OCR: https://archive.org/stream/manualofbudhism00hard/manualofbudhism00hard_djvu.txt
 
-**Why this is now P0:**
+## CORRECTION — do not pursue `Home Library Group 32` as a book inventory
 
-The notebook explicitly cites Hardy p.394, and Jacobi independently quotes the same passage. A direct page image/text will close the source chain:
+Wilson’s `A. O. Lovejoy H[ome] L[ibrary] Group 32` is connected to Lovejoy’s volunteer work in the **Boston Children’s Aid Society Home Library program**, not to a private library catalogue. This route has been removed from the Oldenberg-access investigation.
 
-`Hardy 1853 p.394 → 004 p.33 → Lovejoy 1898 pp.129–131`.
+## P0 REMAINING — Hermann Oldenberg, *Buddha*, true 3rd enlarged ed. (1897)
 
-**Verified public-domain access routes:**
-- Google Books 1853 Oxford copy: https://books.google.com/books?id=w3cOAAAAQAAJ
-- Open Library 1853 edition / Internet Archive item `manualofbudhism00hard`: https://openlibrary.org/books/OL23317286M/A_manual_of_Budhism_in_its_modern_development
-- Open Library alternate 1853 edition / IA item `amanualbudhismi03hardgoog`: https://openlibrary.org/books/OL6281328M/A_manual_of_Budhism_in_its_modern_development
-- Wikimedia Commons public-domain scan: search title `Manual of Buddhism, In Its Modern Development (IA dli.granth.41163)`.
+The uploaded scan named `buddhaseinleben03oldegoog` is **not** the 1897 third edition; its front matter identifies it as the **1890 second edition**.
 
-**Upload preference:** only printed pp.393–395 is enough. A whole PDF is useful but not necessary.
+Need now:
 
-## P1 REMAINING — Hermann Oldenberg, *Buddha*, true 3rd enlarged ed. (1897)
-
-The uploaded scan named `buddhaseinleben03oldegoog` is **not** the 1897 third edition. Its title/front matter reads **“ZWEITE AUFLAGE”** and **1890**, with “Vorwort zur zweiten Auflage.” Treat it as an earlier control only.
-
-**Still useful:**
-
-1. title page / front matter confirming **3rd edition, 1897**;
+1. title page/front matter confirming **3rd edition, 1897**;
 2. **printed p.273, especially the note** cited by Jacobi on Senart’s `upādāna = upādānakkhandha` view;
 3. **pp.443–455**, especially **p.448ff**, the Sāṁkhya/Buddhism excurs cited by Jacobi.
 
-**Verified access routes:**
-- Google Books, 1897, Edition 3, 460 pp.: https://books.google.com/books/about/Buddha.html?id=ta7rJ6uWLfwC
-- Google Play / alternate 1897 scan, 460 pp., free ebook: https://play.google.com/store/books/details/Hermann_Oldenberg_Buddha?id=BXM_AAAAYAAJ
-- WorldCat 3rd enlarged edition record: https://search.worldcat.org/de/title/230741722
+Access routes:
+- Google Books: https://books.google.com/books/about/Buddha.html?id=ta7rJ6uWLfwC
+- Google Play / alternate scan: https://play.google.com/store/books/details/Hermann_Oldenberg_Buddha?id=BXM_AAAAYAAJ
+- WorldCat: https://search.worldcat.org/de/title/230741722
 
-**Do not reuse as a 3rd-edition route:**
-- `https://archive.org/details/buddhaseinleben03oldegoog` — the downloaded object associated with this identifier proved to be the 1890 **second edition**.
+Do **not** reuse `https://archive.org/details/buddhaseinleben03oldegoog` as a third-edition source; the downloaded object proved to be the 1890 second edition.
 
-**Upload preference:** title page + p.273 + pp.443–455 is sufficient.
+Upload preference: title page + p.273 + pp.443–455 is sufficient.
 
-## What the remaining pages will decide
+## P1 — Harvard/Lovejoy access evidence
 
-### Hardy pp.393–395
+The live question is no longer whether Lovejoy generally knew Oldenberg; he demonstrably did. It is whether we can document access to the **1897 third German edition or its new argument** before the 1898 JAOS article.
 
-Will establish exactly how much of Lovejoy’s published causal distinction is already present in Hardy’s wording and how much belongs to Lovejoy’s transformation. Current evidence already supports this narrower distinction:
+High-value manual/archive targets:
 
-- **upstream:** two-factor causal architecture;
-- **Lovejoy 004:** fact/manner analytic reformulation;
-- **Lovejoy 1898:** fact-of-rebirth/particular-condition stabilization plus historical genealogy of the terms.
+1. Harvard course lists/catalogues for **1896–97 and 1897–98**, especially Lanman/Everett courses and any reading lists.
+2. Lovejoy letters to Wallace W. Lovejoy in **late 1897 and early 1898**; Wilson transcriptions in JHU MS-0873 may be the fastest route.
+3. Charles Rockwell Lanman teaching papers / correspondence / Harvard Oriental Series materials for current Buddhist/Sanskrit reading circulation.
 
-### Oldenberg 1897
+## P2 — publication chronology
 
-Will determine how much of Oldenberg’s 1898 semantic-functional rebuttal was already explicit in 1897. This now bears chiefly on the semantic/Senart side, not on the Hardy causal bifurcation.
+Only after the access and exact-text questions are tighter: establish exact 1898 fascicle dates for Jacobi/Oldenberg ZDMG 52 and Lovejoy JAOS 19 no.2. This may distinguish parallel development from possible short-range response but is no longer the central originality question.
 
 ## Current live Lovejoy tests
 
-1. **Historical-functional recomposition:** how an inherited Hardy distinction becomes Lovejoy’s historical explanation of karma versus `upādāna`.
-2. **`upādisesa / anupādisesa` synthesis:** how far Lovejoy recombines Oldenberg, Senart, Childers and Sutta-Nipāta evidence rather than merely repeating one source.
-3. **1902 transport:** how the same separation between provenance and present logical/functioning role becomes category-history in “Religion and the Time-Process.”
+1. **Historical-functional recomposition:** Hardy supplies the causal architecture; 004 turns it into fact/manner; Lovejoy 1898 turns it into a historical explanation of inherited karma versus the specifically Buddhist cause of rebirth-as-such.
+2. **`upādisesa / anupādisesa` synthesis:** test the exact increment over Oldenberg/Childers/Senart by comparing which conflicting passages Lovejoy retains and how he resolves them.
+3. **1902 transport:** test whether `Religion and the Time-Process` generalizes the same separation between historical provenance/transmission and present logical/configurational function.
