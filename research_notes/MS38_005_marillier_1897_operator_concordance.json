@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-08-18",
+  "scope": "MS38_004_001_061_005 only",
+  "source_marillier": {
+    "author": "Leon Marillier",
+    "title": "La place du totemisme dans l'evolution religieuse, a propos d'un livre recent (F. B. Jevons: An Introduction to the History of Religion)",
+    "journal": "Revue de l'histoire des religions",
+    "volume": 36,
+    "year": 1897,
+    "parts": ["208-253", "321-369"],
+    "digital_control": "BnF/Gallica-derived searchable reproduction, bpt6k115303v"
+  },
+  "claim_policy": "Operational concordance only. No direct claim that Lovejoy read the printed 1897 article. Institutional continuity is supplied separately by Lovejoy's documented active participation in Marillier's 1898-99 EPHE conferences.",
+  "records": [
+    {
+      "operator_id": "multi_origin_sacrifice",
+      "marillier_primary": "Criticizes reduction of multiple forms of sacrifice to one original sacrifice of union/sacramental type; facts overflow narrow frames; allows parallel classes of distinct though analogous beliefs and practices.",
+      "marillier_location": "RHR 36 (1897), second installment opening, beginning printed p.321",
+      "lovejoy_pdf_pages": [65, 76, 106, 107, 108, 109, 110, 111],
+      "lovejoy_operation": "Separates originally distinct sacrificial motives; syncretism can combine them later; ceremonial cannibalism, magical transfer, propitiation, funerary provision and communion are not collapsed into one type.",
+      "evidence_strength": "A/B",
+      "relation": "same anti-unilateral classificatory operator"
+    },
+    {
+      "operator_id": "partial_not_sole",
+      "marillier_primary": "An interpretation that does not explain the whole group may still be partially exact; corrects 'not the true reason' to 'not the only reason'.",
+      "marillier_location": "RHR 36 (1897), funerary taboo discussion in second installment",
+      "lovejoy_pdf_pages": [16, 17, 18, 64, 65, 79, 80, 106, 108],
+      "lovejoy_operation": "Tests multiple determinants or motives in one case instead of replacing one universal explanation with another.",
+      "evidence_strength": "A/B",
+      "relation": "explicit methodological concordance"
+    },
+    {
+      "operator_id": "external_resemblance_not_genus",
+      "marillier_primary": "A heterogeneous set of interdictions should not be grouped as one explanatory class merely because of external resemblances; where one theory fails, seek other motives.",
+      "marillier_location": "RHR 36 (1897), taboo/Crawley discussion",
+      "lovejoy_pdf_pages": [70, 71, 76, 83, 84, 106, 107, 112],
+      "lovejoy_operation": "Ritual killing is not automatically sacrifice; sacred animal is not automatically divinity/sacrifice; circumcision is not partial human sacrifice; ceremoniality does not prove sacramental cannibalism.",
+      "evidence_strength": "A/B",
+      "relation": "surface-form critique"
+    },
+    {
+      "operator_id": "contact_transfer_contagion",
+      "marillier_primary": "Corpse transmits its defining property by simple contact; dangerous influence propagates; purification/preservation and isolation counter contagion.",
+      "marillier_location": "RHR 36 (1897), funerary taboo discussion",
+      "lovejoy_pdf_pages": [17, 18, 84, 85, 86, 87, 88, 108, 119],
+      "lovejoy_operation": "Moves from taboo/contact/blood to body-part and blood efficacy, charms, protective objects and transferable qualities.",
+      "evidence_strength": "A/B",
+      "relation": "transmissibility problem migration"
+    },
+    {
+      "operator_id": "mana_differential_efficacy",
+      "marillier_primary": "Taboo sacredness varies with mana, glossed as supernatural and magical force; superior mana can overcome an interdiction.",
+      "marillier_location": "RHR 36 (1897), second installment taboo discussion",
+      "lovejoy_pdf_pages": [64, 84, 85, 86, 87, 88, 101, 108, 119],
+      "lovejoy_operation": "Distinguishes direct action on natural forces, efficacy of blood/body parts, fetish through indwelling spirit, and intrinsic efficacy of charm/amulet/plant/stone.",
+      "evidence_strength": "A/B",
+      "relation": "efficacy localization and transfer"
+    },
+    {
+      "operator_id": "category_precision",
+      "marillier_primary": "An animal may house a spirit, possess supernatural power and receive cult without therefore being a totem; the term should retain a limited and precise meaning.",
+      "marillier_location": "RHR 36 (1897), second installment totemism discussion",
+      "lovejoy_pdf_pages": [70, 71, 83, 84, 87, 88, 106, 107, 112],
+      "lovejoy_operation": "Maintains distinctions among sacrifice/ritual killing, cannibalism/communion, fetish/charm, blood use/union, initiation/sacrifice.",
+      "evidence_strength": "A/B",
+      "relation": "anti-category-inflation"
+    }
+  ],
+  "next_manual_targets": [
+    "RHR 34 (1896), pp.113-115: Marillier review of Steinmetz, Endokannibalismus",
+    "RHR 25 (1892), pp.231-232: Marillier review of Codrington, The Melanesians",
+    "RHR 25 (1892), pp.71-99: locate exact mana occurrence in M. Frazer et la Diane de Nemi",
+    "La Grande Encyclopedie XXVIII, Religion, printed p.349 and article ending"
+  ]
+}
