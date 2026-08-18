@@ -1,175 +1,176 @@
 # Batch 68 — 005 makes the reporter part of the evidence: document class, contact history, missionary contamination, and Marillier’s 1888 source-criticism programme
 
 Date: 2026-08-18
-Status: synced
+Status: synced; corrected after direct Keating primary collation
 Scope: 005 only; execute Batch 63’s next move by rereading Lovejoy’s future-life sequence against Marillier’s documented 1888 taxonomy of testimony/document classes.
 
 ## Core result
 
-The direct manuscript reread sharpens the Marillier comparison substantially. Lovejoy 005 does not merely show generic skepticism toward ethnographic claims. In the future-life block, he repeatedly treats **the conditions under which a report was produced** as part of the evidence itself.
+Lovejoy 005 does not merely show generic skepticism toward ethnographic claims. In the future-life block, he repeatedly treats **the conditions under which a report was produced** as part of the evidence itself.
 
-Three archival loci are especially clear:
+Three archival loci are especially useful:
 
-1. **005 PDF p.16 / MS p.31:** while discussing Dakota future-life material, Lovejoy cites William H. Keating’s *Narrative of an Expedition to the Source of St. Peter’s River* (vol. I; notebook gives p.343). He explicitly uses the degree of intercourse with missionaries as an evidentiary variable, then characterizes the account as a mixture of indigenous and borrowed notions and says correct discrimination is needed between later elements and more primitive ones.
-2. **005 PDF p.19 / MS p.37:** after citing Charles Augustus Murray’s *Travels in North America* for Pawnee future-life belief, Lovejoy evaluates another early western-tribes report as **profoundly suspect** because of extensive/long missionary influence. He entertains a pre-Columbian contact hypothesis only as a possibility and then explicitly withholds evidentiary force from a possibility that has not been proved.
-3. **005 PDF p.26:** Lovejoy marks a named authority as **“Poor authority”** before continuing the comparison and cross-reference. The exact personal/title identification in this hurried hand still needs a primary-source collation, but the weighting operation itself is visually secure.
+1. **005 PDF p.16 / MS p.31:** Lovejoy cites William H. Keating’s *Narrative of an Expedition to the Source of St. Peter’s River*, vol. I, **p.393**. Direct primary collation now confirms that this is the exact Dakota passage. Keating says Dakota future-state beliefs may be received with less diffidence because they had had little intercourse with missionaries, while immediately warning that some Christian doctrines had nevertheless crept into their credences. Lovejoy takes over precisely this evidentiary problem and presses the discrimination of later/borrowed from more primitive elements.
+2. **005 PDF p.19 / MS p.37:** after Murray’s Pawnee future-life material, Lovejoy treats another western-tribes report as **profoundly suspect** because of extensive/long missionary influence. He considers a possible pre-Columbian route of influence but refuses to let an unproved possibility settle the historical question.
+3. **005 PDF p.26:** Lovejoy explicitly downgrades the relevant authorities before continuing the comparison. Subsequent work narrows this source cluster strongly toward William E. Marshall and J. W. Breeks on the Todas/Nilgiris; exact diplomatic wording remains for second-pass visual collation.
 
-This is a stronger result than `Lovejoy checked sources`. The notebook is doing something more specific:
+The resulting operation is:
 
 > **reporter / date / contact environment → evidentiary weight → admissible historical inference.**
 
-The reporter and the contact history are not background metadata. They become variables in the argument.
+The reporter and contact history are not background metadata. They become variables in the argument.
 
 ---
 
-## 1. PDF p.16 / MS p.31: missionary intercourse is used to authenticate and then complicate a Dakota report
+## 1. PDF p.16 / MS p.31: the Keating citation is vol. I p.393, not p.343
 
-The page visually reads, in relevant part, as a reference to:
+Earlier visual/OCR work misread Lovejoy’s page reference as `I. 343`. Direct collation of Keating’s searchable 1824 text resolves it as **vol. I p.393**.
 
-`V. Keating — Narrative ... I. 343`.
+Keating’s printed p.393 opens its Dakota future-state discussion by saying, in substance, that the evidence can be received with less diffidence because Dakota communities had had little intercourse with Catholic or other missionaries. Yet the same sentence says Christian doctrines were already detectable as elements that had probably crept in unnoticed.
 
-The surrounding notes concern a future-life belief among the Dakotas. Lovejoy records that the form is found despite relatively little intercourse with missionaries, which initially makes the datum useful against a simple missionary-borrowing explanation. But he immediately complicates that use: Keating’s account gives, in Lovejoy’s wording, a **“curious mingling of indigenous & borrowed notions.”** He then calls for discrimination between later elements and more primitive ones.
+The passage then describes:
 
-The evidentiary movement is therefore two-stage:
+- a dwelling place of souls;
+- a dangerous passage over a knife-edged rock;
+- a bad region of labour and punishment for those who fall;
+- villages of the dead and reunion with relatives;
+- an easy/blissful continuation of hunting and planting;
+- exclusion of women who violated chastity, committed infanticide, or suicide.
 
-`limited missionary intercourse` → strengthens prima-facie indigenous status
+Printed p.394 continues with an apparently ethical distribution of men according to goodness/peaceableness and manner of death, and with suicide penalties.
 
-but
+This is almost certainly the passage Lovejoy is dissecting across pp.16–18. The match is not merely topical: it reproduces the exact combination of **little missionary intercourse + Christian intrusion + chastity/infanticide/suicide + manner-of-death distinctions** that drives his argument.
 
-`mixed internal content` → requires decomposition before the report can carry genealogical weight.
+### Historiographic correction
 
-That is more sophisticated than a binary `pre-contact = authentic / post-contact = contaminated` rule. Provenance raises or lowers confidence, but the reported complex still has to be internally divided.
+The source-critical warning on p.16 is therefore not wholly Lovejoy’s invention. **Keating himself already marks missionary contact as a reliability variable.** Lovejoy’s distinctive operation lies in what he does with that warning: he separates apparently moral elements from ritual/social/manner-of-death determinants instead of simply accepting the reported complex as evidence of a unified moral eschatology.
 
-### Bibliographic control
-
-The title is securely identifiable as William H. Keating et al., *Narrative of an Expedition to the Source of St. Peter’s River, Lake Winnepeck, Lake of the Woods, &c. &c.*, Philadelphia, 1824. Library of Congress and Canadiana records identify the two-volume work and its Dakota/Ojibwa subject matter. The exact printed p.343 proposition still needs direct collation against the notebook.
-
----
-
-## 2. PDF p.19 / MS p.37: Lovejoy downgrades testimony because of missionary influence
-
-The left page first brings in Charles Augustus Murray’s *Travels in North America* in connection with the Pawnees and a happy-hunting-ground/future-life belief. Murray’s book is a travel narrative based in part on residence with the Pawnee during 1834–36; the 1839 first edition is bibliographically secure.
-
-The right page then turns to another account concerning western tribes and states that the testimony is **“profoundly suspect”** on account of extensive/long missionary influence. The manuscript next considers whether some relevant influence might have been pre-Columbian, including among Algonquin/Iroquois material, but refuses to let a merely possible contact history settle the question.
-
-The key methodological point is visible even where several proper names remain hard to decipher:
-
-> a historically possible transmission route is not yet historical evidence.
-
-This makes the page especially useful for the paper because it joins two operations that are often separated in later methodological prose:
-
-- **source contamination control**: missionary contact can alter the evidentiary value of a report;
-- **hypothesis discipline**: an unproved possibility cannot carry the historical conclusion.
-
-The notebook is not simply collecting parallels. It is actively deciding which parallels are licensed to count.
+That is a more exact statement of the novelty problem.
 
 ---
 
-## 3. PDF p.26: explicit hierarchy of authorities
+## 2. Keating himself provides an internal control: source criticism can coexist with strong inference
 
-A later page in the same broad future-life analysis writes **“Poor authority”** before a named source and then continues with comparative references, including Brinton.
+A different passage in Keating, vol. I pp.111–112, discussing Potawatomi material, is even more explicit about contamination. Keating says the time for correct information has passed because missionary notions and contact with white people make it difficult to distinguish genuine from false/original doctrines.
 
-The personal/title name following `Poor authority` is not yet safe enough to normalize from the handwriting alone, so this batch does not assign it. What is secure is the operation: Lovejoy does not treat published ethnographic assertions as commensurable data points. A datum can be present in the bibliography while being explicitly downgraded as testimony.
+Yet immediately before this warning he still argues that belief in the soul and a future state of reward and punishment probably pre-existed white contact, grounding that conclusion partly in general prevalence and in the uniform opinion of experienced observers.
 
-This matters for the reconstruction of 005 as a working research instrument. Bibliography here is not a flat inventory. It contains an implicit/explicit reliability scale.
+Thus Keating already combines:
 
----
+- reporter/contact criticism;
+- awareness of borrowed doctrine;
+- an attempt to recover pre-contact belief;
+- a comparatively strong historical/generalizing conclusion.
 
-## 4. Marillier 1888 now becomes a much closer institutional control
-
-Batch 63 established from Marillier’s first EPHE free-course report (1888–89) that his teaching began by comparing the evidentiary value of different orders of testimony. The programme distinguished beliefs known by direct testimony, myths, rites and customs; then separated document classes including travellers’ narratives, missionary reports and official inquiries and explained the **different rules of criticism** appropriate to them. It also supplied a reasoned bibliography.
-
-The 005 reread now permits a tighter comparison than `both cared about sources`.
-
-### Marillier’s documented pedagogical grammar
-
-`testimony type` → `document class` → `source-specific critical rule` → `interpretation`
-
-### Lovejoy 005’s working grammar
-
-`reporter / contact history / date` → `contamination or borrowing risk` → `internal decomposition of reported belief` → `evidentiary weight` → `historical inference`
-
-The two are not identical, and this batch does **not** prove that Lovejoy copied a particular rule from Marillier. But the homology is now located at the correct level: both procedures make the **production history of testimony** logically prior to comparative explanation.
-
-This is precisely the kind of research grammar an `active auditor` could encounter in a source-critical conference environment without requiring a modern supervision or assigned-thesis claim.
+This anticipates the problem later seen with Steinmetz and W. I. Thomas: **source criticism by itself does not determine the permissible strength of historical inference.**
 
 ---
 
-## 5. This improves the 004 → 005 `operator migration` argument
+## 3. PDF p.19 / MS p.37: missionary contamination and the discipline of possibility
 
-The current cross-notebook model can now be made more concrete.
+The manuscript first cites Charles Augustus Murray’s *Travels in North America* for Pawnee future-life belief. It then turns to an account concerning western tribes and states that the testimony is profoundly suspect because of extensive/long missionary influence.
 
-### 004
+The page next considers whether relevant influence might have been pre-Columbian, apparently including Algonquin/Iroquois material, but treats this as a possibility rather than established evidence.
 
-The recurring evidentiary object is a textual/philological one:
+The secure methodological point is:
+
+> **a historically possible transmission route is not yet historical evidence.**
+
+Several proper names and the exact referent of the manuscript’s `1819` remain unresolved. Samuel Farmar Jarvis’s 1819/1820 discourse is now a high-value chronological control, but it should not yet be silently identified as the manuscript referent.
+
+---
+
+## 4. PDF p.26: bibliography as a weighted evidence set
+
+The p.26 note explicitly marks the relevant authorities as poor/weak before continuing the comparison. Visual and bibliographic work now strongly associates the cluster with:
+
+- William E. Marshall, *A Phrenologist amongst the Todas* (1873);
+- J. W. Breeks, *An Account of the Primitive Tribes and Monuments of the Nīlagiris* (1873).
+
+The exact sentence around `Poor authority/authorities` remains too compressed for a diplomatic quotation, so the attribution should stay at cluster level until the page is visually re-collated.
+
+The operation itself is secure: bibliography is **weighted**, not flat. A published datum may remain usable while the authority carrying it is explicitly downgraded.
+
+---
+
+## 5. Marillier 1888 remains a close institutional control, but Keating changes the transmission claim
+
+Batch 63 established that Marillier’s first EPHE free course compared the evidentiary value of testimony-types, distinguished travellers’ narratives, missionary reports and official inquiries, and taught different critical rules for different document classes.
+
+That remains an unusually close institutional parallel to 005. But the Keating collation requires a sharper claim. Some source-critical cues were already embedded **inside the ethnographic books Lovejoy read**.
+
+The relevant historical question is therefore not:
+
+> Did Marillier teach Lovejoy to distrust missionaries?
+
+It is better framed as:
+
+> **What did the Marillier conference environment do with an already source-critical ethnographic literature, and how did Lovejoy learn to redistribute the inferential weight of its claims?**
+
+This keeps the Paris argument at the level of research grammar rather than priority invention.
+
+---
+
+## 6. Notebook-wide extension: from source qualification to evidentiary license
+
+The same inferential discipline recurs later in 005:
+
+- present ceremonial form is poor evidence for original cause;
+- alleged religious cannibalism can collapse under closer scrutiny;
+- selected-body-part efficacy can be sympathetic magic rather than communion;
+- the animal-for-human substitution theory has only a few securely demonstrated cases;
+- circumcision cannot be treated as partial human sacrifice merely from formal analogy;
+- similar bodily injuries can have different ritual histories;
+- sacramental union is comparatively exceptional relative to alimentary and expiatory/propitiatory sacrifice;
+- exact historical motive can sometimes remain unrecoverable.
+
+So the strongest notebook-wide formulation is not just `reporter as part of datum` but **question-relative evidentiary license**: a datum may be admissible for description or comparison while remaining weak evidence for mechanism, genealogy, origin, or developmental sequence.
+
+---
+
+## 7. 004 → 005 operator migration
+
+004 mainly qualifies textual witnesses:
 
 `term / passage / canonical witness / semantic relation / historical dependence`.
 
-### 005
+005 qualifies ethnographic-historical witnesses:
 
-The evidentiary object has changed:
+`reporter / contact history / borrowing risk / rite or belief / mechanism / historical inference`.
 
-`traveller or ethnographic report / date / contact setting / borrowing risk / rite or belief / mechanism`.
+The transferable operator is:
 
-But an operator survives the domain shift: **before a similarity can support genealogy, the witness carrying the similarity has to be qualified.**
+> **before resemblance can support genealogy, the witness and the proposition it is being asked to prove must both be qualified.**
 
-In 004, that qualification is mainly philological/textual. In 005, it becomes ethnographic and historical: who reported the datum, under what conditions, after how much missionary contact, and whether the belief itself is internally composite.
-
-That is a better formulation of continuity than claiming that Lovejoy simply moved from philology to anthropology.
-
----
-
-## 6. Historiographic consequence: `the reporter is part of the datum`
-
-A useful paper-level sentence emerging from this batch is:
-
-> **In notebook 005, Lovejoy did not treat ethnographic reports as transparent containers of beliefs. The reporter’s date, contact environment and probable channels of borrowing entered into the evidentiary status of the belief itself.**
-
-The phrase should be presented as our reconstruction, not as Lovejoy’s own methodological slogan.
-
-This also helps distinguish the paper from a generic `Paris taught him comparative religion` narrative. The stronger claim concerns an evidentiary ecology: Paris can be shown to have institutionalized source differentiation at exactly the level at which 005 is making traveller/missionary/contact distinctions.
-
----
-
-## 7. Relation to the Steinmetz / Thomas / Mauss line
-
-Batch 67 showed that late-1890s comparative research could already combine broad data collection, source-reliability concern and counterfacts with very strong universal developmental conclusions. The present batch gives another dimension of the same problem.
-
-005’s distinctiveness is not `Lovejoy cared about reliability while others did not`. Instead, the notebook repeatedly limits what a datum may prove by asking:
-
-- whether the report is contaminated by contact;
-- whether borrowed and indigenous elements can be separated;
-- whether an authority deserves weight;
-- whether a possible historical route is actually evidenced.
-
-This is the same larger issue identified in Batch 67 as **evidentiary license**.
+This is a stronger continuity claim than a generic move from philology to anthropology.
 
 ---
 
 ## 8. Evidence cautions
 
-1. The reading of the methodological clauses on PDF pp.16 and 19 is visually secure; several proper names/abbreviations around them remain uncertain and should not be silently normalized.
-2. Keating’s title is bibliographically secure; the exact notebook page reference appears to be vol. I p.343, but the printed proposition has not yet been checked directly.
-3. Murray’s title/author and Pawnee residence are bibliographically secure; the exact page number in Lovejoy’s hand remains to be collated.
-4. The source after `Poor authority` on PDF p.26 remains unresolved. Do not assign an identity from OCR.
-5. Homology with Marillier’s 1888 programme is an institutional/methodological control, not direct proof of one-to-one transmission.
-6. `the reporter is part of the datum` and `operator migration` are our analytical formulations, not period phrases.
+1. The correct Keating locus for the Dakota passage is **vol. I pp.393–394**. The earlier `p.343` reading is superseded.
+2. Keating’s own source-critical framing must be credited; do not attribute the missionary-contact criterion uniquely to Lovejoy or Marillier.
+3. PDF p.19’s methodological clauses are secure, but its exact `1819` referent remains HOLD.
+4. PDF p.26 strongly points to the Marshall/Breeks Toda-Nilgiri cluster, but the exact `Poor authority/authorities` syntax should not be quoted until second-pass visual collation.
+5. Homology with Marillier’s 1888 programme is an institutional/methodological control, not proof of one-to-one transmission.
+6. `reporter as part of datum`, `evidentiary license`, and `operator migration` are our analytical formulations.
 
 ---
 
 ## 9. Highest next moves
 
-1. **Keating primary collation:** retrieve/inspect vol. I around printed p.343 and identify the exact Dakota future-life passage that Lovejoy decomposes into indigenous/borrowed elements.
-2. **Resolve PDF p.19 source:** identify the account Lovejoy dates/associates with `1819` and reconstruct the missionary-contact chronology he is testing.
-3. **Resolve PDF p.26 `Poor authority`:** identify the person/work and determine why Lovejoy downgrades it; check whether Brinton is being used as a corrective authority.
-4. **Build a full 005 reporter-class matrix:** sweep all traveller, missionary, official/administrative, ethnographic and secondary compilatory sources and record every explicit reliability/contact judgment.
-5. Compare that matrix against Marillier’s 1888 document classes and his 1894–95 treatment of missionary-imported biblical traditions. This would test whether the resemblance is local to the future-life pages or notebook-wide.
+1. Resolve PDF p.19’s `1819` referent and test Samuel Farmar Jarvis as a chronological/source control without assuming identity.
+2. Re-collate PDF p.26 diplomatically around Marshall/Breeks and determine exactly what is being marked `poor`.
+3. Build a notebook-wide four-level matrix: **witness admissibility → classificatory admissibility → mechanism inference → genealogical/developmental inference**.
+4. Compare this matrix with N. W. Thomas’s `unequal value as evidence` formulation and Marillier’s document-class pedagogy.
+5. Keep the Keating case as a priority historiographic warning: the period sources themselves can be source-critical while still licensing stronger generalizations than Lovejoy later accepts.
 
 ## Primary / repository controls
 
-- MS38_004_001_061_005, PDF pp.16, 19, 26 (direct manuscript reread, 2026-08-18).
-- William H. Keating et al., *Narrative of an Expedition to the Source of St. Peter’s River, Lake Winnepeck, Lake of the Woods, &c. &c.* (Philadelphia, 1824), 2 vols.; Library of Congress / Canadiana digital records.
-- Sir Charles Augustus Murray, *Travels in North America during the Years 1834, 1835 & 1836*, vol. I (London: Richard Bentley, 1839); Canadiana / Library of Congress digital records.
+- MS38_004_001_061_005, especially PDF pp.16–19, 26, 106–119.
+- William H. Keating et al., *Narrative of an Expedition to the Source of St. Peter’s River, Lake Winnepeck, Lake of the Woods, &c. &c.* (Philadelphia, 1824), vol. I, especially pp.111–112 and 393–394; Internet Archive/BHL scan and searchable text.
+- Sir Charles Augustus Murray, *Travels in North America during the Years 1834, 1835 & 1836*, vol. I (London: Richard Bentley, 1839).
+- William E. Marshall, *A Phrenologist amongst the Todas* (London, 1873).
+- J. W. Breeks, *An Account of the Primitive Tribes and Monuments of the Nīlagiris* (London, 1873).
 - Léon Marillier, `XI. Cours libre`, EPHE report 1888–89, pp.238–239, as collated in Batch 63.
-- Batch 63: `lovejoy_as_orientalist_web_sweep_batch63_Marillier1888_source_criticism_Thomas1896_student_work.md`.
-- Batch 67: `lovejoy_as_orientalist_web_sweep_batch67_Steinmetz_Endokannibalismus_transatlantic_reception_US_France_1896_1897.md`.
+- Batch 63 and Batch 67 for the institutional and Steinmetz controls.
