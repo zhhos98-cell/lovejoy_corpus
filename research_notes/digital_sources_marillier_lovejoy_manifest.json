@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "project": "Lovejoy / Marillier seminar and publication genealogy",
+  "updated": "2026-08-18",
+  "sources": [
+    {
+      "id": "marillier_religion_1900",
+      "author": "Léon Marillier",
+      "title": "Religion",
+      "container": "La Grande Encyclopédie",
+      "volume": "XXVIII",
+      "printed_pages": "341-364",
+      "year": 1900,
+      "public_domain": true,
+      "digital_witnesses": [
+        {
+          "provider": "Gallica",
+          "identifier": "bpt6k24663w",
+          "type": "facsimile",
+          "status": "online"
+        },
+        {
+          "provider": "Wikimedia Commons / Wikisource",
+          "identifier": "Grande Encyclopédie XXVIII.djvu",
+          "type": "DjVu facsimile",
+          "page_count": 1284,
+          "file_size_mb": 101.07,
+          "status": "online",
+          "working_scan_locator": "article approximately scans 353-376; verify before citation"
+        },
+        {
+          "provider": "Internet Archive",
+          "identifier": "lagrandeencyclop28dref",
+          "type": "scan/OCR source",
+          "status": "identifier confirmed through Wikisource"
+        }
+      ],
+      "priority_pages": [349, 350, 351],
+      "keywords": ["mana", "magie", "force", "puissance", "rite", "initiation", "fécondité"],
+      "next_action": "capture primary page images/OCR and collate against notebook 005 pp.64, 82, 85-90, 99-105, 112-119"
+    },
+    {
+      "id": "soderblom_vie_future_1901",
+      "author": "Nathan Söderblom",
+      "title": "La vie future d'après le mazdéisme à la lumière des croyances parallèles dans les autres religions",
+      "year": 1901,
+      "public_domain": true,
+      "digital_witnesses": [
+        {
+          "provider": "Internet Archive",
+          "identifier": "laviefuturedapr00sdgoog",
+          "type": "Google/Michigan scan with OCR",
+          "status": "online / full text and PDF exposed"
+        }
+      ],
+      "priority_pages": [37],
+      "keywords": ["Marillier", "mana", "survivance", "force", "puissance"],
+      "next_action": "capture p.37 directly and full-text search for Marillier/mana vocabulary"
+    },
+    {
+      "id": "ephe_marillier_1898_1899",
+      "author": "École pratique des hautes études, Section des sciences religieuses",
+      "title": "Rapport sommaire sur les conférences de l'exercice 1898-1899",
+      "year": 1898,
+      "public_domain": true,
+      "digital_witnesses": [
+        {
+          "provider": "Persée",
+          "identifier": "ephe_0000-0002_1898_num_12_8_19501",
+          "type": "scan/OCR",
+          "status": "online"
+        }
+      ],
+      "priority_pages": [33],
+      "keywords": ["Lovejoy", "Söderblom", "Marillier", "survivance", "sacrifice", "anthropophagie"],
+      "next_action": "retain as institutional control for seminar cohort and topics"
+    },
+    {
+      "id": "ephe_archives_digitization_061975",
+      "author": "EPHE / Archives nationales",
+      "title": "L'EPHE dans la recherche française pendant le premier siècle de son existence (1868-1968)",
+      "year_completed": 2025,
+      "digital_witnesses": [
+        {
+          "provider": "Archives nationales SIV",
+          "identifier": "FRAN_IR_061975",
+          "type": "EAD finding aid + selected digitized documents",
+          "status": "online"
+        }
+      ],
+      "related_fonds": {
+        "V_section": "20190568/001-399",
+        "scolarite": "20190568/185-368"
+      },
+      "target_record_types": ["registres d'inscription", "listes de présence"],
+      "next_action": "resolve 1898-1899 component cotes and daogrp/image links from EAD"
+    },
+    {
+      "id": "archives_nationales_inventory_open_data",
+      "provider": "data.gouv.fr / Archives nationales",
+      "dataset": "Liste des inventaires des Archives nationales publiés en ligne",
+      "resource_id": "c486d8ae-30ca-4084-8ac4-b5f0ff8d172d",
+      "format": "CSV",
+      "fields_of_interest": ["fran_ir", "cotes", "dates", "documents_numérisés", "url_slv", "fichier_xml"],
+      "status": "open; current environment could not follow static.data.gouv.fr download",
+      "next_action": "download outside current URL-safety limitation or through direct EAD endpoint"
+    },
+    {
+      "id": "archives_nationales_digitized_corpus_open_data",
+      "provider": "data.gouv.fr / Archives nationales",
+      "dataset": "Corpus de documents numérisés des Archives nationales",
+      "resource_id": "944d7b79-46a6-437d-8af4-24cc99484ba9",
+      "format": "CSV",
+      "fields_of_interest": ["cotes_concernées", "nombre_vues", "fichier_xml", "observations"],
+      "status": "open; current environment could not follow static.data.gouv.fr download",
+      "next_action": "cross-match FRAN_IR_061975 / 20190568 once local CSV or XML becomes retrievable"
+    },
+    {
+      "id": "soderblom_archive_uppsala",
+      "author": "Nathan Söderblom",
+      "repository": "Uppsala University Library, Carolina Rediviva",
+      "shelfmark": "N. Söderblom",
+      "provider": "Alvin",
+      "digital_status": "archive record non-digital; metadata/OAI-PMH harvestable",
+      "target_series": [
+        "Dag- och anteckningsböcker 1894-1899",
+        "Dag- och anteckningsböcker 1896-1901",
+        "Dag- och anteckningsböcker 1898-1915",
+        "Almanackor 1892-1899"
+      ],
+      "next_action": "resolve volume/capsule identifiers from C/E and D finding aids; request narrow digitization if needed"
+    },
+    {
+      "id": "marillier_notes_coutume_tabou_1901",
+      "author": "Léon Marillier",
+      "title": "Notes sur la coutume, le tabou et l'obligation morale",
+      "publisher": "Félix Alcan",
+      "place": "Paris",
+      "year": 1901,
+      "discovery_source": "Sudoc record exposed through Persée authority data",
+      "digital_status": "full text not yet located",
+      "keywords": ["coutume", "tabou", "obligation morale"],
+      "next_action": "resolve exact Sudoc/BnF record and search digitized holdings; compare with notebook 005 pp.14-20"
+    }
+  ]
+}
