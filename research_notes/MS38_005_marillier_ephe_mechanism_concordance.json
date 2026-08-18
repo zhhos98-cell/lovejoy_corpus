@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-08-18",
+  "scope": "MS38_004_001_061_005 only",
+  "purpose": "Machine-readable concordance connecting Marillier's EPHE research programme, specific 005 notebook operations, and the 1906 Primitive Energetics abstraction without claiming line-by-line borrowing.",
+  "evidence_scale": {
+    "A": "direct institutional or manuscript evidence",
+    "B": "strong conceptual/operational concordance with primary sources",
+    "C": "contextual or programme-continuity control; no direct attendance/borrowing claim"
+  },
+  "records": [
+    {
+      "ephe_year": "1889-1893",
+      "marillier_problem": "Taboo as protection against supernatural danger; sacred/impure initially confused; interdiction not originally moral",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1889_num_5_1_19340",
+      "notebook_pdf_pages": "17-18",
+      "notebook_ms_pages": "33-35",
+      "notebook_operation": "Separate violation of custom/taboo/ritual interdict from moral fault; test clan solidarity, exclusion and blood/contact as alternative determinants",
+      "relation_type": "operational concordance",
+      "evidence_strength": "B",
+      "caveat": "Earlier EPHE programme; no claim that these exact report sentences were copied into 005"
+    },
+    {
+      "ephe_year": "1892-1893",
+      "marillier_problem": "Institutions, rites and legends can survive the beliefs that produced them",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1892_num_6_2_19363",
+      "notebook_pdf_pages": "65; 73; 97",
+      "notebook_ms_pages": "131; 147; 187 inserted notes",
+      "notebook_operation": "Syncretism/historical layering: present ritual complexes may contain originally distinct motives; inherited practice may acquire new rationale",
+      "relation_type": "historical-method concordance",
+      "evidence_strength": "B",
+      "caveat": "Methodological family resemblance becomes significant because of later direct Lovejoy participation in Marillier's programme"
+    },
+    {
+      "ephe_year": "1893-1894",
+      "marillier_problem": "Afterlife as continuation of earthly life/status rather than moral compensation; survivance not founded on moral conceptions",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1893_num_7_3_19386",
+      "notebook_pdf_pages": "14-25",
+      "notebook_ms_pages": "27-49",
+      "notebook_operation": "Classify determinants of future-life destiny: naturalistic continuation/status, manner of death, ritual, social/community, then strictly moral desert",
+      "relation_type": "problem-and-operation concordance",
+      "evidence_strength": "B",
+      "caveat": "005 also contains independent cases and later layers"
+    },
+    {
+      "ephe_year": "1894-1895",
+      "marillier_problem": "Critical examination of missionary-imported biblical traditions in American myths",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1894_num_8_4_19409",
+      "notebook_pdf_pages": "19-20",
+      "notebook_ms_pages": "37-39",
+      "notebook_operation": "Chronology/provenance test of ethnographic testimony; missionary contact treated as possible contamination of moralized eschatology",
+      "relation_type": "source-critical concordance",
+      "evidence_strength": "B",
+      "caveat": "No proof Lovejoy learned this procedure only from Marillier"
+    },
+    {
+      "ephe_year": "1896-1897",
+      "marillier_problem": "Distinguish religious-union rites from magical purification/preservation and fecundative rites",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1896_num_10_6_19455",
+      "notebook_pdf_pages": "50-60; 91-105",
+      "notebook_ms_pages": "various",
+      "notebook_operation": "Decompose apparently unitary ceremonies by function/mechanism rather than outward form",
+      "relation_type": "classificatory-operation concordance",
+      "evidence_strength": "B",
+      "caveat": "Marriage material is contextual; the notebook applies the operator mainly to sacrifice"
+    },
+    {
+      "ephe_year": "1897-1898",
+      "marillier_problem": "Human sacrifice and ritual anthropophagy classified into funerary, expiatory, anthropophagic and magical types",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1897_num_11_7_19478",
+      "notebook_pdf_pages": "50-75; 106-119",
+      "notebook_ms_pages": "various",
+      "notebook_operation": "Separate funerary provision, propitiation, expiation, magic, cannibalism and communion; reject outward form as sufficient classification",
+      "relation_type": "taxonomy-to-mechanism concordance",
+      "evidence_strength": "B",
+      "caveat": "Programme precedes Lovejoy's documented 1898-99 participation"
+    },
+    {
+      "ephe_year": "1898-1899",
+      "marillier_problem": "Conference 1: survivance/justice and refutation of Steinmetz; Conference 2: human sacrifice/ritual anthropophagy, including expiatory, funerary, anthropophagic, magical, agrarian and fecundative mechanisms",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1898_num_12_8_19501",
+      "notebook_pdf_pages": "16-20; 61-119",
+      "notebook_ms_pages": "31-39; 123 onward",
+      "notebook_operation": "Two principal 005 blocks reproduce the two conference problem families and transform them into determinant/mechanism-first classification",
+      "relation_type": "direct institutional bridge",
+      "evidence_strength": "A",
+      "caveat": "Report proves Lovejoy was an active auditor, not the exact content of his oral interventions or every notebook entry"
+    },
+    {
+      "ephe_year": "1899-1900",
+      "marillier_problem": "Agrarian sacrifice; magical/fecundative power of blood; expiation/expulsion of evils; Frazer criticism; amoral eschatology; Christian interpolations",
+      "primary_source": "https://www.persee.fr/doc/ephe_0000-0002_1899_num_13_9_19524",
+      "notebook_pdf_pages": "84-105",
+      "notebook_ms_pages": "171-189",
+      "notebook_operation": "Blood/body parts as life-giving, curative, protective, transferable power; agricultural blood/life transfer; quasi-mechanical magical efficacy",
+      "relation_type": "programme-continuity control",
+      "evidence_strength": "C",
+      "caveat": "Lovejoy is not listed among active auditors in 1899-1900"
+    },
+    {
+      "ephe_year": "1900 publication",
+      "marillier_problem": "Religion: magical sacrifice releases blood/life force; mechanical constraint distinguished from psychological/moral exchange; common dispersed mana/force",
+      "primary_source": "https://cosmovisions.com/%24Religion09.htm",
+      "notebook_pdf_pages": "64; 84-90; 98-105",
+      "notebook_ms_pages": "129; 171-179; 187-189",
+      "notebook_operation": "Direct action on natural forces; intrinsic efficacy versus indwelling spirit; transferable life/power; quasi-mechanical magical rather than sacramental explanation",
+      "relation_type": "close published conceptual control",
+      "evidence_strength": "B",
+      "caveat": "Cosmovisions is a searchable reproduction/locator; publication-grade quotation requires Grande Encyclopedie XXVIII facsimile collation"
+    },
+    {
+      "ephe_year": "1906 Lovejoy publication",
+      "marillier_problem": "N/A — endpoint",
+      "primary_source": "https://academic.oup.com/monist/article/16/3/357/995254",
+      "notebook_pdf_pages": "cross-domain: 14-20; 50-60; 64-65; 84-90; 97-119",
+      "notebook_ms_pages": "cross-domain",
+      "notebook_operation": "Repeated discrimination between personal agency and intrinsic/direct/transferable efficacy is abstracted as impersonal, quasi-mechanical, communicable primitive energetics",
+      "relation_type": "notebook-to-publication conceptual transformation",
+      "evidence_strength": "B",
+      "caveat": "High continuity of operation/concept; insufficient evidence that 005 is a literal article draft"
+    }
+  ]
+}
