@@ -1,214 +1,142 @@
 # Batch 51 — Harvard scan targets for Lovejoy, 1895–1899
 
 Date: 2026-08-18  
-Status: synced  
-Scope: actionable Harvard archival targets for scan requests bearing on Arthur O. Lovejoy’s Harvard formation, the transition from notebook 004 to Paris notebook 005, and the Harvard–Paris / Marillier bridge.
+Status: revised after repository-policy correction  
+Scope: actionable Harvard archival targets for Arthur O. Lovejoy’s Harvard formation, notebook 004, and the Harvard–Paris / Marillier bridge.
 
-## Core result
+## Method correction: Harvard scan requests are binary
 
-The highest-yield Harvard scan strategy should **not** begin with indiscriminate scanning of the large Lanman papers. The present evidence supports a narrower priority order:
+Harvard does **not** provide the kind of exploratory name/folder lookup assumed in the first version of this note. The working rule is therefore:
 
-1. **William James ↔ Lovejoy and William James → Léon Marillier at Houghton** — because HOLLIS independently indexes both Lovejoy and Marillier in James’s correspondence, creating a concrete potential Harvard–Paris bridge.
-2. **Lovejoy’s underlying Harvard graduate student/course record** — because Daniel J. Wilson explicitly states that Harvard University Archives supplied him with a “List of courses taken by Lovejoy” for 1896–97 and 1897–98, proving that HUA could identify such a record or derivative in the late twentieth century even though the current public finding aids do not expose a pre-1930 student-record series by name.
-3. **Dean John Henry Wright correspondence, 1895–1903, UAV 161.5** — only three document boxes and exactly contemporary with Lovejoy’s Harvard entry, dissertation/degree uncertainty, scholarships, and departure for Paris.
-4. **Charles Rockwell Lanman papers, HUG 4510.xx**, targeted to 1895–99 correspondence, student/course records, Harvard Oriental Series material, and engagement calendars rather than the entire 34.9 cu. ft. collection.
-5. **History of Religions Club records, HUD 3454.xx**, early years only (1892–1900), especially membership, minutes, programs and papers.
+> **SUBMIT only when an exact requestable HOLLIS item / component / container is independently identified. Otherwise HOLD and do not submit.**
 
-Secondary controls: Josiah Royce papers; Harvard Biblical Club; Graduate Club; Prospect Union.
+No request should ask an archivist to search a broad series for `Lovejoy`, `Marillier`, `Warren`, etc. We must do the discovery ourselves through HOLLIS / finding aids / catalogues / older inventories and then place a concrete scan order.
 
-## A1. Houghton: William James papers — first scan priority
+This changes the status of most targets below from “request now” to “high-value HOLD.”
 
-### A1a. William James papers, MS Am 1092.9–1092.12
+## Current scan queue
 
-HOLLIS collection:
+| Target | Collection | Current precision | Decision |
+|---|---|---:|---|
+| William James → Léon Marillier | William James papers, MS Am 1092.9–1092.12 | HOLLIS series metadata indexes Marillier as recipient, but exact item/date/container unresolved | **HOLD** |
+| William James ↔ Arthur O. Lovejoy | MS Am 1092.9–1092.12 / MS Am 1092.1 | Lovejoy is indexed and a transcript series includes him, but exact early item/component unresolved | **HOLD** |
+| Lovejoy official Harvard graduate/course record | HUA, exact record series unresolved | Wilson proves HUA once supplied a course list; current call number/component unresolved | **HOLD** |
+| Dean John Henry Wright correspondence | UAV 161.5 | exact three-box series known, no Lovejoy component located | **HOLD** |
+| Charles R. Lanman student/course/correspondence material | HUG 4510.xx | relevant series known; no Lovejoy item or 1896–98 teaching item isolated | **HOLD** |
+| Lanman engagement calendars | HUG 4510.20, 1896–1936 | aggregate series known; 1896/1897 calendar component/container not yet isolated | **HOLD** |
+| History of Religions Club | HUD 3454.xx | collection known; early Lovejoy-bearing item/container unresolved | **HOLD** |
+| Harvard Biblical Club | HUD 3211 | collection known; no direct Lovejoy hit | **HOLD** |
+
+**Current SUBMIT list: none.** This is intentional. A broad but plausible collection is not yet a scan target.
+
+## A1. Houghton: William James papers
+
+### MS Am 1092.9–1092.12
+
+HOLLIS identifies:
 
 > **William James papers, 1803–1941, bulk 1862–1910**  
-> Call number: **MS Am 1092.9–1092.12**  
-> Houghton Library.
+> Call number: **MS Am 1092.9–1092.12**.
 
-The correspondence series explicitly indexes **Arthur Oncken Lovejoy**. More importantly for the present transatlantic argument, the series **“B. Letters from William James” explicitly indexes Léon Marillier (1842–1901) as a recipient**.
+The series `B. Letters from William James` indexes **Marillier, Léon, 1842–1901, recipient**. This proves at least one outgoing James→Marillier item is represented in the collection description. The present search has not yet resolved its date, component ID, or physical container.
 
-This is the strongest new archival lead. It proves that James wrote to Marillier, although the current search has not yet resolved the dates, number, or content of those letters.
+**Decision: HOLD.** Do not submit “all letters to Marillier.” First isolate the item-level HOLLIS component / old finding-aid number / box.
 
-**Scan request:**
+The same correspondence hierarchy indexes Arthur Oncken Lovejoy, but that metadata alone is insufficient to distinguish a direct Lovejoy item from a mention/name relation attached to another component.
 
-- all William James letters to **Léon Marillier**, with envelopes/attachments if preserved;
-- all correspondence entries involving **Arthur Oncken Lovejoy**, prioritizing 1895–1899 but ideally including the complete early run;
-- any catalogue metadata / container information that identifies dates and item numbers before imaging.
-
-**Do not yet claim:** that James introduced Lovejoy to Marillier, or that the James–Marillier correspondence concerns Lovejoy. The archival target is valuable precisely because that possibility can now be tested.
-
-### A1b. William James correspondence, MS Am 1092.1
+### MS Am 1092.1
 
 Separate Houghton collection:
 
 > **William James correspondence, 1856–1910**  
 > Call number: **MS Am 1092.1**.
 
-The series **“Transcripts of letters from William James to various correspondents” explicitly includes Arthur Oncken Lovejoy**.
+Its `Transcripts of letters from William James to various correspondents` metadata includes Arthur Oncken Lovejoy. Again, exact Lovejoy transcript item/date/container remains unresolved.
 
-Wilson’s biography also states that he used Lovejoy correspondence in the William James papers at Houghton. Thus both the catalogue and Wilson independently establish Lovejoy–James material at Harvard.
+**Decision: HOLD.**
 
-**Scan request:** identify and scan all Lovejoy items/transcripts, with priority to 1895–1902 and especially any reference to Buddhism, religion, Paris/France, dissertation plans, comparative religion, Marillier, Lanman, Warren, or courses.
+## A2. Lovejoy’s Harvard graduate/course record
 
-## A2. Harvard University Archives: Lovejoy’s official graduate student/course record
+Daniel J. Wilson’s notes explicitly cite a **“List of courses taken by Lovejoy, supplied by Harvard University Archives”** for both 1896–97 and 1897–98. This proves that a course record or derivative existed and was retrievable when Wilson researched the biography.
 
-Daniel J. Wilson’s notes give direct evidence that Harvard University Archives supplied him with a **“List of courses taken by Lovejoy”** and cites it for both 1896–97 and 1897–98. The current public HOLLIS search does not expose an equivalent pre-1930 student-record-card collection; the catalogued microfilm student record series begins in 1930.
+The current public HOLLIS discovery has not yet exposed the underlying pre-1900 item/call number.
 
-This means the correct move is to ask HUA staff to identify the underlying record rather than guess a call number.
+**Decision: HOLD.** Do not ask HUA to reverse-engineer Wilson’s citation. Instead reconstruct the course schedule independently from Wilson + Harvard University Catalogues while continuing to identify the actual archival record.
 
-**Request wording:**
-
-> I am looking for the underlying Harvard Graduate School / Faculty of Arts and Sciences student record for **Arthur Oncken Lovejoy (1873–1962), graduate student at Harvard from 1895 to 1898**. Daniel J. Wilson’s biography cites a “List of courses taken by Lovejoy, supplied by Harvard University Archives” for the academic years 1896–97 and 1897–98. Could you please identify the archival source from which that list was derived and provide scans of the full surviving student/registration record, including course enrollments, grades or examinations if present, scholarship/fellowship information, degree/dissertation status, and any leave or study-abroad documentation?
-
-This is likely the single best request for reconstructing the Harvard side of 004 because it asks the archivists to reverse-engineer a record they demonstrably supplied to Wilson.
-
-## A3. Dean John Henry Wright correspondence, 1895–1903
-
-HOLLIS:
+## A3. Dean John Henry Wright correspondence, UAV 161.5
 
 > **Records of the Dean of the Harvard Graduate School of Arts and Sciences, John Henry Wright: correspondence, 1895–1903**  
 > Call number: **UAV 161.5**  
-> Harvard University Archives.  
-> Extent: **0.87 cu. ft., 3 document boxes**.
+> Extent: 0.87 cu. ft., 3 document boxes.
 
-Scope specifically includes admissions, degree requirements, students’ studies/courses, incomplete graduate requirements, tuition, waivers, and applications for fellowships/scholarships.
+Scope includes graduate admission, courses/studies, degree requirements, incomplete degrees, tuition, waivers, fellowships and scholarships. Chronology fits Lovejoy exactly.
 
-Lovejoy entered Harvard graduate study in fall 1895, making this chronology exact rather than approximate.
+But no item/folder titled for Lovejoy has yet surfaced.
 
-**Scan request:** ask staff to search all three boxes/index/folder titles for `Lovejoy, Arthur`, `Lovejoy, Arthur Oncken`, 1895–1899. If a named folder exists, scan complete folder. If correspondence is chronological rather than alphabetical, ask specifically for documents concerning Lovejoy’s admission, scholarship, degree/dissertation status, and planned/actual research abroad.
-
-Because the series is only three boxes, this should be a relatively economical staff search.
+**Decision: HOLD.** Small collection size does not override the item-level rule.
 
 ## A4. Charles Rockwell Lanman papers, HUG 4510.xx
 
-HOLLIS:
+The finding aid securely establishes that the collection includes:
 
-> **Papers of Charles Rockwell Lanman, 1825–1941**  
-> Call number: **HUG 4510.xx**  
-> Harvard University Archives.
-
-The finding aid explicitly says the professional papers include:
-
-- course materials and **records of Lanman’s students at Harvard**;
-- correspondence with **students and colleagues**;
-- Harvard Oriental Series correspondence, mailing lists, proofs and notices.
-
-Relevant series include:
-
+- research and teaching notes / lectures;
+- course materials and **records of Lanman’s Harvard students**;
+- correspondence with students and colleagues;
+- Harvard Oriental Series correspondence, mailing lists, proofs and notices;
 - **Engagement calendars, 1896–1936 — HUG 4510.20**;
-- **Correspondence, 1873–1938**;
-- **Miscellaneous letters — HUG 4510.69.5**;
 - **Harvard Oriental Series, 1891–1917 and undated**.
 
-The finding aid also states that Lanman and Henry Clarke Warren founded the Harvard Oriental Series in 1891.
+This remains the most promising Harvard-side collection for connecting 004 to a concrete Sanskrit/Buddhist teaching environment. However, the public finding aid currently exposes these at aggregate level. No exact Lovejoy student card, 1896 Buddhism lecture outline, 1897 Cambridge Conferences lecture notes, or 1896/1897 calendar container has yet been isolated.
 
-**Targeted scan request, not whole collection:**
+**Decision: HOLD all Lanman scans until component/container precision is achieved.**
 
-1. archivist search for `Arthur O. Lovejoy` / `Arthur Oncken Lovejoy` in student records and correspondence;
-2. student/course records for **1895–1898** where Lovejoy could appear even if not separately foldered;
-3. HOS correspondence / mailing lists / notices **1895–1899**, especially material involving **Henry Clarke Warren**, Buddhism/Pāli, or Lovejoy;
-4. if feasible, Lanman engagement-calendar entries for academic years **1896–97 and 1897–98** only when Lovejoy, Warren, Buddhist/Pāli work, or student meetings are named.
+## A5. History of Religions Club / Biblical Club
 
-The collection is 34.9 cu. ft., so asking Harvard staff for a name search before requesting images is essential.
+- **History of Religions Club records, 1892–1952 — HUD 3454.xx**.
+- **Harvard Biblical Club records, 1881–1919 — HUD 3211**.
 
-## A5. History of Religions Club, HUD 3454.xx
+Both remain useful institutional controls. Neither currently has a directly identified Lovejoy item/container in the web-visible finding aids.
 
-Lanman’s HOLLIS finding aid identifies:
+**Decision: HOLD.**
 
-> **History of Religions Club (Harvard University), Records of the History of Religions Club, 1892–1952 — HUD 3454.xx.**
+## Why James–Marillier remains important but is no longer the first scan request
 
-The present public search does not expose a full online finding aid/container list. This makes it especially appropriate for an archivist-mediated scan request.
+The HOLLIS recipient indexing proves that William James wrote to Léon Marillier. Subsequent research (batch 52) shows, however, that James and Marillier already belonged to a transatlantic psychology / psychical-research network before Lovejoy’s Paris year. Marillier ran the French part of the Census of Hallucinations while James handled the American side, and Marillier published an extended review of James’s psychology in 1892–93.
 
-**Request:**
+Therefore a James→Marillier letter is a potentially valuable network/control document, but its mere existence would **not** imply that James introduced Lovejoy to Marillier. The scan becomes worth ordering once the exact item is isolated.
 
-- records **1892–1900** only;
-- membership/attendance lists;
-- minutes;
-- programs/paper titles;
-- correspondence;
-- all occurrences of `Lovejoy`, `Warren`, `Lanman`, `Crawford H. Toy`, `Buddhism`, `Sanskrit`, `Pāli`, `comparative religion`, and `history of religions`.
+## Immediate research strategy under the binary rule
 
-This target is high-value because it could turn the currently ecological Harvard “history of religions” context into direct participation evidence.
-
-Caution: a Harvard secondary page describes the Religions Club as beginning “about 1899,” whereas the archival record title begins in 1892. Until the early records are inspected, do not infer that the club had the same name, membership structure, or function throughout 1892–99.
-
-## B1. Josiah Royce papers
-
-Potential lower-priority target:
-
-> **Papers of Josiah Royce — HUG 1755**, Harvard University Archives.
-
-Lovejoy studied closely with Royce, but the current HOLLIS searches have not yet produced a Lovejoy-indexed component. Best request is therefore a staff name search for 1895–1899 rather than a scan order.
-
-Questions: recommendations, dissertation plans, Paris year, employment, religion/history of philosophy, Lovejoy’s departure from Harvard.
-
-## B2. Harvard Biblical Club, HUD 3211
-
-HOLLIS:
-
-> **Records of the Harvard Biblical Club, 1881–1919 — HUD 3211**, HUA.  
-> Extent: 0.6 cu. ft. (2 document boxes + 3 volumes).
-
-Founded by Crawford Howell Toy; records include meeting minutes and papers/abstracts. The collection is small enough for a targeted **1895–1899** membership/minutes search. No Lovejoy hit is currently established, so this is a control, not a primary target.
-
-## B3. Graduate Club and Prospect Union
-
-Wilson explicitly cites:
-
-- **“The Graduate Club of Harvard University,” Harvard University Archives**;
-- **The Prospect Union, 1891–1899** and Thomas H. Fay, **“The Prospect Union,” Harvard University Archives**.
-
-Current web searching has not securely resolved their HUA call numbers. Ask HUA reference staff to identify these from Wilson’s citations and search for Lovejoy in 1895–99. These are useful for social/institutional context but below the direct James / student record / Lanman / History of Religions targets.
-
-## Recommended first scan packet
-
-If only one request can be made to each Harvard repository immediately:
-
-### Houghton
-
-> Please identify and digitize (1) all surviving letters from William James to **Léon Marillier (1842–1901)** in the William James papers, MS Am 1092.9–1092.12, and (2) all correspondence between William James and **Arthur Oncken Lovejoy (1873–1962)**, especially 1895–1902, including the Lovejoy entries/transcripts in MS Am 1092.1. I am studying Lovejoy’s Harvard and Paris formation in comparative religion and would be particularly grateful for envelopes, attachments and item-level date/container metadata.
-
-### Harvard University Archives
-
-> I am researching Arthur Oncken Lovejoy’s graduate study at Harvard, 1895–1898. Daniel J. Wilson cites a “List of courses taken by Lovejoy, supplied by Harvard University Archives” for 1896–97 and 1897–98. Could you identify the archival source behind that list and scan Lovejoy’s full surviving student/registration record? I would also be grateful if you could check **UAV 161.5** (Dean John Henry Wright correspondence, 1895–1903) for a Lovejoy file or references, and advise which folders in **HUG 4510.xx** (Charles Rockwell Lanman papers) contain student/course records or correspondence for 1895–98 where Lovejoy might appear. Finally, I am interested in the early records, 1892–1900, of the **History of Religions Club, HUD 3454.xx**, particularly membership/minutes and any Lovejoy references.
-
-## Why James–Marillier now moves to the top
-
-The James finding aid creates a new testable bridge between the two national contexts reconstructed in batch 50. We already have:
-
-- 004 materially tied to Harvard and to Harvard/AOS Buddhist philology;
-- Lovejoy’s Paris year and documented active participation in Marillier’s EPHE seminar;
-- 005 materially Paris and structurally aligned with Marillier’s course;
-- now, independently, a Harvard teacher central to Lovejoy’s formation whose outgoing correspondence includes **Marillier**.
-
-This changes the search problem from a vague question — “Did Harvard know Marillier?” — to a precise archival one:
-
-> **What did William James write to Léon Marillier, when, and did that connection intersect Lovejoy’s Paris move or comparative-religion interests?**
-
-The answer may be unrelated to Lovejoy. Even a negative result will delimit the network more sharply.
+1. **HOLLIS item hunt:** resolve the exact James→Marillier component/date/container from current or legacy James finding aids.
+2. **Lanman component hunt:** isolate the 1896 and 1897 engagement calendars and any titled Buddhism lecture/teaching material; request only once exact component/container exists.
+3. **Course reconstruction without scans:** use Wilson’s notes plus Harvard catalogues and contemporary Crimson notices to reconstruct Lovejoy’s actual teaching environment.
+4. **Public-source substitution:** where a lecture outline survives in a contemporary printed source, use that immediately rather than paying for a speculative archive request. The 29 April 1896 Crimson abstract of Lanman’s first Buddhism lecture is already such a case.
+5. Keep UAV 161.5, HUD 3454.xx, HUD 3211 as retrieval targets, not scan orders, until item-level precision is reached.
 
 ## Evidence status
 
 **Secure:**
-- HOLLIS indexes Arthur Oncken Lovejoy in William James correspondence.
-- HOLLIS indexes Léon Marillier as recipient in `Letters from William James`.
+- HOLLIS indexes Léon Marillier as a recipient in `Letters from William James`.
+- HOLLIS/James descriptions include Arthur Oncken Lovejoy and an MS Am 1092.1 transcript series includes him.
 - Wilson explicitly used HUA-supplied Lovejoy course lists.
-- UAV 161.5 covers exactly 1895–1903 and includes admissions/degree/course/fellowship matters.
-- Lanman papers explicitly contain Harvard student records, teaching materials, student/colleague correspondence, and HOS records.
-- HUD 3454.xx exists as History of Religions Club records, 1892–1952.
-- HUD 3211 exists as Harvard Biblical Club records, 1881–1919.
+- UAV 161.5 covers 1895–1903 and relevant graduate administration.
+- Lanman papers contain Harvard student records, teaching materials, correspondence and HOS records; HUG 4510.20 begins in 1896.
+- HUD 3454.xx and HUD 3211 exist.
 
-**Not yet established:**
-- dates/content of James→Marillier letters;
-- whether James introduced or recommended Lovejoy to Marillier;
-- Lovejoy membership in the History of Religions Club or Biblical Club;
-- a named Lovejoy folder in UAV 161.5 or HUG 4510.xx;
-- current call number of the pre-1930 student record that generated Wilson’s course list.
+**Unresolved / therefore HOLD:**
+- James→Marillier exact date/item/container;
+- early Lovejoy→/↔James exact item/container;
+- underlying Lovejoy student record call number;
+- Lovejoy component in UAV 161.5;
+- Lovejoy student record or 1896–98 teaching component in HUG 4510.xx;
+- exact 1896/1897 HUG 4510.20 calendar container;
+- Lovejoy item in History of Religions Club or Biblical Club.
 
-## Next research actions
+## Scan decision rule going forward
 
-1. Isolate item-level dates/container numbers for James→Marillier if HOLLIS indexing permits; otherwise let Houghton staff do the name lookup.
-2. Search Lanman finding-aid components for student/course subseries around 1895–98 and Warren correspondence.
-3. Reconstruct Lovejoy’s Harvard course list from Wilson + university catalogues and compare it against 004’s source ecology.
-4. Continue U.S. × France cross-check by asking whether James–Marillier correspondence concerns psychical research, comparative religion, translation networks, or recommendations of students.
+Every Harvard archival lead in subsequent batches should carry one of two labels only:
+
+- **SUBMIT:** exact requestable archival unit known.
+- **HOLD:** any required locator still unresolved.
+
+No intermediate “ask staff to search” category.
