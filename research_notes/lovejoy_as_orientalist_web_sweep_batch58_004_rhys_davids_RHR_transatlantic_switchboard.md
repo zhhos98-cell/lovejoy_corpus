@@ -1,20 +1,26 @@
 # Batch 58 — 004 exact source identification: Rhys Davids’s American Lectures and RHR 37 as a transatlantic switchboard
 
 Date: 2026-08-18  
-Status: synced  
+Status: synced; corrected after line-by-line collation  
 Scope: resolve an uncertain source in notebook 004 and test what the resolution does to the U.S. × France reconstruction developed in Batches 50–57.
 
 ## Core result
 
 This pass produces two linked advances.
 
-First, the previously uncertain source behind notebook 004, PDF pp.12–15 / manuscript pp.53–59, can now be identified with high confidence as:
+First, the previously uncertain source behind notebook 004, PDF pp.12–17 / manuscript pp.53–63, can now be identified with high confidence as:
 
-> **T. W. Rhys Davids, _Buddhism: Its History and Literature_ (American Lectures on the History of Religions, First Series, 1894–1895; New York/London: G. P. Putnam’s Sons, 1896), Lecture I, especially pp.24–30 ff.**
+> **T. W. Rhys Davids, _Buddhism: Its History and Literature_ (American Lectures on the History of Religions, First Series, 1894–1895; New York/London: G. P. Putnam’s Sons, 1896), Lecture I, especially pp.24–43.**
 
-The identification is effectively exact. Lovejoy’s notes reproduce the sequence and distinctive formulations of Rhys Davids’s discussion of Sāṃkhya priority, Garbe, the lateness of the Sāṃkhya texts, the Sāṃkhya Kārikā, Manu and the Bhagavad Gītā, the remaining chronological gap, the conclusion about isolated pre-Buddhist thinkers, and then the sixty-two heresies of the Brahmajāla Sutta.
+The identification is effectively exact. Lovejoy’s notes reproduce the sequence and distinctive formulations of Rhys Davids’s discussion of Sāṃkhya priority, Garbe, the lateness of the Sāṃkhya texts, the Sāṃkhya Kārikā, Manu and the Bhagavad Gītā, the remaining chronological gap, the conclusion about isolated pre-Buddhist thinkers, the sixty-two heresies of the Brahmajāla Sutta, and Rhys Davids’s test of one eternalist doctrine as evidence for Sāṃkhya.
 
-This changes the status of the American Lectures network. It is no longer merely contextual infrastructure around Lovejoy. **A printed product of that network is demonstrably one of the direct working sources of 004.**
+A line-by-line check importantly **moves the copy/comment boundary later than the first pass suggested**. The notebook sentence `I am at a loss to understand…` is Rhys Davids’s own sentence, not Lovejoy’s independent criticism. Lovejoy’s explicit intervention begins immediately afterward with the formula:
+
+> `To R.D.'s remark it should be added…`
+
+He then changes the diagnostic criterion from the mere eternity of matter/self to the **separateness of Self and World / thorough-going dualism**, and proposes a Majjhima-Nikāya soul/body distinction as a more plausible genuinely Sāṃkhyan analogue.
+
+This correction makes the source-transformation evidence cleaner rather than weaker: the manuscript itself marks the point where excerpting stops and Lovejoy’s supplementation begins.
 
 Second, _Revue de l’histoire des religions_ vol.37 (1898) becomes a particularly revealing transatlantic co-location point. In the same volume one finds:
 
@@ -40,9 +46,11 @@ The source is Rhys Davids’s _Buddhism: Its History and Literature_. Its title 
 Lecture I is `Religious Theories in India before Buddhism`; its table of contents places:
 
 - `The Sānkhya system` at p.24;
-- `The Sixty-two Heresies` at p.30.
+- `The Sixty-two Heresies` at p.30;
+- the chapter summary at p.36;
+- the Buddhist alternative / soul-theory discussion from p.39 onward.
 
-This is exactly the transition Lovejoy follows.
+This is the sequence Lovejoy follows.
 
 ### Source → notebook sequence
 
@@ -73,31 +81,68 @@ Rhys Davids p.26:
 
 Lovejoy 004 p.14 opens by carrying forward that conclusion.
 
-Rhys Davids pp.27–30 ff.:
+Rhys Davids pp.30–33:
 
 - the Brahmajāla / Dīgha Nikāya gives a list of sixty-two theories;
-- Rhys Davids tests one eternalist doctrine as possible evidence for Sāṃkhya;
-- the detailed list follows.
+- the categories run from eternalist positions through causation, future existence and annihilation to present-world Nibbāna positions.
 
-Lovejoy 004 pp.14–15 immediately turns to `the sixty-two heresies`, reproducing and systematizing the list.
+Lovejoy 004 pp.14–15 reproduces and compresses this list. He then performs a short synthesis on p.16, trying to derive positive Buddhist commitments from the pattern of negations: no eternity of world/individual soul; refusal of propositions about infinity; causal explanation; and refusal to affirm either survival or annihilation of a soul whose existence Buddhism denies.
 
-This is **direct source uptake**, not thematic proximity.
+This p.16 synthesis is not a phrase-level copy located in the Rhys Davids text and should provisionally be treated as **Lovejoy’s classificatory compression of the preceding list**, although Rhys Davids’s pp.39–43 gives the broader interpretive framework about denial of soul-theories and causal explanation.
+
+Rhys Davids pp.27–29 / the earlier quoted eternalist example:
+
+- quotes the logical eternalist proposition;
+- explains the later Sāṃkhya distinction from Vedānta;
+- notes the absence of the technical term `Prakriti` from the Buddhist passage;
+- points out the contradiction between an unproductive eternal `world` and Sāṃkhya’s productive primordial matter;
+- concludes that the passage is poor evidence for a fully formed pre-Buddhist Sāṃkhya system.
+
+Lovejoy 004 pp.16–17 returns to this passage and copies Rhys Davids closely, including the sentence `I am at a loss to understand…`.
+
+Only after that copied sentence does Lovejoy explicitly break away from the source.
+
+This is **direct source uptake with a marked transition into supplementation**, not thematic proximity.
 
 ---
 
-## 2. Lovejoy does not merely copy Rhys Davids
+## 2. The exact source-transformation boundary
 
-The direct-source identification also makes one of Lovejoy’s own interventions easier to isolate.
+The corrected collation matters because it prevents a false attribution.
 
-After Rhys Davids treats an eternalist doctrine from the Brahmajāla as a possible forecast of later Sāṃkhya, Lovejoy tests the fit more aggressively. In the notebook he notes that the Buddhist passage does not use the technical term `Prakriti`; more importantly, the passage says soul and world `give birth to nothing`, whereas Sāṃkhya makes visible beings arise from primordial matter in relation to individual souls. He therefore says he is `at a loss` to see how the passage could prove that the later Sāṃkhya system already existed as a whole.
+### What belongs to Rhys Davids
 
-Lovejoy then adds a different criterion: the central Sāṃkhya point is not merely eternity of matter and soul but their **separateness / dualism**, and a Majjhima-Nikāya soul/body distinction may be a more plausible analogue.
+The following argumentative sequence in 004 is not Lovejoy’s innovation:
 
-So the source-transformation relation is already visible:
+- the Buddhist passage does not use `Prakriti`;
+- interpreting `world` as Sāṃkhya primordial matter produces a contradiction;
+- in Sāṃkhya the visible world and living beings arise from original matter and individual souls;
+- the heresy described in the Buddhist passage says soul and world `give birth to nothing`;
+- therefore the passage is not good evidence that the later Sāṃkhya system already existed as a whole.
 
-> **Rhys Davids supplies the historical question and documentary corpus; Lovejoy tightens the evidentiary test and changes what would count as a discriminating Sāṃkhya marker.**
+Even the first-person formulation `I am at a loss…` is in Rhys Davids.
 
-This matters for the larger project because it is the same inferential syntax visible elsewhere in 004: broad resemblance is insufficient unless the conjunction of features is discriminating enough to warrant genealogy or identity.
+### Where Lovejoy begins
+
+The notebook then explicitly says:
+
+> `To R.D.'s remark it should be added…`
+
+Lovejoy’s addition makes a different evidentiary move. He argues that the most diagnostic feature of Sāṃkhya is not simply the **eternity of Matter and Self**. The central point on which its doctrine of release depends is the **separateness of Self and World**, its `thorough-going dualism`.
+
+He therefore proposes another Buddhist passage, from the Majjhima-Nikāya, `the soul is one thing & the body is another`, as a **more likely reference to a genuinely Sankhyan doctrine**.
+
+The source-transformation relation can thus be stated more precisely:
+
+> **Rhys Davids supplies both the historical question and the initial source-critical objection. Lovejoy accepts that objection, then asks what feature would be sufficiently diagnostic to identify a genuinely Sāṃkhyan doctrine and substitutes dualistic separateness as the stronger marker.**
+
+This is a better piece of evidence for Lovejoy’s working method than the earlier misattribution. We can see, on the page, a three-step operation:
+
+1. excerpt the authority;
+2. preserve its negative source criticism;
+3. append a new discriminating criterion and search for a better textual witness.
+
+This is exactly the kind of proposition-level operation the project should privilege over vague `influence` language.
 
 ---
 
@@ -107,11 +152,11 @@ The book is not just another British Buddhist handbook. It is explicitly the fir
 
 Earlier batches reconstructed the American Committee / lecture network around figures such as Crawford H. Toy and Morris Jastrow as part of the distributed American infrastructure for the historical study of religion. The exact-source identification now closes an important gap:
 
-> `American history-of-religions lecture infrastructure → Rhys Davids lecture series → 1896 printed book → Lovejoy 004 direct extraction and criticism.`
+> `American history-of-religions lecture infrastructure → Rhys Davids lecture series → 1896 printed book → Lovejoy 004 direct extraction, compression and supplementation.`
 
 The American field is therefore materially inside 004, not merely around it.
 
-This does not establish that Lovejoy attended Rhys Davids’s Boston lecture in person. The evidence needed for that claim remains absent. The secure claim is textual: **he worked directly from the lecture-book produced by the network.**
+This does not establish that Lovejoy attended Rhys Davids’s 1894–95 American lectures in person. The evidence needed for that claim remains absent. The secure claim is textual: **he worked directly from the lecture-book produced by the network.**
 
 ---
 
@@ -193,7 +238,7 @@ The evidence can now be mapped as object circulation rather than national influe
 
 `American Lectures on the History of Religions, 1894–95`  
 → `Rhys Davids, Buddhism: Its History and Literature, 1896`  
-→ `Lovejoy 004 direct extraction + criticism`  
+→ `Lovejoy 004 direct extraction + classificatory compression + explicit addendum`  
 ↘ `RHR 37, Paris, 1898 review/notice`
 
 ### Ritual / ethnographic line
@@ -232,9 +277,11 @@ Thus the move 004 → 005 can be described as **change of analytical center with
 
 For a short JHI Blog piece, the Rhys Davids identification is probably more useful than the whole RHR network. It gives a clean archival microstory:
 
-> Lovejoy opens a Harvard notebook on Sāṃkhya and Buddhism; a previously obscure citation can be resolved to a book produced by the first American Lectures on the History of Religions; he follows its argument page by page and then begins to dispute what counts as evidence for historical Sāṃkhya. Two years later, while he is moving into Parisian comparative religion, the same book is being reviewed in RHR alongside Marillier’s critique of totemic genealogies.
+> Lovejoy opens a Harvard notebook on Sāṃkhya and Buddhism; a previously obscure citation resolves to a book produced by the first American Lectures on the History of Religions. He follows it closely, compresses its catalogue of Buddhist heresies into a set of propositions, copies Rhys Davids’s own source-critical objection to identifying an early Sāṃkhya system, and then marks his departure explicitly: `To R.D.'s remark it should be added…`. His addition changes the diagnostic feature and searches the Buddhist canon for a better textual witness.
 
-The long article can then use RHR and 005 to make the larger claim about transatlantic disciplinary infrastructures and the migration of evidentiary operations.
+Two years later, during his move into Parisian comparative religion, the same Rhys Davids book was being noticed in RHR alongside Marillier’s critique of totemic genealogies; the same RHR volume also noticed Trumbull’s _Threshold-Covenant_, a source object in the world of 005.
+
+The long article can use this to make the larger claim about transatlantic disciplinary infrastructures and the migration of evidentiary operations.
 
 Compact formulation:
 
@@ -245,17 +292,19 @@ Compact formulation:
 ## 9. Evidence cautions
 
 1. Direct use of Rhys Davids’s _Buddhism: Its History and Literature_ in 004 is high-confidence and effectively exact.
-2. Do not infer Lovejoy attended Rhys Davids’s 1894–95 American lectures without attendance evidence.
-3. RHR 37 proves French reception/co-location of Rhys Davids and Trumbull, not Lovejoy’s reading of that volume.
-4. Do not attribute the RHR Rhys Davids or Trumbull notices to Marillier until reviewer identity is recovered.
-5. Correct Marillier’s 1898 `La place du totémisme` installments to **RHR 37, pp.204–233, 345–404**.
-6. `À propos du Mahâbhârata dans la littérature bouddhique` involves Sergei F. Oldenburg; do not confuse him with Hermann Oldenberg.
-7. The strongest interpretive move remains source transformation: Lovejoy uses Rhys Davids’s evidence but independently tightens the criteria for what can prove a historical Sāṃkhya relation.
+2. The copied sequence extends farther than first recognized; do **not** attribute `I am at a loss to understand…` to Lovejoy. It is Rhys Davids.
+3. Lovejoy’s explicit addendum begins with `To R.D.'s remark it should be added…` and shifts the diagnostic criterion toward Sāṃkhya dualism / separation of Self and World.
+4. Treat the p.16 positive synthesis of Buddhist negations as provisionally Lovejoy’s classificatory compression; it is broadly consonant with Rhys Davids’s pp.39–43 but no phrase-level source match has yet been found.
+5. Do not infer Lovejoy attended Rhys Davids’s 1894–95 American lectures without attendance evidence.
+6. RHR 37 proves French reception/co-location of Rhys Davids and Trumbull, not Lovejoy’s reading of that volume.
+7. Do not attribute the RHR Rhys Davids or Trumbull notices to Marillier until reviewer identity is recovered.
+8. Correct Marillier’s 1898 `La place du totémisme` installments to **RHR 37, pp.204–233, 345–404**.
+9. `À propos du Mahâbhârata dans la littérature bouddhique` involves Sergei F. Oldenburg; do not confuse him with Hermann Oldenberg.
 
 ## Next tests
 
-1. Collate 004 pp.16–17 against Rhys Davids pp.27–30 to isolate every point where Lovejoy stops copying and begins modifying/criticizing the source.
-2. Search the rest of 004 for further Rhys Davids page anchors to determine how long the continuous reading sequence extends.
+1. Continue line-by-line collation of 004 pp.18 onward against Rhys Davids Lecture I and II to map the full source-copy boundary.
+2. Search the rest of 004 for further Rhys Davids page anchors to determine whether direct reading continues beyond Lecture I.
 3. Search RHR 37 XML/full issue for reviewer initials or signatures on the Rhys Davids and Trumbull notices.
 4. Continue checking 005 for direct RHR/Marillier article citations, but do not infer them from thematic overlap.
 5. Compare the American reception of Rhys Davids (including E. W. Hopkins’s 1896 review) with the 1898 Paris reception as a controlled circulation history.
@@ -263,6 +312,6 @@ Compact formulation:
 
 ## Primary/secondary routes verified in this batch
 
-- T. W. Rhys Davids, _Buddhism: Its History and Literature_, American Lectures on the History of Religions, First Series 1894–1895, 2nd ed. (New York/London: G. P. Putnam’s Sons, 1896), Lecture I, esp. pp.24–30.
+- T. W. Rhys Davids, _Buddhism: Its History and Literature_, American Lectures on the History of Religions, First Series 1894–1895, 2nd ed. (New York/London: G. P. Putnam’s Sons, 1896), Lecture I, esp. pp.24–43.
 - _Revue de l’histoire des religions_ 37 (1898), table of contents: Marillier’s third/fourth totemism articles; notice of Rhys Davids; `À propos du Mahâbhârata dans la littérature bouddhique`; notice of Trumbull, _Threshold-Covenant_.
 - Modern bibliographic control for Marillier: `La place du totémisme…`, RHR 36 (1897), 208–253, 321–369; RHR 37 (1898), 204–233, 345–404.
