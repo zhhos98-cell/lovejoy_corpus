@@ -47,6 +47,41 @@ Why this packet matters:
 
 **Please return:** p.45, p.52, pp.59–60 at minimum; if easy, pp.36–47 as one continuous PDF. Original page numbers visible. No OCR required.
 
+## Priority A3 — N. W. Thomas’s Marillier-era diploma product (new high-value control)
+
+**Need:**
+
+- Northcote Whitridge Thomas, `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *Revue de l’histoire des religions* 38 (1898), **pp.295–347**.
+
+Why this has moved sharply upward in value:
+
+- Thomas is independently documented as a Marillier student and as an eyewitness to Marillier’s `work by pupils, directed by the lecturer` seminar procedure;
+- the 1905 `Religious Ideas of the Arunta` shows Thomas actively testing source chronology, missionary contamination, translation, diffusion, and internal evolution as rival hypotheses;
+- his 1911 `Animal Worship` explicitly separates **outward form**, **inward meaning**, and the historical cause that first produced a cult;
+- the 1898 article is the missing chronological bridge: an actual Marillier-era student product published at the threshold of Lovejoy’s Paris year.
+
+**Search targets inside pp.295–347:**
+
+- `survivance`
+- `origine`
+- `forme`
+- `sens`
+- `analogie`
+- `ressemblance`
+- `rite`
+- `totémisme`
+- `culte`
+- `emprunt`
+- `agraire`
+
+Useful identifiers:
+
+- BSB/DDB digitized volume: `bsb11864666`.
+- URN: `urn:nbn:de:bvb:12-bsb11864666-6`.
+- Google Play Books volume 38: `w9Q2AQAAMAAJ`.
+
+**Please return:** ideally the whole article pp.295–347 as a PDF. If that is inconvenient, return the introduction/conclusion plus every page hit for the search terms above. No OCR needed.
+
 ## Priority B — Marillier review of Codrington, `The Melanesians`
 
 **Need:**
