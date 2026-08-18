@@ -1,244 +1,165 @@
-# Lovejoy as Orientalist / comparative religion — web sweep batch 23
+# Lovejoy as Orientalist / comparative religion — web sweep batch 23 (corrected)
 
 Date: 2026-08-18  
-Focus: tighten the context of `MS38_004_001_061_004` without rereading the PDF: direct Garbe engagement in the clean transcription; the Jacobi–Oldenberg–Senart controversy over Sāṁkhya/Buddhism and the nidānas, 1896–98; and the unusually close Harvard/Lanman local setting.
+Focus: tighten the context of `MS38_004_001_061_004` without rereading the PDF: identify the notebook’s immediate printed sources, reconstruct the live Sāṁkhya/Buddhism–nidāna controversy of 1894–98, and distinguish **source uptake** from Lovejoy’s own argument.
 
-## Core advance
+## Correction to the first version of this note
 
-Batch 22 treated 004 as working inside a live 1896–97 controversy. The present batch makes that claim much harder. The existing corrected transcription shows that Lovejoy does not merely mention Sāṁkhya chronology in the abstract: he explicitly reads **Richard Garbe**, then refuses Garbe’s strong inference that the developed Sāṁkhya teaching can securely be carried back before Buddhism. At manuscript p.55 / PDF p.13 Lovejoy writes, in the corrected transcription, that the point seems to him **“most doubtful”** because all surviving Sāṁkhya texts are much later; even if the system is demonstrably older than the extant texts, **“there is still a great gap to be bridged over.”**
+The first version misattributed the notebook sentence that pre-Buddhist Sāṁkhya is **“most doubtful”** and that **“there is still a great gap to be bridged over”** to Lovejoy himself. Exact phrase-searching now identifies the passage as a close extract from **T. W. Rhys Davids, _Buddhism: Its History and Literature_ (1896), pp.24–26**. The preceding notebook heading/source stub `Buddhism, p. 24` is thereby resolved.
 
-That formulation is almost a miniature statement of the evidential problem organizing the contemporary dispute. Garbe’s 1896 _Sāṃkhya und Yoga_ says Sāṁkhya **must** have arisen in pre-Buddhist times and treats doctrinal correspondences as confirming the Indian tradition that Sāṁkhya was a principal source for the theoretical part of Buddhism; his footnote immediately invokes Hermann Jacobi’s new 1896 essay, **“Der Ursprung des Buddhismus aus dem Sāṁkhya-Yoga.”** Lovejoy is therefore not merely adjacent to the debate. Through Garbe, he is demonstrably reading and criticizing one of its strongest contemporary positions.
+This correction changes the evidentiary claim substantially:
 
-The best present formulation is:
+- **secure:** Lovejoy copied/abstracted Rhys Davids’s discussion of Garbe’s Sāṁkhya chronology;
+- **not secure from this passage:** that Lovejoy personally endorsed Rhys Davids’s skepticism;
+- **separately secure:** Lovejoy also used Garbe directly elsewhere in the notebook;
+- **secure in Lovejoy’s own 1898 published voice:** borrowed terms/ideas can be recomposed into an original and characteristic arrangement, and a composite nidāna formula need not be unintelligible.
 
-> **004 contains an evidential critique of a live genealogical thesis.** Lovejoy accepts structural and historical comparison as legitimate while resisting a chronological dependency claim when the surviving textual record leaves too large a gap.
+The correction improves the microhistory. We can now observe a documentary chain rather than collapsing source prose into authorial opinion:
 
-This makes the notebook’s later distinction between borrowed/composite material and a discoverable, intelligible arrangement look less like an isolated philological trick and more like the second half of one methodological problem: **how much historical genealogy can textual resemblance sustain, and how much conceptual function must be reconstructed independently of genealogy?**
+> **Garbe → Rhys Davids’s critical digest → Lovejoy’s notebook uptake → Lovejoy’s own 1898 reconstruction.**
 
-## 1. The direct Garbe node is now secure
+## 1. Garbe p.150 is now exactly identified
 
-The clean transcription gives two explicit Garbe locations at the opening of 004:
+Notebook PDF p.4 / manuscript p.8 is headed approximately **“The Method of the Sankhya / Garbe p.150.”** The source is not the short 1896 _Sāṃkhya und Yoga_ brochure. It is Richard Garbe, **_Die Sâmkhya-Philosophie: eine Darstellung des indischen Rationalismus nach den Quellen_** (Leipzig: H. Haessel, 1894), chapter **“4. Die Methode,” p.150ff.**
 
-- manuscript p.8 / PDF p.4: **“The Method of the Sankhya / Garbe p. 150”**, followed by notes on `pramāṇa`, perception, inference and testimony;
-- manuscript pp.55ff. / PDF pp.13ff.: the chronology/priority problem, where Lovejoy summarizes a claim that Sāṁkhya preceded Buddhism or arose from the same intellectual movement and then subjects the evidence to criticism.
+The match is exact. Garbe p.150 opens by saying that the Indian systems show a genuinely philosophical spirit by accounting for their accepted **sources of knowledge**; `pramāṇa` is the general term for means of knowledge/proof. He then gives the three Sāṁkhya sources as:
 
-The crucial passage is not neutral note-taking. Lovejoy says the view that Sāṁkhya teaching goes back before the rise of Buddhism is “most doubtful”; the oldest surviving Sāṁkhya text is much later than Gotama, and although the system is certainly older than that text, a large chronological gap remains to be bridged.
+1. perception (`pratyakṣa / dṛṣṭa`);
+2. inference (`anumāna`);
+3. reliable testimony (`āptavacana / śabda`).
 
-This evidence modifies the contextual model. We no longer need to infer from subject overlap that Lovejoy encountered the Garbe/Jacobi priority controversy. **Garbe is a named working source in 004, and Lovejoy records an explicit judgment against the strength of the chronological inference.**
+The notebook reproduces this sequence and the surrounding point that formal logical material borrowed/adopted from Nyāya–Vaiśeṣika need concern a European exposition only insofar as it bears on the **method of the system**.
 
-### What is not yet secure
+This is a strong direct source identification: **004 begins with Lovejoy working through Garbe’s methodological decomposition of Sāṁkhya, not merely using “Garbe” as general background.**
 
-The transcription does not yet identify every exact Garbe title/page behind the priority passage, though the opening `Garbe p.150` is clear. Nor has a direct `Jacobi` citation been located in the corrected 004 text. Jacobi must therefore remain part of the dispute that Garbe explicitly cites, not yet a demonstrated Lovejoy source.
+## 2. The priority passage is Rhys Davids, not Lovejoy
 
-## 2. Garbe 1896 states almost exactly the thesis Lovejoy worries about
+Notebook PDF pp.12–13 / manuscript pp.55ff. begins a section on the **philosophical material and contemporary date / priority of Sāṁkhya and Buddhism**. The hitherto uncertain source label resolves to T. W. Rhys Davids, _Buddhism: Its History and Literature_, Lecture I, **“Religious Theories in India before Buddhism,” pp.24ff.**
 
-Richard Garbe, _Sāṃkhya und Yoga_ (Straßburg, 1896), §1, **“Alter und Ursprung des Systems,”** states that one can say of Sāṁkhya’s age that it must have arisen in the **pre-Buddhist period**. Garbe’s reason is a series of doctrinal agreements which, he argues, confirms the indigenous tradition according to which Sāṁkhya philosophy served as a principal source for the theoretical portion of Buddhism. His note then cites Jacobi’s 1896 **“Der Ursprung des Buddhismus aus dem Sāṁkhya-Yoga,” pp.43ff.**
+The match is near-verbatim. Rhys Davids reports that Garbe believes Sāṁkhya teaching goes back before Buddhism, then says the point seems to him “most doubtful,” because the surviving Sāṁkhya texts are much later; although the system must be older than its extant texts, “there is still a great gap to be bridged over.”
 
-The contrast with 004 is therefore sharp enough to be historically useful:
+The historical significance is now more precise. Lovejoy’s notebook is demonstrably **importing a live scholarly disagreement as reading material**. What the notebook records here is not yet Lovejoy’s independent judgment but a critical digest already made by Rhys Davids.
 
-- **Garbe:** correspondences + tradition warrant pre-Buddhist Sāṁkhya and a source relation;
-- **Lovejoy’s notebook:** the surviving textual evidence is chronologically too late to make the inference secure; there remains a gap to bridge.
+This also solves the source architecture of the opening pages:
 
-This is a disagreement about **evidence for genealogy**, not a disagreement about whether comparison should be attempted at all. Lovejoy spends the notebook doing comparison, but repeatedly tries to separate demonstrable chronology from logical affinity.
+- **Garbe 1894, direct:** Sāṁkhya method / `pramāṇa`;
+- **Rhys Davids 1896, direct:** Buddhist prehistory, Sāṁkhya priority, sixty-two heresies and early Buddhism;
+- **Warren 1896, direct:** translated Buddhist textual material;
+- later **Senart 1896, direct polemical target** in the nidāna/upādāna section.
 
-## 3. Jacobi 1896 → Oldenberg 1897 → Jacobi 1898: the dispute was moving in real time
+## 3. Garbe’s own genealogy claim was stronger than Rhys Davids allowed
 
-Jacobi’s first intervention, **“Der Ursprung des Buddhismus aus dem Sāṁkhya-Yoga,”** appeared in the Göttingen academy _Nachrichten_ in 1896, pp.43–58. Later historiography of Buddhist studies reconstructs his claim as one of the interventions that made the relation between Sāṁkhya and Buddhism an acute controversy: Jacobi appealed in particular to a pre-classical Sāṁkhya/Yoga background and to the representation of Buddha’s teacher Arāḍa/Āḷāra in Aśvaghoṣa.
+Garbe’s 1894 _Sāṁkhya-Philosophie_ begins its historical section by saying that comparison of correspondences establishes the indigenous tradition that the Sāṁkhya system is older than Buddha and served as **a principal source** for his doctrine. Garbe further uses the _Brahmajāla Sutta_ in arguing for the antiquity of relevant speculative positions.
 
-Hermann Oldenberg replied in the third edition of _Buddha_ (1897), pp.443–455. This is bibliographically important for 004 because Oldenberg is also one of Lovejoy’s most heavily used Buddhist authorities elsewhere in the notebook. Direct proof that Lovejoy read this specific 1897 appendix while compiling the priority section still needs to be established.
+Thus the notebook’s Rhys-Davids extract is not a generic chronological caveat. It is a contemporary counter-reading of a strong historical-genealogical claim made by one of Lovejoy’s own direct Sāṁkhya authorities.
 
-The decisive contextual discovery is Jacobi’s **second article in 1898**, published in _Zeitschrift der Deutschen Morgenländischen Gesellschaft_ 52, pp.1–15:
+At this stage the evidentiary formulation must remain asymmetric:
 
-**“Über das Verhältnis der buddhistischen Philosophie zu Sāṁkhya-Yoga und die Bedeutung der Nidānas.”**
+- Lovejoy **directly reads Garbe** for Sāṁkhya method;
+- Lovejoy **directly reads Rhys Davids** reporting and criticizing Garbe on priority;
+- whether Lovejoy independently adjudicated Garbe versus Rhys Davids in the notebook remains to be demonstrated from authorial comments rather than copied prose.
 
-The title itself joins the two problem clusters that dominate 004: **the historical relation of Buddhism to Sāṁkhya-Yoga and the meaning of the nidānas**. Later histories of the field describe this article as Jacobi’s defense against Oldenberg and Senart without a fundamental retreat from his earlier position.
+## 4. The international controversy was moving while 004 and the 1898 article were being made
 
-This chronology matters:
+The surrounding chronology is unusually tight:
 
-- **1896:** Garbe, _Sāṃkhya und Yoga_;
-- **1896:** Jacobi, `Ursprung des Buddhismus aus dem Sāṁkhya-Yoga`;
-- **1896:** Senart, `À propos de la théorie bouddhique des douze Nidānas`;
-- **1897:** Oldenberg, _Buddha_, 3rd ed., appendix replying to Jacobi;
-- **1897:** La Vallée Poussin maps Warren, Jacobi and Senart together in current nidāna scholarship;
-- **1898:** Jacobi, `Verhältnis ... Sāṁkhya-Yoga und die Bedeutung der Nidānas`, ZDMG 52:1–15;
-- **1898:** Oldenberg, `Buddhistische Studien`, ZDMG 52:617–694, with the Sāṁkhya/Buddhism problem treated again in its later pages;
-- **1898:** Lovejoy, `The Buddhistic Technical Terms upādāna and upādisesa`, JAOS 19:126–136.
+- **1894:** Garbe, _Die Sâmkhya-Philosophie_, argues for pre-Buddhist Sāṁkhya and a source relation to Buddhism;
+- **1895:** reviews and notices already contest Garbe’s attempt to derive Buddhism from Sāṁkhya while conceding detailed terminological/contact problems;
+- **1896:** Rhys Davids, _Buddhism: Its History and Literature_, summarizes Garbe and rejects the strength of the chronology claim;
+- **1896:** Hermann Jacobi, **“Der Ursprung des Buddhismus aus dem Sāṁkhya-Yoga,”** _Nachrichten_ (Göttingen), 43–58;
+- **1896:** Émile Senart, **“À propos de la théorie bouddhique des douze Nidānas,”** _Mélanges Charles de Harlez_, 281–297;
+- **1897:** Hermann Oldenberg replies to Jacobi in the third edition of _Buddha_, pp.443–455;
+- **1897:** Louis de La Vallée Poussin’s _JRAS_ note on the Wheel of Life places **Warren, Oldenberg, Jacobi and Senart** together in the current bibliography of dependent origination;
+- **1898:** Jacobi, **“Über das Verhältnis der buddhistischen Philosophie zu Sāṁkhya-Yoga und die Bedeutung der Nidānas,”** _ZDMG_ 52:1–15;
+- **1898:** Oldenberg, **“Buddhistische Studien,”** _ZDMG_ 52:617–694;
+- **1898:** Lovejoy, **“The Buddhistic Technical Terms upādāna and upādisesa,”** _JAOS_ 19:126–136.
 
-Lovejoy’s first publication therefore appears **inside the peak years of a fast-moving debate**, not after its questions had stabilized into textbook background.
+Jacobi’s 1898 title is particularly revealing as context because it joins exactly the two large problem clusters found in 004: **the relation of Buddhist philosophy to Sāṁkhya-Yoga** and **the meaning of the nidānas**. No direct Jacobi citation has yet been located in the corrected 004 transcription, so Jacobi remains a contemporary field-level parallel unless a textual fingerprint is found.
 
-## 4. La Vallée Poussin 1897 is an independent contemporary map of 004’s bibliography
+## 5. The crucial transformation occurs between copied controversy and Lovejoy’s own 1898 voice
 
-Louis de La Vallée Poussin’s **“The Buddhist ‘Wheel of Life’ from a New Source,”** _JRAS_ 29.3 (July 1897), 463–470, is especially useful because it supplies a contemporary bibliographic snapshot without Lovejoy in the frame.
+This is now the strongest line to pursue.
 
-At p.463 his notes group **Burnouf, Kern, Oldenberg, Warren and Jacobi’s 1896 essay**, and then separately cite Senart’s **“À propos de la Théorie bouddhique des douze Nidānas,” pp.281–297**. This resolves the Senart pagination uncertainty left in batch 22: the article begins at **p.281**, not p.280.
+### Source uptake in 004
 
-The significance is methodological rather than merely bibliographic. Warren, Oldenberg, Jacobi and Senart form much of the same problem ecology through which 004 moves. La Vallée Poussin shows that this was recognizable to a specialist in 1897 as one current debate around `pratītyasamutpāda`, rather than a source cluster assembled retrospectively by us.
+The notebook absorbs:
 
-## 5. Harvard is now much closer to the notebook’s actual architecture
+- Garbe’s methodological treatment of Sāṁkhya;
+- Rhys Davids’s presentation of the priority dispute;
+- Warren/Oldenberg/Rhys Davids translations and interpretations;
+- Senart’s attempt to treat the nidāna formula as historically composite and, in Lovejoy’s reconstruction of Senart, close to an accidental collection of heterogeneous materials.
 
-The strongest local-context source found in this batch is _Harvard Crimson_, **29 April 1896**, announcing the first of three public lectures on Buddhism by Charles R. Lanman at the Fogg Art Museum. The notice reproduces an abstract from Lanman’s own outline with bibliographical notes.
+### Lovejoy’s own working reconstruction in 004
 
-Lecture I was titled **“The Origin and the Literature of Buddhism.—The Buddha and the Buddha-Legend.”** Its first two sections are strikingly close to the opening architecture of 004:
+By manuscript p.137 / PDF p.49, the notebook argues that it is wrong to infer from heterogeneity, borrowed material and lack of strict temporal homogeneity that the formula is therefore unintelligible or accidentally ordered. The corrected transcription records the claim that there is a **discoverable technical system** behind the arrangement, though some wording remains medium-confidence.
 
-1. origin of Buddhism;
-2. relation to antecedent Vedism and Brahmanism;
-3. relation to contemporary sects and philosophies, explicitly **Sāṁkhya and Vedānta**;
-4. practical/common purpose of Indian speculation;
-5. sources for Buddhism;
-6. northern versus southern literature;
-7. **Sanskrit and Pāli**;
-8. the Tipiṭaka, its divisions and contents;
-9. the Pali Text Society.
+### Lovejoy’s secure published formulation in 1898
 
-This does **not** prove Lovejoy attended the public lecture. It does something more defensible: it shows that Lanman, Lovejoy’s documented Sanskrit/Buddhist-text teacher, was publicly organizing Buddhist study in Cambridge in 1896 around almost exactly the conjunction found at the beginning of 004: **origins + Sāṁkhya/Vedānta comparison + source criticism + Sanskrit/Pāli textual infrastructure.**
+The _JAOS_ article makes the authorial claim fully secure. Lovejoy grants that the terms, and perhaps even many ideas, are largely borrowed, but says the **arrangement and application are original and characteristic**. He also insists that the formula, despite obscurities and the absence of strict temporal sequence, possesses a distinguishable and important meaning.
 
-The local setting therefore becomes substantially more precise than “Harvard had Oriental studies.”
+This is methodologically stronger than attributing Rhys Davids’s skepticism to Lovejoy. We can document an actual transformation:
 
-## 6. A second Lanman node appears in the Cambridge Conferences, April 1897
+> **Lovejoy receives a controversy about historical priority and compositeness through named authorities, then produces his own rule for what historical borrowing does and does not imply about conceptual intelligibility.**
 
-A _Crimson_ notice of 11 January 1897 announces that Lanman would speak at the Cambridge Conferences on **7 April 1897** on **“The Practical Teachings of Buddha: Their Method and their Contents.”** The same notice lists Toy, Royce and other Harvard figures in the conference society.
+## 6. Harvard local context remains unusually close, but must stay at the right evidential level
 
-Wilson independently says Lovejoy attended/enjoyed the Cambridge Conferences. The specific 7 April 1897 attendance remains unproved, so we cannot turn the event into a witnessed teacher–student encounter. Yet it matters as a local chronological control: during Lovejoy’s second Harvard year, Lanman’s Buddhist teaching had both a **historical-philological form** (origin, Sāṁkhya/Vedānta, Sanskrit/Pāli sources) and a **practical/doctrinal form** (method and contents of Buddha’s teaching).
+Charles R. Lanman’s first of three public Harvard lectures on Buddhism, announced in the _Harvard Crimson_ on **29 April 1896**, was titled **“The Origin and the Literature of Buddhism.—The Buddha and the Buddha-Legend.”** Lanman’s printed outline included:
 
-That pairing resembles 004’s own movement from historical/source problems through agnosticism and practical indifference to speculative knowledge, then into flux, dependent origination, the Three Characteristics and liberation.
+- origins of Buddhism;
+- relation to Vedism/Brahmanism;
+- relation to contemporary **Sāṁkhya and Vedānta**;
+- Buddhist textual sources;
+- Sanskrit and Pāli;
+- the Tipiṭaka and Pali Text Society.
 
-## 7. Warren 1896 should be treated as documentary infrastructure, not only a cited authority
+This is strikingly close to the opening architecture of 004. Lovejoy’s attendance at that public lecture is not proved, but he is independently documented as Lanman’s Sanskrit/Buddhist-text student. Thus the proper claim is institutional/pedagogical proximity, not witnessed attendance.
 
-Henry Clarke Warren’s _Buddhism in Translations_ appeared in 1896 as **Harvard Oriental Series III**, under Lanman’s editorship, and was dedicated to Lanman. The 004 transcription repeatedly uses Warren, including the notebook’s early section on flux and later dependent-origination analysis.
+A second node is Lanman’s scheduled **7 April 1897** Cambridge Conference lecture, **“The Practical Teachings of Buddha: Their Method and their Contents.”** Wilson says Lovejoy participated in/enjoyed the Cambridge Conferences, but attendance at this specific lecture remains unproved.
 
-The contextual point is now stronger than “Lovejoy used a recent book.” Harvard supplied a newly published English translation reservoir for Pāli Buddhist materials at exactly the moment Lanman was teaching the origins, textual languages and doctrinal structure of Buddhism and while European scholars were contesting Sāṁkhya priority and nidāna interpretation.
+Henry Clarke Warren’s _Buddhism in Translations_ (Harvard Oriental Series III, 1896) should therefore be treated as **local documentary infrastructure** as well as a cited book: it supplied a new English translation reservoir at exactly the moment Lanman was teaching Buddhist origins, languages and doctrinal structure.
 
-A high-yield next step is therefore a **Warren-source map**, not another manuscript read: identify which Warren translations Lovejoy extracts, then distinguish material supplied through Warren from conceptual judgments Lovejoy adds on top of them.
+## 7. Revised 004 microhistory
 
-## 8. 004’s evidential posture can now be stated more exactly
+The strongest current model is no longer “Lovejoy independently criticizes Garbe in his notebook.” It is:
 
-The priority section and the later nidāna section are methodologically continuous.
-
-### Priority problem
-
-Lovejoy asks whether doctrinal resemblance and later Sāṁkhya evidence are enough to establish a pre-Buddhist Sāṁkhya source. Against a strong contemporary thesis represented by Garbe, he records the chronological gap and refuses to let affinity substitute for evidence.
-
-### Nidāna/composition problem
-
-Later in 004, Lovejoy accepts that the dependent-origination formula contains heterogeneous and inherited material and is not homogeneous as a strict temporal sequence, while rejecting the inference that it is therefore unintelligible or accidentally arranged. He looks for the technical/conceptual function that makes the configuration intelligible.
-
-Put together, the operation is:
-
-> **do not infer genealogy merely from resemblance; do not infer unintelligibility merely from compositeness.**
-
-That is already a much sharper historical claim than “Lovejoy decomposed ideas early.” It identifies two symmetric controls on interpretation:
-
-1. **genealogical restraint** — resemblance does not prove borrowing/priority;
-2. **functional reconstruction** — borrowing/composition does not erase distinctive arrangement and meaning.
-
-The 1902 `Religion and the Time-Process` paper later makes the first control explicit in another comparative setting when Lovejoy refuses to infer an Eastern source for Aristotle merely from resemblance to Vedānta, while tracing instead an internal Greek genealogy. The 004→1898→1902 line is therefore beginning to look like continuity in **rules of inference**, rather than merely continuity in subject matter.
-
-## 9. 1901 Buddhism syllabus is a stronger intermediate node than previously appreciated
-
-Daniel J. Wilson’s annotated bibliography identifies a 1901 Washington University Association syllabus by Lovejoy, **“The Philosophy of Buddhism,”** consisting of four lectures:
-
-1. `The Place of Buddhism among the Philosophies of India`;
-2.–3. `Two Essential Formulas of Buddhism`;
-4. `Buddhist Ethics and its Goal`.
-
-The primary syllabus itself still has not been recovered, but the titles are unusually close to the architecture emerging from 004:
-
-- Buddhism among Indian philosophies = 004’s Sāṁkhya/Vedānta/origin problem;
-- two essential formulas = very plausibly the pair Lovejoy himself treats as central in the notebook/1898 work, dependent origination and the Three Characteristics;
-- ethics and goal = the notebook’s liberation/Nirvāṇa endpoint.
-
-The identification of the “two essential formulas” remains a **hypothesis until the syllabus is found**. Even at the bibliographic level, however, the syllabus shows that the broad architecture pruned from the 1898 technical article survived into teaching in 1901.
-
-Washington University’s later publication ecology is independently concrete: the Association’s _Bulletin_ existed by 1903 and the 1905 _Hatchet_ names Lovejoy its **Managing Editor**. This gives a specific archive/publication channel in which a surviving 1901 syllabus or announcement might still be located.
-
-## 10. Immediate reception search: negative result, useful limit
-
-A first targeted search for citations or reviews of Lovejoy’s 1898 paper in 1898–1901 did not recover a secure contemporary response. Modern and later Buddhist scholarship does continue to cite Lovejoy in the `upādi/upādisesa` controversy, often together with Oldenberg, as an advocate of reading the residue in terms of attachment rather than the physical aggregates.
-
-This is a disciplinary afterlife, not evidence of immediate reception. The source register should therefore continue to distinguish:
-
-- **secure later reception**;
-- **immediate reception currently unlocated**.
-
-A better immediate-reception search should move from general web search to periodical-level indices: JAOS/American Oriental Society proceedings, JRAS, Pali Text Society literature, ZDMG, and bibliographies of Buddhist studies c.1898–1910.
-
-## Revised microhistory for 004
-
-The sequence is now:
-
-> **Lanman/Harvard textual-comparative formation + Warren’s 1896 translation infrastructure**  
+> **Harvard/Lanman + Warren textual infrastructure**  
 > ↕  
-> **1896–98 international controversy: Garbe / Jacobi / Senart / Oldenberg / La Vallée Poussin**  
+> **European controversy over Sāṁkhya genealogy and dependent origination**  
 > ↓  
-> **004: direct Garbe reading, skeptical chronology, broad Buddhist analytical reconstruction**  
+> **004 as a reading-and-analysis notebook: direct Garbe + Rhys Davids + Warren + Senart/Oldenberg**  
 > ↓  
-> **1898 JAOS: narrow philological intervention on a pivotal nidāna term and `upādisesa`**  
+> **1898 _JAOS_: Lovejoy’s own narrow technical reconstruction of how borrowed/composite materials can possess a distinctive functional arrangement**  
 > ↓  
-> **1901 teaching: Buddhism among Indian philosophies → two essential formulas → ethics/goal**  
+> **1901 Buddhism syllabus: broad architecture returns in teaching**  
 > ↓  
-> **1902 category-history: re-expansion, with explicit self-reference to the 1898 paper and a generalized control against false diffusion claims**
+> **1902 “Religion and the Time-Process”: re-expansion into a comparative history of a category, explicitly referring back to the 1898 paper**
 
-The historical object is becoming clearer: **004 records Lovejoy learning how to control genealogical and functional inference while working on a disputed body of texts.**
+This lets us study **source uptake → analytical transformation → publication → pedagogical reuse → conceptual re-expansion** without mistaking copied notes for authorial doctrine.
 
-## Evidence status
+## 8. Next actions
 
-### Secure
-
-- 004 directly uses Garbe and records skepticism about carrying Sāṁkhya securely back before Buddhism.
-- Garbe 1896 explicitly argues for pre-Buddhist Sāṁkhya and a source relation to Buddhism, citing Jacobi 1896.
-- Jacobi 1896, Senart 1896, Oldenberg 1897, Jacobi 1898 and Oldenberg 1898 constitute a tightly dated controversy over Sāṁkhya/Buddhism and/or the nidānas.
-- La Vallée Poussin 1897 independently groups Warren, Jacobi and Senart in current dependent-origination scholarship.
-- Lanman’s 29 April 1896 public lecture outline explicitly joins Buddhist origins, Sāṁkhya/Vedānta, Sanskrit/Pāli and canonical source structure.
-- Lanman was scheduled at the Cambridge Conferences on 7 April 1897 for `The Practical Teachings of Buddha: Their Method and their Contents`.
-- Lovejoy’s 1901 Buddhism syllabus is bibliographically attested with its four lecture titles.
-
-### Strong inference
-
-- 004’s priority section is an evidential intervention in the same controversy represented by Garbe/Jacobi rather than generic textbook reading.
-- the broad architecture suppressed from the 1898 paper continued into Lovejoy’s 1901 teaching.
-
-### Still unproved
-
-- direct Lovejoy reading/citation of Jacobi 1896 or 1898;
-- Lovejoy attendance at Lanman’s 29 April 1896 public lecture or the 7 April 1897 Cambridge Conference lecture;
-- whether Lanman assigned Warren, Garbe, Jacobi or Senart directly in Lovejoy’s formal coursework;
-- identification of the “two essential formulas” in the missing 1901 syllabus;
-- immediate reception of the 1898 JAOS article.
-
-## Next actions
-
-1. Search the corrected 004 transcription and 1898 article systematically for **Jacobi / Oldenberg 1897 / Garbe bibliographic fingerprints**, including references that may be abbreviated rather than named.
-2. Build `Garbe claim → Lovejoy notebook response` as a short source table with exact page citations.
-3. Retrieve Jacobi 1898 full text and isolate its conclusions on both Sāṁkhya genealogy and the nidāna formula; compare with Lovejoy only after separating direct evidence from field-level parallel.
-4. Retrieve the relevant pp.681–694 of Oldenberg’s 1898 `Buddhistische Studien` to see exactly what position Lovejoy’s article entered alongside.
-5. Search Harvard course/lecture archives for Lanman’s complete **three-lecture 1896 Buddhism outline**; only Lecture I has been recovered online so far.
-6. Search Washington University Association archive/_Bulletin_ for the 1901 syllabus; test the dependent-origination + Three Characteristics hypothesis.
-7. Run periodical-level reception search, 1898–1910.
-8. Then build the formal **004 → 1898 → 1901 → 1902 concordance as rules of inference**, not merely recurring terms.
+1. Build a compact **source-uptake table** for 004: page / wording / source / verbatim-or-paraphrase / Lovejoy addition / evidentiary status.
+2. Map **Garbe 1894 p.150ff. → 004 pp.4–5** at sentence level; this source is now exact.
+3. Map **Rhys Davids 1896 pp.24–30 → 004 pp.12–18**, including the Sāṁkhya priority and sixty-two-heresies sequence.
+4. Build **Senart 1896 → 004 p.49ff. → Lovejoy 1898** point by point, separating Senart’s thesis, notebook reconstruction and published answer.
+5. Search 004/1898 for any direct Jacobi 1896/1898 fingerprint; keep absence visible if none appears.
+6. Recover the missing **1901 _Philosophy of Buddhism_ syllabus**; the hypothesis that its “two essential formulas” are dependent origination + Three Characteristics remains unproved until the artifact is found.
+7. Search immediate 1898–1910 reception at the periodical/index level rather than through generic web search.
 
 ## Sources
 
-### Manuscript / repository sources
+### Archival / repository
+- `archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`
+- `archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`
+- `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`
 
-- `archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json`.
-- `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`.
-- `research_notes/lovejoy_as_orientalist_web_sweep_batch22_004_live_buddhist_controversy_1896_1902.md`.
-
-### Contemporary / institutional sources
-
-- Richard Garbe, _Sāṃkhya und Yoga_ (Straßburg, 1896), §1; Heidelberg digitization.
+### Contemporary sources
+- Richard Garbe, _Die Sâmkhya-Philosophie: eine Darstellung des indischen Rationalismus nach den Quellen_ (Leipzig: H. Haessel, 1894), esp. pp.1ff., 150ff.
+- T. W. Rhys Davids, _Buddhism: Its History and Literature_, American Lectures on the History of Religions, First Series 1894–1895, 2nd ed. (New York/London: G. P. Putnam’s Sons, 1896), esp. pp.24–30.
 - Hermann Jacobi, “Der Ursprung des Buddhismus aus dem Sāṁkhya-Yoga,” _Nachrichten von der Königlichen Gesellschaft der Wissenschaften zu Göttingen_ (1896), 43–58.
 - Émile Senart, “À propos de la théorie bouddhique des douze Nidānas,” _Mélanges Charles de Harlez_ (1896), 281–297.
 - Hermann Oldenberg, _Buddha_, 3rd ed. (1897), 443–455.
-- Louis de La Vallée Poussin, “The Buddhist ‘Wheel of Life’ from a New Source,” _JRAS_ 29.3 (1897), 463–470, DOI `10.1017/S0035869X00024680`.
+- Louis de La Vallée Poussin, “The Buddhist ‘Wheel of Life’ from a New Source,” _JRAS_ 29.3 (1897), 463–470.
 - Hermann Jacobi, “Über das Verhältnis der buddhistischen Philosophie zu Sāṁkhya-Yoga und die Bedeutung der Nidānas,” _ZDMG_ 52 (1898), 1–15.
 - Hermann Oldenberg, “Buddhistische Studien,” _ZDMG_ 52 (1898), 617–694.
 - Arthur O. Lovejoy, “The Buddhistic Technical Terms upādāna and upādisesa,” _JAOS_ 19 (1898), 126–136.
-- _Harvard Crimson_, 29 Apr. 1896, “Lecture on Buddhism.”
-- _Harvard Crimson_, 11 Jan. 1897, “Cambridge Conferences.”
-- Daniel J. Wilson, _Arthur O. Lovejoy: An Annotated Bibliography_, item 243, `Syllabus: The Philosophy of Buddhism` (Washington University Association, 1901).
-- _The Hatchet_ (Washington University), 1905, p.228, listing Lovejoy as Managing Editor of the _Bulletin of the Washington University Association_.
-
-### Later historiographical control
-
-- J. W. de Jong, “A Brief History of Buddhist Studies in Europe and America,” for the reconstruction of the Jacobi–Oldenberg–Senart controversy. Use as historiography, not as a substitute for the 1896–98 primary texts.
