@@ -8,14 +8,16 @@ Scope: continuation of Batch121. The question is deliberately narrow: once Foake
 
 Batch122 registers:
 
-- **GAL0049** — `Arthur C. McGiffert Sr. papers, 1882-1926`, The Burke Library at Union Theological Seminary, Columbia University, Bib ID `4492472`, within UTS1.
-- **COV0064** — repository-coverage record for the McGiffert reciprocal search.
+- **GAL0050** — `Arthur C. McGiffert Sr. papers, 1882-1926`, The Burke Library at Union Theological Seminary, Columbia University, Bib ID `4492472`, within UTS1.
+- **COV0068** — repository-coverage record for the McGiffert reciprocal search.
 
-No new `GLA` component is assigned. The next unassigned component remains **GLA0057**; the next unassigned collection lead is now **GAL0050**.
+No new `GLA` component is assigned. The next unassigned component remains **GLA0057**; the next unassigned collection lead is now **GAL0051**.
 
 The basis is stronger than simple institutional proximity. The preserved finding aid for `GAL0048`, the Frederick John Foakes-Jackson Papers, says that much of Foakes-Jackson's correspondence is with UTS presidents Arthur Cushman McGiffert and Henry Sloane Coffin. Columbia's current live finding aid for McGiffert independently confirms a substantial `Series 1: Correspondence, 1913-1926`, and its biography states that McGiffert was **acting president of Union Theological Seminary in 1916-1917**. That is exactly the interval in which Foakes-Jackson took the UTS appointment and, separately, wrote from New York about Bertrand Russell's blocked Harvard appointment.
 
 This creates a controlled reciprocal-fonds search. It does not yet create a Russell document, and it does not create a Lovejoy link.
+
+Identifier note: during this pass, concurrent Batch120 work assigned `GAL0049` to the Harvard Corporation minutes lead and occupied `COV0064-COV0067` in the Harvard repository audit. Batch122 identifiers were therefore reconciled before final sync to `GAL0050 / COV0068`; the historical content and evidentiary status are unchanged.
 
 ---
 
@@ -33,7 +35,7 @@ Columbia's live finding aid identifies:
 The collection therefore gives us both sides of a plausible 1916 UTS correspondence relation:
 
 `Foakes-Jackson creator fonds (GAL0048)`  
-`<-> McGiffert creator/acting-president fonds (GAL0049)`.
+`<-> McGiffert creator/acting-president fonds (GAL0050)`.
 
 The relation is supported at the level of the Foakes-Jackson finding aid's statement that much correspondence is between him and McGiffert. The exact 1916 letters have not yet been exposed in the public container layer retrieved here.
 
@@ -104,7 +106,7 @@ Batch121 established a government-copy -> creator-fonds retrieval path:
 Batch122 adds a possible reciprocal-correspondent branch:
 
 `GAL0048 Foakes-Jackson correspondence`  
-`<-> GAL0049 McGiffert correspondence / acting-president papers`.
+`<-> GAL0050 McGiffert correspondence / acting-president papers`.
 
 The graph therefore now distinguishes three archival custody possibilities for the same wider episode:
 
@@ -144,8 +146,8 @@ The parallel bars indicate contemporaneous branches in the same wider Russell tr
 
 ## 7. Data products
 
-- `archive_index/lovejoy_global_archive_leads_batch122_delta.csv` — registers **GAL0049**;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch122_delta.csv` — adds **COV0064**;
+- `archive_index/lovejoy_global_archive_leads_batch122_delta.csv` — registers **GAL0050**;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch122_delta.csv` — adds **COV0068**;
 - this synthesis note.
 
 No new `GLA`, `GAC`, or `GAP` is created.
