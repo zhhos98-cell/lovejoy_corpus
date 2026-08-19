@@ -50,6 +50,37 @@ The point is simply:
 
 No page-by-page source genealogy is required in the blog.
 
+## Controlled display of Quellenforschung
+
+The essay should **show** enough source criticism that the reader can see the archival claim was earned. The correct model is not to suppress Quellenforschung but to make it visible in one or two high-yield flashes.
+
+Best placement: immediately after introducing 004 and before abstracting the controversy into methodological questions.
+
+Use one compact micro-collation of roughly 150–250 words:
+
+1. identify a specific notebook passage and its printed source or polemical target;
+2. show exactly where Lovejoy departs from, tightens, or redistributes the source's inference;
+3. show the corresponding 1898 published formulation;
+4. state what changed analytically.
+
+The strongest candidate is the **Garbe / Rhys Davids → 004 → 1898** sequence because it demonstrates both documentary control and Lovejoy's own intervention. Garbe supplies a diagnostic rule for identifying an `alien element`; Rhys Davids supplies a chronological brake on strong Sāṃkhya priority; 004 then distinguishes evidence for a doctrine/element from evidence that a later system `existed as a whole`; the 1898 article publicly separates borrowed material from original `arrangement and application`.
+
+A second, shorter flash can use **Senart → 004/1898**: Senart turns duplication/heterogeneity into a compositional history, while Lovejoy tests whether the cited passages really warrant the semantic equation on which that historical reconstruction depends.
+
+The reader does not need the whole source register. The point is to let them watch the argument move once at close range. This makes the later methodological claim credible without turning the blog into a source-critical appendix.
+
+Practical rule:
+
+> **Quellenforschung should appear as demonstrated craft, not as the article's topic.**
+
+The blog should therefore reveal the existence of the deeper source architecture — enough that specialists can see the claim rests on manuscript/print collation — while reserving exhaustive source routes, edition-state controls, and priority adjudication for the journal article.
+
+A useful stylistic transition after the micro-collation:
+
+> **At close range, this looks like a dispute over Pāli terminology. At a slightly greater distance, it becomes a dispute over the permissible scale of historical inference.**
+
+That sentence performs the desired move from archival craft to the history-of-ideas problem.
+
 ## One actual controversy — and the quick exit from Buddhist detail
 
 Stage the Sāṃkhya/Buddhism controversy as a dispute over proof rather than doctrine.
@@ -139,11 +170,11 @@ Then the final disciplinary move:
 
 Skinner shorthand → Lovejoy → `Sankhya + Buddhism` notebook → question.
 
-### 2. This was not casual reading — c. 250–300
+### 2. This was not casual reading — c. 300–400
 
-004 → 1898 JAOS; one or two concrete notebook/article correspondences. Establish active participation and stop the source hunt there.
+004 → one controlled micro-collation → 1898 JAOS. Show enough Quellenforschung that the reader sees how the archival claim is established, then stop the source hunt.
 
-### 3. The Buddhist dispute was a dispute about historical inference — c. 450–550
+### 3. The Buddhist dispute was a dispute about historical inference — c. 400–500
 
 Garbe / Rhys Davids / Senart / Jacobi / Oldenberg / Lovejoy compressed into competing proof thresholds. Use the three questions above. Exit Buddhist detail.
 
