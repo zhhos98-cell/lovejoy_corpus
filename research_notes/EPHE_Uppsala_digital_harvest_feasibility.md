@@ -1,213 +1,263 @@
 # EPHE / Archives nationales / Uppsala: digital-harvest feasibility for the Marillier–Lovejoy project
 
-## Status
+## Status — updated 2026-08-19
 
-The digital situation has changed enough that the EPHE side is now **machine-harvestable in principle**, while the Söderblom side is **metadata-harvestable but the crucial 1898–1901 notebooks are not presently exposed as digitized scans**.
+The digital situation is now much clearer than in the first reconnaissance.
 
-The distinction matters:
+- **EPHE / Archives nationales:** the 2025 digitization project is not merely machine-harvestable in principle. The SIV delivery layer has now been reverse-engineered far enough to recover sequential image ranges directly from stable JPEG URLs and merge them locally to PDF.
+- **Uppsala / Alvin:** the Nathan Söderblom archive remains catalogued as `Non digital`, but the archive tree now exposes several notebook groups that directly overlap 1898–99. A separate Uppsala finding aid also isolates a `Parisåren` block for 1894–1901.
 
-- EPHE / Archives nationales: inventory metadata, XML-EAD and a large corpus of digitized images are now online and openly reusable. The immediate task is to identify which exact 1898–1899 Vᵉ Section registration/attendance units have digital images attached.
-- Uppsala / Alvin: metadata can be harvested via OAI-PMH and digitized items can be downloaded, but the Nathan Söderblom archive itself is catalogued as `Non digital`; its catalogue nevertheless reveals exactly the diary/notebook series that overlap Lovejoy's Marillier year.
+The detailed live sweep is recorded in:
 
----
-
-## 1. EPHE digitization project: now live
-
-EPHE announced that its project **“L'EPHE dans la recherche française pendant le premier siècle de son existence (1868–1968): inventaire et numérisation des archives scientifiques”** was completed in May 2025.
-
-The project digitized a selection of:
-
-- ministry supervisory records;
-- EPHE institutional archives;
-- three scholar fonds;
-- including institutional materials such as **registres d'inscription**, **listes de présence**, and section assembly registers.
-
-EPHE states that the inventory and digitizations are online in the Archives nationales SIV under:
-
-`FRAN_IR_061975`
-
-This is the most important current access point for reconstructing the Marillier seminar cohort.
-
-### Relevant Vᵉ Section fonds
-
-EPHE's archive inventory identifies:
-
-- Vᵉ Section institutional archives, 1886–2005: `20190568/001-399`
-- **scolarité**: `20190568/185-368`
-
-The 1898–1899 registration and attendance evidence should therefore be sought first within this scolarité block and in the digitized project instrument `FRAN_IR_061975`.
-
-**Caution:** EPHE explicitly says registration registers and attendance lists are among the institutional records available for this project, but the public project announcement alone does not prove that the exact 1898–1899 Marillier register/list is in the digitized subset. The next technical task is to resolve the unit-level `daogrp` / digital-image links in the EAD.
+- `research_notes/project2_contemporary_student_notebooks_sweep_2026-08-19.md`
+- `research_notes/project2_siv_url_and_image_range_ledger_2026-08-19.md`
+- `tools/harvest_siv_gallery.ps1`
+- `tools/harvest_project2_ephe_ranges.ps1`
 
 ---
 
-## 2. Archives nationales open-data layer: suitable for batch harvesting
+## 1. EPHE digitization project
 
-The Archives nationales now publish two especially useful open datasets.
+EPHE's project **“L'EPHE dans la recherche française pendant le premier siècle de son existence (1868–1968): inventaire et numérisation des archives scientifiques”** was completed in May 2025.
 
-### A. Inventory index
+Main SIV inventory:
 
-Dataset: **Liste des inventaires des Archives nationales publiés en ligne**.
+https://www.siv.archives-nationales.culture.gouv.fr/siv/IR/FRAN_IR_061975
 
-It contains more than 31,000 online inventories and exposes fields including:
+PDF export:
 
-- `fran_ir`
-- title
-- cote range
-- date range
-- producer
-- `documents_numérisés`
-- SIV permalink
-- direct XML-EAD file link
+https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/pdfIR.action?irId=FRAN_IR_061975
 
-The field `documents_numérisés = oui` indicates that at least one digital document is attached to that inventory (`<daogrp>` in EAD), not that the whole fonds is digitized.
+XML export:
 
-Current CSV resource ID recovered from the download redirect:
+https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/exportXML.action?irId=FRAN_IR_061975
 
-`c486d8ae-30ca-4084-8ac4-b5f0ff8d172d`
-
-### B. Digitized-corpus index
-
-Dataset: **Corpus de documents numérisés des Archives nationales**.
-
-As of the July 2026 update it contains 719 digitized corpora and fields including:
-
-- SIV image/inventory URL
-- approximate number of views/images
-- `cotes_concernées`
-- archive status
-- document type
-- theme
-- period
-- persons
-- XML inventory link
-- observations, including image-file naming roots
-
-Current CSV resource ID:
-
-`944d7b79-46a6-437d-8af4-24cc99484ba9`
-
-This is potentially enough to automate the first-stage harvest: identify `FRAN_IR_061975` and/or `20190568`, retrieve the EAD, locate digitized component nodes, then enumerate image-bearing cotes.
-
-### Practical implication
-
-We no longer need to treat the Archives nationales SIV as a purely manual webpage. The discovery layer is structured and downloadable. A local harvest can be designed as:
-
-1. ingest AN inventory CSV;
-2. filter for `FRAN_IR_061975`, `20190568`, `École pratique des hautes études`, `Vᵉ section`;
-3. fetch the corresponding XML-EAD;
-4. parse `<c>` hierarchy and `<daogrp>` / digital-object links;
-5. isolate 1897–1900 scolarité / registration / attendance units;
-6. build a cote-level manifest before attempting image capture.
-
-At present the exact 1898–1899 image-bearing cote has **not yet been resolved**, because the public SIV page is difficult to fetch automatically and the static data.gouv CSV redirect was not retrievable in the current runtime. The infrastructure and identifiers are nevertheless confirmed.
+The project includes selected institutional materials from the EPHE sections, ministry oversight files, and scholar fonds. Registration registers and attendance lists are highlighted by EPHE as especially useful institutional records, but the exact 1898–99 register/list still needs cote-level resolution in the full Vth-Section archive rather than being assumed to be part of every digitized subset.
 
 ---
 
-## 3. Nathan Söderblom archive: exact notebook ranges now identified
+## 2. Vth Section targets now resolved from the detailed inventory
+
+### F/17/13618
+
+`F/17/13618 — Ve et VIe sections, 1885-1933`
+
+For the Vth Section the description includes:
+
+- organization;
+- course creation/candidatures;
+- personnel;
+- **Élèves : nominations (1889–1932)**;
+- posters/programmes.
+
+The detailed inventory states that the article was digitized in full. Its images are exposed through the original finding aid rather than necessarily as a direct node in the 88-result project gallery.
+
+This is a high-value route to resolving Travers / Schaefer and other student identities.
+
+### 20190568/49
+
+Vth Section assembly minutes:
+
+`Assemblée de section : cahiers manuscrits des procès-verbaux`
+
+- dossier 1: **16 février 1886–17 juin 1906**
+- fully digitized
+
+Potential yield: diploma/student decisions, section business, Marillier-related institutional discussion.
+
+### 20190568/69
+
+Vth Section secretariat:
+
+`Correspondance générale, 1886–1899`
+
+- fully digitized
+- split online into three `Sous-ensemble`
+
+This is the strongest direct secretariat target for the 1898–99 Marillier year.
+
+### 20190568/70
+
+`Correspondance générale, 1900–1912`
+
+- fully digitized
+- split online into three `Sous-ensemble`
+
+One recovered gallery from this sequence contains Marcel Mauss's 1901 candidature material after Marillier's death. This is useful methodological context but is not the center of Project 2.
+
+### 20190568/86
+
+`Annuaires de la section, 1885–1891` — original manuscript conference reports / correspondence.
+
+Important for early Vth-Section practice, but **does not reach 1898–99**.
+
+### 20190568/391
+
+Large-format conference programmes:
+
+`1886–1999`, fully digitized.
+
+Useful for formal schedule/course reconstruction.
+
+---
+
+## 3. SIV delivery layer is now directly harvestable
+
+The Archives nationales gallery exposes stable per-image JPEG URLs:
+
+`https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_XXXXX_L-medium.jpg`
+
+Two sequential ranges were recovered on 2026-08-19.
+
+### Range A — 383 views
+
+- first: `FRAN_0464_06736_L-medium.jpg`
+- last: `FRAN_0464_07118_L-medium.jpg`
+- total: **383**
+
+Direct first image:
+
+https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_06736_L-medium.jpg
+
+Direct last image:
+
+https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_07118_L-medium.jpg
+
+The first inspected document is dated **26 July 1897** on Lycée Louis-le-Grand letterhead. Browser navigation context places this range in the late-1890s Vth-Section correspondence target, making it directly relevant to the 1898–99 sweep. Final archival citation should still preserve the exact gallery `udId` / parent mapping once recorded.
+
+### Range B — 435 views
+
+Gallery URL:
+
+https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/multimedia/Galerie.action?irId=FRAN_IR_061975&udId=c-4djk5r1n8--72f9e5zjfghl
+
+- first: `FRAN_0464_07119_L-medium.jpg`
+- last: `FRAN_0464_07553_L-medium.jpg`
+- total: **435**
+
+Internal evidence near views 426–434 dates this range to the 1901 succession/candidature context and therefore to the later 1900–1912 correspondence sequence.
+
+The two ranges are directly consecutive (`07118` → `07119`).
+
+### Local harvest
+
+Generic harvester:
+
+`tools/harvest_siv_gallery.ps1`
+
+Project wrapper:
+
+`tools/harvest_project2_ephe_ranges.ps1`
+
+Commands:
+
+```powershell
+.\tools\harvest_siv_gallery.ps1 -StartImage 6736 -EndImage 7118 -Name "EPHE_FRAN0464_06736_07118"
+.\tools\harvest_siv_gallery.ps1 -StartImage 7119 -EndImage 7553 -Name "EPHE_FRAN0464_07119_07553"
+```
+
+Each run:
+
+- downloads sequential JPEGs with retries and a delay;
+- skips valid existing files;
+- writes a manifest and log;
+- validates the expected image count;
+- merges the range in numeric order to a single PDF with `img2pdf`.
+
+---
+
+## 4. Incidental 1901 Mauss material
+
+The later 435-view gallery contains, near views 426–434:
+
+- Marcel Mauss's candidature/career statement after Marillier's death;
+- a C. P. Tiele recommendation dated Leiden, 1 November 1901;
+- Mauss's description of his critical work for *L'Année sociologique* and a continually refined classification of religious facts;
+- an explicit intention to continue work in the direction Marillier had taken, especially the **gathering and criticism of ethnographic materials**;
+- attached bibliographic/classification working sheets for several periodicals;
+- `Söderblom: Les Fravashis` classified among beliefs/rites concerning the dead.
+
+This is a useful vertical witness to Marillier's methodological afterlife, but it should remain ancillary to the main Project 2 question: **find an independent Marillier-student notebook/working corpus comparable to Lovejoy 005.**
+
+---
+
+## 5. Nathan Söderblom archive: notebook ranges now confirmed
 
 Official Alvin record:
 
-- archive: `Nathan Söderbloms efterlämnade papper`
-- institution: Uppsala University Library, Carolina Rediviva
-- shelfmark: `N. Söderblom`
-- archive format: **Non digital**
+https://alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A13019
 
-The online archive tree nevertheless identifies three notebook/diary groups directly overlapping the Marillier period:
+Archive:
+
+- `Nathan Söderbloms efterlämnade papper`
+- Uppsala University Library, Carolina Rediviva
+- shelfmark: `N. Söderblom`
+- format: **Non digital**
+
+The archive tree explicitly lists notebook/diary groups that overlap the Marillier period:
 
 - `Dag- och anteckningsböcker 1894-1899`
 - `Dag- och anteckningsböcker 1896-1901`
 - `Dag- och anteckningsböcker 1898-1915`
-
-and:
-
 - `Almanackor 1892-1899`
 
-This is a major narrowing of the onsite/digitization target. The archive record also provides digitized PDF paper catalogues for:
+This materially upgrades the earlier finding-aid description. The archive should be treated as a physical notebook target with online metadata/finding aids, not as an already digitized notebook corpus.
 
-- `C. Manuskript`
-- `E. Handlingar i särskilda ämnen`
-- `D. Minnen`
+A separate user-supplied 25-page Uppsala finding aid inspected on 2026-08-19 contains a distinct block:
 
-The catalogue notes explicitly state that only digitized letters are individually specified in the archive list. Therefore the 1894–1901 notebooks should currently be treated as **physical manuscript targets whose metadata/finding aids are online, not as already scanned notebooks**.
+`Minnen 1894-1901. Parisåren`
 
----
+including categories such as:
 
-## 4. Alvin is harvestable at metadata level
+- `Föreningar och institut`
+- `Religion och kyrka`
+- invitations/programmes
+- `Diverse`
 
-Alvin officially exposes metadata under **OAI-PMH 2.0** and releases metadata under **CC0**.
-
-OAI endpoint:
-
-`https://www.alvin-portal.org/oai/oai?verb=Identify`
-
-All genuinely digitized Alvin material may be downloaded and used freely according to the portal. This means a reusable harvesting pipeline can be built for:
-
-- Söderblom archive record and children;
-- digitized correspondence;
-- authority records;
-- any future digitization of the relevant diaries/notebooks.
-
-For the present research question, however, OAI harvesting will not substitute for obtaining scans of the diary/notebook groups, because the parent archive is explicitly marked `Non digital`.
+This Paris-years block is a secondary target and should not be confused with the actual `Dagböcker / anteckningsböcker` series.
 
 ---
 
-## 5. Why Söderblom is now the highest-value control witness
+## 6. Why Söderblom remains the highest-value control
 
-The 1898–1899 EPHE report lists Söderblom as a regular student in Marillier's conferences while listing Lovejoy among the auditors who took an active part in the work.
-
-Söderblom's 1898 EPHE diploma was:
+Marillier's 1898–99 EPHE report lists Söderblom as a regular student and Lovejoy among the auditors taking an active part. Söderblom's 1898 diploma project was:
 
 `Traces dans le Mazdéisme d'une ancienne conception sur la survivance des morts`
 
-Bibliographic authority data describes it as prepared **under the direction of Léon Marillier**.
+prepared under Léon Marillier and later expanded into *Les Fravashis* (1899).
 
-This gives an unusually tight control configuration:
+This gives the ideal control configuration:
 
 - same teacher;
 - same year;
-- same `survivance` problem;
-- one surviving Lovejoy notebook;
-- one surviving Söderblom archive with notebooks spanning 1898–1899.
+- closely related `survivance` problem;
+- Lovejoy 005 survives;
+- Söderblom notebook groups spanning 1898–99 survive.
 
-The immediate archival question is therefore no longer merely “does Söderblom have papers?” but:
+Immediate archival question:
 
-> **Which physical volume(s) inside `Dag- och anteckningsböcker 1894-1899` and `1896-1901` cover Paris / EPHE / Marillier, and do they contain course notes or bibliography comparable to Lovejoy 005?**
+> Which exact physical volume(s) in the Söderblom notebook series cover Paris / EPHE / Marillier, and can Uppsala provide targeted scans?
 
 ---
 
-## 6. Current yes/no matrix
+## 7. Current matrix
 
-| Target | Metadata harvest | Full digital images now confirmed | Current action |
+| Target | Metadata / catalogue | Digital images | Current action |
 |---|---:|---:|---|
-| EPHE project `FRAN_IR_061975` | **Yes** | **Yes, for a selected corpus** | resolve unit-level 1898–99 cotes |
-| Vᵉ Section `20190568/185-368` | **Yes** | **Not yet confirmed for exact 1898–99 units** | parse EAD / `daogrp` |
-| AN inventory dataset | **Yes** | n/a | batch ingest/filter |
-| AN digitized-corpus dataset | **Yes** | points directly to image-bearing corpora | batch ingest/filter |
-| Söderblom archive metadata | **Yes, OAI-PMH** | archive parent = **Non digital** | harvest metadata/catalogue |
-| Söderblom 1894–1901 notebooks | catalogue identification **Yes** | **No scan confirmed** | request/digitize exact volumes |
-| Söderblom digitized letters | **Yes** | **Some letters yes** | search Marillier / Paris / EPHE correspondence |
+| `FRAN_IR_061975` | **Yes** | **Yes, selected corpus** | harvest exact late-1890s ranges |
+| `20190568/69` | **Yes** | **Yes, fully digitized** | scan 1897–99 correspondence for cohort names / Marillier |
+| `20190568/49` dossier 1 | **Yes** | **Yes, fully digitized** | inspect 1898–99 assembly minutes |
+| `F/17/13618` | **Yes** | **Yes, fully digitized via original IR** | locate student nominations / identities |
+| Söderblom archive | **Yes** | parent archive = **Non digital** | identify exact notebook volume/capsule |
+| Söderblom notebook groups | **Yes** | no public facsimile confirmed | targeted digitization request |
+| Söderblom Paris-years `Minnen` | **Yes** | not established | inspect as secondary ephemera/loose-paper target |
 
 ---
-
-## 7. Immediate next technical targets
-
-### EPHE / AN
-
-1. Obtain the XML-EAD for `FRAN_IR_061975`.
-2. Extract every component whose dates intersect `1898-1899` and whose title contains registration, attendance, student, scolarité, Vᵉ Section, sciences religieuses, or conference terms.
-3. Record `unitid`, `unittitle`, `unitdate`, parent hierarchy and all `<daogrp>` / digital-object references.
-4. Cross-search resulting student names against the 1898–1899 Marillier report: Söderblom, Travers, Schaefer, Lovejoy, W. S. Andrews, Lorette.
-
-### Uppsala
-
-1. Capture the attached C/E and D finding-aid PDFs.
-2. Identify capsule/volume numbers for `Dag- och anteckningsböcker 1894-1899` and `1896-1901`.
-3. Search digitized correspondence metadata for `Marillier`, `Paris`, `École pratique des hautes études`, `survivance`, and French religious-studies correspondents.
-4. If notebooks remain non-digital, request targeted digitization rather than an open-ended archive scan.
 
 ## Bottom line
 
-**Yes: the EPHE / Archives nationales digital archive has reached the point where a systematic machine harvest is technically justified now.** The exact Marillier 1898–1899 attendance/register images still have to be resolved at component level, but the institution has published both the digitization project and structured open-data discovery layers.
+The EPHE side has moved from “in principle harvestable” to **operationally harvestable**: exact sequential SIV image ranges can be downloaded outside the unstable front end and merged into local PDFs.
 
-**Uppsala is one step behind:** its metadata and finding aids can already be harvested, and the exact relevant notebook date ranges are known, but the crucial Söderblom notebooks are not presently exposed as digital scans. That should become a targeted digitization request once the volume/capsule identifiers are extracted.
+Uppsala remains the decisive student-notebook target. The next high-return sequence is:
+
+**harvest late-1890s EPHE material → resolve Travers/Schaefer identities → identify Söderblom notebook volume(s) → request targeted scans.**
