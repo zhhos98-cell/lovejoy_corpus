@@ -1,10 +1,10 @@
 # Manual retrieval queue — notebook 004 / source-control problem
 
 Date: 2026-08-18  
-Last live sync: **2026-08-19, Batch 142**  
-Status: active; substantially reduced after the full GPT-backend upload scan.
+Last live sync: **2026-08-19, Batch 150**  
+Status: active; substantially reduced after the full GPT-backend upload scan and deterministic route sweep.
 
-This is a living queue. Batch 142 is the controlling update for the newly returned files; earlier resolved items remain documented in Batch 33/41/42 and Git history.
+This is a living queue. Batch 142 controls the uploaded source resolutions; Batch 150 updates access topology for the remaining Jacobi 1897 target. Earlier resolved items remain documented in Batch 33/41/42 and Git history.
 
 ## Batch 142 resolution summary
 
@@ -53,7 +53,7 @@ The combined result still rejects a Lovejoy priority claim for the basic Senart/
 
 # P0 — Jacobi's 1897 review of Dahlmann, printed pp.268–272
 
-**This remains the highest-yield 004 manual retrieval.**
+**This remains the highest-yield 004 retrieval. Status after Batch 150: `OBJECT_RESOLVED_TEXT_PENDING`, not source-discovery pending.**
 
 Hermann Jacobi, review/notice of Joseph Dahlmann, _Nirvāṇa: Eine Studie zur Vorgeschichte des Buddhismus_, _Göttingische Gelehrte Anzeigen_ (1897).
 
@@ -67,16 +67,35 @@ Why:
 - it can show what Jacobi thought Dahlmann's Sāṁkhya/Nirvāṇa genealogy established before the later nidāna controversy;
 - it supplies a contemporary control for the standards of historical inference in the field Lovejoy entered.
 
-Official Göttingen Academy landing page:
-`https://rep.adw-goe.de/handle/11858/00-001S-0000-0023-BEBB-3`
+### Official Academy route
 
-First-volume PDF:
+Göttingen Academy repository:
+
+- 1897, **159. Jahrgang**;
+- 1064 pages total;
+- separate first-volume and second-volume PDFs;
+- DOI `10.26015/adwdocs-374`;
+- landing page `https://rep.adw-goe.de/handle/11858/00-001S-0000-0023-BEBB-3`.
+
+First-volume PDF remains the correct container for pp.267–273:
+
 `https://rep.adw-goe.de/bitstream/handle/11858/00-001S-0000-0023-BEBB-3/PPN385030444_1897_159.Jg._1Bd..pdf?isAllowed=y&sequence=3`
 
-Internet Archive full-year mirror:
+### Batch 150 independent GDZ child-object route
+
+The GDZ serial tree separately exposes the 1897 first half as **159,1** with child identifier:
+
+`PPN385030444_159_1`
+
+This is now the preferred deterministic child-object key for another extraction attempt.
+
+Prior Internet Archive full-year mirror remains:
+
 `https://archive.org/details/GoettingischeGelehrteAnzeigen1897-1-2`
 
 Upload preference: page images/PDF slice covering printed **267–273**. No OCR required.
+
+Important status rule: exact object recovery does **not** mean the review has been read. No substantive Jacobi 1897 claim is upgraded until these pages are actually inspected.
 
 # P1 — Hermann Oldenberg, _Buddha_, true 3rd enlarged ed. (1897)
 
@@ -115,7 +134,7 @@ Retrieve only after the GGA Jacobi review and true Oldenberg third edition unles
 
 # Harvard/Lovejoy access evidence
 
-Batch 141 now supplies exact official digital routes for Harvard course/enrollment records. The live access question remains whether Lovejoy can be shown to have encountered the newest 1897 German controversy before his 1898 article.
+Batch 141 supplies exact official digital routes for Harvard course/enrollment records. The live access question remains whether Lovejoy can be shown to have encountered the newest 1897 German controversy before his 1898 article.
 
 High-value evidence:
 - Harvard 1896–97 / 1897–98 course descriptions and enrollment records around Lanman/Everett/Toy;
@@ -132,4 +151,5 @@ High-value evidence:
 
 See also:
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch142_uploaded_manual_targets_full_scan.md`
-- `research_notes/uploaded_manual_targets_resolution_batch142.csv`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch150_remaining_primary_mirror_routes.md`
+- `research_notes/remaining_primary_mirror_route_resolution_batch150.csv`
