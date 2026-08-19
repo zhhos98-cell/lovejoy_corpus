@@ -1,5 +1,5 @@
 <#
-Run the two Archives nationales SIV image ranges recovered during the
+Run the three Archives nationales SIV image ranges recovered during the
 2026-08-19 Project 2 sweep. Each range is downloaded and merged to PDF by
 harvest_siv_gallery.ps1.
 
@@ -18,9 +18,19 @@ Range B — 435 views
   ...
   https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_07553_L-medium.jpg
 
+Range C — 144 views
+  first direct image supplied from browser:
+  https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_16223_L-medium.jpg
+
+  sequential range inferred from 144 total views:
+  https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_16223_L-medium.jpg
+  ...
+  https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_16366_L-medium.jpg
+
 Output PDFs:
   ~/Downloads/EPHE_FRAN0464_06736_07118.pdf
   ~/Downloads/EPHE_FRAN0464_07119_07553.pdf
+  ~/Downloads/EPHE_FRAN0464_16223_16366.pdf
 #>
 
 $Here = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -48,5 +58,14 @@ if ($LASTEXITCODE -ne 0) {
     throw "Range B failed. Re-run after checking the log in Downloads."
 }
 
+& $Harvester `
+    -StartImage 16223 `
+    -EndImage 16366 `
+    -Name "EPHE_FRAN0464_16223_16366"
+
+if ($LASTEXITCODE -ne 0) {
+    throw "Range C failed. Re-run after checking the log in Downloads."
+}
+
 Write-Host ""
-Write-Host "Both Project 2 SIV ranges completed."
+Write-Host "All three Project 2 SIV ranges completed."
