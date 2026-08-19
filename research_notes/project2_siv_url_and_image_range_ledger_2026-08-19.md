@@ -149,7 +149,46 @@ Expected output:
 
 ---
 
-## 5. Run both recovered ranges
+## 5. Recovered Range C — 144 views
+
+User supplied the first direct image URL:
+
+https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_16223_L-medium.jpg
+
+Observed gallery total: **144 views**.
+
+Assuming the gallery continues sequentially, the recovered range is:
+
+- gallery view 1 → `FRAN_0464_16223_L-medium.jpg`
+- gallery view 144 → `FRAN_0464_16366_L-medium.jpg`
+
+Direct first image:
+
+https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_16223_L-medium.jpg
+
+Direct inferred last image:
+
+https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0464_16366_L-medium.jpg
+
+The archival parent / `udId` has not yet been recorded in this ledger, so the range must not be assigned to a cote solely from the image IDs. The harvester will preserve a manifest for later citation reconciliation.
+
+PowerShell command:
+
+```powershell
+.\tools\harvest_siv_gallery.ps1 `
+    -StartImage 16223 `
+    -EndImage 16366 `
+    -Name "EPHE_FRAN0464_16223_16366"
+```
+
+Expected output:
+
+- `~/Downloads/EPHE_FRAN0464_16223_16366/` — 144 JPEGs + manifest + log
+- `~/Downloads/EPHE_FRAN0464_16223_16366.pdf`
+
+---
+
+## 6. Run all recovered ranges
 
 Wrapper script:
 
@@ -161,11 +200,11 @@ Run from repository root:
 .\tools\harvest_project2_ephe_ranges.ps1
 ```
 
-This calls `tools/harvest_siv_gallery.ps1` twice and produces both PDFs.
+This now calls `tools/harvest_siv_gallery.ps1` three times and produces all three PDFs.
 
 ---
 
-## 6. Code behavior
+## 7. Code behavior
 
 `tools/harvest_siv_gallery.ps1`:
 
@@ -187,7 +226,7 @@ The explicit code is stored in:
 
 ---
 
-## 7. Relevant cote-level targets from FRAN_IR_061975
+## 8. Relevant cote-level targets from FRAN_IR_061975
 
 From the 2025 detailed inventory PDF:
 
@@ -200,7 +239,7 @@ From the 2025 detailed inventory PDF:
 
 ---
 
-## 8. Research-use caution
+## 9. Research-use caution
 
 Do not infer a cote solely from a sequential image ID. The JPEG sequence is a delivery-layer identifier, not an archival citation. Final citations should retain:
 
