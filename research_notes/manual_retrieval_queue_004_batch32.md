@@ -1,10 +1,10 @@
 # Manual retrieval queue — notebook 004 / source-control problem
 
 Date: 2026-08-18  
-Last live sync: **2026-08-19, Batch 150**  
+Last live sync: **2026-08-19, Batch 151**  
 Status: active; substantially reduced after the full GPT-backend upload scan and deterministic route sweep.
 
-This is a living queue. Batch 142 controls the uploaded source resolutions; Batch 150 updates access topology for the remaining Jacobi 1897 target. Earlier resolved items remain documented in Batch 33/41/42 and Git history.
+This is a living queue. Batch 142 controls the uploaded source resolutions; Batch 150 updates access topology for Jacobi 1897; Batch 151 upgrades the Oldenberg 1897 third-edition target from edition uncertainty to an exact full-view edition-3 problem. Earlier resolved items remain documented in Batch 33/41/42 and Git history.
 
 ## Batch 142 resolution summary
 
@@ -39,7 +39,7 @@ This is no longer a missing-text problem. A pagination/edition control is option
 
 The title page explicitly says **`ZWEITE AUFLAGE`** and the preface is `Vorwort zur zweiten Auflage`; this is the 1890 second edition. Its printed p.273 lacks the later Senart-related note sought through Jacobi's reference.
 
-The required **1897 third enlarged edition remains missing**.
+Batch 151 now separately identifies the true 1897 third edition; keep the uploaded 1890 book only as an earlier-edition control.
 
 ### ALREADY RESOLVED / now locally controlled
 
@@ -99,17 +99,60 @@ Important status rule: exact object recovery does **not** mean the review has be
 
 # P1 — Hermann Oldenberg, _Buddha_, true 3rd enlarged ed. (1897)
 
+**Status after Batch 151: `TRUE_1897_EDITION_DIGITALLY_RESOLVED / EXACT_PAGE_TEXT_PENDING`.**
+
 Need:
 1. title/front matter confirming **3rd enlarged ed., 1897**;
 2. printed **p.273 note** cited by Jacobi on Senart's `upādāna = upādānakkhandha` view;
 3. **pp.443–455**, especially **p.448ff**, the Sāṁkhya/Buddhism excurs.
 
-Previously identified routes:
-- `https://books.google.com/books/about/Buddha.html?id=ta7rJ6uWLfwC`
-- `https://play.google.com/store/books/details/Hermann_Oldenberg_Buddha?id=BXM_AAAAYAAJ`
-- `https://search.worldcat.org/de/title/230741722`
+### True 1897 edition routes now controlled
 
-Upload preference: title page + p.273 + pp.443–455.
+Google Books full-view witness:
+
+- object `ta7rJ6uWLfwC`;
+- W. Hertz, 1897;
+- metadata explicitly says **Edition 3**;
+- 460 pages;
+- table of contents independently places the Sāṁkhya/Buddhism appendix at **pp.443–455**.
+
+Second full-view/free witness:
+
+- Google Books / Google Play object `BXM_AAAAYAAJ`;
+- W. Hertz, 1897;
+- 460 pages;
+- Google Play marks it free.
+
+Independent page-image control:
+
+- Online Books Page indexes the W. Hertz **1897** edition at HathiTrust.
+
+Thus the problem is no longer finding/identifying the true third edition. It is extracting the exact page text.
+
+### Parallel witness: Foucher 1903
+
+Alfred Foucher's second French edition, Paris: Félix Alcan, 1903, is explicitly described in contemporary bibliography as:
+
+`2e édition française, revue et augmentée d'après la 3e édition allemande`.
+
+Louis de La Vallée Poussin later specifically notes that Oldenberg's `Buddha³ (1897)` Sāṁkhya appendix was suppressed in later German editions but remained in **Foucher², Paris 1903**.
+
+Therefore Foucher 1903 is a useful parallel witness to the controversy-specific third-edition textual state. It must not replace the 1897 German text for quotation or pagination.
+
+### Why this edition state matters
+
+The 1897 third edition is not just a repaginated book. Jacobi points directly into a Sāṁkhya appendix that Oldenberg later removed from German editions. The correct longitudinal control is therefore:
+
+`1890 second edition`  
+→ `1897 third enlarged edition / controversy-specific additions`  
+→ `1898 ZDMG intervention`  
+→ `later German revision/removal`.
+
+This may show more precisely what changed in Oldenberg's evidentiary apparatus during the exact controversy in which Lovejoy 004/1898 sits.
+
+Upload preference: title page + p.273 + **whole pp.443–455**, not just p.448, because the appendix itself is edition-specific.
+
+See Batch 151: `research_notes/lovejoy_as_orientalist_web_sweep_batch151_Oldenberg_1897_third_edition_parallel_witness.md`.
 
 # P2 — Childers facsimile / citation hygiene
 
@@ -130,7 +173,7 @@ Useful for controversy ecology, not evidence of Lovejoy access:
 1. _Wiener Zeitschrift für die Kunde des Morgenlandes_ 11 (1897), pp.190–197, Dahlmann notice, strongly attributable to Leopold von Schroeder but still worth heading/signature control.
 2. _Journal of the Royal Asiatic Society_ 29.2 (1897), pp.407–410, Dahlmann notice.
 
-Retrieve only after the GGA Jacobi review and true Oldenberg third edition unless access is trivial.
+Retrieve only after the GGA Jacobi review and Oldenberg third-edition exact pages unless access is trivial.
 
 # Harvard/Lovejoy access evidence
 
@@ -147,9 +190,11 @@ High-value evidence:
 2. **Historical-functional recomposition:** Hardy → 004 → 1898 karma/upādāna allocation.
 3. **Usage under underdetermined genealogy:** Childers/Rhys-Davids versus Müller/Dahlmann plus Oldenberg → Lovejoy brackets etymology and reconstructs meaning from textual distribution/usage.
 4. **Citation practice as evidence:** the Müller p.30/p.36 discrepancy is now a real source-critical problem in Lovejoy's own article, not a missing-source placeholder.
-5. **1902 transport:** test analogous separation of resemblance from demonstrated transmission in `Religion and the Time-Process`.
+5. **Edition-state control:** Oldenberg 1897 must be treated as a controversy-specific textual state rather than silently substituted by the 1890 second edition or later German/French revisions.
+6. **1902 transport:** test analogous separation of resemblance from demonstrated transmission in `Religion and the Time-Process`.
 
 See also:
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch142_uploaded_manual_targets_full_scan.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch150_remaining_primary_mirror_routes.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch151_Oldenberg_1897_third_edition_parallel_witness.md`
 - `research_notes/remaining_primary_mirror_route_resolution_batch150.csv`
