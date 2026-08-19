@@ -1,291 +1,256 @@
 # Archive-side Batch 120 — Harvard President's Office, Corporation minutes, and an index-first retrieval route for the 1916 Russell episode
 
 Date: 2026-08-19  
-Status: synced  
-Scope: follow Batch119's strongest unresolved Harvard-side consequences. Batch119 established that Russell's proposed Harvard teaching had entered public curricular planning and that British administrative records instructed that the no-passport decision be communicated to the President of Harvard. This pass asks where that President-side notification/administration should be searched today, and where the still-unresolved formal appointment action should be tested.
+Status: synced; global IDs concurrency-reconciled after parallel Batches121-122  
+Scope: follow Batch119's strongest unresolved Harvard-side consequences. Batch119 established that Russell's proposed Harvard teaching had entered public curricular planning and that British administrative records instructed that the no-passport decision be communicated to the President of Harvard. This pass identifies the current Harvard provenance domains for that President-side notification/administration and for the still-unresolved formal appointment action.
 
 ## Core result
 
-Batch120 adds **no new GLA component**. The next unassigned true component remains `GLA0057`.
+Batch120 adds **no new GLA component**. The next true component remains `GLA0057` unless a later parallel batch assigns it.
 
-It adds two new Harvard archival leads, but a concurrency event changes their numbering:
+The current canonical Batch120 leads are:
 
 - `GAL0047` — **Records of the President of Harvard University, Abbott Lawrence Lowell, 1909-1933**, `UAI 5.160.x`;
-- `GAL0049` — **Harvard University Corporation records: minutes, 1643-1989**, `UAI 5.30`.
+- `GAL0050` — **Harvard University Corporation records: minutes, 1643-1989**, `UAI 5.30`.
 
-`GAL0048` was assigned concurrently in Batch121 to the Frederick John Foakes-Jackson Papers at Union Theological Seminary, so Batch120 does not reuse it.
+The gap in numbering is deliberate and records real concurrency. Parallel Batch121 assigned `GAL0048` to the Frederick John Foakes-Jackson Papers; parallel Batch122 then assigned `GAL0049` to the Arthur C. McGiffert Sr. papers. Batch120 had briefly used `GAL0049` before the Batch122 commit became visible, so the current Batch120 delta was rewritten to `GAL0050`. The historical commit remains only as Git audit trail; `lovejoy_global_id_concurrency_reconciliation_batch120.csv` records the correction explicitly.
 
-The substantive advance is a change from broad Harvard name-searching to an **index-first, provenance-specific retrieval architecture**.
+The substantive advance is more important than the numbering: Harvard can now be searched through an **index-first, provenance-specific retrieval chain** rather than a broad surname sweep.
 
-For the British instruction represented by BRACERS `122592` — `no passport ... Please inform the President of Harvard` — the current Harvard provenance target is now stable: Abbott Lawrence Lowell's **President's Office records, UAI 5.160.x**. Harvard's official HOLLIS finding aid says these records document almost every aspect of Lowell's 1909-1933 administration and separates:
+For BRACERS `122592` — the British administrative instruction that no passport would issue and that the **President of Harvard** should be informed — the current Harvard target is now stable at the record-group level: Abbott Lawrence Lowell's **President's Office records, UAI 5.160.x**. Harvard's official HOLLIS finding aid says the records document almost every aspect of Lowell's 1909-1933 administration and separates General Correspondence (`UAI 5.160`), the Index to General Correspondence (`UAI 5.160.2`), Letter books (`UAI 5.160.9`), and subject/additional files.
 
-1. General Correspondence (`UAI 5.160`);
-2. Index to General Correspondence (`UAI 5.160.2`);
-3. Letter books (`UAI 5.160.9`);
-4. subject and additional records.
+The General Correspondence description adds a decisive retrieval fact: the online index derives, with minor changes, from the **nine-part index prepared by the Office of the President**. Harvard's separate physical folder-list finding aid explicitly says those folder lists are **not the primary access tool** and directs researchers to the index for fuller description. HOLLIS also exposes a distinct `1914-1917` physical series with current box/folder-level records.
 
-The General Correspondence page further says the online index derives from the nine-part index created by the Office of the President itself. The separate physical folder-list finding aid explicitly warns that the folder lists are **not the primary access tool** and directs researchers to the index for fuller description. A distinct `1914-1917` physical series is exposed at item/container level.
+The Harvard-side search therefore becomes:
 
-Therefore the next Harvard search is not:
-
-`search web for a folder called Russell`.
-
-It is:
-
-`122592 historical event`  
+`BRACERS 122592 historical event`  
 `-> UAI 5.160.x President's Office provenance`  
 `-> UAI 5.160.2 / General Correspondence index`  
-`-> term or cross-reference`  
-`-> 1914-1917 physical UAI 5.160 folder number`  
-`-> object inspection`.
+`-> historical term or cross-reference`  
+`-> 1914-1917 UAI 5.160 physical folder`  
+`-> literal object inspection`.
 
-That is a much stronger retrieval chain.
+This is a deterministic retrieval architecture, not an item-presence claim.
 
-A second, separate route addresses the formal appointment question. Harvard's official **Corporation minutes, UAI 5.30** are formal governance records, and HOLLIS states that the `Corporation minutes, 1827-1989` series has a **separate index to 1914-1919**. This is exactly the date window required for Russell's 1916 appointment/1917 half-year teaching plan. It becomes `GAL0049`.
-
-This does not prove the Corporation voted on Russell. It creates a finite test for whether a formal vote, appointment authorization, salary/visiting-instructor arrangement, or later cancellation/replacement action is actually present.
+A second route addresses a different question. Harvard's **Corporation minutes, UAI 5.30** are formal governance records. HOLLIS states that the `Corporation minutes, 1827-1989` series contains formal meeting minutes and has a **separate index to 1914-1919**. That date window exactly covers Russell's 1916 appointment planning and proposed 1917 half-year teaching. This becomes canonical `GAL0050`. It tests whether an actual Corporation vote, appointment authorization, salary/visiting arrangement, cancellation, or replacement action exists; it does not assume such a vote occurred.
 
 ---
 
-## 1. The Harvard President recipient can now be translated into current archival provenance
+## 1. President recipient -> current presidential provenance
 
-Batch119's British administrative chain ends, at the catalogue-description level, with BRACERS `122592` instructing that the President of Harvard be informed that Russell would not receive a passport to proceed to the United States.
+Batch119's British mobility-control chain ends, at the catalogue-description level, with BRACERS `122592`: Russell will not receive a passport to proceed to the United States; the President of Harvard is to be informed.
 
-In 1916 the Harvard president was Abbott Lawrence Lowell. The important archival move is not the biographical identification by itself but the current repository structure: Harvard University Archives preserves **Records of the President of Harvard University, Abbott Lawrence Lowell, 1909-1933**, call number `UAI 5.160.x`.
+Harvard University Archives preserves:
 
-Official HOLLIS control:
+**Records of the President of Harvard University, Abbott Lawrence Lowell, 1909-1933**  
+Call number: `UAI 5.160.x`  
+Official HOLLIS: `https://hollisarchives.lib.harvard.edu/catalog/hua03003`
 
-`https://hollisarchives.lib.harvard.edu/catalog/hua03003`
+The collection is 82 cubic feet and the abstract says it documents almost every aspect of Lowell's administration. The acquisition note says the records were probably received directly from the President's Office ca. 1920-ca. 1935.
 
-The collection is large — 82 cubic feet — and its abstract says it documents almost every aspect of Lowell's administration. Its acquisition history says the records were probably received directly from the President's Office ca. 1920-ca. 1935.
+This is therefore the strongest current reciprocal provenance domain for a document explicitly routed to the Harvard president in official capacity.
 
-This is therefore a real provenance-shaped reciprocal target for the British instruction to notify Harvard's president.
+But the verification state remains deliberately bounded:
 
-But it remains a lead rather than a positive document component. Current targeted public searches have not isolated a Russell, Spring Rice, British Embassy, or passport child corresponding to the 1916 event.
+`known recipient office + current creator-office record group`  
+`!= target communication positively present`.
 
-The claim is:
+Targeted current public searches have not yet isolated a Russell, Spring Rice, British Embassy, or passport child corresponding to the event. That is an indexing ceiling, not an absence result.
 
-`known recipient office -> current office record group`.
-
-The claim is not:
-
-`known recipient office -> target letter definitely survives there`.
+`GAL0047` records the collection lead; `COV0065` records the bounded coverage audit.
 
 ---
 
-## 2. The Office of the President supplied its own indexing layer
+## 2. The President's Office index is itself an archival retrieval layer
 
-The most useful part of the HOLLIS description is the retrieval structure.
-
-The parent collection explicitly distinguishes:
+The parent finding aid separates:
 
 - `General Correspondence, UAI 5.160`;
 - `Index to the General Correspondence, UAI 5.160.2`;
 - `Letter books, UAI 5.160.9`.
 
-Official control:
+The General Correspondence child says the online index was compiled, with minor changes, from the nine-part index prepared by the Office of the President. Harvard notes that circular references and alternate/inverted terms survive and that archivists have not normalized every such split.
 
-`https://hollisarchives.lib.harvard.edu/catalog/hua03003`
-
-The General Correspondence child adds that the online index was compiled, with minor changes, from the **nine-part index prepared by the Office of the President**. Harvard notes that alternate/inverted terms and some circular references survive in that index.
-
-Official control:
-
+Official control:  
 `https://hollisarchives.lib.harvard.edu/catalog/hua03003_hua03003c00001`
 
-This changes evidentiary weighting. The index is not an external modern search convenience imposed on the collection; it derives from a historical office-generated retrieval apparatus, subsequently mediated by archivists.
+This changes the evidence model. The index is not merely a modern website feature. It descends from a historical office-generated finding/retrieval apparatus and therefore has its own archival significance.
 
-Accordingly, a negative literal query must be treated carefully. `Bertrand Russell` may be indexed under `Russell`, an office/subject heading, an institutional name, a cross-reference, or another variant. Harvard explicitly says it has not normalized every inverted/alternate term.
-
-New evidence rule:
-
-> **When a repository preserves or exposes a creator-office index as the principal retrieval layer, that index should be searched as an archival object in its own right; literal web-title silence against the physical folder list is a weaker negative than failure after controlled index and cross-reference search.**
-
----
-
-## 3. The 1914-1917 physical series is a second-stage locator, not the first search surface
-
-Harvard separately exposes `Records ... folder lists, UAI 5.160`.
-
-Official control:
-
-`https://hollisarchives.lib.harvard.edu/catalog/hua05003`
-
-The finding aid states directly that these folder lists **are not the primary access tool** and instructs researchers to consult the index for fuller description. HOLLIS also exposes a distinct `1914-1917` series and item-level current locators — for example, `Admission, Committee on`, Box 60, Folder 132.
-
-Official item-level control:
-
-`https://hollisarchives.lib.harvard.edu/catalog/hua03003_hua03003c00157`
-
-The retrieval implication is simple:
-
-`index term/cross-reference`  
-`-> folder number`  
-`-> current 1914-1917 box/folder`.
-
-Therefore current failure to discover a public child titled `Russell` does not support a collection-level absence statement. It only records a title/indexing ceiling for the searches actually run.
-
-The first term set should be deliberately redundant:
+A search for only `Bertrand Russell` is insufficient. The first controlled term set is:
 
 `Russell | Bertrand Russell | Woods | James Haughton Woods | Spring Rice | Cecil Spring Rice | British Embassy | passport | Foreign Office | Philosophy | lecturer | appointment`.
 
-Cross-references must be captured rather than silently normalized.
+Any historical cross-reference should be preserved literally before normalization.
+
+Evidence rule:
+
+> **When a repository exposes a creator-office index as the principal retrieval layer, search the index and its cross-references before treating folder-title silence as meaningful.**
 
 ---
 
-## 4. President's Office correspondence and Corporation minutes are separate documentary systems
+## 3. The 1914-1917 folder series is a second-stage physical locator
 
-Batch119 left an important gap: Harvard's public course announcements prove that Russell's proposed teaching had reached institutional curriculum planning, but they do not identify the formal appointment instrument or governance action.
+Harvard separately exposes:
 
-Harvard's official **Corporation minutes, UAI 5.30**, provide a separate search domain.
+**Records ... folder lists, UAI 5.160**  
+`https://hollisarchives.lib.harvard.edu/catalog/hua05003`
 
-Official control:
+The finding aid states that the folder lists are not the primary access tool and directs researchers to the index. HOLLIS exposes a distinct `1914-1917` series and current item-level locators; for example, `Admission, Committee on` appears as Box 60, Folder 132.
 
-`https://hollisarchives.lib.harvard.edu/catalog/hua51010`
+Item-level control:  
+`https://hollisarchives.lib.harvard.edu/catalog/hua03003_hua03003c00157`
 
-HOLLIS describes the Corporation minutes as documenting governance decisions and says the post-1827 series consists of formal meeting minutes. Most usefully for this project, the description states:
+The retrieval sequence should therefore be:
 
-`Index to 1914-1919 is separate.`
+`index term/cross-reference`  
+`-> historical folder number`  
+`-> current 1914-1917 box/folder`  
+`-> physical/surrogate inspection`.
 
-This is an unusually precise chronological retrieval aid for the Russell episode.
+This is encoded in `lovejoy_harvard_russell_retrieval_algorithm_batch120.csv`.
 
-It becomes `GAL0049`.
+Evidence rule:
 
-The first index terms are:
+> **An index hit, a folder-list locator, and a physical document are three different verification stages.**
+
+---
+
+## 4. President's Office correspondence != Corporation governance minutes
+
+Batch119 established a public Harvard teaching plan for Russell but did not recover the formal appointment instrument.
+
+Harvard's official governance domain is:
+
+**Harvard University Corporation records: minutes, 1643-1989**  
+Call number: `UAI 5.30`  
+Official HOLLIS: `https://hollisarchives.lib.harvard.edu/catalog/hua51010`
+
+HOLLIS states that the post-1827 series contains formal Corporation meeting minutes and that the **index to 1914-1919 is separate**.
+
+That is an unusually exact retrieval aid for this episode. The first index terms should be:
 
 `Russell | Woods | Philosophy | appointment | instructor | lecturer | visiting | salary`.
 
-If the index produces a meeting date, only that date should then be inspected in the minute volumes.
+If an index entry yields a meeting date, only then should the corresponding minute volume/date be inspected.
 
-But this route is a test, not a premise. Harvard may have processed the teaching arrangement through the Faculty, President, department, Corporation, or a combination. No current source in hand says the Corporation necessarily voted on Russell.
+This is canonical `GAL0050`; `COV0066` records its current verification state.
 
-New evidence rule:
+The claim remains conditional. Public curricular institutionalization does not prove the Corporation necessarily voted on the arrangement. The Faculty, President, department, Corporation, or several of them could have generated different records around the same plan.
 
-> **Executive correspondence and formal governance minutes around the same appointment are distinct document-generating systems. Search them independently and do not infer a governance object from the existence of an executive or curricular object.**
+Evidence rule:
+
+> **Executive correspondence and formal governance minutes around the same appointment are independent document-generating systems until an object-level link is recovered.**
 
 ---
 
-## 5. The Official Register creates a third, published layer
+## 5. The Official Register is a third, published institutional layer
 
-Harvard University Archives also preserves the **Official register of Harvard University, 1900-2008**, `HU 75.25`.
+Harvard University Archives preserves:
 
-Official control:
+**Official register of Harvard University, 1900-2008**  
+Call number: `HU 75.25`  
+Official HOLLIS: `https://hollisarchives.lib.harvard.edu/catalog/hua30011`
 
-`https://hollisarchives.lib.harvard.edu/catalog/hua30011`
+The description says the annual Register includes course catalogues and departmental/divisional announcements. HOLLIS specifically exposes **Volume XIII, issued 1916**.
 
-The collection description says the annual Register includes course catalogues and announcements of departments and divisions. HOLLIS specifically exposes **Volume XIII, issued 1916**.
-
-This gives the project an institutional publication route for checking the exact Harvard course wording that Batch119 currently reconstructs from the *Harvard Crimson*:
+This is the correct repository control for testing the exact curricular language currently reconstructed from Batch119 newspaper evidence:
 
 - Russell's name;
-- the Philosophy course numbers/titles;
-- provisional versus final attribution;
-- corrections or later notices if present.
+- final instructor attribution;
+- Philosophy course numbers/titles;
+- provisional/final changes;
+- corrections or cancellation notices if printed.
 
-The Register is not promoted as a GAL lead because it is a published serial control rather than a new correspondence/fonds target, but it receives repository coverage `COV0066`.
+The Register is not a new GAL because it functions here as a published serial control rather than a new archival correspondence/fonds target. It is recorded as `COV0067`.
 
-Its evidentiary function is different from both President records and Corporation minutes:
+Its evidence function must stay distinct:
 
-`Official Register -> what Harvard publicly printed as curriculum`;
+`Official Register -> what Harvard publicly printed`  
+`President's Office -> executive/administrative correspondence`  
+`Corporation minutes -> formal governance action, if any`.
 
-`President's Office -> executive/administrative correspondence`;
+Evidence rule:
 
-`Corporation minutes -> formal governance decisions, if applicable`.
-
-New evidence rule:
-
-> **A serial university catalogue can establish published curricular status without establishing the underlying governance vote, appointment instrument, or private terms.**
-
----
-
-## 6. Lowell's personal papers are deliberately deprioritized
-
-Harvard also holds **Papers of Abbott Lawrence Lowell**, `UAI 15.896`.
-
-Official control:
-
-`https://hollisarchives.lib.harvard.edu/catalog/hua26013`
-
-The collection is substantial — 45 cubic feet — but HOLLIS describes it as chiefly documenting Lowell's philanthropic activities, civic affairs, and social reform. For an instruction explicitly addressed to the Harvard president in his institutional capacity, `UAI 5.160.x` is therefore the stronger first provenance domain.
-
-This does not mean no relevant private Russell material could exist in `UAI 15.896`. It means the search order should follow document-generating function:
-
-`President's Office records first`  
-`-> formal governance records`  
-`-> personal Lowell papers if a private-handling rationale or cross-reference emerges`.
-
-The personal papers become `COV0067`, a boundary control rather than a new GAL.
-
-New evidence rule:
-
-> **The officeholder and the office are not one archival provenance domain. A document addressed to an officeholder in official capacity should not be routed to personal papers merely because the same person created both collections.**
+> **A university catalogue can verify published curricular status without proving the underlying governance vote, appointment instrument, or private terms.**
 
 ---
 
-## 7. Cross-track and concurrency controls
+## 6. Lowell personal papers are a lower-priority, separate provenance domain
 
-The same interval produced parallel archive-side Batch121 work on Frederick John Foakes-Jackson, who intervened from New York over Russell's blocked Harvard appointment.
+Harvard also preserves:
 
-That parallel run assigned:
+**Papers of Abbott Lawrence Lowell, 1861-1945, 1953 and undated**  
+Call number: `UAI 15.896`  
+Official HOLLIS: `https://hollisarchives.lib.harvard.edu/catalog/hua26013`
 
-- `GAL0048` — Frederick John Foakes-Jackson Papers, UTS1;
-- `COV0063` — Foakes-Jackson repository coverage.
+The collection is 45 cubic feet, but HOLLIS describes it as chiefly documenting Lowell's philanthropic activities, civic affairs, and social reform. For a communication explicitly routed to the President of Harvard in official capacity, the creator-office records `UAI 5.160.x` are therefore the stronger first destination.
 
-Batch120 had already assigned `GAL0047` to the Lowell President's Office. Once `GAL0048` appeared, the Harvard Corporation lead was moved to **`GAL0049`** rather than reusing an occupied global identifier. Likewise Batch120 starts its coverage delta at **`COV0064`**.
+This is prioritization, not absence. A private Lowell copy, wartime political note, or personal exchange may still exist. `COV0068` records this boundary test.
 
-This preserves one global ID namespace across parallel tracks even though batch numbers are not strictly chronological in commit order.
+Evidence rule:
+
+> **Officeholder identity does not transfer official office records into the officeholder's personal fonds.**
+
+---
+
+## 7. Concurrency reconciliation
+
+Parallel work advanced while Batch120 was being written:
+
+- Batch121: `GAL0048` = Frederick John Foakes-Jackson Papers; `COV0063` = Foakes-Jackson coverage.
+- Batch122: `GAL0049` = Arthur C. McGiffert Sr. papers; `COV0064` = McGiffert coverage.
+
+Batch120 had already reserved `GAL0047` for Lowell President's Office. Before the Batch122 allocation appeared, an intermediate Batch120 commit temporarily assigned the Corporation lead to `GAL0049` and began its coverage block at `COV0064`.
+
+Once Batch122 became visible, current branch state was reconciled:
+
+- Harvard Corporation: `GAL0049 -> GAL0050`;
+- Batch120 coverage: `COV0064-COV0067 -> COV0065-COV0068`.
+
+The old values remain only in immutable Git history. The current CSV files are canonical. The reconciliation is explicitly recorded in:
+
+`archive_index/lovejoy_global_id_concurrency_reconciliation_batch120.csv`.
+
+This prevents a silent global-ID collision while preserving the audit trail.
+
+Evidence/data rule:
+
+> **Global identifiers follow the current repository-wide namespace, not whichever parallel batch first expected a number locally; collisions must be reconciled explicitly rather than hidden.**
 
 ---
 
 ## 8. Data products
 
-- `archive_index/lovejoy_global_archive_leads_batch120_delta.csv` — `GAL0047` Lowell President's Office and `GAL0049` Harvard Corporation minutes; `GAL0048` is explicitly left to concurrent Batch121.
-- `archive_index/lovejoy_harvard_russell_presidential_governance_crosswalk_batch120.csv` — seven-domain functional/provenance crosswalk.
-- `archive_index/lovejoy_harvard_russell_retrieval_algorithm_batch120.csv` — event-by-event retrieval routing and stop conditions.
-- `archive_index/lovejoy_global_archive_repository_coverage_batch120_delta.csv` — `COV0064-COV0067`.
+- `archive_index/lovejoy_global_archive_leads_batch120_delta.csv` — `GAL0047` Lowell President's Office; `GAL0050` Harvard Corporation.
+- `archive_index/lovejoy_harvard_russell_presidential_governance_crosswalk_batch120.csv` — seven distinct Harvard manifestation/provenance domains.
+- `archive_index/lovejoy_harvard_russell_retrieval_algorithm_batch120.csv` — event-by-event routing and upgrade/stop conditions.
+- `archive_index/lovejoy_global_archive_repository_coverage_batch120_delta.csv` — `COV0065-COV0068`.
+- `archive_index/lovejoy_global_id_concurrency_reconciliation_batch120.csv` — explicit Batch120/121/122 ID reconciliation.
 - this synthesis note.
 
 No `GLA`, `GAC`, or `GAP` is added.
 
-Current next IDs after concurrency reconciliation:
-
-- next true global component: `GLA0057`;
-- next unassigned global archive lead after `GAL0049`: `GAL0050`;
-- next coverage ID after `COV0067`: `COV0068`, subject to fresh commit check before use.
+At the time of this reconciliation, the next expected lead after `GAL0050` is `GAL0051` and the next coverage ID after `COV0068` is `COV0069`; both require a fresh commit check immediately before future assignment.
 
 ---
 
-## 9. Highest next moves
+## Highest next moves
 
-1. **UAI 5.160.2 / online General Correspondence index** — perform controlled term/cross-reference search for Russell, Woods, Spring Rice, British Embassy, passport and Philosophy; record the historical index wording exactly.
-2. **1914-1917 UAI 5.160 physical folders** — request only after index resolution; capture sender/recipient/date/material form and whether a British notification, office copy or routing memorandum survives.
-3. **UAI 5.30 separate 1914-1919 Corporation index** — test whether Russell's Harvard appointment appears as a formal governance action.
-4. **HU 75.25 Volume XIII (1916)** — extract the exact Faculty of Arts and Sciences / Philosophy course entries and any corrections.
-5. **HUG 1880.2xx Woods papers** — compare Woods's 1916 outgoing/received files against any UAI 5.160.x manifestation; keep faculty-personal and presidential-office custody separate.
-6. **Return to JHU GLA0030** — once Harvard's exact internal language is recovered, use the improved institutional comparator without inferring Harvard-Hopkins coordination.
-7. **Integrate Batch121 Foakes-Jackson only at event/network level** until an object-level reciprocal document is recovered.
-
-## Evidence rules added
-
-> **Use creator-office indexes as archival evidence/retrieval layers, not merely as modern search interfaces.**
-
-> **An index hit, folder-list hit, and physical document inspection are different verification stages.**
-
-> **Executive correspondence, governance minutes, faculty/department records, and published curricula are separate manifestations of institutional action until object-level evidence links them.**
-
-> **Officeholder personal papers do not inherit the provenance of official office records.**
-
-> **Global identifiers must follow repository-wide concurrency state, not the local batch's originally expected sequence.**
+1. **UAI 5.160.2 / General Correspondence index** — controlled term and cross-reference sweep for Russell, Woods, Spring Rice, British Embassy, passport and Philosophy; preserve historical index wording.
+2. **1914-1917 UAI 5.160 physical folders** — resolve box/folder only after the index; capture sender, recipient, date, form, routing marks and relationship to BRACERS `122592`.
+3. **UAI 5.30 separate 1914-1919 Corporation index** — test whether Russell's appointment appears as an actual governance action.
+4. **HU 75.25 Volume XIII (1916)** — extract exact Faculty of Arts and Sciences / Philosophy course entries and any correction/cancellation notices.
+5. **HUG 1880.2xx Woods papers** — compare faculty-personal correspondence with any President's Office manifestation without collapsing custody.
+6. **Return to JHU GLA0030** — use exact Harvard terminology only as a comparator; do not infer Harvard-Hopkins coordination.
+7. **Integrate Batches121-122 Foakes-Jackson/McGiffert** only at event/network level until a literal reciprocal object appears.
 
 ## Source controls
 
-Current primary/repository descriptions:
+- Harvard University Archives, Lowell President's Office `UAI 5.160.x`: `https://hollisarchives.lib.harvard.edu/catalog/hua03003`.
+- Harvard General Correspondence / office-derived index: `https://hollisarchives.lib.harvard.edu/catalog/hua03003_hua03003c00001`.
+- Harvard Lowell folder lists `UAI 5.160`: `https://hollisarchives.lib.harvard.edu/catalog/hua05003`.
+- Harvard Corporation minutes `UAI 5.30`: `https://hollisarchives.lib.harvard.edu/catalog/hua51010`.
+- Harvard Official Register `HU 75.25`: `https://hollisarchives.lib.harvard.edu/catalog/hua30011`.
+- Abbott Lawrence Lowell personal papers `UAI 15.896`: `https://hollisarchives.lib.harvard.edu/catalog/hua26013`.
 
-- Harvard University Archives, `UAI 5.160.x`, Records of the President of Harvard University, Abbott Lawrence Lowell, 1909-1933: `https://hollisarchives.lib.harvard.edu/catalog/hua03003`.
-- Harvard University Archives, General Correspondence / online index: `https://hollisarchives.lib.harvard.edu/catalog/hua03003_hua03003c00001`.
-- Harvard University Archives, UAI 5.160 folder lists: `https://hollisarchives.lib.harvard.edu/catalog/hua05003`.
-- Harvard University Archives, UAI 5.30 Corporation minutes: `https://hollisarchives.lib.harvard.edu/catalog/hua51010`.
-- Harvard University Archives, HU 75.25 Official register: `https://hollisarchives.lib.harvard.edu/catalog/hua30011`.
-- Harvard University Archives, UAI 15.896 Papers of Abbott Lawrence Lowell: `https://hollisarchives.lib.harvard.edu/catalog/hua26013`.
-
-Historical-event anchors remain the controlled Batch118-Batch119 BRACERS/Russell/Harvard reconstruction; this batch does not upgrade any Harvard-side archival object to positive component status without literal item evidence.
+Historical-event anchors remain the controlled Batch118-Batch119 Russell/Harvard reconstruction. Batch120 does not upgrade any Harvard-side object to positive component status without literal item evidence.
