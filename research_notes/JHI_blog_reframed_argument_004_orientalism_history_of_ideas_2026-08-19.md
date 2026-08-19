@@ -41,6 +41,42 @@ For the blog, this can be stated in non-technical language: **the young Lovejoy 
 
 This is enough to complicate a simple retrospective picture of the history of ideas as a method built to extract timeless ideas from contexts.
 
+## Crucial refinement: 004 is inside a methodological controversy, not merely an Orientalist subject field
+
+The repository has already established something stronger than `Lovejoy read the Orientalists` or even `Lovejoy participated in a Buddhist controversy`.
+
+The controversy itself was substantially about **how historical arguments should be made**. Its participants were not simply supplying different answers to the same doctrinal question. They placed different weight on different kinds of evidence and licensed different moves from resemblance to historical reconstruction.
+
+The cleanest current map is:
+
+- **Max Müller / the earlier proof objection:** resemblance between Sāṃkhya and Buddhism required `definite similarities` before it could carry a historical genealogy. This proof challenge becomes an explicit target for later participants.
+- **Garbe:** develops a positive genealogy protocol. Generic similarity is weak; diagnostic details, involuntary formal peculiarities, terminology, definitions and repeated scholastic forms can disclose borrowing and, with further argument, its direction. His 1894 methodological passage is directly copied into 004. Garbe therefore represents a comparatively strong confidence that sufficiently diagnostic formal correspondence can recover historical dependence.
+- **Rhys Davids:** imposes a chronological/textual brake on Garbe's strong priority claim. Surviving Sāṃkhya texts are late; an older system may be assumed, but a large documentary gap remains. Lovejoy copies this criticism as part of the controversy rather than merely reading Garbe in isolation.
+- **Senart:** makes compositional reconstruction do major historical work. Redundancy and heterogeneity in the twelve-nidāna formula become evidence that the received chain is a late amalgam of originally separate materials, including Sāṃkhya-derived elements. His method moves from textual structure and duplication toward stratification and composition history.
+- **Jacobi:** presses systematic analogy and a stronger Sāṃkhya-Yoga genealogy. He tries to make the causal role of disputed Buddhist terms intelligible by aligning them with Sāṃkhya categories such as `adṛṣṭa` / karma. For him the comparative system can explain both function and historical relation more strongly than Oldenberg will allow.
+- **Oldenberg:** privileges Buddhist/Pāli usage, internal causal function, source criticism and a stricter separation of resemblance from filiation. Already by 1890 he accepts real Sāṃkhya/Buddhist `family resemblance` while refusing to make it prove borrowing; the 1897/98 controversy sharpens this evidentiary threshold. Similarity may establish a shared field or antecedent problem without fixing direction or dependence.
+- **Lovejoy:** enters this already differentiated field rather than inventing its techniques. What 004 shows is selective recomposition. He can accept borrowing, compositeness or diagnostic resemblance, but repeatedly restricts the **scale of the inference**: evidence for a phrase, doctrine or `alien element` does not by itself prove that the later Sāṃkhya system `existed as a whole`; semantic usage and causal function remain distinct questions from provenance and textual genealogy.
+
+This should be described as a controversy among **methodological positions or evidentiary regimes**, not as a set of sealed methodological schools. The participants share philological practices and often borrow one another's controls. Their disagreement lies in what different kinds of evidence are entitled to prove.
+
+That distinction materially improves the JHI Blog argument. Lovejoy's early Orientalist work matters not simply because the future historian of ideas studied non-Western material, but because he was formed inside a live argument over **comparison, context, genealogy, textual history and standards of proof** — precisely the kinds of questions that later become central to disputes about intellectual history itself.
+
+A compact blog formulation:
+
+> **The Sāṃkhya–Buddhism controversy into which Lovejoy entered was also a controversy about historical method: whether resemblance proved descent, whether textual duplication proved later composition, whether a borrowed element implied a borrowed system, and whether meaning should be reconstructed from genealogy or from use.**
+
+This gives the eventual Skinner return much more force. The point is not merely that early Lovejoy possessed `context`. It is that before the history of ideas became a named programme, one of its future founders was already working inside another discipline's dispute about what counts as a valid historical inference.
+
+### Transregional correction
+
+The repo also prevents this methodological story from becoming `European philology generated the method and then applied it to India`.
+
+Bankim Chandra Chattopadhyay (1871) had already separated **similarity** from both **identity** and the **direction of borrowing** in the Sāṃkhya/Buddhism problem. Rajendralal Mitra (1883) separately distinguished pre-existing philosophical materials from the existence of a complete system and rejected phonetic genealogy without `proof worth the name`.
+
+No direct Bankim/Mitra → Lovejoy transmission is established. Their importance is geographical and historiographical: the proof problem itself was **transregional**, articulated by South Asian as well as European scholars. Indian philosophy was not merely raw material on which European historical method operated; it was a scholarly arena in which participants in different locations were explicitly contesting the logic of historical inference.
+
+This strengthens the larger claim that the genealogy of the history of ideas cannot be narrated adequately as an exclusively intra-Western methodological debate.
+
 ## Max Müller / Mommsen opening
 
 The repository already contains the relevant first-order node.
@@ -96,6 +132,12 @@ A useful compact line:
 
 > **Before asking whether Lovejoy's history of ideas escaped context, we might ask what kinds of context trained Lovejoy to make historical arguments in the first place.**
 
+The stronger version after the methodological-contest refinement is:
+
+> **Before contextualism became a critique of Lovejoy, Lovejoy had already been trained in a controversy about the evidentiary limits of comparison and historical genealogy.**
+
+This must not be made into a claim that Lovejoy thereby anticipated or answered Skinner. It identifies a historical irony and a forgotten genealogy of methodological problems.
+
 ## Possible 1,500–2,000 word architecture
 
 ### Opening: Müller versus Mommsen
@@ -106,15 +148,24 @@ Use the autobiographical `classical and Oriental scholarship` anecdote in 150–
 
 Introduce Lovejoy in the 1890s, before _The Great Chain of Being_ and before the institutionalized history-of-ideas programme. Present 004 as the material object showing that this was not merely background reading.
 
-### One or two 004 disputes
+### The controversy was methodological
 
-Do not perform full Quellenforschung. Select only the disputes that make the disciplinary point legible. Candidates:
+Instead of giving a source-by-source Quellenforschung demonstration, stage the Sāṃkhya/Buddhism controversy as a disagreement over what comparison could prove.
 
-- Senart / Jacobi / Oldenberg and the problem of whether compositeness, borrowing or filiation settles semantic/systematic identity;
-- `upādisesa` as the cleanest example in which usage can sustain a semantic judgment while etymology/textual genealogy remains open;
-- Hardy/Rhys Davids as a small example of Lovejoy converting an inherited source proposition into a new historical/causal question.
+A compressed sequence is enough:
 
-The purpose is not to prove every source route. The purpose is to show **what sort of historical reasoner the notebook records**.
+`Garbe: diagnostic similarity can reveal borrowing`  
+`Rhys Davids: chronology leaves a documentary gap`  
+`Senart: textual duplication reveals compositional layering`  
+`Jacobi: systematic analogy supports stronger genealogy`  
+`Oldenberg: usage/function and source criticism limit genealogy`  
+`Lovejoy: an element/doctrine may be historically identified without proving a whole system`.
+
+Then use one manuscript sentence or one `upādisesa` case to show Lovejoy doing this work rather than merely summarize the controversy.
+
+### Transregional widening — optional but potentially decisive
+
+One short paragraph on Bankim/Mitra can prevent the piece from reproducing a Europe → India method-transfer story. Do not add a new genealogy; simply show that South Asian scholars were themselves formulating the proof problem.
 
 ### Disciplinary return
 
@@ -151,12 +202,14 @@ Anything more turns the blog back into the larger source-reconstruction article.
 - `Buddhism caused the history of ideas.`
 - `Oriental scholarship was outside Western scholarship.`
 - `The history of ideas has a straightforward non-Western origin.`
+- `The contestants each represented a sealed and internally coherent methodology.` Better: they occupied distinguishable methodological positions/evidentiary regimes within a shared and highly entangled philological field.
+- `European scholars supplied method while Asian texts supplied data.` Bankim/Mitra alone make that geography untenable.
 - `Max Müller objectively defeated Classics as a discipline in 1869.` His wording is retrospective self-positioning.
 - `004 is just lecture notes.` The current evidence supports active analytical engagement and direct relation to the 1898 published intervention.
 
 ## Current working thesis
 
-> **The early archive of Arthur O. Lovejoy complicates the disciplinary memory of the history of ideas. Long before the mature `unit-idea` programme that later became a target of contextualist criticism, Lovejoy was participating in a transnational Orientalist controversy over Buddhist texts, historical borrowing and the evidentiary limits of comparison. Notebook 004 records that participation at work. Read against Max Müller's contemporary staging of `classical` versus `Oriental scholarship`, it suggests that the history of ideas was never formed solely inside an inherited Western canon: one of its canonical architects learned to make historical claims in a scholarly world built around Sanskrit, Pāli and the comparative reconstruction of Asian intellectual traditions.**
+> **The early archive of Arthur O. Lovejoy complicates the disciplinary memory of the history of ideas. Long before the mature `unit-idea` programme that later became a target of contextualist criticism, Lovejoy was participating in a transregional Orientalist controversy over Buddhist texts in which the central disagreement was also methodological: what could resemblance prove, when did textual structure warrant a compositional history, and how far could scholars move from a borrowed element to the genealogy of an entire philosophical system? Notebook 004 records Lovejoy entering and recomposing those competing evidentiary regimes. Read against Max Müller's contemporary staging of `classical` versus `Oriental scholarship`, it suggests that the history of ideas was never formed solely inside an inherited Western canon: one of its canonical architects learned to make historical claims in a scholarly world built around Sanskrit, Pāli and the comparative reconstruction of Asian intellectual traditions.**
 
 ## Sync rule for this discussion
 
