@@ -1,198 +1,135 @@
 # Manual retrieval queue — notebook 004 / source-control problem
 
 Date: 2026-08-18  
-Status updated after direct recovery of Hardy 1853, Oldenberg 1882, full Senart 1896, and the batch 42 **evidentiary-burden** revision. The most useful remaining manual target is now Jacobi’s 1897 review of Dahlmann, because Jacobi 1898 explicitly points back to it at printed pp.268 and 272.
+Last live sync: **2026-08-19, Batch 142**  
+Status: active; substantially reduced after the full GPT-backend upload scan.
 
-## RESOLVED — Senart 1896, now with methodological control
+This is a living queue. Batch 142 is the controlling update for the newly returned files; earlier resolved items remain documented in Batch 33/41/42 and Git history.
 
-Recovered: Émile Senart, “À propos de la théorie bouddhique des douze nidânas,” pp.281–297.
+## Batch 142 resolution summary
 
-Important revision:
-- p.288 already gives a historical anatomy of the formula: `tṛṣṇā/upādāna` core, natural extensions, Sāṁkhya borrowing and alleged skandha repetition;
-- p.293 uses semantic/formal comparison to reconstruct `upadhi/upādi` genealogy;
-- p.295 explicitly advocates **analysis and filiation of terms**, identifies **successive stratifications**, and warns against reading inherited nomenclature as transparent evidence of deliberate philosophical system.
+### RESOLVED — Dahlmann, _Nirvāṇa_ (1896), Lovejoy's p.14 target
 
-Therefore decomposition, term-filiation and stratification are not Lovejoy-specific. The live contrast is narrower: **how far is genealogical evidence allowed to determine semantic/systematic interpretation?**
+The uploaded full OCR resolves printed pp.13–15.
 
-## RESOLVED — Oldenberg, “Buddhistische Studien,” ZDMG 52 (1898)
+Printed p.14 does support a close/internal relation between Buddhist `anupādisesanibbāna` and orthodox `anupādhīśeṣanirvāṇa`, but Dahlmann immediately warns that the orthodox substantial-self framework cannot simply be transferred into Buddhism. Lovejoy's 1898 description of Dahlmann as placing Sanskrit `upadhi` on the `Pāli upādi` side of the lexical fork is therefore a compression of a more doctrinal/historical comparison.
 
-Recovered: section VII pp.681–694, including pp.690–694.
+**Remove from live retrieval list.**
 
-Result: Oldenberg gives textual-semantic analysis of `upādāna`, rejects the Sāṁkhya `adṛṣṭa / karma` construction, and distinguishes `phassa → vedanā → taṇhā → upādāna`. No `Lovejoy` hit occurs in the recovered section OCR. Immediate Oldenberg uptake from Lovejoy is unsupported.
+### RESOLVED — Rhys Davids exact quotation locus
 
-## RESOLVED — Jacobi 1898
+The uploaded 1894 new/revised edition of T. W. Rhys Davids, _Buddhism: Being a Sketch…_, contains the exact source of Lovejoy's quotation on printed **p.113**. Rhys Davids calls `upādi` a comprehensive name for the five skandhas and derives it, in allusion to their cause `upādāna`, from `upādā`, `to grasp`.
 
-Recovered: Hermann Jacobi, “Über das Verhältnis der buddhistischen Philosophie zu Sāṁkhya-Yoga und die Bedeutung der Nidānas,” pp.1–15.
+**Remove from live retrieval list.**
 
-Result:
-- Jacobi refers Senart’s equation to **Oldenberg, _Buddha_³, p.273 note**;
-- he cites Oldenberg’s anti-Jacobi Sāṁkhya excurs at **p.448ff**;
-- he quotes **Hardy p.394** while moving `upādāna` toward `adṛṣṭa / karma`;
-- crucially, he twice points backwards to his own **1897 review of Dahlmann’s _Nirvāṇa_**, at _Göttingische Gelehrte Anzeigen_ pp.268 and 272.
+### CORRECTION — Müller p.30 is negative in the uploaded 1884 Trübner witness
 
-## RESOLVED — Hardy 1853 pp.394–396
+Lovejoy's own 1898 article really prints `Pali Grammar, p. 30`.
 
-Primary recovered from Internet Archive item `manualofbudhism00hard`.
+In the uploaded Edward Müller, _A Simplified Grammar of the Pali Language_ (1884):
 
-Hardy gives the two-factor causal architecture:
-- `upādāna` produces renewed existence;
-- karma controls its manner/state/grade;
-- destroying `upādāna` alone secures cessation;
-- p.396 says karma produces renewed existence in conjunction with `upādāna`.
+- printed **p.30** contains ordinary consonantal phonology and no relevant `upādi/upadhi` statement;
+- printed **p.36** contains the relevant aspiration-loss correspondence, OCR approximately `upādisea=upadhiqesha`, with a reference to Oldenberg, _Buddha_, p.437ff.
 
-This closes:
+Safest present judgment: **probable six-page citation slip in Lovejoy**, unless another differently paginated witness explains the p.30 reference. Do not silently emend the footnote.
 
-`Hardy 1853 p.394 → 004 p.33 fact/manner reformulation → Lovejoy 1898 fact-of-rebirth / particular-condition`.
+This is no longer a missing-text problem. A pagination/edition control is optional rather than priority retrieval.
 
-No manual Hardy upload needed.
+### CONTROL CONFIRMED — uploaded `buddhaseinleben03oldegoog` is the wrong edition
 
-## RESOLVED — Oldenberg 1882 English upādisesa excursus
+The title page explicitly says **`ZWEITE AUFLAGE`** and the preface is `Vorwort zur zweiten Auflage`; this is the 1890 second edition. Its printed p.273 lacks the later Senart-related note sought through Jacobi's reference.
 
-Recovered primary: Hermann Oldenberg, _Buddha: His Life, His Doctrine, His Order_, trans. William Hoey (1882), third excursus, especially pp.427–438.
+The required **1897 third enlarged edition remains missing**.
 
-This is the exact version Lovejoy explicitly cites as `Buddha (English tr., p.433)`.
+### ALREADY RESOLVED / now locally controlled
 
-Oldenberg already supplies:
-- explicit Itivuttaka counterevidence for Childers’s physical reading;
-- Anāgāmin ethical-residue evidence;
-- the already-deceased monk example;
-- `upādāna ≈ saṁyojana`;
-- poison-remnant / `nirupadhi` argument;
-- a strong orthographic claim that Pāli `upādi` is a spelling of `upadhi`.
+- Senart 1896, `À propos de la théorie bouddhique des douze nidânas`, pp.281–297 — full _Mélanges Charles de Harlez_ upload now supplies a stable local witness.
+- Jacobi 1898, `Über das Verhältnis...`, pp.1–15 — uploaded local primary control.
+- Oldenberg, `Buddhistische Studien`, ZDMG 52 (1898), core pp.690–694 — uploaded extract now supplies local control through p.695.
+- Hardy 1853 pp.394–396 — already recovered.
+- Oldenberg 1882 English `upādisesa` excursus — already recovered.
 
-Lovejoy’s delta is recomposition, not semantic priority: he brackets competing etymologies, lets usage decide, extends/repacks evidence, and ends with more calibrated uncertainty.
+The combined result still rejects a Lovejoy priority claim for the basic Senart/Jacobi/Oldenberg problem. The live historical question is how Lovejoy allocates evidentiary burdens and recomposes those controls.
 
-Access: `https://archive.org/details/buddhalife00oldeuoft`
+# P0 — Jacobi's 1897 review of Dahlmann, printed pp.268–272
 
-## CORRECTION — do not pursue `Home Library Group 32` as a book inventory
+**This remains the highest-yield 004 manual retrieval.**
 
-Wilson’s `A. O. Lovejoy H[ome] L[ibrary] Group 32` belongs to Lovejoy’s volunteer work in the **Boston Children’s Aid Society Home Library program**, not to a private library catalogue. It has no evidentiary value for possession of Orientalist books.
+Hermann Jacobi, review/notice of Joseph Dahlmann, _Nirvāṇa: Eine Studie zur Vorgeschichte des Buddhismus_, _Göttingische Gelehrte Anzeigen_ (1897).
 
-# P0 — Jacobi’s 1897 review of Dahlmann, printed pp.268–272
+Jacobi 1898 explicitly points backward to his own notice at printed **p.272** and **p.268**.
 
-**This is now the highest-yield manual retrieval.**
+Need:
+- printed **pp.268–272**, preferably **267–273** for title/boundaries/signature.
 
-Hermann Jacobi, review/notice of Joseph Dahlmann, _Nirvāṇa: Eine Studie zur Vorgeschichte des Buddhismus_, in the **_Göttingische Gelehrte Anzeigen_ (1897)**. Jacobi 1898 explicitly cites his own notice at **p.272** and again **p.268**.
+Why:
+- it sits exactly between Dahlmann 1896 and Jacobi 1898;
+- it can show what Jacobi thought Dahlmann's Sāṁkhya/Nirvāṇa genealogy established before the later nidāna controversy;
+- it supplies a contemporary control for the standards of historical inference in the field Lovejoy entered.
 
-Need only:
-- **printed pp.268–272**, preferably 267–273 for boundaries/title/signature.
-
-Why this matters:
-- it sits chronologically between Dahlmann 1896 and Jacobi 1898;
-- it may show exactly what Jacobi thought Dahlmann’s Sāṁkhya/Nirvāṇa genealogy could establish before the later nidāna controversy;
-- it gives a direct contemporary control for the lexical/historical field Lovejoy enters in 1898.
-
-### Official Göttingen Academy object
-
-Landing page:
+Official Göttingen Academy landing page:
 `https://rep.adw-goe.de/handle/11858/00-001S-0000-0023-BEBB-3`
 
-Official **first-volume PDF** (printed pp.268–272 should be here):
+First-volume PDF:
 `https://rep.adw-goe.de/bitstream/handle/11858/00-001S-0000-0023-BEBB-3/PPN385030444_1897_159.Jg._1Bd..pdf?isAllowed=y&sequence=3`
 
-Our automated/container download attempts hit DNS/cache restrictions, so this is a genuine manual handoff rather than a convenience request.
-
-### Internet Archive full-year mirror
-
-Item:
+Internet Archive full-year mirror:
 `https://archive.org/details/GoettingischeGelehrteAnzeigen1897-1-2`
 
-PDF:
-`https://archive.org/download/GoettingischeGelehrteAnzeigen1897-1-2/GoettingischeGelehrteAnzeigen1897-1-2.pdf`
-
-Full OCR text:
-`https://archive.org/stream/GoettingischeGelehrteAnzeigen1897-1-2/GoettingischeGelehrteAnzeigen1897-1-2_djvu.txt`
-
-Text-PDF:
-`https://archive.org/download/GoettingischeGelehrteAnzeigen1897-1-2/GoettingischeGelehrteAnzeigen1897-1-2_text.pdf`
-
-Upload preference: just page images/PDF slice covering printed **267–273**.
-
-# P0 — Dahlmann, _Nirvāṇa_ (1896), p.14
-
-Need **printed p.14**, ideally pp.13–15.
-
-Why: Lovejoy cites `Nirvana, p.14` on the `upadhi ↔ upādi` side of the etymological fork. This will show whether Dahlmann himself is making a semantic identity claim, a phonological/philological possibility, or something narrower.
-
-Google Books full-view:
-`https://books.google.com/books/about/Nirv%C4%81%E1%B9%87a.html?id=heNAAAAAYAAJ`
-
-DDB/BSB object:
-`https://www.deutsche-digitale-bibliothek.de/item/HZMOFYKTGOZERRSGTXNDPOKC7MTJBTPT`
-
-URN: `urn:nbn:de:bvb:12-bsb11809646-9`
-
-Upload preference: pp.13–15 only.
+Upload preference: page images/PDF slice covering printed **267–273**. No OCR required.
 
 # P1 — Hermann Oldenberg, _Buddha_, true 3rd enlarged ed. (1897)
 
-The uploaded `buddhaseinleben03oldegoog` object is the **1890 second edition**, despite its filename.
-
 Need:
-1. title page/front matter confirming **3rd ed., 1897**;
-2. **printed p.273 note** cited by Jacobi on Senart’s `upādāna = upādānakkhandha` view;
+1. title/front matter confirming **3rd enlarged ed., 1897**;
+2. printed **p.273 note** cited by Jacobi on Senart's `upādāna = upādānakkhandha` view;
 3. **pp.443–455**, especially **p.448ff**, the Sāṁkhya/Buddhism excurs.
 
-Links:
+Previously identified routes:
 - `https://books.google.com/books/about/Buddha.html?id=ta7rJ6uWLfwC`
 - `https://play.google.com/store/books/details/Hermann_Oldenberg_Buddha?id=BXM_AAAAYAAJ`
 - `https://search.worldcat.org/de/title/230741722`
 
-Upload preference: title page + p.273 + pp.443–455 is enough.
+Upload preference: title page + p.273 + pp.443–455.
 
-# P1 — remaining lexical-fork controls
+# P2 — Childers facsimile / citation hygiene
 
-### Edward Müller, _A Simplified Grammar of the Pali Language_ (1884)
+R. C. Childers, _A Dictionary of the Pali Language_, entry `Upādiseso`.
 
-Need **printed p.30**, ideally pp.29–31.
+Current wording is already available through a modernized close reproduction. An original page capture is useful for final publication citation but no longer decisive for the 004 argument because Rhys Davids p.113 is now primary-secure.
 
-Important caution: until the page is seen, do **not** say Müller himself explicitly identifies Sanskrit `upadhi` with Pāli `upādi`; Lovejoy may be using p.30 only for a phonological/grammatical possibility.
+# Optional control — Müller pagination
 
-Links:
-- `https://openlibrary.org/books/OL14042167M/A_simplified_grammar_of_the_Pali_language`
-- `https://commons.wikimedia.org/wiki/File:A_simplified_grammar_of_the_Pali_language_(IA_simplifiedgramma00mulliala).pdf`
+Only if easy: another 1884/near-contemporary Müller witness that might explain why Lovejoy cites p.30 while the relevant passage in the uploaded Trübner copy is on p.36.
 
-### T. W. Rhys Davids, _Buddhism: Being a Sketch…_, 1894 revised ed.
-
-Need the original page containing the formula Lovejoy quotes: **“A comprehensive name for all the skandhas is upādi…”**
-
-Search terms: `upadi`, `skandhas`, `comprehensive name`.
-
-Links:
-- `https://openlibrary.org/works/OL1622881W/Buddhism`
-- IA identifier `buddhismbeingske00daviiala`.
-
-If absent, next candidate: Rhys Davids, _Lectures on the Origin and Growth of Religion_ (1881/1891).
-
-### R. C. Childers, _A Dictionary of the Pali Language_, entry `Upādiseso`
-
-Not urgent. Current wording is available through a modernized close reproduction; an original page capture would only clean up final publication citation.
+The default working hypothesis should remain **citation slip**, not silently corrected fact.
 
 # P2 — Dahlmann 1897 reception controls
 
-These may help map the live controversy but are **not evidence that Lovejoy read them**.
+Useful for controversy ecology, not evidence of Lovejoy access:
 
-1. _Wiener Zeitschrift für die Kunde des Morgenlandes_ 11 (1897), **pp.190–197**, substantial notice of Dahlmann’s _Nirvāṇa_. Later bibliographic evidence strongly points toward Leopold von Schroeder, but verify heading/signature before attributing.
-2. _Journal of the Royal Asiatic Society_ 29.2 (April 1897), **pp.407–410**, DOI `10.1017/S0035869X00145927`, book notice of Dahlmann.
+1. _Wiener Zeitschrift für die Kunde des Morgenlandes_ 11 (1897), pp.190–197, Dahlmann notice, strongly attributable to Leopold von Schroeder but still worth heading/signature control.
+2. _Journal of the Royal Asiatic Society_ 29.2 (1897), pp.407–410, Dahlmann notice.
 
-Retrieve only after the GGA review and Dahlmann p.14 unless access is trivial.
+Retrieve only after the GGA Jacobi review and true Oldenberg third edition unless access is trivial.
 
-# P1 — Harvard/Lovejoy access evidence
+# Harvard/Lovejoy access evidence
 
-The live access question is whether Lovejoy can be shown to have encountered the **1897 third German Oldenberg** or the newest German controversy before his 1898 article.
+Batch 141 now supplies exact official digital routes for Harvard course/enrollment records. The live access question remains whether Lovejoy can be shown to have encountered the newest 1897 German controversy before his 1898 article.
 
-Targets:
-1. Harvard course lists/catalogues **1896–97 and 1897–98**, especially Lanman/Everett and any reading lists.
-2. Lovejoy → Wallace W. Lovejoy letters, **late 1897 / early 1898**; Wilson transcriptions in JHU MS-0873 may be fastest.
-3. Lanman teaching papers / correspondence / Harvard Oriental Series materials for circulation of current Buddhist/Sanskrit scholarship.
-
-# P2 — publication chronology
-
-After access/text controls: establish exact 1898 fascicle dates for Jacobi/Oldenberg ZDMG 52 and Lovejoy JAOS 19 no.2. Useful for parallel-development chronology, no longer central to originality.
+High-value evidence:
+- Harvard 1896–97 / 1897–98 course descriptions and enrollment records around Lanman/Everett/Toy;
+- Lovejoy → Wallace W. Lovejoy letters, late 1897 / early 1898;
+- Lanman teaching/correspondence/Harvard Oriental Series circulation evidence.
 
 ## Current live Lovejoy tests
 
-1. **Division of evidentiary burdens:** Senart already has filiation/stratification; Lovejoy’s distinctive move is to limit what genealogical evidence can prove about semantic/systematic function.
-2. **Historical-functional recomposition:** Hardy → 004 → 1898 karma/upādāna allocation plus historical explanation.
-3. **Usage under underdetermined genealogy:** Childers/Rhys-Davids versus Müller/Dahlmann plus Oldenberg → 004 → 1898 `upādisesa`; Lovejoy brackets etymology and reconstructs meaning from usage while retaining contradiction.
-4. **1902 transport:** analogous separation of structural resemblance from demonstrated transmission in `Religion and the Time-Process`.
+1. **Division of evidentiary burdens:** Senart already has filiation/stratification; Lovejoy's more specific move is to limit what genealogy can establish about semantic/systematic function.
+2. **Historical-functional recomposition:** Hardy → 004 → 1898 karma/upādāna allocation.
+3. **Usage under underdetermined genealogy:** Childers/Rhys-Davids versus Müller/Dahlmann plus Oldenberg → Lovejoy brackets etymology and reconstructs meaning from textual distribution/usage.
+4. **Citation practice as evidence:** the Müller p.30/p.36 discrepancy is now a real source-critical problem in Lovejoy's own article, not a missing-source placeholder.
+5. **1902 transport:** test analogous separation of resemblance from demonstrated transmission in `Religion and the Time-Process`.
+
+See also:
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch142_uploaded_manual_targets_full_scan.md`
+- `research_notes/uploaded_manual_targets_resolution_batch142.csv`
