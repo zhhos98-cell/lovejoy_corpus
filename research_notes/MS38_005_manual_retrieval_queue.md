@@ -1,167 +1,169 @@
 # MS38_005 — manual retrieval queue
 
 Date: 2026-08-18  
-Last live sync: **2026-08-19, Batch 142**  
-Status: active  
+Last live sync: **2026-08-19, Batch 147**  
+Status: active; substantially contracted  
 Scope lock: **005 only**.
 
-This is a living queue for manual/source-quality returns. Batch 142 resolves the old Priority E completely and materially sharpens the remaining Steinmetz/Marillier question.
+This is the current living queue. Batches 142–147 supersede older retrieval status notes where they conflict.
 
-## Batch 142 resolution — RHR 37 (1898) now fully in hand
+## RESOLVED since Batch 142
 
-The uploaded complete _Revue de l'histoire des religions_, tome XXXVII (1898), closes the former Priority E:
+### RHR 37 (1898), Marillier continuation + reviewer identities
 
-- Marillier, `La place du totémisme...`, third article: printed **pp.204–233**;
-- fourth/final article: printed **pp.345–404**.
+Recovered in full:
 
-The same upload also resolves two reviewer identities that Batch 61 had correctly left open:
+- Marillier, `La place du totémisme...`, pp.204–233 and 345–404;
+- Rhys Davids review pp.241–249 = **L. Finot**;
+- Trumbull, `The Threshold-Covenant`, review pp.405–419 = **Léon Marillier**.
 
-- T. W. Rhys Davids, _Buddhism, its history and literature_, review pp.241–249: **L. Finot**;
-- H. Clay Trumbull, _The Threshold-Covenant_, review pp.405–419: **Léon Marillier**.
+The recovered Marillier material now gives direct 1898 controls for anti-unilateral inference, direct/immediate blood efficacy, plural sacrifice mechanisms, foundation-blood reclassification, and resemblance/borrowing discipline. See Batch 143.
 
-The Marillier text now gives a direct 1898 primary control for the operator already reconstructed in 005:
+### Steinmetz, _Endokannibalismus_ (1896) — old Priority A2
 
-- p.210: magical virtue of blood / `mana supérieur`;
-- p.211: co-occurrence does not establish cause-and-effect relation;
-- p.351: immediate/direct protective blood efficacy, with source apparatus naming Trumbull, Dorman, Kingsley, and _Threshold-Covenant_;
-- p.401: resemblance does not by itself prove borrowing or conscious imitation;
-- p.402: sacrifice explicitly separated into gift/propitiatory transaction, sacramental communion, expiatory/purificatory immolation, and magical blood efficacy;
-- p.403: final rejection of artificial unity gained by excluding contrary facts.
+**RESOLVED AT FULL-SOURCE SCAN/OCR LEVEL.**
 
-Marillier's own _Threshold-Covenant_ review, especially pp.406–410, attacks the practice of taking genuine facts and assigning them a scope/generality they do not possess; it rejects one-principle reductions such as all magic, all union, all fear, or all love.
+Internet Archive item:
 
-**Historical claim boundary:** this substantially strengthens a contemporaneous Marillier-method/source-field comparison with 005. It does **not** prove that Lovejoy personally read RHR 37, received these exact references from Marillier, or copied the article/review.
+- identifier `mitteilungendera2526unse`;
+- bound `Mitteilungen der Anthropologischen Gesellschaft in Wien`, vols.25–26 (1895–1896);
+- Steinmetz article in vol.XXVI, printed pp.1–60.
 
-Former Priority E is therefore **RESOLVED and removed from the live request list**.
+The formerly requested packet is now primary-readable:
+
+- §§16–22 / pp.36–47;
+- p.45;
+- §26 / p.52;
+- conclusion pp.59–60.
+
+Primary result, Batch 147:
+
+- Steinmetz explicitly rejects single-motive `Simplomanie` and distinguishes motives/negative conditions;
+- hunger alone is not sufficient for surviving endocannibal cases;
+- p.52 §26 treats animism, appropriation of soul/vital force, and ceremonial forms as **later motives/reinterpretations** that preserve or support a pre-existing custom, not as its original cause;
+- pp.59–60 nevertheless retain a strong universal nutritional/phylogenetic origin hierarchy, with ritual/magical forms treated as secondary.
+
+Do **not** request this packet again for substantive access. Facsimile page slicing is now only publication-grade citation/image control.
 
 ---
 
-## Priority A — Marillier review of Steinmetz, `Endokannibalismus` (highest remaining value)
+# Priority A — Marillier review of Steinmetz, _Endokannibalismus_
 
-**Need:** _Revue de l'histoire des religions_, tome XXXIV (1896), printed **pp.113–118**; pp.113–115 are the minimum discriminating packet.
+**Highest remaining 005 target.**
 
-Bibliographic item:
-`R. Steinmetz — Endokannibalismus — M. L. Marillier`.
+Léon Marillier review, _Revue de l'histoire des religions_ 34 (1896), printed **pp.113–118**.
 
-Why this remains highest priority:
+Object/access now deterministic:
 
-- Lovejoy 005 PDF p.62 / MS p.125 contains the exact title `Endokannibalismus — Steinmetz.`
-- Marillier personally reviewed that exact recent work before Lovejoy's 1898–99 Paris seminar year.
-- Batch 142 shows that Marillier in 1898 was explicitly hostile to one-principle explanations and willing to distinguish magical/direct efficacy from communion. The 1896 review can now test whether that operator was already applied specifically to Steinmetz's kin/endocannibalistic material.
+- BSB/MDZ object `bsb11809713`;
+- URN `urn:nbn:de:bvb:12-bsb11809713-2`;
+- next item begins printed p.119, fixing the full review boundary.
 
-The discriminating question is narrow:
+Batch 145 records the official MDZ IIIF/OCR route. The present environment can identify the object/API path but has not yet exposed the six page contents reliably.
 
-> **Does Marillier classify kin/body-part transfer as communion, magic/transferable efficacy, funerary solidarity, social mechanism, or a plural/unresolved set of causes?**
+After primary recovery of Steinmetz, the question is now sharper than the old `communion vs magic` fork:
 
-Existing access control:
-- BSB/MDZ object: `bsb11809713`;
-- Google Books/RHR 34 complete-volume routes were previously located;
-- Batch 61 established that this is now an extraction problem, not a source-discovery problem.
+> **Does Marillier accept Steinmetz's distinction between primary nutritional origin and secondary animistic/ritual refunctionalization? Does he challenge the universal origin inference while preserving local motive analysis? Or does he reclassify the surviving forms at the relational/mechanism level, closer to Mauss's later intervention?**
 
-**Please return:** printed pp.113–118 if convenient; otherwise pp.113–115 minimum. Original page numbers visible. No OCR needed.
+Need: printed pp.113–118, original page numbers visible. No OCR work needed from the user.
 
-## Priority A2 — Steinmetz, _Endokannibalismus_: discriminating primary packet
+---
 
-Rudolf S. Steinmetz, _Endokannibalismus_ (Vienna, 1896), offprint from _Mittheilungen der Anthropologischen Gesellschaft in Wien_ XXVI.
-
-Need:
-
-1. **pp.36–47 (§§16–22)** — strongest continuous method/counterfact packet;
-2. **p.45, col.2** — mutilation/eating selected parts in relation to magical vengeance or danger from the dead;
-3. **p.52, §26** — kin-anthropophagy/bodily-fragment material later classified by Mauss as communion;
-4. **pp.59–60** — conclusion.
-
-Minimum useful return: p.45, p.52, pp.59–60. If easy, pp.36–47 as one continuous PDF.
-
-Research question after Batch 142:
-
-> **counterfact-sensitive collection → Marillier's classification of the mechanism → Lovejoy's later category/mechanism redivision.**
-
-Do not contrast Lovejoy with a caricatured Steinmetz who simply ignored exceptions; the sharper issue is what different scholars do with the same contrary/heterogeneous cases.
-
-## Priority A3 — N. W. Thomas's Marillier-era diploma product
+# Priority A3 — N. W. Thomas's Marillier-era diploma product
 
 Northcote Whitridge Thomas, `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, _RHR_ 38 (1898), **pp.295–347**.
 
-Why still valuable:
+Object/access:
 
-- Thomas is independently documented as a Marillier student and eyewitness to the `work by pupils, directed by the lecturer` procedure;
-- the article sits at the threshold of Lovejoy's Paris year;
-- it can show what a Marillier-era student product did with form, meaning, analogy, survivance, borrowing, and agrarian/totemic classification.
+- BSB/MDZ `bsb11864666`;
+- URN `urn:nbn:de:bvb:12-bsb11864666-6`.
 
-Search/capture targets:
+The source is digitized and machine-routable; content extraction remains pending.
+
+Search/capture terms:
 `survivance`, `origine`, `forme`, `sens`, `analogie`, `ressemblance`, `rite`, `totémisme`, `culte`, `emprunt`, `agraire`.
 
-Useful identifiers:
-- BSB/DDB `bsb11864666`;
-- URN `urn:nbn:de:bvb:12-bsb11864666-6`;
-- Google Play Books RHR 38 `w9Q2AQAAMAAJ`.
+Why: same-teacher student-product control immediately adjacent to Lovejoy's Paris year; useful for testing how Marillier-directed work handled form/meaning/history, not as evidence Lovejoy read Thomas.
 
-**Please return:** ideally pp.295–347 whole article; otherwise introduction/conclusion plus all relevant term hits.
+---
 
-## Priority B — Marillier review of Codrington, _The Melanesians_
+# Priority B — Marillier review of Codrington, _The Melanesians_
 
-Need:
-- _RHR_ 25 (1892), **pp.231–232**;
-- review by Léon Marillier of R. H. Codrington, _The Melanesians: Studies in their Anthropology and Folk-Lore_.
+_RHR_ 25 (1892), **pp.231–232**.
 
-Why:
-- Codrington is physically present in 005's opening bibliography and early citations;
-- this would establish what Marillier selected from Codrington at the moment of reception rather than through later `mana` historiography.
+Object/access:
 
-**Please return:** printed pp.231–232.
+- BSB/MDZ `bsb11615030`;
+- URN `urn:nbn:de:bvb:12-bsb11615030-8`.
 
-## Priority C — exact 1892 `mana` occurrence in Marillier on Frazer
+This same RHR 25 object also contains Priority C below.
 
-Léon Marillier, `M. Frazer et la Diane de Nemi`, _RHR_ 25 (1892), **pp.71–99**.
+Question: what did Marillier select from Codrington at first reception — `mana`, spirit-residence, taboo, efficacy, sacrifice, or source-critical issues?
 
-Secondary scholarship reports an early Melanesian `mana` occurrence here. The separate uploaded 1897 JSTOR OCR `23661047` does **not** securely solve this problem; simple substring searching there produces false positives.
+Do not infer the answer from Marillier's later 1897–1900 usage.
 
-Search within the 1892 article for:
-- `mana`
-- `Codrington`
-- `Mélanés*`
+---
 
-**Please return:** the secure `mana` page plus one preceding/following page.
+# Priority C — Marillier, `M. Frazer et la Diane de Nemi`
 
-## Priority D — Marillier, `Religion`, _La Grande Encyclopédie_ XXVIII
+_RHR_ 25 (1892), **pp.71–99**, same BSB object `bsb11615030`.
 
-Need first: printed **p.349**.
+Need the secure primary `mana` occurrence plus one page before/after. Search:
 
-Also useful:
-- `un même mana`
-- `moyen mécanique`
-- `sacrifice magique`
-- `force magique`
-- `sang`
-- final printed page, to settle the modern pagination conflict (341–364 vs 341–366).
+- `mana`;
+- `Codrington`;
+- `Mélanés*`.
 
-This is now wording/conceptual chronology, not the highest-priority proof of a Marillier `mana` vocabulary: Batch 142 has direct 1898 RHR evidence for `mana supérieur`, and earlier project work already secured pre-1900 use.
+Secondary scholarship localizes an early occurrence here, but that remains a locator only until the primary page is extracted.
 
-## RESOLVED — former Priority E, Marillier 1898 continuation
+---
 
-Recovered in full from uploaded RHR 37:
-- pp.204–233;
-- pp.345–404.
+# Priority D — Marillier, `Religion`, _La Grande Encyclopédie_ XXVIII
 
-Do not request again.
+Exact Gallica object now fixed:
 
-Key downstream comparison now available:
+- BnF digital object `NUMM-323908`;
+- Gallica ARK `bpt6k323908q`;
+- tome 28, `rabbinisme - Saas`.
 
-`Marillier 1898 anti-unilateral / plural-mechanism print`  
-`+ documented Lovejoy participation in Marillier's 1898–99 EPHE conferences`  
-`+ 005 source/mechanism sorting`  
-`→ test what changes by 1905–06 rather than merely asserting thematic similarity`.
+Article range: primary bibliographies give pp.341–366; some modern citations end at p.364. Facsimile will settle the endpoint.
+
+Need first:
+
+- printed p.349;
+- all `mana` occurrences;
+- `un même mana`;
+- `moyen mécanique`;
+- `sacrifice magique`;
+- `force magique`;
+- `sang`;
+- final printed page.
+
+Batch 146 records the official Gallica IIIF/OCR/search patterns. Secondary localization is not a substitute for facsimile control.
+
+---
+
+## Current retrieval topology
+
+### Digitized / exact object known / extraction only
+
+1. Marillier–Steinmetz review — RHR34 `bsb11809713`, pp.113–118.
+2. Thomas — RHR38 `bsb11864666`, pp.295–347.
+3. Marillier–Codrington — RHR25 `bsb11615030`, pp.231–232.
+4. Marillier–Frazer — same RHR25, pp.71–99.
+5. Marillier `Religion` — Gallica `bpt6k323908q`, pp.341–366, especially p.349.
+
+### No longer a substantive access gap
+
+- Steinmetz _Endokannibalismus_ original, pp.1–60 — recovered in full, Batch 147.
+- Marillier RHR37 continuation — recovered in full, Batch 142.
 
 ## Return protocol
 
-For remaining manual items, the most useful form is:
+For any still-live item, the most useful user return is simply original page image/PDF with printed page numbers visible. No OCR/transcription is necessary.
 
-1. original page image/screenshot;
-2. printed page number visible;
-3. filename labelled by volume/page;
-4. no OCR/transcription needed unless image quality demands it.
-
-See also:
-- `research_notes/lovejoy_as_orientalist_web_sweep_batch142_uploaded_manual_targets_full_scan.md`
-- `research_notes/uploaded_manual_targets_resolution_batch142.csv`
+See:
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch143_marillier_1898_trumbull_source_field_and_mechanism_operator.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch145_primary_retrieval_endpoints_RHR34_Oldenberg1897.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch146_remaining_005_targets_deterministic_digital_routes.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md`
