@@ -1,206 +1,342 @@
 # JHI Blog architecture — notebook-led 004 → 1898 → methodological controversy → disciplinary genealogy
 
-Date: 2026-08-19
-Status: active working architecture; supersedes the earlier source-block architecture
+Date: 2026-08-20
+Status: active working architecture; revised after relation-type, common-repertoire, disciplinary-redescription, and Skinner/Lovejoy adversarial stress tests
 
-## Editorial decision
+## Governing editorial decision
 
-The notebook itself should now be the **narrative spine**.
+The notebook itself remains the **narrative spine**, but the essay now needs one explicit formal question that every module must answer:
 
-Do not structure the essay as `background → controversy → Lovejoy → methodology`. Instead, let the reader move through `MS38_004_001_061_004` with us. Each selected notebook fragment should do two jobs at once:
+> **What kind of relation has the evidence actually established?**
 
-1. display enough Quellenforschung to establish exactly what Lovejoy is reading, copying, changing, or suspending;
-2. open one further methodological problem, so that the eventual move to the larger Sāṃkhya/Buddhism controversy feels earned rather than imposed from above.
+This question is first-order before it is methodological. It is the problem repeatedly encountered inside `MS38_004_001_061_004`:
 
-The resulting motion is:
+- resemblance or identity?
+- causal dependence or mere adjacency?
+- temporal succession or logical inclusion?
+- borrowed material or borrowed configuration?
+- an early doctrinal feature or a whole historical system?
+- lexical derivation or contextual usage?
 
-`Skinner / archival oddity` → `open notebook` → `source uptake` → `authorial hinge` → `system / semantic / proof problem` → `1898 publication` → `the controversy was methodological` → `Oriental / classical scholarship` → `transregional genealogy of historical reasoning` → `Skinner return`.
+It then becomes the disciplinary question at the end: what relation does the evidence establish between the historical Arthur Lovejoy, the later methodological figure called `Lovejoy`, and Skinner's critique?
 
-The blog remains first-order because the reader spends most of the essay inside one historical object and one 1890s controversy. The larger history-of-ideas argument is what the notebook gradually reveals.
+The essay should therefore move by **relation problems**, not by scholar profiles and not by a chronological survey of everything in the project.
 
-## Opening: Skinner, then the object
+The core motion is now:
 
-Use Skinner only long enough to establish the familiar retrospective image of Lovejoy. Then cut immediately to the physical archival object:
+`Skinner / later methodological relation` → `Sankhya + Buddhism notebook` → `brief source-field entry` → `Warren identity close-up` → `Senart provenance/configuration close-up` → `1898 selective proof + upādisesa calibration` → `transregional widening` → `return to Skinner: a real disagreement over historical warrant, but not a simple context/no-context binary`.
+
+---
+
+## Stress-test rule
+
+A module remains in the Blog only if it does at least one of three jobs:
+
+1. gives a **directly visible manuscript operation**;
+2. closes a **source → notebook → publication** proposition;
+3. changes the **disciplinary meaning** of the first-order evidence.
+
+Material that only proves the field was broad, that Lovejoy remained interested later, or that related methodological problems existed elsewhere belongs in footnotes / pitch / journal article unless it is needed as a guardrail.
+
+---
+
+## 1. Opening — Skinner, then the physical object
+
+Target: **140–180 words**.
+
+Use Skinner only to establish the real later dispute. The safest opening proposition is not `Skinner accused Lovejoy of ignoring context`.
+
+The direct conflict is narrower and stronger:
+
+- Lovejoy's mature programme permits the historian to isolate a recurrent conceptual component and identify it across changing contexts;
+- Skinner attacks the assumption that a fixed idea can persist across contexts independently of situated linguistic action.
+
+Then cut immediately to the archival object:
 
 `A. O. Lovejoy / Sankhya + Buddhism / Harvard Cooperative Society.`
 
-The opening question is not `was Skinner wrong?` but:
+Opening question:
 
-> **What was the future architect of the history of ideas doing in a notebook devoted to one of the most technical disputes in late-nineteenth-century Indology?**
+> **What was the future architect of the history of ideas doing in a notebook whose pages repeatedly ask what sort of relation resemblance, sequence, borrowing and textual usage are entitled to establish?**
 
-The answer should emerge by turning pages rather than by announcing a large thesis at once.
+Do not ask `Was Skinner wrong?`
 
-## Fragment sequence: three notebook close-ups
+The essay's later answer will be: Skinner identified a real disagreement over historical warrant, but the historical object called `Lovejoy` was made narrower by later disciplinary polemic than Lovejoy's early working practices had been.
 
-### Fragment 1 — copied apparatus: Garbe / Rhys Davids
+---
 
-Purpose: establish that 004 is a **working dossier inside a live controversy**, not a retrospective collection of detachable Buddhist propositions.
+## 2. Enter the notebook — Garbe / Rhys Davids as a brief field-control, not the main close-up
 
-Use a compact source-control scene:
+Target: **180–230 words**.
 
-- PDF pp.4–5 / MS pp.8–9 are explicitly headed `The Method of the Sankhya / Garbe p.150` and closely reproduce Garbe 1894;
-- PDF pp.12–16 digest Rhys Davids 1896 on whether Buddhism depended on Sāṃkhya, the chronological gap, and the problem of inferring a whole mature system from earlier doctrinal evidence.
+Purpose: establish that 004 is a working dossier inside a live controversy and that copied/digested source material can be separated from Lovejoy's own interventions.
 
-Quellenforschung payoff: the reader sees that we can distinguish copied/digested source material from Lovejoy's own interventions. This is important because the notebook is not automatically `Lovejoy speaking` on every line.
+Use only the minimum needed:
 
-Methodological opening: already at source level the dispute separates resemblance, diagnostic evidence, chronology, doctrine, and system.
+- PDF pp.4–5 / MS pp.8–9: `The Method of the Sankhya / Garbe p.150`; direct uptake of a proof protocol in which dense formal agreement can identify an `alien element`;
+- PDF pp.12–17: Rhys Davids on chronology and the gap between an early doctrinal witness and the later Sāṃkhya system;
+- the authorial hinge `To R.D.'s remark it should be added ...` shows Lovejoy replacing a low-discrimination feature with a more diagnostic one.
 
-### Fragment 2 — the authorial hinge: `To R.D.'s remark it should be added ...`
+The important correction after source control: do **not** quote the preceding `system existed as a whole` sentence as Lovejoy's own voice if it belongs to the Rhys Davids digest. The clean authorial hinge is the explicit supplementation that follows.
 
-This is probably the strongest notebook fragment for the blog.
+Function in the essay:
 
-At PDF p.17 Lovejoy visibly breaks from the Rhys Davids digest. He argues that eternity of matter/self is not the most diagnostic Sāṃkhyan feature; the more discriminating test is the separateness of Self and World, `in a word its thorough-going dualism`, and he proposes another Buddhist witness accordingly.
+> **Not all resemblance has the same historical weight.**
 
-This gives a very clean micro-Quellenforschung sequence:
+This is scene-setting, not the principal Quellenforschung display.
 
-`Rhys Davids proposition` → `Lovejoy supplementation` → `new diagnostic criterion` → `new textual search`.
+---
 
-The methodological question appears from the page itself:
+## 3. Main Quellenforschung close-up — Warren: what relation is this?
 
-> **Which resemblance is specific enough to carry a historical inference?**
+Target: **320–380 words**.
 
-Do not call this a mature unit-idea method. It is an observable act of doctrinal discrimination inside a philological controversy.
+This now replaces the p.17 scene as the strongest principal close-up because it gives an exceptionally legible proposition-level chain.
 
-### Fragment 3 — from historical origin to configuration / usage
+### Warren 1893
 
-Use either one long or two short close-ups.
+Warren explicitly treats dependent origination as a sequence containing heterogeneous relation-types rather than one homogeneous causal chain. For `taṇhā → upādāna`, however, he assigns the local relation **identity**.
 
-#### Option A: p.20 `present effort`
+### Notebook 004
 
-Lovejoy says the `present effort` is to understand Buddhism's general philosophical position, its technical working-out in `paticca-samuppāda`, and the complicated interrelation of the twelve notions in relation to current Indic ideas.
+Lovejoy records Warren's identity judgement and writes:
 
-This is useful because the notebook itself defines an analytical movement:
+`But not so if we are to follow F. present text.`
 
-`general philosophical position ↔ technical articulation / interrelation`.
+He then tests the relation against the canonical/commentarial classifications of four `upādānas` and six `taṇhās`.
 
-#### Option B: pp.65–66 `upādisesa`
+The visible operation is:
 
-This is the strongest proof-partition example. Lovejoy uses textual context and doctrinal function to argue that `anupādisesa` in the relevant passage cannot simply mean physical death/extinction of the skandhas. The later 1898 article then says etymology is underdetermined and meaning must be decided by use; the evidence is `relevant but not necessarily conclusive`, and contradictory passages leave the total question unresolved.
+`authority assigns relation` → `Lovejoy contests relation` → `classification supplies a new test`.
 
-This displays, in Lovejoy's own published voice:
+### 1898
 
-`etymology ≠ usage ≠ doctrinal function ≠ total textual genealogy`.
+The published article cites Warren's identity judgement and stabilizes the distinction:
 
-For a short blog, Option B is stronger than p.20 because it connects notebook directly to the 1898 article and gives a concrete example of different proof levels carrying different confidence.
+- `taṇhā` = particular cravings;
+- `upādāna` = a more chronic condition of the will / habitual identification with the skandhas.
 
-## The 1898 article as publication endpoint, not a second object
+Thus the same pair remains closely related without being identical.
 
-The article should emerge from the notebook rather than interrupt it.
+This is the Blog's cleanest answer to the governing question:
 
-The key archival result from Batch155 is that the article is **not a miniature of 004**. The notebook contains broad Sāṃkhya/Buddhism chronology, diagnostic system-identification tests, psychological taxonomies, stratification hypotheses, and stronger metaphysical conclusions. Much of that disappears in print.
+> **A demonstrated relation is not a blank cheque. The historian has to specify what kind of relation has been established.**
 
-What survives and sharpens is more locally controllable:
+Do not claim Lovejoy invented relation-type discrimination. Warren's own article already makes heterogeneous relations explicit. Lovejoy's distinctive operation here is **reassignment**: he applies the field's relational discipline against one of Warren's own local assignments.
 
-- semantic discrimination by usage;
-- causal-role distinctions;
-- borrowed material versus distinctive `arrangement and application`;
-- explicit calibration of inconclusive evidence;
-- acknowledgement of contradictory passages.
+---
 
-This gives a very strong blog transition:
+## 4. Second close-up — Senart: provenance does not settle configuration
 
-> **The notebook preserves the proof problems that publication removes.**
+Target: **300–360 words**.
 
-Do not infer a conscious editorial doctrine. The secure point is the observable asymmetry between exploratory manuscript surplus and the narrower propositions that survive in print.
+This is the strongest **full three-node closure** and should operate at system scale after Warren's term-level case.
 
-## Then jump outward: the notebook has led us into a methodological controversy
+### Senart 1896
 
-Only after the three close-ups should the essay name the broader pattern.
+Senart moves from repetition / heterogeneity / pre-existing scholastic materials toward a compositional conclusion about the twelve nidānas: a derivative, composite whole whose arrangement is substantially secondary / accidental.
 
-At close range these are disputes over Pāli terms, Buddhist causal formulas and Sāṃkhya parallels. Taken together, they reveal a controversy over **levels of historical inference**.
+### 004
 
-Reader-facing compression:
+Lovejoy largely concedes the lower-level premises:
 
-1. **What resembles what?**
-2. **What exactly has that resemblance proved — a term, doctrine, element, arrangement, or whole system?**
-3. **When may that resemblance become genealogy, and when may genealogy determine meaning?**
+- terms need not be original to Buddhism;
+- heterogeneous materials may have been brought together;
+- the formula does not express one homogeneous strict temporal sequence.
 
-Then stage the surrounding participants briefly:
+But he refuses the upgrade from compositeness to unintelligibility / accidental configuration.
 
-- Garbe: generic resemblance is weak; diagnostic detail can carry historical connection, with direction as a further question;
-- Rhys Davids: chronology / surviving textual evidence place a ceiling on system-level inference;
-- Senart: structural duplication/heterogeneity can support compositional history;
-- Jacobi: systematic analogy can do stronger genealogical and causal explanatory work;
-- Oldenberg: usage, internal causal function and source criticism constrain filiation;
-- Lovejoy: recomposes these proof burdens and repeatedly controls the scale at which evidence is allowed to speak.
+### 1898
 
-The important formulation is **methodological positions / evidentiary regimes inside a shared philological field**, not sealed schools.
+The published article makes the separation explicit:
 
-## Oriental scholarship / classical scholarship as the scale-change
+> terms, perhaps even ideas, may be largely borrowed, while their `arrangement and application` are `original and characteristic`.
 
-Once the notebook has shown the proof problem, widen to the nineteenth-century disciplinary setting.
+This is the system-scale version of the Warren operation:
 
-Max Müller's retrospective `between classical and Oriental scholarship` formulation now works as a scale-change rather than an opening hook.
+`historical provenance` ≠ `present semantic / causal / configurational role`.
 
-The Harvard control matters here: Sanskrit/comparative philology had originally entered Harvard through James Bradstreet Greenough's Latin teaching before Lanman's separate Indo-Iranian structure. The relevant history is therefore not two sealed disciplines colliding but differentiation inside philology while evidentiary techniques and personnel continued to cross the new boundary.
+The Blog should not cast Senart as naïve and Lovejoy as correct. Senart himself is doing sophisticated textual stratification. The historical disagreement lies in the **permissible movement from compositional evidence to a conclusion about the present whole**.
 
-This gives the institutional question:
+---
 
-> **Why did the methodological workshop visible in Lovejoy's Orientalist work later become difficult to see in the disciplinary self-history of the history of ideas?**
+## 5. 1898 as selective public proof — upādisesa as the calibration coda
 
-## Transregional correction
+Target: **260–320 words**.
 
-Bankim Chandra Chattopadhyay and Rajendralal Mitra should appear briefly, after the methodological pattern is already visible.
+The 1898 article is not a second independent object; it is the publication endpoint that shows which notebook operations survived under public proof conditions.
 
-Their role is not transmission to Lovejoy. It is to prevent the narrative `Europe supplied method; India supplied material`.
+The secure asymmetry is:
 
-- Bankim separates similarity from identity and the existence of similarity from direction of borrowing.
-- Mitra separates antecedent doctrines/materials from a complete system and rejects genealogical conjecture without positive proof.
+- notebook: chronology, whole-system identification, psychological taxonomies, textual stratification, broader Buddhist/Sāṃkhya genealogy;
+- article: locally controllable semantic, causal and configurational claims.
 
-Thus Indian philosophical traditions were not passive data for an already completed European comparative method. They were part of a transregional arena in which scholars in South Asia, Europe and America contested what resemblance and comparison were entitled to prove.
+Use **upādisesa** to show that publication can become more explicit about uncertainty rather than merely more assertive.
 
-Safe larger claim:
+The article says:
 
-> **The methodological prehistory of the history of ideas was not exclusively intra-Western.**
+- competing derivations are both etymologically possible;
+- meaning must therefore be settled by **use**, not etymology alone;
+- the additional evidence is `relevant but not necessarily conclusive`;
+- oldest / probably most numerous texts can favour one reading while contrary passages remain;
+- the matter `cannot be regarded as finally settled`.
 
-Avoid a singular `non-Western origin of the history of ideas` claim unless explicitly qualified as a non-exclusively-Western genealogy of problems, practices, and proof standards.
+This yields the evidentiary ladder:
 
-## Skinner return / chirality
+`etymology` ≠ `usage` → `usage permits a semantic claim` → `relevant` ≠ `conclusive` → `preferred reading` ≠ `finally settled`.
 
-Return to Skinner only at the end.
+The preferred manuscript/publication formulation is now:
 
-Do not say early Lovejoy anticipated or defeated Skinner. Instead:
+> **The notebook preserves branching proof problems; the article publishes a smaller set of propositions under tighter local controls.**
 
-> **Contextualizing Lovejoy changes the context of the history of ideas' own origin story.**
+Avoid imputing a conscious editorial doctrine. `Selective public proof` / `evidentiary compression` are our analytical descriptions of the observable asymmetry.
 
-The optional final irony is the Skinner/Lovejoy chiral relation: the later methodological opposition may itself have a history. Use this as an afterimage, not the article's burden.
+---
 
-## Current preferred 1,700–2,000 word architecture
+## 6. Zoom out — this was a shared transregional comparative repertoire
 
-### 1. Skinner + `Sankhya + Buddhism` — 180–220 words
+Target: **220–280 words**.
 
-Retrospective methodological foil → strange notebook → question.
+Do not turn this into a scholar-by-scholar survey.
 
-### 2. Turn the pages: source uptake and the first authorial break — 350–450 words
+One compact paragraph should state that Warren, Garbe, Rhys Davids, Senart, Oldenberg, Jacobi and Lovejoy occupy a shared field in which different kinds of evidence are repeatedly asked to support different kinds of historical relation.
 
-Garbe / Rhys Davids source control → `To R.D.'s remark ...` → diagnostic specificity.
+Then use **Bankim + Mitra** as the geographical correction because they directly instantiate the governing proof problem:
 
-This is the main Quellenforschung display.
+- Bankim: similarity is not identity; establishing similarity does not establish the direction of borrowing;
+- Mitra: antecedent philosophical materials are not yet a complete system; phonetic resemblance is not `proof worth the name` for genealogy.
 
-### 3. A second notebook problem and the 1898 compression — 350–450 words
+No transmission to Lovejoy is claimed.
 
-Prefer `upādisesa`: notebook usage/function → 1898 usage over etymology / inconclusive evidence → brief statement of manuscript surplus versus print compression.
+The payoff is not `India invented contextualism` and not `the history of ideas has a non-Western origin`.
 
-### 4. What kind of controversy was this? — 350–450 words
+Preferred formulation:
 
-Abstract from the notebook into three proof questions; place Garbe, Rhys Davids, Senart, Jacobi, Oldenberg around Lovejoy. Exit specialist Buddhist discussion.
+> **Indian philosophy was a transregional site in which scholars in South Asia, Europe and the United States contested what resemblance, composition and textual evidence were entitled to prove.**
 
-### 5. Oriental / classical scholarship and the transregional field — 300–350 words
+This also guards against a Europe-method / India-data narrative.
 
-Müller + Harvard differentiation + Bankim/Mitra correction.
+### Material demoted from standalone body modules
 
-### 6. Contextualizing the founder — 200–250 words
+**Max Müller / classical-versus-Oriental scholarship:** no longer needs a standalone section. His retrospective `classical and Oriental scholarship` binary may appear in one transitional sentence or a note if spatial disciplinary differentiation needs to be named. It does not answer the governing relation question as directly as the Bankim/Mitra material.
 
-Return to Skinner; state disciplinary genealogy claim; optional chiral afterimage.
+**Harvard institutional genealogy (Greenough/Lanman):** reserve for journal article / footnote unless an editor specifically asks for institutional anchoring.
 
-## Working thesis
+**Zeller / Windelband / Griffiths:** use as adversarial controls in notes or pitch, not body. They prove that relation-policing was a wider comparative repertoire and thereby block Lovejoy-priority claims.
 
-> **A surviving notebook labelled `Sankhya + Buddhism` lets us watch Arthur Lovejoy before the history of ideas became his disciplinary identity. By tracing several of its entries back to Garbe, Rhys Davids and the contemporary Sāṃkhya–Buddhism controversy, and forward into Lovejoy's 1898 article, we can see him separating different historical claims: resemblance from diagnostic resemblance, a doctrine from a whole system, usage from etymology, configuration from provenance, and local evidence from genealogy. The notebook therefore opens onto a larger history. Some of the evidentiary problems later associated with intellectual history were being contested in a transregional Orientalist field built around Sanskrit, Pāli and Indian philosophy, not solely inside a Western philosophical canon.**
+---
 
-## Stylistic rule
+## 7. Return to Skinner — historicize the relation itself
 
-The notebook should remain physically and narratively present. The essay should repeatedly move:
+Target: **260–330 words**.
 
-`page / phrase / source` → `what Lovejoy does to it` → `what historical problem this exposes`.
+The ending should use the same question as the first-order core:
 
-That is the mechanism by which the piece remains first-order while still ending in a methodological argument about the history of ideas.
+> **What relation has the evidence established between Lovejoy and Skinner?**
+
+### What is a real conflict
+
+Lovejoy 1936/1941 allows the historian to isolate a conceptual component and identify it across different labels, phrasings and contexts.
+
+Skinner 1969 directly attacks the assumption that a fixed idea can persist across changing contexts as the unit of historical explanation.
+
+That is a genuine disagreement over the **warrant for cross-contextual identity**.
+
+### What is not the conflict
+
+Do not write `Lovejoy ignored context` or `Lovejoy believed words had fixed meanings`.
+
+Lovejoy 1941 explicitly says meaning is determined by `usage` and rejects hypostatizing one essence of Romanticism.
+
+Skinner's `use`, however, operates at a different level: situated linguistic / illocutionary action by a historical agent.
+
+Thus:
+
+- Lovejoy 1898: textual/doctrinal use;
+- Lovejoy 1941: historical-semantic usage;
+- Skinner 1969: pragmatic action in context.
+
+Their shared word does not establish methodological identity.
+
+### Final turn
+
+The strongest final irony is methodological rather than rehabilitative:
+
+> **The recurrence is not a genealogy, and the three `uses` are not the same. That is precisely the problem the notebook has taught us to ask: what sort of relation is a resemblance entitled to establish?**
+
+Skinner's own 1969 influence test — similarity, alternative-source control, independent invention — and his explicit citation to Philip Wiener in the *Journal of the History of Ideas* can remain in a note or one sentence if space permits. It supports a deeper claim: contextualism did not simply arrive from outside to replace a sealed `history of ideas`; the methodological settlement recombined proof controls from an already heterogeneous field.
+
+Do not make the 2025 Skinner book or the chirality metaphor carry the conclusion. `Chirality` remains useful private shorthand, not necessary public architecture.
+
+---
+
+## Modules now cut from the Blog body
+
+These remain important for the journal article / supporting notes but fail the 1,700–2,000-word relation-question stress test:
+
+- notebook 005 / Marillier / Paris;
+- 1901 Buddhism syllabus;
+- full 1902 `Religion and the Time-Process` module;
+- Hardy as a separate causal close-up;
+- Childers / `temporally ... logically` as a separate close-up;
+- Jacobi as an individual methodological profile;
+- Oldenberg as an individual methodological profile;
+- Max Müller / Mommsen as a full section;
+- Harvard Greenough/Lanman institutional genealogy as a full section;
+- Zeller / Windelband comparative-method controls in the body;
+- 2025 Skinner / chirality discussion;
+- 2026 Blau/Iqtidar current historiography in the body.
+
+### Optional one-sentence afterlife
+
+If desired, 1902 may appear only as a compact afterlife sentence: Lovejoy himself later cited the 1898 Buddhist paper while operating at a broader comparative-philosophical scale. This proves substantive reuse, not methodological derivation.
+
+---
+
+## Current preferred 1,700–1,950 word architecture
+
+### 1. Skinner + `Sankhya + Buddhism` — 140–180
+
+Real later disagreement → strange archive object → governing question.
+
+### 2. Garbe/Rhys Davids field entry — 180–230
+
+Copied apparatus → explicit Lovejoy supplementation → not every resemblance bears the same historical weight.
+
+### 3. Warren main close-up — 320–380
+
+`identity` → `But not so ...` → classification → published functional differentiation.
+
+### 4. Senart system-scale close-up — 300–360
+
+composite provenance → notebook concession/rejection → 1898 `borrowed terms / original arrangement and application`.
+
+### 5. upādisesa + selective public proof — 260–320
+
+usage over etymology → confidence calibration → notebook/publication asymmetry.
+
+### 6. Transregional field — 220–280
+
+shared repertoire → Bankim/Mitra → no Europe-method / India-data story.
+
+### 7. Skinner return — 260–330
+
+real cross-context identity dispute → `usage` / `use` are not the same relation → historicize the opposition.
+
+Total target: approximately **1,680–2,080 words**, with the preferred draft landing around **1,850**.
+
+---
+
+## Revised working thesis
+
+> **A surviving notebook labelled `Sankhya + Buddhism` does not reveal a forgotten origin of contextualism or an embryonic history-of-ideas method. It preserves a scholarly junction before those later categories hardened. Across its pages, Arthur Lovejoy uses and contests a transregional comparative repertoire in which scholars repeatedly had to specify what kind of relation their evidence established: resemblance or identity, doctrinal affinity or historical dependence, borrowed material or borrowed configuration, textual usage or etymological derivation, an element or a whole system. The notebook's path into Lovejoy's 1898 article makes several of those inferential moves unusually visible at work. Returning from that archive to Skinner does not dissolve their later disagreement; it makes its real object clearer. The dispute was not simply context versus abstraction, but the historical warrant by which something could be identified as the same idea across changing contexts.**
+
+---
+
+## Single stylistic rule
+
+Every substantive paragraph should be reducible to:
+
+`page / proposition / source` → `what relation is claimed` → `what Lovejoy accepts, rejects, or reassigns` → `what historical claim remains licensed`.
+
+If a paragraph cannot be reduced to that sequence, it probably does not belong in the Blog.
