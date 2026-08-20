@@ -76,6 +76,66 @@ Advantages:
 
 `The piece follows Lovejoy through disputes over whether desire and attachment were “identical,” whether a composite Buddhist formula was merely an accidental arrangement, and whether borrowed terms or ideas necessarily implied a borrowed arrangement. I use these disputes to reconstruct a wider, transregional problem of historical inference: what could comparison actually establish?`
 
+## Maximal actor-language test
+
+A pitch can be made **actor-language dominant**, but not literally 100% actor-native without ceasing to be a pitch. The archival actors supply the disputed propositions; we still have to supply chronology, syntax, selection, and the statement of why those propositions belong in one story.
+
+### Level A — exact actor wording
+
+These can safely carry the evidentiary core in quotation marks:
+
+- Warren: `identity`.
+- Lovejoy MS: `But not so if we are to follow the present text.`
+- Senart: `ordre plus ou moins accidentel` / Lovejoy's near-literal `order more or less accidental`.
+- Lovejoy 1898: `borrowed` terms / perhaps ideas; `arrangement and application`; `original and characteristic`.
+- Lovejoy 1898: `examination of its use`; `relevant but not necessarily conclusive`; `cannot be regarded as finally settled`.
+
+### Level B — actor-native nouns and verbs, but newly assembled by us
+
+These are attested in the field but become synthetic when we place them together:
+
+- relation;
+- resemblance / similarity;
+- identity;
+- borrowed / borrowing;
+- system;
+- evidence / proof;
+- interpretation;
+- original / derivative / composite;
+- meaning / use;
+- order / arrangement.
+
+A sentence composed only from these words can remain period-near, but the sentence itself is still ours.
+
+### Level C — unavoidable editorial connectors
+
+Even a maximal actor-language pitch needs neutral modern connective prose such as:
+
+- `The piece follows...`;
+- `Lovejoy reads / rejects / later publishes...`;
+- `These disputes can be read together...`;
+- `The article asks...`.
+
+These are not historical categories; they simply tell the editor what the proposed essay does.
+
+### Level D — explicit analytic payoff
+
+Terms such as `historical inference`, `transregional`, `historical warrant`, `provenance/configuration`, `relation-type discrimination`, and `disciplinary re-description` should appear only after a grammatical marker such as `I argue`, `I read`, or `the piece reconstructs`.
+
+### Maximum-safe actor-language pitch core
+
+A near-maximal version can therefore say:
+
+`The piece follows Lovejoy through a series of disputes recorded in a notebook labelled “Sankhya + Buddhism.” Warren called the relation of desire to attachment one of “identity”; Lovejoy wrote, “But not so if we are to follow the present text.” Senart described the twelve-nidāna formula as an “ordre plus ou moins accidentel”; Lovejoy later allowed that its terms, “perhaps even the ideas,” might be borrowed while insisting that their “arrangement and application” could remain “original and characteristic.” His 1898 article likewise preferred an “examination of its use” to etymological argument and described some evidence as “relevant but not necessarily conclusive.” I read these linked disputes as a history of how much different kinds of comparison and textual evidence were allowed to establish.`
+
+This is about as far as actor-language can be pushed without sacrificing a recognizable pitch. The final sentence is deliberately marked as our reading.
+
+## What a literally 100% actor-language pitch cannot do
+
+If every substantive term had to be directly attested and no modern analytical relation could be supplied, the pitch would become a collage of quotations. It could show that Warren said `identity`, Senart said `ordre plus ou moins accidentel`, and Lovejoy said `borrowed`, `arrangement and application`, and `use`; it could not itself establish why those propositions belong to one historical problem. That act of relation is necessarily ours.
+
+This is methodologically appropriate for this project: the essay's own argument is that resemblance does not establish identity. We should therefore distinguish rigorously between **actor wording**, **our act of juxtaposition**, and **our historical interpretation of that juxtaposition**.
+
 ## Terms to avoid presenting as period-native
 
 - provenance/configuration
