@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记 PDF 第 1—18 页已完成逐页全文翻译，其余页继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记 PDF 第 1—36 页已完成逐页全文翻译，其余页继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记 PDF 第 1—18 页已完成中文全文翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记 PDF 第 1—36 页已完成中文全文翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -774,6 +774,13 @@ Now this certainly seems at first sight like F. philosophical agnosticism of a p
 for F. removal of A. suffering.
 (Note the passages in Maj. Nik. further.)
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+……为了消除那种痛苦。
+［另须注意《中部》中的相关段落。］
+
 #### 004 · PDF 020 · Manuscript / 手稿 71
 
 **Type / 类型:** notes  
@@ -789,6 +796,17 @@ The Nidānas (Paticcasamuppādo)
 F. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2.
 
 ‘Once upon a time F. Blessed One was dwelling at Sāvatthi in Jetavana monastery in F. park of Anāthapiṇḍika. There the Blessed One addressed F. bhikkhus: “Bhikkhus,” said he. “Lord,” said F. bhikkhus to F. Blessed One in reply. And F. Blessed One spoke as follows: “O bhikkhus, I will cause you to understand dependent origination; give ear to it & heed well what I shall say.” “So be it, Lord,” replied F. bhikkhus. And F. Blessed One spoke as follows: “What, O F., is dep’d’t Origination? From ignorance as a cause arises Conformations, from Conformations …”’
+
+**Chinese translation / 中文译文**
+
+十二因缘。
+
+要理解佛教，就必须先理解它与三法印相关的一般哲学立场，再理解这种一般观念如何结合当时流行的印度思想，在缘起论中得到具体而精细的展开。因为，暂且不论伦理体系，佛教教义中一切根本性的内容，都包含在这十二个概念及其极其复杂的相互关系之中。［欧洲作者很少准确指出这种复杂程度?］眼下所能期待的，至多是通过细致分析与理解相关文本，在一定程度上接近这种认识。
+
+十二因缘，缘起（Paṭiccasamuppādo）。
+关于完整序列，见《相应部》第 12 篇第 2 经，《因缘相应》。
+
+「有一次，世尊住在舍卫城祇树给孤独园。世尊在那里对诸比丘说：『诸比丘。』诸比丘回答世尊：『世尊。』于是世尊说：『诸比丘，我将让你们理解缘起；你们应当倾听，并仔细留意我要讲的话。』诸比丘回答：『好的，世尊。』世尊于是说道：『诸比丘，什么是缘起？以无明为因，生起诸行；由诸行……』」
 
 **Uncertain readings / 疑难读法:** left-page sentence on how rarely the interrelation has been stated; exact subtitle/reference under The Nidānas; a few words in quoted introduction
 
@@ -812,6 +830,21 @@ Bhava (Existence). ‘What, O F., is existence? Tre are for me 3 existences: des
 
 F. is to say, existence in F. Kāmaloka (F. 11 Kāmalokas = 6 devalokas, F. world of men, F. world of F. Pretas, F. world of animals, & Hell) or in F. Rūpaloka (strictly F. rūpa-brahma-lokas) & F. Arūpaloka (arūpa-brahmaloka). In other words, bhava = F. existence of a being in general, which was specifically taken [in] F. form of Jāti & Jarāmaraṇa. Bhavo, tr. by Childers, ‘continued existence,’ wh. is precisely what it means in F. paticca-samuppāda formula.
 
+**Chinese translation / 中文译文**
+
+［接缘起序列］
+
+……生起识，等等。
+「诸比丘，什么是老与死？」
+
+「诸比丘，什么是生？在众生的聚合中，任何众生的出生、繁殖、降生、再生、诸蕴的生起、［十二］处的显现［?］，诸比丘，这就是所谓的生。」
+
+十二因缘，续。
+
+有（Bhava）。「诸比丘，什么是有？依我所说，有三种存在：欲有（kāma-bhava）、色有（rūpa-bhava）、无色有（arūpa-bhava）。这就是所谓的有。」《因缘相应》。
+
+也就是说，存在于欲界。十一欲界包括六个天界、人间、饿鬼界、畜生界与地狱。或者存在于色界，严格说是色梵天界，以及无色界，也就是无色梵天界。换句话说，bhava 一般指众生的存在，而这种存在具体呈现为生与老死。Childers 将 bhavo 译为「持续的存在」，这正是它在缘起公式中的含义。
+
 **Uncertain readings / 疑难读法:** one phrase in definition of birth; several transliterated cosmological terms
 
 #### 004 · PDF 022 · Manuscript / 手稿 75
@@ -828,6 +861,16 @@ Upādāna (Attachment). ‘What, O F., is attachment? Tre are four attachments: 
 [On specification of Alabaster, Wheel of F. Law, p. 238, & esp. for conn. w. subj. of khandas, Childers, art. upādāna and khandas.]
 
 Warren, ‘Buddh. in Transl.,’ regards relation of attachment to desire as A. of ‘identity.’ But not so if we are to follow F. present text. Tre are 4 attachments as above, & six widely diff. sorts of desire as follg. Buddhaghosa (V. p. 187) gives F. six sorts of desire, quoting F. Vibhaṅga. He goes on to show F. each of F. 4 is triple, according …
+
+**Chinese translation / 中文译文**
+
+十二因缘，续。
+
+取、执取（Upādāna）。「诸比丘，什么是执取？有四种执取：对感官或欲望的执取、对异端见解的执取、对仪式的执取、对个体自我的执取（attavāda）。这就是所谓的执取。」《因缘相应》。
+
+［关于 Alabaster 的具体分类，见《法轮》第 238 页；尤其关于与诸蕴问题的联系，见 Childers 词典 upādāna 和 khandhas 条。］
+
+Warren 在《佛教译文集》中把执取与欲望的关系理解为「同一」。但如果依照当前文本，情况并非如此。如上所述，执取有四类，而欲望则有六种差别很大的形式。Buddhaghosa［见第 187 页］引《分别论》，列出六类欲望。他接着说明，每一类又可以分为三种，依据……
 
 **Uncertain readings / 疑难读法:** bibliographic bracket after definition; one source/title abbreviation
 
@@ -846,6 +889,16 @@ Nidānas cont.
 
 Desire (Taṇhā). ‘What, O F., is desire? Tre are six sorts [kāyo?] of desire: desire of sight, desire of sound, smell, taste, touch, dhamma [?]. A. is what is meant by desire.’ (Nid. Saṁy.) F. desire, in short, of F. six external āyatanas, wh. corr. to F. six internal āyatanas, or organs of sense. Cf. fr. F. Sāṅkhya.
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+……欲望如何表现。如果它表现为对于视野中某种色相对象的感官关系之渴求，就叫作对感官享乐的欲望；如果它表现为相信存在将持续的异端见解，并认为其对象稳定而恒久，就叫作对持续存在的欲望；如果它表现为相信存在终将毁灭的异端见解，并认为其对象将被消灭而消失，就叫作对短暂存在的欲望。这样一来，共有十八种欲望。
+
+十二因缘，续。
+
+爱、渴爱（Taṇhā）。「诸比丘，什么是欲望？有六类［kāyo?］欲望：对于色、声、香、味、触以及法［?］的欲望。这就是所谓的欲望。」《因缘相应》。简而言之，就是对六种外处的欲望，它们对应于六种内处，即感觉器官。另参见数论。
+
 **Uncertain readings / 疑难读法:** exact wording of first object of desire; final dhamma term
 
 #### 004 · PDF 024 · Manuscript / 手稿 79
@@ -861,6 +914,14 @@ Sensation. ‘What, O F., is sensation? Sensation A. springs from eye-contact, s
 
 V. p. 174.
 
+**Chinese translation / 中文译文**
+
+十二因缘，续。
+
+受、感觉。「诸比丘，什么是感觉？由眼触生起的感觉、由耳触生起的感觉、由鼻触生起的感觉、由舌触生起的感觉、由身触生起的感觉、由意触生起的感觉。这就是所谓的感觉。」《因缘相应》。
+
+另见第 174 页。
+
 #### 004 · PDF 025 · Manuscript / 手稿 81
 
 **Type / 类型:** notes  
@@ -871,6 +932,12 @@ V. p. 174.
 Nidānas cont.
 
 Contact. ‘What, O F., is contact? Tre are, O F., 6 kinds of contact: contact of eye, ear, nose, tongue, body, mind. A. is what is meant by contact.’ (Nid.-Saṁy.)
+
+**Chinese translation / 中文译文**
+
+十二因缘，续。
+
+触。「诸比丘，什么是接触？诸比丘，有六种接触：眼、耳、鼻、舌、身、意的接触。这就是所谓的接触。」《因缘相应》。
 
 #### 004 · PDF 026 · Manuscript / 手稿 83
 
@@ -884,6 +951,14 @@ Nidānas cont.
 Six Seats of Sensation. ‘What, O F., are F. 6 seats of sensation? Tre are eye, ear, nose, tongue, body, mind. A. is what is meant by F. 6 seats of sensation.’ (Nid. Saṁy.)
 
 F. āyatana = dwelling-place, abode, receptacle, ‘cause’ [?].
+
+**Chinese translation / 中文译文**
+
+十二因缘，续。
+
+六种感觉处。「诸比丘，什么是六种感觉处？它们是眼、耳、鼻、舌、身、意。这就是所谓的六种感觉处。」《因缘相应》。
+
+āyatana＝居处、住所、容器，或「原因」［?］。
 
 **Uncertain readings / 疑难读法:** final gloss after āyatana
 
@@ -911,6 +986,25 @@ Nāmarūpa (Name & Form). ‘What, O F., is name & form? … Sensation, percepti
 
 Buddhaghosa on it, Warren p. 58; and name & form together seem to be the subtle & the gross components wh. go to make up F. bodily indiv. organism. But F. further [reference uncertain], cf. Oldenberg, p. 228, points. Name & form appear to equal in F. denotation F. indiv. organism.
 
+**Chinese translation / 中文译文**
+
+第 3 至第 8 支因缘之间的关系，可以表示如下：
+
+3. 识：眼识、耳识、鼻识、舌识、身识、意识。
+4. 名色（Nāmarūpa）。
+5. 感觉器官：眼、耳、鼻、舌、身、意。
+6. 接触：眼触、耳触、鼻触、舌触、身触、意触。
+7. 感觉：对色、声、香、味、触及思想或知觉［?］的感觉。
+8. 欲望：对色、声、香、味、触及思想或知觉［?］的欲望。
+
+十二因缘，续。
+
+名色。「诸比丘，什么是名与色？……感觉、知觉、思［cetanā?］、接触、注意；这就是所谓的名。另外还有四大，以及由四大各自生起的形态」，等等。《因缘相应》。
+
+［四大是地、水、火、风；它们共同构成身体。参见《相应部》Ⅻ，62；Warren 第 158 页。］
+
+Buddhaghosa 对此的解释见 Warren 第 58 页。名与色合起来，似乎就是构成个别身体有机体的精微与粗重成分。但还需参见［文献不确定］以及 Oldenberg 第 228 页。名与色在指称上似乎等同于个别有机体……
+
 **Uncertain readings / 疑难读法:** diagram final category thought or perception; cetanā/consciousness wording in nāmarūpa definition; references in lower-right commentary
 
 #### 004 · PDF 028 · Manuscript / 手稿 87
@@ -932,6 +1026,20 @@ Mahānidāna-Sutta, tr. Oldenberg, p. 228: ‘If consciousness, Ānanda, did not
 
 Says Oldenberg: ‘F. proposition “from consciousness comes name & corp. form” is envisaged as to F. moment of conception.’ V. or Rh. Davids on consciousness, v. p. 94.
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+……以及由某一组诸蕴暂时组合而成的个体性；也就是说，是出生之前与最终解体之间的个体。随着再生，又会出现新的名色。［《弥兰陀问经》Ⅱ，2 的出处不确定。］同一出处也把名解释为人的非物质成分，把色解释为物质成分。
+
+十二因缘，续。
+
+识［?］。「诸比丘，什么是识？有六种识：眼识、耳识、鼻识、舌识、身识、意识。这就是所谓的识。」《因缘相应》。
+
+《大因缘经》，Oldenberg 译，第 228 页：「阿难，如果识不进入母胎，名与身体形态还会在母胎中生起吗？」「不会，世尊。」……「如果识又离开那个［胚胎?］、男孩或女孩，名与身体形态还会成长、增加、兴盛吗？」「不会，世尊。」
+
+Oldenberg 说：「『由识而有名与身体形态』这一命题所指的，是受孕时刻。」关于识，另见 Rhys Davids，第 94 页。
+
 **Uncertain readings / 疑难读法:** left-page opening phrase and MP reference; word describing loss of consciousness from embryo
 
 #### 004 · PDF 029 · Manuscript / 手稿 89
@@ -948,6 +1056,16 @@ Nidānas cont.
 Conformations. ‘What, O F., are conformations? Tre are for me, O F., 3 conformations: body-conformations, speech-conformations, & thought-conformations. A. is what is meant by conformations.’ (Nid. Saṁyutta.)
 
 Saṅkhāras = karma; & why they are placed second is clear enough. If tre is to be existence at all, & F. is due to Avijjā, F. ‘predispositions’ give F. primary determination to F. course of F. existence, & in a sense carry existence over into F. new life. Cf. Saṅkhāruppatti Sutta in Maj. Nikāya, tr. Oldenberg in Buddha [?], p. 34: ‘It happens A. a monk endowed w. faith, righteousness, knowledge of F. doctrine, resignation, wisdom, communes thus w. himself: How should I, when my body is dissolved in death, attain …’
+
+**Chinese translation / 中文译文**
+
+Childers，第 576 页及以下：「意识」不足以表达 viññāṇa 的全部含义。在我看来，它有时可以更恰当地译为「思想」或「心」，尤其因为 citta 和 mano 都在一定程度上与它同义。它主要由思想或不同类型的心理印象组成；不过，个体的思维部分［该处词组不确定］是五蕴中最重要的一项。如果说哪一蕴构成了个体，那就是这一蕴。佛教著作认为，当 viññāṇa 被摧毁时，整个存在者也随之消亡。在四种心理性蕴中，《法句经》首偈强烈强调识的优先性：「诸心理机能由心主导，生于心。」但关于《法句经》首偈的另一种解释，可参见 Childers 词典 dhamma 条，以及 Müller 的《法句经》。
+
+十二因缘，续。
+
+行、构成作用。「诸比丘，什么是诸行？诸比丘，依我所说有三种行：身行、语行、意行。这就是所谓的诸行。」《因缘相应》。
+
+Saṅkhāras＝业；它们为什么被列在第二项，理由相当清楚。如果存在要发生，而它又由无明引起，那么这些「倾向」就会对存在的进程作出最初的规定，并在某种意义上把存在延续到新的一生。参见《中部·行生经》，Oldenberg 译，《佛陀》［?］第 34 页：「某位比丘具备信心、正直、对教义的理解、舍离与智慧，他这样自我思量：当我的身体因死亡而解体时，我怎样才能获得……」
 
 **Uncertain readings / 疑难读法:** several phrases in Childers quotation/commentary; Oldenberg/Buddha bibliographic title/page
 
@@ -970,6 +1088,20 @@ Ignorance. ‘What, O F., is ignorance? Whatever is lack of knowledge of sorrow,
 
 Most signif. passages in F. [Āriya?] are: 1. [Sutta title uncertain] (Mahāvagga 12, 7): ‘This ignorance is F. great folly by wh. existence has been traversed so long; but those beings who resort to knowledge do not go to rebirth.’ Upāli? ‘Not seeing F. 4 sacred truths as they are, I have wandered a long path fr. one birth to another. Now I have seen them … F. root of suffering is destroyed; henceforth tre …’
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……在有权势的王族中再生？他如此思考、反复沉思并怀抱这一愿望；他在内心中培养的这些行、内在条件［?］，引导他在这样的存在状态中再生。他的修行［?］就是通向这种再生的道路……」
+
+「saṅkhāra-karma 一词只是一种抽象；它被说成是具体存在，却没有心。」Hardy，第 386 页。［读法不确定。］
+
+十二因缘，续。
+
+无明。「诸比丘，什么是无明？凡是对于苦、苦的原因、苦的消除，以及消除苦的方法缺乏认识，这就是所谓的无明。」《因缘相应》。［另参见 Warren 相关条目。］
+
+最重要的段落有：1.［经名不确定］，《大品》12，7：「这种无明是巨大的愚昧，正因如此，存在者才长期流转；但依止知识的众生不会再进入新生。」Upāli［?］：「由于没有如实看见四圣谛，我在一次次出生之间走过漫长道路。现在我已经看见它们……苦的根源已经被摧毁；从此……」
+
 **Uncertain readings / 疑难读法:** quotation on saṅkhāras and Hardy sentence; title/source of first ignorance passage; name before four-truths quotation
 
 #### 004 · PDF 031 · Manuscript / 手稿 93
@@ -989,6 +1121,18 @@ Putting avijjā at F. head of series is justified by Saṁy. Nik. XX I. 3 [?], w
 
 Paticca-samuppāda again. Relation to F. Truths. ‘We may add A. F. relations of F. Paticca, whose course is not but obscure [uncertain passage] between F. noble ariya-saccas & F. system of F. 12 Nidānas, wh. is far in one instance (Aṅguttara-Nikāya? Mahā-Nipāta? [reference uncertain]) as to directly replace, in giving F. tenet of F. 4 ariya-saccas, F. [usual?] of F. Nidānas in direct & reverse order respectively.’
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……不再有再生。」《正见经》对无明的界定，与上述《因缘相应》一致；Buddhaghosa 也是如此，见 Warren 第 178 页［?］。
+
+参见 Oldenberg，第 290 页：「无论巴利语圣典在哪里讨论这个问题，答案总是一样。无明既不是一种宇宙性的力量，也不是某种神秘的原罪；它处在现实的、可把握的现实范围内：所谓无明，就是对四圣谛的无知。」
+
+把无明置于整个序列开头，可以从《相应部》ⅩⅩ，Ⅰ，3［?］得到支持。那里记载：「正如房屋的椽木都朝向屋顶，并汇聚于屋顶，一旦屋顶被拆除，所有椽木也会随之拆除；同样，一切恶的性质［＝烦恼?］都以无明为根，并汇聚于无明；一旦无明被消除，它们也会全部消除。」
+
+再论缘起及其与四圣谛的关系。「我们还可以补充说，缘起与圣谛之间的关系［中间一段不确定］，以及十二因缘体系，在至少一处［《增支部》?《大集》?，出处不确定］，甚至直接取代通常的表述：在阐述四圣谛时，分别按顺序与逆序列出诸因缘。」
+
 **Uncertain readings / 疑难读法:** Warren/Buddhaghosa page reference; Saṁyutta reference; most of short paragraph Relation to F. Truths
 
 #### 004 · PDF 032 · Manuscript / 手稿 95
@@ -1003,6 +1147,14 @@ Paticca-samuppāda. Various versions given by author F. MP (II, 32) thus: ‘Whe
 On F. first 3 of these, Rh. Davids says: ‘It is not clear fr. F. terse phraseology of F. passage whether F. form (e.g. visible object) is to be a subjective stage preliminary to F. “phasso,” or whether it is inclusive of it.’ (Cf. Dhamma Saṅgaṇi 584, 599, 620.) I am inclined to think it is F. former. But A. latter [reading uncertain] might be rendered, ‘tre arises consciousness (of existence) wh. is dependent on F. eye.’
 
 What appears to me F. [point] is A. form & consciousness are parallel since [?], whose order may be inverted w’out making any difference, while F. subsequent links down to taṇhā follow in fixed sequence. MP gives same order in II, 32, but still more abridged in F. he makes karma follow directly upon taṇhā, v. p. 167. It seems clear fr. tre A. 3–9 form a single indivisible group, while 1–2 may be regarded separately, & 10–12 are simply 3–9 looked at fr. another point of view.
+
+**Chinese translation / 中文译文**
+
+缘起。《弥兰陀问经》Ⅱ，32 给出的不同版本如下：「有感觉器官，例如眼，又有色相时，就生起眼识；有眼识，就生起触；有眼触，就生起受；有受，就生起爱；有爱，就生起取；有取，就生起有；有有，就生起生、老，等等。」
+
+关于前面三项，Rhys Davids 说：「由于原文措辞简略，尚不清楚色相，例如可见对象，是先于 phasso［触］的主观阶段，还是已经包括触。」参见《法集论》584、599、620。我倾向于认为是前一种解释。不过，后一种［读法不确定］也可以译作：「生起依赖于眼的［存在］意识。」
+
+在我看来，关键似乎在于：色与识是平行的［?］，它们的次序可以互换而不会造成差别；而从其后的环节直到 taṇhā［爱］，则必须遵循固定顺序。《弥兰陀问经》Ⅱ，32 采用相同次序，但另一处更加简略，直接让业跟在爱之后，见第 167 页。因此似乎很清楚：第 3—9 项构成不可分割的一组，第 1—2 项可以单独考虑，而第 10—12 项只是从另一个角度重新观察第 3—9 项。
 
 **Uncertain readings / 疑难读法:** Rhys Davids quotation syntax around phasso; one analytical sentence about form/consciousness
 
@@ -1019,6 +1171,14 @@ When false notions [?] — desire for agreeable & dislike of disagreeable F. pas
 
 Upādāna, Relation to Karma. May MP be called F. causal of F. fact of continued existence, & karma F. cause of F. manner of continued existence? F. Hardy, p. 394.
 
+**Chinese translation / 中文译文**
+
+无明。参见涅槃教义。
+
+当错误观念［?］消失时，对令人愉快之物的欲望和对不愉快之物的厌恶也会消失；随之停止的是行动；随着行动停止，出生也会停止；随着出生停止，痛苦便彻底消除；这种绝对的消除，就是最终的幸福。
+
+执取（Upādāna）与业的关系。是否可以说：［MP?］是持续存在这一事实的原因，而业则是持续存在采取何种方式的原因？Hardy，第 394 页。
+
 **Uncertain readings / 疑难读法:** opening phrase after heading Ignorance; exact grammar of MP/karma question
 
 #### 004 · PDF 034 · Manuscript / 手稿 99
@@ -1031,6 +1191,12 @@ Upādāna, Relation to Karma. May MP be called F. causal of F. fact of continued
 Khandhas
 
 Childers: ‘Tre are 5 khandhas or elements of being: rūpakkhandha, vedanā, saññā, saṅkhāra, viññāṇa,’ or Form, Sensation, Perception, Determination, Consciousness. Khandha in F. comp. prob. means collection or aggregate, for rūpakkhandha, or F. physical body, is an assemblage of 28 elements & properties, & viññāṇakkhandha includes [?] 89 divisions, & saṅkhāra 55. F. 5 khandhas embrace all F. essential properties of every sentient being; some beings possess them less completely than others, & F. inhabitants of F. four arūpa-brahmalokas do not possess F. first khandha (rūpa) at all. When a man dies, F. khandhas of wh. he is constituted perish, but …
+
+**Chinese translation / 中文译文**
+
+诸蕴（Khandhas）。
+
+Childers：「存在有五种蕴或要素：色蕴（rūpakkhandha）、受、想、行、识」，也就是形态、感觉、知觉、意志规定与意识。在这个复合词中，khandha 可能意味着集合或聚合；因为色蕴，也就是身体，由 28 种要素及属性组成；识蕴包括［?］89 个类别；行蕴包括 55 个类别。五蕴囊括了一切有情众生的根本属性。有些存在者对这些属性的具备不如其他存在者完整；四无色梵天界的众生甚至完全不具有第一蕴，也就是色蕴。当一个人死亡时，构成他的诸蕴随之消亡，但是……
 
 **Uncertain readings / 疑难读法:** number/word before 89 divisions; minor Childers wording
 
@@ -1049,6 +1215,16 @@ Vedanā, saññā & saṅkhāras are collectively termed dhamma, ‘faculties’
 
 Hopkins: ‘Metaphysically F. human ego to F. Bist is only a collective of five skandhas (form, sensation, ideas, faculties of mind, & reason). A. vanishes when F. collective is dispersed, but F. factor of F. collective reforms again, & F. new ego is F. result of F. reformation.’
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+……在其业力作用下，一组新的蕴立刻生起，另一个世界中出现新的存在者。虽然它具有不同的蕴和另外一种形态，但实际上仍与刚刚死去的人保持同一，因为业是同一个。因此，业就是维持众生在轮回过程中经历无数变化时仍保持同一性的环节。尽管诸蕴会在死亡时消失，有组织的存在之链却不会中断，见［出处不确定］。达到涅槃之后，最后的存在被摧毁，由业传递的再生潜能终止；阿罗汉的死亡不仅意味着诸蕴消失，也意味着他的存在终止。
+
+受、想与行合称 dhamma，即「诸机能」，见《法句经》90［?］；另参见第 67 页。
+
+Hopkins：「从形而上学角度说，在佛教看来，人的自我仅仅是五蕴的集合，即色、受、思想、心的能力与理性。当这一集合解体时，自我也消失；但集合的诸因素再次形成组合，而新的自我正是这种重新形成的结果。」
+
 **Uncertain readings / 疑难读法:** reference after organized existence; dhamma page/reference
 
 #### 004 · PDF 036 · Manuscript / 手稿 103
@@ -1061,6 +1237,12 @@ Hopkins: ‘Metaphysically F. human ego to F. Bist is only a collective of five 
 Upādāna: Saṁy. Nik. 38/12 [?].
 
 ‘There are 4 upādānas: kāmup., diṭṭhup., sīlabbatup., attavādup. There is a way, there is a course for getting rid of these up’s. That course is the noble 8-fold path, right that etc.’
+
+**Chinese translation / 中文译文**
+
+执取（Upādāna）：《相应部》38／12［?］。
+
+「有四种执取：欲取、见取、戒禁取、我语取。有一条道路，有一种方法，可以摆脱这些执取。那条道路就是八正道，即正［见等］。」
 
 **Uncertain readings / 疑难读法:** Saṁyutta Nikāya citation; final abbreviated phrase
 
