@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分目前覆盖研究框架、证据标准、人物机构网络、术语和材料索引；逐段中文全文翻译仍待逐页人工完成。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记 PDF 第 1—18 页已完成逐页全文翻译，其余页继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；逐段中文全文译文尚待完成。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记 PDF 第 1—18 页已完成中文全文翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -204,6 +204,13 @@ Sankhya + Buddhism
 
 Harvard Cooperative Society.
 
+**Chinese translation / 中文译文**
+
+A. O. 洛夫乔伊
+数论与佛教
+
+哈佛合作社。
+
 #### 004 · PDF 002 · Manuscript / 手稿 未标页 / unnumbered
 
 **Type / 类型:** ownership/signature  
@@ -212,6 +219,10 @@ Harvard Cooperative Society.
 **English transcription / 英文转录**
 
 A. O. Lovejoy.
+
+**Chinese translation / 中文译文**
+
+A. O. 洛夫乔伊。
 
 #### 004 · PDF 003 · Manuscript / 手稿 5
 
@@ -225,6 +236,14 @@ Index.
 Anicca, p. 49–52,
 Gotama, p. 131, 169,
 Agnosticism, p. 21.
+
+**Chinese translation / 中文译文**
+
+索引。
+
+无常（Anicca），第 49—52 页；
+乔达摩（Gotama），第 131、169 页；
+不可知论，第 21 页。
 
 #### 004 · PDF 004 · Manuscript / 手稿 8
 
@@ -240,6 +259,16 @@ Garbe p. 150
 “All the Hindu systems manifest a genuine philosophical temper in that they recognize the necessity of giving an account of the sources of knowledge acknowledged by them. The usual wd for a source of kn. is pramana; etymologically = that whereby anything is measured off, accurately established, discovered as real knowledge (pramiti).
 
 The systems differ in the number of pramanas; but in the discussion of that one wh. is most important, and accepted by all schools as the distinctively philosophical method of proof, viz. the syllogism, the text-book”
+
+**Chinese translation / 中文译文**
+
+数论的方法
+Garbe，第 150 页。
+［关于书目问题等，参见另一本笔记。］
+
+「所有印度教哲学体系都展现出真正的哲学精神，因为它们承认有必要说明自身认可的知识来源。表示知识来源的常用词是 pramāṇa；从词源看，其含义是：借以衡量、准确确立，并将某物发现为真实知识（pramiti）的东西。
+
+各体系所承认的 pramāṇa 数量并不相同；但是，在讨论其中最重要、并被所有学派接受为具有鲜明哲学特征的证明方法，也就是三段论时，正统体系的教科书……」
 
 **Uncertain readings / 疑难读法:** abbreviated bibliographic parenthesis; some Sanskrit diacritics not explicit in manuscript
 
@@ -261,6 +290,19 @@ Our system recognizes 3 sources of knowledge:
 
 1. Perception. Defined, Karika 5 as ‘apprehension of indiv. objects.’ First F. [?] says in Sutra I, 89 as ‘F. function of that wh., on contact (w. a thing) represents the form of that thing.’”
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……表现出相当完全的一致。在这一点上，有关术语、定义和例子几乎处处相同。这至少表明：正理—胜论学派发展出来的逻辑成果，已经被其他学派接受为既定的逻辑方法。因此，当我们在某些数论著作中发现类似的三段论理论时，例如 S.-t.-k. 和 S.［难辨］Bhasya，就必须承认其中存在外来的成分；不过，欧洲的数论阐释者只须在这个事实影响体系方法的范围内加以注意。
+
+我们的体系承认三种知识来源：
+1. 知觉（pratyaksha、drishta）；
+2. 三段论或推论（anumana）；
+3. 某些可靠的证言（aptavacana、sabda）。
+
+1. 知觉。《颂》第 5 节将其界定为『对个别对象的把握』。《经》Ⅰ，89 首先［?］将其解释为：『某种东西在接触一物时，呈现该物形式的功能。』」
+
 **Uncertain readings / 疑难读法:** one Sankhya text title in parenthesis; source label before Sutra I, 89
 
 #### 004 · PDF 006 · Manuscript / 手稿 21
@@ -277,6 +319,15 @@ Sabbasava Sutta of F. Maj. Nik. [?]. First of F. several is F. “considering of
 
 “Unwisely does he consider thus: Have I existed during F. ages of F. past, or not? What was I during F. ages of F. past? How was I? Having been what, what did I become during F. ages of F. past? Shall I exist in F. future, or shall I not? etc. [The] questions above are repeated for F. future. Or he debates thus w. himself as to F. present: Do I really exist, or do I not? What am I? How am I? Whence did this being come? Whither will it go? In him then unwisely considering there springs up one or another”
 
+**Chinese translation / 中文译文**
+
+佛教的不可知论
+［标题在手稿中使用缩写，读法未完全确定。］
+
+《中部》的《一切漏经》［?］。诸项中的第一项，是「思考本不应思考的事情」。
+
+「他不明智地如此思量：在过去诸时代里，我存在过，还是没有存在过？在过去诸时代里，我是什么？我以何种方式存在？在过去诸时代里，我先是什么，后来又变成什么？在未来我将存在，还是不会存在？等等。上述问题又针对未来重复提出。或者，他就现在与自己争辩：我真的存在，还是并不存在？我是什么？我怎样存在？这个存在者从何而来？又将去向何处？当他这样不明智地思考时，便会生起某一种……」
+
 **Uncertain readings / 疑难读法:** heading/source line; abbreviated reference to Majjhima Nikaya
 
 #### 004 · PDF 007 · Manuscript / 手稿 23
@@ -291,6 +342,14 @@ Sabbasava Sutta of F. Maj. Nik. [?]. First of F. several is F. “considering of
 “of F. 6 heretical notions: [uncertain passage on the views ‘I have a self,’ ‘I have no self,’ and the permanence of self]. … ‘this self of mine wh. is permanent, lasting, eternal, not subject to change, enduring’ … This F. walker in heresy, F. jungle of heresy, F. wilderness of heresy.”
 
 On F. certain passages of F. Sutta Nipata, esp. F. Atthaka-vagga, the seeker in possession of an auto-philos. sort wh. cannot be accepted for on the grounds. Though it might be regarded as merely satirical expression of contempt for F. false & fruitless reasoning of F. heretics, & as inquisitiveness agt disputation for F. sake of disputation, wh., by cultivating intellectual pride, will obviously increase rather than diminish attachment to existence. But some sentences are more extreme in tone; e.g. (S.N. 911) “A Brahmana is no follower of heretical doctrines, he is not a friend of knowledge (ñana [?]), & having destroyed acquired opinions wh. have arisen, he is indifferent to learning while others acquire it.” Again, “Not by opinion, not by tradition, not by knowledge, do F. wise call any one a Muni.” But these must be taken in conjunction w. other passages, e.g. w. other passage below in F. [next page].
+
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……六种异端见解之一：［关于『我有自我』『我没有自我』以及自我是否恒常的一段，读法不确定。］……『我的这个自我是持久的、恒常的、永恒的、不受变化支配的、持续存在的』……这就是走入异端、异端的丛林、异端的荒野。」
+
+关于《经集》中的某些段落，尤其是《八颂品》：求道者持有某种自立的哲学式见解［该处句意不清］。这些话也许可以理解为对异端错误且徒劳的推理所作的讽刺，或者是针对为争论而争论的诘难；因为这类争辩会培养智识上的骄傲，显然只会增加，而非减少，对存在的执取。但是，有些句子的语气更加极端。例如《经集》911：「婆罗门不是异端教义的追随者，也不是知识的朋友（ñana［?］）；在摧毁已经产生的后得见解之后，当别人追求学问时，他对学问无动于衷。」又说：「智者并不依据见解、传统或知识，称某人为牟尼。」不过，这些话必须结合其他段落一同理解，例如［下一页所引］另一段文字。
 
 **Uncertain readings / 疑难读法:** opening quotation on six heretical notions; one Pali/Sanskrit term after ‘knowledge’
 
@@ -307,6 +366,14 @@ Buddh. indiff. to theoretical kn.
 
 “There are more leaves on F. tree than in my hand, so do I know many more truths than those F. I have revealed to you. Why have I revealed some & not others? Bec. F. ones I have not revealed cannot be of profit to you, since they will not help you the more to turn away fr. earthly things, to suppress desire, to purify the intelligence, etc.”
 
+**Chinese translation / 中文译文**
+
+佛教对理论性知识的淡漠。
+
+［来源难辨］，第 20 页及以下。乔达摩与尸摄林树叶。
+
+「树上的叶子比我手里的叶子更多；同样，我所知道的真理，也远多于我向你们揭示的真理。为什么我揭示其中一部分，而不揭示其他部分？因为那些没有揭示的真理对你们并无益处：它们不会进一步帮助你们远离尘世之物、压制欲望、净化心智，等等。」
+
 **Uncertain readings / 疑难读法:** bibliographic source before p. 20f
 
 #### 004 · PDF 009 · Manuscript / 手稿 43
@@ -320,6 +387,13 @@ Contents, cont.
 
 7 or priority of doctrine of Sankhya & Buddhism.
 [Reference:] [Brahma-jala?] p. 173, tr. s.v. in yellow note bk.
+
+**Chinese translation / 中文译文**
+
+目录，续。
+
+第 7 项：数论与佛教教义何者在先。
+［参见：］《梵网经》［?］，第 173 页；译文见黄色笔记本相关条目。
 
 **Uncertain readings / 疑难读法:** reference line after topic note
 
@@ -339,6 +413,18 @@ V. Warren p. 150 f. Vis Mag.
 Also [reference] 141.
 
 In MP II, 33, Milinda objects A. a doctrine of absolute flux destroys time itself, — you must have some static units, or else your sequence is a chain without links; in his words: “If that wh. was not, becomes, & as soon as it has begun to become passes again away, then surely being thus cut off at both ends it must be entirely destroyed.” N’s answer
+
+**Chinese translation / 中文译文**
+
+流变。
+
+参见 Warren，第 150 页及以下，《清净道论》。
+
+「正如车轮滚动时，只有轮缘上的一点与地面接触……同样，活着的存在者也只持续一个念头的时间。一旦那个念头终止，就说那个存在者也终止了。」
+
+另参见［文献］第 141 页。
+
+在《弥兰陀问经》Ⅱ，33 中，弥兰陀提出异议：绝对流变的教义会摧毁时间本身，因为必须存在某些静止的单位，否则所谓连续序列就会成为一条没有环节的链条。用他的话说：「如果原本不存在的东西开始存在，而它一开始存在又马上消逝，那么它在两端都被切断，必定完全毁灭。」那先的回答……
 
 **Uncertain readings / 疑难读法:** abbreviated source after Warren; one secondary reference before 141
 
@@ -360,6 +446,20 @@ MP II, 35: “All predispositions arise through a (gradual) becoming.” Illustr
 Maha-Parinibbana-Sutta (vi) [reference]. F. last words of F. Buddha are a reminder of F. first & fundamental of F. 3 characteristics: “And now, F. monks, I take leave of you; all the constituents of being are transitory; work out your salvation with diligence.” F. nothing likely to be preserved scrupulously by tradition; we may therefore regard it as an historical fact that Gotama thus with his last breath emphasized that cardinal doctrine upon which his whole ministry had been based.
 
 2. Pitakas at all events seem to admit A. F. body preserves a permanent identity for a considerable time — c. 21, during a single lifetime while karma continues to hold F. elements to-gether in a single form (rupa). F. extreme doctrine of absolute transitionism is applied only to F. mind; A. object wh. is called mind, intellect, consciousness, keeps up an incessant round by day & night of perishing as one thing
+
+**Chinese translation / 中文译文**
+
+流变。
+
+［接上页］
+
+……只是坚持时间确实如此：它从一个点重新生长，而这个点在形成的过程中同时被切断。换言之，他似乎将时间过程连同其所有难以理解之处，视为一个终极而无法解释的事实。
+
+《弥兰陀问经》Ⅱ，35：「一切习性都通过［逐渐的］生成而生起。」举例：建造房屋、树木生长等。
+
+《大般涅槃经》［第六部分］［文献略］。佛陀最后的话再次提醒人们注意三种特征中的第一项，也是最根本的一项：「诸比丘，如今我向你们告别；一切存在的构成因素都是无常的；应当精勤求取解脱。」［以下语句有省略或不确定处。］这类说法最有可能被传统谨慎保存；因此，我们可以把这一点视为历史事实：乔达摩在临终前仍强调了构成其整个传教活动基础的那项核心教义。
+
+2. 无论如何，三藏似乎承认，身体在相当长的一段时间内维持恒定的同一性，大约持续一生；只要业继续把诸要素维系为同一个形态（rūpa），情况便如此。绝对变化的极端教义仅适用于心：被称为心、智性或意识的对象，日夜不停地作为某一事物消亡……
 
 **Uncertain readings / 疑难读法:** abbreviated source details and several pronouns/abbreviations
 
@@ -388,6 +488,26 @@ Philos. material & contemp. date of Sankhya & Buddhism.
 [Com. Le?], Buddhism, p. 24.
 “It was quite otherwise w. F. Sankhya system. Centuries afterward, when Buddhism had become corrupted, it will appear A. F. Sankh. was allied [illegible] to support F. Vedanta; & as it had often been held by European scholars A. Buddhism was more or less based on F. Sankhya, it will be necessary to consider F. question of the priority. Logically it stands half-way bet. F. Vedanta & Buddhism & was before a poss. stepping-stone to F. Buddhist position. And F. Buddhist themselves acknowledge A. Kapila … lived several”
 
+**Chinese translation / 中文译文**
+
+流变。
+
+［接上页］
+
+「……又作为另一事物生起。」Ⅱ，第 151 页。
+
+《大般涅槃经》Ⅵ，15：「世尊去世时，梵天娑婆主诵出一偈：
+『他们都会，凡是具有生命的存在者都会，舍弃那种复合形态：心理与物质性质的聚合，使他们无论在天上还是地上，都只拥有短暂的个别性。』
+帝释又说：
+『一切众生的诸部分与能力都是无常的；它们的本性是生长与衰败。它们产生，又再度消散；而最好的状态，是它们终于归于寂止之时。』」
+
+佛陀的这些短偈，可能是全部佛教文献中最可靠的部分；有关其死亡的整个叙述也极具可信性和逼真性。
+
+数论与佛教的哲学材料及其年代关系。
+
+［Com. Le?］，《佛教》，第 24 页。
+「数论体系的情况则完全不同。数百年后，当佛教已经发生变化时，可以看到数论与［难辨］结合，用来支持吠檀多；又因为欧洲学者经常认为佛教在不同程度上建立于数论，所以有必要考察何者在先。从逻辑上看，数论处在吠檀多与佛教之间，因此可能是通往佛教立场的一块踏脚石。佛教徒自己也承认，迦毗罗……生活在佛陀之前好几……」
+
 **Uncertain readings / 疑难读法:** source author/title in right-hand paragraph; several abbreviated words
 
 #### 004 · PDF 013 · Manuscript / 手稿 55
@@ -402,6 +522,14 @@ Philos. material & contemp. date of Sankhya & Buddhism.
 “generations bef. F. Buddha. It is, therefore, to say F. Sankhya system also preceded F. Buddhism, or was F. outcome of F. same intellectual movement.
 
 But what we know is A. in F. centuries immed. before & after F. birth of [Christ?] (i.e., some centuries after F. rise of Buddhism) it was F. Sankhya rather than F. Vedantism wh. was F. predominant school; & A. its adherents claimed a still more remote origin for tr. speculations. Mr. Garbe, … if opinion A. F. Sankhya teachers are right & A. F. teaching does indeed go back before F. rise of Buddhism. F. point seems to me, I confess, to be most doubtful. All F. Sankhya texts are much later in date. F. very oldest of them — F. Sankhya Karika of Isvara Krishna — cannot be placed at an earlier period than a full thousand yrs after F. time of Gotama, and although it is quite certain A. F. system, as a system already worked out, was much older than A., — we find it referred to, & in great part adopted, along w. Vedantism in perhaps certainly 2 or 3 centuries before Christ in Manu, & in F. Bhag. Gita, — yet tre is still a great gap to be bridged over. … On weighing all F. evidence it seems to me A. F. only conclusion”
+
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……代。因此，有人认为数论体系也先于佛教，或者说，它们出自同一场思想活动。
+
+但我们确实知道的是：在［基督?］诞生前后几个世纪，也就是佛教兴起之后数百年，占主导地位的学派是数论，而不是吠檀多；数论的追随者还宣称，他们的思想可以追溯到更遥远的时代。Garbe 先生……认为数论教师们的说法正确，其教义确实早于佛教的兴起。坦白说，在我看来，这一点非常可疑。所有数论文本的年代都要晚得多。其中最早的《自在黑数论颂》，也不可能早于乔达摩时代之后整整一千年。诚然，作为一个已经发展完备的体系，数论肯定比现存文本更古老：我们发现它在《摩奴法典》和《薄伽梵歌》中受到提及，且有很大部分与吠檀多一起被吸收；这些作品也许可以上溯至基督之前两三百年。但是，中间仍然存在一个必须跨越的巨大年代断层。……衡量全部证据之后，在我看来，唯一……」
 
 **Uncertain readings / 疑难读法:** one date marker before parenthesis; Garbe/source phrasing
 
@@ -435,6 +563,31 @@ b. It is infinite.
 c. It is both.
 d. It is neither.
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……能够恰当得出的结论是：没有证据表明迦毗罗确实是该学派的创立者；不过，在佛陀时代之前，确实可能存在一些分散的思想者，他们的著作已经无从追寻，却阐发了某些见解，而数论后来正是从类似见解发展而来。」
+
+乔达摩时代的哲学。
+
+六十二种异端见解，见［文献］：《梵网经》＝《长部》第 1 经，Davids，第 3 页。
+
+六十二种理论如下：
+1—4. Sassata-Vāda，常住论。某些人通过禅定与更深入的［?］观察，或通过推理，相信外部世界作为整体，以及个别灵魂，都是永恒的。
+
+5—8. Ekacca-Sassatika，一分常论。某些人以类似方式认为，有些灵魂永恒，有些并不永恒：
+a. 认为上帝永恒，但个别灵魂并不永恒；
+b. 认为诸神永恒，但个别灵魂并不永恒；
+c. 认为某些卓越的神祇永恒，但个别灵魂并不永恒；
+d. 认为身体形态并不永恒，但有一种被称为心、意或意识的微妙存在是永恒的。
+
+9—12. Antānantika，边无边论。某些人争论有限与无限：
+a. 世界有限；
+b. 世界无限；
+c. 世界既有限又无限；
+d. 世界既非有限，也非无限。
+
 **Uncertain readings / 疑难读法:** bibliographic parenthesis before Brahma-jala; phrase describing meditation/reasoning
 
 #### 004 · PDF 015 · Manuscript / 手稿 59
@@ -466,6 +619,30 @@ c. At F. end of subsequent lives.
 
 It is to be noted A. these do not all represent separate systems, but detached doctrines, many of them might or might not be combined w. many of F. others. Buddhism however as a system regards them all as false, and that for a coherent or systematic reason. If it be difficult to summarize
 
+**Chinese translation / 中文译文**
+
+13—16. Amarā-Vikkhepika，诡辩论。某些人对善与恶含糊其词：
+a. 因为害怕一旦表达明确意见，可能因出错而遭受损害；
+b. 因为害怕形成有害的执取；
+c. 因为害怕无法回答善于争辩的人；
+d. 因为迟钝或愚昧。
+
+17—18. Adhicca-Samuppannika，无因生论。某些人认为，事物的起源无需原因也能得到解释。
+
+19—50. ［标题不确定。］某些人相信人的灵魂未来仍然存在：
+a. 支持死后仍有意识地存在的 16 种形式；
+b. 支持死后无意识地存在的 8 种形式；
+c. 支持死后既有意识又无意识地存在的 8 种形式。
+
+51—57. Uccheda-Vāda，断灭论。某些人主张确实存在灵魂，但灵魂终将停止存在：
+a. 在身体死亡之时；
+b. 在下一世结束之时；
+c. 在后续生命结束之时。
+
+58—62. Diṭṭha-Dhamma-Nibbāna-Vāda，现法涅槃论。某些人认为存在灵魂，而且灵魂能够在今世或其所处之处达到完美幸福。a、b、c、d、e，各项另见相关条目。
+
+需要注意的是，这些理论并不都代表独立体系，而是彼此分离的教义，其中许多既可能与其他见解结合，也可能不结合。不过，佛教作为一个体系，认为它们全部都是错误的，而且这种判断有连贯或系统性的理由。如果难以把这些否定性判断概括起来……
+
 **Uncertain readings / 疑难读法:** heading for nos. 19–50 is difficult in Lovejoy’s hand; classification prose is clear
 
 #### 004 · PDF 016 · Manuscript / 手稿 61
@@ -492,6 +669,25 @@ F. Language is as follows:
 
 On F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. F. Sankhya differs fr. F. Vedanta. … F. Sankh. holds A. tre is”
 
+**Chinese translation / 中文译文**
+
+［接上页］
+
+……并据此对佛教在相关问题上的立场作出肯定性陈述，那么似乎可以得到以下结果：
+
+1. 佛教不相信［或者说否认?］世界或个别灵魂永恒。
+2. 佛教拒绝在关于世界是否无限的四种逻辑可能判断中，断定其中任何一种。
+3. 佛教［空白］。
+4. 佛教认为，事物起源不能在没有原因的情况下得到解释［?］。
+5. 佛教既然否认灵魂存在，也就同时否认灵魂将继续存在，以及灵魂将停止存在。
+
+另一项第 4 条＝数论。
+
+原文如下：
+「在这种情况下，诸兄弟，某位沙门或婆罗门沉迷于逻辑和推理。他根据自己的诡辩与论证，提出以下结论：『自我是永恒的；世界［或物质］是永恒的。它们不产生任何东西；自身却像山峰一样不动摇，像牢牢立起的柱子一样稳固。虽然这些活着的存在者不断流转、迁移，从一种存在状态中离开，又在另一种状态中出生，但它们始终永恒。』」
+
+对此，Rhys Davids 说：「这恰恰是数论不同于吠檀多的地方。……数论认为……」
+
 #### 004 · PDF 017 · Manuscript / 手稿 63
 
 **Type / 类型:** notes  
@@ -506,6 +702,16 @@ On F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. F. Sank
 To R.D.’s remark it should be added A., although F. dualism, in F. eternity of Matter & of F. Self is not its most clear doctrine; the central point wh. it makes, F. point whereon its “doctrine of release” is based is F. separateness of F. Self & F. World, — in a word its thorough-going dualism. A more likely reference to a genuinely Sankhyan doctrine is A. in F. Majjhima-Nikaya Sutta 63: “F. soul is one thing & F. body is another” etc.
 
 N.B. F. list of v. heresies cf. F. list of 10 given in Majjh. Nik. Sutt. 6 [?] (Warren p. 174f): (1) A. F. world is
+
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……没有上帝，原初自性（Prakriti）是永恒的，诸灵魂各有自身的个别存在，并以无限数量持续存在。不过，另一方面也会注意到，在佛教对这一特殊异端的描述中，并未使用数论的技术术语 Prakriti；虽然含糊的『世界』一词，在这里也许可以被理解为数论所说的『原初物质』。然后，我们遇到了另一处矛盾。依照数论，正是从『原初物质』和个别灵魂之中，产生了可见世界与活着的存在者。我们这段文字所描述的异端，却认为灵魂和世界……不产生任何东西。我无法理解，为什么这一段可以被视为充分证据，证明数论体系作为整体，在那个时候就已经以数百年后我们所见的形式存在。」
+
+对 Rhys Davids 的评论，还应补充一点：虽然数论的二元论及其对于物质与自我永恒性的判断，并不总是以最清晰的形式出现，但其核心主张，也是其「解脱教义」建立的基础，在于自我与世界彼此分离；简言之，在于彻底的二元论。更可能真正指向数论教义的，是《中部》第 63 经中的说法：「灵魂是一回事，身体是另一回事」，等等。
+
+注意：上述异端清单应与《中部》第 6 经［?］中列出的十项见解比较，见 Warren 第 174 页及以下：第 1 项，世界……
 
 **Uncertain readings / 疑难读法:** a few abbreviations in Rhys Davids discussion and the final Majjhima Nikaya reference
 
@@ -528,6 +734,21 @@ Here again, then, summarizing we find 4 subjects upon wh. Bism is declared fr. a
 Similarly in Maj. Nik. Sutt. 72.
 
 Now this certainly seems at first sight like F. philosophical agnosticism of a purely practical teacher who regards such questions with contempt. But a closer scrutiny of F. passages themselves will show A. this is not a necessary interpretation of F. language employed; & that F. still more general survey of Bist teaching will show A. the refusals to assert are based on an objection to F. form of F. questions put, not merely to F. impertinence of a “common-sense” moralist. Bism too is a doctrine of salvation based on insight; it finds F. origin of suffering wh. for it = F. origin of existence, before it prescribes methods”
+
+**Chinese translation / 中文译文**
+
+［接上页］
+
+「……是永恒的；第 2 项，世界不是永恒的；第 3 项，世界有限；［原文再次标作第 3 项］世界无限；第 4 项，灵魂与身体相同；第 5 项，灵魂是一回事，身体是另一回事；第 6 项，圣者［手稿如此，但更可能应作『有情众生』］死后存在；第 7 项，［有情众生］死后不存在；第 8 项，有情众生死后既存在又不存在；第 9 项，有情众生死后既非存在，也非不存在。」
+
+因此，再次概括，可以发现佛教拒绝就四类问题作出某一方向的断言：
+1. 无限性，大概是空间意义上的；
+2. 世界是否永恒；
+3. 灵魂与身体的关系；
+4. 来世。
+《中部》第 72 经也有类似说法。
+
+乍看之下，这当然像是一位纯粹实践性的教师所持的哲学不可知论，仿佛他以轻蔑的态度对待这些问题。但是，更仔细地审查这些段落本身，就会发现这种理解并不是相关措辞唯一可能的解释；而对佛教教义进行更广泛的考察，也会表明：之所以拒绝作出断言，是因为反对这些问题提出的形式，而不仅仅因为一位「常识」道德家认为它们无关紧要。佛教同样是一种以洞见为基础的解脱教义；在规定实践方法之前，它首先寻找痛苦的起源，而对它来说，这也就是存在的起源……
 
 ### Batch p019-036 / 批次 p019-036
 
