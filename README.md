@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 120 页仍待翻译。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—15 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 120 页仍待翻译。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—15 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -2178,6 +2178,22 @@ En face de l’École de Droit.
 A. O. Lovejoy
 Symbolism. [?]
 
+**Chinese translation / 中文译文**
+
+书店
+文具店
+教学用品
+CABANON
+旧书
+装订
+邮票
+圣雅克街 162 号
+巴黎
+法学院对面。
+
+A. O. 洛夫乔伊
+象征主义［?］。
+
 **Uncertain readings / 疑难读法:** The faint notebook title appears to read “Symbolism”; retained with [?].
 
 #### 005 · PDF 002 · Manuscript / 手稿 未标页 / unnumbered
@@ -2199,6 +2215,20 @@ Rink: Tales & Traditions of F. Eskimo
 Reading:
 [one short reference line illegible]
 
+**Chinese translation / 中文译文**
+
+参考书目。
+
+W. Wyatt Gill：《南太平洋的神话与歌谣》。
+Brough Smyth：《澳大利亚原住民》。
+［?］：《萨摩亚》。
+Codrington：《美拉尼西亚人》。
+Duff MacDonald：《非洲资料》。
+Rink：《因纽特人的故事与传统》。
+
+阅读：
+［一行简短的参考文献难辨。］
+
 **Uncertain readings / 疑难读法:** Author before “Samoa” is unclear.; The final “Reading” reference line is not safely legible.
 
 #### 005 · PDF 003 · Manuscript / 手稿 3 [?]
@@ -2214,6 +2244,14 @@ F. [future] life by little & little [develops?]; ideas of reward [and/or] moral 
 
 But what is meant by moral notions? They certainly do not apply to all F. distinctions wh. savage [mind makes]. Thus when we find A. F. rich in F. next life are still rich, we cannot call A. [continuance] a case of recompense for virtue. Only when F. reward or punishment is applied as a result of [retributive] justice in F. life, wh. tells them both to have been [punished] or rewarded. So are we to make a distinction bet. real & supernatural qualities of F. savage man. Such a distinction does not exist for F. savage mind.
 
+**Chinese translation / 中文译文**
+
+［标题或页码不确定。］
+
+来世观念一点一点地［发展?］；今世关于报偿或道德的观念，逐渐转移到另一个已经被认为确实存在的世界，或者在那里获得补充。
+
+但是，「道德观念」究竟是什么意思？它显然不适用于所谓「野蛮人」［原作者的历史分类词］所作的一切区分。例如，当我们发现，今世的富人在来世仍然富有时，不能把这种［延续］称为对美德的报偿。只有当奖赏或惩罚被理解为今世行为所引发的［报应性］正义时，才涉及真正的道德判断。我们是否应当区分所谓「野蛮人」的现实性质与超自然性质？对于被如此描述的人群来说，这种区分本身并不存在。
+
 **Uncertain readings / 疑难读法:** Opening heading and several connecting words.; The phrase around “recompense for virtue” is only partly legible.; ‘retributive’ is a contextual reading and remains uncertain.
 
 #### 005 · PDF 004 · Manuscript / 手稿 5 [?]
@@ -2226,6 +2264,12 @@ But what is meant by moral notions? They certainly do not apply to all F. distin
 Tre is no diff. bet. before [philos.?] strength of one man & F. superior control over nature of another. Both endowments are equally natural, or supernatural, if you will. It is common among savages to regard both as then reflected, reflected in F. life after death. F. man who was a prince remains a prince; therefore no moral notion here. As little is tre belief A. F. man who has magical power in life will have magical power beyond F. grave. What a man is A. he [remains].
 
 No more again can religious devotion be held to imply an idea of a moral sort. Those who is faithful in sacrifice [etc.] will perhaps be rewarded after death; but he merely means A., e.g., his sacrifices [and] F. god have become [illegible] in a purely quasi-mechanical manner; rites, practically, F. [means] of heaven, &c. So far among savages it might refer to F. future life; implies no judgment. F. last merely A. its victims who have died before him will [illegible].
+
+**Chinese translation / 中文译文**
+
+在［哲学?］思维形成以前，一个人的体力和另一个人控制自然的较强能力之间，并不存在本质差别。如果愿意，也可以说两种禀赋同样是自然的，或者同样是超自然的。所谓「野蛮人」通常认为，两者都会反映在死后的生活中：生前是王侯的人，死后仍然是王侯；因此，这里没有道德观念。同样，认为生前拥有魔力的人，坟墓之外依然拥有魔力，也不涉及道德。一个人生前是什么，他死后［仍然如此］。
+
+宗教虔诚也不必然意味着道德性观念。忠实履行献祭等仪式的人，死后或许会得到奖赏；但这可能只是意味着，献祭与神祇之间通过一种近似机械的方式形成关联，仪式实际上成为进入天堂等境界的手段。就所谓「野蛮人」关于来世的观念而言，这仍不意味着道德审判。最后一种情况只是说，先于此人死亡的受害者会［难辨］。
 
 **Uncertain readings / 疑难读法:** Several words in the opening sentence.; Passage on sacrifice/gods is partly illegible.; Last sentence continues onto the next page and is incomplete here.
 
@@ -2244,6 +2288,16 @@ But while F. other [feature?] is a [different] one, it is not probable A. copy o
 
 Such is F. general outline of views F. held w. [respect to] F. future life.
 
+**Chinese translation / 中文译文**
+
+［接上页。］
+
+［在坟墓之外］，他们会在他前往亡者之地的旅程中表现出敌意。相关引文见 M.《存续》［缩写文献］。这里的观念只是简单而直接的复仇。［数词难辨。］最后，即使存在神祇的惩罚，这种观念也在很大程度上仍属于自然性的，而非道德性的。
+
+不过，另一个［特征?］有所不同：来世不太可能是今日尘世的复制品，更可能是昨日尘世的复制品；据说在那里盛行的道德规范，通常略显传统而陈旧。
+
+以上就是相关来世观念的大致轮廓。
+
 **Uncertain readings / 疑难读法:** First half of left page is faint and compressed.; ‘M. Surviv.’ is Lovejoy’s abbreviated source reference; expansion uncertain.; The final clause after ‘views’ is partly obscured.
 
 #### 005 · PDF 006 · Manuscript / 手稿 9
@@ -2258,6 +2312,14 @@ Primitive bef. entering F. life.
 Cases where F. common people do not survive at all; F. soul [is destroyed?] or are devoured by F. gods. F. fut. destiny depends not exclusively upon condition in life, but also upon F. manner of death — special regions for those who die of suicide, the drowned & women dead in childbirth, &c. The fact we shall see later [in] rites of purification [connected] w. F. surviv.
 
 To be noted A. survivance, rather than immort., is F. [idea] of F. savage. Immort. is almost foreign to his conception; it is not an idea primitive. There is more: in a great number of cases tre is F. belief in a second death, or even in many successive deaths by wh. F. soul gradually dwindles away to F. point of annihilation. V. Surviv. [abbreviated reference], a series of beliefs showing diff. names & of diff. types & gradation.
+
+**Chinese translation / 中文译文**
+
+进入来世之前的所谓「原始」观念。
+
+有些情形认为，普通人死后根本不能继续存续；其灵魂［被摧毁?］，或者被诸神吞噬。未来命运不仅取决于生前处境，也取决于死亡方式：自杀者、溺亡者、死于分娩的妇女等，分别有其特殊区域。后面讨论与死后存续有关的净化仪式时，还会看到这一点。
+
+需要注意的是，所谓「野蛮人」所拥有的观念，主要是死后「存续」，而不是「不朽」。不朽几乎不属于其概念范围，也不是最早出现的观念。不仅如此，大量案例还相信存在第二次死亡，甚至多次连续死亡；灵魂因此逐渐衰减，最终归于消灭。参见《存续》［缩写文献］，其中列出一系列名称、类型和层级各异的信念。
 
 **Uncertain readings / 疑难读法:** One verb in the first sentence on souls not surviving.; Abbreviated source after ‘V. Surviv.’; Closing words after ‘gradation’ are not securely legible.
 
@@ -2278,6 +2340,18 @@ Brough Smyth, Aborigines of Australia, p. 428. Personifying death — F. inabili
 V. [Powell?]: Samoa.
 Codrington: The Melanesians, p. 26 [and following note].
 
+**Chinese translation / 中文译文**
+
+Mor. 23［?］。各民族对死亡的理解。
+
+首先注意：把死亡视为完全自然且必然的现象，其实是长期发展之后才产生的观念；在绝大多数所谓「非文明」人群中，这种观念并不存在。死亡似乎违背人的本性，因此必须借助某种异常或超自然原因来解释。换句话说，每一次死亡都需要一个具体原因，例如巫术行为，或者其他类似因素。
+
+［举例及出处，部分难辨。］
+Brough Smyth，《澳大利亚原住民》，第 428 页：死亡被人格化；人们无法［想象］抽象意义上的死亡。死亡是一种具体的、能够杀死你的东西。
+
+另见［Powell?］：《萨摩亚》。
+Codrington：《美拉尼西亚人》，第 26 页［及后续笔记］。
+
 **Uncertain readings / 疑难读法:** Heading number/abbreviation.; Several example sentences in lower-left/right margins.; Reference before ‘Samoa’ may not be Powell.
 
 #### 005 · PDF 008 · Manuscript / 手稿 13
@@ -2294,6 +2368,16 @@ Codrington: The Melanesians, p. 26 [and following note].
 Another type of explanation results not fr. a deliberate [act], but fr. some sort of dispute bet. two mythical beings. [reference partly illegible]
 
 Mor. 28 [?]. Examples cont’d. F. often refers to ideas explanatory of death. [New Guinea / island example, source uncertain:] ... soul / spirit, where he remains only a short time & then returns home; but thereafter all men are subject. But F. man is not F. premier mort; [rather] F. [incident] is F. origin of death. F. spirit was not a definitive death, but only temporary. He sent home [a message] by F. birds, directing his mother to gather his bones together [continuing next page].
+
+**Chinese translation / 中文译文**
+
+［续死亡起源的例子。］
+
+［故事：］死亡之所以进入世界，是因为某一天，一位老妇人［难辨］；她刚刚脱下［难辨］。因此，依照所谓「原始」观念，某个具体［原因］逐渐变成普遍规则；这则神话用来解释人为什么死亡，而不是单纯恢复青春或返回生命。
+
+另一类解释并不涉及有意识的行为，而是来自两个神话性存在者之间的某种争执。［出处部分难辨。］
+
+Mor. 28［?］。继续列举例子。这些材料经常用于解释死亡。［新几内亚或某个岛屿的例子，来源不确定：］……灵魂或精灵只在那里短暂停留，然后返回故乡；但此后所有人都受到这一事件支配。这个人不是第一个亡者；相反，这次［事件］构成死亡的起源。灵魂的死亡并非最终的，只是暂时性的。他通过鸟儿向家中传话，要求母亲把他的骨头收集起来。［接下页。］
 
 **Uncertain readings / 疑难读法:** Both ethnographic examples are difficult; only the causal structure and several phrases are secure.; Heading/page label may be ‘Mor. 28’ or a similar abbreviation.; Source names are not safely legible.
 
@@ -2316,6 +2400,20 @@ Duff MacDonald, Africana, p. 265; Legend of Annihilation [title reading uncertai
 
 A very common type of death-origin legend refers it to F. breaking of a taboo. [reference:] Lewin [?], Races of S. [region illegible]. Another legend in wh. we have F. intervention of a hostile spirit; god creates F. world, first animals & then a man & woman. [continuation follows].
 
+**Chinese translation / 中文译文**
+
+［接上页。］
+
+［他的骨头应当被带回］祖先的故乡，这样他就能够以另一种形式恢复青春。但他的母亲［没有遵照指示，或误解了指示］；于是灵魂离去，原本应当发生的返回没有实现。
+
+另见［来源］《非洲旅行记》，第一卷第 167 页：死亡因为一次错误进入世界。月亮［或另一种能够重新生长的存在者］说：「正如我会死亡，又会重新出生，人也应当如此死亡并再生。」［数词难辨。］
+
+［右页：］凡是［没有］完成［必要行为］的人……因此，由于这次错误，［创造性的］力量［受阻］，人开始受死亡支配。［页边笔记对比能够更新与不能更新的存在者。］
+
+Duff MacDonald：《非洲资料》，第 265 页；《消亡的传说》［标题读法不确定］。
+
+另一种非常常见的死亡起源传说，将死亡归因于触犯禁忌。［出处：Lewin［?］，《南部［地区难辨］的族群》。］另一则传说涉及敌对精灵的介入：神先创造世界，再创造动物，最后创造一男一女。［接下页。］
+
 **Uncertain readings / 疑难读法:** Narrative details and two source references are only partly legible.; Quoted renewal formula is reconstructed only from visible words and marked as uncertain.; ‘Legend of Annihilation’ may be a descriptive note rather than a title.
 
 #### 005 · PDF 010 · Manuscript / 手稿 17
@@ -2335,6 +2433,18 @@ American Legends, V. [Brinton?]
 
 [Right-page references:] in vol. I of [book of] Ethnology [?] (legend of F. two brothers &c.), V. Bower [?]; ‘Contr[ibution] à l’Ethnologie de [region illegible]’, [and] ‘A Further Contribution to Funeral Customs’, same vol.; [note:] ‘the moon & the coyote’ [wording partly uncertain].
 
+**Chinese translation / 中文译文**
+
+［续神话事例。］
+
+［某个存在者］每晚［以一条大蛇的形式出现，或带来一条大蛇］并［难辨］。［一名首领或男子］不能［难辨］。最后［神祇或该存在者］给予［难辨］，因为从那以后，人终究都要死亡。
+
+赫西俄德：《工作与时日》。在普罗米修斯［或潘多拉故事］之前，人没有疾病与死亡；后来潘多拉［打开容器，或释放诸恶］，疾病与死亡由此散布到世界。
+
+《美洲传说》，参见［Brinton?］。
+
+［右页文献：］见［民族学著作?］第一卷，「两兄弟的传说」等；参见 Bower［?］；《对［地区难辨］民族学的贡献》，以及同卷的《对丧葬习俗的进一步贡献》；另记「月亮与郊狼」。［部分措辞不确定。］
+
 **Uncertain readings / 疑难读法:** Upper-left myth narrative is difficult.; Prometheus/Pandora reference is clear in substance but Lovejoy’s exact phrasing is partly illegible.; Bibliographic references on right are highly abbreviated.
 
 #### 005 · PDF 011 · Manuscript / 手稿 19
@@ -2352,6 +2462,16 @@ V. Rink, Tales & Traditions of F. Eskimo, traditions on same point (pp. 36–37)
 
 Conception in general [continues].
 
+**Chinese translation / 中文译文**
+
+12 月 14 日。格陵兰因纽特人对死后命运的理解。［Egede 或其他来源，尚未确定。］
+
+第 151 页：有两个居所，一个位于地下，令人愉快；另一个在天上，令人不快。前者留给溺亡者、死于分娩的妇女等。［这可能补偿］他们今生［所受的苦］。这里完全不包含道德观念。对妇女而言，另一个世界中的处境取决于某种仪式性缺失，而非道德过错。实际上，甚至不能说那是对道德疏忽的惩罚；它只是缺少某种仪式或巫术条件。相关问题显然属于巫术。［参见某来源，大约第 116 页。］
+
+另见 Rink《因纽特人的故事与传统》，同类材料位于第 36—37 页及第 40 页。
+
+一般概念［接下页］。
+
 **Uncertain readings / 疑难读法:** Source name in heading and several explanatory words.; The contrast ‘ritual failure rather than moral fault’ is strongly suggested but exact syntax is uncertain.
 
 #### 005 · PDF 012 · Manuscript / 手稿 23 [?]
@@ -2366,6 +2486,14 @@ Conception in general [continues].
 Any Carib. [Albert / author?] agree in [illegible] to be a mixture of multiple [levels / beliefs], each of two, up to all [illegible]. More confidence [that] there can be no possibility of error or significance. [heading:] future life.
 
 V. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oct. 1899, for facts in case of children, esp. strikingly [developed] ideas about continued life of friends in F. [future / other] world; cf. belief about [spectral] soul, p. 83; cf. also Stanley Hall’s Study of Death.
+
+**Chinese translation / 中文译文**
+
+［左页只有一小段笔记；第一行大部分难辨。］
+
+任何加勒比［Albert／作者?］都同意［难辨］：它是多个［层次或信仰］的混合，每两项一组，直到全部［难辨］。更有把握认为，不存在错误或［特定］意义的可能。［标题：］来世。
+
+另见《美国心理学杂志》1899 年 10 月 Stanley Hall 和［Colin Scott?］的《老年与死亡》［?］，尤其涉及儿童的情况：他们对于朋友在另一个世界继续生活，具有特别鲜明的观念。另比较幽灵式灵魂信念，第 83 页；以及 Stanley Hall 的《死亡研究》。
 
 **Uncertain readings / 疑难读法:** Left-page paragraph is poorly legible.; Article title and co-author in the American Journal of Psychology reference are uncertain.; Page number ‘83’ is visible but its exact referent is not.
 
@@ -2382,6 +2510,14 @@ V. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oc
 
 [An analogue:] [source / people uncertain]. F. [one deity] has created clouds & all obscurity; F. two divide all power over human affairs bet. them. When F. [god] is angry he sends F. [flood / storm]; is appeased w. prayer, &c. [Further example:] F. god of darkness [and] clouds [illegible]. [Reference to Cook / Hawai‘i or another island context, uncertain].
 
+**Chinese translation / 中文译文**
+
+［主题：］［腐败的祭司群体／未履行某些仪式］，或某些仪式没有完成，对于亡者命运的影响。
+
+［一组民族志文献，大多使用缩写且难辨：］新［地区／Charter?］群岛；［Turner?］，［出处］；［印度教／印度］例子。一般信念：某个［天界］永远幸福；［难辨］。
+
+［一种类似情况：］［来源或族群不确定。］某个神祇创造了云与一切幽暗；两个存在者共同分掌人间事务。当［神祇］发怒时，就带来［洪水／风暴］；人可以通过祈祷等方式使其平息。［另一个例子：］黑暗与云层之神［难辨］。［可能涉及 Cook、夏威夷或其他岛屿环境，尚不确定。］
+
 **Uncertain readings / 疑难读法:** Most proper names on this page cannot be safely resolved from the handwriting.; The causal contrast between deities, weather, prayer, and human fate is readable, but exact wording is not.
 
 #### 005 · PDF 014 · Manuscript / 手稿 27
@@ -2395,6 +2531,13 @@ V. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oc
 
 [Conceptual summary on right:]
 1) Heterogeneity. But what is most ‘moral’ [or judicial] in F. [future-life system]? F. determinants of destiny are a jumble of moral & purely supernatural characteristics. F. bad life, a case where F. idea of a retributive fut. life is mixed up in a medley with F. idea of [future life] as merely a direct continuation of F. life (past). Partly it is [the continuity] wh. gives substance to belief in F. life, but partly [there are] accidents / elements [that are] naturalistic, & partly it consists in elements sacerdotal & ritual. A. is the element sacerdotal — F. power of priest to send at pleasure [to one or another destiny].
+
+**Chinese translation / 中文译文**
+
+［左页继续列举神祇或超自然力量决定命运的例子，大部分难辨。］
+
+［右页概念总结：］
+1. 异质性。但是，在这种［来世体系］中，什么才是最具有「道德性」或审判性质的因素？决定命运的条件混杂着道德性质与纯粹超自然的特征。关于死后报偿的观念，与来世只是今世直接延续的观念交织在一起。部分内容来自连续性，由此让来世信念显得具体；部分是偶然性或自然主义要素；还有一部分则是祭司制度和仪式性要素。其中所谓祭司性因素，就是祭司能够随意把人送往不同命运的权力。
 
 **Uncertain readings / 疑难读法:** Most left-page narrative detail is not safely legible.; Several nouns in the ‘heterogeneity’ analysis are inferred from legible stems and context; retained conservatively.
 
@@ -2416,6 +2559,20 @@ V. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oc
 5. Finally F. guilt is strictly moral appears.
 
 Note: F. whole system of ideas given by [Harrison?] — being confused & polymorphic. Are tre things relatively primitive? Ultimately tre appear at first numerous [elements] in F. conception: 1. dualism of good & evil [forms]; 2. mediator bet. [dead / living?]; 3. presence of some few moral elements [amid largely non-moral determinants]; 4. a sort of purification state or period wh. prepares F. good souls for F. sojourn in F. heaven. But F. spirit, where F. resemblance appears in later [systems], seems [to continue].
+
+**Chinese translation / 中文译文**
+
+［续分析提纲。］
+
+造成未来生活幸福或不幸的［各种因素］，以及它们如何通过简单过程形成另一种因素，都表现出一种更宽泛的区分，而所谓「原始」思想［尚未作出］这种区分。我们可以通过排除后出的要素，重建最早的［形式或关系］。
+
+1. 自然主义观念：来世只是今世的直接延续，由今世的地位或能力决定。
+2. 仪式要素出现：忠实侍奉诸神，会在另一个世界中带来［优势或较高地位］。
+3. 社会性要素出现：对共同体或所属团体的忠诚，决定未来生活。
+4. 社会性因素也可能依据共同体［??］决定命运，而不完全取决于个人自身。
+5. 最后，真正严格意义上的道德罪责出现。
+
+注意：［Harrison?］提出的整套观念既混乱又多形。其中哪些相对更加早期？最初似乎存在若干成分：1. 善与恶［形式］的二元区分；2. ［亡者与生者?］之间的中介；3. 大量非道德决定因素之中，存在少量道德要素；4. 某种净化状态或时期，使善良灵魂为进入天界作准备。但是，在后来的［体系］中出现类似之处时，这一灵魂观念似乎仍在［延续］。
 
 **Uncertain readings / 疑难读法:** The five-part outline is comparatively clear, but several key nouns are abbreviated or faint.; Reference in note may be Harrison; not certain.; Final sentence breaks off and continues beyond this batch.
 
