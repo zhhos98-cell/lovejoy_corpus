@@ -1,75 +1,142 @@
-# lovejoy_corpus
+# Arthur O. Lovejoy Corpus
 
-Working corpus for Arthur O. Lovejoy research: OCR/text sources, bibliographic harvests, corrected archival transcriptions, and research notes linking manuscripts, training, teaching, publications, editorial networks, and reception.
+Working corpus for Arthur O. Lovejoy research: OCR/text sources, bibliographic harvests, corrected archival transcriptions, and research notes linking manuscripts, intellectual formation, teaching, publications, editorial networks, and reception.
 
-## Manuscripts
+## Research argument (current synthesis)
+
+This project examines Lovejoy before *The Great Chain of Being* through the reconstruction of his early comparative-religion and Orientalist training. The central claim is not that Buddhism simply influenced Lovejoy's later history of ideas, but that encounters with Sanskrit studies, Buddhist philology, comparative religion, and archival note-taking formed a practical laboratory for operations later characteristic of his historical method.
+
+The archive reveals the emergence of techniques including:
+
+- decomposition of complex intellectual systems into transferable units;
+- distinction between logical and chronological sequence;
+- semantic discrimination of technical terms;
+- reconstruction of historical layers and transmission paths;
+- classification according to causal mechanisms rather than surface resemblance;
+- cautious analysis of borrowing, adaptation, and intellectual rearrangement.
+
+The notebook material therefore provides evidence for Lovejoy's method in formation rather than merely an early topic of interest.
+
+## Manuscript core
 
 Canonical progress: [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md).
 
-- **MS38_004_001_061_004 — “Sankhya + Buddhism”: 71/71, first pass complete.** Cross-read with Lovejoy’s 1898 JAOS paper, **“The Buddhistic Technical Terms upādāna and upādisesa.”**
-- **MS38_004_001_061_005 — “Symbolism” [?]: 120/120, first pass complete.** Strong Paris/Marillier EPHE core in 1898–99; demonstrable reuse by **20 Dec. 1905**. PDF p.44 has been second-pass corrected in the archival JSON to `Hist. Relig. — Dec. 20, 1905.`
+### MS38_004_001_061_004 — “Sankhya + Buddhism”
 
-005 is treated as a longitudinal notebook: **Marillier/EPHE comparative-religion collection (1898–99) → continued `Hist. Relig.` work documented in 1905 → theoretical condensation in 1906.**
+Status: 71/71 pages, first pass complete.
 
-## 005 → 1906: primary article recovered
+The notebook has been cross-read with Lovejoy's 1898 JAOS article, **“The Buddhistic Technical Terms upādāna and upādisesa.”** It records an active research process: copied passages, source comparison, terminology testing, corrections, and attempts to establish historical relationships between concepts.
 
-A complete primary PDF of Lovejoy, **“The Fundamental Concept of the Primitive Philosophy,” *The Monist* 16.3 (1906), 357–382**, has been read directly against 005. The relationship is strong at the level of mechanisms, vocabulary and source ecology: p.64’s machine/direct-force model; pp.88–90 intrinsic efficacy vs indwelling spirit; blood/body-part transfer; agricultural/fecundative life transfer; p.105 **“quasi-mechanical and magical rather than sacramental”**; p.117 sacramental union as comparatively exceptional.
+The notebook changes the interpretation of the 1898 article. Rather than treating the article as an isolated piece of Buddhist philology, the manuscript reveals how Lovejoy evaluated sources, distinguished inherited terminology from original arrangement, and constructed historical arguments from dispersed scholarly materials.
 
-The published paper reconstructs a more fundamental **impersonal, quasi-mechanical** causal category: diffusive/transferable life-energy localized in persons and things, transmissible by contact and ritually manipulable. It rejects Frazer’s sharp magic/religion division and tests the category lexically through `manitou/oki/wakonda`, `mana`, and Bantu power-language.
+### MS38_004_001_061_005 — “Symbolism” [?]
 
-Current judgment: **005 is a longitudinal empirical/classificatory laboratory from which the 1906 paper isolates and systematizes a cross-cutting category of impersonal, transferable efficacy.** A literal draft relationship remains unproved.
+Status: 120/120 pages, first pass complete; second-pass corrections ongoing.
 
-See:
-- [`research_notes/MS38_004_001_061_005_vs_1906_Primitive_Philosophy_working_comparison.md`](research_notes/MS38_004_001_061_005_vs_1906_Primitive_Philosophy_working_comparison.md)
-- [`research_notes/lovejoy_as_orientalist_web_sweep_batch12_1906_primary_concordance.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch12_1906_primary_concordance.md)
+This notebook extends the investigation beyond Buddhism into comparative religion. It contains a strong Paris/Marillier EPHE core from 1898–99 and demonstrates later reuse by 20 December 1905.
 
-## Lovejoy as Orientalist / comparative religion — current spine
+The notebook is treated as a longitudinal classificatory laboratory:
 
-Master live log: [`research_notes/lovejoy_as_orientalist_web_sweep.md`](research_notes/lovejoy_as_orientalist_web_sweep.md)  
-Structured evidence ledger: [`research_notes/lovejoy_orientalist_source_register.csv`](research_notes/lovejoy_orientalist_source_register.csv) plus batch delta CSVs.
+1898–99 comparative religion and Paris training  
+→ continued historical-religion work documented in 1905  
+→ theoretical condensation in 1906.
 
-1. **Harvard 1895–98:** formal Sanskrit and sacred Buddhist-text study with Charles R. Lanman; comparative religion with Charles C. Everett; Hebrew religion with Crawford H. Toy.
-2. **Paris 1898–99:** Lovejoy sought Pāli Buddhism with Sylvain Lévi and, according to letters cited by Wilson, privately read sacred texts with Lévi; official EPHE reports name Lovejoy as an active participant in Léon Marillier’s comparative-religion conferences.
-3. **1898–1902:** notebook 004 → JAOS technical Buddhist philology → 1902 **“Religion and the Time-Process,”** which explicitly reuses the 1898 analysis while turning Vedānta/Buddhism into a comparative history of the category of time.
-4. **1901–07:** Buddhism becomes teaching; 005 remains active through 1905; 1906 produces the `primitive philosophy` theory; in 1907 Lovejoy reviews Deussen’s Vedānta outline.
-5. **1907–09:** sustained history-of-religion work continues in Jewish/Christian materials, including the Smith / *Der Vorchristliche Jesus* dispute. The full 1907 **“Origins of Ethical Inwardness in Jewish Thought”** follows Professor Toy’s authority and distinguishes logical from chronological sequence.
-6. **1930s:** Asian/global material persists in changed forms: China as mediated transmission/representation in 1933; Indian and ancient Western-Asian primitivism through distributed expertise with P.-E. Dumont and W. F. Albright in 1935.
+## From Buddhism to comparative religion
 
-Current thesis: **Orientalist and comparative-religion training formed an early laboratory for operations later redistributed into history of ideas** — decomposition of systems, semantic discrimination, historical layering, logical vs chronological sequencing, classification by causal mechanism, caution about borrowing/syncretism, and reconstruction of intelligible arrangements. Mature `unit-idea` terminology is not projected backward.
+### Harvard formation, 1895–98
 
-## 1907 Deussen review: Woods–Harvard Indic-philosophy node
+Current reconstruction identifies three major Harvard contexts:
 
-Batch 16 substantially improves the context for Lovejoy’s 1907 review of Paul Deussen’s *Outline of the Vedānta System of Philosophy According to Shankara*. The 1906 English *Outline* was translated by **James Haughton Woods and Catharine Bird Runkle**. Harvard’s official history describes Woods as a scholar of Greek and Indic philosophy who studied under **Deussen**, studied in India at Benares/Kashmir, returned to Harvard in 1903, and became Professor of the **Philosophical Systems of India**; Harvard archives preserve his comparative-religion/philosophy papers and India diary.
+1. Charles Rockwell Lanman: Sanskrit and Indian textual studies.
+2. Charles Carroll Everett: comparative religion.
+3. Crawford Howell Toy: Hebrew religion and historical analysis of religious traditions.
 
-This makes Lovejoy’s review part of a live professional Indian-philosophy network rather than an isolated bibliographic afterthought. The chronology also supplies a useful limit: Woods’s relevant Harvard appointments postdate Lovejoy’s 1895–98 formation, so **Woods is not added to the Lanman/Everett/Toy teacher line**. Direct Lovejoy–Woods correspondence in 1907 remains unproved.
+These contexts supplied different but connected scholarly practices: philological precision, comparative classification, and historical reconstruction.
 
-Wilson’s secondary synopsis says Lovejoy called the translation useful for teachers of Hindu philosophy and urged greater attention to **Rāmānuja** rather than continued concentration on Śaṅkara; the primary pp.23–24 review still needs extraction before that wording is treated as primary evidence.
+### Paris formation, 1898–99
 
-A later institutional relation is secure: in March 1932 **Woods, then Harvard Philosophy chair, announced Lovejoy’s appointment as William James Lecturer**, with planned lectures on *The Great Chain of Being* / history of ideas. This is later professional continuity, not evidence that Woods’s Indology caused Lovejoy’s mature method.
+Lovejoy's Paris period adds a second intellectual environment:
 
-See [`research_notes/lovejoy_as_orientalist_web_sweep_batch16_deussen_woods_harvard_indic_network.md`](research_notes/lovejoy_as_orientalist_web_sweep_batch16_deussen_woods_harvard_indic_network.md).
+- Sylvain Lévi and Buddhist/Pāli studies;
+- Léon Marillier's EPHE comparative-religion seminars;
+- wider French history-of-religions methods.
 
-## Archive axis: Open Court / *The Monist*
+The evidence suggests that Lovejoy's early encounter with Buddhism occurred within a mobile scholarly network linking American philosophy, Sanskrit studies, and European comparative religion.
 
-Batches 13–15 identify a third early institutional ecology, distinct from Harvard formation and Paris training: **editorial/publication circulation through Paul Carus’s Open Court / *The Monist*.**
+## Publication trajectories reconstructed
 
-Southern Illinois University Carbondale holds **MSS 027, Open Court Publishing Company Records** (424 boxes), including *Monist/Open Court* editorial correspondence and manuscripts from the Carus period. The collection’s person indexing explicitly includes **Arthur O. Lovejoy**.
+### 1898 Buddhist philology
 
-Batch 15 narrows the container problem: Series 1/Sub-Series 6 Publishing **Box 44** has been checked through the L-sequence from generic `L` to **Lloyd**, including named folders for Lanman, Laufer and Leuba. There is **no dedicated Lovejoy folder in the visible Box 44 sequence through Lloyd**. Because the sub-series is alphabetically arranged, a named Lovejoy folder, if present, should fall after Lloyd and before the M-correspondents; the exact next container is still not exposed by the public index, so no box number is inferred.
+Notebook 004 → JAOS article:
 
-The 1908–09 Smith debate has exact public-domain retrieval routes through Internet Archive:
+**“The Buddhistic Technical Terms upādāna and upādisesa” (1898)**
 
-- *The Monist* vol. 18 (1908): `monistquart18hegeuoft` — Lovejoy, **“The Theory of a Pre-Christian Cult of Jesus,” pp.597–609**.
-- *The Monist* vol. 19 (1909): `monistquart19hegeuoft` — William Benjamin Smith, **“Professor Lovejoy on ‘Der Vorchristliche Jesus.’,” pp.409–420**.
+The article becomes a case study in Lovejoy's distinction between materials received from previous scholarship and the original organization of evidence.
 
-Best SIU archive request: all MSS 027 items/folders indexed to Arthur O. Lovejoy, c.1905–1909, especially Series 1/Sub-Series 6 Publishing and Series 2 Manuscripts, with **“The Fundamental Concept of the Primitive Philosophy,” “The Theory of a Pre-Christian Cult of Jesus,”** and William Benjamin Smith / *Der Vorchristliche Jesus* material.
+### 1902: Religion and the Time-Process
 
-See batches 13–15 under `research_notes/`.
+The 1898 Buddhist analysis is reused in a broader comparative argument about concepts of time, showing that Buddhist materials were not abandoned after the philological article but became part of a larger historical investigation.
 
-## Immediate queue
+### 1906: “The Fundamental Concept of the Primitive Philosophy”
 
-1908 Lovejoy + 1909 Smith primary extraction and debate table; SIU MSS 027 Lovejoy container/items; primary 1907 Deussen review + Woods archive search; 1906 authority/term→005 image concordance; Washington University `Hist. Relig.` course and 1901 Buddhism syllabus; 004→1898→1902 concordance; 005(1905 Hebrew layer)→1907 concordance; MS-0873 letters; Marillier *Survivance* concordance; MS-0038 drafts; AOS proceedings; Albright/Dumont correspondence; 1933/1948 China comparison.
+A complete primary PDF has been read directly against notebook 005.
 
-## Data-layer rule
+The relationship is strongest at the level of mechanisms, vocabulary, and source ecology:
 
-Raw/source-derived corpora, corrected archival transcriptions, and interpretive research notes remain separate. Source filenames and SHA-256 hashes are retained where possible so transformations can be audited.
+- machine/direct-force models;
+- intrinsic efficacy versus indwelling spirit;
+- blood and body-part transfer;
+- agricultural and fecundative life transfer;
+- quasi-mechanical and magical efficacy.
+
+Current interpretation: notebook 005 functioned as an empirical/classificatory laboratory from which Lovejoy isolated and systematized a category of impersonal, transferable efficacy.
+
+A literal draft relationship remains unproved.
+
+### 1907: Deussen and Indian philosophy
+
+The Deussen review connects Lovejoy to a wider Harvard Indian-philosophy network involving James Haughton Woods and Catharine Bird Runkle's translation of Deussen.
+
+Important chronological distinction:
+
+Woods belongs to a later professional network and should not be projected backward into Lovejoy's 1895–98 formation.
+
+### 1908–09: Open Court and religious history debates
+
+The Open Court / *The Monist* network provides a third institutional ecology alongside Harvard and Paris. Current research tracks Lovejoy's publication environment, including debates around pre-Christian Jesus scholarship and comparative religion.
+
+## Relation to *The Great Chain of Being*
+
+The project approaches *The Great Chain of Being* through its earlier archive.
+
+The argument is not a simple line of influence from Buddhism to the 1936 lectures. Instead, early comparative-religion work helps explain the intellectual operations later visible in Lovejoy's mature history of ideas.
+
+Future article sections may examine:
+
+- how early encounters with non-Western philosophical materials shaped Lovejoy's treatment of intellectual systems;
+- how comparative religion trained historical analysis before the institutional consolidation of history of ideas;
+- how the archive complicates later narratives centered exclusively on *The Great Chain of Being*.
+
+## Data and methodology
+
+Raw/source-derived corpora, corrected archival transcriptions, and interpretive notes remain separated.
+
+Source filenames and SHA-256 hashes are retained where possible so transformations remain auditable.
+
+The corpus currently includes:
+
+- OCR-derived texts;
+- archival transcription progress records;
+- primary article concordances;
+- bibliographic research notes;
+- institutional and scholarly network reconstruction.
+
+## Immediate research queue
+
+- complete 1908–09 Lovejoy / Smith debate extraction;
+- continue SIU MSS 027 Open Court archive investigation;
+- extract primary text from the 1907 Deussen review;
+- expand 004 → 1898 → 1902 concordance;
+- expand 005 → 1906 comparison;
+- investigate Washington University history of religions teaching materials;
+- integrate later global/comparative materials into the reception history.
