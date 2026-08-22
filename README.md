@@ -118,6 +118,35 @@ Notebook 005 links death, survival, totemism, sacrifice, kinship, blood transfer
 - Preserve problematic historical terms as evidence of the original classification, not as present-day editorial endorsement. / 历史文本中的问题性分类词汇须作为史料保留，不代表当代编者认可。
 - A complete English transcription is not itself a complete Chinese translation. Until translation exists, pages are labeled as English transcription rather than misrepresented as bilingual. / 英文全文转录并不等于中文全文译本。在逐段翻译真正完成之前，各页明确标为英文转录，不虚称已经双语化。
 
+
+## Mature publications: Buddhism, India, China, and citation networks / 成熟著作中的佛教、印度、中国与引文网络
+
+**Full documented audit / 完整逐页核查:** [research_notes/Lovejoy_Great_Chain_Essays_Buddhism_India_China_named_sources_audit_2026-08-23.md](research_notes/Lovejoy_Great_Chain_Essays_Buddhism_India_China_named_sources_audit_2026-08-23.md)
+
+Two user-provided OCR books were searched at page and layout-block level: *The Great Chain of Being* (408 PDF pages) and *Essays in the History of Ideas* (388 PDF pages). Search counts include paratext unless qualified. / 对《存在巨链》408 页和《观念史论文集》388 页 OCR 按印刷页码、PDF 页码、正文、脚注、尾注、书目和索引分别核查。
+
+| Topic / 主题 | Great Chain /《存在巨链》 | Essays /《观念史论文集》 | Interpretation / 解释 |
+|---|---:|---:|---|
+| Buddhism / 佛教 | 7 textual matches including index; key pp. 30, 97, 218; note p. 344 | 2 matches, both bibliography p. 340 | Mature comparative type versus bibliographic preservation / 成熟比较类型与书目层面的保存 |
+| India / 印度 | 5 matches; pp. 27, 93, 142, 305 | 11 matches, some unrelated to South Asia | Distinguish Indian philosophy from American Indian references / 区分印度哲学与美洲原住民 |
+| Upanishads / 奥义书 | 3 matches; pp. 30, 42, 93 | 0 | Comparative negative theology / 比较性的否定神学 |
+| Vedānta / 吠檀多 | 2 exact matches; pp. 30, 93 variant | Bibliography p. 341 uses Vēdanta | Variant spellings require manual verification / 不同拼写须人工复核 |
+| China / 中国 | 1 match | 197 matches across text, notes, headers, index; chapter pp. 99–135 | Major China-to-Europe transmission argument / 中国因素进入欧洲审美的系统论证 |
+
+### Continuity and compression / 延续与压缩
+
+Notebook 004 PDF p. 56 / manuscript p. 151 describes Nirvāṇa negatively, and PDF p. 62 / manuscript p. 165 describes cessation of existence. *The Great Chain of Being* p. 30 preserves this negative interpretive tendency. But notebook 004 PDF p. 18 / manuscript p. 65 questions whether Buddhist refusals reflect merely practical rejection of speculation: the problem may instead lie in the form of the questions. *The Great Chain* p. 97 compresses this qualification into a broader account of primitive Buddhism as practical escape from suffering. / 004 笔记第 56、62 页对涅槃和存在终止的否定性解释，在《存在巨链》第 30 页得到延续；但 004 笔记第 18 页对「拒答是否针对问题形式」所作的细致区分，在《存在巨链》第 97 页被压缩为较宽泛的实践性拒绝思辨。
+
+### Citation network and false positives / 引文网络与同名误认
+
+William James is directly documented in Lovejoy's preface: he recalls hearing James early in his philosophical training. Paul Deussen appears in the 1907 bibliography; J. G. Frazer appears in *Great Chain* p. 338, but as a commentator on Plato rather than an authority on sacrifice. Y. Z. Chang is explicitly named in *Essays* p. 111 as a linguistic consultant whom Lovejoy asked to investigate *sharawadgi*. / William James 的师承关系由 Lovejoy 自序直接证实；Paul Deussen 出现在 1907 年书目；Frazer 在《存在巨链》第 338 页作为柏拉图研究者出现，而不是献祭理论来源；Y. Z. Chang 在《论文集》第 111 页脚注中被明确记录为 Lovejoy 主动请教的汉语语言顾问。
+
+Lanman, Warren, Senart, Oldenberg, Hermann Jacobi, Max Müller, William Dwight Whitney, Sylvain Lévi, and Marillier do not reliably appear in the two mature books. Apparent matches resolve to F. H. Jacobi, Lois Whitney, Adam/Johannes von Müller, ordinary “woods,” or Johns Hopkins University. / Lanman、Warren、Senart、Oldenberg、印度学家 Hermann Jacobi、Max Müller、William Dwight Whitney、Sylvain Lévi 和 Marillier，在这两本成熟著作中均无可靠出现；表面同姓命中实际多为 F. H. Jacobi、Lois Whitney、Adam 或 Johannes von Müller、「树林」或 Johns Hopkins University。
+
+### Disciplinary framing / 学科自我界定
+
+The *Essays* foreword defines the History of Ideas Club through work in **occidental literature**; the author's preface states that general methodological ideas grew out of particular inquiries and that some technical philosophical studies were excluded from the collection. Buddhism therefore remains visible as biography and bibliography while its early technical scholarly community recedes from the mature disciplinary presentation. / 《论文集》前言把观念史俱乐部的研究范围明确限定在「西方文学」；作者自序强调一般方法从具体研究中生长，并说明部分技术性研究没有收入论文集。于是佛教经验继续作为传记事实和书目起点存在，而早期佛教学术共同体在成熟的学科自我呈现中逐渐退场。
+
 ## Technical vocabulary / 专门术语
 
 | Term / 原词 | Working Chinese / 暂定中文 | Qualification / 说明 |
