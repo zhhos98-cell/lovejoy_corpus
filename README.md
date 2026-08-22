@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记 PDF 第 1—36 页已完成逐页全文翻译，其余页继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记 PDF 第 1—54 页已完成逐页全文翻译，其余页继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记 PDF 第 1—36 页已完成中文全文翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记 PDF 第 1—54 页已完成中文全文翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -1269,6 +1269,10 @@ Upādāna: Saṁy. Nik. 38/12 [?].
 
 Infinity of Causal Series. MP II. 32, 3: Nagasena says the ‘ultimate point of time is not apparent’ and illustrates this with a recurring natural series and an abridged dependent-origination sequence: eye/form → sight → contact → sensation (vedana) → desire (tanha) → karma → renewed production of the eye. Nagasena further explains that the ultimate point of separate links may be known, but not that of the whole series. [Lower passage partly illegible.]
 
+**Chinese translation / 中文译文**
+
+因果序列的无限性。《弥兰陀问经》Ⅱ，32、3：那先说，「时间的最终起点并不明显」，并用一个反复循环的自然序列及简化的缘起序列加以说明：眼／色→视觉→触→受（vedanā）→爱（taṇhā）→业→眼的再次产生。那先进一步解释，个别环节的最终起点也许可以知道，但整个序列的最终起点却无法知道。［下方文字部分难辨。］
+
 **Uncertain readings / 疑难读法:** natural-series example; some words in quoted causal sequence; lower-page continuation
 
 #### 004 · PDF 038 · Manuscript / 手稿 109
@@ -1279,6 +1283,10 @@ Infinity of Causal Series. MP II. 32, 3: Nagasena says the ‘ultimate point of 
 **English transcription / 英文转录**
 
 [Short continuation at top only; mostly illegible.] ‘absolute first destruction … time totally’ [?].
+
+**Chinese translation / 中文译文**
+
+［只有顶部保留一小段续文，大部分无法辨认。］「绝对的第一次毁灭……时间彻底……」［?］。
 
 **Uncertain readings / 疑难读法:** nearly entire short continuation
 
@@ -1291,6 +1299,10 @@ Infinity of Causal Series. MP II. 32, 3: Nagasena says the ‘ultimate point of 
 
 Form. Rupam. v. Warren p. 487. Derivative forms are described as forms springing or proceeding from the four great elements. Lovejoy lists the four physical sense-organs (ayatanas) and the sensible qualities connected with them: form for the eye, sound for the ear, odor for the nose, taste for the tongue, and bodily qualities for the body. Final paragraph notes the intelligibility, despite awkwardness, of this reduction/classification.
 
+**Chinese translation / 中文译文**
+
+色（Rūpam）。参见 Warren 第 487 页。派生的形态被描述为从四大生起或形成的形态。Lovejoy 列出感觉器官（āyatanas）及其相关的感觉性质：眼对应色，耳对应声，鼻对应香，舌对应味，身对应身体性质。最后一段指出，虽然这种归约或分类方式比较生硬，但仍然可以理解。
+
 **Uncertain readings / 疑难读法:** reference after four great elements; exact wording of final paragraph
 
 #### 004 · PDF 040 · Manuscript / 手稿 113
@@ -1302,6 +1314,10 @@ Form. Rupam. v. Warren p. 487. Derivative forms are described as forms springing
 
 Rupam, cont.
 
+**Chinese translation / 中文译文**
+
+色（Rūpam），续。
+
 #### 004 · PDF 041 · Manuscript / 手稿 121
 
 **Type / 类型:** diagram_and_notes  
@@ -1310,6 +1326,10 @@ Rupam, cont.
 **English transcription / 英文转录**
 
 The Khandhas = form, sensation, perception, dispositions/conformations, consciousness. Left-page diagram maps khandhas against paticca-samuppada: namarupa divides into rupa and nama; nama is related to vedana, sanna, sankhara and vinnana. Right-page note cites Majjhima Nikaya and treats destruction/removal of the conditions of existence through the analogy that removal of fuel means cessation of fire.
+
+**Chinese translation / 中文译文**
+
+五蕴＝色、受、想、行、识。左页图表将五蕴与缘起体系相互对应：名色分为色与名；名又与受、想、行、识相关。右页笔记引《中部》，讨论存在条件的摧毁或消除，并采用这样一个类比：移除燃料，就意味着火焰熄灭。
 
 **Uncertain readings / 疑难读法:** several diagram labels; exact Majjhima Nikaya wording
 
@@ -1322,6 +1342,10 @@ The Khandhas = form, sensation, perception, dispositions/conformations, consciou
 
 Khandhas. Lovejoy writes that the khandha formula is probably pre-Buddhistic, current at the period in which Buddhism developed and taken for granted in early sermons and in the Four Truths / Dependent Origination framework. Diagram: namarupa → rupa plus nama; nama includes vedana, sanna, sankhara, vinnana. On vinnana (Childers), the fourth mental khandha is generally omitted in accounts of paticca-samuppada; namarupa is the immediate effect of vinnana, yet once the individual exists vinnana continues as part of his being. Vinnana is temporally (?) antecedent to namarupa and logically a subdivision of it.
 
+**Chinese translation / 中文译文**
+
+诸蕴。Lovejoy 写道，诸蕴公式可能早于佛教；它在佛教形成时期已经流行，并在早期说法及四圣谛、缘起的框架中被当作既有内容。图表：名色→色加名；名包含受、想、行、识。关于识（viññāṇa），据 Childers，第四种心理性蕴通常在缘起描述中被省略；名色是识的直接结果，但一旦个体存在，识又继续作为其存在的一部分。识在时间上［?］先于名色，在逻辑上却是名色的一个下位组成。
+
 **Uncertain readings / 疑难读法:** early-sermon citation; Childers page number
 
 #### 004 · PDF 043 · Manuscript / 手稿 125
@@ -1332,6 +1356,10 @@ Khandhas. Lovejoy writes that the khandha formula is probably pre-Buddhistic, cu
 **English transcription / 英文转录**
 
 Khandhas. Vedana. Vedana is treated both as a subdivision of nama and as a link in the causal chain. Lovejoy notes a double threefold classification yielding eighteen sorts: by affective quality (pleasant, unpleasant, indifferent) and by sensory source (eye, ear, etc.), so the sensation from each organ may have any of the three affective qualities.
+
+**Chinese translation / 中文译文**
+
+诸蕴。受（Vedanā）。受既被当作名的下位组成，也被当作因果链中的一个环节。Lovejoy 注意到一种交叉分类，共得到十八类：先按感受性质分为乐、苦、不苦不乐，再按眼、耳等六种感觉来源划分；因此，每个感觉器官产生的感受，都可能具有这三种性质之一。
 
 **Uncertain readings / 疑难读法:** one phrase describing the two threefold divisions
 
@@ -1344,6 +1372,10 @@ Khandhas. Vedana. Vedana is treated both as a subdivision of nama and as a link 
 
 Khandhas. Vinnana. For evidence of the primacy of vinnana, Lovejoy notes that the four mental khandhas are collectively termed a ‘conscious group’ and points again to vinnana’s place in paticca-samuppada. A Rhys Davids note treats consciousness as extensively subdivided for Buddhist psychology, culminating in a classification into 89 classes.
 
+**Chinese translation / 中文译文**
+
+诸蕴。识（Viññāṇa）。为了证明识的首要性，Lovejoy 指出，四种心理性蕴合称一个「意识群」，并再次强调识在缘起中的位置。Rhys Davids 的一条笔记说明，佛教心理学对意识进行了细密划分，最终列出 89 个类别。
+
 **Uncertain readings / 疑难读法:** first bibliographic reference; exact Rhys Davids wording; technical term before 89 classes
 
 #### 004 · PDF 045 · Manuscript / 手稿 129
@@ -1354,6 +1386,10 @@ Khandhas. Vinnana. For evidence of the primacy of vinnana, Lovejoy notes that th
 **English transcription / 英文转录**
 
 Khandhas. Sanna. Childers/Rhys Davids: ideas are divided into six classes corresponding to the six classes of sensation; e.g. blue/tree under sight, sweetness under taste. The Sankhara: ‘52 divisions not mutually exclusive.’ Lovejoy begins a long list including contact (phassa), sensation (vedana), idea/perception (sanna), reflection (manasikara), memory (sati), vitality (jivitindriya), attention (vitakka), investigation (vicara), effort (viriya), joy (piti), and many later moral/mental qualities; numerous Pali glosses in the list remain uncertain.
+
+**Chinese translation / 中文译文**
+
+诸蕴。想（Saññā）。据 Childers 和 Rhys Davids，观念分为六类，分别对应六种感觉：例如蓝色与树属于视觉，甜味属于味觉。诸行（Saṅkhāra）：「52 个并非彼此排斥的类别。」Lovejoy 开始列出长长一串项目，包括触（phassa）、受（vedanā）、想或知觉（saññā）、作意（manasikāra）、记忆或念（sati）、生命机能（jīvitindriya）、寻或注意（vitakka）、伺或探究（vicāra）、精进（viriya）、喜（pīti），以及许多后续的道德或心理性质；表中的不少巴利文注释仍难以确定。
 
 **Uncertain readings / 疑难读法:** many Pali glosses and English equivalents in the 52-item list
 
@@ -1366,6 +1402,10 @@ Khandhas. Sanna. Childers/Rhys Davids: ideas are divided into six classes corres
 
 The Sankhara. In later Buddhist psychology they are divided into 52 divisions, practically encompassing the human mental qualities/capabilities that make up the individual; Lovejoy remarks on the miscellaneous and repetitive character of the list. Attan: Milindapanha II.3.6 asks whether nama/soul is a living principle within the body. The king compares the soul using the senses to someone looking from different windows of a palace. Nagasena replies by reductio: if one inner soul used the organs indiscriminately, it should be able to see by the ear, etc., which it cannot.
 
+**Chinese translation / 中文译文**
+
+诸行（Saṅkhāra）。在后期佛教心理学中，诸行被分为 52 类，实际上涵盖构成个体的各种心理性质和能力。Lovejoy 注意到，这份清单既杂乱，又存在重复。自我（Attan）：《弥兰陀问经》Ⅱ，3，6 追问，名或灵魂是否是身体内部的生命原则。国王把灵魂通过各种感觉器官感知事物，比作一个人从宫殿里不同的窗户向外看。那先使用归谬法回答：如果存在一个内部灵魂，能够不加区分地使用各个器官，那么它就应该也能用耳朵看东西，等等；但事实上并不能如此。
+
 **Uncertain readings / 疑难读法:** some Sankhara wording; exact Milindapanha quotation
 
 #### 004 · PDF 047 · Manuscript / 手稿 133
@@ -1376,6 +1416,10 @@ The Sankhara. In later Buddhist psychology they are divided into 52 divisions, p
 **English transcription / 英文转录**
 
 Upadana. Oldenberg treats upadana and upadhi as almost synonymous. Nirvana is made dependent on non-presence of upadhi nearly as much as on upadana. A Samyutta Nikaya causal series runs from tanha to upadhi and thence to old age/death; paticca-samuppada analogously runs tanha → upadana → later links. Upadhi is glossed as laying one thing on another / giving it support; upadana as substratum and also laying hold of, clinging to, as a flame catches fuel. Fuel or that which is laid hold of can itself be called upadana.
+
+**Chinese translation / 中文译文**
+
+执取（Upādāna）。Oldenberg 几乎把 upādāna 和 upadhi 视为同义。涅槃之所以可能，依赖于没有 upadhi，其程度几乎与没有 upādāna 相同。《相应部》的一条因果序列从 taṇhā［爱］通向 upadhi，再由此通向老与死；缘起序列则类似地排列为 taṇhā→upādāna→后续诸支。Upadhi 被解释为把一个东西放在另一个东西上，或给予支撑；upādāna 则既指基础或依托，也指抓住和执着，就像火焰附着于燃料。燃料或被抓住的东西本身，也可以被称为 upādāna。
 
 **Uncertain readings / 疑难读法:** one opening phrase; exact cited Samyutta sequence
 
@@ -1388,6 +1432,10 @@ Upadana. Oldenberg treats upadana and upadhi as almost synonymous. Nirvana is ma
 
 Continuation on upadana/upadhi. Clinging and the act of clinging are both associated with upadana; despite different derivations, upadana and upadhi acquire overlapping senses of support/substratum/clinging. A Pali quotation from Samyutta Nikaya is retained as uncertain. In a Senart note on the twelve nidanas, Lovejoy tests whether upadana is merely an abbreviation/collective designation and notes separately enumerated forms of upadana such as sensuality, false views, rites/observances and belief in self.
 
+**Chinese translation / 中文译文**
+
+续论 upādāna 与 upadhi。执着之物与执着行为，都和 upādāna 有关。虽然词源不同，upādāna 和 upadhi 却获得了彼此重叠的「支持」「基础」和「执着」等含义。《相应部》中的一段巴利文引文仍未能确定。Lovejoy 在一则讨论 Senart 关于十二因缘观点的笔记中，检验 upādāna 是否仅仅是缩略语或集合性名称，并另外注意到四种分别列出的执取：感官欲望、错误见解、仪式与持戒，以及对自我的信念。
+
 **Uncertain readings / 疑难读法:** Pali quotation; French article title/source; several technical compounds
 
 #### 004 · PDF 049 · Manuscript / 手稿 137
@@ -1398,6 +1446,10 @@ Continuation on upadana/upadhi. Clinging and the act of clinging are both associ
 **English transcription / 英文转录**
 
 Upadana / nidana formula continued. Lovejoy addresses the apparent duplication of the khandhas in the formula. He concedes that the formula is composite, that its terms are not all original to Buddhism, that objective and subjective elements are mingled, and that the sequence is not homogeneous in strict temporal relation. Yet he rejects the claim that the arrangement is unintelligible or merely accidental: there is, he argues, a discoverable technical system underlying the arrangement.
+
+**Chinese translation / 中文译文**
+
+续论 upādāna 与缘起公式。Lovejoy 讨论诸蕴在该公式中似乎被重复列出的现象。他承认这个公式是复合形成的，其中的术语并不全由佛教首创；客观与主观因素相互混杂，整个序列也没有严格一致的时间先后关系。然而，他拒绝据此断言这种排列不可理解，或者仅仅出于偶然。他认为，排列背后存在一种可以被发现的技术性体系。
 
 **Uncertain readings / 疑难读法:** opening sentence; attribution around the criticism; exact quoted conclusion
 
@@ -1410,6 +1462,10 @@ Upadana / nidana formula continued. Lovejoy addresses the apparent duplication o
 
 If upadana were simply a collective designation for a khandha/group, the dependent-origination formula would produce repeated enumeration; namarupa itself is also a collective designation, so the same elements can appear both collectively and separately. Lovejoy’s main difficulty becomes the relation among terms that precede one another temporally as well as logically. Bibliographic references and the final short paragraph remain partly illegible.
 
+**Chinese translation / 中文译文**
+
+如果 upādāna 仅仅是某一蕴或某一组要素的集合性名称，那么缘起公式就会产生重复列举；名色本身也属于集合性名称，因此，同一些要素可能既以整体方式出现，也分别以个别形式出现。Lovejoy 主要遇到的困难，是这些术语之间既存在时间上的先后，又存在逻辑上的先后，如何解释两者关系。书目引用及末尾短段仍有部分文字难以辨认。
+
 **Uncertain readings / 疑难读法:** bibliographic references; technical terms in first half; final paragraph
 
 #### 004 · PDF 051 · Manuscript / 手稿 141
@@ -1420,6 +1476,10 @@ If upadana were simply a collective designation for a khandha/group, the depende
 **English transcription / 英文转录**
 
 Nidanas. Senart p. 285: the enumeration might easily be abridged or extended; Lovejoy cites an alternate series in which sorrow is derived through terms including avijja, sankhara, vinnana, phassa, vedana, tanha and upadana. He then argues that neither the number nor order of avijja and sankhara belongs to Buddhism ab initio. Upanishadic emphasis on knowledge/avidya prepared the conceptual role of ignorance; Buddhism reinterprets it practically as ignorance of the truths of salvation, but that alone would not justify its ontological position at the head of the nidanas. Sankhara’s position suggests an outside tradition, probably Samkhya-Yoga, where intellectual/moral dispositions accumulate through action.
+
+**Chinese translation / 中文译文**
+
+十二因缘。Senart，第 285 页：因缘清单可以相当容易地缩短或扩展。Lovejoy 引用另一条序列，其中苦通过无明、行、识、触、受、爱和取等项目推导出来。接着，他认为，无明与行的数量和排列次序，并非佛教从一开始就固有的内容。《奥义书》对知识与无明的重视，为无明的概念角色作了准备；佛教在实践层面将其重新解释为对解脱真理的无知，但仅凭这一点，还不足以说明为什么无明在本体论上被放在十二因缘之首。行所处的位置则暗示另一个外部传统，可能是数论—瑜伽体系；在那里，智识和道德倾向通过行动不断积累。
 
 **Uncertain readings / 疑难读法:** alternate-series citation and one term; exact Samkhya-Yoga wording
 
@@ -1432,6 +1492,10 @@ Nidanas. Senart p. 285: the enumeration might easily be abridged or extended; Lo
 
 Continuation: sankharas persist through successive existences as germs/conditions of future existence. Avidya is one of the sankharas and therefore can figure as first cause of renewal of life. Lovejoy is cautious about claiming direct borrowing from Samkhya-Yoga, but concludes that the enumerative interpretation is secondary in origin and the formula composite in character. He then asks ‘And what of namarupa?’ and argues that its place likewise reflects a composite history; affinities with Samkhya do not by themselves prove a theory conceived all of a piece.
 
+**Chinese translation / 中文译文**
+
+［接上页］诸行会持续穿过接连不断的存在状态，成为未来存在的种子或条件。无明本身也是诸行之一，因此可以作为生命更新的第一原因。对于是否存在直接借自数论—瑜伽的关系，Lovejoy 保持谨慎；但他认为，这种列举式解释的起源属于后出的层次，而整个公式具有复合性质。随后他又问：「名色又该如何解释？」他认为，名色在序列中的位置同样反映了复合形成的历史；与数论之间存在相似性，并不能单独证明整套理论曾经一次性、完整地被构思出来。
+
 **Uncertain readings / 疑难读法:** several connecting phrases; Vedanta/Samkhya wording
 
 #### 004 · PDF 053 · Manuscript / 手稿 145
@@ -1443,6 +1507,10 @@ Continuation: sankharas persist through successive existences as germs/condition
 
 Upadana/upadhi are repeatedly treated as causes of differences in rebirth. The khandhas cannot simply be destroyed by an individual moral act; karma does not die at once but waits until the combination of khandhas to which previous karma gave rise naturally dissolves. Right-page notes revisit the etymology of upadhi/upadana: support/substratum versus clinging/finding support. Lovejoy then turns to the asavas and lists four forms, with active/passive senses and related compounds; exact Pali forms are partly uncertain.
 
+**Chinese translation / 中文译文**
+
+Upādāna 与 upadhi 多次被当作造成再生差异的原因。个体的道德行为不能立刻直接摧毁诸蕴；业也不会马上终止，而是要等到由先前的业所造成的诸蕴组合自然解体。右页笔记再次讨论 upadhi 和 upādāna 的词源差别：一方指支持或基础，另一方指执着或寻求依托。随后，Lovejoy 转向诸漏（āsavas），列出四种形式，并讨论其主动、被动含义及相关复合词；具体巴利文形式仍有部分不确定。
+
 **Uncertain readings / 疑难读法:** top bibliographic citation; etymological details; exact four-asava list
 
 #### 004 · PDF 054 · Manuscript / 手稿 147
@@ -1453,6 +1521,10 @@ Upadana/upadhi are repeatedly treated as causes of differences in rebirth. The k
 **English transcription / 英文转录**
 
 Asava / etymology continued. From a Majjhima Nikaya passage involving Buddhist etymological wordplay, Lovejoy considers whether the technical term should be recognized through a verbal sense connected with ‘flowing’ / ‘flowing away.’ He prefers the verbal derivation and argues that the transition from an ordinary meaning of flowing to a technical meaning such as ‘impurity’ is otherwise gratuitous. Exact Pali quotation and section reference remain uncertain.
+
+**Chinese translation / 中文译文**
+
+续论漏（Āsava）及其词源。Lovejoy 根据《中部》一段带有词源性文字游戏的材料，考虑这个技术术语是否应依据与「流动」或「流出」相关的动词意义来理解。他倾向于采用动词词源，并认为，如果不这样处理，就难以合理说明这个词如何从普通的「流动」意义转变为「污秽」之类的技术意义。具体巴利文引文及经文出处仍不确定。
 
 **Uncertain readings / 疑难读法:** technical Pali form; Majjhima Nikaya page/section; exact quotation
 
