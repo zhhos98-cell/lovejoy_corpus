@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记 PDF 第 1—54 页已完成逐页全文翻译，其余页继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 120 页仍待翻译。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记 PDF 第 1—54 页已完成中文全文翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 120 页仍待翻译。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -1567,6 +1567,27 @@ Cf. use of technical terms — contact, etc. — in Sāṁkhya & Vedānta. Corre
 
 Difference between later Piṭakas & MP: on the one hand, in MP the affirmation of Nirvāṇa seems to have passed into a more definite and philosophical doctrine; on the other hand, if later than MP, there had been an increasing reluctance to admit that Nirvāṇa was nothingness, and an increasing tendency to equate it with, or attribute to it, Vedāntist supernatural/absolute ideas.
 
+**Chinese translation / 中文译文**
+
+缘起（Paṭicca-samuppāda）。
+
+1. 无明（Avijjā）。
+2. 行（Saṅkhārā）。［第四蕴；另注意与第二、第三蕴的关系［?］。］
+3. 识（Viññāṇaṃ）。第五蕴。
+4. 名色（Nāmarūpaṃ）。色部分对应第一蕴；名包含心理要素，页边另指向受、想与行。
+5. 六处（Saḷ-āyatana）。部分对应色，即第一蕴。
+6. 触（Phasso）。
+7. 受（Vedanā）。第二蕴；「涉及享受」［《弥兰陀问经》出处］，因此分为乐、苦、不苦不乐三类。
+8. 爱（Taṇhā）。
+9. 取（Upādāna）。
+10. 有（Bhavo）。
+11. 生（Jāti）。
+12. 老死（Jarāmaraṇa）。
+
+参见数论与吠檀多对触等技术术语的使用。另记下与数论的对应，包括三德：动性（rajas）、明性（sattva）和暗性（tamas），并将其与佛教的三分分类并列。
+
+后期三藏与《弥兰陀问经》的差别：一方面，在《弥兰陀问经》中，对涅槃的肯定似乎已经发展为更明确、更具哲学性的教义；另一方面，如果某些文本晚于《弥兰陀问经》，其中似乎越来越不愿承认涅槃就是虚无，并越来越倾向于把涅槃等同于，或者赋予它，吠檀多式的超自然或绝对观念。
+
 **Uncertain readings / 疑难读法:** small marginal numerals beside saṅkhārā; exact wording of the Sāṁkhya correspondence note; final adjective attached to Vedāntist/Absolute
 
 #### 004 · PDF 056 · Manuscript / 手稿 151
@@ -1585,6 +1606,18 @@ Upādāna in a Majjhima-Nikāya passage: the ‘five upādānakkhandhas’ are c
 Up. synonymous with saṁyojana? Saṁyojaniya-dhammā are ‘entanglements’ and amount to just the same as upādāniya-dhammā (v. same source).
 
 Upādhi, āsava, & saṁyojana, then, are three expressions with slightly different connotations and derivations, but systematically/in the system are devised for essentially the same fundamental idea — that of attachment to the objects of physical experience.
+
+**Chinese translation / 中文译文**
+
+在三藏中，涅槃确实很少，甚至也许从未，被直接描述为虚无［但参见第 161 页］；不过，它在那里仍然是一个纯粹否定性的概念。我倾向于怀疑：那个将佛教原有无常观念阐发得更加鲜明的哲学思想者，属于佛教史上一种不同的、而且更晚出现的倾向；这种倾向不同于那种开始淡化涅槃、最终导致佛教神秘主义兴起的大众化取向。
+
+取（Upādāna）。［七条段落或二手文献笔记，其中包括一段法文引文，部分难辨。］一条法文笔记根据知觉与五蕴解释 upādāna。
+
+《中部》一段文字中的 upādāna：「五取蕴」与爱或欲望相关。［出处部分难辨。］
+
+Up. 是否与 saṃyojana 同义？Saṃyojaniya-dhammā 是「束缚」，与 upādāniya-dhammā 基本相同，参见同一来源。
+
+因此，upādhi、āsava 和 saṃyojana 是三个含义细节和词源略有不同的表达；但从体系性角度看，它们实际上指向同一个根本观念：对于感官经验对象的执着。
 
 **Uncertain readings / 疑难读法:** French secondary-source citation and quotation; exact Majjhima-Nikāya reference; spelling of saṁyojaniya/upādāniya compounds
 
@@ -1605,6 +1638,18 @@ V. connection between upādāna & āsava.
 
 Burnouf, Introduction, p. 475: French note on the etymology and compound force of upādāna / upādānakkhandha. [Quotation continues on next page.]
 
+**Chinese translation / 中文译文**
+
+执取（Upādānaṃ）。
+
+《相应部》ⅩⅩⅡ［出处不确定］：「世尊，执取所造成的战栗（upādāna-paritassanā）。」不了解教义的人，将色视为自我，或者认为自我包含在色中、色存在于自我中，或者自我存在于色中。对这种追随者来说，色会发生变化；而由于色的变化，就生起与这种变化相联系的意识。由此产生的苦恼攫住其心；由于受扰、焦虑并受到执取支配，其心随之战栗。其他四蕴也是如此。
+
+五取蕴（Upādānakkhandhas）。《相应部》ⅩⅩⅡ，48［?］。先列举五蕴，随后追问：什么是五取蕴？无论过去、现在或未来，无论远近，凡是通过执取与爱欲及贪染结合的色，都被称为色取蕴。其他四蕴也是如此。
+
+另见取与漏之间的联系。
+
+Burnouf，《导论》，第 475 页：法文笔记讨论 upādāna 与 upādānakkhandha 的词源及其复合词作用。［引文接下页。］
+
 **Uncertain readings / 疑难读法:** Saṁyutta-Nikāya section numbers; several words in the description of trembling/distress; Burnouf quotation retained only as a descriptive note here
 
 #### 004 · PDF 058 · Manuscript / 手稿 157
@@ -1621,6 +1666,16 @@ Burnouf, Introduction, p. 475: French note on the etymology and compound force o
 The quotation concludes approximately: ‘je pense qu’il s’agit ici de l’évolution de l’être qui passe par la conception pour arriver à l’existence.’
 
 Upādāna. Burnouf also notes a passage in a Buddhist text [reference partly illegible] and explains upādāna as a concept tied to grasping / the causal process by which existence is constituted.
+
+**Chinese translation / 中文译文**
+
+［续引 Burnouf《导论》第 475 页；法文引文。］
+
+「首先出现的，也就是说 upādāna……」Burnouf 讨论复合词的第一项，以及 upādāna 与五蕴的关系。他把 upādāna 理解为联系、支撑或抓取，并指出，这个复合词所指的构成要素，与其他地方分别用 skandha 和 upādāna 表达的观念相同。
+
+引文大意为：「我认为这里涉及的是存在者的发展过程，它经过受孕而达到实际存在。」
+
+取（Upādāna）。Burnouf 还注意到一段佛教文本［出处部分难辨］，将 upādāna 解释为与执取相关的概念，亦即存在得以构成的因果过程。
 
 **Uncertain readings / 疑难读法:** much of the French quotation; title/page of the Buddhist text cited on right page; several Sanskrit/Pali forms in Burnouf’s note
 
@@ -1639,6 +1694,17 @@ Upādāna. Mahāvagga [?] 6 [?]. Pali quotation, including ‘dukkhaṃ … pañ
 Dhammacakkappavattana Sutta, Rhys Davids trans.: ‘The next: Five aggregates with attachment … are painful’ [wording abbreviated in notebook]. Upādāna, or grasping / attachment, is thus treated as the source or condition of the aggregates as suffered.
 
 A secondary source (SPCK, p. 113 [?]) is quoted: ‘A comprehensive name for all the five skandhas is upādhi,’ a word derived/allusively connected with upādāna, ‘to grasp,’ either with the hand or the mind. When the Buddhist becomes an Arhat and reaches Nirvāṇa he has extinguished craving and passion, but while alive his upādhi — the skandhas, his body with all its powers — remains. At death, however, ‘he will have reached nir-upādhi-sesa-nirvāṇa-dhātu,’ extinction without residue of the five skandhas.
+
+**Chinese translation / 中文译文**
+
+［续前页法文笔记：］
+「……受孕；我认为这里讨论的是存在者经过受孕而达到实际存在的发展过程。」
+
+取（Upādāna）。《大品》［?］6［?］。巴利文引文包括「dukkhaṃ……pañcupādānakkhandhā dukkhā」。Lovejoy 解释这一常见命题：受到执取的五蕴都是苦。
+
+《转法轮经》，Rhys Davids 译：「接下来：带有执取的五蕴……是苦。」［笔记文字有缩略。］因此，upādāna，即抓取或执着，被理解为诸蕴之所以成为苦的来源或条件。
+
+一条二手来源［SPCK，第 113 页［?］］写道：「概括五蕴的一个总称是 upādhi。」这个词在词源或联想上与 upādāna 相联系，后者指用手或心「抓取」。当佛教修行者成为阿罗汉并证得涅槃时，他已经熄灭渴求与激情；但只要他仍活着，其 upādhi，也就是诸蕴，以及包含各种能力的身体，仍然存在。然而，在死亡时，「他将达到 nir-upādhi-sesa-nirvāṇa-dhātu」，即五蕴无余的灭尽。
 
 **Uncertain readings / 疑难读法:** Mahāvagga reference; name of secondary source before SPCK p.113; exact English wording of quoted explanation; hyphenation/form of nir-upādhi-sesa-nirvāṇa-dhātu
 
@@ -1670,6 +1736,29 @@ This all doth turn to nothingness.’
 
 [Lovejoy underlines the final line.]
 
+**Chinese translation / 中文译文**
+
+取（Upādāna）与依（upadhi）的应用。
+
+另注意《相应部》一段文字［出处部分难辨］。一部二手文献引述：「anupādāno bhikkhu parinibbāyati」，无所执取的比丘进入般涅槃。
+
+Oldenberg 相当明确地指出［第 435 页?］，某个表示「仍有执着或残余」的形式，是不还者（anāgāmin）的属性。因此，这些词保留了伦理性用法：虽然造成进一步普通再生的因缘几乎已经耗尽，但对于罪性或执着的摆脱仍可能尚未完全。［数行文字不确定。］
+
+涅槃（Nibbāna）。
+
+《弥兰陀问经》第 3／2 页［?］。一位修行者遍寻诸天，想找到能够回答「诸要素究竟在哪里彻底终止？」的神祇，却始终无果。最后他回到佛陀面前，得到如下回答：
+
+「在那里，识不可见，
+无边，光明……
+在那里，地、水、火与风
+无处立足；
+在那里，长与短，
+小与大，美与丑……
+而当识与这些……
+这一切都归于虚无。」
+
+［Lovejoy 在最后一行下画了横线。］
+
 **Uncertain readings / 疑难读法:** source author/page before the anupādāno quotation; exact technical form contrasted with anupādāna; several lines of the Nibbāna verse
 
 #### 004 · PDF 061 · Manuscript / 手稿 163
@@ -1688,6 +1777,18 @@ Also, the use of upādhi is pressed as evidence. ‘When a Bhikkhu has become an
 Hence parinirvāṇa = complete extinction; nir-upādhi-sesa nibbāna-dhātu = extinction not only of passion, but also of the ‘five skandhas.’ Nirvāṇa without the qualifying phrase does not mean exactly the same thing as parinirvāṇa.
 
 Rhys Davids discusses a principally unsuccessful attempt to prove the contrary, especially regarding nibbāna & parinibbāna.
+
+**Chinese translation / 中文译文**
+
+涅槃（Nibbāna）。
+
+《相应部》／Rhys Davids［?］：涅槃是心意中有罪性的抓取状态之熄灭。依照佛教，这种状态会造成个体存在再度生起。因此，涅槃是一种无罪的伦理心态所产生的结果。它意味着贪欲、恶意与愚痴之火「熄灭」。［出自二手文献。］
+
+upādhi 的使用也被当作证据。「当比丘成为阿罗汉、证得涅槃时，除身体之外，他已经熄灭 upādāna 与 rāga，也就是执取和贪染；但他仍然活着；upādhi，也就是诸蕴，或具有各种能力的身体……仍然存在。然而，这些都是无常的，很快就会消失。到那时，不再有任何思想或力量造成一组新的蕴生起。阿罗汉将不再以任何意义存活或存在。」
+
+因此，般涅槃（parinirvāṇa）＝完全灭尽；nir-upādhi-sesa nibbāna-dhātu＝不只是激情的熄灭，也是「五蕴」的熄灭。没有限定词的「涅槃」，其含义并不完全等于「般涅槃」。
+
+Rhys Davids 讨论了一种大体失败的相反论证，尤其涉及 nibbāna 与 parinibbāna 之间的差别。
 
 **Uncertain readings / 疑难读法:** opening Saṁyutta/Rhys Davids citation; one phrase before ‘rise of a fresh set of skandhas’; exact reference for parinirvāṇa terminology
 
@@ -1708,6 +1809,18 @@ N. & flame. Citation.
 
 Buddhavaṁsa: ‘As where heat is, there is cold; so where the three-fold fire is, Nirvāṇa must be sought.’
 
+**Chinese translation / 中文译文**
+
+［接上页。］
+
+关于关键问题，Lovejoy 得出结论：涅槃意味着造成再生之原因的熄灭，而佛教的最终目标是存在的绝对终止。「对我的论文来说，所需要的就是这些」；至于更偏哲学的问题，没有必要进一步展开。
+
+他顺便补充：Childers 对涅槃的看法很可能正确；而其他作者提出的更加哲学化或形而上学化的解释，则存在严重问题，或缺乏可靠支持。
+
+涅槃与火焰。引文。
+
+《佛种姓经》：「正如有热之处，也必有冷；同样，有三重火焰之处，就必须寻求涅槃。」
+
 **Uncertain readings / 疑难读法:** names in the sentence comparing interpretations of Nirvāṇa; exact wording of the Buddhavaṁsa citation
 
 #### 004 · PDF 063 · Manuscript / 手稿 167
@@ -1727,6 +1840,18 @@ The poison has really been all removed. In another Majjhima-Nikāya passage (Maj
 
 Warren misunderstands this [p. 373 ?]. Evidently ‘upādisesa’ here has not the technical meaning of a residuum of earthly substance, but the ethical meaning of a residuum of impurity.
 
+**Chinese translation / 中文译文**
+
+无余依涅槃（Anupādisesa Nibbāna）等。该词的「残余」意义。
+
+一种拟议的解释是：「某人身上仍然存在，或者至少相对而言仍存在，尘世罪性的一点残余。」Upādi 被理解为等同于 upādhi，词形变化也许来自抄写错误，是与 anupādisesa／sa-upādisesa 作错误类比的结果。Lovejoy 对照多个段落检验这一解释。
+
+例如，《中部》某经中，一名被毒箭射伤的人接受医生治疗，直到毒素被清除；他最后处于一种用包含 -upādisesa 的形式描述的状态。Lovejoy 认为，这个词关心的是有害状态是否仍然残留，而不是有没有物质性残余。
+
+毒素实际上已经全部清除。《中部》另一段文字［第 72 经?］询问：如来死亡时如果仍是 upādisesa，也就是仍有 upādi 残余，他还会回来吗？回答是否定的，或认为问题本身并不适用。不还者恰恰是仍有少量罪性残余的人，这些残余将在未来的天界存在中被消除；说他在死亡时「没有任何 upādi 残余」，显然讲不通。
+
+Warren 对此有所误解［第 373 页?］。这里的 upādisesa 显然不是尘世物质残余的技术性概念，而是指不净残余的伦理意义。
+
 **Uncertain readings / 疑难读法:** opening etymological phrase; first Sutta reference and exact poisoned-arrow terminology; Majjhima-Nikāya section number; Warren page number
 
 #### 004 · PDF 064 · Manuscript / 手稿 169
@@ -1745,6 +1870,18 @@ Pali line: ‘Yo nāma bhavesu sāraṃ …’ [partly illegible].
 Lovejoy’s English gloss: ‘Who has not / seeks no essence in the existences, like one that looks for flowers on fig-trees — the bhikkhu leaves this and the further shore.’
 
 Miln.: ‘He sees all this is false.’
+
+**Chinese translation / 中文译文**
+
+［接上页：］「不净的残余。」
+
+引文。《经集》Ⅰ，5［?］。
+
+巴利文：「Yo nāma bhavesu sāraṃ……」［部分难辨。］
+
+Lovejoy 的英文解释：「那个不在诸种存在中寻找本质的人，就像有人在无花果树上寻找花朵一样；比丘舍弃此岸与彼岸。」
+
+《弥兰陀问经》：「他看见这一切都是虚妄的。」
 
 **Uncertain readings / 疑难读法:** Pali verse; exact Sutta-Nipāta reference; exact wording of the English gloss
 
@@ -1769,6 +1906,22 @@ The word upādisesa occurs once in Sutta-Nipāta (p. 135 [?]) in a Pali passage 
 Pali verse [partly illegible], followed by Lovejoy’s translation:
 ‘Thus some paṇḍits say that the chief thing in this world is the purification of the demons; others, again, say that religious observances (? samayaṃ) are the …’
 
+**Chinese translation / 中文译文**
+
+执取（Upādānaṃ）。
+
+《相应部》ⅩⅩⅣ／ⅩⅩⅡ，40［?］：
+「什么是可能受到执取的事物？什么是执取？眼等等，是可能受到 upādāna 支配的事物；凡是与之相关的贪婪与欲望，就是 upādāna。」
+
+《相应部》22，121［?］亦然。另参见《相应部》22，32，那里再次提到 upādāniya-dhammā：当人以愉悦之情观看可能被执取的事物时，欲望生起；由欲望生起执取，等等。
+
+《经集》：「不再……5，生已经被摧毁。」［第 15 页?］
+
+upādisesa 一词在《经集》中出现一次［第 135 页?］，所在巴利文段落以「evaṃ……bhikkhuno……」开头；这里指的是不还者。另有一个同义或相关形式出现一次［第 876 偈?］；否定形式 anupādisesa 则出现在另一首偈颂中。
+
+巴利文偈颂［部分难辨］，之后是 Lovejoy 的翻译：
+「有些智者说，这个世界上最重要的事情是净化恶魔；另一些人则说，宗教仪式［samayaṃ?］才是……」
+
 **Uncertain readings / 疑难读法:** first Saṁyutta-Nikāya book/section number; Pali quotation; exact related form and reference; translation continues on next page
 
 #### 004 · PDF 066 · Manuscript / 手稿 173
@@ -1786,6 +1939,17 @@ No one familiar with Buddhist modes of thought could suppose that anupādisesa h
 Clearly, the word anupādisesa here means the moral condition of being freed from attachment. It is to be understood as freedom from attachment rather than as ritual observance / superstition.
 
 Thus, in the three passages of the Sutta-Nipāta in which the word upādisesa occurs, it clearly does not refer to the persistence of the five skandhas, but to an ethical condition. When used positively it is applied to the anāgāmin, in whom a small residue of sinful nature still remains; when used negatively it applies to the Arahat, whether before or after his physical death.
+
+**Chinese translation / 中文译文**
+
+［译文接上页：］
+「……最重要的事情；但真正明智的人说，最重要的是达到 anupādisesa 的状态。」
+
+任何熟悉佛教思想方式的人，都不会认为这里的 anupādisesa 指诸蕴的灭尽，也就是生理死亡。对已经摆脱欲望的存在者来说，生与死没有区别；把死亡描述为至高之善，反而是最不符合佛教精神的说法。
+
+显然，这里的 anupādisesa 指脱离执着的伦理状态。它应理解为摆脱执取，而不是遵守仪式或迷信。
+
+因此，在《经集》中 upādisesa 出现的三处段落里，这个词显然都不是指五蕴是否持续存在，而是指某种伦理状态。肯定形式用于不还者，他身上仍残留少量罪性；否定形式则用于阿罗汉，无论是在其生理死亡之前还是之后。
 
 **Uncertain readings / 疑难读法:** one sentence contrasting attachment with religious observance / superstition
 
@@ -1807,6 +1971,20 @@ MP. Text-criticism.
 Of the two Chinese versions, the earlier does not seem to go much further than vol. I, p. 99 (just where the Pali text remarks, ‘Here end the questions by Milinda’ [?]); the latter, though it goes beyond this point, apparently stops at vol. I, p. 114. But Rhys Davids argues that so elaborate an introduction would hardly have been written to so small a text — 39 pages — and more must once have belonged to it.
 
 [Lower-right note:] ‘production of khandhas’ — by the two destructions / two Nirvāṇas, one is extinguished, being free from upādāna, like a lamp that has gone out. Two points are then to be noted, continued next page.
+
+**Chinese translation / 中文译文**
+
+余依（Upādhi）。参见 B. 词典，第 598 页［?］。
+
+抄录 Buddhaghosa 对《法句经》第 89 偈的巴利文注释，Fausbøll 编本第 278 页［?］。这段注释借助 sa-upādisesa 与 anupādisesa 两种说法，区分烦恼的消除与诸蕴终止，并据此讨论 parinibbuta。
+
+Lovejoy 的解释：当阿罗汉果位已经达到、导致再生的欲望已经终止时，就可以说进入般涅槃；当仍有 upādhi 残留的条件熄灭时，或者进入完全没有 upādhi 残留的状态时，也同样可以使用这个说法。
+
+《弥兰陀问经》。文本校勘。
+
+在两个汉译本中，较早的版本似乎只到第一卷第 99 页左右；那里恰好出现「弥兰陀的提问到此结束」［?］的说明。较晚的译本虽然超出这一点，却显然在第一卷第 114 页停止。不过 Rhys Davids 认为，如此详尽的导论，不太可能是为一部只有 39 页的短文本写作的，因此原本必然还有更多内容。
+
+［右下方笔记：］「诸蕴的产生」：通过两种消除或两种涅槃，其中一种被熄灭；它脱离 upādāna，就像一盏熄灭的灯。另有两点需要注意，续下页。
 
 **Uncertain readings / 疑难读法:** Pali commentary copied from Buddhaghosa; dictionary/source abbreviation at top; exact wording of Chinese-version note; first point in lower-right note continues on p.68
 
@@ -1834,6 +2012,25 @@ Derived Elements.
 2. Psychology.
 3. Khandhas.
 
+**Chinese translation / 中文译文**
+
+［接上页。］
+
+新的诸蕴停止产生，既与 sa-upādisesa 状态有关，也与 anupādisesa 状态有关。在其他地方，无论是［sa-upādisesa 类别］还是 anupādisesa／阿罗汉，都不再产生新的蕴。
+
+2. 在相关段落中，anupādisesa 与 anupādāna 几乎作为同义词使用。
+
+这两个词的关键在于，它们用于两类人：其功德或修行成就已经达到一定程度，因此永远不会再出生于这个由诸蕴组成的世界。其中一类人只会在梵天界再生；阿罗汉则完全不会再生。两个词都与现有诸蕴是否灭尽无关，而是表示能够造成未来再生的因果力量，也就是欲望或执取，已经终止。
+
+原有成分。
+1. 把流变理解为痛苦之所以产生的原因，等同于三法印。
+2. 缘起公式。
+
+派生成分。
+1. 感觉知觉理论。
+2. 心理学。
+3. 诸蕴。
+
 **Uncertain readings / 疑难读法:** names of the two spiritual classes in first paragraphs; one short clause after the rebirth distinction
 
 #### 004 · PDF 069 · Manuscript / 手稿 179
@@ -1855,6 +2052,21 @@ Khandha-Saṁyutta. References to Warren p. 487 and Childers; form-group = rūpa
 
 Upādānaṃ. Saṁy. 22.77, 8 + 10 [?]:
 ‘Thus hearing the doctrine, the disciple feels disgust at the skandhas; feeling displeased / disgusted, he becomes free from passion; when he is thus freed, the consciousness arises: I am freed.’
+
+**Chinese translation / 中文译文**
+
+执取（Upādānaṃ）。
+
+《相应部》中一部又一部经文，都用来解释五蕴，并反复说明应当以厌离、无贪与不执着的态度看待它们。
+
+《相应部》22，59，23［?］：世尊宣讲这段解释时，五位比丘的心从诸漏之中获得解脱。
+
+《相应部》22，63：「执着诸蕴，人就被魔罗束缚；不再执着，人就从恶者或魔罗那里获得解脱。」
+
+《蕴相应》。参见 Warren 第 487 页及 Childers；色组＝rūpakkhandha，派生色＝upādāya-rūpa［?］。［书目笔记部分难辨。］
+
+执取。《相应部》22，77，8＋10［?］：
+「弟子如此听闻教义，便对诸蕴生起厌离；由于厌离，他摆脱贪染；当他如此解脱时，便生起这样的意识：我已经解脱。」
 
 **Uncertain readings / 疑难读法:** first Saṁyutta reference numbering; exact Pali compound for derivative form; small bibliographic note before the final quotation
 
@@ -1879,6 +2091,22 @@ Vinaya, Mahāvagga, p. 134 [?].
 
 Heading for next material: Dhammapada.
 
+**Chinese translation / 中文译文**
+
+执取等。
+
+《相应部》23，8，5［?］：
+「罗陀，当比丘如实看见五取蕴的生起与毁灭，看见其滋味与灭尽，并摆脱执取而获得解脱时，这位比丘就被称为阿罗汉，也就是已经摧毁诸漏的人。」
+
+《法句经》第 89 偈［?］。巴利文偈颂以「Ādānapaṭinissagga……ye ratā……」开头［部分可辨］。Lovejoy 解释为：那些乐于摆脱抓取、脱离执取与渴求的人，进入涅槃。接着是 Buddhaghosa 的注释。
+
+所引段落：
+《经藏》：［多条经文出处，包括 9、Ⅰ.1、13、Ⅱ.2、Ⅱ.3 等。］
+《中部·行生经》［?］。
+《律藏·大品》，第 134 页［?］。
+
+下一组材料的标题：《法句经》。
+
 **Uncertain readings / 疑难读法:** Saṁyutta reference; Pali Dhammapada verse; reference list on right page; Majjhima sutta title
 
 #### 004 · PDF 071 · Manuscript / 手稿 183
@@ -1894,6 +2122,15 @@ Pali/Sanskritized phrase partly legible:
 ‘… gaṇhāmi (grasping) … cattāri upādānāni kiñci anupādiyitvā … anubhāvato … Arahatta-magga … khandhā …’
 
 The remaining right-hand page is blank.
+
+**Chinese translation / 中文译文**
+
+［《法句经》／巴利文笔记；笔记本到此结束。］
+
+巴利文或梵文化的词组部分可辨：
+「……gaṇhāmi［抓取］……cattāri upādānāni［四种执取］kiñci anupādiyitvā……anubhāvato……Arahatta-magga［阿罗汉之道］……khandhā［诸蕴］……」
+
+剩余的右侧页面为空白。
 
 **Uncertain readings / 疑难读法:** nearly the entire Pali passage; only isolated forms such as upādāna / anupādiyitvā / Arahatta-magga / khandhā are secure
 
