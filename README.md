@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—90 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—105 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—90 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—105 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -3989,6 +3989,10 @@ Notes on sacrificial burning and first-fruits. Lovejoy contrasts cases in which 
 
 Feasts of first fruits: a Zululand example (p. 161–2 in the cited source) requires purification before anyone may taste the new grain. Lovejoy treats the rite as a problem of interpretation: it may look like an offering or sacrifice, but its rationale may instead be purification, taboo, or communal renewal.
 
+**Chinese translation / 中文译文**
+
+关于焚烧祭与初熟祭的笔记。Lovejoy 对照焚烧仪式中男女受到不同处理的个案，并追问这种区别是否与食物、净化或丧葬牺牲观念相关。初熟节方面，祖鲁兰一例要求任何人品尝新谷之前先行净化。Lovejoy 把它视为解释问题：仪式看似供奉或牺牲，其根据却可能是净化、禁忌或共同体更新。
+
 **Uncertain readings / 疑难读法:** opening comparison of burning rites is partly illegible; exact source title for the Zululand reference is uncertain
 
 #### 005 · PDF 092 · Manuscript / 手稿 187
@@ -4001,6 +4005,10 @@ Feasts of first fruits: a Zululand example (p. 161–2 in the cited source) requ
 Inserted sheet over manuscript p. 187. Lovejoy continues the first-fruit problem and asks whether ceremonies connected with new fruit/new grain should be classed as sacrifice. He notes that apparently sacrificial acts may be better explained by purification or by a preliminary taboo before consumption.
 
 The sheet also opens a cluster of examples on funerary relations to other divinities. Offerings to spirits of the dead, rocks, trees, and other local beings are compared in order to decide whether local divinities are independent nature spirits, transformed dead, or later combinations of both.
+
+**Chinese translation / 中文译文**
+
+覆盖在手稿第 187 页上的夹页。Lovejoy 继续讨论初熟问题，追问新果、新谷仪式是否应归为牺牲；表面上的献祭行为，或许用净化或食用前的预备性禁忌解释更好。夹页又开启一组关于死者与其他神灵关系的例子：对死者精灵、岩石、树木及其他地方存在的供奉被相互比较，以判断地方神是独立自然精灵、变形的死者，还是两者后来的结合。
 
 **Uncertain readings / 疑难读法:** several ethnographic names and page references illegible; right-hand source list is fragmentary
 
@@ -4015,6 +4023,10 @@ Inserted sheet. Lovejoy examines temples/altars and cult places associated with 
 
 The analytic question is genealogical: whether ancestor worship is primary, whether local gods are transformed ancestors, or whether several cults have become superimposed. Direct descent can determine which dead spirit a worshipper is best placed to address.
 
+**Chinese translation / 中文译文**
+
+夹页。Lovejoy 考察与新近死者和祖先相关的庙宇、祭坛与祭祀地点。他指出，向祖先祈祷献祭极为常见，尤其对象是自己的父母或直系先人；其他“神”也可能被解释为死者精灵。分析问题属于谱系学：祖先崇拜是否最初在先？地方神是否由祖先转化而来？抑或多种祭祀后来相互叠加？直接血缘可以决定崇拜者最适合向哪位死者精灵祈求。
+
 **Uncertain readings / 疑难读法:** one temple/tree example is hard to read; several native terms and source names remain provisional
 
 #### 005 · PDF 094 · Manuscript / 手稿 187
@@ -4027,6 +4039,10 @@ The analytic question is genealogical: whether ancestor worship is primary, whet
 Inserted classificatory sheet. Lovejoy separates several classes of divinities: ancestral figures (including chiefs), ancient/local deities, collective tribal divinities, and naturalistic divinities. The notes suggest that older chiefs or ancestors can be assimilated to local gods, while conquered or absorbed groups may contribute further divine figures.
 
 He is trying to explain how a pantheon can arise by layering distinct cults rather than by a single origin.
+
+**Chinese translation / 中文译文**
+
+分类夹页。Lovejoy 区分数类神灵：祖先人物（包括酋长）、古老或地方神、部族集体神，以及自然主义神灵。较早的酋长或祖先可能被同化为地方神，被征服或吸收的群体也可能带来更多神灵。他试图说明，神谱如何由不同祭祀层层叠加而成，而非具有单一起源。
 
 **Uncertain readings / 疑难读法:** some class labels A/B/C are only partly legible; native divine names on the right-hand page are uncertain
 
@@ -4041,6 +4057,10 @@ Inserted sheet continuing the classification of naturalistic divinities: mountai
 
 A key mechanism is identification: spirits of one class can become identified with gods of another class, especially when a dead person's supposed dwelling or function is assimilated to an already existing natural divinity. The result is historical confusion between ancestral and non-ancestral cults.
 
+**Chinese translation / 中文译文**
+
+夹页续分自然主义神灵：山、溪流、泉、湖、云雨与动物，都可能成为神圣力量的所在。Lovejoy 把这种“更早期的自然主义”同后来占优势的祖先祭祀对照。关键机制是认同：一类精灵可与另一类神相认同，尤其当死者被设想的住所或职能被同化到既有自然神时。结果是祖先与非祖先祭祀在历史上相互混淆。
+
 **Uncertain readings / 疑难读法:** one animal/rain example is unclear; final native name is uncertain
 
 #### 005 · PDF 096 · Manuscript / 手稿 187
@@ -4054,6 +4074,10 @@ Inserted note headed by a June 20 reference. Lovejoy tests African material agai
 
 The working hypothesis is that a high/supreme god may be a later development associated with political organization and chieftainship. Lovejoy immediately treats this as a hypothesis to be tested rather than a rule, since apparently 'primitive' peoples can complicate the expected correlation.
 
+**Chinese translation / 中文译文**
+
+题有 6 月 20 日参照的夹页。Lovejoy 用非洲材料检验神灵等级的一般理论，并引 Duff MacDonald 论某些神既非天神，也非至上神的例子。工作假设是：高位或至上神可能是与政治组织和酋长制相连的后起发展。但他立即把它当作待检验的假设，而非规律，因为表面上所谓“原始”民族也会使预期关联复杂化。
+
 **Uncertain readings / 疑难读法:** exact lecture/reference heading uncertain; several lines connecting religion and political organization are heavily abbreviated
 
 #### 005 · PDF 097 · Manuscript / 手稿 187
@@ -4066,6 +4090,10 @@ The working hypothesis is that a high/supreme god may be a later development ass
 Inserted note on the historical development of sacrifice. Annual and communal sacrifice is treated as potentially later than simpler or more local forms. Lovejoy asks when a general developmental theory can be accepted and when apparent similarities may instead reflect borrowing.
 
 He also considers whether older funerary/alimentary practices can be reorganized into agricultural or communal sacrifice, and warns that a present ritual complex may contain elements with different histories.
+
+**Chinese translation / 中文译文**
+
+关于牺牲历史发展的夹页。年度性、共同体牺牲可能晚于较简单或较地方性的形式。Lovejoy 追问，何时可以接受一般发展理论，何时表面相似实际上反映借用。他还考虑，较早的丧葬或食物供奉如何被重新组织为农业或共同体牺牲，并警告：现存仪式复合体可能包含历史各异的成分。
 
 **Uncertain readings / 疑难读法:** opening source/name uncertain; right-hand developmental argument contains several illegible phrases
 
@@ -4082,6 +4110,10 @@ A chicken sacrifice is described in which the bird may be killed without spillin
 
 The right-hand notes compare further African examples, including animal/spirit associations, to decide whether they are funerary, mystical, or protective.
 
+**Chinese translation / 中文译文**
+
+关于向死者和家族精灵供奉的夹页。Lovejoy 追问，死者还会被设想需要什么；如果他们已不需要普通物质用品，“礼物”是否仍有意义。一例鸡祭中，鸡可在不流血的情况下被杀并献给家族精灵，其他情形则割喉。差异很重要，因为血可能具有独立的仪式或巫术意义，而不只是标志祭牲被杀。右侧笔记比较更多非洲例子及动物—精灵关联，以判断其属于丧葬性、神秘性还是防护性。
+
 **Uncertain readings / 疑难读法:** exact source for the chicken example uncertain; animal/spirit example on the right is fragmentary
 
 #### 005 · PDF 099 · Manuscript / 手稿 187
@@ -4094,6 +4126,10 @@ The right-hand notes compare further African examples, including animal/spirit a
 Inserted analytic note distinguishing modes of offering. Some offerings are magical, others propitiatory; funerary liquids or movable goods need not have a mystical character. Lovejoy again resists treating all offerings as communion.
 
 Agricultural/harvest ceremonies are then compared: a chicken may be killed and blood spilled on the ground, and ritual objects may be arranged for protection of crops or fields. Solar heat/light and other natural forces can enter the explanation, making the rite closer to magical or fecundative sacrifice than to alimentary sacrifice.
+
+**Chinese translation / 中文译文**
+
+分析夹页区分供奉方式：有些是巫术性的，有些是和解性的；丧葬中使用液体或动产并不必然具有神秘性质。Lovejoy 再次拒绝把所有供奉都看作共餐。随后比较农业或收获仪式：人们可能杀鸡，把血洒在地上，并布置仪式物品保护庄稼或田地；太阳热力、光及其他自然力量也会进入解释，使仪式更接近巫术性或促生殖性牺牲，而非食物性牺牲。
 
 **Uncertain readings / 疑难读法:** one line on corpse/flesh offerings is unclear; exact harvest locality/source uncertain
 
@@ -4108,6 +4144,10 @@ Bibliographic insert for first-fruit and agricultural sacrifice. Lovejoy lists c
 
 The page functions mainly as a source index for the agricultural-sacrifice section.
 
+**Chinese translation / 中文译文**
+
+初熟祭与农业牺牲的书目夹页。Lovejoy 列出 Ashanti、西非和美洲材料的比较来源，包括 Bancroft 等民族志汇编，并标注初熟宴、祈祷、收获仪式与献祭做法的页码。本页主要充当农业牺牲一节的资料索引。
+
 **Uncertain readings / 疑难读法:** several titles and author names are too abbreviated to normalize securely; page numbers are retained only where visually clear
 
 #### 005 · PDF 101 · Manuscript / 手稿 189
@@ -4120,6 +4160,10 @@ The page functions mainly as a source index for the agricultural-sacrifice secti
 Agricultural/fecundative human sacrifice. A Pawnee example is described as a springtime human sacrifice associated with communal ritual; the victim is prepared and killed in relation to the coming crop.
 
 Lovejoy then compares American cases in which blood is placed on seed-corn or planting is preceded by bloody communal/family sacrifice. Mexican material is especially important: spring or planting rites are treated as attempts to secure fertility by transferring life/power to the crop.
+
+**Chinese translation / 中文译文**
+
+农业或促生殖性人祭。Pawnee 一例是春季举行、与共同体仪式相连的人祭；牺牲品为即将到来的作物而被准备并杀死。Lovejoy 又比较美洲的案例：把血涂在种用玉米上，或播种前进行带血的共同体、家族牺牲。墨西哥材料尤其重要：春季或播种仪式被解释为把生命或力量转移给作物，以确保丰产。
 
 **Uncertain readings / 疑难读法:** details of the Pawnee narrative are partly illegible; several American place/source names uncertain
 
@@ -4134,6 +4178,10 @@ Further agricultural-sacrifice parallels from India and other comparative materi
 
 He distinguishes a true sacrifice from cases in which animal parts or vegetal offerings are used only instrumentally. Yet objects that look merely vegetal or alimentary may still carry sacrificial or fecundative significance if they are understood as furnishing life/substance to a deity, crop, or communal power.
 
+**Chinese translation / 中文译文**
+
+进一步比较印度等地的农业牺牲。Lovejoy 记录仪式使用祭牲或身体一部分、其余被食用的案例，并把收获或周期性仪式同 Mannhardt 所论材料对照。他区分真正牺牲与仅把动物部位或植物供品当工具使用的情形。不过，看似纯属植物或食物的物品，若被理解为向神、作物或共同体力量提供生命或实体，也仍可能具有献祭或促生殖意义。
+
 **Uncertain readings / 疑难读法:** left-hand Indian references and Sanskrit/author names uncertain; one Mannhardt comparison is compressed
 
 #### 005 · PDF 103 · Manuscript / 手稿 193
@@ -4147,6 +4195,10 @@ Lovejoy asks about the recent introduction of cannibalism in southern Africa and
 
 He formulates an objection: the theory risks a vicious circle if it assumes agricultural sacrifice first used wild animals and later domestic animals, while domestication itself is supposed to precede agriculture. Lovejoy rejects the premise as generally unsafe and argues that in Africa agriculture can be anterior to domestication; moreover domestic animals need not contribute labor to agriculture.
 
+**Chinese translation / 中文译文**
+
+Lovejoy 追问食人习俗是否近期才传入南非，并借此检验农业牺牲的发展序列。他画出分支图，把栽培植物、家畜与牺牲联系起来，继而追问家畜献祭是否可能源自更早的农业或促生殖仪式。他提出反驳：若理论假定农业牺牲先用野生动物、后来才用家畜，同时又说驯化必定先于农业，就会陷入循环。Lovejoy 认为这一前提通常并不可靠：非洲的农业可以早于驯化，而且家畜也不必为农业提供劳力。
+
 **Uncertain readings / 疑难读法:** labels in the small diagram are partly unclear; two African authorities cited for agriculture/domestication are only partly legible
 
 #### 005 · PDF 104 · Manuscript / 手稿 195
@@ -4159,6 +4211,10 @@ He formulates an objection: the theory risks a vicious circle if it assumes agri
 The domestication/agriculture argument continues. Lovejoy notes cultivation by primitive implements and argues that a mechanical theory of fertilizing newly planted seeds must be kept distinct from later symbolic interpretations.
 
 A broader conceptual note follows: sacrifice of domestic animals can be modified into sacrifice of a divine animal or divine representative, but the historical relation must be demonstrated rather than assumed. The page turns to the spirit/soul of plants and asks whether a sacrificial victim represents the plant in human form.
+
+**Chinese translation / 中文译文**
+
+续论驯化与农业。Lovejoy 指出，使用简陋工具也可以耕作，并主张必须把新种播下后的机械性施肥理论，同后来的象征解释区分开来。随后提出更广的概念问题：家畜牺牲可以转变为神圣动物或神之代表的牺牲，但历史关系必须得到证明，不能预设。末尾转向植物的精灵或灵魂，追问牺牲品是否以人形代表植物。
 
 **Uncertain readings / 疑难读法:** opening agricultural tool term uncertain; several lines on modification of domestic-animal sacrifice are compressed
 
@@ -4174,6 +4230,10 @@ Lovejoy rejects the assumption that the soul/spirit of vegetation was originally
 He considers a theory in which agrarian sacrifice consists in immolating the soul of the plant to itself, so that the plant may be fertilized by an equivalent or supplementary soul. This, however, would be quasi-mechanical and magical rather than sacramental: the sacrifice is not yet addressed to the plant as a personal deity.
 
 Only at a later stage could a more complicated development produce the sacramental sacrifice of a representative of a god. Lovejoy marks this transition as a point still to be fully discussed.
+
+**Chinese translation / 中文译文**
+
+Lovejoy 拒绝假定植物精灵最初被设想为人形。依据 Mannhardt 等材料，他认为植物灵魂在较早期被构想为动物或植物形态，大概不是人形。他考虑一种理论：农业牺牲是把植物自身的灵魂献给植物，使植物由一个相等或补充的灵魂受精。不过这仍是准机械、巫术性的，而非圣礼性的：牺牲尚未献给作为人格神的植物。只有在后来阶段，更复杂的发展才会产生以神之代表为祭牲的圣礼性牺牲；Lovejoy 标明这一转变仍待充分讨论。
 
 **Uncertain readings / 疑难读法:** final right-hand summary is abbreviated; manuscript page number is not visible in the scan
 
