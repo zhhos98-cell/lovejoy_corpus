@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—60 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—75 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—60 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—75 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -3421,6 +3421,10 @@ Sacrifice: to analyze carefully whether a form is primitive, first determine its
 
 Prosperousness/fullness as a motive for fertility sacrifice; all forms of this sort to be brought together.
 
+**Chinese translation / 中文译文**
+
+分析某种牺牲形式是否“原始”时，首先要判定它的自然性质或社会性质；有了这些材料，才可区分两类特征。还必须追问：某种做法如何在外部压力下转化为牺牲？较高层次的宗教解释是否已经影响它？若干行疑读；该仪式又与其他动物牺牲形式相关。丰产或充盈是生育性牺牲的动机；同类形式应汇集比较。
+
 **Uncertain readings / 疑难读法:** opening analytic paragraph heavily abbreviated; several words illegible
 
 #### 005 · PDF 062 · Manuscript / 手稿 125
@@ -3439,6 +3443,10 @@ In L'Anthropologie, article [reference uncertain].
 Brinton, article [title uncertain] — for good bibliography & fair sketch of subject.
 Blood-Covenant & The Threshold Covenant of H. Clay Trumbull.
 Strack, Der Blut-Aberglaube [?] (contains blood material).
+
+**Chinese translation / 中文译文**
+
+“牺牲——书目”：André（？）《食人》；Steinmetz《内食人》；《人类学》中的某篇文章；Brinton 的一篇文章，可提供良好书目与公允概述；H. Clay Trumbull《血盟》与《门槛盟约》；Strack《血的迷信》（？），含血液相关材料。
 
 **Uncertain readings / 疑难读法:** first French title/author and one article citation uncertain
 
@@ -3464,6 +3472,10 @@ Grout, Lewis — Zululand.
 Norris, Robert — Memoirs of the Reign of Bossa Ahadee [?].
 [other references].
 
+**Chinese translation / 中文译文**
+
+非洲书目或民族志来源：Callaway《Amazulu 的宗教体系》；J. Macdonald/Mackenzie（？）关于 Bushmen 的著作；Bleek《Bushmen 民间传说简述》（？）与《Bushmen 神话一瞥》（？）；Hahn《Khoi-Khoi 的至上存在》（？）；Kolbe《好望角记述》；Casalis《Basutos》；Livingstone《南非传教旅行》；另有若干部南部非洲著作；Stanley《在刚果的五年》；Cowper Rose《南非四年》；Lewis Grout《祖鲁兰》；Robert Norris《Bossa Ahadee 统治回忆录》（？）等。
+
 **Uncertain readings / 疑难读法:** several author names/titles difficult; transcribed only where legible
 
 #### 005 · PDF 064 · Manuscript / 手稿 129
@@ -3476,6 +3488,10 @@ Norris, Robert — Memoirs of the Reign of Bossa Ahadee [?].
 No. 18. The sacrifice magical in a sort of machine: one should not put it into operation unless sure of remaining master of it, for the body/power will take advantage of a man's lack of technical skill with the magical apparatus to subdue him in turn to their will. It is a family/transaction between food and sacrifice in which one or the other must go under.
 
 But there are also magical sacrifices where one does not even work by way of constraint upon the will of gods, but directly upon the forces of nature. If one wants rain, one makes [an imitative rite], the savage idea being that some strange unity in nature links the act to the desired result.
+
+**Chinese translation / 中文译文**
+
+第 18 项。巫术性牺牲像一部机器：除非确信能够驾驭它，否则不应启动，因为其中的身体或力量会利用操作者技术不足，反过来使他屈从其意志。这是食物与牺牲之间的一种关系或交易，双方必有一方被制服。但也有一些巫术牺牲，并非强迫诸神的意志，而是直接作用于自然力量。例如祈雨时施行模仿性仪式；所谓“野蛮人”的设想是，自然中某种奇异统一性把仪式行为与预期结果连结起来。
 
 **Uncertain readings / 疑难读法:** one phrase in opening paragraph; bottom example trails onto next page
 
@@ -3490,6 +3506,10 @@ But there are also magical sacrifices where one does not even work by way of con
 
 One common class concerns offerings to the dead. At first naturally food is given to the dead and [then] sacrifice develops from it. The dead receive food, blood, libations of wine, and in some cases human victims. The ideas underlying these offerings are various and often mixed.
 
+**Chinese translation / 中文译文**
+
+续上：这些仪式不能被认作单一的原初类型。更常见的是多种动机混杂，只有细致分析才能把不同仪式要素分别归类。若干原本性质不同的牺牲，经过一段时期后合并，便形成混合主义。常见的一类是向死者供奉：起初自然只是给死者食物，随后由此发展为牺牲。死者得到食物、血、酒祭，有时也得到人牲；支撑这些供奉的观念多种多样，并常彼此混合。
+
 **Uncertain readings / 疑难读法:** upper-left continuation uncertain; some examples of offerings compressed
 
 #### 005 · PDF 066 · Manuscript / 手稿 133
@@ -3503,6 +3523,10 @@ One common class concerns offerings to the dead. At first naturally food is give
 
 In many cases the rite becomes a family or communal obligation: performance by the community/family has a social character apart from the private needs of the individual dead. Family sacrifice may thus acquire wider social and religious force.
 
+**Chinese translation / 中文译文**
+
+“丧葬牺牲”。目的在于把死者生前拥有之物继续供给来世；到较后阶段，人们杀死一个人或奴隶，使死者在彼世相应处境中仍有侍从。王族或富人下葬时，墓边或祭桌旁可能杀人。许多个案中，仪式成为家族或共同体的义务：共同体或家庭的履行具有社会性质，超出个别死者的私人需要；家族牺牲因而可能取得更广泛的社会和宗教力量。
+
 **Uncertain readings / 疑难读法:** several clauses in middle and lower half indistinct
 
 #### 005 · PDF 067 · Manuscript / 手稿 135
@@ -3514,6 +3538,10 @@ In many cases the rite becomes a family or communal obligation: performance by t
 
 On southern African populations and sacrifice. Distinctions among Bantu, Bushmen, and Hottentot/Khoi groups are noted, with mixtures between them. Lovejoy asks how far sacrificial practices vary with these cultural groupings. In the southern branch, as one moves toward [region uncertain], sacrifice becomes more prominent. Cannibalistic rites and extravagant human sacrifice/massacre in some polities are compared with ordinary funerary killing of wife or slave. The difference may be political/status rather than a fundamentally different religious motive: the king simply has greater power/resources.
 
+**Chinese translation / 中文译文**
+
+讨论南部非洲人口与牺牲。笔记区分 Bantu、Bushmen 与 Hottentot/Khoi 群体，也注意其相互混合，并追问献祭做法在多大程度上随这些文化分组而变化。在南部支系中，越接近某个未辨明地区，牺牲似乎越突出。某些政体中的食人仪式及铺张的人祭或屠杀，与通常在葬礼杀死妻子或奴隶的做法相比较；差别或许在政治权力与身份，而非根本不同的宗教动机——国王只是拥有更多权力和资源。
+
 **Uncertain readings / 疑难读法:** ethnographic group names and one regional term uncertain
 
 #### 005 · PDF 068 · Manuscript / 手稿 137
@@ -3524,6 +3552,10 @@ On southern African populations and sacrifice. Distinctions among Bantu, Bushmen
 **English transcription / 英文转录**
 
 [South African examples continued.] References to Max Müller/Callaway [?] and Zulu/Bantu materials. Lovejoy compares forms of sacrifice and divine/ancestral beings, asking whether apparent differences represent developmental stages or merely different social settings. [Much of page illegible.]
+
+**Chinese translation / 中文译文**
+
+续南非例证，涉及 Max Müller／Callaway（？）及 Zulu、Bantu 材料。Lovejoy 比较牺牲的形式与神灵或祖先存在，追问表面的差别究竟代表发展阶段，还是仅仅来自不同社会环境。本页大部分无法辨读。
 
 **Uncertain readings / 疑难读法:** page extremely difficult; retained only secure argumentative structure
 
@@ -3538,6 +3570,10 @@ A recent ancestor may retain power and influence after death; offerings/prayers 
 
 Lovejoy cautions against ranking cultures by a simple scale. Funeral sacrifice may be extremely primitive even when elaborate. Animal sacrifice is not necessarily evidence of advancement over human sacrifice; in some contexts the human victim belongs to an older period of extreme respect for a particular dead person. [citation notes follow].
 
+**Chinese translation / 中文译文**
+
+较近世的祖先死后仍可能保有权力与影响，人们会向其供奉、祈祷；与此同时，巫术行为也可绕开人格神，直接产生即时效果。Lovejoy 警告，不应把文化简单排成单线等级。丧葬牺牲即便形式繁复，也可能极为早期；动物牺牲不必表示比人祭更“先进”。在某些语境中，人牲反而属于一个极端尊崇特定死者的较早时期。下有引文笔记。
+
 **Uncertain readings / 疑难读法:** citations and some ethnographic wording uncertain
 
 #### 005 · PDF 070 · Manuscript / 手稿 141
@@ -3549,6 +3585,10 @@ Lovejoy cautions against ranking cultures by a simple scale. Funeral sacrifice m
 
 Animal sanctity and sacrifice. References include Cowper Rose, Four Years in Southern Africa. Restrictions on women in relation to cattle/animals are noted. Lovejoy asks whether reverence for animals sacrificed to a deity really implies divinity of the animal. In some cases killing a rain-maker/diviner is punishment for failure to exercise his function effectively, rather than sacrifice to gain rain. Similar cases must be distinguished from genuine religious sacrifice; one cannot infer sacrificial meaning merely from ritualized killing.
 
+**Chinese translation / 中文译文**
+
+动物的神圣性与牺牲，所引包括 Cowper Rose《南非四年》。笔记提到妇女接触牛或其他动物时受到的限制。Lovejoy 追问，敬重献给神的动物，是否真的意味着动物本身具有神性。有些杀死祈雨者或占卜者的案例，是惩罚其未能有效履职，而不是为了求雨献祭。必须把这类情形同真正宗教牺牲区分开来；不能仅凭杀戮经过仪式化便推断其具有献祭意义。
+
 **Uncertain readings / 疑难读法:** several citation details uncertain
 
 #### 005 · PDF 071 · Manuscript / 手稿 143
@@ -3559,6 +3599,10 @@ Animal sanctity and sacrifice. References include Cowper Rose, Four Years in Sou
 **English transcription / 英文转录**
 
 [continuation] One must also distinguish ritual killing from cannibalism. Human flesh may be eaten as a primitive medicine or as a means of driving out/appropriating a spirit, and taboos on eating may have different origins. Such cases provide only cautious evidence for sacrifice proper.
+
+**Chinese translation / 中文译文**
+
+还必须区分仪式性杀戮与食人。食用人肉可能是一种早期药物，或用于驱逐、吸收某个精灵；禁食也可能具有不同起源。因此，这类个案只能为严格意义上的牺牲提供需要谨慎对待的证据。
 
 **Uncertain readings / 疑难读法:** opening lines and final examples uncertain
 
@@ -3573,6 +3617,10 @@ Funerary sacrifice examples. In S.E. Africa and other regions, men may be killed
 
 The rite need not involve communion with a god; its immediate purpose is to provide the dead with company, service, or equipment in the future life.
 
+**Chinese translation / 中文译文**
+
+丧葬牺牲的例子：在东南非及其他地区，酋长葬礼上可能同时杀死若干男子、主要妻子或侍从；牺牲品可从与死者具有某种关系或共同生活者中选择。Lovejoy 把它解释为社会和功能关系的延续：牺牲者被送往彼世陪伴并服侍死者。这种仪式不必涉及与神相通；其直接目的，是为死者在来世提供陪伴、劳役或用具。
+
 **Uncertain readings / 疑难读法:** specific ethnographic names and citations uncertain
 
 #### 005 · PDF 073 · Manuscript / 手稿 147
@@ -3583,6 +3631,10 @@ The rite need not involve communion with a god; its immediate purpose is to prov
 **English transcription / 英文转录**
 
 Burning and destruction of property at funerals. A practice may begin as a way of preventing the dead or spirit from returning, e.g. by destroying objects or blocking the grave, and later acquire another rationale: the spirit of an object is not perfectly released unless the object itself is destroyed. Burning can thus be interpreted as completing the transfer of property to the dead. Lovejoy treats this as a case where a practice develops new explanatory meanings over time.
+
+**Chinese translation / 中文译文**
+
+葬礼上焚烧或毁坏财产。某种做法最初可能是为了阻止死者或精灵返回，例如毁掉物品或封堵墓穴；后来又获得另一套理由：若不毁掉物品本身，其精灵便不能完全释放。因此，焚烧可被解释为完成财产向死者的转移。Lovejoy 借此说明，一种做法如何随时间发展出新的解释意义。
 
 **Uncertain readings / 疑难读法:** one lower paragraph omitted as illegible
 
@@ -3595,6 +3647,10 @@ Burning and destruction of property at funerals. A practice may begin as a way o
 
 References to Cowper Rose, Callaway, Lewis Grout/Zululand and related southern-African material. Sacrificial offerings may superficially resemble totemism or animal worship, but the accompanying rules must be examined before inferring either. Offerings to the dead often have an element of contract or expected advantage, but many are acts of loyalty to a deceased chief rather than payment for a specific favor. Lovejoy stresses that serious offences and propitiatory sacrifice should not be conflated with funerary loyalty.
 
+**Chinese translation / 中文译文**
+
+引用 Cowper Rose、Callaway、Lewis Grout／《祖鲁兰》及相关南部非洲材料。供品表面上可能类似图腾制或动物崇拜，但必须先考察伴随规则，才能作出这类推断。向死者供奉常含契约或预期获利的成分，但许多行为是对已故酋长的忠诚，并非为特定恩惠付款。Lovejoy 强调，严重冒犯后的和解祭，不应与丧葬忠诚混为一谈。
+
 **Uncertain readings / 疑难读法:** several page references and one technical term uncertain
 
 #### 005 · PDF 075 · Manuscript / 手稿 151
@@ -3605,6 +3661,10 @@ References to Cowper Rose, Callaway, Lewis Grout/Zululand and related southern-A
 **English transcription / 英文转录**
 
 [Funerary sacrifice continued.] Lovejoy asks under what social conditions sacrifice of persons around a dead ruler is possible and how it relates to status hierarchy. Such sacrifices are treated as products of a social order in which the dead ruler's household and service relationships are expected to continue. Comparative evidence is cited [references largely illegible]. The page ends by returning to the classification of sacrifice and the question of whether these rites belong to a distinct type.
+
+**Chinese translation / 中文译文**
+
+续论丧葬牺牲。Lovejoy 追问：在何种社会条件下，围绕死去统治者杀人献祭才成为可能？它与身份等级有何关系？这类牺牲产生于一种社会秩序，其中死去统治者的家户与服役关系被期待在死后继续。笔记引用比较材料，但来源多半无法辨读；末尾回到牺牲分类，并追问这些仪式是否构成一种独立类型。
 
 **Uncertain readings / 疑难读法:** most bibliography/case names illegible; argument reconstructed only from clearly legible phrases
 
