@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—75 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—90 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—75 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—90 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -3697,6 +3697,10 @@ Lovejoy stresses the difficulty of interpreting a practice from outward form alo
 
 Another reason for human sacrifice is the desire to communicate with the dead or to send them a message. A letter is a favored method, and the messenger is of course a victim. In this case the sending of a human victim is a kind of utilitarian sacrifice rather than worship. Where the dead person is imagined able to communicate between living and dead, however, the rite may approach a mystical or sacramental form of union.
 
+**Chinese translation / 中文译文**
+
+续论人祭。Lovejoy 强调，仅凭外在形式很难解释一种做法：它可能被理解为向死者提供给养，也可能是防护或巫术行为，或经过后来仪式解释而获得新意义；同一可见仪式未必只有一种动机。人祭的另一理由，是与死者沟通或向其传信；书信是常见方式，而送信者自然就成为牺牲品。此时送出人牲是功利性牺牲，不是崇拜。不过，若死者被设想为能够沟通生死两界，仪式就可能接近神秘或圣礼式的结合。
+
 **Uncertain readings / 疑难读法:** left-hand opening discussion heavily abbreviated; one Dahomey/West-African source citation illegible; exact wording of the final sacramental-union sentence uncertain
 
 #### 005 · PDF 077 · Manuscript / 手稿 155
@@ -3709,6 +3713,10 @@ Another reason for human sacrifice is the desire to communicate with the dead or
 Comparative evidence on human sacrifice and sacrifice among African peoples. Lovejoy cites Callaway and other ethnographic authorities, including material on sacrifices at the accession of a new sovereign and on regions where human sacrifice had formerly been widespread.
 
 He treats these reports source-critically: apparently similar sacrifices may have different historical motives, and survivals or later developments should not be forced into one scheme. Material on the Basuto and on African ritual is used to test whether sacrifice should be read as communion, propitiation, funerary provision, or some other form. The page again questions whether a supposed communion-sacrifice is genuinely primitive or a later development.
+
+**Chinese translation / 中文译文**
+
+比较非洲民族的人祭与牺牲材料。Lovejoy 引 Callaway 等民族志作者，包括新君即位时的献祭，以及过去人祭曾广泛流行地区的材料。他以来源批判方式处理这些报告：表面相似的牺牲可能具有不同历史动机，残存形式或后起发展不应被强塞进单一图式。Basuto 与其他非洲仪式材料被用来检验：牺牲应理解为共餐、和解、丧葬供给，还是其他形式？他再次追问，所谓共餐牺牲究竟真是早期类型，还是后来发展。
 
 **Uncertain readings / 疑难读法:** several author/title and page references are illegible; exact ethnographic locality of one accession sacrifice uncertain; right-hand paragraph contains dense corrections and cancellations
 
@@ -3725,6 +3733,10 @@ Among some peoples the heart or another especially durable/important part of the
 
 Substitution for a human victim may arise relatively late. A fowl or other animal killed at a tomb can be interpreted as establishing a relation between the dead and the sacrificer. Notes from Trumbull's Blood Covenant are used comparatively, but the analogy is treated cautiously.
 
+**Chinese translation / 中文译文**
+
+向死者献人似乎分布极广，但 Lovejoy 追问本地解释究竟是什么。牺牲品可能用于安抚死者精灵，却未必是食物供奉；替代也是另一可能。有些民族把心脏或其他特别耐久、重要的身体部位视为具有特殊价值。Lovejoy 区分自体吞食或食人行为与旨在造成结合的牺牲：前者未必具有任何巫术或神秘效果。以鸡或其他动物替代人牲，或许出现得较晚；墓边杀动物也可被解释为在死者与献祭者之间建立关系。他比较使用 Trumbull《血盟》的笔记，但对类比保持谨慎。
+
 **Uncertain readings / 疑难读法:** opening source/date line uncertain; one phrase concerning the heart/body part is only partly legible; Trumbull page reference uncertain
 
 #### 005 · PDF 079 · Manuscript / 手稿 159
@@ -3737,6 +3749,10 @@ Substitution for a human victim may arise relatively late. A fowl or other anima
 Lovejoy continues with funeral/ancestral sacrifice and the close coexistence of fear and love toward the dead. He looks for evidence that alimentary sacrifice is early and that food or animals given to dead chiefs/ancestors preserve a relation between the living group and its dead.
 
 A Zulu prayer translated by Lewis Grout is especially important. The preliminary ritual identifies illness as caused by neglected ancestors or ancestral shades; they reproach the sufferer and demand a sacrifice, often a particular cow. The resulting prayer is described as a veritable bargain: the worshipper promises the animal in exchange for relief or cure.
+
+**Chinese translation / 中文译文**
+
+续论丧葬或祖先牺牲，以及对死者的恐惧与爱并存。Lovejoy 寻找证据，证明食物性牺牲出现较早，而供给已故酋长或祖先的食物、动物维系了活着群体与死者的关系。Lewis Grout 翻译的一篇 Zulu 祷词尤其重要：预备仪式先把疾病归因于被忽视的祖先或祖灵；祖灵责备病人并要求献祭，常指定一头牛。随后的祈祷被描述为一桩真正的交易：崇拜者许诺献牛，以换取缓解或治愈。
 
 **Uncertain readings / 疑难读法:** one introductory ethnographic citation uncertain; several words in the Zulu-prayer setup are abbreviated; exact wording of the bargain formula continues onto next page
 
@@ -3755,6 +3771,10 @@ A substitutionary or scapegoat notion also appears: the cow may be asked to 'car
 
 Lovejoy concludes that such a case may combine alimentary, expiatory, and funerary sacrifice, while giving little evidence for mystical union.
 
+**Chinese translation / 中文译文**
+
+续 Zulu 祖先牺牲祷词。崇拜者承诺：若得痊愈，就会知道疾病由祖先造成或解除，并在事后献牛。Lovejoy 指出，其中确有对祖先的信赖，但供品仍明确具有交易性，并非无条件赠礼。这里也出现替代或替罪羊观念：人们可要求牛把病人身上的邪恶“带走”。祭牲的某些部位，尤其头骨或牛角，随后被保存为物神或护符，以防疾病复发。因此同一案例可能混合食物性、赎罪性与丧葬性牺牲，却几乎不能证明神秘结合。
+
 **Uncertain readings / 疑难读法:** exact formula addressed to the ancestor partly illegible; one source name near the fetish/skull discussion uncertain
 
 #### 005 · PDF 081 · Manuscript / 手稿 163
@@ -3769,6 +3789,10 @@ Notes on substitution, departed spirits, and ancestor cult. Lovejoy observes tha
 A separate example concerns substitution of a cow for a human life demanded by a hostile spirit: one life is sacrificed for another life threatened by the spirit.
 
 The page then turns to a new topic: circumcision and the ritual use/value of blood.
+
+**Chinese translation / 中文译文**
+
+关于替代、死者精灵与祖先祭祀。Lovejoy 注意到，牺牲对象不仅有男性祖先，也有女性祖先；在父权社会尚未完全确立之处，这一点尤为重要。到后来阶段，祭祀对象可能缩小为男性先祖。另一例中，敌对精灵索取人命，却以一头牛替代：以一个生命代替受到威胁的另一个生命。随后转入新题目：割礼及血的仪式用途或价值。
 
 **Uncertain readings / 疑难读法:** French quotation/source in left column difficult; one ethnographic source for cow/human substitution uncertain; final bibliographic reference introducing circumcision illegible
 
@@ -3785,6 +3809,10 @@ The shedding of blood is central. Young men are circumcised together and are the
 
 The rite can therefore be read as adoption into the paternal/tribal circle, with privileges and responsibilities conveyed through participation in the blood of the group.
 
+**Chinese translation / 中文译文**
+
+割礼被视为纳入共同体的仪式。割礼前，儿童尚不具有部族的完整特权与限制；通过这一行为，他们获得权利和义务。入门者可能梳特殊发式，暂时受到各种限制，之后才回归日常社会生活。流血是核心：青年一同受割礼，此后被认为进入格外亲密的关系，形成兄弟纽带。Lovejoy 明确称其为血兄弟关系，即由同一时间、地点流出的血制造兄弟情谊。仪式因此可理解为被收养进父系或部族圈子，并通过分享群体之血获得特权与责任。
+
 **Uncertain readings / 疑难读法:** one age notation for circumcision uncertain; one phrase about a sacred object/stone touched with blood uncertain
 
 #### 005 · PDF 083 · Manuscript / 手稿 167
@@ -3799,6 +3827,10 @@ The rite can therefore be read as adoption into the paternal/tribal circle, with
 In some ceremonies portions of flesh or selected organs are distributed or reserved, especially where male or patriarchal representation of the family is emphasized. Lovejoy cautions against treating every such use as sacrifice. The choice of particular organs may reflect their supposed sacred or vital character, but this alone does not establish that a sacrificial victim is involved.
 
 The right-hand page is blank.
+
+**Chinese translation / 中文译文**
+
+续论割礼与血。某些仪式会分配或保留肉块及特定器官，尤其是在强调家族的男性或父权代表时。Lovejoy 警告，不能把所有这类用途都看成牺牲；选择特定器官或许反映它被认为神圣或具有生命力，却不足以证明其中存在祭牲。右页空白。
 
 **Uncertain readings / 疑难读法:** several words concerning distribution of flesh/organs are difficult; final analytical sentence is compressed and partly illegible
 
@@ -3815,6 +3847,10 @@ A Basuto example describes sacrifice connected with the founding or consecration
 
 Lovejoy explicitly warns that this need not express the idea of union through blood. Foundation/building sacrifice can instead depend on the independent protective efficacy of the victim's body or blood. Bits of flesh elsewhere function as protective charms.
 
+**Chinese translation / 中文译文**
+
+东非沿岸的牺牲及相关人类学习俗。Lovejoy 记录一种特殊物神或防护仪式，并追问它是否仅限于非洲。Basuto 材料描述建立或祝圣新聚落、新都城时的牺牲：人或动物的遗骸、血、肉、骨可被埋入地基或保存为保护材料，目的在保障新地点的安全、延续或不可攻破。Lovejoy 明确警告，这不必表达通过血液结合的观念；奠基或建筑牺牲可能依靠祭牲身体或血液本身独立的防护效力，其他地方的肉块也可充当护符。
+
 **Uncertain readings / 疑难读法:** title of the German/South-African source uncertain; details of the Basuto foundation narrative partly illegible; several words in the right-hand comparison with funerary divinities uncertain
 
 #### 005 · PDF 085 · Manuscript / 手稿 173
@@ -3830,6 +3866,10 @@ The page gathers material on the life-giving quality of blood, including Trumbul
 
 Lovejoy treats these examples as primarily magical rather than medical, and distinguishes them from sacrifice proper.
 
+**Chinese translation / 中文译文**
+
+人肉可能被搜集来制作符咒；Lovejoy 把它归为献祭—巫术或防护，而非必然属于仪式共餐。他比较促生殖牺牲与奠基牺牲，并指出某些仪式故意使祭牲受苦，这与要求祭牲自愿、喜悦或同意的仪式相反。本页汇集血液赋予生命的材料，包括 Trumbull《血盟》和 Strack《血的迷信》。血被认为具有治疗和返老还童之力：以血沐浴可恢复生命，老人可重获青春，幼童之血可用于健康或更新。Lovejoy 认为这些例子主要属于巫术而非医学，并将其同严格意义上的牺牲区分。
+
 **Uncertain readings / 疑难读法:** one reference to a fort/foundation rite uncertain; exact Strack/Trumbull page numbers uncertain; one example of rejuvenation is difficult to localize ethnographically
 
 #### 005 · PDF 086 · Manuscript / 手稿 175
@@ -3842,6 +3882,10 @@ Lovejoy treats these examples as primarily magical rather than medical, and dist
 Blood, eyes, bones, and other bodily parts are treated as charms against supernatural danger or as means of acquiring the qualities of another person. Lovejoy notes examples in which the eye of a human victim or the body part of a dead chief is believed to confer clearer sight or intelligence; the eye of a white man may be valued because superior intelligence is attributed to him.
 
 Possession of bones or blood can likewise be interpreted as possession of the dead person's strength, health, or power. Blood used in building or protecting a house contributes directly to the stability and safety of the structure. Again the mechanism is magical efficacy, not necessarily communion.
+
+**Chinese translation / 中文译文**
+
+血、眼睛、骨骼及其他身体部位被用作抵御超自然危险的符咒，或用于取得他人的特质。例如，人牲之眼或死去酋长的身体部位据说能赋予更清晰的视觉或智力；白人的眼睛可能因被归有较高智力而受到重视。占有骨或血，同样可被解释为占有死者的力量、健康或权能。建筑或保护房屋时使用血液，则直接增强结构的稳固与安全。其机制仍是巫术效力，不必是共餐结合。
 
 **Uncertain readings / 疑难读法:** one Ashanti/Gold Coast source name uncertain; Trumbull quotation/page reference uncertain; right-hand final source citation illegible
 
@@ -3856,6 +3900,10 @@ A further series of facts concerns ritual uses of blood, especially in the makin
 
 He then distinguishes another process: one may try to place the spirit of a departed personage under one's power or establish a sympathetic relation to it by ritual contrivances. These practices belong to the larger field of sympathetic magic and the manipulation of images or objects, rather than automatically to sacrifice.
 
+**Chinese translation / 中文译文**
+
+另一组材料涉及血的仪式用途，尤其用于制作或激活偶像、物神。Lovejoy 认为，血本身可被赋予有效力量，并不只是精灵在场的凭证；唾液、汗液、尿液与粪便也可具有类似巫术价值。随后他区分另一过程：人们可能借助仪式机关，设法控制某位死者的精灵，或与之建立感应关系。这些做法属于更广义的感应巫术及对图像或物体的操控，不能自动归入牺牲。
+
 **Uncertain readings / 疑难读法:** Grant Allen/source reference in left column uncertain; several words in the transition to spirit-control are illegible; examples following 'sympathetic relation' are heavily abbreviated
 
 #### 005 · PDF 088 · Manuscript / 手稿 179
@@ -3868,6 +3916,10 @@ He then distinguishes another process: one may try to place the spirit of a depa
 Lovejoy distinguishes the manipulation of a person (or part/name of a person) in sympathetic magic from another class of objects credited with efficacy in themselves. Plants, stones, amulets, charms, ju-ju/gri-gri and similar objects can be treated as possessing a natural or supernatural efficacy for particular purposes.
 
 The distinction with fetishism is crucial. A fetish is effective insofar as a spirit is believed to inhabit or be present in the object. A charm or amulet need not contain a spirit at all; its efficacy can be intrinsic to the thing.
+
+**Chinese translation / 中文译文**
+
+Lovejoy 区分两类：一是感应巫术中操控某个人、其身体部分或名字；二是被认为自身即有效力的物体。植物、石头、护身符、符咒、ju-ju、gri-gri 等，可被视为针对特定目的具有自然或超自然效力。与物神崇拜的区别至关重要：物神之所以有效，是因为人们相信精灵居住或存在于物体中；符咒或护身符则完全不必包含精灵，其效力可以内在于物本身。
 
 **Uncertain readings / 疑难读法:** one West-African term after 'gri-gri' uncertain; final example on the right continues onto next page
 
@@ -3884,6 +3936,10 @@ For the conceptual world he is reconstructing, there is no sharp boundary betwee
 
 Human blood can acquire the same general status as a powerful charm, including in European beliefs such as the supposed Jewish use of Christian blood.
 
+**Chinese translation / 中文译文**
+
+引用 Miss Kingsley 关于西非物神与护身符信仰的论述。Lovejoy 强调，护身符不同于物神，其中完全不必有唯灵论观念；佩戴或携带物品以防邪眼等危险，只因人们相信它具有特殊效力。在他重建的观念世界里，自然效力与超自然效力之间没有鲜明界线：曼德拉草可被认为带来财富，正如颠茄被认为具有药效，两者都被当作事物秩序中的事实。人血也可获得强力符咒的一般地位，包括欧洲关于犹太人使用基督徒血液的传说。
+
 **Uncertain readings / 疑难读法:** one specific fetish term/source phrase from Kingsley uncertain; one charm example before the evil-eye sentence is illegible
 
 #### 005 · PDF 090 · Manuscript / 手稿 183
@@ -3898,6 +3954,10 @@ Human sacrifice may sometimes be a ritual device for enforcing the presence or a
 In West-African examples, blood is sprinkled at house entrances during epidemic disease as a protective barrier, 'as a sort of turning of a key against the intruder.' Miss Kingsley is again cited on beliefs in the properties of blood and on haunted or blood-protected houses.
 
 Lovejoy concludes that sympathetic magic may be present in some examples, but the supposed magical potency of blood itself is an independent factor. The discussion continues beyond this page.
+
+**Chinese translation / 中文译文**
+
+人祭有时可能是一种仪式手段，用来强制某个精灵在特定地点现身或效忠。Lovejoy 把它同被归于人血的直接巫术效力区分开来。在西非材料中，瘟疫期间人们把血洒在房屋入口，作为防护屏障，“仿佛转动钥匙，把闯入者锁在门外”。他再次引用 Miss Kingsley 关于血的属性及闹鬼或以血防护房屋的信仰。结论是：某些例子确有感应巫术，但血本身被设想的巫术力量是一个独立因素。讨论延续至下一页。
 
 **Uncertain readings / 疑难读法:** opening historical comparison partly illegible; exact West-African ethnic/group name uncertain; Miss Kingsley page number appears to be c. 525 but is not fully secure
 
