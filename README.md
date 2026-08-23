@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—30 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—45 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—30 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—45 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -2839,6 +2839,10 @@ Inserted notes on Hora/Hova [?] tribes and the dead. General conception: often a
 
 A difficult note contrasting lower and higher forms of future life; readable phrases include ‘evolution,’ ‘higher,’ and a contrast between earthly/social conditions and post-mortem existence. Several lines remain illegible.
 
+**Chinese translation / 中文译文**
+
+〔夹入页；续论死后命运。〕这是一则难以辨读的笔记，对照较低与较高形态的未来生命；可辨词句包括“演化”“较高”，以及尘世或社会条件与死后存在之间的对比。数行仍无法辨认。
+
 **Uncertain readings / 疑难读法:** most of inserted leaf remains difficult to read; OCR unusable
 
 #### 005 · PDF 032 · Manuscript / 手稿 57
@@ -2852,6 +2856,10 @@ A difficult note contrasting lower and higher forms of future life; readable phr
 
 Continuation on survival after death and the conditions under which the dead maintain themselves in existence. The note distinguishes a struggle for survival from later religious ideas in which food/gifts are supplied to the dead.
 
+**Chinese translation / 中文译文**
+
+〔夹入页，暂拟标题为“Mantles——6 月 12—25 日”（？）。〕续论死后存续，以及死者维持自身存在所需的条件。笔记区分了为生存而斗争的状态，与后来由生者向死者供给食物或礼物的宗教观念。
+
 **Uncertain readings / 疑难读法:** heading uncertain; several sentences and source details illegible
 
 #### 005 · PDF 033 · Manuscript / 手稿 57
@@ -2864,6 +2872,10 @@ Continuation on survival after death and the conditions under which the dead mai
 [Continuation of inserted leaf.]
 
 Lovejoy contrasts distributions or offerings to the dead with cult addressed to deceased persons; the page then moves into an analytical remark about age/status and the persistence of favor or rank after death.
+
+**Chinese translation / 中文译文**
+
+〔夹入页续。〕Lovejoy 对比了向死者分配或奉献物品，与以死者本人为对象的祭祀；随后转入分析年龄、身份，以及恩宠或等级在死后是否延续。
 
 **Uncertain readings / 疑难读法:** proper names/source references unclear; many lines only partially legible
 
@@ -2880,6 +2892,10 @@ Parallel of the dead to F. ‘primitive’ F. peoples in Frazer [reference], and
 
 [Case discussion:] [Tonga?] Islands / Polynesia. The note contrasts several classes or ranks and asks whether common people pass into a different post-mortem status; chiefs/nobles and ordinary people are treated differently.
 
+**Chinese translation / 中文译文**
+
+“美洲：哀悼”或“哀悼／存续”（？）。笔记把死者的处境与 Frazer 所述所谓“原始”民族作类比，并记有 Old. 第一卷第 118 页等参照。个案可能涉及 Tonga 群岛或波利尼西亚：Lovejoy 对照若干阶级或等级，追问普通人死后是否进入另一种身份；酋长、贵族与平民受到不同处理。
+
 **Uncertain readings / 疑难读法:** heading after America uncertain; island/group name uncertain; abbreviated sources not expanded
 
 #### 005 · PDF 035 · Manuscript / 手稿 57
@@ -2892,6 +2908,10 @@ Parallel of the dead to F. ‘primitive’ F. peoples in Frazer [reference], and
 [Continuation.]
 
 The page continues a ranked account of post-mortem classes. Lovejoy notes that social distinction may persist after death and asks whether those of lower rank can attain a higher condition. A second column turns to another ethnographic example and again compares rank, privilege, and survival.
+
+**Chinese translation / 中文译文**
+
+续记死后阶级的等级体系。Lovejoy 指出，社会差别可能延续到死亡之后，并追问较低等级者能否达到更高状态。第二栏转向另一则民族志例证，再次比较等级、特权与存续之间的关系。
 
 **Uncertain readings / 疑难读法:** dense handwriting and overlapping abbreviations; ethnographic names and citations uncertain
 
@@ -2907,6 +2927,10 @@ The page continues a ranked account of post-mortem classes. Lovejoy notes that s
 A ‘great tree’ / underworld image is described: a tree, a cavern or region beneath it, and souls or dead persons placed in different conditions. Lovejoy explicitly asks whether this represents annihilation or rather continued existence under better conditions.
 
 Callaway, Relig. [of] Amazulu [reference]: continuation of life and status among the dead.
+
+**Chinese translation / 中文译文**
+
+描述一幅“大树”或地下世界图景：树、树下的洞穴或区域，以及处于不同境况的灵魂或死者。Lovejoy 明确追问，这究竟表示湮灭，还是在更优越条件下继续存在。并引 Callaway 关于 Amazulu 宗教的著作，涉及死者生命与身份的延续。
 
 **Uncertain readings / 疑难读法:** opening source unidentified; tree/underworld description partly illegible; Callaway citation abbreviated
 
@@ -2926,6 +2950,10 @@ D. Is the clan-totem regarded as an ancestor, & F. animals or other beings of F.
 
 But cf. N.W. Coast stories of metamorphosed culture-heroes. In general, the derivation of the stories indicates that the ‘mythical’ intervention was not a belief in ancestral descent.
 
+**Chinese translation / 中文译文**
+
+C. 哪些类别的事物会成为图腾？参见 Boas／《原始艺术》第 204—214 页（？）。D. 氏族图腾是否被视为祖先？某氏族的动物或其他生物是否被视为亲属？参见一处第 34 页及 Frazer《图腾制与族外婚》第一卷第 7—11 页。不过可比较西北海岸关于变形文化英雄的故事。总体而言，这些故事的形成过程表明，所谓“神话性”介入并不等于相信氏族确实由其祖先繁衍而来。
+
 **Uncertain readings / 疑难读法:** Boas title/page range partly uncertain; one first reference illegible
 
 #### 005 · PDF 038 · Manuscript / 手稿 57
@@ -2942,6 +2970,10 @@ Cont. Tot. in New International: a really good likewise pronounces agt Semitic t
 
 3. Offspring of primal, not primal in their present form.
 [references and examples follow, including a parentage/descent motif and Ezek. 23:5 [?]].
+
+**Chinese translation / 中文译文**
+
+图腾制——第三节提纲，兼及闪米特人。New International 中的“Cont. Tot.”条目同样明确反对闪米特图腾制的说法：“的确可以证明，闪米特人相信人与神之间有亲属关系；相信神与动物之间有亲属关系的证据也曾被提出；但最重要的第三项证据——人群与兽群之间的亲属关系——……”第 3 点：他们是原初存在的后裔，而非以现有形态本身就是原初存在。下有若干亲子或谱系母题的例证与书目，或包括《以西结书》23:5（？）。
 
 **Uncertain readings / 疑难读法:** bottom-left quotation incomplete; right-hand examples contain several illegible names and references
 
@@ -2960,6 +2992,10 @@ Job 14: [21?]: after a man is passed away: ‘His sons come to honour, he knowet
 + Eccles. 9:5: ‘F. living know A. they shall die; but F. dead know not anything, neither have they any reward; for F. memory of them is forgotten. Also tr. love & tr. hatred & tr. envy is now perished; neither have they any more a portion of anything A. is done under F. sun.’
 
 [conclusion:] There is no device nor wisdom nor knowledge in F. grave whither thou goest.
+
+**Chinese translation / 中文译文**
+
+“希伯来末世论”。第一，死者不知道地上发生之事，且一般心智能力微弱。《约伯记》14:21 左右说，人死之后，“他的儿子得尊荣，他也不知道；降为卑，他也不觉得。”《传道书》9:5 又说，活人知道必死，死人却毫无所知，也不再得赏赐；他们的爱、恨与嫉妒都已消灭，在日光之下所行的一切上再无分。结论是：人将去的坟墓中，没有工作、谋算、知识或智慧。
 
 **Uncertain readings / 疑难读法:** Job verse number partly obscured
 
@@ -2980,6 +3016,10 @@ Eccles. 9:10: ‘Whatsoever thy hand findeth to do, do it with thy might; for th
 Use of nephesh & ruach.
 [series of Genesis and other references on soul/breath, departure at death, return of the soul, and ‘the soul’ as the person].
 
+**Chinese translation / 中文译文**
+
+“希伯来末世论”续。第二，阴间的死者处在雅威管辖之外，与他没有密切的人格关系。《诗篇》88 篇约第 5、10—12 节写死者不再为神所记念、与其手隔绝，并追问神是否向死人行奇事、是否在坟墓中宣告慈爱。《传道书》9:10 同样说，人在将去的坟墓中没有工作、谋算、知识或智慧。随后考察 nephesh 与 ruach 的用法，列出《创世记》等经文中灵魂或气息、死亡时离去、灵魂返回，以及以“灵魂”指整个人的例子。
+
 **Uncertain readings / 疑难读法:** Hebrew terms and several verse numbers only partly clear
 
 #### 005 · PDF 041 · Manuscript / 手稿 57
@@ -2998,6 +3038,10 @@ In future tense ‘his soul draweth near unto F. pit.’
 Mic. 6:7: ‘shall I give F. fruit of my body for F. sin of my soul.’
 
 But whole [Hebrew expression] … all men … used as names for F. whole of life.
+
+**Chinese translation / 中文译文**
+
+续论 nephesh／ruach。“救赎他们的灵魂脱离死亡”；另可能参照《箴言》中“使你丰肥”等句（？）。将来时表述中有“他的灵魂临近深坑”。《弥迦书》6:7：“我岂可为自己的罪过献我身所生的吗？”Lovejoy 随后指出，整套希伯来语表达常以“灵魂”指人，或指完整的生命。
 
 **Uncertain readings / 疑难读法:** several biblical references and Hebrew words difficult
 
@@ -3021,6 +3065,10 @@ V. art Tot. Enc. Brit.
 
 [Loose slips on right:] Greek lexical and textual notes concerning psychē / pneuma and occurrences in the Iliad and other classical passages.
 
+**Chinese translation / 中文译文**
+
+宗教史——参见第 30 页。课堂内容：旧约；早期希腊；作为中间阶段的新约；希腊化与罗马；波斯。另参见《大英百科全书》“Tot.”条。右侧散页是希腊语词汇与文本笔记，讨论 psychē、pneuma，以及它们在《伊利亚特》等古典文本中的用例。
+
 **Uncertain readings / 疑难读法:** Greek quotations not fully transcribed; several references on loose slips uncertain
 
 #### 005 · PDF 043 · Manuscript / 手稿 57
@@ -3039,6 +3087,10 @@ Mr. G. Campbell: ‘Hast not sense to face an enemy, till he fallen away in bloo
 Cf. [line:] ‘before her sanguine strength she … away,’ i.e. her psychē is in her blood.
 
 ‘Horn. often joins psychē & thymos.’
+
+**Chinese translation / 中文译文**
+
+〔散页；希腊语词汇笔记。〕凭记忆参照 Cassandra 第 1067 行，并抄录希腊文。又引 G. Campbell 先生，大意为：“敌人尚未倒在血泊中时，你竟无胆面对；等他倒下，却向尸体吐唾沫。”另一行写“在她血红的力量……流逝之前”，即 psychē 存在于血液之中。末记：“荷马常把 psychē 与 thymos 并列。”
 
 **Uncertain readings / 疑难读法:** Greek quotation only partially legible; Campbell attribution/title uncertain
 
@@ -3062,6 +3114,10 @@ I. Prim. eschat.: two points: (1) no gen. clear immortality; not [zōē?] but ps
 II. Contact of F. dead & ancestor worship.
 Totemism: [outline continues].
 
+**Chinese translation / 中文译文**
+
+“Nephesh——这个词如何使用？参见英译本中的译法类型。”血就是 nephesh。《创世记》9:4：“惟独肉带着血，那就是它的生命，你们不可吃。”《利未记》17:11—14 同样说，肉身的生命在血中。下为 1905 年 12 月 20 日“宗教史”提纲：先续讲所谓“原始宗教”的演化，再转入旧约。第一，早期末世论的两点：（1）并无普遍而明确的不朽观；关键不是 zōē（？）而是 psychē，应说明 psychē 的意义并纠正错误区分；（2）希伯来末世论中的 nephesh 与 ruach。第二，死者与生者的接触及祖先崇拜。随后继续列图腾制提纲。
+
 **Uncertain readings / 疑难读法:** Greek term in outline uncertain
 
 #### 005 · PDF 045 · Manuscript / 手稿 57
@@ -3082,6 +3138,10 @@ II. Clan or Gentile Totemism
 A. What is a clan or gens.
 = ‘a group of families bearing F. same name or having F. same emblem, claiming descent from a common ancestor, & having in common certain customs & relg. observances wh. are not shared by F. rest of F. tribe or community.’
 F. tribe is, in short, not necessarily consanguineal; F. clan is.
+
+**Chinese translation / 中文译文**
+
+关于“较小的亲属群体”，并有可能涉及波利尼西亚与闪米特材料的引文。图腾制定义：第一，事物类别——同一“血族群体”中的一切成员拥有相同名称。第二，氏族或 gens 图腾制。氏族或 gens 是什么？“由若干家庭组成的群体，具有同一名称或同一标志，自称出自共同祖先，并共同遵守部族或共同体其他成员所不具备的某些习俗与宗教仪式。”因此，部族未必基于血缘；氏族则是。
 
 **Uncertain readings / 疑难读法:** opening minor-relative heading and bibliographic line uncertain
 
