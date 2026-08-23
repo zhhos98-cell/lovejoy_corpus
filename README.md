@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—15 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—30 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—15 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—30 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -2599,6 +2599,10 @@ Note: F. whole system of ideas given by [Harrison?] — being confused & polymor
 
 Continuation of comparative stages in future-life beliefs. A similar intermediate form occurs in many peoples: the supernatural is an intermediary to the moral. Lovejoy notes that this does not yet correspond to ethical jurisdiction, since destiny is determined by manner of death, manual/ritual acts, and social rather than moral elements. Reference to Nicholson, Memoirs, p. 91, and a narrative of travel among Dakota/Sioux material; missionary influence must be separated from earlier elements.
 
+**Chinese translation / 中文译文**
+
+继续比较来世信仰的发展阶段。许多民族那里都可见一种相似的中间形态：超自然观念充当了通向道德观念的中介。但 Lovejoy 指出，这尚不等同于伦理裁判，因为死者的命运仍取决于死亡方式、手工或仪式行为，以及社会性而非道德性的因素。此处参见 Nicholson《回忆录》第 91 页及有关 Dakota/Sioux 的旅行记述；必须把传教士影响同较早的成分区分开来。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 017 · Manuscript / 手稿 33
@@ -2609,6 +2613,10 @@ Continuation of comparative stages in future-life beliefs. A similar intermediat
 **English transcription / 英文转录**
 
 Discussion of suicide and other forms of death. Lovejoy asks whether apparent moral change may arise through natural evolution of ideas or missionary influence. In the example, most go to a better world except those violating custom or committing suicide. He stresses that violation of custom/taboo or ritual interdict is not itself equivalent to violation of a moral order.
+
+**Chinese translation / 中文译文**
+
+讨论自杀及其他死亡方式。Lovejoy 追问：材料中表面的道德化变化，究竟来自观念的自然演进，还是传教士的影响？在这个例子里，除违反习俗或自杀者外，多数人都会前往一个更好的世界。他强调，违反习俗、禁忌或仪式禁令，本身并不等于违反一种道德秩序。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2621,6 +2629,10 @@ Discussion of suicide and other forms of death. Lovejoy asks whether apparent mo
 
 Reason for placing suicide among deaths leading to punishment is not necessarily moral. It may indicate social hypotheses or obligations. Criminality of suicide may arise from solidarity of clan: whether one kills another or oneself, one strikes at the clan through one of its members. Punishment is exclusion from social and religious rights/connections; the suicide is already outside the clan and cannot bring blood into immediate contact. Note: in future life suicides may live in a separate village away from the others.
 
+**Chinese translation / 中文译文**
+
+把自杀列入会受惩罚的死亡类别，其理由未必是道德性的；它可能反映的是社会性的假设或义务。自杀之所以被视为犯罪，或许源自氏族团结：无论杀死他人还是杀死自己，都是通过伤害氏族成员而打击氏族。惩罚表现为被排除在社会和宗教权利或联系之外；自杀者已经置身氏族之外，因而不能让血直接进入氏族关系。附记：在来世，自杀者可能住在远离其他死者的独立村落。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 019 · Manuscript / 手稿 37
@@ -2631,6 +2643,10 @@ Reason for placing suicide among deaths leading to punishment is not necessarily
 **English transcription / 英文转录**
 
 But in later periods, under influence of moral conceptions infiltrating from a higher stage of culture or through contact, suicide may fall into a place where special punishment is undergone. Another test: Murray, Travels in North America, vol. I, on Pawnees and a happy hunting ground. Lovejoy warns that 1819-era statements may be profoundly suspect because of missionary influence; provenance and chronology of ethnographic testimony must be kept in mind.
+
+**Chinese translation / 中文译文**
+
+不过在较晚时期，随着更高文化阶段的道德观念渗入，或通过文化接触，自杀者可能被安排到承受特殊惩罚的地方。另一条材料见 Murray《北美旅行》第一卷，涉及 Pawnee 人与“快乐猎场”。Lovejoy 警告，约 1819 年的陈述可能因传教士影响而极不可靠；必须留意民族志证言的来源与年代。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2643,6 +2659,10 @@ But in later periods, under influence of moral conceptions infiltrating from a h
 
 Methodological note on introduction of the moral/social element into eschatology by diffusion of ideas from more developed peoples. Half-moral character of the notion: manner in which a corpse enters the future world is determined by its evil action or by ritual/manual causes; the afterlife does not become moral until fate/punishment/reward depends on desert. Right page: future-life idea still shows physical character. References include Radcliffe-Brown, Howitt, and other Australian material; spirit-animals and walking/dead-body conceptions are treated as bodily or quasi-physical continuities.
 
+**Chinese translation / 中文译文**
+
+方法论笔记：道德或社会因素可能通过较发达民族的观念传播而进入末世论。某些观念只具有半道德性质：尸体以何种方式进入未来世界，可能由死者的恶行决定，也可能由仪式或手工因素决定；只有当命运、惩罚或奖赏取决于应得与否时，来世观才真正成为道德性的。右页指出，未来生命的观念仍具有物质性；所引材料包括 Radcliffe-Brown、Howitt 及其他澳大利亚材料，其中动物精灵、行走的死者或尸体等观念，都被视作肉身或准肉身的延续。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 021 · Manuscript / 手稿 41
@@ -2653,6 +2673,10 @@ Methodological note on introduction of the moral/social element into eschatology
 **English transcription / 英文转录**
 
 Setting-sun / primitive-unity discussion. Lovejoy finds it difficult to explain recurrence of similar future-life motifs among widely separated peoples. Notes on white stones causing a living man to go to the land of the dead; dead man carried toward a dead-man country; examples from South American tribes and a Melanesian/Indian-well motif. Right page: Nat. Rev. body; Hewitt material on Cheyenne beliefs in two gods/powers, one good and one bad, with creation and death but no clear moral responsibility or afterlife destiny based on merit.
+
+**Chinese translation / 中文译文**
+
+关于落日方位与所谓“原始统一性”的讨论。Lovejoy 认为，很难解释相距遥远的民族为何反复出现相似的来世母题：白石使活人前往死者之地；死者被带往死者之国；另有南美部族，以及美拉尼西亚或印度“井”母题的例子。右页记 Cheyenne 信仰中的两位神或两种力量，一善一恶，分别与创造和死亡相关，却没有明确的道德责任观，也没有按功过决定来生命运的观念。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2665,6 +2689,10 @@ Setting-sun / primitive-unity discussion. Lovejoy finds it difficult to explain 
 
 Relation of gods to present life. Lovejoy says the Cheyenne material denies a moral character and shows ritual ideas, while also showing the beginning of access to a happy hunting ground. Entry to heaven may depend on bodily/ritual conditions, including carrying the body or being scalped, rather than ethical merit. Australian reference: belief in happy life in sky; all who die are reunited in future life, with same dress, needs, desires, surroundings, and manner of life.
 
+**Chinese translation / 中文译文**
+
+关于诸神与现世生活的关系。Lovejoy 认为，Cheyenne 材料否认这种信仰具有道德性质，反而显示出仪式观念；与此同时，其中也出现了进入“快乐猎场”的早期形式。能否进入天堂，可能取决于运送尸体、是否被剥去头皮等肉身或仪式条件，而非伦理功德。澳大利亚材料则说，死者在天空中过幸福生活；所有死者都会在来世重聚，并保留相同的衣着、需要、欲望、环境与生活方式。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 023 · Manuscript / 手稿 45
@@ -2675,6 +2703,10 @@ Relation of gods to present life. Lovejoy says the Cheyenne material denies a mo
 **English transcription / 英文转录**
 
 Only an intensified continuation of this world, where only death is eliminated. What is significant is absence of desert: universal happiness for all is a genuinely naturalistic conception. Weak or unhappy worlds can likewise continue earthly conditions without ethical judgment. Right page: one example where an enemy blocks access to a happy hunting ground to prevent a dangerous man from being a danger there; this is practical hostility, not moral judgment. Marginal note cites A. B. Cross, On the Natives of New South Wales, and comparisons with Brahmanism/Buddhism.
+
+**Chinese translation / 中文译文**
+
+这只是现世生活的强化延续，唯一被取消的是死亡。关键在于完全没有“应得”观念：人人普遍幸福，是一种真正自然主义的构想。较贫乏或不幸的来世同样可以只是尘世处境的延续，而不涉及伦理审判。右页有一例：敌人阻止某个危险人物进入快乐猎场，为的是免得他在那里继续构成威胁；这是实际敌意，不是道德判断。页边注引用 A. B. Cross《论新南威尔士原住民》，并与婆罗门教和佛教作比较。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2687,6 +2719,10 @@ Only an intensified continuation of this world, where only death is eliminated. 
 
 Belief in relation of spirits to animate human bodies and other objects; spirit as agent making movements. Lovejoy treats some soul conceptions as secondary explanatory devices for physical/mental functions. He argues primitive eschatology contains little moral determination of future life; when moral determination appears it may be a later element. Right page: schematic list of stages/types: separate destinations of dead; special classes of dead; deceased receiving offices/positions; supernatural distinctions not necessarily moral; spirits of dead persons living mostly in same manner as upon earth.
 
+**Chinese translation / 中文译文**
+
+讨论精灵与有生命的人体及其他物体之间的关系：精灵被视为造成运动的行动者。Lovejoy 把某些灵魂观念看作对身体或心理功能的次生解释装置。他主张，所谓“原始”末世论几乎不以道德决定来世；道德决定一旦出现，很可能是后起成分。右页列出若干阶段或类型：死者去往不同目的地；某些特殊类别的死者；死者获得职位或地位；超自然区分未必是道德区分；死者的精灵大体仍按生前方式生活。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 025 · Manuscript / 手稿 49
@@ -2697,6 +2733,10 @@ Belief in relation of spirits to animate human bodies and other objects; spirit 
 **English transcription / 英文转录**
 
 Continuation of classification. I: souls in an abode of the dead are those dying of normal causes and continue terrestrial occupations; destiny is a second life. II: certain spirits receive special status/offices, but not on moral considerations. III: a more clearly distinguished celestial/heavenly place develops, with gods/spirits and moral distinctions beginning to appear. Right page: this second plane is invented as machinery to serve an end, moving beyond purely moral grounds toward a preliminary place of trial; souls are judged according to moral behavior during earthly life. Mukkaals/Muckballs [?] or a lord/king of the dead remains a naturalistic being, formerly author of death.
+
+**Chinese translation / 中文译文**
+
+分类续。第一类：因正常原因死亡者的灵魂居于死者住所，继续尘世职业，其命运就是第二次生活。第二类：某些精灵取得特殊身份或职司，但依据并非道德考量。第三类：出现区分更明确的天界或天堂，神与精灵居于其中，道德区分开始显现。右页说，这第二层空间是作为实现某种目的的机制而被创造出来的，并逐渐形成一个预备性的考验之地；灵魂按照尘世生活中的道德行为受审。Mukkaals/Muckballs（？）或死者之主、死者之王仍是一个自然主义存在，过去曾是死亡的制造者。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2709,6 +2749,10 @@ Continuation of classification. I: souls in an abode of the dead are those dying
 
 The author of death and invention of a personal soul: Lovejoy suggests a possible evolutionary sequence from animism, with many souls in each individual, toward a single reasonable soul residing in the head and dominating other functions. Notes on Todes/Briggs, Primitive Races/Tribes [?], and Marshall. Right page: defined idea of hell, but hell may be a place for those excluded for non-moral reasons. Journey to land of the dead includes river/bridge/thread obstacles and trials; heaven may consist in continuation of ordinary satisfactions. Lovejoy emphasizes these motifs can precede ethical eschatology.
 
+**Chinese translation / 中文译文**
+
+关于死亡的制造者与人格化灵魂的发明。Lovejoy 提出一种可能的演化序列：从万物有灵论中每个人拥有多个灵魂，发展到一个居于头部、支配其他功能的单一理性灵魂。并记有 Todes/Briggs、《原始种族/部族》（？）及 Marshall 等来源。右页已有明确的地狱观念，但地狱也可能收容因非道德原因被排斥者。通往死者之国的旅程要越过河流、桥梁或细线等障碍并接受考验；天堂则可能只是日常满足的延续。Lovejoy 强调，这些母题可以早于伦理化的末世论。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 027 · Manuscript / 手稿 53
@@ -2719,6 +2763,10 @@ The author of death and invention of a personal soul: Lovejoy suggests a possibl
 **English transcription / 英文转录**
 
 Continuation of non-moral trials on journey to land of dead: river, bridge/thread, assistance by antecedent dead or friends in other world. Such eschatology may later be corrupted/reshaped by introduction of ethical ideas. Right page dated May 29: ‘Collect of Religion’ / ‘Relig. & Future’ [?]. Lovejoy states that death itself may be treated as sign of worth/fault but is not a reliable moral selection. Ideas of survival of soul and immortality of gods/spirits may coexist without implying moral immortality; work on this point is noted as incomplete.
+
+**Chinese translation / 中文译文**
+
+续记前往死者之国途中非道德性的考验：河流、桥或细线，以及先死者或彼世朋友的援助。这类末世论后来可能因伦理观念的引入而被改变，甚至被“败坏”。右页标注 5 月 29 日，题作“宗教汇集”或“宗教与未来”（？）。Lovejoy 指出，死亡本身有时会被当作价值或过错的标志，却不能构成可靠的道德筛选。灵魂存续与神或精灵不死的观念可以并存，而不必推出道德意义上的不朽；他注明这一点尚未完成。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2731,6 +2779,10 @@ Continuation of non-moral trials on journey to land of dead: river, bridge/threa
 
 Continuation of May 29 note. Among many non-European tribes Lovejoy finds clear evidence of influence of Hindu beliefs upon eschatology; yet practices remain inconsistent and the borrowed/moralized eschatology may coexist with animistic-naturalistic and non-moral ideas. Example: a god placed in a favorable position for worship, but afterlife happiness may still consist simply in receiving food and physical satisfactions; descent to a deity’s paradise can mean access to an abode rather than ethical reward.
 
+**Chinese translation / 中文译文**
+
+续 5 月 29 日笔记。Lovejoy 在许多非欧洲部族的末世论中看到印度教信仰影响的明确证据；但各种做法仍不一致，借入并被道德化的末世论，可以同万物有灵论式、自然主义且非道德的观念并存。例如，某位神被安置在适宜受崇拜的位置，但来世幸福仍可能只意味着获得食物和肉体满足；下降或进入神的乐园，可以只是取得某个住所，并非伦理奖赏。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 029 · Manuscript / 手稿 55
@@ -2742,6 +2794,10 @@ Continuation of May 29 note. Among many non-European tribes Lovejoy finds clear 
 
 Same underlying page as p. 28 with inserted bibliographic slip. Slip headed ‘Marillier — Survivance — 12 June’. Madagascar: three distinct populations/layers are distinguished: ancient basis of uncertain affinities; immigrants from mainland/Mozambique including black slaves; later/other population linked more to Asia than Africa. Notes mention Sakalava [?], Ambon/Amboina [?], and bibliography including Sibree and Le P. Vassière, ‘20 Ans à Madagascar’ [?].
 
+**Chinese translation / 中文译文**
+
+与第 28 页属于同一底页，另夹一张书目纸条，标题为“Marillier——存续——6 月 12 日”。关于马达加斯加，笔记区分三种人口或历史层次：族属关系不明的古老基础人口；来自大陆或莫桑比克的移民，其中包括黑人奴隶；以及较晚或另一支与亚洲而非非洲联系更强的人口。另记 Sakalava（？）、Ambon/Amboina（？），以及 Sibree、Le P. Vassière《在马达加斯加二十年》（？）等书目。
+
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
 #### 005 · PDF 030 · Manuscript / 手稿 55
@@ -2752,6 +2808,10 @@ Same underlying page as p. 28 with inserted bibliographic slip. Slip headed ‘M
 **English transcription / 英文转录**
 
 Inserted notes on Hora/Hova [?] tribes and the dead. General conception: often a horrible creature or skeleton; mountain/forest abode to east of Hova country; supernatural passage/route. Occupations of dead continue. A more subtle conception separates body at death and posits a second death or annihilation after a limited future life; soul is an inferior sort of life continuing earthly employment and bodily-like needs. Right slip: ‘Occupations of dead / Anthropomorphism’ with references to Howitt & Fison [?]. A more subtle corporeal double separates from body at death and later undergoes second death/annihilation; future life is limited rather than necessarily immortal.
+
+**Chinese translation / 中文译文**
+
+夹入的笔记讨论 Hora/Hova（？）诸部族及死者。一般构想中，死者常成为可怖生物或骷髅，居住在 Hova 地区以东的山地或森林，并经由一条超自然通道前往；死者仍继续生前职业。另一种较精细的构想则认为，死亡时有某种身体之替身与肉身分离，经过有限的来世生命后再经历第二次死亡或湮灭；灵魂是一种较低等的生命，继续尘世工作及类似肉身的需要。右侧纸条题为“死者的职业／拟人论”，并引 Howitt 与 Fison（？）。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
