@@ -123,10 +123,10 @@ Only the first and fourth are positive presence evidence; the third is positive 
 
 ## Files created in archive-side Batch105
 
-- `archive_index/lovejoy_global_archive_component_batch105_delta.csv` — GLA0047-GLA0050;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0047-GLA0050;
 - `archive_index/lovejoy_science_service_correspondence_run_batch105.csv` — 1927-1940 recurrence/lacuna map;
 - `archive_index/lovejoy_global_archive_preservation_gaps_batch105.csv` — GAP0001, missing 1939 K-Smi correspondence;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch105_delta.csv` — COV0026;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — COV0026;
 - this synthesis note.
 
 ## Highest next moves

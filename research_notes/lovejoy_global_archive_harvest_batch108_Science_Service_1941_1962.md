@@ -182,7 +182,7 @@ This is intentionally more economical than requesting every L folder in one undi
 - `archive_index/lovejoy_science_service_post1940_opportunity_map_batch108.csv` — complete 1940–62 status map;
 - `archive_index/lovejoy_global_archive_preservation_gaps_batch108_delta.csv` — GAP0003–GAP0005 for 1941, 1948, 1949;
 - `archive_index/lovejoy_science_service_request_tranches_batch108.csv` — grouped physical retrieval plan;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch108_delta.csv` — COV0032–COV0033;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — COV0032–COV0033;
 - this synthesis note.
 
 ## Highest next moves

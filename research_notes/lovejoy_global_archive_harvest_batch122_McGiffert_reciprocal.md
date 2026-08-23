@@ -146,8 +146,8 @@ The parallel bars indicate contemporaneous branches in the same wider Russell tr
 
 ## 7. Data products
 
-- `archive_index/lovejoy_global_archive_leads_batch122_delta.csv` — registers **GAL0049**;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch122_delta.csv` — adds **COV0064**;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — registers **GAL0049**;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — adds **COV0064**;
 - this synthesis note.
 
 No new `GLA`, `GAC`, or `GAP` is created.

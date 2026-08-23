@@ -173,11 +173,11 @@ This is structurally similar to the Cattell problem: archival description is not
 
 ## Files created in archive-side Batch100
 
-- `archive_index/lovejoy_global_archive_component_batch100_delta.csv` — GLA0043 Stone + GLA0044 CFAT;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0043 Stone + GLA0044 CFAT;
 - `archive_index/lovejoy_global_archive_component_upgrades_batch100.csv` — GLA0026 Box27 + GLA0027 Box131;
 - `archive_index/lovejoy_global_archive_description_conflicts_batch100.csv` — GAC0004;
 - `archive_index/lovejoy_1919_pensions_insurance_documentary_chain.csv`;
-- `archive_index/lovejoy_global_archive_leads_batch100_delta.csv`;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv`;
 - this synthesis note.
 
 The archive-side numbering skips from 98 to 100 because the parallel orientalist track occupied Batch99 in the shared repository.

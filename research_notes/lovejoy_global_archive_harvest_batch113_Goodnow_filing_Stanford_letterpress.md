@@ -178,8 +178,8 @@ All are now finite retrieval questions.
 
 - `archive_index/lovejoy_russell_hopkins_retrieval_crosswalk_batch113.csv` — object-by-object BRACERS/current-JHU filing logic;
 - `archive_index/lovejoy_stanford_1901_manifestation_opportunity_batch113.csv` — exact GLA0056 manifestation tests across Elliott/SC0058/letterpress/custody layers;
-- `archive_index/lovejoy_global_archive_leads_batch113_delta.csv` — `GAL0045`, Office of the President records RG-02-001;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch113_delta.csv` — `COV0046-COV0048`;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — `GAL0045`, Office of the President records RG-02-001;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0046-COV0048`;
 - this synthesis note.
 
 No new GLA is added. The next unassigned true global component ID remains `GLA0057`.

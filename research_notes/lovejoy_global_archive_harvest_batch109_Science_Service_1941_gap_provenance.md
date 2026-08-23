@@ -184,7 +184,7 @@ The sixth state is important. Smithsonian's own Science Service accessions prove
 
 - `archive_index/lovejoy_science_service_1941_gap_context_packet_batch109.csv` — exact 1941 missing spans plus B230/F1 and relocation/admin context;
 - `archive_index/lovejoy_science_service_parallel_filing_crosswalk_batch109.csv` — RU7091 and related Science Service accessions by documentary function;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch109_delta.csv` — COV0034-COV0037;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — COV0034-COV0037;
 - `archive_index/lovejoy_global_archive_preservation_gap_context_batch109.csv` — GAP0003 contextual refinement without changing its underlying status;
 - this synthesis note.
 

@@ -236,11 +236,11 @@ The next efficient move is to inspect the JHU item first for date and direction,
 
 New structured files:
 
-- `archive_index/lovejoy_global_archive_component_batch90_delta.csv` — GLA0029 Eiseley book trace; GLA0030 Hamburger/Russell letter;
-- `archive_index/lovejoy_global_archive_leads_batch90_delta.csv` — Hamburger upgrade; Hoover Hook lead; NYU ACCF lead;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0029 Eiseley book trace; GLA0030 Hamburger/Russell letter;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — Hamburger upgrade; Hoover Hook lead; NYU ACCF lead;
 - `archive_index/lovejoy_document_event_batch90_delta.csv` — 1949 Hook→Lovejoy and 1953 ACCF statement events;
 - `archive_index/lovejoy_tamiment_accf_candidate_components.csv` — exact NYU retrieval map;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch90_delta.csv` — Penn, Hamburger/BRACERS, Hoover, NYU and Lattimore coverage states;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — Penn, Hamburger/BRACERS, Hoover, NYU and Lattimore coverage states;
 - `archive_index/lovejoy_academic_freedom_documentary_chain.csv` — 1949→1951–52→1953 cross-repository chain.
 
 ## Immediate next wave

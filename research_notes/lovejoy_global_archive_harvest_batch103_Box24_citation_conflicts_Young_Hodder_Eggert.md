@@ -241,9 +241,9 @@ The same principle applies to manifestation matching globally: identical sender 
 
 - `archive_index/jhu_ms0038_box24_document_delta_batch103.csv` — new Young 5 Nov item plus Eggert/Hodder conflict-aware rows;
 - `archive_index/lovejoy_global_archive_description_conflicts_batch103.csv` — GAC0005-GAC0007;
-- `archive_index/lovejoy_global_archive_leads_batch103_delta.csv` — GAL0039 Young at Harvard + GAL0040 Hodder at Kansas;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — GAL0039 Young at Harvard + GAL0040 Hodder at Kansas;
 - `archive_index/lovejoy_box24_reciprocal_resolution_queue_batch103.csv` — five concrete cross-repository resolution tasks;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch103_delta.csv` — Harvard, Kansas and Michigan controls;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — Harvard, Kansas and Michigan controls;
 - this synthesis note.
 
 ## Highest next moves

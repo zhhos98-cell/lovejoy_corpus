@@ -160,8 +160,8 @@ A matching date or topic alone is not duplicate identity.
 
 - `archive_index/lovejoy_jhu_russell_current_custody_domains_batch114.csv` — current JHU custody-domain hierarchy for BRACERS 121121/121122 and the Russell invitation packet;
 - `archive_index/lovejoy_stanford_correspondence_manifestation_domains_batch114.csv` — Elliott witness, early intermixed correspondence, generic letterpress copying, Series I-A, Series I-AA, Private Letterbook and Stanford Business Correspondence kept as distinct manifestation/search domains;
-- `archive_index/lovejoy_global_archive_leads_batch114_delta.csv` — `GAL0046`, Office of the Secretary records, RG-10-001;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch114_delta.csv` — `COV0049-COV0052`;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — `GAL0046`, Office of the Secretary records, RG-10-001;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0049-COV0052`;
 - this synthesis note.
 
 No new GLA is added. The next unassigned true component ID remains `GLA0057`.

@@ -172,7 +172,7 @@ Only then can a second manifestation be considered for `GLA0057`.
 - `archive_index/lovejoy_jhu_rg02001_departmental_file_controls_batch116.csv` — File 56, File 115, post-1915 Philosophy target, and RG-04-120 negative control;
 - `archive_index/lovejoy_stanford_jordan_microfilm_extent_audit_batch116.csv` — NHPRC/Stanford/LC representation audit;
 - `archive_index/lovejoy_global_archive_description_conflicts_batch116.csv` — `GAC0008`, 187-vs-184 reel extent discrepancy;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch116_delta.csv` — `COV0056-COV0058`;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0056-COV0058`;
 - this synthesis note.
 
 No new `GLA` or `GAL` IDs are created.

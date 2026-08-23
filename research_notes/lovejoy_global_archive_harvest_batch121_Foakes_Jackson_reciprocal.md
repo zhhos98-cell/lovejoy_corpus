@@ -136,8 +136,8 @@ They can be joined into a historical network only through explicit documents and
 
 ## 7. Data products
 
-- `archive_index/lovejoy_global_archive_leads_batch121_delta.csv` — registers **GAL0048**;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch121_delta.csv` — adds **COV0063** for the Burke/UTS search surface and records the description ceiling;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — registers **GAL0048**;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — adds **COV0063** for the Burke/UTS search surface and records the description ceiling;
 - `archive_index/lovejoy_foakes_jackson_russell_reciprocal_graph_batch121.csv` — separates BRACERS government-copy evidence, the creator fonds, the 1916 appointment context, the Samuel response, and the Lovejoy comparator;
 - this synthesis note.
 

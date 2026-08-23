@@ -216,7 +216,7 @@ The new rule is:
 - `archive_index/lovejoy_jhu_historical_repository_current_recordgroup_crosswalk_batch115.csv` — old Hamburger repository label, current JHU domains, and the Watson/Goodnow RG-02-001 mapping control;
 - `archive_index/lovejoy_russell_hopkins_provenance_elimination_batch115.csv` — object-specific current-custody tests for BRACERS 121121/121122 without recipient transfer or file-number projection;
 - `archive_index/lovejoy_stanford_ross_case_citation_cluster_batch115.csv` — exact Elliott-MSS Ross-case citation cluster and the separate SC0058/microfilm manifestation opportunities;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch115_delta.csv` — `COV0053-COV0055`;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0053-COV0055`;
 - this synthesis note.
 
 No component is added. `GLA0057` remains the next unassigned true global component ID. No new collection lead is added because Batch114 already created `GAL0046` for `RG-10-001`; the next free lead remains `GAL0047`.

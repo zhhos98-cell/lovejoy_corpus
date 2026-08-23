@@ -207,7 +207,7 @@ A new question attached to an already known collection is not a new collection e
 - `archive_index/lovejoy_russell_woods_1916_document_graph_batch118.csv` — the Hopkins/Harvard/interception document graph;
 - `archive_index/lovejoy_russell_woods_interception_manifestations_batch118.csv` — separates the 30 July event, BRACERS 3598, 57120, 55840, and administrative interception records;
 - `archive_index/lovejoy_archive_cross_track_entity_resolution_batch118.csv` — prevents duplicate GAL creation for Harvard Woods holdings;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch118_delta.csv` — `COV0059-COV0062` for HUG 1880.2xx, MS Am 2693, BRACERS, and TNA HO45;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0059-COV0062` for HUG 1880.2xx, MS Am 2693, BRACERS, and TNA HO45;
 - this synthesis note.
 
 No new `GLA`, `GAL`, `GAC`, or `GAP` is created.

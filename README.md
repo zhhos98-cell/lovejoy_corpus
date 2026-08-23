@@ -6,15 +6,16 @@
 ## Contents / 目录
 
 1. Research argument / 研究论点
-2. Chronology / 时间线
-3. People and institutions / 人物与机构
-4. Evidence chains / 证据链
-5. Method and editorial policy / 方法与编辑原则
-6. Technical vocabulary / 专门术语
-7. Notebook 004 complete transcription / 004 笔记全文
-8. Notebook 005 complete transcription / 005 笔记全文
-9. Core research materials / 核心研究材料
-10. Repository-wide source index / 全库材料索引
+2. JHI Blog submission draft / JHI Blog 投稿完整草稿
+3. Chronology / 时间线
+4. People and institutions / 人物与机构
+5. Evidence chains / 证据链
+6. Method and editorial policy / 方法与编辑原则
+7. Technical vocabulary / 专门术语
+8. Notebook 004 complete transcription / 004 笔记全文
+9. Notebook 005 complete transcription / 005 笔记全文
+10. Core research materials / 核心研究材料
+11. Repository-wide source index / 全库材料索引
 
 ## Research argument / 研究论点
 
@@ -30,10 +31,67 @@ Existing biography already records Lovejoy's Sanskrit and Buddhist study. The co
 
 既有传记已经提及洛夫乔伊学习梵文与佛教，因此研究的新意并不在于宣称这段经历此前无人知道。真正需要重建的是他的具体命题、来源比较和技术性争论，以及这段经历作为传记事实长期可见、作为学科方法谱系却较少被细致处理之间的差别。
 
+## JHI Blog submission draft / JHI Blog 投稿完整草稿
+
+> Draft / 草稿：2026-08-23 · Target / 投稿对象：JHI Blog · Body / 正文：约 1,768 词；连标题和档案尾注约 1,823 词；另附补充证据图表 · First draft due / 初稿截止：2026-09-13。论证以 004 笔记和 1898 年论文为中心，结合哈佛制度背景、逐句来源考证、共同方法中的推断分歧、巴黎比较宗教学网络、原始主义的双重时间结构与制度政治，以及《存在巨链》中的后期转变。
+
+### Arthur O. Lovejoy’s Buddhism Problem
+
+In 1948, Arthur O. Lovejoy explained that his “general conceptions” about intellectual history “grew out of rather than preceded” his investigations of particular subjects. They were not, he insisted, “a deliberate effort to impose a predetermined ‘method’ upon refractory material” (*Essays in the History of Ideas*, xi). His bibliography begins with [“The Buddhistic technical terms *upādāna* and *upādisesa*”](https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-ENG/love.htm) (340). The 1898 article places the future JHI founder within overlapping disputes over Buddhist interpretation and the limits of historical comparison.
+
+A Johns Hopkins notebook makes that beginning concrete. Its cover reads “A. O. Lovejoy / Sankhya + Buddhism / Harvard Cooperative Society.”[1] Inside are abbreviated names, copied passages, and corrections: “Garbe p. 150”; “To R.D.’s remark it should be added”; “But not so if we are to follow [the] present text.” Ann Blair’s [*In the Scholar’s Workshop*](https://press.princeton.edu/books/hardcover/9780691279633/in-the-scholars-workshop) reconstructs scholars’ collaborative work; Matthew Daniel Eddy’s [*Media and the Mind*](https://press.uchicago.edu/ucp/books/book/chicago/M/bo173084820.html) treats notebooks as “paper machines.” Reverse source criticism recovers the teachers, texts, institutions, and inferential rules behind apparently private judgments.
+
+Max Müller’s 1901 autobiography remembered his 1869 Académie election as a struggle “[between Mommsen and myself, between classical and Oriental scholarship](https://www.gutenberg.org/files/30269/30269-h/30269-h.htm).” [Official records confirm his election](https://www.persee.fr/doc/crai_0065-0536_1869_num_13_1_88406), though not his final opponent; the 1867 slate grouped both men with several other specialties. In 1869 the EPHE *Bibliothèque* paired Müller’s *La stratification du langage* with Georg Curtius’s Indo-Germanic chronology in its [first historical-philological volume](https://www.persee.fr/doc/ephe_0000-0001_1904_num_1_1_2476), translated by the Latinist Louis Havet and Sanskritist Abel Bergaigne. Müller argued that generalizing from preserved literary languages violated “[the simplest rules of sound induction](https://readingroo.ms/3/0/1/9/30192/30192-h/30192-h.htm).” He preferred Chinese, “Turanian dialects,” even “the jargons of the savages of Africa, Polynesia, and Melanesia.” An expanded comparative rule assigned living peoples the evidentiary position of another people’s past.
+
+Harvard compressed this history into three generations. The Latin grammarian James Bradstreet Greenough [introduced Sanskrit through Latin electives in 1872](https://www.thecrimson.com/article/1901/12/4/memorial-obituary-of-professor-greenough-pthe/); Charles Rockwell Lanman’s 1880 appointment gave Indo-Iranian languages a separate home. Irving Babbitt and Paul Elmer More [reportedly formed a Lanman class](https://dokumen.pub/paul-elmer-more-9781400875009.html); More [taught Sanskrit in 1894–95](https://www.thecrimson.com/article/1895/6/8/radcliffe-elective-pamphlet-the-radcliffe-college/), while Babbitt returned from [Pāli and Buddhist study in Paris](https://hollisarchives.lib.harvard.edu/catalog/hua10004) to teach French. Lovejoy entered the next cohort, studying Sanskrit and Buddhist texts with Lanman, comparative religion with Charles Carroll Everett, and Hebrew religion with Crawford Howell Toy. A [1896 lecture outline](https://www.thecrimson.com/article/1896/4/29/lecture-on-buddhism-the-first-of/) placed “The Origin and the Literature of Buddhism” alongside “Sankhya, Vedanta, etc.” and Sanskrit and Pāli sources. His study with Lanman is documented; attendance at that lecture, exact class enrollment, and direct Babbitt–Lovejoy contact during these years remain unproved.
+
+Henry Clarke Warren supplies a direct route. His [*Buddhism in Translations*](https://books.google.com/books?id=CeIOAAAAYAAJ) (1896), volume three of the *Harvard Oriental Series*, was dedicated to “My Friend and Teacher, Charles Rockwell Lanman.” Its “Sentient Existence” chapter follows the notebook’s sequence through unanswered questions, desire, attachment, and dependent origination; Warren also calls the twelve-link formula “a piece of patchwork” (115–16). On manuscript page 71 Lovejoy sets out his own program: Buddhism’s “general philos. positn,” its “technical working out” through “current Indic ideas,” and the twelve concepts in their “very complicated inter-relation” demand “a careful analysis” of the texts. Identifying his intervention requires separating those judgments from the surrounding copied passages.
+
+“Garbe p. 150” identifies one boundary. Manuscript pages 8–9 reproduce Richard Garbe’s *Die Sâmkhya-Philosophie* (1894), where shared “terminology, definitions, examples” identify material adopted from another Indian school. An 1892 Calcutta study had already required “definite similarities” and “solid ground under our feet.” The 1894 passage demonstrably reached Lovejoy; his reading of the 1892 book remains unproved. On manuscript page 63 the claim that an early passage fails to establish that the Sāṃkhya “system existed as a whole” comes from his digest of T. W. Rhys Davids. Lovejoy’s intervention begins with “To R.D.’s remark it should be added”: “the separateness of [the] Self & [the] World,” or “thorough-going dualism,” warrants a doctrinal parallel; an entire system requires different evidence.
+
+Warren’s 1893 American Oriental Society paper treated the Pāli *paccaya* as a variable relation: antecedence, dependence, inclusion, interdependence. Each link demanded its own textual test. Yet he assigned attachment and desire “identity.” On manuscript page 75 Lovejoy reapplied Warren’s rule to Warren’s conclusion: “But not so if we are to follow [the] present text.” Four forms of attachment and six varieties of desire warranted differentiation. In 1898 he cited “JAOS. vol. xvi. p. xxvii,” quoted “the relation of desire to attachment is that of identity,” and rejected “virtually a repetition” (126). Shared rule, contested application. Elsewhere consciousness is “temporally (?) an antecedent” of *nāmarūpa* yet “logically a subdivision of it” (manuscript p. 123): the same term supports distinct relational claims.
+
+The French Indologist Émile Senart already advocated “l’analyse et la filiation des termes” (295). In 1896 he called *upādāna* “une réduction pour upādāna skandhas”; apparent repetition then justified an “ordre plus ou moins accidentel” within a “série composite” (284–85). Lovejoy challenged the semantic equation while accepting inherited terms, heterogeneous sources, and repetitions. The remaining disagreement concerned evidentiary reach. On manuscript page 137 he translates Senart’s “order more or less accidental,” then replies: “On Senart’s account of the matter there is simply this to be said.” To infer that the arrangement was therefore “illogical & unintelligible” was “entirely false.”
+
+In 1898 Lovejoy argued that Senart’s passages “prove nothing remotely like the interpretation which they are intended to substantiate” (127). His conclusion gives the distinction its clearest form: “The terms used there, perhaps even the ideas, are doubtless largely borrowed ones; but the arrangement and application of them is certainly original and characteristic” (132). Genealogical evidence establishes provenance; present function demands separate demonstration.
+
+The distinction had a wider geography. In an 1871 discussion of Buddhism and Sāṃkhya, Bankim Chandra Chattopadhyay separated resemblance between traditions from the further question of which had borrowed from which. Rajendralal Mitra’s *Yoga Aphorisms of Patañjali* (1883) similarly distinguished existing materials from the formation of a philosophical system: “The bricks existed, and Kapila was the architect who used them in constructing a novel edifice.” He dismissed another proposed genealogy as lacking “proof worth the name.” No evidence shows that Lovejoy read either author. Their arguments establish a transregional problem of historical proof, not a direct transmission to Harvard.
+
+Eduard Zeller supplies a negative control. His [history of Greek philosophy](https://archive.org/details/historyofgreekph00zell) separated whole-system derivation from partial influence, direct from mediated transmission, and affinity from historical contact, yet made Greece the site of scientific freedom and “Oriental” thought priestly and comparatively unscientific. Fine-grained proof and civilizational hierarchy could operate together. Lovejoy’s caution therefore proves neither political innocence nor invention.
+
+The closest notebook-to-print correspondence concerns *upādisesa*. Manuscript page 173 reads: “No one familiar with Buddhist modes of thought could suppose that *anupādisesa* here meant the extinction of the skandhas, i.e. physical death.” The article answers: “No one familiar with Buddhist modes of thought could suppose that *anupadisesa* here means merely the extinction of the (present) skandhas, i.e. physical death” (135). The evidentiary rule becomes explicit: “Both derivations seem to be etymologically possible”; meaning must be determined “rather by an examination of its use than by etymological arguments” (134). Usage bears the semantic burden; even then, the evidence is “relevant but not necessarily conclusive” (134), the issue one that “cannot be regarded as finally settled” (136).
+
+Lovejoy’s [1898 James Walker Fellowship](https://www.thecrimson.com/article/1898/6/17/graduate-school-fellowships-the-following-nominations/) took him to Paris, where he also encountered the Indologist Sylvain Lévi. An [EPHE report](https://www.persee.fr/doc/ephe_0000-0002_1898_num_12_8_19501) lists him among auditors who “ont pris une part active aux travaux” of Léon Marillier’s comparative-religion seminar; another notebook reads “Marillier — Survivance — 12 June,” matching its 1899 schedule.[2] Lovejoy knew William James, and James knew Marillier; their records establish relationships, not James’s introduction of Lovejoy to Marillier. In “The Fundamental Concept of the Primitive Philosophy” (1906), Lovejoy attributed “impersonal and quasi-mechanical” causality to peoples assembled from North American, Oceanian, and African reports.
+
+Babbitt’s [*Rousseau and Romanticism*](https://www.gutenberg.org/files/50235/50235-h/50235-h.htm) (1919) appended “Chinese Primitivism,” aligned Confucian humanists against Taoist naturalism as “fighting for civilization,” and reserved its “political implications” for a projected “Democracy and Imperialism.” Chinese classical authority thus contested another Chinese tradition. Lovejoy [reviewed the book in 1920](https://www.jstor.org/stable/i346730), [debated Babbitt in 1922](https://www.jstor.org/stable/2915199), then [in 1923](https://doi.org/10.1086/387491) disputed Babbitt, separated chronological, juristic, and cultural senses, and observed that sovereign states themselves could occupy a juristic “state of nature.” In [*Primitivism and Related Ideas in Antiquity*](https://archive.org/details/primitivismrelat00love) (1935), Lovejoy and George Boas distinguished “chronological” primitivism, locating value in an earlier historical age, from “cultural” primitivism, the civilized person’s dissatisfaction with civilization. The latter found exemplars among “existing primitive, or so-called ‘savage’ peoples”; fused with the former, they became “living replicas of the character and life of the civilized man’s ancestors” (1, 7–9). The volume itself distributes scholarly authority: thirteen main chapters, largely Greek and Roman, precede W. F. Albright’s “Primitivism in Ancient Western Asia” and P.-E. Dumont’s “Primitivism in Indian Literature,” designated “Supplementary Essays” (421, 433). Asian archives enter through regional specialist labor, while the editors control the general category. The politics lay in the comparative apparatus itself: governmental status, historical sequence, and scholarly authority distributed through apparently neutral evidentiary rules.
+
+Returning to *The Great Chain of Being* makes both continuity and reduction visible. On page 30, Lovejoy calls early Buddhism “a kind of pragmatic otherworldliness” marked by “its negativity”; comparable negative interpretations already appear in the early notebook. Yet manuscript page 65 had warned that the Buddha’s refusals only “seem[] at first sight like [the] philosophical agnosticism of a purely practical teacher”: they might instead reflect “an objection to [the] form of [the] questions put.” By 1936, the distinction had narrowed into a refusal to discuss “merely speculative questions” (97), supported by the Buddhist “points not discussed” (344n43).
+
+The mature book also relocates the boundaries of comparison. Plato becomes the source of “the indigenous strain of otherworldliness in Occidental philosophy,” distinguished from “the imported Oriental varieties” (35); Indian religious philosophy is later associated with “a certain arithmetical grandiosity of that race’s imagination” (142). Yet Lovejoy also observes that one eighteenth-century argument for optimism “closely resembles” Buddhist formulas of pessimism (218): similar structures can produce contrary evaluations. Asian materials remained; their evidentiary status changed. Claims once tested against particular witnesses reappeared within a narrative whose principal inheritance was “Occidental.” The History of Ideas Club’s institutional language would likewise define its subject through the development of ideas “in occidental literature” (*Essays*, vii).
+
+Lovejoy’s claim that his historical conceptions “grew out of” particular investigations returns us to the notebook as one documented site of methodological formation. His earliest historical judgments took shape among Lanman’s Harvard teaching, Warren’s translations, Garbe’s diagnostic comparisons, Senart’s account of filiation, and a Paris seminar. Before the portable “unit-idea” came a more difficult question: what exactly does the evidence entitle us to call the same?
+
+#### Figure 1. Shared evidence and disputed inference
+
+*Supplementary source-critical plate; manuscript pages refer to notebook 004.*
+
+| Case | Shared evidentiary ground | Manuscript and publication | Inference at issue |
+|---|---|---|---|
+| Warren | *Paccaya* denotes different relations across the formula. | MS p. 75: “But not so if we are to follow [the] present text”; 1898, p. 126: “virtually a repetition.” | A shared relation-by-relation procedure must test the local claim of “identity.” |
+| Senart | Borrowed terms, historical filiation, composite sources. | MS p. 137: “entirely false”; 1898, p. 132: “arrangement and application” remain “original and characteristic.” | Composite provenance establishes neither accidental arrangement nor present unintelligibility. |
+| *Upādisesa* | Both derivations remain “etymologically possible.” | MS p. 173: “physical death”; 1898, pp. 134–36: usage, “not necessarily conclusive.” | Etymology establishes alternatives; contextual usage warrants a provisional meaning. |
+
+[1] Arthur Oncken Lovejoy Papers, MS-0038, Special Collections, Johns Hopkins University, notebook labelled “Sankhya + Buddhism” (project scan identifier MS38_004_001_061_004). Manuscript page numbers in the text refer to the notebook’s original pagination.
+
+[2] Arthur Oncken Lovejoy Papers, MS-0038, Special Collections, Johns Hopkins University, comparative-religion notebook, 1898–1899 (project scan identifier MS38_004_001_061_005).
+
 ## Chronology / 时间线
 
 | Date / 日期 | Event / 事件 | Evidential qualification / 证据限定 |
 |---|---|---|
+| 1867–1869 | Académie competitions place Müller, Mommsen and scholars from several philological/antiquarian specialties in the same field; EPHE *Bibliothèque* no. 1 pairs Müller and Curtius. / 法兰西学会的席位竞争把 Müller、Mommsen 及多个语文学、古物学分支的学者置于同一场域；EPHE 丛书第一号并列出版 Müller 与 Curtius。 | Müller’s 1869 election is official; the exact Müller–Mommsen final ballot survives only in Müller’s later recollection. / Müller 于 1869 年当选有官方记录；最终是否由 Müller 与 Mommsen 对决，现仅见 Müller 后来的回忆。 |
+| 1872–1880 | Greenough introduces Sanskrit/comparative philology through Latin electives; Lanman’s appointment establishes a separate Indo-Iranian home. / Greenough 以拉丁文选修课引入梵文和比较语文学；Lanman 到任后建立独立的印度—伊朗语言制度空间。 | Demonstrates differentiation from Classics, not either primordial separation or uninterrupted unity. / 证明其从古典学内部发生分化，既非原初分立，也非始终一体。 |
+| 1892–1895 | Babbitt and More pass through Lanman’s Indianist training; More teaches Sanskrit, while Babbitt returns from EPHE and teaches French. / Babbitt 与 More 接受 Lanman 的印度学训练；More 随后教授梵文，Babbitt 从 EPHE 返回后任教法文。 | Institutional relay is documented; class size and any later Babbitt–Lovejoy transmission remain unproved. / 制度接力可证；班级人数及后来 Babbitt—Lovejoy 的直接传递尚未证实。 |
 | 1895–1898 | Harvard graduate training; Sanskrit and Buddhist texts under Charles Rockwell Lanman; comparative religion under Charles Carroll Everett; Hebrew religion under Crawford Howell Toy. / 哈佛研究生训练；随 Lanman 研读梵文及佛教文本，接触 Everett 的比较宗教学与 Toy 的希伯来宗教史。 | Lanman study is supported by established biographical evidence; attendance at individual public lectures is not demonstrated. / 随 Lanman 学习有传记依据；不能据此推定参加每一场公开讲座。 |
 | 29 Apr. 1896 | Lanman's public lecture frames Buddhism through Sāṃkhya, Vedānta, Sanskrit/Pāli sources and the canon. / Lanman 公开讲座从数论、吠檀多、梵巴文资料和佛教典籍讨论佛教。 | Local availability; Lovejoy's attendance is unproved. / 证明当地可接触的知识环境，不证明 Lovejoy 到场。 |
 | 1896 | Henry Clarke Warren publishes *Buddhism in Translations*. / Warren 出版《佛教译文集》。 | Warren is explicitly engaged in notebook 004. / 004 笔记明确讨论 Warren。 |
@@ -43,8 +101,11 @@ Existing biography already records Lovejoy's Sanskrit and Buddhist study. The co
 | 1898–1899 | Paris: contact with Sylvain Lévi and active participation in Léon Marillier's EPHE environment. / 巴黎时期：接触 Sylvain Lévi，并进入 Léon Marillier 的高等研究实践学院学术环境。 | Notebook 005 and institutional comparisons support the connection. / 005 笔记与课程材料对读支持这种联系。 |
 | 1901 | Four-lecture syllabus on the philosophy of Buddhism. / 四讲佛教哲学教学提纲。 | Bibliographic evidence; does not alone demonstrate an uninterrupted research programme. / 属于书目证据，单独不足以证明持续不断的研究计划。 |
 | 1902 | “Religion and the Time-Process” reuses Buddhist materials in a wider argument. / 《宗教与时间过程》在更广泛的论证中再次处理佛教材料。 | Specific correspondences should be verified individually. / 具体对应须逐项核实。 |
-| 1905–1906 | Later notebook reuse and “The Fundamental Concept of the Primitive Philosophy.” / 笔记后期再利用与《原始哲学的基本概念》。 | Mechanism and source-ecology overlaps are strong; a literal draft relationship is not established. / 机制和文献环境高度重合，但不能据此断定逐字底稿关系。 |
+| 1905–1906 | Later notebook reuse and “The Fundamental Concept of the Primitive Philosophy,” which classifies contemporary peoples through a cross-regional ethnographic category. / 笔记后期再利用与《原始哲学的基本概念》；文章以跨地域民族志分类处理同时代人群。 | Mechanism and source-ecology overlaps are strong; a literal draft relationship is not established. / 机制和文献环境高度重合，但不能据此断定逐字底稿关系。 |
 | 1907 | Review of Paul Deussen's Indian-philosophy work. / 评论 Paul Deussen 的印度哲学著作。 | Evidence of continuing engagement, not retrospective proof of the 1895–1898 network. / 证明后续接触，但不能反推早期网络中所有人物已经相识。 |
+| 1919–1922 | Babbitt’s *Rousseau and Romanticism* appends “Chinese Primitivism”; Lovejoy reviews the volume in 1920, and Babbitt responds directly in 1922. / Babbitt 的《卢梭与浪漫主义》附有《中国的原始主义》；Lovejoy 于 1920 年评论，Babbitt 于 1922 年直接回应。 | Book, review, and later exchange are documented; they do not establish an 1890s personal connection. / 著作、书评和后期论争均可证；不能倒推 1890 年代已经存在人际联系。 |
+| 1923 | Lovejoy’s Rousseau article distinguishes chronological, juristic/governmental, and cultural meanings of the “state of nature” and explicitly disputes Babbitt’s interpretation. / Lovejoy 在卢梭论文中区分「自然状态」的年代、法理／政府与文化含义，并明确反驳 Babbitt 的解释。 | Modern sovereign states provide a counterexample to equating juristic with cultural primitiveness; later controversy does not establish Harvard-era personal transmission. / 现代主权国家之间的关系构成反例，说明法理上的自然状态不能等同于文化上的原始；后期论争不能证明哈佛时期已经直接交流。 |
+| 1935 | Lovejoy and Boas distinguish chronological from cultural primitivism; Albright’s Western Asian and Dumont’s Indian chapters appear as “Supplementary Essays.” / Lovejoy 与 Boas 区分年代性与文化性原始主义；Albright 的西亚章节与 Dumont 的印度章节以「补充论文」列出。 | Distinction and division of scholarly labor are explicit in the printed volume; they do not prove deliberate exclusion or authorial political intent. / 刊本明确呈现概念区分与知识分工；不能据此推定作者有意排斥亚洲材料或具备特定政治意图。 |
 | 1936 | *The Great Chain of Being*. / 《存在巨链》。 | Comparison may establish contrasts and continuities, not automatic origin or influence. / 可比较差别与延续，不能自动推出单线起源或影响。 |
 
 ## People and institutions / 人物与机构
@@ -52,9 +113,12 @@ Existing biography already records Lovejoy's Sanskrit and Buddhist study. The co
 | Person / 人物 | Context / 环境 | Connection / 联系 | Evidence level / 证据等级 |
 |---|---|---|---|
 | Arthur O. Lovejoy / 洛夫乔伊 | Harvard, Paris, Washington University, Johns Hopkins / 哈佛、巴黎、华盛顿大学、约翰斯·霍普金斯 | Manuscripts, published articles, teaching and later historiographical writing / 手稿、论文、教学与后期史学方法 | Direct / 直接 |
+| James Bradstreet Greenough / 格里诺 | Harvard Latin and comparative grammar / 哈佛拉丁语与比较语法 | Introduced Sanskrit/comparative philology as Latin electives in 1872 / 1872 年以拉丁文选修课引入梵文及比较语文学 | Institutional genealogy; no personal Lovejoy link claimed / 制度谱系；不主张与 Lovejoy 有直接个人联系 |
 | Charles Rockwell Lanman / 兰曼 | Harvard Sanskrit and Buddhist studies / 哈佛梵文与佛教学 | Lovejoy studied Sanskrit and Buddhist texts under him / Lovejoy 随其研读梵文及佛教文本 | Documented biographical connection / 传记明确记载 |
-| Henry Clarke Warren / 沃伦 | Harvard Oriental Series; Buddhist translation / 哈佛东方学丛书与佛教翻译 | Notebook 004 explicitly contests his interpretation of attachment and desire / 004 明确讨论其对于执取与欲望的解释 | Notebook and 1898 publication / 手稿及刊本 |
-| Émile Senart / 塞纳尔 | French Indology and Buddhist philology / 法国印度学与佛教语文学 | Lovejoy accepts composite materials but disputes accidental arrangement / Lovejoy 承认材料来源复合，同时反驳排列纯属偶然 | Notebook and 1898 publication / 手稿及刊本 |
+| Irving Babbitt / 白璧德 | Lanman’s Harvard; EPHE Pāli/Buddhist study; Harvard French; anti-Rousseauist humanism / Lanman 门下、EPHE 巴利文与佛教研究、哈佛法文、反卢梭式人文主义 | Cross-disciplinary predecessor; authored “Chinese Primitivism”; Lovejoy reviewed and explicitly disputed his arguments / 跨学科的前一代学者；撰写《中国的原始主义》，Lovejoy 曾评论并明确反驳其论点 | Direct controversy documented from 1920 onward; no direct 1890s transmission to Lovejoy / 1920 年以后的直接论争可证；未证 1890 年代向 Lovejoy 直接传递 |
+| Paul Elmer More / 莫尔 | Harvard Sanskrit/Pāli/Indian philosophy; later criticism / 哈佛梵文、巴利文与印度哲学；后转入文学批评 | Lanman student and Sanskrit instructor in 1894–95 / Lanman 学生，1894–95 年任梵文教师 | Teaching succession documented; exact two-person class awaits official count / 教学接替可证；两人班仍待官方人数核验 |
+| Henry Clarke Warren / 沃伦 | Harvard Oriental Series; Buddhist translation / 哈佛东方学丛书与佛教翻译 | Lovejoy applies Warren’s relation-by-relation rule to Warren’s local “identity” claim / Lovejoy 用 Warren 自己的逐项关系规则检验其局部的「同一」判断 | Notebook and 1898 publication / 手稿及刊本 |
+| Émile Senart / 塞纳尔 | French Indology and Buddhist philology / 法国印度学与佛教语文学 | Shared genealogical analysis; disputed inference from composite provenance to present arrangement / 共享谱系分析方法；争论能否从复合来源推定现有排列方式 | Notebook and 1898 publication / 手稿及刊本 |
 | Charles Carroll Everett / 埃弗里特 | Harvard comparative religion / 哈佛比较宗教学 | Wider comparative-religion instruction / 比较宗教学训练 | Biographical and institutional / 传记与制度材料 |
 | Crawford Howell Toy / 托伊 | Harvard Hebrew religion / 哈佛希伯来宗教史 | Historical treatment of Hebrew religious traditions / 希伯来宗教传统的历史研究 | Biographical and institutional / 传记与制度材料 |
 | William James / 威廉·詹姆斯 | Harvard philosophy, psychology and psychical research / 哈佛哲学、心理学与心灵研究 | Existing relationship to Lovejoy; independently documented James–Marillier network / 与 Lovejoy 有已知联系；James 和 Marillier 之间另有独立可证的学术往来 | No proof currently that James introduced Lovejoy to Marillier / 目前不能证明 James 介绍 Lovejoy 认识 Marillier |
@@ -62,7 +126,11 @@ Existing biography already records Lovejoy's Sanskrit and Buddhist study. The co
 | Sylvain Lévi / 莱维 | Paris Indology and Buddhist texts / 巴黎印度学与佛教文本 | Lovejoy's Paris Buddhist reading / Lovejoy 巴黎时期的佛教阅读 | Existing biographical evidence / 既有传记依据 |
 | Hermann Oldenberg / 奥尔登堡 | German Buddhist philology / 德语佛教语文学 | Buddhism–Sāṃkhya controversy / 佛教与数论关系之争 | Named source and controversy participant / 可证实的文献与论争参与者 |
 | Hermann Jacobi / 雅各比 | German Indology / 德语印度学 | Buddhism–Sāṃkhya genealogical debate / 佛教与数论谱系争论 | Named contemporary interlocutor / 可证实的同时代论争对象 |
-| F. Max Müller / 马克斯·缪勒 | Oxford comparative philology and religion / 牛津比较语文学与宗教学 | Wider comparative scholarly ecology / 更广泛的比较研究环境 | Context only unless direct uptake is shown / 未证实具体阅读前仅作环境材料 |
+| F. Max Müller / 马克斯·缪勒 | Oxford comparative philology and religion; Académie/EPHE boundary-making / 牛津比较语文学与宗教学；法兰西学会及 EPHE 的学科边界形成 | Retrospective Classics/Oriental binary plus a contemporary argument about limits of induction / 回忆录中的古典学—东方学二分，以及同时代关于归纳限度的论证 | Contextual history, not a direct source for notebook 004 / 学科史背景，不作为 004 的直接来源 |
+| Eduard Zeller / 策勒尔 | History of Greek philosophy / 希腊哲学史 | Negative control: proof discrimination coexists with an Oriental/Greek civilizational hierarchy / 反向控制：精细证据区分与东方—希腊文明等级并存 | Field comparator; no influence on Lovejoy asserted / 学术场域参照；不主张直接影响 Lovejoy |
+| George Boas / 乔治·博阿斯 | Johns Hopkins intellectual history and classical primitivism / 约翰斯·霍普金斯观念史与古典原始主义研究 | Coauthored the 1935 distinction between chronological and cultural primitivism / 与 Lovejoy 合著 1935 年著作，区分年代性与文化性原始主义 | Printed coauthorship; individual responsibility for particular formulations is not established / 合著关系可证；具体表述的个人分工不能确定 |
+| W. F. Albright / 奥尔布赖特 | Johns Hopkins ancient Western Asian studies / 约翰斯·霍普金斯古代西亚研究 | Contributed “Primitivism in Ancient Western Asia” as a supplementary essay in the 1935 volume / 为 1935 年著作撰写补充论文《古代西亚的原始主义》 | Printed contribution and placement; not evidence of exclusion from the project / 刊本中的贡献和排列位置可证；不等于被排斥于项目之外 |
+| P.-E. Dumont / 杜蒙 | Johns Hopkins Sanskrit and Indian philology / 约翰斯·霍普金斯梵文与印度语文学 | Contributed “Primitivism in Indian Literature” as a supplementary essay in the 1935 volume / 为 1935 年著作撰写补充论文《印度文学中的原始主义》 | Printed contribution and placement; no claim that Lovejoy lacked Sanskrit training / 刊本中的贡献和排列位置可证；不意味着 Lovejoy 本人缺乏梵文训练 |
 | Paul Deussen / 保罗·多伊森 | Indian philosophy and Vedānta / 印度哲学与吠檀多 | Lovejoy's 1907 review / Lovejoy 于 1907 年发表书评 | Published source / 已刊文献 |
 | James G. Frazer / 弗雷泽 | Comparative anthropology and ritual / 比较人类学与仪式研究 | Sources and critical discussion in notebook 005 / 005 中的文献来源与批评性讨论 | Notebook evidence / 手稿依据 |
 | W. Robertson Smith / 罗伯逊·史密斯 | Religion, sacrifice and kinship / 宗教、献祭与亲属关系 | Lovejoy separates explanatory mechanisms rather than accepting one sacrificial origin / Lovejoy 区分解释机制，不接受单一献祭起源 | Notebook evidence / 手稿依据 |
@@ -94,15 +162,15 @@ The James–Marillier relationship predates Lovejoy's Paris year. Its existence 
 
 ### Warren → notebook 004 → 1898 / Warren → 004 笔记 → 1898 年文章
 
-Warren treats attachment and desire as a relation of “identity.” On notebook 004 PDF p. 22 / manuscript p. 75, Lovejoy objects: “But not so if we are to follow the present text.” The published article differentiates semantic, psychological, and causal relations. / Warren 将执取与欲望处理为「同一」关系。在 004 笔记 PDF 第 22 页、手稿第 75 页，Lovejoy 写道：「但如果遵循当前文本，情况并非如此。」刊本进一步区分语义、心理和因果层面的联系。
+Warren’s relation-by-relation procedure requires each link to be tested separately, yet he treats attachment and desire as “identity.” On notebook 004 PDF p. 22 / manuscript p. 75, Lovejoy applies that same rule against the local identification: “But not so if we are to follow the present text.” The published article distinguishes semantic, psychological, and causal relations. The dispute concerns consistent application of a shared inferential standard. / Warren 的逐项关系分析要求分别检验每一环，却把执取与欲望判定为「同一」。在 004 笔记 PDF 第 22 页、手稿第 75 页，Lovejoy 用同一规则反驳这项具体判断：「但如果遵循当前文本，情况并非如此。」刊本进一步区分语义、心理和因果关系。争点在于共同推断标准能否一致应用。
 
 ### Senart → notebook 004 → 1898 / Senart → 004 笔记 → 1898 年文章
 
-Senart describes composite categories arranged in an “ordre plus ou moins accidentel.” On notebook 004 PDF p. 49 / manuscript p. 137, Lovejoy concedes heterogeneous prior materials but rejects the conclusion that the formula is illogical, unintelligible, or accidental. In the 1898 article, he distinguishes borrowed terms or ideas from original arrangement and application. / Senart 将不同来源的成分解释为依照「多少带有偶然性的秩序」拼合。004 笔记 PDF 第 49 页、手稿第 137 页显示，Lovejoy 承认材料来源不同，却拒绝将其进一步推定为缺乏逻辑、不可理解或纯属偶然。1898 年刊本据此区分既有术语或观念与独创的排列和应用。
+Senart already advocates “l’analyse et la filiation des termes” and describes composite categories arranged in an “ordre plus ou moins accidentel.” On notebook 004 PDF p. 49 / manuscript p. 137, Lovejoy accepts inherited materials and genealogical analysis but rejects the inference that composite provenance establishes present unintelligibility. The 1898 article distinguishes borrowed terms or ideas from original arrangement and application. / Senart 本人已提出「术语的分析与谱系」，并把复合成分解释为依照「多少带有偶然性的秩序」排列。004 笔记 PDF 第 49 页、手稿第 137 页显示，Lovejoy 接受既有材料及谱系分析，却拒绝据复合来源推定现有结构无法理解。1898 年刊本进一步区分既有术语或观念与独创的排列和应用。
 
 ### Upādisesa → notebook 004 → 1898 / upādisesa → 004 笔记 → 1898 年文章
 
-Notebook 004 PDF p. 66 / manuscript p. 173 contains a near-verbatim precursor to the 1898 article, p. 135. Print adds explicit evidential caution: meaning must be examined through usage, some evidence is relevant but not necessarily conclusive, and the question cannot be regarded as finally settled. / 004 笔记 PDF 第 66 页、手稿第 173 页，与 1898 年文章第 135 页存在接近逐字的对应。刊本另外明确补充证据限定：词义须结合实际用法考察；部分证据虽相关，却未必具有决定性；问题仍不能视为已经彻底解决。
+Notebook 004 PDF p. 66 / manuscript p. 173 contains a near-verbatim precursor to the 1898 article, p. 135. Both derivations remain “etymologically possible,” so textual usage rather than etymological possibility bears the semantic claim. Even that evidence is “relevant but not necessarily conclusive”; the question “cannot be regarded as finally settled.” / 004 笔记 PDF 第 66 页、手稿第 173 页，与 1898 年文章第 135 页存在接近逐字的对应。两种词源都「在词源学上可能成立」，因此语义判断须依据文本用法，而不能仅凭词源可能性。即使如此，相关证据也「未必具有决定性」，问题仍「不能视为已经彻底解决」。
 
 ### Notebook 005 → Paris seminars → 1906 / 005 笔记 → 巴黎研讨 → 1906 年文章
 
@@ -5630,28 +5698,10 @@ The 005 → 1906 pair is therefore potentially as important as 004 → 1898, but
 - [archive_index/lovejoy_document_family_controls.csv](archive_index/lovejoy_document_family_controls.csv)
 - [archive_index/lovejoy_global_archive_ambiguity_register.csv](archive_index/lovejoy_global_archive_ambiguity_register.csv)
 - [archive_index/lovejoy_global_archive_collection_leads.csv](archive_index/lovejoy_global_archive_collection_leads.csv)
-- [archive_index/lovejoy_global_archive_component_batch100_delta.csv](archive_index/lovejoy_global_archive_component_batch100_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch102_delta.csv](archive_index/lovejoy_global_archive_component_batch102_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch105_delta.csv](archive_index/lovejoy_global_archive_component_batch105_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch107_delta.csv](archive_index/lovejoy_global_archive_component_batch107_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch110_delta.csv](archive_index/lovejoy_global_archive_component_batch110_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch112_delta.csv](archive_index/lovejoy_global_archive_component_batch112_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch90_delta.csv](archive_index/lovejoy_global_archive_component_batch90_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch95_delta.csv](archive_index/lovejoy_global_archive_component_batch95_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch96_delta.csv](archive_index/lovejoy_global_archive_component_batch96_delta.csv)
-- [archive_index/lovejoy_global_archive_component_batch98_delta.csv](archive_index/lovejoy_global_archive_component_batch98_delta.csv)
+- [archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv](archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv)
 - [archive_index/lovejoy_global_archive_component_index.csv](archive_index/lovejoy_global_archive_component_index.csv)
 - [archive_index/lovejoy_global_archive_description_conflicts.csv](archive_index/lovejoy_global_archive_description_conflicts.csv)
-- [archive_index/lovejoy_global_archive_leads_batch100_delta.csv](archive_index/lovejoy_global_archive_leads_batch100_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch102_delta.csv](archive_index/lovejoy_global_archive_leads_batch102_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch103_delta.csv](archive_index/lovejoy_global_archive_leads_batch103_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch107_delta.csv](archive_index/lovejoy_global_archive_leads_batch107_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch112_delta.csv](archive_index/lovejoy_global_archive_leads_batch112_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch113_delta.csv](archive_index/lovejoy_global_archive_leads_batch113_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch114_delta.csv](archive_index/lovejoy_global_archive_leads_batch114_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch90_delta.csv](archive_index/lovejoy_global_archive_leads_batch90_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch95_delta.csv](archive_index/lovejoy_global_archive_leads_batch95_delta.csv)
-- [archive_index/lovejoy_global_archive_leads_batch96_delta.csv](archive_index/lovejoy_global_archive_leads_batch96_delta.csv)
+- [archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv](archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv)
 - [archive_index/lovejoy_global_archive_repository_coverage.csv](archive_index/lovejoy_global_archive_repository_coverage.csv)
 - [archive_index/lovejoy_iacf_accf_candidate_folders.csv](archive_index/lovejoy_iacf_accf_candidate_folders.csv)
 - [archive_index/lovejoy_jhu_manifestation_domains_batch110.csv](archive_index/lovejoy_jhu_manifestation_domains_batch110.csv)
@@ -5683,6 +5733,11 @@ The 005 → 1906 pair is therefore potentially as important as 004 → 1898, but
 - [research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md](research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md)
 - [research_notes/JHI_blog_house_style_and_precedent_audit_2026-08-19.md](research_notes/JHI_blog_house_style_and_precedent_audit_2026-08-19.md)
 - [research_notes/JHI_blog_nonwestern_center_first_order_thesis_2026-08-20.md](research_notes/JHI_blog_nonwestern_center_first_order_thesis_2026-08-20.md)
+- [research_notes/JHI_blog_notebook_diagrams_paper_techniques_affordances_research_log_2026-08-23.md](research_notes/JHI_blog_notebook_diagrams_paper_techniques_affordances_research_log_2026-08-23.md)
+- [research_notes/lovejoy_orientalist_source_register_batch_deltas_consolidated.csv](research_notes/lovejoy_orientalist_source_register_batch_deltas_consolidated.csv)
+- [research_notes/MS38_005_source_register_batch_deltas_consolidated.csv](research_notes/MS38_005_source_register_batch_deltas_consolidated.csv)
+- [archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv](archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv)
+- [research_notes/repository_csv_batch_consolidation_manifest_2026-08-23.md](research_notes/repository_csv_batch_consolidation_manifest_2026-08-23.md)
 - [research_notes/JHI_blog_pitch_vocabulary_actor_terms_vs_analytic_terms_2026-08-20.md](research_notes/JHI_blog_pitch_vocabulary_actor_terms_vs_analytic_terms_2026-08-20.md)
 - [research_notes/JHI_blog_pre_pitch_project_synthesis_2026-08-20.md](research_notes/JHI_blog_pre_pitch_project_synthesis_2026-08-20.md)
 - [research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)

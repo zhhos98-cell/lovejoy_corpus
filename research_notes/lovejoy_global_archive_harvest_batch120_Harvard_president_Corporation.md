@@ -221,10 +221,10 @@ Evidence/data rule:
 
 ## 8. Data products
 
-- `archive_index/lovejoy_global_archive_leads_batch120_delta.csv` — `GAL0047` Lowell President's Office; `GAL0050` Harvard Corporation.
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — `GAL0047` Lowell President's Office; `GAL0050` Harvard Corporation.
 - `archive_index/lovejoy_harvard_russell_presidential_governance_crosswalk_batch120.csv` — seven distinct Harvard manifestation/provenance domains.
 - `archive_index/lovejoy_harvard_russell_retrieval_algorithm_batch120.csv` — event-by-event routing and upgrade/stop conditions.
-- `archive_index/lovejoy_global_archive_repository_coverage_batch120_delta.csv` — `COV0065-COV0068`.
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0065-COV0068`.
 - `archive_index/lovejoy_global_id_concurrency_reconciliation_batch120.csv` — explicit Batch120/121/122 ID reconciliation.
 - this synthesis note.
 

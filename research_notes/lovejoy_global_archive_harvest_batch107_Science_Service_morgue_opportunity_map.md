@@ -236,11 +236,11 @@ The correct reconstruction sequence is therefore object-first:
 
 ## Files created in archive-side Batch107
 
-- `archive_index/lovejoy_global_archive_component_batch107_delta.csv` — GLA0051 Science Service Acc90-105 portrait-morgue component + GLA0052 Honigmann Lovejoy-titled reference component;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0051 Science Service Acc90-105 portrait-morgue component + GLA0052 Honigmann Lovejoy-titled reference component;
 - `archive_index/lovejoy_science_service_alphabetical_opportunity_map_batch107.csv` — exact 1927–40 presence/candidate/missing run, especially 1930–38 physical candidate folders;
 - `archive_index/lovejoy_global_archive_preservation_gaps_batch107_delta.csv` — GAP0002, 1926 Series-5-specific I–Z lacuna with surviving overlapping Series2 L folders;
-- `archive_index/lovejoy_global_archive_leads_batch107_delta.csv` — GAL0041 Watson Davis + GAL0042 Edwin E. Slosson;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch107_delta.csv` — SIA 90-105, Davis, Slosson, Honigmann and 90-068 audit;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — GAL0041 Watson Davis + GAL0042 Edwin E. Slosson;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — SIA 90-105, Davis, Slosson, Honigmann and 90-068 audit;
 - `archive_index/lovejoy_science_service_split_custody_crosswalk_batch107.csv`;
 - this synthesis note.
 

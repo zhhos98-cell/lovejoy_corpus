@@ -174,9 +174,9 @@ The proper reconstruction order is:
 ## Files created in archive-side Batch110
 
 - `archive_index/jhu_lovejoy_authority_record_crosscollection_batch110.csv` — all 14 JHU authority-linked collections/records, evidence-tiered;
-- `archive_index/lovejoy_global_archive_component_batch110_delta.csv` — GLA0053 History of Ideas Club, GLA0054 Wilson transcriptions, GLA0055 Macksey 1948 file;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0053 History of Ideas Club, GLA0054 Wilson transcriptions, GLA0055 Macksey 1948 file;
 - `archive_index/lovejoy_jhu_manifestation_domains_batch110.csv` — creator-fonds / transcription / organizational / collected-letter / authority-control domains;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch110_delta.csv` — COV0038-COV0039;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — COV0038-COV0039;
 - this synthesis note.
 
 ## Highest next moves

@@ -176,8 +176,8 @@ The distinction matters because AAUP's own centennial history identifies Lovejoy
 
 ### Archive-side Batch96
 
-- `archive_index/lovejoy_global_archive_component_batch96_delta.csv` — GLA0037–GLA0040;
-- `archive_index/lovejoy_global_archive_leads_batch96_delta.csv`;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0037–GLA0040;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv`;
 - `archive_index/lovejoy_global_archive_description_conflicts_batch96_delta.csv` — GAC0002;
 - `archive_index/lovejoy_global_archive_description_conflicts_batch96_addendum.csv` — GAC0003;
 - `archive_index/lovejoy_aaup_formation_documentary_chain_batch96.csv`;
@@ -186,7 +186,7 @@ The distinction matters because AAUP's own centennial history identifies Lovejoy
 
 ### Archive-side Batch98
 
-- `archive_index/lovejoy_global_archive_component_batch98_delta.csv` — GLA0041–GLA0042;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0041–GLA0042;
 - `archive_index/lovejoy_global_archive_component_upgrades_batch98.csv` — GLA0026 Cattell + GLA0039 Pound;
 - `archive_index/lovejoy_aaup_foundation_documentary_chain_batch98.csv`;
 - `archive_index/lovejoy_cornell_aaup_reciprocal_map_batch98.csv`;

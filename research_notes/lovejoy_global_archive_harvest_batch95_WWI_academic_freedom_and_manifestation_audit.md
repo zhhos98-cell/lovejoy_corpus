@@ -227,8 +227,8 @@ That architecture lets us ask a better question than whether Lovejoy "worked on 
 
 ## Files created in Batch95
 
-- `archive_index/lovejoy_global_archive_component_batch95_delta.csv` — GLA0031–GLA0036;
-- `archive_index/lovejoy_global_archive_leads_batch95_delta.csv` — GAL0016 upgrade + GAL0027–GAL0031;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0031–GLA0036;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — GAL0016 upgrade + GAL0027–GAL0031;
 - `archive_index/lovejoy_academic_freedom_manifestation_batch95_delta.csv` — explicit 1949–53 primary/secondary/candidate status audit;
 - `archive_index/lovejoy_wwi_academic_freedom_documentary_chain.csv` — 1917–18 cross-repository chain;
 - `archive_index/jhu_ms0038_correspondence_harvest_batch95_audit.csv` — box-range search-index audit and technique correction;

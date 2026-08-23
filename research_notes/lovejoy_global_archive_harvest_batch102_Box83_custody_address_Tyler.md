@@ -204,8 +204,8 @@ This prevents a subtle but serious false-negative: `person absent from correspon
 - `archive_index/jhu_ms0038_third_party_document_map_batch102.csv` — Box24/Box83 cited document ecology;
 - `archive_index/lovejoy_document_custody_address_separation_batch102.csv` — new custody/address/manifestation rules;
 - `archive_index/lovejoy_1919_pensions_coordination_packet_batch102.csv` — date-bounded cross-fonds retrieval packet;
-- `archive_index/lovejoy_global_archive_component_batch102_delta.csv` — GLA0045 + GLA0046 GWU Lovejoy->Tyler items;
-- `archive_index/lovejoy_global_archive_leads_batch102_delta.csv` — GAL0016 update + GAL0038 MIT Tyler Papers;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — GLA0045 + GLA0046 GWU Lovejoy->Tyler items;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — GAL0016 update + GAL0038 MIT Tyler Papers;
 - `archive_index/lovejoy_tyler_document_family_batch102.csv` — known JHU/GWU Lovejoy-Tyler manifestations plus MIT reciprocal-fonds candidate;
 - this synthesis note.
 

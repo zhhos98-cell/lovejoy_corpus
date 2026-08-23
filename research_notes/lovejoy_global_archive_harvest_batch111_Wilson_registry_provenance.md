@@ -122,7 +122,7 @@ Deprecated IDs remain tombstones. They are never recycled, because reuse would m
 
 - `archive_index/lovejoy_global_archive_duplicate_aliases_batch111.csv` — deprecates GLA0053-GLA0055 and redirects them to GLA0020, GLA0010, and GLA0011;
 - `archive_index/lovejoy_wilson_transcription_provenance_batch111.csv` — nine-stage MS-0038/MS-0873/Wilson descriptive-provenance matrix;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch111_delta.csv` — COV0040-COV0041, covering the JHU provenance audit and Wilson's historical multi-repository discovery list;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — COV0040-COV0041, covering the JHU provenance audit and Wilson's historical multi-repository discovery list;
 - this synthesis note.
 
 No new GLA component is added in this batch.

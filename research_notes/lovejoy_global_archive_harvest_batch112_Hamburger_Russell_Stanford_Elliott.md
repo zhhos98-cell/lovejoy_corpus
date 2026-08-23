@@ -151,9 +151,9 @@ But it also creates a warning: if a second Lovejoy text dated 15 April 1901 appe
 
 - `archive_index/lovejoy_jhu_hamburger_repository_identity_batch112.csv` — historical repository name versus MS-0738 personal fonds;
 - `archive_index/lovejoy_russell_hopkins_invitation_chain_batch112.csv` — BRACERS 121121 / canonical GLA0030-121122 / 3597 plus contextual timing node;
-- `archive_index/lovejoy_global_archive_component_batch112_delta.csv` — new canonical `GLA0056`, Lovejoy → Orrin L. Elliott, 15 Apr 1901;
-- `archive_index/lovejoy_global_archive_leads_batch112_delta.csv` — `GAL0043` Jordan SC0058 and `GAL0044` Goodnow MS-0003;
-- `archive_index/lovejoy_global_archive_repository_coverage_batch112_delta.csv` — `COV0042–COV0045`;
+- `archive_index/lovejoy_global_archive_component_batch_deltas_consolidated.csv` — new canonical `GLA0056`, Lovejoy → Orrin L. Elliott, 15 Apr 1901;
+- `archive_index/lovejoy_global_archive_leads_batch_deltas_consolidated.csv` — `GAL0043` Jordan SC0058 and `GAL0044` Goodnow MS-0003;
+- `archive_index/lovejoy_global_archive_repository_coverage_batch_deltas_consolidated.csv` — `COV0042–COV0045`;
 - this synthesis note.
 
 ## Highest next moves
