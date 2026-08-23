@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 全 120 页已完成翻译。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。004 与 005 笔记已加入 184 条逐句来源批判判定，并在英文原文与中文译文同步标注。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 全 120 页已完成翻译。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -116,6 +116,8 @@ Notebook 005 links death, survival, totemism, sacrifice, kinship, blood transfer
 - Do not silently resolve `[illegible]`, `[?]`, uncertain proper names, or difficult Pāli/Sanskrit forms. / 不擅自补全 `[illegible]`、`[?]`、未定人名或难辨的巴利文、梵文形式。
 - Separate direct documentary evidence from institutional availability, thematic resemblance and speculative interpersonal transmission. / 区分直接文献证据、制度环境中的可接触性、主题相似以及未经证实的人际传递。
 - Preserve problematic historical terms as evidence of the original classification, not as present-day editorial endorsement. / 历史文本中的问题性分类词汇须作为史料保留，不代表当代编者认可。
+
+**Sentence-level source-critical annotation / 逐句来源批判标记：** `Q·D` = independently collated direct source, with precise text or page where established / 已独立校勘的直接来源，尽可能标明原文与页码；`Q·N` = source named in the manuscript, but edition, page, or quotation not fully locked / 手稿明确列名，但版本、页码或逐字对应尚未完全锁定；`Q·A` = Lovejoy’s identifiable analytical intervention or reworking, not a borrowed proposition / 可辨认的 Lovejoy 自身分析、改写或批评，并非直接抄录的命题；`Q·C` = contextual or comparative control only, not proof of direct reading, transmission, or influence / 语境或比较性对照，不等于已经证明直接阅读、传递或影响；`Q·H` = explicitly unresolved source hypothesis / 明确保留的不确定来源假设；`Q·V` = transcription, date, or pagination correction independently checked against manuscript or printed evidence / 经手稿或印本文献复核的转录、日期或页码校正。Every linked note points to the repository’s underlying concordance or research memorandum; identical notes are placed after both the English and Chinese sentence. / 每条链接指向仓库中相应的校勘表或研究备忘，并同步附在英文原句与中文对应句之后。
 - A complete English transcription is not itself a complete Chinese translation. Until translation exists, pages are labeled as English transcription rather than misrepresented as bilingual. / 英文全文转录并不等于中文全文译本。在逐段翻译真正完成之前，各页明确标为英文转录，不虚称已经双语化。
 
 
@@ -254,7 +256,7 @@ Agnosticism, p. 21.
 
 The Method of the Sankhya
 Garbe p. 150
-[For bibliog. problem, etc. see other note-book.]
+[For bibliog. 〔[Q·D：Richard Garbe, Die Sâmkhya-Philosophie (1894), pp.150–151；逐句对应已核实](research_notes/Garbe1892_1894_Lovejoy004_proof_concordance_batch160.csv)〕 problem, etc. see other note-book.]
 
 “All the Hindu systems manifest a genuine philosophical temper in that they recognize the necessity of giving an account of the sources of knowledge acknowledged by them. The usual wd for a source of kn. is pramana; etymologically = that whereby anything is measured off, accurately established, discovered as real knowledge (pramiti).
 
@@ -263,7 +265,7 @@ The systems differ in the number of pramanas; but in the discussion of that one 
 **Chinese translation / 中文译文**
 
 数论的方法
-Garbe，第 150 页。
+Garbe，第 150 页。 〔[Q·D：Richard Garbe, Die Sâmkhya-Philosophie (1894), pp.150–151；逐句对应已核实](research_notes/Garbe1892_1894_Lovejoy004_proof_concordance_batch160.csv)〕
 ［关于书目问题等，参见另一本笔记。］
 
 「所有印度教哲学体系都展现出真正的哲学精神，因为它们承认有必要说明自身认可的知识来源。表示知识来源的常用词是 pramāṇa；从词源看，其含义是：借以衡量、准确确立，并将某物发现为真实知识（pramiti）的东西。
@@ -281,7 +283,7 @@ Garbe，第 150 页。
 
 [continuation from preceding page]
 
-“of the orthodox systems show pretty complete agreement. The probable terminology, definitions, examples are on this point almost uniformly the same. This much indicates that the results of the logic worked out by the Nyaya-Vaisesika School had been adopted by the other schools as an established logical method. Consequently when we find a similar theory of the syllogism in certain Sankhya writings (e.g. S.-t.-k. & S. [illegible] Bhasya) we must recognize an alien element; which fact however a European expositor of the Sankhya need notice only in so far as it bears upon the method of the system.
+“of the orthodox systems show pretty complete agreement. The probable terminology, definitions, examples are on this point almost uniformly the same. This much indicates that the results of the logic worked out by the Nyaya-Vaisesika School had been adopted by the other schools as an established logical method. Consequently when we find a similar theory of the syllogism in certain Sankhya writings (e.g. S.-t.-k. & S. [illegible] Bhasya) we must recognize an alien element; which fact however a European expositor of the Sankhya need notice only in so far as it bears upon the method of the system. 〔[Q·D：Garbe (1894), pp.150–151；“外来成分”判断来自被抄录的 Garbe，并非此处首先由 Lovejoy 提出](research_notes/Garbe1892_1894_Lovejoy004_proof_concordance_batch160.csv)〕
 
 Our system recognizes 3 sources of knowledge:
 1. Perception (pratyaksha, drishta)
@@ -294,7 +296,7 @@ Our system recognizes 3 sources of knowledge:
 
 ［接上页］
 
-「……表现出相当完全的一致。在这一点上，有关术语、定义和例子几乎处处相同。这至少表明：正理—胜论学派发展出来的逻辑成果，已经被其他学派接受为既定的逻辑方法。因此，当我们在某些数论著作中发现类似的三段论理论时，例如 S.-t.-k. 和 S.［难辨］Bhasya，就必须承认其中存在外来的成分；不过，欧洲的数论阐释者只须在这个事实影响体系方法的范围内加以注意。
+「……表现出相当完全的一致。在这一点上，有关术语、定义和例子几乎处处相同。这至少表明：正理—胜论学派发展出来的逻辑成果，已经被其他学派接受为既定的逻辑方法。因此，当我们在某些数论著作中发现类似的三段论理论时，例如 S.-t.-k. 和 S.［难辨］Bhasya，就必须承认其中存在外来的成分；不过，欧洲的数论阐释者只须在这个事实影响体系方法的范围内加以注意。 〔[Q·D：Garbe (1894), pp.150–151；“外来成分”判断来自被抄录的 Garbe，并非此处首先由 Lovejoy 提出](research_notes/Garbe1892_1894_Lovejoy004_proof_concordance_batch160.csv)〕
 
 我们的体系承认三种知识来源：
 1. 知觉（pratyaksha、drishta）；
@@ -406,7 +408,7 @@ Contents, cont.
 
 Flux
 
-V. Warren p. 150 f. Vis Mag.
+V. Warren p. 150 f. Vis Mag. 〔[Q·N：Henry Clarke Warren, Buddhism in Translations (1896), p.150ff.；手稿明引 Buddhaghosa／Visuddhimagga](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 “Just as a chariot-wheel in rolling rolls only at one point of F. tire, … in exactly F. same way F. living being lasts only for F. period of one thought. As soon as that thought has ceased, F. being is said to have ceased.”
 
@@ -418,7 +420,7 @@ In MP II, 33, Milinda objects A. a doctrine of absolute flux destroys time itsel
 
 流变。
 
-参见 Warren，第 150 页及以下，《清净道论》。
+参见 Warren，第 150 页及以下，《清净道论》。 〔[Q·N：Henry Clarke Warren, Buddhism in Translations (1896), p.150ff.；手稿明引 Buddhaghosa／Visuddhimagga](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 「正如车轮滚动时，只有轮缘上的一点与地面接触……同样，活着的存在者也只持续一个念头的时间。一旦那个念头终止，就说那个存在者也终止了。」
 
@@ -485,7 +487,7 @@ F. epigrams of Buddha are probably F. most authentic in F. whole range of Buddhi
 
 Philos. material & contemp. date of Sankhya & Buddhism.
 
-[Com. Le?], Buddhism, p. 24.
+[Com. Le?], Buddhism, p. 24. 〔[Q·D：T. W. Rhys Davids, Buddhism: Its History and Literature (1896), pp.24–30；以下为其关于数论与佛教年代的摘录](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 “It was quite otherwise w. F. Sankhya system. Centuries afterward, when Buddhism had become corrupted, it will appear A. F. Sankh. was allied [illegible] to support F. Vedanta; & as it had often been held by European scholars A. Buddhism was more or less based on F. Sankhya, it will be necessary to consider F. question of the priority. Logically it stands half-way bet. F. Vedanta & Buddhism & was before a poss. stepping-stone to F. Buddhist position. And F. Buddhist themselves acknowledge A. Kapila … lived several”
 
 **Chinese translation / 中文译文**
@@ -506,7 +508,7 @@ Philos. material & contemp. date of Sankhya & Buddhism.
 数论与佛教的哲学材料及其年代关系。
 
 ［Com. Le?］，《佛教》，第 24 页。
-「数论体系的情况则完全不同。数百年后，当佛教已经发生变化时，可以看到数论与［难辨］结合，用来支持吠檀多；又因为欧洲学者经常认为佛教在不同程度上建立于数论，所以有必要考察何者在先。从逻辑上看，数论处在吠檀多与佛教之间，因此可能是通往佛教立场的一块踏脚石。佛教徒自己也承认，迦毗罗……生活在佛陀之前好几……」
+「数论体系的情况则完全不同。数百年后，当佛教已经发生变化时，可以看到数论与［难辨］结合，用来支持吠檀多；又因为欧洲学者经常认为佛教在不同程度上建立于数论，所以有必要考察何者在先。从逻辑上看，数论处在吠檀多与佛教之间，因此可能是通往佛教立场的一块踏脚石。 〔[Q·D：T. W. Rhys Davids, Buddhism: Its History and Literature (1896), pp.24–30；以下为其关于数论与佛教年代的摘录](research_notes/MS38_004_source_uptake_map_v7.csv)〕佛教徒自己也承认，迦毗罗……生活在佛陀之前好几……」
 
 **Uncertain readings / 疑难读法:** source author/title in right-hand paragraph; several abbreviated words
 
@@ -521,7 +523,7 @@ Philos. material & contemp. date of Sankhya & Buddhism.
 
 “generations bef. F. Buddha. It is, therefore, to say F. Sankhya system also preceded F. Buddhism, or was F. outcome of F. same intellectual movement.
 
-But what we know is A. in F. centuries immed. before & after F. birth of [Christ?] (i.e., some centuries after F. rise of Buddhism) it was F. Sankhya rather than F. Vedantism wh. was F. predominant school; & A. its adherents claimed a still more remote origin for tr. speculations. Mr. Garbe, … if opinion A. F. Sankhya teachers are right & A. F. teaching does indeed go back before F. rise of Buddhism. F. point seems to me, I confess, to be most doubtful. All F. Sankhya texts are much later in date. F. very oldest of them — F. Sankhya Karika of Isvara Krishna — cannot be placed at an earlier period than a full thousand yrs after F. time of Gotama, and although it is quite certain A. F. system, as a system already worked out, was much older than A., — we find it referred to, & in great part adopted, along w. Vedantism in perhaps certainly 2 or 3 centuries before Christ in Manu, & in F. Bhag. Gita, — yet tre is still a great gap to be bridged over. … On weighing all F. evidence it seems to me A. F. only conclusion”
+But what we know is A. in F. centuries immed. before & after F. birth of [Christ?] (i.e., some centuries after F. rise of Buddhism) it was F. Sankhya rather than F. Vedantism wh. was F. predominant school; & A. its adherents claimed a still more remote origin for tr. speculations. Mr. Garbe, … if opinion A. F. Sankhya teachers are right & A. F. teaching does indeed go back before F. rise of Buddhism. F. point seems to me, I confess, to be most doubtful. 〔[Q·D：Rhys Davids (1896), pp.24–30；第一人称属于被抄录的 Rhys Davids，不能直接归给 Lovejoy](research_notes/MS38_004_source_uptake_map_v7.csv)〕 All F. Sankhya texts are much later in date. F. very oldest of them — F. Sankhya Karika of Isvara Krishna — cannot be placed at an earlier period than a full thousand yrs after F. time of Gotama, and although it is quite certain A. F. system, as a system already worked out, was much older than A., — we find it referred to, & in great part adopted, along w. Vedantism in perhaps certainly 2 or 3 centuries before Christ in Manu, & in F. Bhag. Gita, — yet tre is still a great gap to be bridged over. … On weighing all F. evidence it seems to me A. F. only conclusion”
 
 **Chinese translation / 中文译文**
 
@@ -529,7 +531,7 @@ But what we know is A. in F. centuries immed. before & after F. birth of [Christ
 
 「……代。因此，有人认为数论体系也先于佛教，或者说，它们出自同一场思想活动。
 
-但我们确实知道的是：在［基督?］诞生前后几个世纪，也就是佛教兴起之后数百年，占主导地位的学派是数论，而不是吠檀多；数论的追随者还宣称，他们的思想可以追溯到更遥远的时代。Garbe 先生……认为数论教师们的说法正确，其教义确实早于佛教的兴起。坦白说，在我看来，这一点非常可疑。所有数论文本的年代都要晚得多。其中最早的《自在黑数论颂》，也不可能早于乔达摩时代之后整整一千年。诚然，作为一个已经发展完备的体系，数论肯定比现存文本更古老：我们发现它在《摩奴法典》和《薄伽梵歌》中受到提及，且有很大部分与吠檀多一起被吸收；这些作品也许可以上溯至基督之前两三百年。但是，中间仍然存在一个必须跨越的巨大年代断层。……衡量全部证据之后，在我看来，唯一……」
+但我们确实知道的是：在［基督?］诞生前后几个世纪，也就是佛教兴起之后数百年，占主导地位的学派是数论，而不是吠檀多；数论的追随者还宣称，他们的思想可以追溯到更遥远的时代。Garbe 先生……认为数论教师们的说法正确，其教义确实早于佛教的兴起。坦白说，在我看来，这一点非常可疑。 〔[Q·D：Rhys Davids (1896), pp.24–30；第一人称属于被抄录的 Rhys Davids，不能直接归给 Lovejoy](research_notes/MS38_004_source_uptake_map_v7.csv)〕所有数论文本的年代都要晚得多。其中最早的《自在黑数论颂》，也不可能早于乔达摩时代之后整整一千年。诚然，作为一个已经发展完备的体系，数论肯定比现存文本更古老：我们发现它在《摩奴法典》和《薄伽梵歌》中受到提及，且有很大部分与吠檀多一起被吸收；这些作品也许可以上溯至基督之前两三百年。但是，中间仍然存在一个必须跨越的巨大年代断层。……衡量全部证据之后，在我看来，唯一……」
 
 **Uncertain readings / 疑难读法:** one date marker before parenthesis; Garbe/source phrasing
 
@@ -542,11 +544,11 @@ But what we know is A. in F. centuries immed. before & after F. birth of [Christ
 
 [continuation]
 
-“to be rightly drawn is A. there is no evidence A. Kapila was F. real author of F. school, but A. there were, bef. F. time of F. Buddha, isolated thinkers of whose works we have no trace, who elaborated views similar to those out of wh. F. Sankhya was eventually developed.”
+“to be rightly drawn is A. there is no evidence A. Kapila was F. real author of F. school, but A. there were, bef. 〔[Q·D：Rhys Davids (1896), pp.24–30；延续前页的来源摘录](research_notes/MS38_004_source_uptake_map_v7.csv)〕 F. time of F. Buddha, isolated thinkers of whose works we have no trace, who elaborated views similar to those out of wh. F. Sankhya was eventually developed.”
 
 Philos. that in time of Gotama.
 
-F. sixty-two heresies, given in [reference]: Brahma-jala = Digha-Nikaya 1 (Davids, p. 3).
+F. sixty-two heresies, given in [reference]: Brahma-jala = Digha-Nikaya 1 (Davids, p. 3). 〔[Q·D：Rhys Davids (1896), pp.30–36；《梵网经》六十二见的分类次序与该书对应](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 The sixty-two theories are as follows:
 1–4. Sassata-Vada. People who either fr. meditation & deeper [?] or fr. reasoning have become to believe A. both F. ext. world as a whole & individual souls are eternal.
@@ -567,11 +569,11 @@ d. It is neither.
 
 ［接上页］
 
-「……能够恰当得出的结论是：没有证据表明迦毗罗确实是该学派的创立者；不过，在佛陀时代之前，确实可能存在一些分散的思想者，他们的著作已经无从追寻，却阐发了某些见解，而数论后来正是从类似见解发展而来。」
+「……能够恰当得出的结论是：没有证据表明迦毗罗确实是该学派的创立者；不过，在佛陀时代之前，确实可能存在一些分散的思想者，他们的著作已经无从追寻，却阐发了某些见解，而数论后来正是从类似见解发展而来。」 〔[Q·D：Rhys Davids (1896), pp.24–30；延续前页的来源摘录](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 乔达摩时代的哲学。
 
-六十二种异端见解，见［文献］：《梵网经》＝《长部》第 1 经，Davids，第 3 页。
+六十二种异端见解，见［文献］：《梵网经》＝《长部》第 1 经，Davids，第 3 页。 〔[Q·D：Rhys Davids (1896), pp.30–36；《梵网经》六十二见的分类次序与该书对应](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 六十二种理论如下：
 1—4. Sassata-Vāda，常住论。某些人通过禅定与更深入的［?］观察，或通过推理，相信外部世界作为整体，以及个别灵魂，都是永恒的。
@@ -597,7 +599,7 @@ d. 世界既非有限，也非无限。
 
 **English transcription / 英文转录**
 
-13–16. Amara-Vikkhepika. People who equivocate abt virtue & vice.
+13–16. Amara-Vikkhepika. 〔[Q·D：Rhys Davids (1896), pp.30–36；六十二见分类的延续](research_notes/MS38_004_source_uptake_map_v7.csv)〕 People who equivocate abt virtue & vice.
 a. Fr. fear lest if they express a decided opinion one (if possible mistake) will incur injury.
 b. From fear of forming injurious attachment.
 c. From fear lest they may not be able to answer skilful disputants.
@@ -621,7 +623,7 @@ It is to be noted A. these do not all represent separate systems, but detached d
 
 **Chinese translation / 中文译文**
 
-13—16. Amarā-Vikkhepika，诡辩论。某些人对善与恶含糊其词：
+13—16. Amarā-Vikkhepika，诡辩论。 〔[Q·D：Rhys Davids (1896), pp.30–36；六十二见分类的延续](research_notes/MS38_004_source_uptake_map_v7.csv)〕某些人对善与恶含糊其词：
 a. 因为害怕一旦表达明确意见，可能因出错而遭受损害；
 b. 因为害怕形成有害的执取；
 c. 因为害怕无法回答善于争辩的人；
@@ -667,7 +669,7 @@ The other #4 = F. Sankhya.
 F. Language is as follows:
 “In F. case, brethren, some recluse or Brahman is addicted to logic & reasoning. He gives utterance to F. follg. conclusion of his own, reached by his argumentation based on his sophistry: ‘Eternal is the self; eternal is F. world [or Matter]. They give birth to nothing; but are themselves unshaken as a mountain-peak, as a pillar firmly fixed. And though these living beings pass along, transmigrate, fall out of one state of existence & are born in another, yet they are forever & ever.’”
 
-On F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. F. Sankhya differs fr. F. Vedanta. … F. Sankh. holds A. tre is”
+On F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. 〔[Q·D：Rhys Davids (1896), pp.28–36；引文仍属来源作者，其后页才出现 Lovejoy 明确补充](research_notes/MS38_004_source_uptake_map_v7.csv)〕 F. Sankhya differs fr. F. Vedanta. … F. Sankh. holds A. tre is”
 
 **Chinese translation / 中文译文**
 
@@ -686,7 +688,7 @@ On F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. F. Sank
 原文如下：
 「在这种情况下，诸兄弟，某位沙门或婆罗门沉迷于逻辑和推理。他根据自己的诡辩与论证，提出以下结论：『自我是永恒的；世界［或物质］是永恒的。它们不产生任何东西；自身却像山峰一样不动摇，像牢牢立起的柱子一样稳固。虽然这些活着的存在者不断流转、迁移，从一种存在状态中离开，又在另一种状态中出生，但它们始终永恒。』」
 
-对此，Rhys Davids 说：「这恰恰是数论不同于吠檀多的地方。……数论认为……」
+对此，Rhys Davids 说：「这恰恰是数论不同于吠檀多的地方。 〔[Q·D：Rhys Davids (1896), pp.28–36；引文仍属来源作者，其后页才出现 Lovejoy 明确补充](research_notes/MS38_004_source_uptake_map_v7.csv)〕……数论认为……」
 
 #### 004 · PDF 017 · Manuscript / 手稿 63
 
@@ -697,21 +699,21 @@ On F. Rhys Davids says: “It is precisely F. point in F. Sankhya in wh. F. Sank
 
 [continuation]
 
-“no God, A. the primordial Prakriti is eternal, & A. F. souls have an indiv. existence of tr. own & continue to exist in infinite numbers. It will be noticed on F. other hand A. in F. Bist. description of F. particular heresy F. Sankhya technical term Prakriti is not used, though perhaps F. vague expression ‘world’ may be taken here in F. special sense of F. ‘orig. matter’ of F. Sankhya. Then we come to another contradiction. Acc. F. Sankhya it is precisely out of F. ‘orig. matter’ & F. indiv. souls A. F. visible world & living beings are produced. F. heretics described in our passage hold A. F. soul & F. world … give birth to nothing. I am at a loss to understand how F. passage can be considered good evidence A. F. Sankhya system existed as a whole, just as we find it in F. many centuries later.”
+“no God, A. the primordial Prakriti is eternal, & A. F. souls have an indiv. existence of tr. own & continue to exist in infinite numbers. It will be noticed on F. other hand A. in F. Bist. description of F. particular heresy F. Sankhya technical term Prakriti is not used, though perhaps F. vague expression ‘world’ may be taken here in F. special sense of F. ‘orig. matter’ of F. Sankhya. Then we come to another contradiction. Acc. F. Sankhya it is precisely out of F. ‘orig. matter’ & F. indiv. souls A. F. visible world & living beings are produced. F. heretics described in our passage hold A. F. soul & F. world … give birth to nothing. I am at a loss to understand how F. passage can be considered good evidence A. F. Sankhya system existed as a whole, just as we find it in F. many centuries later.” 〔[Q·D：Rhys Davids (1896), pp.28–30；“体系作为整体存在”仍处在被摘录的 Rhys Davids 段落内](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕
 
-To R.D.’s remark it should be added A., although F. dualism, in F. eternity of Matter & of F. Self is not its most clear doctrine; the central point wh. it makes, F. point whereon its “doctrine of release” is based is F. separateness of F. Self & F. World, — in a word its thorough-going dualism. A more likely reference to a genuinely Sankhyan doctrine is A. in F. Majjhima-Nikaya Sutta 63: “F. soul is one thing & F. body is another” etc.
+To R.D.’s remark it should be added A., although F. dualism, in F. eternity of Matter & of F. Self is not its most clear doctrine; the central point wh. 〔[Q·A：Lovejoy 对 Rhys Davids 的可辨作者介入：把“自我与世界分离”界定为更具诊断性的数论特征](research_notes/Garbe1892_1894_Lovejoy004_proof_concordance_batch160.csv)〕 it makes, F. point whereon its “doctrine of release” is based is F. separateness of F. Self & F. World, — in a word its thorough-going dualism. A more likely reference to a genuinely Sankhyan doctrine is A. in F. Majjhima-Nikaya Sutta 63: “F. soul is one thing & F. body is another” etc.
 
-N.B. F. list of v. heresies cf. F. list of 10 given in Majjh. Nik. Sutt. 6 [?] (Warren p. 174f): (1) A. F. world is
+N.B. F. list of v. heresies cf. F. list of 10 given in Majjh. Nik. Sutt. 6 [?] (Warren p. 174f): (1) A. F. world is 〔[Q·N：Warren, Buddhism in Translations (1896), p.174ff.；手稿明确给出页码，具体版本与经文仍须逐项复核](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 **Chinese translation / 中文译文**
 
 ［接上页］
 
-「……没有上帝，原初自性（Prakriti）是永恒的，诸灵魂各有自身的个别存在，并以无限数量持续存在。不过，另一方面也会注意到，在佛教对这一特殊异端的描述中，并未使用数论的技术术语 Prakriti；虽然含糊的『世界』一词，在这里也许可以被理解为数论所说的『原初物质』。然后，我们遇到了另一处矛盾。依照数论，正是从『原初物质』和个别灵魂之中，产生了可见世界与活着的存在者。我们这段文字所描述的异端，却认为灵魂和世界……不产生任何东西。我无法理解，为什么这一段可以被视为充分证据，证明数论体系作为整体，在那个时候就已经以数百年后我们所见的形式存在。」
+「……没有上帝，原初自性（Prakriti）是永恒的，诸灵魂各有自身的个别存在，并以无限数量持续存在。不过，另一方面也会注意到，在佛教对这一特殊异端的描述中，并未使用数论的技术术语 Prakriti；虽然含糊的『世界』一词，在这里也许可以被理解为数论所说的『原初物质』。然后，我们遇到了另一处矛盾。依照数论，正是从『原初物质』和个别灵魂之中，产生了可见世界与活着的存在者。我们这段文字所描述的异端，却认为灵魂和世界……不产生任何东西。我无法理解，为什么这一段可以被视为充分证据，证明数论体系作为整体，在那个时候就已经以数百年后我们所见的形式存在。」 〔[Q·D：Rhys Davids (1896), pp.28–30；“体系作为整体存在”仍处在被摘录的 Rhys Davids 段落内](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕
 
-对 Rhys Davids 的评论，还应补充一点：虽然数论的二元论及其对于物质与自我永恒性的判断，并不总是以最清晰的形式出现，但其核心主张，也是其「解脱教义」建立的基础，在于自我与世界彼此分离；简言之，在于彻底的二元论。更可能真正指向数论教义的，是《中部》第 63 经中的说法：「灵魂是一回事，身体是另一回事」，等等。
+对 Rhys Davids 的评论，还应补充一点：虽然数论的二元论及其对于物质与自我永恒性的判断，并不总是以最清晰的形式出现，但其核心主张，也是其「解脱教义」建立的基础，在于自我与世界彼此分离；简言之，在于彻底的二元论。 〔[Q·A：Lovejoy 对 Rhys Davids 的可辨作者介入：把“自我与世界分离”界定为更具诊断性的数论特征](research_notes/Garbe1892_1894_Lovejoy004_proof_concordance_batch160.csv)〕更可能真正指向数论教义的，是《中部》第 63 经中的说法：「灵魂是一回事，身体是另一回事」，等等。
 
-注意：上述异端清单应与《中部》第 6 经［?］中列出的十项见解比较，见 Warren 第 174 页及以下：第 1 项，世界……
+注意：上述异端清单应与《中部》第 6 经［?］中列出的十项见解比较，见 Warren 第 174 页及以下：第 1 项，世界…… 〔[Q·N：Warren, Buddhism in Translations (1896), p.174ff.；手稿明确给出页码，具体版本与经文仍须逐项复核](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 **Uncertain readings / 疑难读法:** a few abbreviations in Rhys Davids discussion and the final Majjhima Nikaya reference
 
@@ -733,7 +735,7 @@ Here again, then, summarizing we find 4 subjects upon wh. Bism is declared fr. a
 4. Future life.
 Similarly in Maj. Nik. Sutt. 72.
 
-Now this certainly seems at first sight like F. philosophical agnosticism of a purely practical teacher who regards such questions with contempt. But a closer scrutiny of F. passages themselves will show A. this is not a necessary interpretation of F. language employed; & that F. still more general survey of Bist teaching will show A. the refusals to assert are based on an objection to F. form of F. questions put, not merely to F. impertinence of a “common-sense” moralist. Bism too is a doctrine of salvation based on insight; it finds F. origin of suffering wh. for it = F. origin of existence, before it prescribes methods”
+Now this certainly seems at first sight like F. philosophical agnosticism of a purely practical teacher who regards such questions with contempt. But a closer scrutiny of F. passages themselves will show A. this is not a necessary interpretation of F. language employed; & that F. still more general survey of Bist teaching will show A. the refusals to assert are based on an objection to F. form of F. questions put, not merely to F. impertinence of a “common-sense” moralist. 〔[Q·A：Warren (1896), pp.111–116，与 Rhys Davids (1896), pp.39–43 为可核对背景；Lovejoy 对“实践性不可知论”作重新加权，逐字来源仍未封闭](research_notes/MS38_004_source_uptake_map_v7.csv)〕 Bism too is a doctrine of salvation based on insight; it finds F. origin of suffering wh. for it = F. origin of existence, before it prescribes methods”
 
 **Chinese translation / 中文译文**
 
@@ -748,7 +750,7 @@ Now this certainly seems at first sight like F. philosophical agnosticism of a p
 4. 来世。
 《中部》第 72 经也有类似说法。
 
-乍看之下，这当然像是一位纯粹实践性的教师所持的哲学不可知论，仿佛他以轻蔑的态度对待这些问题。但是，更仔细地审查这些段落本身，就会发现这种理解并不是相关措辞唯一可能的解释；而对佛教教义进行更广泛的考察，也会表明：之所以拒绝作出断言，是因为反对这些问题提出的形式，而不仅仅因为一位「常识」道德家认为它们无关紧要。佛教同样是一种以洞见为基础的解脱教义；在规定实践方法之前，它首先寻找痛苦的起源，而对它来说，这也就是存在的起源……
+乍看之下，这当然像是一位纯粹实践性的教师所持的哲学不可知论，仿佛他以轻蔑的态度对待这些问题。但是，更仔细地审查这些段落本身，就会发现这种理解并不是相关措辞唯一可能的解释；而对佛教教义进行更广泛的考察，也会表明：之所以拒绝作出断言，是因为反对这些问题提出的形式，而不仅仅因为一位「常识」道德家认为它们无关紧要。 〔[Q·A：Warren (1896), pp.111–116，与 Rhys Davids (1896), pp.39–43 为可核对背景；Lovejoy 对“实践性不可知论”作重新加权，逐字来源仍未封闭](research_notes/MS38_004_source_uptake_map_v7.csv)〕佛教同样是一种以洞见为基础的解脱教义；在规定实践方法之前，它首先寻找痛苦的起源，而对它来说，这也就是存在的起源……
 
 ### Batch p019-036 / 批次 p019-036
 
@@ -790,10 +792,10 @@ for F. removal of A. suffering.
 
 Nidānas
 
-To understand F. general philos. positn of Bism, as correlated with F. 3 Characteristics, and then to understand F. technical working out of this general conception, in colln. w. F. current Indic ideas, in F. Paticca-samupp., is to understand Bism; for, leaving F. ethical system out of acct., all A. is essential in Bistic doctrine is involved in F. 12 notions & F. very complicated inter-relation. [F. degree of this complication has very seldom been stated as it is by European writers?] The most that can be hoped for in F. present effort is some degree of approaching such understanding, through a careful analysis of F. comprehension of texts.
+To understand F. general philos. positn of Bism, as correlated with F. 3 Characteristics, and then to understand F. technical working out of this general conception, in colln. w. F. current Indic ideas, in F. Paticca-samupp., is to understand Bism; for, leaving F. ethical system out of acct., all A. is essential in Bistic doctrine is involved in F. 12 notions & F. very complicated inter-relation. [F. degree of this complication has very seldom been stated as it is by European writers?] The most that can be hoped for in F. present effort is some degree of approaching such understanding, through a careful analysis of F. comprehension of texts. 〔[Q·A：Lovejoy 自述研究计划：general position → Three Characteristics → paṭicca-samuppāda → inter-relation；不应误标为来源摘录](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕
 
 The Nidānas (Paticcasamuppādo)
-F. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2.
+F. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2. 〔[Q·N：Saṃyutta Nikāya 12.2／Nidāna-saṃyutta；手稿明确标出经文出处，所据具体译本仍待确定](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 ‘Once upon a time F. Blessed One was dwelling at Sāvatthi in Jetavana monastery in F. park of Anāthapiṇḍika. There the Blessed One addressed F. bhikkhus: “Bhikkhus,” said he. “Lord,” said F. bhikkhus to F. Blessed One in reply. And F. Blessed One spoke as follows: “O bhikkhus, I will cause you to understand dependent origination; give ear to it & heed well what I shall say.” “So be it, Lord,” replied F. bhikkhus. And F. Blessed One spoke as follows: “What, O F., is dep’d’t Origination? From ignorance as a cause arises Conformations, from Conformations …”’
 
@@ -801,10 +803,10 @@ F. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2.
 
 十二因缘。
 
-要理解佛教，就必须先理解它与三法印相关的一般哲学立场，再理解这种一般观念如何结合当时流行的印度思想，在缘起论中得到具体而精细的展开。因为，暂且不论伦理体系，佛教教义中一切根本性的内容，都包含在这十二个概念及其极其复杂的相互关系之中。［欧洲作者很少准确指出这种复杂程度?］眼下所能期待的，至多是通过细致分析与理解相关文本，在一定程度上接近这种认识。
+要理解佛教，就必须先理解它与三法印相关的一般哲学立场，再理解这种一般观念如何结合当时流行的印度思想，在缘起论中得到具体而精细的展开。因为，暂且不论伦理体系，佛教教义中一切根本性的内容，都包含在这十二个概念及其极其复杂的相互关系之中。［欧洲作者很少准确指出这种复杂程度?］眼下所能期待的，至多是通过细致分析与理解相关文本，在一定程度上接近这种认识。 〔[Q·A：Lovejoy 自述研究计划：general position → Three Characteristics → paṭicca-samuppāda → inter-relation；不应误标为来源摘录](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕
 
 十二因缘，缘起（Paṭiccasamuppādo）。
-关于完整序列，见《相应部》第 12 篇第 2 经，《因缘相应》。
+关于完整序列，见《相应部》第 12 篇第 2 经，《因缘相应》。 〔[Q·N：Saṃyutta Nikāya 12.2／Nidāna-saṃyutta；手稿明确标出经文出处，所据具体译本仍待确定](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 「有一次，世尊住在舍卫城祇树给孤独园。世尊在那里对诸比丘说：『诸比丘。』诸比丘回答世尊：『世尊。』于是世尊说：『诸比丘，我将让你们理解缘起；你们应当倾听，并仔细留意我要讲的话。』诸比丘回答：『好的，世尊。』世尊于是说道：『诸比丘，什么是缘起？以无明为因，生起诸行；由诸行……』」
 
@@ -828,7 +830,7 @@ Nidānas cont.
 
 Bhava (Existence). ‘What, O F., is existence? Tre are for me 3 existences: desire-existence (kāma-bhava), form-existence (rūpa-bhava), formless-existence (arūpa-bhava). A. is what is meant by existence.’ Nidāna Saṁyutta.
 
-F. is to say, existence in F. Kāmaloka (F. 11 Kāmalokas = 6 devalokas, F. world of men, F. world of F. Pretas, F. world of animals, & Hell) or in F. Rūpaloka (strictly F. rūpa-brahma-lokas) & F. Arūpaloka (arūpa-brahmaloka). In other words, bhava = F. existence of a being in general, which was specifically taken [in] F. form of Jāti & Jarāmaraṇa. Bhavo, tr. by Childers, ‘continued existence,’ wh. is precisely what it means in F. paticca-samuppāda formula.
+F. is to say, existence in F. Kāmaloka (F. 11 Kāmalokas = 6 devalokas, F. world of men, F. world of F. Pretas, F. world of animals, & Hell) or in F. Rūpaloka (strictly F. rūpa-brahma-lokas) & F. Arūpaloka (arūpa-brahmaloka). In other words, bhava = F. existence of a being in general, which was specifically taken [in] F. form of Jāti & Jarāmaraṇa. Bhavo, tr. by Childers, ‘continued existence,’ wh. 〔[Q·N：R. C. Childers, A Dictionary of the Pali Language (1875), bhava 条；为手稿明示的词典依赖](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕 is precisely what it means in F. paticca-samuppāda formula.
 
 **Chinese translation / 中文译文**
 
@@ -843,7 +845,7 @@ F. is to say, existence in F. Kāmaloka (F. 11 Kāmalokas = 6 devalokas, F. worl
 
 有（Bhava）。「诸比丘，什么是有？依我所说，有三种存在：欲有（kāma-bhava）、色有（rūpa-bhava）、无色有（arūpa-bhava）。这就是所谓的有。」《因缘相应》。
 
-也就是说，存在于欲界。十一欲界包括六个天界、人间、饿鬼界、畜生界与地狱。或者存在于色界，严格说是色梵天界，以及无色界，也就是无色梵天界。换句话说，bhava 一般指众生的存在，而这种存在具体呈现为生与老死。Childers 将 bhavo 译为「持续的存在」，这正是它在缘起公式中的含义。
+也就是说，存在于欲界。十一欲界包括六个天界、人间、饿鬼界、畜生界与地狱。或者存在于色界，严格说是色梵天界，以及无色界，也就是无色梵天界。换句话说，bhava 一般指众生的存在，而这种存在具体呈现为生与老死。Childers 将 bhavo 译为「持续的存在」，这正是它在缘起公式中的含义。 〔[Q·N：R. C. Childers, A Dictionary of the Pali Language (1875), bhava 条；为手稿明示的词典依赖](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕
 
 **Uncertain readings / 疑难读法:** one phrase in definition of birth; several transliterated cosmological terms
 
@@ -858,9 +860,9 @@ Nidānas cont.
 
 Upādāna (Attachment). ‘What, O F., is attachment? Tre are four attachments: F. attachment of sense (or desire, kāma), F. attachment of heresy, F. attachment of ritualism, F. attachment of individuality (attavāda); A. is what is meant by attachment.’ (Nid. Saṁy.)
 
-[On specification of Alabaster, Wheel of F. Law, p. 238, & esp. for conn. w. subj. of khandas, Childers, art. upādāna and khandas.]
+[On specification of Alabaster, Wheel of F. Law, p. 238, & esp. 〔[Q·N：Henry Alabaster, The Wheel of the Law, p.238；手稿明引，具体引文尚未与原书逐句校勘](research_notes/MS38_004_source_uptake_map_v7.csv)〕 for conn. w. subj. of khandas, Childers, art. upādāna and khandas.] 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), upādāna／khandha 条；手稿明确列出词条](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕
 
-Warren, ‘Buddh. in Transl.,’ regards relation of attachment to desire as A. of ‘identity.’ But not so if we are to follow F. present text. Tre are 4 attachments as above, & six widely diff. sorts of desire as follg. Buddhaghosa (V. p. 187) gives F. six sorts of desire, quoting F. Vibhaṅga. He goes on to show F. each of F. 4 is triple, according …
+Warren, ‘Buddh. in Transl.,’ regards relation of attachment to desire as A. of ‘identity.’ 〔[Q·D：H. C. Warren, “On the so-called Chain of Causation of the Buddhists,” JAOS 16 (1893), p.xxvii；Lovejoy (1898), p.126 明确追认此来源](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕 But not so if we are to follow F. present text. 〔[Q·A：Lovejoy 的作者性反驳；对 Warren 的“identity”命题作文本检验，后见 JAOS 19 (1898), p.126ff.](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕 Tre are 4 attachments as above, & six widely diff. sorts of desire as follg. Buddhaghosa (V. p. 187) gives F. six sorts of desire, quoting F. Vibhaṅga. 〔[Q·N：Buddhaghosa／Vibhaṅga，经 Warren, Buddhism in Translations (1896), p.187；手稿标示为经由翻译与注释获得](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕 He goes on to show F. each of F. 4 is triple, according …
 
 **Chinese translation / 中文译文**
 
@@ -868,9 +870,9 @@ Warren, ‘Buddh. in Transl.,’ regards relation of attachment to desire as A. 
 
 取、执取（Upādāna）。「诸比丘，什么是执取？有四种执取：对感官或欲望的执取、对异端见解的执取、对仪式的执取、对个体自我的执取（attavāda）。这就是所谓的执取。」《因缘相应》。
 
-［关于 Alabaster 的具体分类，见《法轮》第 238 页；尤其关于与诸蕴问题的联系，见 Childers 词典 upādāna 和 khandhas 条。］
+［关于 Alabaster 的具体分类，见《法轮》第 238 页；尤其关于与诸蕴问题的联系，见 Childers 词典 upādāna 和 khandhas 条。 〔[Q·N：Henry Alabaster, The Wheel of the Law, p.238；手稿明引，具体引文尚未与原书逐句校勘](research_notes/MS38_004_source_uptake_map_v7.csv)〕 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), upādāna／khandha 条；手稿明确列出词条](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕］
 
-Warren 在《佛教译文集》中把执取与欲望的关系理解为「同一」。但如果依照当前文本，情况并非如此。如上所述，执取有四类，而欲望则有六种差别很大的形式。Buddhaghosa［见第 187 页］引《分别论》，列出六类欲望。他接着说明，每一类又可以分为三种，依据……
+Warren 在《佛教译文集》中把执取与欲望的关系理解为「同一」。 〔[Q·D：H. C. Warren, “On the so-called Chain of Causation of the Buddhists,” JAOS 16 (1893), p.xxvii；Lovejoy (1898), p.126 明确追认此来源](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕但如果依照当前文本，情况并非如此。 〔[Q·A：Lovejoy 的作者性反驳；对 Warren 的“identity”命题作文本检验，后见 JAOS 19 (1898), p.126ff.](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕如上所述，执取有四类，而欲望则有六种差别很大的形式。Buddhaghosa［见第 187 页］引《分别论》，列出六类欲望。 〔[Q·N：Buddhaghosa／Vibhaṅga，经 Warren, Buddhism in Translations (1896), p.187；手稿标示为经由翻译与注释获得](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕他接着说明，每一类又可以分为三种，依据……
 
 **Uncertain readings / 疑难读法:** bibliographic bracket after definition; one source/title abbreviation
 
@@ -982,9 +984,9 @@ Nidānas cont.
 
 Nāmarūpa (Name & Form). ‘What, O F., is name & form? … Sensation, perception, consciousness (cetanā [?]), contact, attention; A. is what is meant by name. Tre are also 4 great elements & a form springing fr. each of F. 4 great elements’ etc. (Nid. Saṁy.)
 
-[F. 4 gr. elements are F. earthy element, watery element, fiery element, windy element; & F. together constitute F. body. Cf. Saṁyutta Nikāya XII 62; Warren p. 158.]
+[F. 4 gr. elements are F. earthy element, watery element, fiery element, windy element; & F. together constitute F. body. Cf. Saṁyutta Nikāya XII 62; Warren p. 158.] 〔[Q·N：Warren, Buddhism in Translations (1896), p.158；手稿明引 Saṃyutta Nikāya XII.62 的相关材料](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
-Buddhaghosa on it, Warren p. 58; and name & form together seem to be the subtle & the gross components wh. go to make up F. bodily indiv. organism. But F. further [reference uncertain], cf. Oldenberg, p. 228, points. Name & form appear to equal in F. denotation F. indiv. organism.
+Buddhaghosa on it, Warren p. 58; and name & form together seem to be the subtle & the gross components wh. 〔[Q·N：Buddhaghosa 经 Warren, Buddhism in Translations (1896), p.58；属于间接文本中介而非直接巴利注疏阅读已证](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕 go to make up F. bodily indiv. organism. But F. further [reference uncertain], cf. Oldenberg, p. 228, points. 〔[Q·N：Hermann Oldenberg, Buddha: His Life, His Doctrine, His Order, tr. William Hoey (1882), p.228](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 Name & form appear to equal in F. denotation F. indiv. organism.
 
 **Chinese translation / 中文译文**
 
@@ -1001,9 +1003,9 @@ Buddhaghosa on it, Warren p. 58; and name & form together seem to be the subtle 
 
 名色。「诸比丘，什么是名与色？……感觉、知觉、思［cetanā?］、接触、注意；这就是所谓的名。另外还有四大，以及由四大各自生起的形态」，等等。《因缘相应》。
 
-［四大是地、水、火、风；它们共同构成身体。参见《相应部》Ⅻ，62；Warren 第 158 页。］
+［四大是地、水、火、风；它们共同构成身体。参见《相应部》Ⅻ，62；Warren 第 158 页。 〔[Q·N：Warren, Buddhism in Translations (1896), p.158；手稿明引 Saṃyutta Nikāya XII.62 的相关材料](research_notes/MS38_004_source_uptake_map_v7.csv)〕］
 
-Buddhaghosa 对此的解释见 Warren 第 58 页。名与色合起来，似乎就是构成个别身体有机体的精微与粗重成分。但还需参见［文献不确定］以及 Oldenberg 第 228 页。名与色在指称上似乎等同于个别有机体……
+Buddhaghosa 对此的解释见 Warren 第 58 页。 〔[Q·N：Buddhaghosa 经 Warren, Buddhism in Translations (1896), p.58；属于间接文本中介而非直接巴利注疏阅读已证](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕名与色合起来，似乎就是构成个别身体有机体的精微与粗重成分。但还需参见［文献不确定］以及 Oldenberg 第 228 页。 〔[Q·N：Hermann Oldenberg, Buddha: His Life, His Doctrine, His Order, tr. William Hoey (1882), p.228](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕名与色在指称上似乎等同于个别有机体……
 
 **Uncertain readings / 疑难读法:** diagram final category thought or perception; cetanā/consciousness wording in nāmarūpa definition; references in lower-right commentary
 
@@ -1022,9 +1024,9 @@ Nidānas cont.
 
 Consciousness? ‘What, O F., is consciousness? Tre are 6 sorts of consciousness: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, bodily-consciousness, mind-consciousness. A. is what is meant by consciousness.’ (Nid. Saṁy.)
 
-Mahānidāna-Sutta, tr. Oldenberg, p. 228: ‘If consciousness, Ānanda, did not enter into F. womb, wd name & corp. form arise in F. womb?’ ‘No, sire.’ … ‘And if consciousness were again lost to F. [embryo?], boy or F. girl, wd name & corporeal form attain growth, increase, prosperity?’ ‘No, sire.’
+Mahānidāna-Sutta, tr. Oldenberg, p. 228: ‘If consciousness, Ānanda, did not enter into F. womb, wd name & corp. 〔[Q·N：Oldenberg, Buddha, English tr. (1882), p.228；手稿给出译者与页码](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 form arise in F. womb?’ ‘No, sire.’ … ‘And if consciousness were again lost to F. [embryo?], boy or F. girl, wd name & corporeal form attain growth, increase, prosperity?’ ‘No, sire.’
 
-Says Oldenberg: ‘F. proposition “from consciousness comes name & corp. form” is envisaged as to F. moment of conception.’ V. or Rh. Davids on consciousness, v. p. 94.
+Says Oldenberg: ‘F. proposition “from consciousness comes name & corp. form” is envisaged as to F. moment of conception.’ V. or Rh. Davids on consciousness, v. p. 94. 〔[Q·N：T. W. Rhys Davids, consciousness 相关论述，第 94 页；具体书目与版次尚未独立锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 **Chinese translation / 中文译文**
 
@@ -1036,9 +1038,9 @@ Says Oldenberg: ‘F. proposition “from consciousness comes name & corp. form�
 
 识［?］。「诸比丘，什么是识？有六种识：眼识、耳识、鼻识、舌识、身识、意识。这就是所谓的识。」《因缘相应》。
 
-《大因缘经》，Oldenberg 译，第 228 页：「阿难，如果识不进入母胎，名与身体形态还会在母胎中生起吗？」「不会，世尊。」……「如果识又离开那个［胚胎?］、男孩或女孩，名与身体形态还会成长、增加、兴盛吗？」「不会，世尊。」
+《大因缘经》，Oldenberg 译，第 228 页：「阿难，如果识不进入母胎，名与身体形态还会在母胎中生起吗？」 〔[Q·N：Oldenberg, Buddha, English tr. (1882), p.228；手稿给出译者与页码](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕「不会，世尊。」……「如果识又离开那个［胚胎?］、男孩或女孩，名与身体形态还会成长、增加、兴盛吗？」「不会，世尊。」
 
-Oldenberg 说：「『由识而有名与身体形态』这一命题所指的，是受孕时刻。」关于识，另见 Rhys Davids，第 94 页。
+Oldenberg 说：「『由识而有名与身体形态』这一命题所指的，是受孕时刻。」关于识，另见 Rhys Davids，第 94 页。 〔[Q·N：T. W. Rhys Davids, consciousness 相关论述，第 94 页；具体书目与版次尚未独立锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 **Uncertain readings / 疑难读法:** left-page opening phrase and MP reference; word describing loss of consciousness from embryo
 
@@ -1049,23 +1051,23 @@ Oldenberg 说：「『由识而有名与身体形态』这一命题所指的，�
 
 **English transcription / 英文转录**
 
-Childers, p. 576 foll. ‘Consciousness’ is inadequate to express all A. is meant by viññāṇa. It may, I think, sometimes be adequately rendered by thought or Mind, the more so as both citta & mano are more or less accurate synonyms for it. It consists mainly of thought or mental impressions of various sorts; but F. thinking pt. of F. indiv. [uncertain phrase] is F. most important of F. 5 khandhas, & if any one can be said to constitute F. indiv. it is F. In Buddhist works by F. destruction of viññāṇa F. whole being perishes. Of F. 4 mental khandhas, F. superiority of V. is strongly asserted in F. first verse of Dhammapada: ‘F. mental faculties (dhamma) are dominated by Mind, begot of Mind.’ Re. But v. Childers s.v. dhamma & Müller’s Dhammapada for a diff. interpretation of Dhammapada 1.
+Childers, p. 576 foll. 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), p.576ff.；viññāṇa 词条与引文](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕 ‘Consciousness’ is inadequate to express all A. is meant by viññāṇa. It may, I think, sometimes be adequately rendered by thought or Mind, the more so as both citta & mano are more or less accurate synonyms for it. It consists mainly of thought or mental impressions of various sorts; but F. thinking pt. of F. indiv. [uncertain phrase] is F. most important of F. 5 khandhas, & if any one can be said to constitute F. indiv. it is F. In Buddhist works by F. destruction of viññāṇa F. whole being perishes. Of F. 4 mental khandhas, F. superiority of V. is strongly asserted in F. first verse of Dhammapada: ‘F. mental faculties (dhamma) are dominated by Mind, begot of Mind.’ Re. But v. Childers s.v. dhamma & Müller’s Dhammapada for a diff. 〔[Q·N：F. Max Müller, Dhammapada 译注；手稿明确提到 Müller，具体版次和页码仍待复核](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕 interpretation of Dhammapada 1.
 
 Nidānas cont.
 
 Conformations. ‘What, O F., are conformations? Tre are for me, O F., 3 conformations: body-conformations, speech-conformations, & thought-conformations. A. is what is meant by conformations.’ (Nid. Saṁyutta.)
 
-Saṅkhāras = karma; & why they are placed second is clear enough. If tre is to be existence at all, & F. is due to Avijjā, F. ‘predispositions’ give F. primary determination to F. course of F. existence, & in a sense carry existence over into F. new life. Cf. Saṅkhāruppatti Sutta in Maj. Nikāya, tr. Oldenberg in Buddha [?], p. 34: ‘It happens A. a monk endowed w. faith, righteousness, knowledge of F. doctrine, resignation, wisdom, communes thus w. himself: How should I, when my body is dissolved in death, attain …’
+Saṅkhāras = karma; & why they are placed second is clear enough. If tre is to be existence at all, & F. is due to Avijjā, F. ‘predispositions’ give F. primary determination to F. course of F. existence, & in a sense carry existence over into F. new life. Cf. Saṅkhāruppatti Sutta in Maj. Nikāya, tr. Oldenberg in Buddha [?], p. 34: ‘It happens A. a monk endowed w. 〔[Q·N：Oldenberg, Buddha, p.34［手稿题名仍有疑读］；《行生经》引文出处](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 faith, righteousness, knowledge of F. doctrine, resignation, wisdom, communes thus w. himself: How should I, when my body is dissolved in death, attain …’
 
 **Chinese translation / 中文译文**
 
-Childers，第 576 页及以下：「意识」不足以表达 viññāṇa 的全部含义。在我看来，它有时可以更恰当地译为「思想」或「心」，尤其因为 citta 和 mano 都在一定程度上与它同义。它主要由思想或不同类型的心理印象组成；不过，个体的思维部分［该处词组不确定］是五蕴中最重要的一项。如果说哪一蕴构成了个体，那就是这一蕴。佛教著作认为，当 viññāṇa 被摧毁时，整个存在者也随之消亡。在四种心理性蕴中，《法句经》首偈强烈强调识的优先性：「诸心理机能由心主导，生于心。」但关于《法句经》首偈的另一种解释，可参见 Childers 词典 dhamma 条，以及 Müller 的《法句经》。
+Childers，第 576 页及以下：「意识」不足以表达 viññāṇa 的全部含义。 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), p.576ff.；viññāṇa 词条与引文](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕在我看来，它有时可以更恰当地译为「思想」或「心」，尤其因为 citta 和 mano 都在一定程度上与它同义。它主要由思想或不同类型的心理印象组成；不过，个体的思维部分［该处词组不确定］是五蕴中最重要的一项。如果说哪一蕴构成了个体，那就是这一蕴。佛教著作认为，当 viññāṇa 被摧毁时，整个存在者也随之消亡。在四种心理性蕴中，《法句经》首偈强烈强调识的优先性：「诸心理机能由心主导，生于心。」但关于《法句经》首偈的另一种解释，可参见 Childers 词典 dhamma 条，以及 Müller 的《法句经》。 〔[Q·N：F. Max Müller, Dhammapada 译注；手稿明确提到 Müller，具体版次和页码仍待复核](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕
 
 十二因缘，续。
 
 行、构成作用。「诸比丘，什么是诸行？诸比丘，依我所说有三种行：身行、语行、意行。这就是所谓的诸行。」《因缘相应》。
 
-Saṅkhāras＝业；它们为什么被列在第二项，理由相当清楚。如果存在要发生，而它又由无明引起，那么这些「倾向」就会对存在的进程作出最初的规定，并在某种意义上把存在延续到新的一生。参见《中部·行生经》，Oldenberg 译，《佛陀》［?］第 34 页：「某位比丘具备信心、正直、对教义的理解、舍离与智慧，他这样自我思量：当我的身体因死亡而解体时，我怎样才能获得……」
+Saṅkhāras＝业；它们为什么被列在第二项，理由相当清楚。如果存在要发生，而它又由无明引起，那么这些「倾向」就会对存在的进程作出最初的规定，并在某种意义上把存在延续到新的一生。参见《中部·行生经》，Oldenberg 译，《佛陀》［?］第 34 页：「某位比丘具备信心、正直、对教义的理解、舍离与智慧，他这样自我思量：当我的身体因死亡而解体时，我怎样才能获得……」 〔[Q·N：Oldenberg, Buddha, p.34［手稿题名仍有疑读］；《行生经》引文出处](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕
 
 **Uncertain readings / 疑难读法:** several phrases in Childers quotation/commentary; Oldenberg/Buddha bibliographic title/page
 
@@ -1080,7 +1082,7 @@ Saṅkhāras＝业；它们为什么被列在第二项，理由相当清楚。�
 
 ‘… rebirth in a powerful princely family; he thinks to A., dwells on A., cherishes A.; these saṅkhāras, internal conditions [?], A. he has thus cherished within him … lead to his rebirth in such an existence. His discipline [?] is F. avenue … wh. leads to rebirth in such an existence.’
 
-‘F. word saṅkhāra-karma is a mere abstraction; it is declared to be a concrete, w’out a mind.’ Hardy, p. 386. [Reading uncertain.]
+‘F. word saṅkhāra-karma is a mere abstraction; it is declared to be a concrete, w’out a mind.’ Hardy, p. 386. 〔[Q·D：R. Spence Hardy, A Manual of Budhism (1853), p.386；手稿直接点名，但局部抄录仍有疑读](research_notes/MS38_004_source_uptake_map_v7.csv)〕 [Reading uncertain.]
 
 Nidānas cont.
 
@@ -1094,7 +1096,7 @@ Most signif. passages in F. [Āriya?] are: 1. [Sutta title uncertain] (Mahāvagg
 
 「……在有权势的王族中再生？他如此思考、反复沉思并怀抱这一愿望；他在内心中培养的这些行、内在条件［?］，引导他在这样的存在状态中再生。他的修行［?］就是通向这种再生的道路……」
 
-「saṅkhāra-karma 一词只是一种抽象；它被说成是具体存在，却没有心。」Hardy，第 386 页。［读法不确定。］
+「saṅkhāra-karma 一词只是一种抽象；它被说成是具体存在，却没有心。」Hardy，第 386 页。 〔[Q·D：R. Spence Hardy, A Manual of Budhism (1853), p.386；手稿直接点名，但局部抄录仍有疑读](research_notes/MS38_004_source_uptake_map_v7.csv)〕［读法不确定。］
 
 十二因缘，续。
 
@@ -1113,9 +1115,9 @@ Most signif. passages in F. [Āriya?] are: 1. [Sutta title uncertain] (Mahāvagg
 
 [continuation]
 
-‘… is no rebirth.’ F. Sammādiṭṭhi Sutta defines ignorance in same terms as Nidāna-Saṁyutta above; so also Buddhaghosa (Warren p. 178 [?]).
+‘… is no rebirth.’ F. Sammādiṭṭhi Sutta defines ignorance in same terms as Nidāna-Saṁyutta above; so also Buddhaghosa (Warren p. 178 [?] 〔[Q·N：Warren, Buddhism in Translations (1896), p.178［疑读］；Buddhaghosa 对无明的解释](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕).
 
-Cf. Oldenberg, p. 290: ‘Wherever in F. sacred Pāli literature F. question is mooted, F. answer is invariably F. same. F. ignorance is not declared to be anything in F. way of a cosmic power nor anything like a mysterious original sin, but it is w’in F. range of reality, tangible reality; F. ignorance is F. ignorance of F. four sacred truths.’
+Cf. Oldenberg, p. 290: ‘Wherever in F. sacred Pāli literature F. question is mooted, F. answer is invariably F. same. 〔[Q·N：Oldenberg, Buddha, English tr. (1882), p.290；手稿直接引述其对于 avijjā 的解释](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 F. ignorance is not declared to be anything in F. way of a cosmic power nor anything like a mysterious original sin, but it is w’in F. range of reality, tangible reality; F. ignorance is F. ignorance of F. four sacred truths.’
 
 Putting avijjā at F. head of series is justified by Saṁy. Nik. XX I. 3 [?], where F. is repr’d saying: ‘Just as F. rafters of a house incline toward F. peak & are united in F. peak, but when F. peak is removed all come to removal,—just so all F. evil qualities [= corruptions?] have ignorance for F. root, & are united in ignorance, but at F. removal of ignorance they all come to removal.’
 
@@ -1125,9 +1127,9 @@ Paticca-samuppāda again. Relation to F. Truths. ‘We may add A. F. relations o
 
 ［接上页］
 
-「……不再有再生。」《正见经》对无明的界定，与上述《因缘相应》一致；Buddhaghosa 也是如此，见 Warren 第 178 页［?］。
+「……不再有再生。」《正见经》对无明的界定，与上述《因缘相应》一致；Buddhaghosa 也是如此，见 Warren 第 178 页［?］。 〔[Q·N：Warren, Buddhism in Translations (1896), p.178［疑读］；Buddhaghosa 对无明的解释](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕
 
-参见 Oldenberg，第 290 页：「无论巴利语圣典在哪里讨论这个问题，答案总是一样。无明既不是一种宇宙性的力量，也不是某种神秘的原罪；它处在现实的、可把握的现实范围内：所谓无明，就是对四圣谛的无知。」
+参见 Oldenberg，第 290 页：「无论巴利语圣典在哪里讨论这个问题，答案总是一样。 〔[Q·N：Oldenberg, Buddha, English tr. (1882), p.290；手稿直接引述其对于 avijjā 的解释](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕无明既不是一种宇宙性的力量，也不是某种神秘的原罪；它处在现实的、可把握的现实范围内：所谓无明，就是对四圣谛的无知。」
 
 把无明置于整个序列开头，可以从《相应部》ⅩⅩ，Ⅰ，3［?］得到支持。那里记载：「正如房屋的椽木都朝向屋顶，并汇聚于屋顶，一旦屋顶被拆除，所有椽木也会随之拆除；同样，一切恶的性质［＝烦恼?］都以无明为根，并汇聚于无明；一旦无明被消除，它们也会全部消除。」
 
@@ -1144,7 +1146,7 @@ Paticca-samuppāda again. Relation to F. Truths. ‘We may add A. F. relations o
 
 Paticca-samuppāda. Various versions given by author F. MP (II, 32) thus: ‘Where tre is an organ (eye) & also forms, tre arises eye-consciousness; when tre is eye-consciousness tre arises contact; when tre is eye-contact tre arises sensation; when tre is sensation tre is desire; when tre is desire tre is attachment; when tre is attachment tre is becoming; when tre is becoming tre is birth, old age etc.’
 
-On F. first 3 of these, Rh. Davids says: ‘It is not clear fr. F. terse phraseology of F. passage whether F. form (e.g. visible object) is to be a subjective stage preliminary to F. “phasso,” or whether it is inclusive of it.’ (Cf. Dhamma Saṅgaṇi 584, 599, 620.) I am inclined to think it is F. former. But A. latter [reading uncertain] might be rendered, ‘tre arises consciousness (of existence) wh. is dependent on F. eye.’
+On F. first 3 of these, Rh. Davids says: ‘It is not clear fr. 〔[Q·N：T. W. Rhys Davids；手稿引其对缘起序列与 phassa 的解释，具体出版物尚未完全锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕 F. terse phraseology of F. passage whether F. form (e.g. visible object) is to be a subjective stage preliminary to F. “phasso,” or whether it is inclusive of it.’ (Cf. Dhamma Saṅgaṇi 584, 599, 620.) I am inclined to think it is F. former. But A. latter [reading uncertain] might be rendered, ‘tre arises consciousness (of existence) wh. is dependent on F. eye.’
 
 What appears to me F. [point] is A. form & consciousness are parallel since [?], whose order may be inverted w’out making any difference, while F. subsequent links down to taṇhā follow in fixed sequence. MP gives same order in II, 32, but still more abridged in F. he makes karma follow directly upon taṇhā, v. p. 167. It seems clear fr. tre A. 3–9 form a single indivisible group, while 1–2 may be regarded separately, & 10–12 are simply 3–9 looked at fr. another point of view.
 
@@ -1152,7 +1154,7 @@ What appears to me F. [point] is A. form & consciousness are parallel since [?],
 
 缘起。《弥兰陀问经》Ⅱ，32 给出的不同版本如下：「有感觉器官，例如眼，又有色相时，就生起眼识；有眼识，就生起触；有眼触，就生起受；有受，就生起爱；有爱，就生起取；有取，就生起有；有有，就生起生、老，等等。」
 
-关于前面三项，Rhys Davids 说：「由于原文措辞简略，尚不清楚色相，例如可见对象，是先于 phasso［触］的主观阶段，还是已经包括触。」参见《法集论》584、599、620。我倾向于认为是前一种解释。不过，后一种［读法不确定］也可以译作：「生起依赖于眼的［存在］意识。」
+关于前面三项，Rhys Davids 说：「由于原文措辞简略，尚不清楚色相，例如可见对象，是先于 phasso［触］的主观阶段，还是已经包括触。」 〔[Q·N：T. W. Rhys Davids；手稿引其对缘起序列与 phassa 的解释，具体出版物尚未完全锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕参见《法集论》584、599、620。我倾向于认为是前一种解释。不过，后一种［读法不确定］也可以译作：「生起依赖于眼的［存在］意识。」
 
 在我看来，关键似乎在于：色与识是平行的［?］，它们的次序可以互换而不会造成差别；而从其后的环节直到 taṇhā［爱］，则必须遵循固定顺序。《弥兰陀问经》Ⅱ，32 采用相同次序，但另一处更加简略，直接让业跟在爱之后，见第 167 页。因此似乎很清楚：第 3—9 项构成不可分割的一组，第 1—2 项可以单独考虑，而第 10—12 项只是从另一个角度重新观察第 3—9 项。
 
@@ -1169,7 +1171,7 @@ Ignorance. Cf. F. Nirvāṇa doctrine.
 
 When false notions [?] — desire for agreeable & dislike of disagreeable F. pass away; w. them ceases activity, & w. F. ceases birth; & w. F. cessation of birth comes F. entire abolition of pain; F. absolute abolition is final bliss.
 
-Upādāna, Relation to Karma. May MP be called F. causal of F. fact of continued existence, & karma F. cause of F. manner of continued existence? F. Hardy, p. 394.
+Upādāna, Relation to Karma. May MP be called F. causal of F. fact of continued existence, & karma F. cause of F. manner of continued existence? 〔[Q·D：Hardy, A Manual of Budhism (1853), pp.394–396；Lovejoy (1898), pp.130–131 重组为 rebirth 之事实／具体条件的区别](research_notes/MS38_004_source_uptake_map_v7.csv)〕 F. Hardy, p. 394.
 
 **Chinese translation / 中文译文**
 
@@ -1177,7 +1179,7 @@ Upādāna, Relation to Karma. May MP be called F. causal of F. fact of continued
 
 当错误观念［?］消失时，对令人愉快之物的欲望和对不愉快之物的厌恶也会消失；随之停止的是行动；随着行动停止，出生也会停止；随着出生停止，痛苦便彻底消除；这种绝对的消除，就是最终的幸福。
 
-执取（Upādāna）与业的关系。是否可以说：［MP?］是持续存在这一事实的原因，而业则是持续存在采取何种方式的原因？Hardy，第 394 页。
+执取（Upādāna）与业的关系。是否可以说：［MP?］是持续存在这一事实的原因，而业则是持续存在采取何种方式的原因？ 〔[Q·D：Hardy, A Manual of Budhism (1853), pp.394–396；Lovejoy (1898), pp.130–131 重组为 rebirth 之事实／具体条件的区别](research_notes/MS38_004_source_uptake_map_v7.csv)〕Hardy，第 394 页。
 
 **Uncertain readings / 疑难读法:** opening phrase after heading Ignorance; exact grammar of MP/karma question
 
@@ -1190,13 +1192,13 @@ Upādāna, Relation to Karma. May MP be called F. causal of F. fact of continued
 
 Khandhas
 
-Childers: ‘Tre are 5 khandhas or elements of being: rūpakkhandha, vedanā, saññā, saṅkhāra, viññāṇa,’ or Form, Sensation, Perception, Determination, Consciousness. Khandha in F. comp. prob. means collection or aggregate, for rūpakkhandha, or F. physical body, is an assemblage of 28 elements & properties, & viññāṇakkhandha includes [?] 89 divisions, & saṅkhāra 55. F. 5 khandhas embrace all F. essential properties of every sentient being; some beings possess them less completely than others, & F. inhabitants of F. four arūpa-brahmalokas do not possess F. first khandha (rūpa) at all. When a man dies, F. khandhas of wh. he is constituted perish, but …
+Childers: ‘Tre are 5 khandhas or elements of being: rūpakkhandha, vedanā, saññā, saṅkhāra, viññāṇa,’ or Form, Sensation, Perception, Determination, Consciousness. 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), khandha 条；五蕴分类的直接词典来源](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕 Khandha in F. comp. prob. means collection or aggregate, for rūpakkhandha, or F. physical body, is an assemblage of 28 elements & properties, & viññāṇakkhandha includes [?] 89 divisions, & saṅkhāra 55. F. 5 khandhas embrace all F. essential properties of every sentient being; some beings possess them less completely than others, & F. inhabitants of F. four arūpa-brahmalokas do not possess F. first khandha (rūpa) at all. When a man dies, F. khandhas of wh. he is constituted perish, but …
 
 **Chinese translation / 中文译文**
 
 诸蕴（Khandhas）。
 
-Childers：「存在有五种蕴或要素：色蕴（rūpakkhandha）、受、想、行、识」，也就是形态、感觉、知觉、意志规定与意识。在这个复合词中，khandha 可能意味着集合或聚合；因为色蕴，也就是身体，由 28 种要素及属性组成；识蕴包括［?］89 个类别；行蕴包括 55 个类别。五蕴囊括了一切有情众生的根本属性。有些存在者对这些属性的具备不如其他存在者完整；四无色梵天界的众生甚至完全不具有第一蕴，也就是色蕴。当一个人死亡时，构成他的诸蕴随之消亡，但是……
+Childers：「存在有五种蕴或要素：色蕴（rūpakkhandha）、受、想、行、识」，也就是形态、感觉、知觉、意志规定与意识。 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), khandha 条；五蕴分类的直接词典来源](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕在这个复合词中，khandha 可能意味着集合或聚合；因为色蕴，也就是身体，由 28 种要素及属性组成；识蕴包括［?］89 个类别；行蕴包括 55 个类别。五蕴囊括了一切有情众生的根本属性。有些存在者对这些属性的具备不如其他存在者完整；四无色梵天界的众生甚至完全不具有第一蕴，也就是色蕴。当一个人死亡时，构成他的诸蕴随之消亡，但是……
 
 **Uncertain readings / 疑难读法:** number/word before 89 divisions; minor Childers wording
 
@@ -1267,11 +1269,11 @@ Upādāna: Saṁy. Nik. 38/12 [?].
 
 **English transcription / 英文转录**
 
-Infinity of Causal Series. MP II. 32, 3: Nagasena says the ‘ultimate point of time is not apparent’ and illustrates this with a recurring natural series and an abridged dependent-origination sequence: eye/form → sight → contact → sensation (vedana) → desire (tanha) → karma → renewed production of the eye. Nagasena further explains that the ultimate point of separate links may be known, but not that of the whole series. [Lower passage partly illegible.]
+Infinity of Causal Series. 〔[Q·A：与 004 p.20、p.42、p.49 共同构成 Lovejoy 对因果、逻辑、时间关系的工作链；属于作者操作而非已锁定外部摘录](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕 MP II. 32, 3: Nagasena says the ‘ultimate point of time is not apparent’ and illustrates this with a recurring natural series and an abridged dependent-origination sequence: eye/form → sight → contact → sensation (vedana) → desire (tanha) → karma → renewed production of the eye. Nagasena further explains that the ultimate point of separate links may be known, but not that of the whole series. [Lower passage partly illegible.]
 
 **Chinese translation / 中文译文**
 
-因果序列的无限性。《弥兰陀问经》Ⅱ，32、3：那先说，「时间的最终起点并不明显」，并用一个反复循环的自然序列及简化的缘起序列加以说明：眼／色→视觉→触→受（vedanā）→爱（taṇhā）→业→眼的再次产生。那先进一步解释，个别环节的最终起点也许可以知道，但整个序列的最终起点却无法知道。［下方文字部分难辨。］
+因果序列的无限性。 〔[Q·A：与 004 p.20、p.42、p.49 共同构成 Lovejoy 对因果、逻辑、时间关系的工作链；属于作者操作而非已锁定外部摘录](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕《弥兰陀问经》Ⅱ，32、3：那先说，「时间的最终起点并不明显」，并用一个反复循环的自然序列及简化的缘起序列加以说明：眼／色→视觉→触→受（vedanā）→爱（taṇhā）→业→眼的再次产生。那先进一步解释，个别环节的最终起点也许可以知道，但整个序列的最终起点却无法知道。［下方文字部分难辨。］
 
 **Uncertain readings / 疑难读法:** natural-series example; some words in quoted causal sequence; lower-page continuation
 
@@ -1297,11 +1299,11 @@ Infinity of Causal Series. MP II. 32, 3: Nagasena says the ‘ultimate point of 
 
 **English transcription / 英文转录**
 
-Form. Rupam. v. Warren p. 487. Derivative forms are described as forms springing or proceeding from the four great elements. Lovejoy lists the four physical sense-organs (ayatanas) and the sensible qualities connected with them: form for the eye, sound for the ear, odor for the nose, taste for the tongue, and bodily qualities for the body. Final paragraph notes the intelligibility, despite awkwardness, of this reduction/classification.
+Form. Rupam. v. Warren p. 487. 〔[Q·N：Warren, Buddhism in Translations (1896), p.487；关于 rūpa／四大及派生色的手稿直接页码](research_notes/MS38_004_source_uptake_map_v7.csv)〕 Derivative forms are described as forms springing or proceeding from the four great elements. Lovejoy lists the four physical sense-organs (ayatanas) and the sensible qualities connected with them: form for the eye, sound for the ear, odor for the nose, taste for the tongue, and bodily qualities for the body. Final paragraph notes the intelligibility, despite awkwardness, of this reduction/classification.
 
 **Chinese translation / 中文译文**
 
-色（Rūpam）。参见 Warren 第 487 页。派生的形态被描述为从四大生起或形成的形态。Lovejoy 列出感觉器官（āyatanas）及其相关的感觉性质：眼对应色，耳对应声，鼻对应香，舌对应味，身对应身体性质。最后一段指出，虽然这种归约或分类方式比较生硬，但仍然可以理解。
+色（Rūpam）。参见 Warren 第 487 页。 〔[Q·N：Warren, Buddhism in Translations (1896), p.487；关于 rūpa／四大及派生色的手稿直接页码](research_notes/MS38_004_source_uptake_map_v7.csv)〕派生的形态被描述为从四大生起或形成的形态。Lovejoy 列出感觉器官（āyatanas）及其相关的感觉性质：眼对应色，耳对应声，鼻对应香，舌对应味，身对应身体性质。最后一段指出，虽然这种归约或分类方式比较生硬，但仍然可以理解。
 
 **Uncertain readings / 疑难读法:** reference after four great elements; exact wording of final paragraph
 
@@ -1325,11 +1327,11 @@ Rupam, cont.
 
 **English transcription / 英文转录**
 
-The Khandhas = form, sensation, perception, dispositions/conformations, consciousness. Left-page diagram maps khandhas against paticca-samuppada: namarupa divides into rupa and nama; nama is related to vedana, sanna, sankhara and vinnana. Right-page note cites Majjhima Nikaya and treats destruction/removal of the conditions of existence through the analogy that removal of fuel means cessation of fire.
+The Khandhas = form, sensation, perception, dispositions/conformations, consciousness. Left-page diagram maps khandhas against paticca-samuppada: namarupa divides into rupa and nama; nama is related to vedana, sanna, sankhara and vinnana. 〔[Q·A：Lovejoy 的图示性重组；Childers／Warren 提供分类材料，但该映射不能直接归于单一来源](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕 Right-page note cites Majjhima Nikaya and treats destruction/removal of the conditions of existence through the analogy that removal of fuel means cessation of fire.
 
 **Chinese translation / 中文译文**
 
-五蕴＝色、受、想、行、识。左页图表将五蕴与缘起体系相互对应：名色分为色与名；名又与受、想、行、识相关。右页笔记引《中部》，讨论存在条件的摧毁或消除，并采用这样一个类比：移除燃料，就意味着火焰熄灭。
+五蕴＝色、受、想、行、识。左页图表将五蕴与缘起体系相互对应：名色分为色与名；名又与受、想、行、识相关。 〔[Q·A：Lovejoy 的图示性重组；Childers／Warren 提供分类材料，但该映射不能直接归于单一来源](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕右页笔记引《中部》，讨论存在条件的摧毁或消除，并采用这样一个类比：移除燃料，就意味着火焰熄灭。
 
 **Uncertain readings / 疑难读法:** several diagram labels; exact Majjhima Nikaya wording
 
@@ -1340,11 +1342,11 @@ The Khandhas = form, sensation, perception, dispositions/conformations, consciou
 
 **English transcription / 英文转录**
 
-Khandhas. Lovejoy writes that the khandha formula is probably pre-Buddhistic, current at the period in which Buddhism developed and taken for granted in early sermons and in the Four Truths / Dependent Origination framework. Diagram: namarupa → rupa plus nama; nama includes vedana, sanna, sankhara, vinnana. On vinnana (Childers), the fourth mental khandha is generally omitted in accounts of paticca-samuppada; namarupa is the immediate effect of vinnana, yet once the individual exists vinnana continues as part of his being. Vinnana is temporally (?) antecedent to namarupa and logically a subdivision of it.
+Khandhas. Lovejoy writes that the khandha formula is probably pre-Buddhistic, current at the period in which Buddhism developed and taken for granted in early sermons and in the Four Truths / Dependent Origination framework. Diagram: namarupa → rupa plus nama; nama includes vedana, sanna, sankhara, vinnana. On vinnana (Childers), the fourth mental khandha is generally omitted in accounts of paticca-samuppada; namarupa is the immediate effect of vinnana, yet once the individual exists vinnana continues as part of his being. 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), viññāṇa 条；上游词典分类已确认](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕 Vinnana is temporally (?) antecedent to namarupa and logically a subdivision of it. 〔[Q·A：“temporally / logically”区分在当前 Childers 对读中尚未找到直接措辞来源；可标为 Lovejoy 的强作者性综合，非确定优先权主张](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕
 
 **Chinese translation / 中文译文**
 
-诸蕴。Lovejoy 写道，诸蕴公式可能早于佛教；它在佛教形成时期已经流行，并在早期说法及四圣谛、缘起的框架中被当作既有内容。图表：名色→色加名；名包含受、想、行、识。关于识（viññāṇa），据 Childers，第四种心理性蕴通常在缘起描述中被省略；名色是识的直接结果，但一旦个体存在，识又继续作为其存在的一部分。识在时间上［?］先于名色，在逻辑上却是名色的一个下位组成。
+诸蕴。Lovejoy 写道，诸蕴公式可能早于佛教；它在佛教形成时期已经流行，并在早期说法及四圣谛、缘起的框架中被当作既有内容。图表：名色→色加名；名包含受、想、行、识。关于识（viññāṇa），据 Childers，第四种心理性蕴通常在缘起描述中被省略；名色是识的直接结果，但一旦个体存在，识又继续作为其存在的一部分。 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), viññāṇa 条；上游词典分类已确认](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕识在时间上［?］先于名色，在逻辑上却是名色的一个下位组成。 〔[Q·A：“temporally / logically”区分在当前 Childers 对读中尚未找到直接措辞来源；可标为 Lovejoy 的强作者性综合，非确定优先权主张](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕
 
 **Uncertain readings / 疑难读法:** early-sermon citation; Childers page number
 
@@ -1370,11 +1372,11 @@ Khandhas. Vedana. Vedana is treated both as a subdivision of nama and as a link 
 
 **English transcription / 英文转录**
 
-Khandhas. Vinnana. For evidence of the primacy of vinnana, Lovejoy notes that the four mental khandhas are collectively termed a ‘conscious group’ and points again to vinnana’s place in paticca-samuppada. A Rhys Davids note treats consciousness as extensively subdivided for Buddhist psychology, culminating in a classification into 89 classes.
+Khandhas. Vinnana. For evidence of the primacy of vinnana, Lovejoy notes that the four mental khandhas are collectively termed a ‘conscious group’ and points again to vinnana’s place in paticca-samuppada. A Rhys Davids note treats consciousness as extensively subdivided for Buddhist psychology, culminating in a classification into 89 classes. 〔[Q·N：T. W. Rhys Davids；关于佛教心理学与 89 类意识的手稿明确归属，具体版次未锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 **Chinese translation / 中文译文**
 
-诸蕴。识（Viññāṇa）。为了证明识的首要性，Lovejoy 指出，四种心理性蕴合称一个「意识群」，并再次强调识在缘起中的位置。Rhys Davids 的一条笔记说明，佛教心理学对意识进行了细密划分，最终列出 89 个类别。
+诸蕴。识（Viññāṇa）。为了证明识的首要性，Lovejoy 指出，四种心理性蕴合称一个「意识群」，并再次强调识在缘起中的位置。Rhys Davids 的一条笔记说明，佛教心理学对意识进行了细密划分，最终列出 89 个类别。 〔[Q·N：T. W. Rhys Davids；关于佛教心理学与 89 类意识的手稿明确归属，具体版次未锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 **Uncertain readings / 疑难读法:** first bibliographic reference; exact Rhys Davids wording; technical term before 89 classes
 
@@ -1385,11 +1387,11 @@ Khandhas. Vinnana. For evidence of the primacy of vinnana, Lovejoy notes that th
 
 **English transcription / 英文转录**
 
-Khandhas. Sanna. Childers/Rhys Davids: ideas are divided into six classes corresponding to the six classes of sensation; e.g. blue/tree under sight, sweetness under taste. The Sankhara: ‘52 divisions not mutually exclusive.’ Lovejoy begins a long list including contact (phassa), sensation (vedana), idea/perception (sanna), reflection (manasikara), memory (sati), vitality (jivitindriya), attention (vitakka), investigation (vicara), effort (viriya), joy (piti), and many later moral/mental qualities; numerous Pali glosses in the list remain uncertain.
+Khandhas. Sanna. Childers/Rhys Davids: ideas are divided into six classes corresponding to the six classes of sensation; e.g. 〔[Q·N：Childers 词典与 Rhys Davids 的佛教心理学材料；双重中介已见于手稿，尚未完成逐条词句校勘](research_notes/MS38_004_source_uptake_map_v7.csv)〕 blue/tree under sight, sweetness under taste. The Sankhara: ‘52 divisions not mutually exclusive.’ Lovejoy begins a long list including contact (phassa), sensation (vedana), idea/perception (sanna), reflection (manasikara), memory (sati), vitality (jivitindriya), attention (vitakka), investigation (vicara), effort (viriya), joy (piti), and many later moral/mental qualities; numerous Pali glosses in the list remain uncertain.
 
 **Chinese translation / 中文译文**
 
-诸蕴。想（Saññā）。据 Childers 和 Rhys Davids，观念分为六类，分别对应六种感觉：例如蓝色与树属于视觉，甜味属于味觉。诸行（Saṅkhāra）：「52 个并非彼此排斥的类别。」Lovejoy 开始列出长长一串项目，包括触（phassa）、受（vedanā）、想或知觉（saññā）、作意（manasikāra）、记忆或念（sati）、生命机能（jīvitindriya）、寻或注意（vitakka）、伺或探究（vicāra）、精进（viriya）、喜（pīti），以及许多后续的道德或心理性质；表中的不少巴利文注释仍难以确定。
+诸蕴。想（Saññā）。据 Childers 和 Rhys Davids，观念分为六类，分别对应六种感觉：例如蓝色与树属于视觉，甜味属于味觉。 〔[Q·N：Childers 词典与 Rhys Davids 的佛教心理学材料；双重中介已见于手稿，尚未完成逐条词句校勘](research_notes/MS38_004_source_uptake_map_v7.csv)〕诸行（Saṅkhāra）：「52 个并非彼此排斥的类别。」Lovejoy 开始列出长长一串项目，包括触（phassa）、受（vedanā）、想或知觉（saññā）、作意（manasikāra）、记忆或念（sati）、生命机能（jīvitindriya）、寻或注意（vitakka）、伺或探究（vicāra）、精进（viriya）、喜（pīti），以及许多后续的道德或心理性质；表中的不少巴利文注释仍难以确定。
 
 **Uncertain readings / 疑难读法:** many Pali glosses and English equivalents in the 52-item list
 
@@ -1415,11 +1417,11 @@ The Sankhara. In later Buddhist psychology they are divided into 52 divisions, p
 
 **English transcription / 英文转录**
 
-Upadana. Oldenberg treats upadana and upadhi as almost synonymous. Nirvana is made dependent on non-presence of upadhi nearly as much as on upadana. A Samyutta Nikaya causal series runs from tanha to upadhi and thence to old age/death; paticca-samuppada analogously runs tanha → upadana → later links. Upadhi is glossed as laying one thing on another / giving it support; upadana as substratum and also laying hold of, clinging to, as a flame catches fuel. Fuel or that which is laid hold of can itself be called upadana.
+Upadana. Oldenberg treats upadana and upadhi as almost synonymous. 〔[Q·D：Oldenberg, Buddha, English tr. (1882), pp.427–438；Lovejoy (1898), p.133 明确点名其英文译本 p.433](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 Nirvana is made dependent on non-presence of upadhi nearly as much as on upadana. A Samyutta Nikaya causal series runs from tanha to upadhi and thence to old age/death; paticca-samuppada analogously runs tanha → upadana → later links. Upadhi is glossed as laying one thing on another / giving it support; upadana as substratum and also laying hold of, clinging to, as a flame catches fuel. Fuel or that which is laid hold of can itself be called upadana.
 
 **Chinese translation / 中文译文**
 
-执取（Upādāna）。Oldenberg 几乎把 upādāna 和 upadhi 视为同义。涅槃之所以可能，依赖于没有 upadhi，其程度几乎与没有 upādāna 相同。《相应部》的一条因果序列从 taṇhā［爱］通向 upadhi，再由此通向老与死；缘起序列则类似地排列为 taṇhā→upādāna→后续诸支。Upadhi 被解释为把一个东西放在另一个东西上，或给予支撑；upādāna 则既指基础或依托，也指抓住和执着，就像火焰附着于燃料。燃料或被抓住的东西本身，也可以被称为 upādāna。
+执取（Upādāna）。Oldenberg 几乎把 upādāna 和 upadhi 视为同义。 〔[Q·D：Oldenberg, Buddha, English tr. (1882), pp.427–438；Lovejoy (1898), p.133 明确点名其英文译本 p.433](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕涅槃之所以可能，依赖于没有 upadhi，其程度几乎与没有 upādāna 相同。《相应部》的一条因果序列从 taṇhā［爱］通向 upadhi，再由此通向老与死；缘起序列则类似地排列为 taṇhā→upādāna→后续诸支。Upadhi 被解释为把一个东西放在另一个东西上，或给予支撑；upādāna 则既指基础或依托，也指抓住和执着，就像火焰附着于燃料。燃料或被抓住的东西本身，也可以被称为 upādāna。
 
 **Uncertain readings / 疑难读法:** one opening phrase; exact cited Samyutta sequence
 
@@ -1430,11 +1432,11 @@ Upadana. Oldenberg treats upadana and upadhi as almost synonymous. Nirvana is ma
 
 **English transcription / 英文转录**
 
-Continuation on upadana/upadhi. Clinging and the act of clinging are both associated with upadana; despite different derivations, upadana and upadhi acquire overlapping senses of support/substratum/clinging. A Pali quotation from Samyutta Nikaya is retained as uncertain. In a Senart note on the twelve nidanas, Lovejoy tests whether upadana is merely an abbreviation/collective designation and notes separately enumerated forms of upadana such as sensuality, false views, rites/observances and belief in self.
+Continuation on upadana/upadhi. Clinging and the act of clinging are both associated with upadana; despite different derivations, upadana and upadhi acquire overlapping senses of support/substratum/clinging. A Pali quotation from Samyutta Nikaya is retained as uncertain. In a Senart note on the twelve nidanas, Lovejoy tests whether upadana is merely an abbreviation/collective designation and notes separately enumerated forms of upadana such as sensuality, false views, rites/observances and belief in self. 〔[Q·D：Émile Senart, “À propos de la théorie bouddhique des douze nidânas,” Mélanges Charles de Harlez (1896), pp.284–285](research_notes/MS38_004_Senart_Lovejoy_evidentiary_burden_matrix.csv)〕
 
 **Chinese translation / 中文译文**
 
-续论 upādāna 与 upadhi。执着之物与执着行为，都和 upādāna 有关。虽然词源不同，upādāna 和 upadhi 却获得了彼此重叠的「支持」「基础」和「执着」等含义。《相应部》中的一段巴利文引文仍未能确定。Lovejoy 在一则讨论 Senart 关于十二因缘观点的笔记中，检验 upādāna 是否仅仅是缩略语或集合性名称，并另外注意到四种分别列出的执取：感官欲望、错误见解、仪式与持戒，以及对自我的信念。
+续论 upādāna 与 upadhi。执着之物与执着行为，都和 upādāna 有关。虽然词源不同，upādāna 和 upadhi 却获得了彼此重叠的「支持」「基础」和「执着」等含义。《相应部》中的一段巴利文引文仍未能确定。Lovejoy 在一则讨论 Senart 关于十二因缘观点的笔记中，检验 upādāna 是否仅仅是缩略语或集合性名称，并另外注意到四种分别列出的执取：感官欲望、错误见解、仪式与持戒，以及对自我的信念。 〔[Q·D：Émile Senart, “À propos de la théorie bouddhique des douze nidânas,” Mélanges Charles de Harlez (1896), pp.284–285](research_notes/MS38_004_Senart_Lovejoy_evidentiary_burden_matrix.csv)〕
 
 **Uncertain readings / 疑难读法:** Pali quotation; French article title/source; several technical compounds
 
@@ -1445,11 +1447,11 @@ Continuation on upadana/upadhi. Clinging and the act of clinging are both associ
 
 **English transcription / 英文转录**
 
-Upadana / nidana formula continued. Lovejoy addresses the apparent duplication of the khandhas in the formula. He concedes that the formula is composite, that its terms are not all original to Buddhism, that objective and subjective elements are mingled, and that the sequence is not homogeneous in strict temporal relation. Yet he rejects the claim that the arrangement is unintelligible or merely accidental: there is, he argues, a discoverable technical system underlying the arrangement.
+Upadana / nidana formula continued. Lovejoy addresses the apparent duplication of the khandhas in the formula. He concedes that the formula is composite, that its terms are not all original to Buddhism, that objective and subjective elements are mingled, and that the sequence is not homogeneous in strict temporal relation. 〔[Q·D：Senart (1896), pp.284–285；Warren (1896), pp.115–116 也已提出“patchwork”判断](research_notes/MS38_004_Senart_Lovejoy_evidentiary_burden_matrix.csv)〕 Yet he rejects the claim that the arrangement is unintelligible or merely accidental: there is, he argues, a discoverable technical system underlying the arrangement. 〔[Q·A：回应 Senart (1896), p.285 的 “ordre plus ou moins accidentel”；Lovejoy (1898), pp.127、132 接续反驳](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕
 
 **Chinese translation / 中文译文**
 
-续论 upādāna 与缘起公式。Lovejoy 讨论诸蕴在该公式中似乎被重复列出的现象。他承认这个公式是复合形成的，其中的术语并不全由佛教首创；客观与主观因素相互混杂，整个序列也没有严格一致的时间先后关系。然而，他拒绝据此断言这种排列不可理解，或者仅仅出于偶然。他认为，排列背后存在一种可以被发现的技术性体系。
+续论 upādāna 与缘起公式。Lovejoy 讨论诸蕴在该公式中似乎被重复列出的现象。他承认这个公式是复合形成的，其中的术语并不全由佛教首创；客观与主观因素相互混杂，整个序列也没有严格一致的时间先后关系。 〔[Q·D：Senart (1896), pp.284–285；Warren (1896), pp.115–116 也已提出“patchwork”判断](research_notes/MS38_004_Senart_Lovejoy_evidentiary_burden_matrix.csv)〕然而，他拒绝据此断言这种排列不可理解，或者仅仅出于偶然。 〔[Q·A：回应 Senart (1896), p.285 的 “ordre plus ou moins accidentel”；Lovejoy (1898), pp.127、132 接续反驳](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕他认为，排列背后存在一种可以被发现的技术性体系。
 
 **Uncertain readings / 疑难读法:** opening sentence; attribution around the criticism; exact quoted conclusion
 
@@ -1460,11 +1462,11 @@ Upadana / nidana formula continued. Lovejoy addresses the apparent duplication o
 
 **English transcription / 英文转录**
 
-If upadana were simply a collective designation for a khandha/group, the dependent-origination formula would produce repeated enumeration; namarupa itself is also a collective designation, so the same elements can appear both collectively and separately. Lovejoy’s main difficulty becomes the relation among terms that precede one another temporally as well as logically. Bibliographic references and the final short paragraph remain partly illegible.
+If upadana were simply a collective designation for a khandha/group, the dependent-origination formula would produce repeated enumeration; namarupa itself is also a collective designation, so the same elements can appear both collectively and separately. Lovejoy’s main difficulty becomes the relation among terms that precede one another temporally as well as logically. 〔[Q·A：Lovejoy 对时间顺序与逻辑包含的区分；对照 Senart (1896), pp.284–285 与 004 p.42](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕 Bibliographic references and the final short paragraph remain partly illegible.
 
 **Chinese translation / 中文译文**
 
-如果 upādāna 仅仅是某一蕴或某一组要素的集合性名称，那么缘起公式就会产生重复列举；名色本身也属于集合性名称，因此，同一些要素可能既以整体方式出现，也分别以个别形式出现。Lovejoy 主要遇到的困难，是这些术语之间既存在时间上的先后，又存在逻辑上的先后，如何解释两者关系。书目引用及末尾短段仍有部分文字难以辨认。
+如果 upādāna 仅仅是某一蕴或某一组要素的集合性名称，那么缘起公式就会产生重复列举；名色本身也属于集合性名称，因此，同一些要素可能既以整体方式出现，也分别以个别形式出现。Lovejoy 主要遇到的困难，是这些术语之间既存在时间上的先后，又存在逻辑上的先后，如何解释两者关系。 〔[Q·A：Lovejoy 对时间顺序与逻辑包含的区分；对照 Senart (1896), pp.284–285 与 004 p.42](research_notes/JHI_blog_Warren_Childers_Buddhaghosa_concept_reconstruction_closure_2026-08-20.md)〕书目引用及末尾短段仍有部分文字难以辨认。
 
 **Uncertain readings / 疑难读法:** bibliographic references; technical terms in first half; final paragraph
 
@@ -1475,11 +1477,11 @@ If upadana were simply a collective designation for a khandha/group, the depende
 
 **English transcription / 英文转录**
 
-Nidanas. Senart p. 285: the enumeration might easily be abridged or extended; Lovejoy cites an alternate series in which sorrow is derived through terms including avijja, sankhara, vinnana, phassa, vedana, tanha and upadana. He then argues that neither the number nor order of avijja and sankhara belongs to Buddhism ab initio. Upanishadic emphasis on knowledge/avidya prepared the conceptual role of ignorance; Buddhism reinterprets it practically as ignorance of the truths of salvation, but that alone would not justify its ontological position at the head of the nidanas. Sankhara’s position suggests an outside tradition, probably Samkhya-Yoga, where intellectual/moral dispositions accumulate through action.
+Nidanas. Senart p. 285: the enumeration might easily be abridged or extended; Lovejoy cites an alternate series in which sorrow is derived through terms including avijja, sankhara, vinnana, phassa, vedana, tanha and upadana. 〔[Q·D：Senart, “À propos de la théorie bouddhique des douze nidânas” (1896), printed p.285；手稿明确给出页码](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕 He then argues that neither the number nor order of avijja and sankhara belongs to Buddhism ab initio. Upanishadic emphasis on knowledge/avidya prepared the conceptual role of ignorance; Buddhism reinterprets it practically as ignorance of the truths of salvation, but that alone would not justify its ontological position at the head of the nidanas. Sankhara’s position suggests an outside tradition, probably Samkhya-Yoga, where intellectual/moral dispositions accumulate through action.
 
 **Chinese translation / 中文译文**
 
-十二因缘。Senart，第 285 页：因缘清单可以相当容易地缩短或扩展。Lovejoy 引用另一条序列，其中苦通过无明、行、识、触、受、爱和取等项目推导出来。接着，他认为，无明与行的数量和排列次序，并非佛教从一开始就固有的内容。《奥义书》对知识与无明的重视，为无明的概念角色作了准备；佛教在实践层面将其重新解释为对解脱真理的无知，但仅凭这一点，还不足以说明为什么无明在本体论上被放在十二因缘之首。行所处的位置则暗示另一个外部传统，可能是数论—瑜伽体系；在那里，智识和道德倾向通过行动不断积累。
+十二因缘。Senart，第 285 页：因缘清单可以相当容易地缩短或扩展。 〔[Q·D：Senart, “À propos de la théorie bouddhique des douze nidânas” (1896), printed p.285；手稿明确给出页码](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕Lovejoy 引用另一条序列，其中苦通过无明、行、识、触、受、爱和取等项目推导出来。接着，他认为，无明与行的数量和排列次序，并非佛教从一开始就固有的内容。《奥义书》对知识与无明的重视，为无明的概念角色作了准备；佛教在实践层面将其重新解释为对解脱真理的无知，但仅凭这一点，还不足以说明为什么无明在本体论上被放在十二因缘之首。行所处的位置则暗示另一个外部传统，可能是数论—瑜伽体系；在那里，智识和道德倾向通过行动不断积累。
 
 **Uncertain readings / 疑难读法:** alternate-series citation and one term; exact Samkhya-Yoga wording
 
@@ -1490,11 +1492,11 @@ Nidanas. Senart p. 285: the enumeration might easily be abridged or extended; Lo
 
 **English transcription / 英文转录**
 
-Continuation: sankharas persist through successive existences as germs/conditions of future existence. Avidya is one of the sankharas and therefore can figure as first cause of renewal of life. Lovejoy is cautious about claiming direct borrowing from Samkhya-Yoga, but concludes that the enumerative interpretation is secondary in origin and the formula composite in character. He then asks ‘And what of namarupa?’ and argues that its place likewise reflects a composite history; affinities with Samkhya do not by themselves prove a theory conceived all of a piece.
+Continuation: sankharas persist through successive existences as germs/conditions of future existence. Avidya is one of the sankharas and therefore can figure as first cause of renewal of life. Lovejoy is cautious about claiming direct borrowing from Samkhya-Yoga, but concludes that the enumerative interpretation is secondary in origin and the formula composite in character. 〔[Q·A：与 Senart (1896), p.295、Garbe (1894), pp.1–6 比较；相似性、借用和整套体系传递需要分别举证](research_notes/MS38_004_Senart_Lovejoy_evidentiary_burden_matrix.csv)〕 He then asks ‘And what of namarupa?’ and argues that its place likewise reflects a composite history; affinities with Samkhya do not by themselves prove a theory conceived all of a piece.
 
 **Chinese translation / 中文译文**
 
-［接上页］诸行会持续穿过接连不断的存在状态，成为未来存在的种子或条件。无明本身也是诸行之一，因此可以作为生命更新的第一原因。对于是否存在直接借自数论—瑜伽的关系，Lovejoy 保持谨慎；但他认为，这种列举式解释的起源属于后出的层次，而整个公式具有复合性质。随后他又问：「名色又该如何解释？」他认为，名色在序列中的位置同样反映了复合形成的历史；与数论之间存在相似性，并不能单独证明整套理论曾经一次性、完整地被构思出来。
+［接上页］诸行会持续穿过接连不断的存在状态，成为未来存在的种子或条件。无明本身也是诸行之一，因此可以作为生命更新的第一原因。对于是否存在直接借自数论—瑜伽的关系，Lovejoy 保持谨慎；但他认为，这种列举式解释的起源属于后出的层次，而整个公式具有复合性质。 〔[Q·A：与 Senart (1896), p.295、Garbe (1894), pp.1–6 比较；相似性、借用和整套体系传递需要分别举证](research_notes/MS38_004_Senart_Lovejoy_evidentiary_burden_matrix.csv)〕随后他又问：「名色又该如何解释？」他认为，名色在序列中的位置同样反映了复合形成的历史；与数论之间存在相似性，并不能单独证明整套理论曾经一次性、完整地被构思出来。
 
 **Uncertain readings / 疑难读法:** several connecting phrases; Vedanta/Samkhya wording
 
@@ -1548,7 +1550,7 @@ Asava / etymology continued. From a Majjhima Nikaya passage involving Buddhist e
 
 **English transcription / 英文转录**
 
-Paticca-samuppāda.
+Paticca-samuppāda. 〔[Q·A：与 004 p.20、p.68 及 1901 “Two Essential Formulas of Buddhism”课程题目构成结构对应；讲义原文未见](research_notes/MS38_004_to_1901_Buddhism_syllabus_lecture_concordance_batch117.csv)〕
 
 1. Avijjā.
 2. Saṅkhārā. [4th khandha; note also 2nd/3rd [?]]
@@ -1569,7 +1571,7 @@ Difference between later Piṭakas & MP: on the one hand, in MP the affirmation 
 
 **Chinese translation / 中文译文**
 
-缘起（Paṭicca-samuppāda）。
+缘起（Paṭicca-samuppāda）。 〔[Q·A：与 004 p.20、p.68 及 1901 “Two Essential Formulas of Buddhism”课程题目构成结构对应；讲义原文未见](research_notes/MS38_004_to_1901_Buddhism_syllabus_lecture_concordance_batch117.csv)〕
 
 1. 无明（Avijjā）。
 2. 行（Saṅkhārā）。［第四蕴；另注意与第二、第三蕴的关系［?］。］
@@ -1597,7 +1599,7 @@ Difference between later Piṭakas & MP: on the one hand, in MP the affirmation 
 
 **English transcription / 英文转录**
 
-In the Piṭakas Nirvāṇa is indeed seldom, if ever (but see p. 161), described as nothingness; but it is there a purely negative conception. I incline to suspect that the philosophical thinker who developed to even greater distinctness the original Buddhist conception of impermanence belonged to a tendency in the history of Buddhism different from, and later than, the popularizing temper which began to tone down Nirvāṇa, and bring rise eventually to Buddhist mysticism.
+In the Piṭakas Nirvāṇa is indeed seldom, if ever (but see p. 161), described as nothingness; but it is there a purely negative conception. 〔[Q·C：对照 Lovejoy, The Great Chain of Being (1936), printed p.30；属后期压缩／延续，不证明单线影响](research_notes/Lovejoy_Great_Chain_Essays_Buddhism_India_China_named_sources_audit_2026-08-23.md)〕 I incline to suspect that the philosophical thinker who developed to even greater distinctness the original Buddhist conception of impermanence belonged to a tendency in the history of Buddhism different from, and later than, the popularizing temper which began to tone down Nirvāṇa, and bring rise eventually to Buddhist mysticism.
 
 Upādāna. [Seven passages / secondary-source notes, including a French quotation, partly illegible.] One French note glosses upādāna in relation to perception / pañcakkhandha.
 
@@ -1605,11 +1607,11 @@ Upādāna in a Majjhima-Nikāya passage: the ‘five upādānakkhandhas’ are c
 
 Up. synonymous with saṁyojana? Saṁyojaniya-dhammā are ‘entanglements’ and amount to just the same as upādāniya-dhammā (v. same source).
 
-Upādhi, āsava, & saṁyojana, then, are three expressions with slightly different connotations and derivations, but systematically/in the system are devised for essentially the same fundamental idea — that of attachment to the objects of physical experience.
+Upādhi, āsava, & saṁyojana, then, are three expressions with slightly different connotations and derivations, but systematically/in the system are devised for essentially the same fundamental idea — that of attachment to the objects of physical experience. 〔[Q·A：Lovejoy 将词源差异与体系功能区分；与 Oldenberg (1882), pp.427–438 以及 1898 论文的语义处理有关](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕
 
 **Chinese translation / 中文译文**
 
-在三藏中，涅槃确实很少，甚至也许从未，被直接描述为虚无［但参见第 161 页］；不过，它在那里仍然是一个纯粹否定性的概念。我倾向于怀疑：那个将佛教原有无常观念阐发得更加鲜明的哲学思想者，属于佛教史上一种不同的、而且更晚出现的倾向；这种倾向不同于那种开始淡化涅槃、最终导致佛教神秘主义兴起的大众化取向。
+在三藏中，涅槃确实很少，甚至也许从未，被直接描述为虚无［但参见第 161 页］；不过，它在那里仍然是一个纯粹否定性的概念。 〔[Q·C：对照 Lovejoy, The Great Chain of Being (1936), printed p.30；属后期压缩／延续，不证明单线影响](research_notes/Lovejoy_Great_Chain_Essays_Buddhism_India_China_named_sources_audit_2026-08-23.md)〕我倾向于怀疑：那个将佛教原有无常观念阐发得更加鲜明的哲学思想者，属于佛教史上一种不同的、而且更晚出现的倾向；这种倾向不同于那种开始淡化涅槃、最终导致佛教神秘主义兴起的大众化取向。
 
 取（Upādāna）。［七条段落或二手文献笔记，其中包括一段法文引文，部分难辨。］一条法文笔记根据知觉与五蕴解释 upādāna。
 
@@ -1617,7 +1619,7 @@ Upādhi, āsava, & saṁyojana, then, are three expressions with slightly differ
 
 Up. 是否与 saṃyojana 同义？Saṃyojaniya-dhammā 是「束缚」，与 upādāniya-dhammā 基本相同，参见同一来源。
 
-因此，upādhi、āsava 和 saṃyojana 是三个含义细节和词源略有不同的表达；但从体系性角度看，它们实际上指向同一个根本观念：对于感官经验对象的执着。
+因此，upādhi、āsava 和 saṃyojana 是三个含义细节和词源略有不同的表达；但从体系性角度看，它们实际上指向同一个根本观念：对于感官经验对象的执着。 〔[Q·A：Lovejoy 将词源差异与体系功能区分；与 Oldenberg (1882), pp.427–438 以及 1898 论文的语义处理有关](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕
 
 **Uncertain readings / 疑难读法:** French secondary-source citation and quotation; exact Majjhima-Nikāya reference; spelling of saṁyojaniya/upādāniya compounds
 
@@ -1636,7 +1638,7 @@ Upādānakkhandhas. Saṁy.-Nik. XXII, 48 [?]. The five khandhas are enumerated;
 
 V. connection between upādāna & āsava.
 
-Burnouf, Introduction, p. 475: French note on the etymology and compound force of upādāna / upādānakkhandha. [Quotation continues on next page.]
+Burnouf, Introduction, p. 475: French note on the etymology and compound force of upādāna / upādānakkhandha. 〔[Q·N：Eugène Burnouf, Introduction, p.475；法文出处和页码由手稿直接给出，具体版次尚未锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕 [Quotation continues on next page.]
 
 **Chinese translation / 中文译文**
 
@@ -1648,7 +1650,7 @@ Burnouf, Introduction, p. 475: French note on the etymology and compound force o
 
 另见取与漏之间的联系。
 
-Burnouf，《导论》，第 475 页：法文笔记讨论 upādāna 与 upādānakkhandha 的词源及其复合词作用。［引文接下页。］
+Burnouf，《导论》，第 475 页：法文笔记讨论 upādāna 与 upādānakkhandha 的词源及其复合词作用。 〔[Q·N：Eugène Burnouf, Introduction, p.475；法文出处和页码由手稿直接给出，具体版次尚未锁定](research_notes/MS38_004_source_uptake_map_v7.csv)〕［引文接下页。］
 
 **Uncertain readings / 疑难读法:** Saṁyutta-Nikāya section numbers; several words in the description of trembling/distress; Burnouf quotation retained only as a descriptive note here
 
@@ -1659,7 +1661,7 @@ Burnouf，《导论》，第 475 页：法文笔记讨论 upādāna 与 upādān
 
 **English transcription / 英文转录**
 
-[Continuation of Burnouf, Introduction, p. 475; French quotation.]
+[Continuation of Burnouf, Introduction, p. 475; French quotation.] 〔[Q·N：Burnouf, Introduction, p.475；续前页法文摘录，保留版本与辨读不确定性](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 ‘Qui est placé le premier, c’est à dire l’upādāna …’ Burnouf discusses the first member/term as a compound and the relation of upādāna to the five skandhas. He treats upādāna as expressing a bond/support or grasping connection, and comments that the constituent elements designated by the compound are the same terms elsewhere expressed by the separate ideas of skandha and upādāna.
 
@@ -1669,7 +1671,7 @@ Upādāna. Burnouf also notes a passage in a Buddhist text [reference partly ill
 
 **Chinese translation / 中文译文**
 
-［续引 Burnouf《导论》第 475 页；法文引文。］
+［续引 Burnouf《导论》第 475 页；法文引文。］ 〔[Q·N：Burnouf, Introduction, p.475；续前页法文摘录，保留版本与辨读不确定性](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 「首先出现的，也就是说 upādāna……」Burnouf 讨论复合词的第一项，以及 upādāna 与五蕴的关系。他把 upādāna 理解为联系、支撑或抓取，并指出，这个复合词所指的构成要素，与其他地方分别用 skandha 和 upādāna 表达的观念相同。
 
@@ -1691,7 +1693,7 @@ Upādāna. Burnouf also notes a passage in a Buddhist text [reference partly ill
 
 Upādāna. Mahāvagga [?] 6 [?]. Pali quotation, including ‘dukkhaṃ … pañcupādānakkhandhā dukkhā.’ Lovejoy glosses the standard statement that the five aggregates subject to attachment are suffering.
 
-Dhammacakkappavattana Sutta, Rhys Davids trans.: ‘The next: Five aggregates with attachment … are painful’ [wording abbreviated in notebook]. Upādāna, or grasping / attachment, is thus treated as the source or condition of the aggregates as suffered.
+Dhammacakkappavattana Sutta, Rhys Davids trans. 〔[Q·N：T. W. Rhys Davids 所译 Dhammacakkappavattana Sutta；具体译本和印刷页待确认](research_notes/MS38_004_source_uptake_map_v7.csv)〕: ‘The next: Five aggregates with attachment … are painful’ [wording abbreviated in notebook]. Upādāna, or grasping / attachment, is thus treated as the source or condition of the aggregates as suffered.
 
 A secondary source (SPCK, p. 113 [?]) is quoted: ‘A comprehensive name for all the five skandhas is upādhi,’ a word derived/allusively connected with upādāna, ‘to grasp,’ either with the hand or the mind. When the Buddhist becomes an Arhat and reaches Nirvāṇa he has extinguished craving and passion, but while alive his upādhi — the skandhas, his body with all its powers — remains. At death, however, ‘he will have reached nir-upādhi-sesa-nirvāṇa-dhātu,’ extinction without residue of the five skandhas.
 
@@ -1702,7 +1704,7 @@ A secondary source (SPCK, p. 113 [?]) is quoted: ‘A comprehensive name for all
 
 取（Upādāna）。《大品》［?］6［?］。巴利文引文包括「dukkhaṃ……pañcupādānakkhandhā dukkhā」。Lovejoy 解释这一常见命题：受到执取的五蕴都是苦。
 
-《转法轮经》，Rhys Davids 译：「接下来：带有执取的五蕴……是苦。」［笔记文字有缩略。］因此，upādāna，即抓取或执着，被理解为诸蕴之所以成为苦的来源或条件。
+《转法轮经》，Rhys Davids 译：「接下来：带有执取的五蕴……是苦。」 〔[Q·N：T. W. Rhys Davids 所译 Dhammacakkappavattana Sutta；具体译本和印刷页待确认](research_notes/MS38_004_source_uptake_map_v7.csv)〕［笔记文字有缩略。］因此，upādāna，即抓取或执着，被理解为诸蕴之所以成为苦的来源或条件。
 
 一条二手来源［SPCK，第 113 页［?］］写道：「概括五蕴的一个总称是 upādhi。」这个词在词源或联想上与 upādāna 相联系，后者指用手或心「抓取」。当佛教修行者成为阿罗汉并证得涅槃时，他已经熄灭渴求与激情；但只要他仍活着，其 upādhi，也就是诸蕴，以及包含各种能力的身体，仍然存在。然而，在死亡时，「他将达到 nir-upādhi-sesa-nirvāṇa-dhātu」，即五蕴无余的灭尽。
 
@@ -1719,7 +1721,7 @@ Upādāna & upadhi applied.
 
 Note also in a Saṁyutta-Nikāya passage [reference partly illegible], quoted by a secondary source, we read: ‘anupādāno bhikkhu parinibbāyati.’
 
-Oldenberg points pretty strongly [p. 435 ?] that a form meaning ‘having attachment/residue remaining’ is an attribute of the anāgāmin. These words therefore preserve an ethical use: freedom from sinful nature / attachment may be incomplete even though the causal conditions for a further ordinary rebirth are nearly exhausted. [Several lines uncertain.]
+Oldenberg points pretty strongly [p. 435 ?] 〔[Q·D：Oldenberg, Buddha, English tr. (1882), pp.433–435；伦理性残余与 anāgāmin 的上游论证已核对，具体手稿页码保留疑读](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 that a form meaning ‘having attachment/residue remaining’ is an attribute of the anāgāmin. These words therefore preserve an ethical use: freedom from sinful nature / attachment may be incomplete even though the causal conditions for a further ordinary rebirth are nearly exhausted. [Several lines uncertain.]
 
 Nibbāna.
 
@@ -1742,7 +1744,7 @@ This all doth turn to nothingness.’
 
 另注意《相应部》一段文字［出处部分难辨］。一部二手文献引述：「anupādāno bhikkhu parinibbāyati」，无所执取的比丘进入般涅槃。
 
-Oldenberg 相当明确地指出［第 435 页?］，某个表示「仍有执着或残余」的形式，是不还者（anāgāmin）的属性。因此，这些词保留了伦理性用法：虽然造成进一步普通再生的因缘几乎已经耗尽，但对于罪性或执着的摆脱仍可能尚未完全。［数行文字不确定。］
+Oldenberg 相当明确地指出［第 435 页?］，某个表示「仍有执着或残余」的形式，是不还者（anāgāmin）的属性。 〔[Q·D：Oldenberg, Buddha, English tr. (1882), pp.433–435；伦理性残余与 anāgāmin 的上游论证已核对，具体手稿页码保留疑读](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕因此，这些词保留了伦理性用法：虽然造成进一步普通再生的因缘几乎已经耗尽，但对于罪性或执着的摆脱仍可能尚未完全。［数行文字不确定。］
 
 涅槃（Nibbāna）。
 
@@ -1770,7 +1772,7 @@ Oldenberg 相当明确地指出［第 435 页?］，某个表示「仍有执着�
 
 Nibbāna.
 
-Saṁy. / Rhys Davids [?]: it is the extinction of the sinful grasping condition of mind & heart which, according to Buddhism, gives rise to renewed individual existence. N. is therefore the sequel to a sinless ethical state of mind. It goes to the ‘going out’ of the flame/fire of lust, ill-will & delusion. [Reference to a secondary source.]
+Saṁy. / Rhys Davids [?] 〔[Q·N：Rhys Davids 的 nibbāna／parinibbāna 讨论；手稿署名及具体来源仍有疑读](research_notes/MS38_004_source_uptake_map_v7.csv)〕: it is the extinction of the sinful grasping condition of mind & heart which, according to Buddhism, gives rise to renewed individual existence. N. is therefore the sequel to a sinless ethical state of mind. It goes to the ‘going out’ of the flame/fire of lust, ill-will & delusion. [Reference to a secondary source.]
 
 Also, the use of upādhi is pressed as evidence. ‘When a Bhikkhu has become an Arhat, when he has reached Nirvāṇa, apart from the body he has extinguished upādāna & rāga; but he is still alive; the upādhi, the skandhas or his body with all its powers … remain. These however are impermanent; they will soon pass away; precisely then there will be no thought/force to bring about the rise of a fresh set of skandhas. The Arhat will be no longer alive or existent in any sense at all.’
 
@@ -1782,7 +1784,7 @@ Rhys Davids discusses a principally unsuccessful attempt to prove the contrary, 
 
 涅槃（Nibbāna）。
 
-《相应部》／Rhys Davids［?］：涅槃是心意中有罪性的抓取状态之熄灭。依照佛教，这种状态会造成个体存在再度生起。因此，涅槃是一种无罪的伦理心态所产生的结果。它意味着贪欲、恶意与愚痴之火「熄灭」。［出自二手文献。］
+《相应部》／Rhys Davids［?］：涅槃是心意中有罪性的抓取状态之熄灭。 〔[Q·N：Rhys Davids 的 nibbāna／parinibbāna 讨论；手稿署名及具体来源仍有疑读](research_notes/MS38_004_source_uptake_map_v7.csv)〕依照佛教，这种状态会造成个体存在再度生起。因此，涅槃是一种无罪的伦理心态所产生的结果。它意味着贪欲、恶意与愚痴之火「熄灭」。［出自二手文献。］
 
 upādhi 的使用也被当作证据。「当比丘成为阿罗汉、证得涅槃时，除身体之外，他已经熄灭 upādāna 与 rāga，也就是执取和贪染；但他仍然活着；upādhi，也就是诸蕴，或具有各种能力的身体……仍然存在。然而，这些都是无常的，很快就会消失。到那时，不再有任何思想或力量造成一组新的蕴生起。阿罗汉将不再以任何意义存活或存在。」
 
@@ -1801,9 +1803,9 @@ Rhys Davids 讨论了一种大体失败的相反论证，尤其涉及 nibbāna �
 
 [Continuation.]
 
-On the essential points, Lovejoy concludes: Nirvāṇa means the extinction of the cause of rebirth, and the final goal of Buddhism is the absolute cessation of existence. ‘This is all that is required for the purposes of my paper’; upon the more philosophical question it is not necessary to dwell.
+On the essential points, Lovejoy concludes: Nirvāṇa means the extinction of the cause of rebirth, and the final goal of Buddhism is the absolute cessation of existence. ‘This is all that is required for the purposes of my paper’; upon the more philosophical question it is not necessary to dwell. 〔[Q·A：手稿出现明确的论文写作指向；与 Lovejoy (1898), JAOS 19, pp.126–136 的关联成立，但不能据此推断全部笔记写作顺序](research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md)〕
 
-He adds in passing that Childers’ view of Nirvāṇa is probably correct, whereas a more philosophical or metaphysical interpretation attributed to other writers is profoundly problematic / not securely supported.
+He adds in passing that Childers’ view of Nirvāṇa is probably correct, whereas a more philosophical or metaphysical interpretation attributed to other writers is profoundly problematic / not securely supported. 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), nibbāna／upādi 相关词条；Lovejoy 的评价不等同于原文逐句复核](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕
 
 N. & flame. Citation.
 
@@ -1813,9 +1815,9 @@ Buddhavaṁsa: ‘As where heat is, there is cold; so where the three-fold fire 
 
 ［接上页。］
 
-关于关键问题，Lovejoy 得出结论：涅槃意味着造成再生之原因的熄灭，而佛教的最终目标是存在的绝对终止。「对我的论文来说，所需要的就是这些」；至于更偏哲学的问题，没有必要进一步展开。
+关于关键问题，Lovejoy 得出结论：涅槃意味着造成再生之原因的熄灭，而佛教的最终目标是存在的绝对终止。「对我的论文来说，所需要的就是这些」；至于更偏哲学的问题，没有必要进一步展开。 〔[Q·A：手稿出现明确的论文写作指向；与 Lovejoy (1898), JAOS 19, pp.126–136 的关联成立，但不能据此推断全部笔记写作顺序](research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md)〕
 
-他顺便补充：Childers 对涅槃的看法很可能正确；而其他作者提出的更加哲学化或形而上学化的解释，则存在严重问题，或缺乏可靠支持。
+他顺便补充：Childers 对涅槃的看法很可能正确；而其他作者提出的更加哲学化或形而上学化的解释，则存在严重问题，或缺乏可靠支持。 〔[Q·N：Childers, A Dictionary of the Pali Language (1875), nibbāna／upādi 相关词条；Lovejoy 的评价不等同于原文逐句复核](research_notes/lovejoy_as_orientalist_web_sweep_batch41_004_upadi_lexical_fork_Childers_Muller_Dahlmann_RhysDavids.md)〕
 
 涅槃与火焰。引文。
 
@@ -1838,7 +1840,7 @@ Example: in a Sutta [Majjhima-Nikāya reference], a man wounded by a poisoned ar
 
 The poison has really been all removed. In another Majjhima-Nikāya passage (Maj. Nik. 72 [?]) it is said of the Tathāgata at death: if he is upādisesa (having upādi still remaining), will he come again? The answer is no / the question is inapplicable. An anāgāmin is precisely one in whom a small residue of sinful nature remains for destruction in a future celestial existence; to call him one in whom at death ‘no upādi remains’ would be nonsense.
 
-Warren misunderstands this [p. 373 ?]. Evidently ‘upādisesa’ here has not the technical meaning of a residuum of earthly substance, but the ethical meaning of a residuum of impurity.
+Warren misunderstands this [p. 373 ?]. 〔[Q·N：Warren, Buddhism in Translations (1896), p.373［页码疑读］；Lovejoy 在此反驳其对 upādisesa 的处理](research_notes/MS38_004_source_uptake_map_v7.csv)〕 Evidently ‘upādisesa’ here has not the technical meaning of a residuum of earthly substance, but the ethical meaning of a residuum of impurity. 〔[Q·D：Oldenberg, Buddha (1882), pp.427–438，尤其 p.433ff.；Lovejoy (1898), pp.133–136 重估并补充文本用例](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕
 
 **Chinese translation / 中文译文**
 
@@ -1850,7 +1852,7 @@ Warren misunderstands this [p. 373 ?]. Evidently ‘upādisesa’ here has not t
 
 毒素实际上已经全部清除。《中部》另一段文字［第 72 经?］询问：如来死亡时如果仍是 upādisesa，也就是仍有 upādi 残余，他还会回来吗？回答是否定的，或认为问题本身并不适用。不还者恰恰是仍有少量罪性残余的人，这些残余将在未来的天界存在中被消除；说他在死亡时「没有任何 upādi 残余」，显然讲不通。
 
-Warren 对此有所误解［第 373 页?］。这里的 upādisesa 显然不是尘世物质残余的技术性概念，而是指不净残余的伦理意义。
+Warren 对此有所误解［第 373 页?］。 〔[Q·N：Warren, Buddhism in Translations (1896), p.373［页码疑读］；Lovejoy 在此反驳其对 upādisesa 的处理](research_notes/MS38_004_source_uptake_map_v7.csv)〕这里的 upādisesa 显然不是尘世物质残余的技术性概念，而是指不净残余的伦理意义。 〔[Q·D：Oldenberg, Buddha (1882), pp.427–438，尤其 p.433ff.；Lovejoy (1898), pp.133–136 重估并补充文本用例](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕
 
 **Uncertain readings / 疑难读法:** opening etymological phrase; first Sutta reference and exact poisoned-arrow terminology; Majjhima-Nikāya section number; Warren page number
 
@@ -1863,7 +1865,7 @@ Warren 对此有所误解［第 373 页?］。这里的 upādisesa 显然不是�
 
 [Continuation:] ‘residuum of impurity.’
 
-Quotation. Sutta Nip. I.5 [?].
+Quotation. Sutta Nip. I.5 [?]. 〔[Q·N：Sutta-Nipāta I.5［定位仍有疑读］；属于 Lovejoy 的直接经文检验，不能擅自补全篇章编号](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕
 
 Pali line: ‘Yo nāma bhavesu sāraṃ …’ [partly illegible].
 
@@ -1875,7 +1877,7 @@ Miln.: ‘He sees all this is false.’
 
 ［接上页：］「不净的残余。」
 
-引文。《经集》Ⅰ，5［?］。
+引文。《经集》Ⅰ，5［?］。 〔[Q·N：Sutta-Nipāta I.5［定位仍有疑读］；属于 Lovejoy 的直接经文检验，不能擅自补全篇章编号](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕
 
 巴利文：「Yo nāma bhavesu sāraṃ……」［部分难辨。］
 
@@ -1901,7 +1903,7 @@ So also Saṁy.-Nik. 22.121 [?]. Cf. also Saṁy.-Nik. 22.32, where the upādān
 
 Sutta Nip. ‘No more, 5 — Birth has been destroyed’ [p. 15?].
 
-The word upādisesa occurs once in Sutta-Nipāta (p. 135 [?]) in a Pali passage beginning ‘evaṁ … bhikkhuno …’; here it is applied to the anāgāmin. A synonymous / related form occurs once [reference v. 876?], and a negative form anupādisesa occurs in another verse.
+The word upādisesa occurs once in Sutta-Nipāta (p. 135 [?]) 〔[Q·D：Sutta-Nipāta 用例与 Oldenberg (1882), pp.427–438；Lovejoy (1898), pp.134–136 继续检验其伦理语义](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕 in a Pali passage beginning ‘evaṁ … bhikkhuno …’; here it is applied to the anāgāmin. A synonymous / related form occurs once [reference v. 876?], and a negative form anupādisesa occurs in another verse.
 
 Pali verse [partly illegible], followed by Lovejoy’s translation:
 ‘Thus some paṇḍits say that the chief thing in this world is the purification of the demons; others, again, say that religious observances (? samayaṃ) are the …’
@@ -1917,7 +1919,7 @@ Pali verse [partly illegible], followed by Lovejoy’s translation:
 
 《经集》：「不再……5，生已经被摧毁。」［第 15 页?］
 
-upādisesa 一词在《经集》中出现一次［第 135 页?］，所在巴利文段落以「evaṃ……bhikkhuno……」开头；这里指的是不还者。另有一个同义或相关形式出现一次［第 876 偈?］；否定形式 anupādisesa 则出现在另一首偈颂中。
+upādisesa 一词在《经集》中出现一次［第 135 页?］，所在巴利文段落以「evaṃ……bhikkhuno……」开头；这里指的是不还者。 〔[Q·D：Sutta-Nipāta 用例与 Oldenberg (1882), pp.427–438；Lovejoy (1898), pp.134–136 继续检验其伦理语义](research_notes/lovejoy_as_orientalist_web_sweep_batch40_004_upadisesa_Oldenberg_to_Lovejoy_recomposition.md)〕另有一个同义或相关形式出现一次［第 876 偈?］；否定形式 anupādisesa 则出现在另一首偈颂中。
 
 巴利文偈颂［部分难辨］，之后是 Lovejoy 的翻译：
 「有些智者说，这个世界上最重要的事情是净化恶魔；另一些人则说，宗教仪式［samayaṃ?］才是……」
@@ -1934,22 +1936,22 @@ upādisesa 一词在《经集》中出现一次［第 135 页?］，所在巴利
 [Translation continued:]
 ‘… chief thing; but the truly wise say that it is in the condition of being anupādisesa.’
 
-No one familiar with Buddhist modes of thought could suppose that anupādisesa here meant the extinction of the skandhas, i.e. physical death. To the being who has been freed from desire it is indifferent whether he dies or lives; to speak of death as the summum bonum would be the most un-Buddhistic of sentiments.
+No one familiar with Buddhist modes of thought could suppose that anupādisesa here meant the extinction of the skandhas, i.e. 〔[Q·D：Lovejoy, “The Buddhistic Technical Terms upādāna and upādisesa,” JAOS 19 (1898), p.135；与手稿近乎逐字对应](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕 physical death. To the being who has been freed from desire it is indifferent whether he dies or lives; to speak of death as the summum bonum would be the most un-Buddhistic of sentiments.
 
 Clearly, the word anupādisesa here means the moral condition of being freed from attachment. It is to be understood as freedom from attachment rather than as ritual observance / superstition.
 
-Thus, in the three passages of the Sutta-Nipāta in which the word upādisesa occurs, it clearly does not refer to the persistence of the five skandhas, but to an ethical condition. When used positively it is applied to the anāgāmin, in whom a small residue of sinful nature still remains; when used negatively it applies to the Arahat, whether before or after his physical death.
+Thus, in the three passages of the Sutta-Nipāta in which the word upādisesa occurs, it clearly does not refer to the persistence of the five skandhas, but to an ethical condition. 〔[Q·D：Lovejoy (1898), pp.135–136；刊本补充 “relevant but not necessarily conclusive”及未决反例](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕 When used positively it is applied to the anāgāmin, in whom a small residue of sinful nature still remains; when used negatively it applies to the Arahat, whether before or after his physical death.
 
 **Chinese translation / 中文译文**
 
 ［译文接上页：］
 「……最重要的事情；但真正明智的人说，最重要的是达到 anupādisesa 的状态。」
 
-任何熟悉佛教思想方式的人，都不会认为这里的 anupādisesa 指诸蕴的灭尽，也就是生理死亡。对已经摆脱欲望的存在者来说，生与死没有区别；把死亡描述为至高之善，反而是最不符合佛教精神的说法。
+任何熟悉佛教思想方式的人，都不会认为这里的 anupādisesa 指诸蕴的灭尽，也就是生理死亡。 〔[Q·D：Lovejoy, “The Buddhistic Technical Terms upādāna and upādisesa,” JAOS 19 (1898), p.135；与手稿近乎逐字对应](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕对已经摆脱欲望的存在者来说，生与死没有区别；把死亡描述为至高之善，反而是最不符合佛教精神的说法。
 
 显然，这里的 anupādisesa 指脱离执着的伦理状态。它应理解为摆脱执取，而不是遵守仪式或迷信。
 
-因此，在《经集》中 upādisesa 出现的三处段落里，这个词显然都不是指五蕴是否持续存在，而是指某种伦理状态。肯定形式用于不还者，他身上仍残留少量罪性；否定形式则用于阿罗汉，无论是在其生理死亡之前还是之后。
+因此，在《经集》中 upādisesa 出现的三处段落里，这个词显然都不是指五蕴是否持续存在，而是指某种伦理状态。 〔[Q·D：Lovejoy (1898), pp.135–136；刊本补充 “relevant but not necessarily conclusive”及未决反例](research_notes/JHI_blog_publication_grade_source_lock_Warren_Senart_upadisesa_2026-08-20.md)〕肯定形式用于不还者，他身上仍残留少量罪性；否定形式则用于阿罗汉，无论是在其生理死亡之前还是之后。
 
 **Uncertain readings / 疑难读法:** one sentence contrasting attachment with religious observance / superstition
 
@@ -1962,13 +1964,13 @@ Thus, in the three passages of the Sutta-Nipāta in which the word upādisesa oc
 
 Upādhi. v. B. dict. 598 [?].
 
-Buddhaghosa’s commentary on Dh. 89 (Fausbøll ed. p. 278 [?]) is copied in Pali. It distinguishes parinibbuta in relation to the destruction of kilesa and the ending of the khandhas, using both sa-upādisesa and anupādisesa formulations.
+Buddhaghosa’s commentary on Dh. 89 (Fausbøll ed. p. 278 [?] 〔[Q·N：V. Fausbøll 编本／Buddhaghosa 对 Dhammapada 89 的注释，第 278 页［疑读］；页码与版本仍须对原书确认](research_notes/MS38_004_source_uptake_map_v7.csv)〕) is copied in Pali. It distinguishes parinibbuta in relation to the destruction of kilesa and the ending of the khandhas, using both sa-upādisesa and anupādisesa formulations.
 
 Lovejoy’s gloss: parinibbāna may be spoken of from the attainment of Arahatship, by means of having put an end to the productive desire, and also by the extinction of the remaining conditions in which upādhi remains, as well as in the state in which no upādhi remains.
 
 MP. Text-criticism.
 
-Of the two Chinese versions, the earlier does not seem to go much further than vol. I, p. 99 (just where the Pali text remarks, ‘Here end the questions by Milinda’ [?]); the latter, though it goes beyond this point, apparently stops at vol. I, p. 114. But Rhys Davids argues that so elaborate an introduction would hardly have been written to so small a text — 39 pages — and more must once have belonged to it.
+Of the two Chinese versions, the earlier does not seem to go much further than vol. I, p. 99 (just where the Pali text remarks, ‘Here end the questions by Milinda’ [?]); the latter, though it goes beyond this point, apparently stops at vol. I, p. 114. 〔[Q·N：Rhys Davids 关于 Milindapañha 两种汉译本与巴利文本范围的论证；具体刊本待进一步锁定](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕 But Rhys Davids argues that so elaborate an introduction would hardly have been written to so small a text — 39 pages — and more must once have belonged to it.
 
 [Lower-right note:] ‘production of khandhas’ — by the two destructions / two Nirvāṇas, one is extinguished, being free from upādāna, like a lamp that has gone out. Two points are then to be noted, continued next page.
 
@@ -1976,13 +1978,13 @@ Of the two Chinese versions, the earlier does not seem to go much further than v
 
 余依（Upādhi）。参见 B. 词典，第 598 页［?］。
 
-抄录 Buddhaghosa 对《法句经》第 89 偈的巴利文注释，Fausbøll 编本第 278 页［?］。这段注释借助 sa-upādisesa 与 anupādisesa 两种说法，区分烦恼的消除与诸蕴终止，并据此讨论 parinibbuta。
+抄录 Buddhaghosa 对《法句经》第 89 偈的巴利文注释，Fausbøll 编本第 278 页［?］。 〔[Q·N：V. Fausbøll 编本／Buddhaghosa 对 Dhammapada 89 的注释，第 278 页［疑读］；页码与版本仍须对原书确认](research_notes/MS38_004_source_uptake_map_v7.csv)〕这段注释借助 sa-upādisesa 与 anupādisesa 两种说法，区分烦恼的消除与诸蕴终止，并据此讨论 parinibbuta。
 
 Lovejoy 的解释：当阿罗汉果位已经达到、导致再生的欲望已经终止时，就可以说进入般涅槃；当仍有 upādhi 残留的条件熄灭时，或者进入完全没有 upādhi 残留的状态时，也同样可以使用这个说法。
 
 《弥兰陀问经》。文本校勘。
 
-在两个汉译本中，较早的版本似乎只到第一卷第 99 页左右；那里恰好出现「弥兰陀的提问到此结束」［?］的说明。较晚的译本虽然超出这一点，却显然在第一卷第 114 页停止。不过 Rhys Davids 认为，如此详尽的导论，不太可能是为一部只有 39 页的短文本写作的，因此原本必然还有更多内容。
+在两个汉译本中，较早的版本似乎只到第一卷第 99 页左右；那里恰好出现「弥兰陀的提问到此结束」［?］的说明。 〔[Q·N：Rhys Davids 关于 Milindapañha 两种汉译本与巴利文本范围的论证；具体刊本待进一步锁定](research_notes/JHI_blog_004_relation_type_inventory_Warren_method_2026-08-20.md)〕较晚的译本虽然超出这一点，却显然在第一卷第 114 页停止。不过 Rhys Davids 认为，如此详尽的导论，不太可能是为一部只有 39 页的短文本写作的，因此原本必然还有更多内容。
 
 ［右下方笔记：］「诸蕴的产生」：通过两种消除或两种涅槃，其中一种被熄灭；它脱离 upādāna，就像一盏熄灭的灯。另有两点需要注意，续下页。
 
@@ -2003,7 +2005,7 @@ The cessation / non-production of new khandhas is connected with the sa-upādise
 
 The point of the two words is that they are used for two classes of men whose merit / attainment is so great that they will never be born again in this world of the khandhas; one class will be reborn only in the Brahma heaven; the Arahat will not be reborn at all. Neither word has any reference to the extinction of the present khandhas, but both indicate the cessation of the causal influence — desire or attachment — which could produce future rebirth.
 
-Original Elements.
+Original Elements. 〔[Q·A：与 1901 四讲佛教哲学提纲的 “Two Essential Formulas of Buddhism”结构高度对应；讲义实物未见](research_notes/MS38_004_to_1901_Buddhism_syllabus_lecture_concordance_batch117.csv)〕
 1. Conception of Flux as the reason for Suffering (= 3 Characteristics).
 2. Formula of Dependent Origination.
 
@@ -2022,7 +2024,7 @@ Derived Elements.
 
 这两个词的关键在于，它们用于两类人：其功德或修行成就已经达到一定程度，因此永远不会再出生于这个由诸蕴组成的世界。其中一类人只会在梵天界再生；阿罗汉则完全不会再生。两个词都与现有诸蕴是否灭尽无关，而是表示能够造成未来再生的因果力量，也就是欲望或执取，已经终止。
 
-原有成分。
+原有成分。 〔[Q·A：与 1901 四讲佛教哲学提纲的 “Two Essential Formulas of Buddhism”结构高度对应；讲义实物未见](research_notes/MS38_004_to_1901_Buddhism_syllabus_lecture_concordance_batch117.csv)〕
 1. 把流变理解为痛苦之所以产生的原因，等同于三法印。
 2. 缘起公式。
 
@@ -2048,7 +2050,7 @@ Saṁy. 22.59.23 [?]: while this exposition was being preached by the Blessed On
 
 Saṁy. 22.63: ‘Clinging to the skandhas, man is bound by Māra; but by not clinging one is released from the Evil One / Māra.’
 
-Khandha-Saṁyutta. References to Warren p. 487 and Childers; form-group = rūpakkhandha, derivative form = upādāya-rūpa [?]. [Bibliographic note partly illegible.]
+Khandha-Saṁyutta. References to Warren p. 487 and Childers; form-group = rūpakkhandha, derivative form = upādāya-rūpa [?]. 〔[Q·N：Warren, Buddhism in Translations (1896), p.487，与 Childers 词典；并置来源由手稿直接给出](research_notes/MS38_004_source_uptake_map_v7.csv)〕 [Bibliographic note partly illegible.]
 
 Upādānaṃ. Saṁy. 22.77, 8 + 10 [?]:
 ‘Thus hearing the doctrine, the disciple feels disgust at the skandhas; feeling displeased / disgusted, he becomes free from passion; when he is thus freed, the consciousness arises: I am freed.’
@@ -2063,7 +2065,7 @@ Upādānaṃ. Saṁy. 22.77, 8 + 10 [?]:
 
 《相应部》22，63：「执着诸蕴，人就被魔罗束缚；不再执着，人就从恶者或魔罗那里获得解脱。」
 
-《蕴相应》。参见 Warren 第 487 页及 Childers；色组＝rūpakkhandha，派生色＝upādāya-rūpa［?］。［书目笔记部分难辨。］
+《蕴相应》。参见 Warren 第 487 页及 Childers；色组＝rūpakkhandha，派生色＝upādāya-rūpa［?］。 〔[Q·N：Warren, Buddhism in Translations (1896), p.487，与 Childers 词典；并置来源由手稿直接给出](research_notes/MS38_004_source_uptake_map_v7.csv)〕［书目笔记部分难辨。］
 
 执取。《相应部》22，77，8＋10［?］：
 「弟子如此听闻教义，便对诸蕴生起厌离；由于厌离，他摆脱贪染；当他如此解脱时，便生起这样的意识：我已经解脱。」
@@ -2082,7 +2084,7 @@ Upādāna etc.
 Saṁy. 23.8.5 [?]:
 ‘Then, O Rādha, a monk, seeing the origin of the five upādānakkhandhas and their destruction, and the taste of them and their extinction as they really are, being free from attachment, becomes released — that monk is called the Arahat, one who has destroyed the āsavas.’
 
-Dhammapada 89 [?]. Pali verse beginning ‘Ādānapaṭinissagga … ye ratā …’ [partly legible]. Lovejoy’s gloss: those who delight in freedom from taking/grasping, free from upādāna and craving, enter Nibbāna. Buddhaghosa annotation follows.
+Dhammapada 89 [?]. Pali verse beginning ‘Ādānapaṭinissagga … ye ratā …’ [partly legible]. Lovejoy’s gloss: those who delight in freedom from taking/grasping, free from upādāna and craving, enter Nibbāna. Buddhaghosa annotation follows. 〔[Q·N：Buddhaghosa／Dhammapada 89 注释，与 p.67 所引 Fausbøll 编本相关；具体传递路径和页码待核](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 Passages referred to:
 Sutta Piṭaka — [several Sutta references: 9; I.1; 13; II.2; II.3 etc.]
@@ -2098,7 +2100,7 @@ Heading for next material: Dhammapada.
 《相应部》23，8，5［?］：
 「罗陀，当比丘如实看见五取蕴的生起与毁灭，看见其滋味与灭尽，并摆脱执取而获得解脱时，这位比丘就被称为阿罗汉，也就是已经摧毁诸漏的人。」
 
-《法句经》第 89 偈［?］。巴利文偈颂以「Ādānapaṭinissagga……ye ratā……」开头［部分可辨］。Lovejoy 解释为：那些乐于摆脱抓取、脱离执取与渴求的人，进入涅槃。接着是 Buddhaghosa 的注释。
+《法句经》第 89 偈［?］。巴利文偈颂以「Ādānapaṭinissagga……ye ratā……」开头［部分可辨］。Lovejoy 解释为：那些乐于摆脱抓取、脱离执取与渴求的人，进入涅槃。接着是 Buddhaghosa 的注释。 〔[Q·N：Buddhaghosa／Dhammapada 89 注释，与 p.67 所引 Fausbøll 编本相关；具体传递路径和页码待核](research_notes/MS38_004_source_uptake_map_v7.csv)〕
 
 所引段落：
 《经藏》：［多条经文出处，包括 9、Ⅰ.1、13、Ⅱ.2、Ⅱ.3 等。］
@@ -2206,10 +2208,10 @@ A. O. 洛夫乔伊
 Bibliography
 
 W. Wyatt Gill: Myths & Songs of the S. Pacific
-Brough Smyth: Aborigines of Australia
+Brough Smyth: Aborigines of Australia 〔[Q·N：R. Brough Smyth, The Aborigines of Victoria／相关澳大利亚材料；具体版本待核](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕
 [?]: Samoa
-Codrington: The Melanesians
-Duff MacDonald: Africana
+Codrington: The Melanesians 〔[Q·N：R. H. Codrington, The Melanesians；手稿书目直接列名](research_notes/Lovejoy_Codrington_page_function_migration_batch104.csv)〕
+Duff MacDonald: Africana 〔[Q·N：Duff MacDonald, Africana；手稿直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 Rink: Tales & Traditions of F. Eskimo
 
 Reading:
@@ -2220,10 +2222,10 @@ Reading:
 参考书目。
 
 W. Wyatt Gill：《南太平洋的神话与歌谣》。
-Brough Smyth：《澳大利亚原住民》。
+Brough Smyth：《澳大利亚原住民》。 〔[Q·N：R. Brough Smyth, The Aborigines of Victoria／相关澳大利亚材料；具体版本待核](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕
 ［?］：《萨摩亚》。
-Codrington：《美拉尼西亚人》。
-Duff MacDonald：《非洲资料》。
+Codrington：《美拉尼西亚人》。 〔[Q·N：R. H. Codrington, The Melanesians；手稿书目直接列名](research_notes/Lovejoy_Codrington_page_function_migration_batch104.csv)〕
+Duff MacDonald：《非洲资料》。 〔[Q·N：Duff MacDonald, Africana；手稿直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 Rink：《因纽特人的故事与传统》。
 
 阅读：
@@ -2240,7 +2242,7 @@ Rink：《因纽特人的故事与传统》。
 
 [heading / page label uncertain]
 
-F. [future] life by little & little [develops?]; ideas of reward [and/or] moral ideas in F. world gradually get transferred to, or supplemented in, another world whose existence is already believed in.
+F. [future] life by little & little [develops?]; ideas of reward [and/or] moral ideas in F. world gradually get transferred to, or supplemented in, another world whose existence is already believed in. 〔[Q·C：Marillier, La survivance de l’âme et l’idée de justice, pp.1–46；来世与正义关系的直接问题背景，不等于逐字抄录](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕
 
 But what is meant by moral notions? They certainly do not apply to all F. distinctions wh. savage [mind makes]. Thus when we find A. F. rich in F. next life are still rich, we cannot call A. [continuance] a case of recompense for virtue. Only when F. reward or punishment is applied as a result of [retributive] justice in F. life, wh. tells them both to have been [punished] or rewarded. So are we to make a distinction bet. real & supernatural qualities of F. savage man. Such a distinction does not exist for F. savage mind.
 
@@ -2248,7 +2250,7 @@ But what is meant by moral notions? They certainly do not apply to all F. distin
 
 ［标题或页码不确定。］
 
-来世观念一点一点地［发展?］；今世关于报偿或道德的观念，逐渐转移到另一个已经被认为确实存在的世界，或者在那里获得补充。
+来世观念一点一点地［发展?］；今世关于报偿或道德的观念，逐渐转移到另一个已经被认为确实存在的世界，或者在那里获得补充。 〔[Q·C：Marillier, La survivance de l’âme et l’idée de justice, pp.1–46；来世与正义关系的直接问题背景，不等于逐字抄录](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕
 
 但是，「道德观念」究竟是什么意思？它显然不适用于所谓「野蛮人」［原作者的历史分类词］所作的一切区分。例如，当我们发现，今世的富人在来世仍然富有时，不能把这种［延续］称为对美德的报偿。只有当奖赏或惩罚被理解为今世行为所引发的［报应性］正义时，才涉及真正的道德判断。我们是否应当区分所谓「野蛮人」的现实性质与超自然性质？对于被如此描述的人群来说，这种区分本身并不存在。
 
@@ -2261,13 +2263,13 @@ But what is meant by moral notions? They certainly do not apply to all F. distin
 
 **English transcription / 英文转录**
 
-Tre is no diff. bet. before [philos.?] strength of one man & F. superior control over nature of another. Both endowments are equally natural, or supernatural, if you will. It is common among savages to regard both as then reflected, reflected in F. life after death. F. man who was a prince remains a prince; therefore no moral notion here. As little is tre belief A. F. man who has magical power in life will have magical power beyond F. grave. What a man is A. he [remains].
+Tre is no diff. bet. before [philos.?] strength of one man & F. superior control over nature of another. Both endowments are equally natural, or supernatural, if you will. 〔[Q·A：Lovejoy 区分自然能力、超自然能力与道德判断；属于分析性重组](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 It is common among savages to regard both as then reflected, reflected in F. life after death. F. man who was a prince remains a prince; therefore no moral notion here. As little is tre belief A. F. man who has magical power in life will have magical power beyond F. grave. What a man is A. he [remains].
 
 No more again can religious devotion be held to imply an idea of a moral sort. Those who is faithful in sacrifice [etc.] will perhaps be rewarded after death; but he merely means A., e.g., his sacrifices [and] F. god have become [illegible] in a purely quasi-mechanical manner; rites, practically, F. [means] of heaven, &c. So far among savages it might refer to F. future life; implies no judgment. F. last merely A. its victims who have died before him will [illegible].
 
 **Chinese translation / 中文译文**
 
-在［哲学?］思维形成以前，一个人的体力和另一个人控制自然的较强能力之间，并不存在本质差别。如果愿意，也可以说两种禀赋同样是自然的，或者同样是超自然的。所谓「野蛮人」通常认为，两者都会反映在死后的生活中：生前是王侯的人，死后仍然是王侯；因此，这里没有道德观念。同样，认为生前拥有魔力的人，坟墓之外依然拥有魔力，也不涉及道德。一个人生前是什么，他死后［仍然如此］。
+在［哲学?］思维形成以前，一个人的体力和另一个人控制自然的较强能力之间，并不存在本质差别。如果愿意，也可以说两种禀赋同样是自然的，或者同样是超自然的。 〔[Q·A：Lovejoy 区分自然能力、超自然能力与道德判断；属于分析性重组](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕所谓「野蛮人」通常认为，两者都会反映在死后的生活中：生前是王侯的人，死后仍然是王侯；因此，这里没有道德观念。同样，认为生前拥有魔力的人，坟墓之外依然拥有魔力，也不涉及道德。一个人生前是什么，他死后［仍然如此］。
 
 宗教虔诚也不必然意味着道德性观念。忠实履行献祭等仪式的人，死后或许会得到奖赏；但这可能只是意味着，献祭与神祇之间通过一种近似机械的方式形成关联，仪式实际上成为进入天堂等境界的手段。就所谓「野蛮人」关于来世的观念而言，这仍不意味着道德审判。最后一种情况只是说，先于此人死亡的受害者会［难辨］。
 
@@ -2282,7 +2284,7 @@ No more again can religious devotion be held to imply an idea of a moral sort. T
 
 [continuation]
 
-[beyond F. grave] will prove hostile on his voyage to F. land of F. dead. F. citations given in M. Surviv. F. idea is one of simple & direct vengeance; [several words illegible]. And finally where tre is punishment by F. gods, [the idea remains] in large part natural [rather than moral].
+[beyond F. grave] will prove hostile on his voyage to F. land of F. dead. F. citations given in M. Surviv. 〔[Q·D：Marillier, La survivance de l’âme et l’idée de justice；手稿直接以作者与题名缩写指认](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕 F. idea is one of simple & direct vengeance; [several words illegible]. And finally where tre is punishment by F. gods, [the idea remains] in large part natural [rather than moral].
 
 But while F. other [feature?] is a [different] one, it is not probable A. copy of F. terrestrial world of today but of yesterday; the morality supposed to be reigning there is commonly a little traditional & obsolete.
 
@@ -2292,7 +2294,7 @@ Such is F. general outline of views F. held w. [respect to] F. future life.
 
 ［接上页。］
 
-［在坟墓之外］，他们会在他前往亡者之地的旅程中表现出敌意。相关引文见 M.《存续》［缩写文献］。这里的观念只是简单而直接的复仇。［数词难辨。］最后，即使存在神祇的惩罚，这种观念也在很大程度上仍属于自然性的，而非道德性的。
+［在坟墓之外］，他们会在他前往亡者之地的旅程中表现出敌意。相关引文见 M.《存续》［缩写文献］。 〔[Q·D：Marillier, La survivance de l’âme et l’idée de justice；手稿直接以作者与题名缩写指认](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕这里的观念只是简单而直接的复仇。［数词难辨。］最后，即使存在神祇的惩罚，这种观念也在很大程度上仍属于自然性的，而非道德性的。
 
 不过，另一个［特征?］有所不同：来世不太可能是今日尘世的复制品，更可能是昨日尘世的复制品；据说在那里盛行的道德规范，通常略显传统而陈旧。
 
@@ -2309,7 +2311,7 @@ Such is F. general outline of views F. held w. [respect to] F. future life.
 
 Primitive bef. entering F. life.
 
-Cases where F. common people do not survive at all; F. soul [is destroyed?] or are devoured by F. gods. F. fut. destiny depends not exclusively upon condition in life, but also upon F. manner of death — special regions for those who die of suicide, the drowned & women dead in childbirth, &c. The fact we shall see later [in] rites of purification [connected] w. F. surviv.
+Cases where F. common people do not survive at all; F. soul [is destroyed?] or are devoured by F. gods. F. fut. destiny depends not exclusively upon condition in life, but also upon F. manner of death — special regions for those who die of suicide, the drowned & women dead in childbirth, &c. 〔[Q·C：Marillier, Survivance；死亡方式与死后命运的比较框架，不证明逐句借用](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕 The fact we shall see later [in] rites of purification [connected] w. F. surviv.
 
 To be noted A. survivance, rather than immort., is F. [idea] of F. savage. Immort. is almost foreign to his conception; it is not an idea primitive. There is more: in a great number of cases tre is F. belief in a second death, or even in many successive deaths by wh. F. soul gradually dwindles away to F. point of annihilation. V. Surviv. [abbreviated reference], a series of beliefs showing diff. names & of diff. types & gradation.
 
@@ -2317,7 +2319,7 @@ To be noted A. survivance, rather than immort., is F. [idea] of F. savage. Immor
 
 进入来世之前的所谓「原始」观念。
 
-有些情形认为，普通人死后根本不能继续存续；其灵魂［被摧毁?］，或者被诸神吞噬。未来命运不仅取决于生前处境，也取决于死亡方式：自杀者、溺亡者、死于分娩的妇女等，分别有其特殊区域。后面讨论与死后存续有关的净化仪式时，还会看到这一点。
+有些情形认为，普通人死后根本不能继续存续；其灵魂［被摧毁?］，或者被诸神吞噬。未来命运不仅取决于生前处境，也取决于死亡方式：自杀者、溺亡者、死于分娩的妇女等，分别有其特殊区域。 〔[Q·C：Marillier, Survivance；死亡方式与死后命运的比较框架，不证明逐句借用](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕后面讨论与死后存续有关的净化仪式时，还会看到这一点。
 
 需要注意的是，所谓「野蛮人」所拥有的观念，主要是死后「存续」，而不是「不朽」。不朽几乎不属于其概念范围，也不是最早出现的观念。不仅如此，大量案例还相信存在第二次死亡，甚至多次连续死亡；灵魂因此逐渐衰减，最终归于消灭。参见《存续》［缩写文献］，其中列出一系列名称、类型和层级各异的信念。
 
@@ -2335,10 +2337,10 @@ Mor. 23 [?] — Conception of death among peoples.
 Notice, in F. first, F. idea of death appears as a phenomenon entirely natural & necessary. But F. [this is] a product of a long development & does not exist at all among F. great majority of non-civ. peoples. Death is a thing wh. seems to run contrary to F. nature of men & needs to be explained by ref. to some extraordinary & supernatural cause. Thus life is not F. [condition] imposed upon men by F. gods [or] destiny; rather every death requires an explanation in F. special cause — some act of sorcery or whatever it may be.
 
 [Examples / references, partly illegible.]
-Brough Smyth, Aborigines of Australia, p. 428. Personifying death — F. inability to [conceive] of abstract death: death [is] a definite thing wh. kills you.
+Brough Smyth, Aborigines of Australia, p. 428. 〔[Q·D：Brough Smyth，p.428；手稿明确给出对应页码](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 Personifying death — F. inability to [conceive] of abstract death: death [is] a definite thing wh. kills you.
 
 V. [Powell?]: Samoa.
-Codrington: The Melanesians, p. 26 [and following note].
+Codrington: The Melanesians, p. 26 [editorial correction: p. 260; and following note]. 〔[Q·V：Codrington, The Melanesians, p.260；原书与手稿复核，旧转录 p.26 应校正为 p.260](research_notes/Lovejoy_Codrington_page_function_migration_batch104.csv)〕
 
 **Chinese translation / 中文译文**
 
@@ -2347,10 +2349,10 @@ Mor. 23［?］。各民族对死亡的理解。
 首先注意：把死亡视为完全自然且必然的现象，其实是长期发展之后才产生的观念；在绝大多数所谓「非文明」人群中，这种观念并不存在。死亡似乎违背人的本性，因此必须借助某种异常或超自然原因来解释。换句话说，每一次死亡都需要一个具体原因，例如巫术行为，或者其他类似因素。
 
 ［举例及出处，部分难辨。］
-Brough Smyth，《澳大利亚原住民》，第 428 页：死亡被人格化；人们无法［想象］抽象意义上的死亡。死亡是一种具体的、能够杀死你的东西。
+Brough Smyth，《澳大利亚原住民》，第 428 页：死亡被人格化；人们无法［想象］抽象意义上的死亡。 〔[Q·D：Brough Smyth，p.428；手稿明确给出对应页码](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕死亡是一种具体的、能够杀死你的东西。
 
 另见［Powell?］：《萨摩亚》。
-Codrington：《美拉尼西亚人》，第 26 页［及后续笔记］。
+Codrington：《美拉尼西亚人》，第 26 页［编者据原书与手稿复核校正为第 260 页；及后续笔记］。 〔[Q·V：Codrington, The Melanesians, p.260；原书与手稿复核，旧转录 p.26 应校正为 p.260](research_notes/Lovejoy_Codrington_page_function_migration_batch104.csv)〕
 
 **Uncertain readings / 疑难读法:** Heading number/abbreviation.; Several example sentences in lower-left/right margins.; Reference before ‘Samoa’ may not be Powell.
 
@@ -2427,7 +2429,7 @@ Duff MacDonald：《非洲资料》，第 265 页；《消亡的传说》［标�
 
 [One being] comes every night [as / with] a great serpent & [illegible]. [A chief / man] cannot [illegible]. At last [the god / being] gives [illegible], for now men die all F. same.
 
-Hesiod, Works & Days: men were free fr. sickness & death until Prometheus [episode / Pandora]; then Pandora [opened / released] F. [evils] & let loose sickness & death upon F. world.
+Hesiod, Works & Days: men were free fr. 〔[Q·N：Hesiod, Works and Days；手稿直接标明古典文本，具体版本未核](research_notes/lovejoy_orientalist_source_register.csv)〕 sickness & death until Prometheus [episode / Pandora]; then Pandora [opened / released] F. [evils] & let loose sickness & death upon F. world.
 
 American Legends, V. [Brinton?]
 
@@ -2439,7 +2441,7 @@ American Legends, V. [Brinton?]
 
 ［某个存在者］每晚［以一条大蛇的形式出现，或带来一条大蛇］并［难辨］。［一名首领或男子］不能［难辨］。最后［神祇或该存在者］给予［难辨］，因为从那以后，人终究都要死亡。
 
-赫西俄德：《工作与时日》。在普罗米修斯［或潘多拉故事］之前，人没有疾病与死亡；后来潘多拉［打开容器，或释放诸恶］，疾病与死亡由此散布到世界。
+赫西俄德：《工作与时日》。 〔[Q·N：Hesiod, Works and Days；手稿直接标明古典文本，具体版本未核](research_notes/lovejoy_orientalist_source_register.csv)〕在普罗米修斯［或潘多拉故事］之前，人没有疾病与死亡；后来潘多拉［打开容器，或释放诸恶］，疾病与死亡由此散布到世界。
 
 《美洲传说》，参见［Brinton?］。
 
@@ -2456,7 +2458,7 @@ American Legends, V. [Brinton?]
 
 Dec. 14. Conception of fut. destiny among F. Eskimos in Greenland [Egede / source uncertain].
 
-151 — two abodes: pleasant below F. earth & disagreeable in heaven. F. former reserved for F. drowned, for women dying in childbirth, &c. [This] makes up for [what] will not have suffered in F. life. No moral notion is implied at all. For women F. [condition] in F. other world is for a ritual failure [rather than a moral fault]. Indeed, it is not even a punishment for moral negligence; it is only a case of F. absence of [ritual / magical] [qualification]. F. spirit, &c. It is clearly a question magical. (V. [source] about p. 116.)
+151 — two abodes: pleasant below F. earth & disagreeable in heaven. 〔[Q·C：Marillier, Survivance：死者居所、死亡方式与非道德分类；该页所引 Egede 文献仍未锁定](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕 F. former reserved for F. drowned, for women dying in childbirth, &c. [This] makes up for [what] will not have suffered in F. life. No moral notion is implied at all. For women F. [condition] in F. other world is for a ritual failure [rather than a moral fault]. Indeed, it is not even a punishment for moral negligence; it is only a case of F. absence of [ritual / magical] [qualification]. F. spirit, &c. It is clearly a question magical. (V. [source] about p. 116.)
 
 V. Rink, Tales & Traditions of F. Eskimo, traditions on same point (pp. 36–37), p. 40.
 
@@ -2466,7 +2468,7 @@ Conception in general [continues].
 
 12 月 14 日。格陵兰因纽特人对死后命运的理解。［Egede 或其他来源，尚未确定。］
 
-第 151 页：有两个居所，一个位于地下，令人愉快；另一个在天上，令人不快。前者留给溺亡者、死于分娩的妇女等。［这可能补偿］他们今生［所受的苦］。这里完全不包含道德观念。对妇女而言，另一个世界中的处境取决于某种仪式性缺失，而非道德过错。实际上，甚至不能说那是对道德疏忽的惩罚；它只是缺少某种仪式或巫术条件。相关问题显然属于巫术。［参见某来源，大约第 116 页。］
+第 151 页：有两个居所，一个位于地下，令人愉快；另一个在天上，令人不快。 〔[Q·C：Marillier, Survivance：死者居所、死亡方式与非道德分类；该页所引 Egede 文献仍未锁定](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕前者留给溺亡者、死于分娩的妇女等。［这可能补偿］他们今生［所受的苦］。这里完全不包含道德观念。对妇女而言，另一个世界中的处境取决于某种仪式性缺失，而非道德过错。实际上，甚至不能说那是对道德疏忽的惩罚；它只是缺少某种仪式或巫术条件。相关问题显然属于巫术。［参见某来源，大约第 116 页。］
 
 另见 Rink《因纽特人的故事与传统》，同类材料位于第 36—37 页及第 40 页。
 
@@ -2530,14 +2532,14 @@ V. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oc
 [Left page continues examples of divine / supernatural determinants; much is illegible.]
 
 [Conceptual summary on right:]
-1) Heterogeneity. But what is most ‘moral’ [or judicial] in F. [future-life system]? F. determinants of destiny are a jumble of moral & purely supernatural characteristics. F. bad life, a case where F. idea of a retributive fut. life is mixed up in a medley with F. idea of [future life] as merely a direct continuation of F. life (past). Partly it is [the continuity] wh. gives substance to belief in F. life, but partly [there are] accidents / elements [that are] naturalistic, & partly it consists in elements sacerdotal & ritual. A. is the element sacerdotal — F. power of priest to send at pleasure [to one or another destiny].
+1) Heterogeneity. 〔[Q·A：Lovejoy 强调来世决定因素异质性；分析结构不能直接归给 Marillier](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 But what is most ‘moral’ [or judicial] in F. [future-life system]? F. determinants of destiny are a jumble of moral & purely supernatural characteristics. F. bad life, a case where F. idea of a retributive fut. life is mixed up in a medley with F. idea of [future life] as merely a direct continuation of F. life (past). Partly it is [the continuity] wh. gives substance to belief in F. life, but partly [there are] accidents / elements [that are] naturalistic, & partly it consists in elements sacerdotal & ritual. A. is the element sacerdotal — F. power of priest to send at pleasure [to one or another destiny].
 
 **Chinese translation / 中文译文**
 
 ［左页继续列举神祇或超自然力量决定命运的例子，大部分难辨。］
 
 ［右页概念总结：］
-1. 异质性。但是，在这种［来世体系］中，什么才是最具有「道德性」或审判性质的因素？决定命运的条件混杂着道德性质与纯粹超自然的特征。关于死后报偿的观念，与来世只是今世直接延续的观念交织在一起。部分内容来自连续性，由此让来世信念显得具体；部分是偶然性或自然主义要素；还有一部分则是祭司制度和仪式性要素。其中所谓祭司性因素，就是祭司能够随意把人送往不同命运的权力。
+1. 异质性。 〔[Q·A：Lovejoy 强调来世决定因素异质性；分析结构不能直接归给 Marillier](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕但是，在这种［来世体系］中，什么才是最具有「道德性」或审判性质的因素？决定命运的条件混杂着道德性质与纯粹超自然的特征。关于死后报偿的观念，与来世只是今世直接延续的观念交织在一起。部分内容来自连续性，由此让来世信念显得具体；部分是偶然性或自然主义要素；还有一部分则是祭司制度和仪式性要素。其中所谓祭司性因素，就是祭司能够随意把人送往不同命运的权力。
 
 **Uncertain readings / 疑难读法:** Most left-page narrative detail is not safely legible.; Several nouns in the ‘heterogeneity’ analysis are inferred from legible stems and context; retained conservatively.
 
@@ -2552,7 +2554,7 @@ V. Am. Jour. Psy. ‘Old Age & Death’ [?] by Stanley Hall & [Colin Scott?], Oc
 
 [Various determinants of] good or bad future life, & wh. [work] w. simple process [into] another element — all are symptomatic of a broad distinction wh. primitive [thought does not yet make]. We can by an elimination of F. later elements reconstruct F. earliest [form / relation].
 
-1. Naturalistic idea — F. life a pure continuance, determined by degree of [status / power] in this world.
+1. Naturalistic idea — F. life a pure continuance, determined by degree of [status / power] in this world. 〔[Q·A：自然主义—超自然—社会／道德的分层分类，为 Lovejoy 对课堂问题的重组](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕
 2. Ritual element appears — faithfulness in cultivating F. gods produces F. [superiority / advantage] in F. other world.
 3. Here appear F. social [elements] — fidelity to F. community or its associations determines future life.
 4. Social element F. may, as ref. community [??], determine destiny — not F. man himself at all.
@@ -2566,7 +2568,7 @@ Note: F. whole system of ideas given by [Harrison?] — being confused & polymor
 
 造成未来生活幸福或不幸的［各种因素］，以及它们如何通过简单过程形成另一种因素，都表现出一种更宽泛的区分，而所谓「原始」思想［尚未作出］这种区分。我们可以通过排除后出的要素，重建最早的［形式或关系］。
 
-1. 自然主义观念：来世只是今世的直接延续，由今世的地位或能力决定。
+1. 自然主义观念：来世只是今世的直接延续，由今世的地位或能力决定。 〔[Q·A：自然主义—超自然—社会／道德的分层分类，为 Lovejoy 对课堂问题的重组](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕
 2. 仪式要素出现：忠实侍奉诸神，会在另一个世界中带来［优势或较高地位］。
 3. 社会性要素出现：对共同体或所属团体的忠诚，决定未来生活。
 4. 社会性因素也可能依据共同体［??］决定命运，而不完全取决于个人自身。
@@ -2597,11 +2599,11 @@ Note: F. whole system of ideas given by [Harrison?] — being confused & polymor
 
 **English transcription / 英文转录**
 
-Continuation of comparative stages in future-life beliefs. A similar intermediate form occurs in many peoples: the supernatural is an intermediary to the moral. Lovejoy notes that this does not yet correspond to ethical jurisdiction, since destiny is determined by manner of death, manual/ritual acts, and social rather than moral elements. Reference to Nicholson, Memoirs, p. 91, and a narrative of travel among Dakota/Sioux material; missionary influence must be separated from earlier elements.
+Continuation of comparative stages in future-life beliefs. A similar intermediate form occurs in many peoples: the supernatural is an intermediary to the moral. Lovejoy notes that this does not yet correspond to ethical jurisdiction, since destiny is determined by manner of death, manual/ritual acts, and social rather than moral elements. Reference to Nicholson, Memoirs, p. 91, and a narrative of travel among Dakota/Sioux material; missionary influence must be separated from earlier elements. 〔[Q·H：Nicholson, Memoirs, p.91：手稿线索明确，但作者、版本与原文尚未最终锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 〔[Q·D：William H. Keating 等, Narrative of an Expedition to the Source of St. Peter’s River (1824), I, pp.393–394；旧推定 p.343 已被纠正](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕
 
 **Chinese translation / 中文译文**
 
-继续比较来世信仰的发展阶段。许多民族那里都可见一种相似的中间形态：超自然观念充当了通向道德观念的中介。但 Lovejoy 指出，这尚不等同于伦理裁判，因为死者的命运仍取决于死亡方式、手工或仪式行为，以及社会性而非道德性的因素。此处参见 Nicholson《回忆录》第 91 页及有关 Dakota/Sioux 的旅行记述；必须把传教士影响同较早的成分区分开来。
+继续比较来世信仰的发展阶段。许多民族那里都可见一种相似的中间形态：超自然观念充当了通向道德观念的中介。但 Lovejoy 指出，这尚不等同于伦理裁判，因为死者的命运仍取决于死亡方式、手工或仪式行为，以及社会性而非道德性的因素。此处参见 Nicholson《回忆录》第 91 页及有关 Dakota/Sioux 的旅行记述；必须把传教士影响同较早的成分区分开来。 〔[Q·H：Nicholson, Memoirs, p.91：手稿线索明确，但作者、版本与原文尚未最终锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 〔[Q·D：William H. Keating 等, Narrative of an Expedition to the Source of St. Peter’s River (1824), I, pp.393–394；旧推定 p.343 已被纠正](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2612,11 +2614,11 @@ Continuation of comparative stages in future-life beliefs. A similar intermediat
 
 **English transcription / 英文转录**
 
-Discussion of suicide and other forms of death. Lovejoy asks whether apparent moral change may arise through natural evolution of ideas or missionary influence. In the example, most go to a better world except those violating custom or committing suicide. He stresses that violation of custom/taboo or ritual interdict is not itself equivalent to violation of a moral order.
+Discussion of suicide and other forms of death. Lovejoy asks whether apparent moral change may arise through natural evolution of ideas or missionary influence. 〔[Q·C：Marillier 与 Keating 均涉及传教士接触对材料可靠性的影响；不能据此证明 Lovejoy 读过 Mauss 的平行讨论](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 In the example, most go to a better world except those violating custom or committing suicide. He stresses that violation of custom/taboo or ritual interdict is not itself equivalent to violation of a moral order.
 
 **Chinese translation / 中文译文**
 
-讨论自杀及其他死亡方式。Lovejoy 追问：材料中表面的道德化变化，究竟来自观念的自然演进，还是传教士的影响？在这个例子里，除违反习俗或自杀者外，多数人都会前往一个更好的世界。他强调，违反习俗、禁忌或仪式禁令，本身并不等于违反一种道德秩序。
+讨论自杀及其他死亡方式。Lovejoy 追问：材料中表面的道德化变化，究竟来自观念的自然演进，还是传教士的影响？ 〔[Q·C：Marillier 与 Keating 均涉及传教士接触对材料可靠性的影响；不能据此证明 Lovejoy 读过 Mauss 的平行讨论](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕在这个例子里，除违反习俗或自杀者外，多数人都会前往一个更好的世界。他强调，违反习俗、禁忌或仪式禁令，本身并不等于违反一种道德秩序。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2627,11 +2629,11 @@ Discussion of suicide and other forms of death. Lovejoy asks whether apparent mo
 
 **English transcription / 英文转录**
 
-Reason for placing suicide among deaths leading to punishment is not necessarily moral. It may indicate social hypotheses or obligations. Criminality of suicide may arise from solidarity of clan: whether one kills another or oneself, one strikes at the clan through one of its members. Punishment is exclusion from social and religious rights/connections; the suicide is already outside the clan and cannot bring blood into immediate contact. Note: in future life suicides may live in a separate village away from the others.
+Reason for placing suicide among deaths leading to punishment is not necessarily moral. It may indicate social hypotheses or obligations. Criminality of suicide may arise from solidarity of clan: whether one kills another or oneself, one strikes at the clan through one of its members. 〔[Q·A：Lovejoy 用氏族团结解释自杀禁忌，区分社会制裁与道德审判](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Punishment is exclusion from social and religious rights/connections; the suicide is already outside the clan and cannot bring blood into immediate contact. Note: in future life suicides may live in a separate village away from the others.
 
 **Chinese translation / 中文译文**
 
-把自杀列入会受惩罚的死亡类别，其理由未必是道德性的；它可能反映的是社会性的假设或义务。自杀之所以被视为犯罪，或许源自氏族团结：无论杀死他人还是杀死自己，都是通过伤害氏族成员而打击氏族。惩罚表现为被排除在社会和宗教权利或联系之外；自杀者已经置身氏族之外，因而不能让血直接进入氏族关系。附记：在来世，自杀者可能住在远离其他死者的独立村落。
+把自杀列入会受惩罚的死亡类别，其理由未必是道德性的；它可能反映的是社会性的假设或义务。自杀之所以被视为犯罪，或许源自氏族团结：无论杀死他人还是杀死自己，都是通过伤害氏族成员而打击氏族。 〔[Q·A：Lovejoy 用氏族团结解释自杀禁忌，区分社会制裁与道德审判](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕惩罚表现为被排除在社会和宗教权利或联系之外；自杀者已经置身氏族之外，因而不能让血直接进入氏族关系。附记：在来世，自杀者可能住在远离其他死者的独立村落。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2642,11 +2644,11 @@ Reason for placing suicide among deaths leading to punishment is not necessarily
 
 **English transcription / 英文转录**
 
-But in later periods, under influence of moral conceptions infiltrating from a higher stage of culture or through contact, suicide may fall into a place where special punishment is undergone. Another test: Murray, Travels in North America, vol. I, on Pawnees and a happy hunting ground. Lovejoy warns that 1819-era statements may be profoundly suspect because of missionary influence; provenance and chronology of ethnographic testimony must be kept in mind.
+But in later periods, under influence of moral conceptions infiltrating from a higher stage of culture or through contact, suicide may fall into a place where special punishment is undergone. Another test: Murray, Travels in North America, vol. I, on Pawnees and a happy hunting ground. 〔[Q·N：Charles Augustus Murray, Travels in North America, I；手稿直接列名，具体版本与引文页码仍待核](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 Lovejoy warns that 1819-era statements may be profoundly suspect because of missionary influence; provenance and chronology of ethnographic testimony must be kept in mind. 〔[Q·H：Samuel Farmar Jarvis 为可能的 1819 年文献背景，尚无充分证据确认具体文本](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕
 
 **Chinese translation / 中文译文**
 
-不过在较晚时期，随着更高文化阶段的道德观念渗入，或通过文化接触，自杀者可能被安排到承受特殊惩罚的地方。另一条材料见 Murray《北美旅行》第一卷，涉及 Pawnee 人与“快乐猎场”。Lovejoy 警告，约 1819 年的陈述可能因传教士影响而极不可靠；必须留意民族志证言的来源与年代。
+不过在较晚时期，随着更高文化阶段的道德观念渗入，或通过文化接触，自杀者可能被安排到承受特殊惩罚的地方。另一条材料见 Murray《北美旅行》第一卷，涉及 Pawnee 人与“快乐猎场”。 〔[Q·N：Charles Augustus Murray, Travels in North America, I；手稿直接列名，具体版本与引文页码仍待核](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕Lovejoy 警告，约 1819 年的陈述可能因传教士影响而极不可靠；必须留意民族志证言的来源与年代。 〔[Q·H：Samuel Farmar Jarvis 为可能的 1819 年文献背景，尚无充分证据确认具体文本](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2657,11 +2659,11 @@ But in later periods, under influence of moral conceptions infiltrating from a h
 
 **English transcription / 英文转录**
 
-Methodological note on introduction of the moral/social element into eschatology by diffusion of ideas from more developed peoples. Half-moral character of the notion: manner in which a corpse enters the future world is determined by its evil action or by ritual/manual causes; the afterlife does not become moral until fate/punishment/reward depends on desert. Right page: future-life idea still shows physical character. References include Radcliffe-Brown, Howitt, and other Australian material; spirit-animals and walking/dead-body conceptions are treated as bodily or quasi-physical continuities.
+Methodological note on introduction of the moral/social element into eschatology by diffusion of ideas from more developed peoples. 〔[Q·C：Marillier, Survivance；道德因素后起与观念传播的论域比较，不等于确证文本传递](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕 Half-moral character of the notion: manner in which a corpse enters the future world is determined by its evil action or by ritual/manual causes; the afterlife does not become moral until fate/punishment/reward depends on desert. Right page: future-life idea still shows physical character. References include Radcliffe-Brown, Howitt, and other Australian material; spirit-animals and walking/dead-body conceptions are treated as bodily or quasi-physical continuities.
 
 **Chinese translation / 中文译文**
 
-方法论笔记：道德或社会因素可能通过较发达民族的观念传播而进入末世论。某些观念只具有半道德性质：尸体以何种方式进入未来世界，可能由死者的恶行决定，也可能由仪式或手工因素决定；只有当命运、惩罚或奖赏取决于应得与否时，来世观才真正成为道德性的。右页指出，未来生命的观念仍具有物质性；所引材料包括 Radcliffe-Brown、Howitt 及其他澳大利亚材料，其中动物精灵、行走的死者或尸体等观念，都被视作肉身或准肉身的延续。
+方法论笔记：道德或社会因素可能通过较发达民族的观念传播而进入末世论。 〔[Q·C：Marillier, Survivance；道德因素后起与观念传播的论域比较，不等于确证文本传递](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕某些观念只具有半道德性质：尸体以何种方式进入未来世界，可能由死者的恶行决定，也可能由仪式或手工因素决定；只有当命运、惩罚或奖赏取决于应得与否时，来世观才真正成为道德性的。右页指出，未来生命的观念仍具有物质性；所引材料包括 Radcliffe-Brown、Howitt 及其他澳大利亚材料，其中动物精灵、行走的死者或尸体等观念，都被视作肉身或准肉身的延续。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2687,11 +2689,11 @@ Setting-sun / primitive-unity discussion. Lovejoy finds it difficult to explain 
 
 **English transcription / 英文转录**
 
-Relation of gods to present life. Lovejoy says the Cheyenne material denies a moral character and shows ritual ideas, while also showing the beginning of access to a happy hunting ground. Entry to heaven may depend on bodily/ritual conditions, including carrying the body or being scalped, rather than ethical merit. Australian reference: belief in happy life in sky; all who die are reunited in future life, with same dress, needs, desires, surroundings, and manner of life.
+Relation of gods to present life. Lovejoy says the Cheyenne material denies a moral character and shows ritual ideas, while also showing the beginning of access to a happy hunting ground. 〔[Q·A：Lovejoy 将仪式条件与伦理功德分开，属于作者自己的证据分类](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Entry to heaven may depend on bodily/ritual conditions, including carrying the body or being scalped, rather than ethical merit. Australian reference: belief in happy life in sky; all who die are reunited in future life, with same dress, needs, desires, surroundings, and manner of life.
 
 **Chinese translation / 中文译文**
 
-关于诸神与现世生活的关系。Lovejoy 认为，Cheyenne 材料否认这种信仰具有道德性质，反而显示出仪式观念；与此同时，其中也出现了进入“快乐猎场”的早期形式。能否进入天堂，可能取决于运送尸体、是否被剥去头皮等肉身或仪式条件，而非伦理功德。澳大利亚材料则说，死者在天空中过幸福生活；所有死者都会在来世重聚，并保留相同的衣着、需要、欲望、环境与生活方式。
+关于诸神与现世生活的关系。Lovejoy 认为，Cheyenne 材料否认这种信仰具有道德性质，反而显示出仪式观念；与此同时，其中也出现了进入“快乐猎场”的早期形式。 〔[Q·A：Lovejoy 将仪式条件与伦理功德分开，属于作者自己的证据分类](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕能否进入天堂，可能取决于运送尸体、是否被剥去头皮等肉身或仪式条件，而非伦理功德。澳大利亚材料则说，死者在天空中过幸福生活；所有死者都会在来世重聚，并保留相同的衣着、需要、欲望、环境与生活方式。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2702,11 +2704,11 @@ Relation of gods to present life. Lovejoy says the Cheyenne material denies a mo
 
 **English transcription / 英文转录**
 
-Only an intensified continuation of this world, where only death is eliminated. What is significant is absence of desert: universal happiness for all is a genuinely naturalistic conception. Weak or unhappy worlds can likewise continue earthly conditions without ethical judgment. Right page: one example where an enemy blocks access to a happy hunting ground to prevent a dangerous man from being a danger there; this is practical hostility, not moral judgment. Marginal note cites A. B. Cross, On the Natives of New South Wales, and comparisons with Brahmanism/Buddhism.
+Only an intensified continuation of this world, where only death is eliminated. What is significant is absence of desert: universal happiness for all is a genuinely naturalistic conception. 〔[Q·C：Marillier 关于来世的延续性与补偿／正义之间的区分；此处措辞为 Lovejoy 的分析表述](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕 Weak or unhappy worlds can likewise continue earthly conditions without ethical judgment. Right page: one example where an enemy blocks access to a happy hunting ground to prevent a dangerous man from being a danger there; this is practical hostility, not moral judgment. Marginal note cites A. B. Cross, On the Natives of New South Wales, and comparisons with Brahmanism/Buddhism.
 
 **Chinese translation / 中文译文**
 
-这只是现世生活的强化延续，唯一被取消的是死亡。关键在于完全没有“应得”观念：人人普遍幸福，是一种真正自然主义的构想。较贫乏或不幸的来世同样可以只是尘世处境的延续，而不涉及伦理审判。右页有一例：敌人阻止某个危险人物进入快乐猎场，为的是免得他在那里继续构成威胁；这是实际敌意，不是道德判断。页边注引用 A. B. Cross《论新南威尔士原住民》，并与婆罗门教和佛教作比较。
+这只是现世生活的强化延续，唯一被取消的是死亡。关键在于完全没有“应得”观念：人人普遍幸福，是一种真正自然主义的构想。 〔[Q·C：Marillier 关于来世的延续性与补偿／正义之间的区分；此处措辞为 Lovejoy 的分析表述](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕较贫乏或不幸的来世同样可以只是尘世处境的延续，而不涉及伦理审判。右页有一例：敌人阻止某个危险人物进入快乐猎场，为的是免得他在那里继续构成威胁；这是实际敌意，不是道德判断。页边注引用 A. B. Cross《论新南威尔士原住民》，并与婆罗门教和佛教作比较。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2717,11 +2719,11 @@ Only an intensified continuation of this world, where only death is eliminated. 
 
 **English transcription / 英文转录**
 
-Belief in relation of spirits to animate human bodies and other objects; spirit as agent making movements. Lovejoy treats some soul conceptions as secondary explanatory devices for physical/mental functions. He argues primitive eschatology contains little moral determination of future life; when moral determination appears it may be a later element. Right page: schematic list of stages/types: separate destinations of dead; special classes of dead; deceased receiving offices/positions; supernatural distinctions not necessarily moral; spirits of dead persons living mostly in same manner as upon earth.
+Belief in relation of spirits to animate human bodies and other objects; spirit as agent making movements. Lovejoy treats some soul conceptions as secondary explanatory devices for physical/mental functions. 〔[Q·A：Lovejoy 对灵魂观念作次生解释功能判断；不是可直接归给某一民族志作者的原句](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 He argues primitive eschatology contains little moral determination of future life; when moral determination appears it may be a later element. Right page: schematic list of stages/types: separate destinations of dead; special classes of dead; deceased receiving offices/positions; supernatural distinctions not necessarily moral; spirits of dead persons living mostly in same manner as upon earth.
 
 **Chinese translation / 中文译文**
 
-讨论精灵与有生命的人体及其他物体之间的关系：精灵被视为造成运动的行动者。Lovejoy 把某些灵魂观念看作对身体或心理功能的次生解释装置。他主张，所谓“原始”末世论几乎不以道德决定来世；道德决定一旦出现，很可能是后起成分。右页列出若干阶段或类型：死者去往不同目的地；某些特殊类别的死者；死者获得职位或地位；超自然区分未必是道德区分；死者的精灵大体仍按生前方式生活。
+讨论精灵与有生命的人体及其他物体之间的关系：精灵被视为造成运动的行动者。Lovejoy 把某些灵魂观念看作对身体或心理功能的次生解释装置。 〔[Q·A：Lovejoy 对灵魂观念作次生解释功能判断；不是可直接归给某一民族志作者的原句](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕他主张，所谓“原始”末世论几乎不以道德决定来世；道德决定一旦出现，很可能是后起成分。右页列出若干阶段或类型：死者去往不同目的地；某些特殊类别的死者；死者获得职位或地位；超自然区分未必是道德区分；死者的精灵大体仍按生前方式生活。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2732,11 +2734,11 @@ Belief in relation of spirits to animate human bodies and other objects; spirit 
 
 **English transcription / 英文转录**
 
-Continuation of classification. I: souls in an abode of the dead are those dying of normal causes and continue terrestrial occupations; destiny is a second life. II: certain spirits receive special status/offices, but not on moral considerations. III: a more clearly distinguished celestial/heavenly place develops, with gods/spirits and moral distinctions beginning to appear. Right page: this second plane is invented as machinery to serve an end, moving beyond purely moral grounds toward a preliminary place of trial; souls are judged according to moral behavior during earthly life. Mukkaals/Muckballs [?] or a lord/king of the dead remains a naturalistic being, formerly author of death.
+Continuation of classification. I: souls in an abode of the dead are those dying of normal causes and continue terrestrial occupations; destiny is a second life. 〔[Q·A：Lovejoy 自行排列非道德—超自然—道德来世类型；与 Marillier 问题框架有关，但不可混同为逐字来源](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 II: certain spirits receive special status/offices, but not on moral considerations. III: a more clearly distinguished celestial/heavenly place develops, with gods/spirits and moral distinctions beginning to appear. Right page: this second plane is invented as machinery to serve an end, moving beyond purely moral grounds toward a preliminary place of trial; souls are judged according to moral behavior during earthly life. Mukkaals/Muckballs [?] or a lord/king of the dead remains a naturalistic being, formerly author of death.
 
 **Chinese translation / 中文译文**
 
-分类续。第一类：因正常原因死亡者的灵魂居于死者住所，继续尘世职业，其命运就是第二次生活。第二类：某些精灵取得特殊身份或职司，但依据并非道德考量。第三类：出现区分更明确的天界或天堂，神与精灵居于其中，道德区分开始显现。右页说，这第二层空间是作为实现某种目的的机制而被创造出来的，并逐渐形成一个预备性的考验之地；灵魂按照尘世生活中的道德行为受审。Mukkaals/Muckballs（？）或死者之主、死者之王仍是一个自然主义存在，过去曾是死亡的制造者。
+分类续。第一类：因正常原因死亡者的灵魂居于死者住所，继续尘世职业，其命运就是第二次生活。 〔[Q·A：Lovejoy 自行排列非道德—超自然—道德来世类型；与 Marillier 问题框架有关，但不可混同为逐字来源](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕第二类：某些精灵取得特殊身份或职司，但依据并非道德考量。第三类：出现区分更明确的天界或天堂，神与精灵居于其中，道德区分开始显现。右页说，这第二层空间是作为实现某种目的的机制而被创造出来的，并逐渐形成一个预备性的考验之地；灵魂按照尘世生活中的道德行为受审。Mukkaals/Muckballs（？）或死者之主、死者之王仍是一个自然主义存在，过去曾是死亡的制造者。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2747,11 +2749,11 @@ Continuation of classification. I: souls in an abode of the dead are those dying
 
 **English transcription / 英文转录**
 
-The author of death and invention of a personal soul: Lovejoy suggests a possible evolutionary sequence from animism, with many souls in each individual, toward a single reasonable soul residing in the head and dominating other functions. Notes on Todes/Briggs, Primitive Races/Tribes [?], and Marshall. Right page: defined idea of hell, but hell may be a place for those excluded for non-moral reasons. Journey to land of the dead includes river/bridge/thread obstacles and trials; heaven may consist in continuation of ordinary satisfactions. Lovejoy emphasizes these motifs can precede ethical eschatology.
+The author of death and invention of a personal soul: Lovejoy suggests a possible evolutionary sequence from animism, with many souls in each individual, toward a single reasonable soul residing in the head and dominating other functions. Notes on Todes/Briggs, Primitive Races/Tribes [?], and Marshall. 〔[Q·N：William E. Marshall, A Phrenologist amongst the Todas；Lovejoy 对材料可靠性表示保留，具体原文位置待核](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 〔[Q·C：Breeks, An Account of the Primitive Tribes and Monuments of the Nilagiris；同一材料群的比较线索，当前页未直接写出 Breeks](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 Right page: defined idea of hell, but hell may be a place for those excluded for non-moral reasons. Journey to land of the dead includes river/bridge/thread obstacles and trials; heaven may consist in continuation of ordinary satisfactions. Lovejoy emphasizes these motifs can precede ethical eschatology.
 
 **Chinese translation / 中文译文**
 
-关于死亡的制造者与人格化灵魂的发明。Lovejoy 提出一种可能的演化序列：从万物有灵论中每个人拥有多个灵魂，发展到一个居于头部、支配其他功能的单一理性灵魂。并记有 Todes/Briggs、《原始种族/部族》（？）及 Marshall 等来源。右页已有明确的地狱观念，但地狱也可能收容因非道德原因被排斥者。通往死者之国的旅程要越过河流、桥梁或细线等障碍并接受考验；天堂则可能只是日常满足的延续。Lovejoy 强调，这些母题可以早于伦理化的末世论。
+关于死亡的制造者与人格化灵魂的发明。Lovejoy 提出一种可能的演化序列：从万物有灵论中每个人拥有多个灵魂，发展到一个居于头部、支配其他功能的单一理性灵魂。并记有 Todes/Briggs、《原始种族/部族》（？）及 Marshall 等来源。 〔[Q·N：William E. Marshall, A Phrenologist amongst the Todas；Lovejoy 对材料可靠性表示保留，具体原文位置待核](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕 〔[Q·C：Breeks, An Account of the Primitive Tribes and Monuments of the Nilagiris；同一材料群的比较线索，当前页未直接写出 Breeks](research_notes/lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md)〕右页已有明确的地狱观念，但地狱也可能收容因非道德原因被排斥者。通往死者之国的旅程要越过河流、桥梁或细线等障碍并接受考验；天堂则可能只是日常满足的延续。Lovejoy 强调，这些母题可以早于伦理化的末世论。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2762,11 +2764,11 @@ The author of death and invention of a personal soul: Lovejoy suggests a possibl
 
 **English transcription / 英文转录**
 
-Continuation of non-moral trials on journey to land of dead: river, bridge/thread, assistance by antecedent dead or friends in other world. Such eschatology may later be corrupted/reshaped by introduction of ethical ideas. Right page dated May 29: ‘Collect of Religion’ / ‘Relig. & Future’ [?]. Lovejoy states that death itself may be treated as sign of worth/fault but is not a reliable moral selection. Ideas of survival of soul and immortality of gods/spirits may coexist without implying moral immortality; work on this point is noted as incomplete.
+Continuation of non-moral trials on journey to land of dead: river, bridge/thread, assistance by antecedent dead or friends in other world. Such eschatology may later be corrupted/reshaped by introduction of ethical ideas. 〔[Q·C：Marillier 的材料污染／接触问题；此处仍需与具体民族志文本逐句校勘](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕 Right page dated May 29: ‘Collect of Religion’ / ‘Relig. & Future’ [?]. Lovejoy states that death itself may be treated as sign of worth/fault but is not a reliable moral selection. Ideas of survival of soul and immortality of gods/spirits may coexist without implying moral immortality; work on this point is noted as incomplete.
 
 **Chinese translation / 中文译文**
 
-续记前往死者之国途中非道德性的考验：河流、桥或细线，以及先死者或彼世朋友的援助。这类末世论后来可能因伦理观念的引入而被改变，甚至被“败坏”。右页标注 5 月 29 日，题作“宗教汇集”或“宗教与未来”（？）。Lovejoy 指出，死亡本身有时会被当作价值或过错的标志，却不能构成可靠的道德筛选。灵魂存续与神或精灵不死的观念可以并存，而不必推出道德意义上的不朽；他注明这一点尚未完成。
+续记前往死者之国途中非道德性的考验：河流、桥或细线，以及先死者或彼世朋友的援助。这类末世论后来可能因伦理观念的引入而被改变，甚至被“败坏”。 〔[Q·C：Marillier 的材料污染／接触问题；此处仍需与具体民族志文本逐句校勘](research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md)〕右页标注 5 月 29 日，题作“宗教汇集”或“宗教与未来”（？）。Lovejoy 指出，死亡本身有时会被当作价值或过错的标志，却不能构成可靠的道德筛选。灵魂存续与神或精灵不死的观念可以并存，而不必推出道德意义上的不朽；他注明这一点尚未完成。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2792,11 +2794,11 @@ Continuation of May 29 note. Among many non-European tribes Lovejoy finds clear 
 
 **English transcription / 英文转录**
 
-Same underlying page as p. 28 with inserted bibliographic slip. Slip headed ‘Marillier — Survivance — 12 June’. Madagascar: three distinct populations/layers are distinguished: ancient basis of uncertain affinities; immigrants from mainland/Mozambique including black slaves; later/other population linked more to Asia than Africa. Notes mention Sakalava [?], Ambon/Amboina [?], and bibliography including Sibree and Le P. Vassière, ‘20 Ans à Madagascar’ [?].
+Same underlying page as p. 28 with inserted bibliographic slip. Slip headed ‘Marillier — Survivance — 12 June’. 〔[Q·V：夹页题识 Marillier — Survivance — 12 June；1899 年 6 月 12 日为星期一，与 EPHE 课程序列吻合](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕 Madagascar: three distinct populations/layers are distinguished: ancient basis of uncertain affinities; immigrants from mainland/Mozambique including black slaves; later/other population linked more to Asia than Africa. Notes mention Sakalava [?], Ambon/Amboina [?], and bibliography including Sibree and Le P. Vassière, ‘20 Ans à Madagascar’ [?].
 
 **Chinese translation / 中文译文**
 
-与第 28 页属于同一底页，另夹一张书目纸条，标题为“Marillier——存续——6 月 12 日”。关于马达加斯加，笔记区分三种人口或历史层次：族属关系不明的古老基础人口；来自大陆或莫桑比克的移民，其中包括黑人奴隶；以及较晚或另一支与亚洲而非非洲联系更强的人口。另记 Sakalava（？）、Ambon/Amboina（？），以及 Sibree、Le P. Vassière《在马达加斯加二十年》（？）等书目。
+与第 28 页属于同一底页，另夹一张书目纸条，标题为“Marillier——存续——6 月 12 日”。 〔[Q·V：夹页题识 Marillier — Survivance — 12 June；1899 年 6 月 12 日为星期一，与 EPHE 课程序列吻合](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕关于马达加斯加，笔记区分三种人口或历史层次：族属关系不明的古老基础人口；来自大陆或莫桑比克的移民，其中包括黑人奴隶；以及较晚或另一支与亚洲而非非洲联系更强的人口。另记 Sakalava（？）、Ambon/Amboina（？），以及 Sibree、Le P. Vassière《在马达加斯加二十年》（？）等书目。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2807,11 +2809,11 @@ Same underlying page as p. 28 with inserted bibliographic slip. Slip headed ‘M
 
 **English transcription / 英文转录**
 
-Inserted notes on Hora/Hova [?] tribes and the dead. General conception: often a horrible creature or skeleton; mountain/forest abode to east of Hova country; supernatural passage/route. Occupations of dead continue. A more subtle conception separates body at death and posits a second death or annihilation after a limited future life; soul is an inferior sort of life continuing earthly employment and bodily-like needs. Right slip: ‘Occupations of dead / Anthropomorphism’ with references to Howitt & Fison [?]. A more subtle corporeal double separates from body at death and later undergoes second death/annihilation; future life is limited rather than necessarily immortal.
+Inserted notes on Hora/Hova [?] tribes and the dead. General conception: often a horrible creature or skeleton; mountain/forest abode to east of Hova country; supernatural passage/route. Occupations of dead continue. A more subtle conception separates body at death and posits a second death or annihilation after a limited future life; soul is an inferior sort of life continuing earthly employment and bodily-like needs. Right slip: ‘Occupations of dead / Anthropomorphism’ with references to Howitt & Fison [?]. 〔[Q·N：A. W. Howitt／Lorimer Fison，手稿直接出现姓名；具体著作与页码尚未锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 A more subtle corporeal double separates from body at death and later undergoes second death/annihilation; future life is limited rather than necessarily immortal.
 
 **Chinese translation / 中文译文**
 
-夹入的笔记讨论 Hora/Hova（？）诸部族及死者。一般构想中，死者常成为可怖生物或骷髅，居住在 Hova 地区以东的山地或森林，并经由一条超自然通道前往；死者仍继续生前职业。另一种较精细的构想则认为，死亡时有某种身体之替身与肉身分离，经过有限的来世生命后再经历第二次死亡或湮灭；灵魂是一种较低等的生命，继续尘世工作及类似肉身的需要。右侧纸条题为“死者的职业／拟人论”，并引 Howitt 与 Fison（？）。
+夹入的笔记讨论 Hora/Hova（？）诸部族及死者。一般构想中，死者常成为可怖生物或骷髅，居住在 Hova 地区以东的山地或森林，并经由一条超自然通道前往；死者仍继续生前职业。另一种较精细的构想则认为，死亡时有某种身体之替身与肉身分离，经过有限的来世生命后再经历第二次死亡或湮灭；灵魂是一种较低等的生命，继续尘世工作及类似肉身的需要。右侧纸条题为“死者的职业／拟人论”，并引 Howitt 与 Fison（？） 〔[Q·N：A. W. Howitt／Lorimer Fison，手稿直接出现姓名；具体著作与页码尚未锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕。
 
 **Uncertain readings / 疑难读法:** Proper names and abbreviated ethnographic/bibliographic references retained conservatively where handwriting is unclear.
 
@@ -2922,15 +2924,19 @@ The page continues a ranked account of post-mortem classes. Lovejoy notes that s
 
 **English transcription / 英文转录**
 
-[Continuation.]
+[Editorially restored heading, verified against manuscript: Marillier June 19. Surviv. 5.]
+
+[Continuation.] 〔[Q·V：手稿题识经复核为 Marillier June 19. Surviv. 5.；1899 年 6 月 19 日为星期一](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕
 
 A ‘great tree’ / underworld image is described: a tree, a cavern or region beneath it, and souls or dead persons placed in different conditions. Lovejoy explicitly asks whether this represents annihilation or rather continued existence under better conditions.
 
-Callaway, Relig. [of] Amazulu [reference]: continuation of life and status among the dead.
+Callaway, Relig. 〔[Q·N：Henry Callaway, The Religious System of the Amazulu；手稿直接列名，具体页码尚未核定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 [of] Amazulu [reference]: continuation of life and status among the dead.
 
 **Chinese translation / 中文译文**
 
-描述一幅“大树”或地下世界图景：树、树下的洞穴或区域，以及处于不同境况的灵魂或死者。Lovejoy 明确追问，这究竟表示湮灭，还是在更优越条件下继续存在。并引 Callaway 关于 Amazulu 宗教的著作，涉及死者生命与身份的延续。
+［编者依据手稿复核补出页首题识：Marillier，6 月 19 日，Surviv. 5.］
+
+描述一幅“大树”或地下世界图景：树、树下的洞穴或区域，以及处于不同境况的灵魂或死者。 〔[Q·V：手稿题识经复核为 Marillier June 19. Surviv. 5.；1899 年 6 月 19 日为星期一](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕Lovejoy 明确追问，这究竟表示湮灭，还是在更优越条件下继续存在。并引 Callaway 关于 Amazulu 宗教的著作，涉及死者生命与身份的延续。 〔[Q·N：Henry Callaway, The Religious System of the Amazulu；手稿直接列名，具体页码尚未核定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 
 **Uncertain readings / 疑难读法:** opening source unidentified; tree/underworld description partly illegible; Callaway citation abbreviated
 
@@ -2946,13 +2952,13 @@ C. What classes of objects figure as totems?
 
 D. Is the clan-totem regarded as an ancestor, & F. animals or other beings of F. clan regarded as kindred?
 1. [reference] p. 34.
-2. Frazer, Tot. [and Exog.?], I, 7–11.
+2. Frazer, Tot. 〔[Q·N：Frazer, Tot.，I, pp.7–11；题名缩写与版本未锁定，不应径自补成 1910 年 Totemism and Exogamy](research_notes/MS38_004_001_061_005_vs_Marillier_EPHE_1898_1899_concordance.md)〕 [and Exog.?], I, 7–11.
 
 But cf. N.W. Coast stories of metamorphosed culture-heroes. In general, the derivation of the stories indicates that the ‘mythical’ intervention was not a belief in ancestral descent.
 
 **Chinese translation / 中文译文**
 
-C. 哪些类别的事物会成为图腾？参见 Boas／《原始艺术》第 204—214 页（？）。D. 氏族图腾是否被视为祖先？某氏族的动物或其他生物是否被视为亲属？参见一处第 34 页及 Frazer《图腾制与族外婚》第一卷第 7—11 页。不过可比较西北海岸关于变形文化英雄的故事。总体而言，这些故事的形成过程表明，所谓“神话性”介入并不等于相信氏族确实由其祖先繁衍而来。
+C. 哪些类别的事物会成为图腾？参见 Boas／《原始艺术》第 204—214 页（？）。D. 氏族图腾是否被视为祖先？某氏族的动物或其他生物是否被视为亲属？参见一处第 34 页及 Frazer《图腾制与族外婚》第一卷第 7—11 页。 〔[Q·N：Frazer, Tot.，I, pp.7–11；题名缩写与版本未锁定，不应径自补成 1910 年 Totemism and Exogamy](research_notes/MS38_004_001_061_005_vs_Marillier_EPHE_1898_1899_concordance.md)〕不过可比较西北海岸关于变形文化英雄的故事。总体而言，这些故事的形成过程表明，所谓“神话性”介入并不等于相信氏族确实由其祖先繁衍而来。
 
 **Uncertain readings / 疑难读法:** Boas title/page range partly uncertain; one first reference illegible
 
@@ -2966,14 +2972,14 @@ C. 哪些类别的事物会成为图腾？参见 Boas／《原始艺术》第 20
 [Totemism] — outline for sect. 3
 [Ext. any Semites.]
 
-Cont. Tot. in New International: a really good likewise pronounces agt Semitic totemism. ‘It can be shown, indeed, A. F. Semites believed in kinship bet. men & gods; & the proof of a belief in kinship bet. gods & animals has been [illegible]; but in resp. of F. most important third proof, kinship bet. groups of men & groups of beasts, …’
+Cont. Tot. in New International: a really good likewise pronounces agt Semitic totemism. 〔[Q·C：Marillier, La place du totémisme dans l’évolution religieuse, RHR 36–37 (1897–1898)；理论争点比较，未证成直接借文](research_notes/MS38_004_001_061_005_vs_Marillier_EPHE_1898_1899_concordance.md)〕 ‘It can be shown, indeed, A. F. Semites believed in kinship bet. men & gods; & the proof of a belief in kinship bet. gods & animals has been [illegible]; but in resp. of F. most important third proof, kinship bet. groups of men & groups of beasts, …’
 
 3. Offspring of primal, not primal in their present form.
 [references and examples follow, including a parentage/descent motif and Ezek. 23:5 [?]].
 
 **Chinese translation / 中文译文**
 
-图腾制——第三节提纲，兼及闪米特人。New International 中的“Cont. Tot.”条目同样明确反对闪米特图腾制的说法：“的确可以证明，闪米特人相信人与神之间有亲属关系；相信神与动物之间有亲属关系的证据也曾被提出；但最重要的第三项证据——人群与兽群之间的亲属关系——……”第 3 点：他们是原初存在的后裔，而非以现有形态本身就是原初存在。下有若干亲子或谱系母题的例证与书目，或包括《以西结书》23:5（？）。
+图腾制——第三节提纲，兼及闪米特人。New International 中的“Cont. Tot.”条目同样明确反对闪米特图腾制的说法：“的确可以证明，闪米特人相信人与神之间有亲属关系；相信神与动物之间有亲属关系的证据也曾被提出；但最重要的第三项证据——人群与兽群之间的亲属关系——……”第 3 点：他们是原初存在的后裔，而非以现有形态本身就是原初存在。 〔[Q·C：Marillier, La place du totémisme dans l’évolution religieuse, RHR 36–37 (1897–1898)；理论争点比较，未证成直接借文](research_notes/MS38_004_001_061_005_vs_Marillier_EPHE_1898_1899_concordance.md)〕下有若干亲子或谱系母题的例证与书目，或包括《以西结书》23:5（？）。
 
 **Uncertain readings / 疑难读法:** bottom-left quotation incomplete; right-hand examples contain several illegible names and references
 
@@ -2987,15 +2993,15 @@ Cont. Tot. in New International: a really good likewise pronounces agt Semitic t
 Hebrew Eschatology
 
 1. Ignorance of F. dead of what befalls on earth, & F. gen. mental feebleness.
-Job 14: [21?]: after a man is passed away: ‘His sons come to honour, he knoweth it not; & they are brought low, but he perceiveth it not.’
+Job 14: [21?]: after a man is passed away: ‘His sons come to honour, he knoweth it not; & they are brought low, but he perceiveth it not.’ 〔[Q·D：《约伯记》14:21；手稿直接抄录对应经文](research_notes/lovejoy_orientalist_source_register.csv)〕
 
-+ Eccles. 9:5: ‘F. living know A. they shall die; but F. dead know not anything, neither have they any reward; for F. memory of them is forgotten. Also tr. love & tr. hatred & tr. envy is now perished; neither have they any more a portion of anything A. is done under F. sun.’
++ Eccles. 〔[Q·D：《传道书》9:5；手稿直接援引，英译版本尚未核定](research_notes/lovejoy_orientalist_source_register.csv)〕 9:5: ‘F. living know A. they shall die; but F. dead know not anything, neither have they any reward; for F. memory of them is forgotten. Also tr. love & tr. hatred & tr. envy is now perished; neither have they any more a portion of anything A. is done under F. sun.’
 
 [conclusion:] There is no device nor wisdom nor knowledge in F. grave whither thou goest.
 
 **Chinese translation / 中文译文**
 
-“希伯来末世论”。第一，死者不知道地上发生之事，且一般心智能力微弱。《约伯记》14:21 左右说，人死之后，“他的儿子得尊荣，他也不知道；降为卑，他也不觉得。”《传道书》9:5 又说，活人知道必死，死人却毫无所知，也不再得赏赐；他们的爱、恨与嫉妒都已消灭，在日光之下所行的一切上再无分。结论是：人将去的坟墓中，没有工作、谋算、知识或智慧。
+“希伯来末世论”。第一，死者不知道地上发生之事，且一般心智能力微弱。《约伯记》14:21 左右说，人死之后，“他的儿子得尊荣，他也不知道；降为卑，他也不觉得。” 〔[Q·D：《约伯记》14:21；手稿直接抄录对应经文](research_notes/lovejoy_orientalist_source_register.csv)〕《传道书》9:5 又说，活人知道必死，死人却毫无所知，也不再得赏赐；他们的爱、恨与嫉妒都已消灭，在日光之下所行的一切上再无分。 〔[Q·D：《传道书》9:5；手稿直接援引，英译版本尚未核定](research_notes/lovejoy_orientalist_source_register.csv)〕结论是：人将去的坟墓中，没有工作、谋算、知识或智慧。
 
 **Uncertain readings / 疑难读法:** Job verse number partly obscured
 
@@ -3009,7 +3015,7 @@ Job 14: [21?]: after a man is passed away: ‘His sons come to honour, he knowet
 Hebrew Eschatology [cont.]
 
 2. F. dead in Sheol are beyond F. jurisdiction of Y[ahweh?], & are not persons in any close relation to him.
-Ps. [88:5?]: ‘I am like the slain that lie in the grave, whom Thou rememberest no more: and they are cut off fr. Thy hand.’
+Ps. 〔[Q·D：《诗篇》88:5、10–12；阴间与神之关系的直接文本证据](research_notes/lovejoy_orientalist_source_register.csv)〕 [88:5?]: ‘I am like the slain that lie in the grave, whom Thou rememberest no more: and they are cut off fr. Thy hand.’
 Ps. [88:10–12?]: ‘Wilt thou shew wonders to the dead? … Shall thy lovingkindness be declared in the grave? …’
 Eccles. 9:10: ‘Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.’
 
@@ -3018,7 +3024,7 @@ Use of nephesh & ruach.
 
 **Chinese translation / 中文译文**
 
-“希伯来末世论”续。第二，阴间的死者处在雅威管辖之外，与他没有密切的人格关系。《诗篇》88 篇约第 5、10—12 节写死者不再为神所记念、与其手隔绝，并追问神是否向死人行奇事、是否在坟墓中宣告慈爱。《传道书》9:10 同样说，人在将去的坟墓中没有工作、谋算、知识或智慧。随后考察 nephesh 与 ruach 的用法，列出《创世记》等经文中灵魂或气息、死亡时离去、灵魂返回，以及以“灵魂”指整个人的例子。
+“希伯来末世论”续。第二，阴间的死者处在雅威管辖之外，与他没有密切的人格关系。《诗篇》88 篇约第 5、10—12 节写死者不再为神所记念、与其手隔绝，并追问神是否向死人行奇事、是否在坟墓中宣告慈爱。 〔[Q·D：《诗篇》88:5、10–12；阴间与神之关系的直接文本证据](research_notes/lovejoy_orientalist_source_register.csv)〕《传道书》9:10 同样说，人在将去的坟墓中没有工作、谋算、知识或智慧。随后考察 nephesh 与 ruach 的用法，列出《创世记》等经文中灵魂或气息、死亡时离去、灵魂返回，以及以“灵魂”指整个人的例子。
 
 **Uncertain readings / 疑难读法:** Hebrew terms and several verse numbers only partly clear
 
@@ -3035,13 +3041,13 @@ Use of nephesh & ruach.
 
 In future tense ‘his soul draweth near unto F. pit.’
 
-Mic. 6:7: ‘shall I give F. fruit of my body for F. sin of my soul.’
+Mic. 6:7: ‘shall I give F. fruit of my body for F. sin of my soul.’ 〔[Q·D：《弥迦书》6:7；手稿直接标示章节](research_notes/lovejoy_orientalist_source_register.csv)〕
 
 But whole [Hebrew expression] … all men … used as names for F. whole of life.
 
 **Chinese translation / 中文译文**
 
-续论 nephesh／ruach。“救赎他们的灵魂脱离死亡”；另可能参照《箴言》中“使你丰肥”等句（？）。将来时表述中有“他的灵魂临近深坑”。《弥迦书》6:7：“我岂可为自己的罪过献我身所生的吗？”Lovejoy 随后指出，整套希伯来语表达常以“灵魂”指人，或指完整的生命。
+续论 nephesh／ruach。“救赎他们的灵魂脱离死亡”；另可能参照《箴言》中“使你丰肥”等句（？）。将来时表述中有“他的灵魂临近深坑”。《弥迦书》6:7：“我岂可为自己的罪过献我身所生的吗？” 〔[Q·D：《弥迦书》6:7；手稿直接标示章节](research_notes/lovejoy_orientalist_source_register.csv)〕Lovejoy 随后指出，整套希伯来语表达常以“灵魂”指人，或指完整的生命。
 
 **Uncertain readings / 疑难读法:** several biblical references and Hebrew words difficult
 
@@ -3063,11 +3069,11 @@ Persian.
 
 V. art Tot. Enc. Brit.
 
-[Loose slips on right:] Greek lexical and textual notes concerning psychē / pneuma and occurrences in the Iliad and other classical passages.
+[Loose slips on right:] Greek lexical and textual notes concerning psychē / pneuma and occurrences in the Iliad and other classical passages. 〔[Q·N：古典希腊语 psychē／pneuma 与《伊利亚特》引文；具体版本与行数尚未全面校定](research_notes/lovejoy_orientalist_source_register.csv)〕
 
 **Chinese translation / 中文译文**
 
-宗教史——参见第 30 页。课堂内容：旧约；早期希腊；作为中间阶段的新约；希腊化与罗马；波斯。另参见《大英百科全书》“Tot.”条。右侧散页是希腊语词汇与文本笔记，讨论 psychē、pneuma，以及它们在《伊利亚特》等古典文本中的用例。
+宗教史——参见第 30 页。课堂内容：旧约；早期希腊；作为中间阶段的新约；希腊化与罗马；波斯。另参见《大英百科全书》“Tot.”条。右侧散页是希腊语词汇与文本笔记，讨论 psychē、pneuma，以及它们在《伊利亚特》等古典文本中的用例。 〔[Q·N：古典希腊语 psychē／pneuma 与《伊利亚特》引文；具体版本与行数尚未全面校定](research_notes/lovejoy_orientalist_source_register.csv)〕
 
 **Uncertain readings / 疑难读法:** Greek quotations not fully transcribed; several references on loose slips uncertain
 
@@ -3105,9 +3111,9 @@ Nephesh — usage of word?
 See tr. type in Eng. version.
 
 Blood is F. nephesh.
-Gen. 9:4: ‘Every living thing shall be meat for you; but F. flesh with the life thereof, wh. is its blood, ye shall not eat.’ So Lev. 17:11–14: life of the flesh is in F. blood.
+Gen. 9:4: ‘Every living thing shall be meat for you; but F. flesh with the life thereof, wh. 〔[Q·D：《创世记》9:4；nephesh／血／生命的直接经文来源](research_notes/lovejoy_orientalist_source_register.csv)〕 is its blood, ye shall not eat.’ So Lev. 〔[Q·D：《利未记》17:11–14；血与生命的直接经文来源](research_notes/lovejoy_orientalist_source_register.csv)〕 17:11–14: life of the flesh is in F. blood.
 
-Hist. Relig. — Dec. 20, 1905.
+Hist. Relig. — Dec. 20, 1905. 〔[Q·V：1905 年 12 月 20 日宗教史课程记录；证明笔记本存在后续使用层，不能把全册简单定年为 1899](research_notes/lovejoy_orientalist_source_register.csv)〕
 Outline:
 Continue subj. of prim. relig. evol.; then take up O.T.
 I. Prim. eschat.: two points: (1) no gen. clear immortality; not [zōē?] but psychē; meaning of psychē; correct false distinctions. (2) Hebrew eschat.: nephesh & ruach.
@@ -3116,7 +3122,7 @@ Totemism: [outline continues].
 
 **Chinese translation / 中文译文**
 
-“Nephesh——这个词如何使用？参见英译本中的译法类型。”血就是 nephesh。《创世记》9:4：“惟独肉带着血，那就是它的生命，你们不可吃。”《利未记》17:11—14 同样说，肉身的生命在血中。下为 1905 年 12 月 20 日“宗教史”提纲：先续讲所谓“原始宗教”的演化，再转入旧约。第一，早期末世论的两点：（1）并无普遍而明确的不朽观；关键不是 zōē（？）而是 psychē，应说明 psychē 的意义并纠正错误区分；（2）希伯来末世论中的 nephesh 与 ruach。第二，死者与生者的接触及祖先崇拜。随后继续列图腾制提纲。
+“Nephesh——这个词如何使用？参见英译本中的译法类型。”血就是 nephesh。《创世记》9:4：“惟独肉带着血，那就是它的生命，你们不可吃。” 〔[Q·D：《创世记》9:4；nephesh／血／生命的直接经文来源](research_notes/lovejoy_orientalist_source_register.csv)〕《利未记》17:11—14 同样说，肉身的生命在血中。 〔[Q·D：《利未记》17:11–14；血与生命的直接经文来源](research_notes/lovejoy_orientalist_source_register.csv)〕下为 1905 年 12 月 20 日“宗教史”提纲：先续讲所谓“原始宗教”的演化，再转入旧约。 〔[Q·V：1905 年 12 月 20 日宗教史课程记录；证明笔记本存在后续使用层，不能把全册简单定年为 1899](research_notes/lovejoy_orientalist_source_register.csv)〕第一，早期末世论的两点：（1）并无普遍而明确的不朽观；关键不是 zōē（？）而是 psychē，应说明 psychē 的意义并纠正错误区分；（2）希伯来末世论中的 nephesh 与 ruach。第二，死者与生者的接触及祖先崇拜。随后继续列图腾制提纲。
 
 **Uncertain readings / 疑难读法:** Greek term in outline uncertain
 
@@ -3131,7 +3137,7 @@ Minor relatives: majority [Polynesian?] & [Semitic?]
 [references]
 
 Definition of totemism [from Frazer / literature]:
-I. Classes of objects: Blood party; all deserve F. same name.
+I. 〔[Q·N：Frazer 为手稿标记的参照对象；定义的具体版本与逐句对应仍待核](research_notes/MS38_004_001_061_005_vs_Marillier_EPHE_1898_1899_concordance.md)〕 Classes of objects: Blood party; all deserve F. same name.
 
 II. Clan or Gentile Totemism
 [reference] p. 12.
@@ -3141,7 +3147,7 @@ F. tribe is, in short, not necessarily consanguineal; F. clan is.
 
 **Chinese translation / 中文译文**
 
-关于“较小的亲属群体”，并有可能涉及波利尼西亚与闪米特材料的引文。图腾制定义：第一，事物类别——同一“血族群体”中的一切成员拥有相同名称。第二，氏族或 gens 图腾制。氏族或 gens 是什么？“由若干家庭组成的群体，具有同一名称或同一标志，自称出自共同祖先，并共同遵守部族或共同体其他成员所不具备的某些习俗与宗教仪式。”因此，部族未必基于血缘；氏族则是。
+关于“较小的亲属群体”，并有可能涉及波利尼西亚与闪米特材料的引文。图腾制定义：第一，事物类别——同一“血族群体”中的一切成员拥有相同名称。 〔[Q·N：Frazer 为手稿标记的参照对象；定义的具体版本与逐句对应仍待核](research_notes/MS38_004_001_061_005_vs_Marillier_EPHE_1898_1899_concordance.md)〕第二，氏族或 gens 图腾制。氏族或 gens 是什么？“由若干家庭组成的群体，具有同一名称或同一标志，自称出自共同祖先，并共同遵守部族或共同体其他成员所不具备的某些习俗与宗教仪式。”因此，部族未必基于血缘；氏族则是。
 
 **Uncertain readings / 疑难读法:** opening minor-relative heading and bibliographic line uncertain
 
@@ -3166,14 +3172,14 @@ F. tribe is, in short, not necessarily consanguineal; F. clan is.
 
 **English transcription / 英文转录**
 
-Brinton, D. G.
+Brinton, D. G. 〔[Q·D：Daniel G. Brinton, The American Race (New York, 1891)；题名、作者与年代均由手稿直接给出](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 The American Race.
 New York 1891
 [call number:] 8°7 837.
 
 **Chinese translation / 中文译文**
 
-书目：D. G. Brinton，《美洲人种》，纽约，1891 年；索书号或馆藏记号为 8°7 837。
+书目：D. G. Brinton，《美洲人种》，纽约，1891 年；索书号或馆藏记号为 8°7 837。 〔[Q·D：Daniel G. Brinton, The American Race (New York, 1891)；题名、作者与年代均由手稿直接给出](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 
 #### 005 · PDF 047 · Manuscript / 手稿 93
 
@@ -3182,14 +3188,14 @@ New York 1891
 
 **English transcription / 英文转录**
 
-Soc. June 6.
+Sac. June 6. [editorial correction: earlier transcription “Soc.”] 〔[Q·V：手稿应读 Sac. June 6.，即 sacrifice；1899 年 6 月 6 日为星期二，旧读 Soc. 需要纠正](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕
 Report of Arno, etc. about F. Teke [?].
 Tanganyika / Cameroon / Central Africa.
 Notes on post-mortem treatment and a widely extended custom; first step described as finding a water-course or putting the dead in/near its bed. [Several lines illegible.]
 
 **Chinese translation / 中文译文**
 
-“Soc.，6 月 6 日。”记 Arno 等人关于 Teke（？）的报告，并列 Tanganyika、Cameroon 与中非材料。笔记讨论死后的处置及一种分布很广的习俗：第一步似乎是寻找水道，或把死者放入河床或水道附近。数行无法辨读。
+“Sac.［旧转录作 Soc.］，6 月 6 日。”记 Arno 等人关于 Teke（？） 〔[Q·V：手稿应读 Sac. June 6.，即 sacrifice；1899 年 6 月 6 日为星期二，旧读 Soc. 需要纠正](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕的报告，并列 Tanganyika、Cameroon 与中非材料。笔记讨论死后的处置及一种分布很广的习俗：第一步似乎是寻找水道，或把死者放入河床或水道附近。数行无法辨读。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3216,11 +3222,11 @@ Notes on post-mortem treatment and a widely extended custom; first step describe
 **English transcription / 英文转录**
 
 Notes continue on funerary practice, powerful fetish / protection, and killing of slaves or attendants.
-Robertson Smith and Frazer are mentioned critically; Lovejoy warns against constructing an anthropological scheme beyond the evidence. [Bibliographic details partly illegible.]
+Robertson Smith and Frazer are mentioned critically; Lovejoy warns against constructing an anthropological scheme beyond the evidence. 〔[Q·N：W. Robertson Smith 与 J. G. Frazer 为手稿直接点名的理论对象；此处为 Lovejoy 的批判性使用](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕 [Bibliographic details partly illegible.]
 
 **Chinese translation / 中文译文**
 
-续记丧葬做法、强力的物神或防护手段，以及杀死奴隶或侍从。笔记批评性地提到 Robertson Smith 与 Frazer；Lovejoy 警告，不应超出证据构造一套完整的人类学图式。部分书目信息无法辨认。
+续记丧葬做法、强力的物神或防护手段，以及杀死奴隶或侍从。笔记批评性地提到 Robertson Smith 与 Frazer；Lovejoy 警告，不应超出证据构造一套完整的人类学图式。 〔[Q·N：W. Robertson Smith 与 J. G. Frazer 为手稿直接点名的理论对象；此处为 Lovejoy 的批判性使用](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕部分书目信息无法辨认。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3232,12 +3238,12 @@ Robertson Smith and Frazer are mentioned critically; Lovejoy warns against const
 **English transcription / 英文转录**
 
 Sacrifice.
-2. Sac. mystique. Here F. victim a toujours une valeur divine [?]. Lovejoy distinguishes sacrificial killing from ordinary cannibalistic practice: a man or woman sacrificed has no mystical significance merely by being food.
+2. Sac. mystique. 〔[Q·C：Marillier, 1897 年 sacrifice 研究：牺牲类型区分可作直接思想语境，但不等于逐句誊录](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕 Here F. victim a toujours une valeur divine [?]. Lovejoy distinguishes sacrificial killing from ordinary cannibalistic practice: a man or woman sacrificed has no mystical significance merely by being food.
 Inserted slip: ‘Sacrifices’ with a numbered typology, including alimentary / communion sacrifice, mystical sacrifice, sacrifice of purification, and sacrifice for magical ends. [French labels partly uncertain.]
 
 **Chinese translation / 中文译文**
 
-“牺牲。第二，神秘牺牲。”在此，“牺牲品总具有神圣价值”（法文原句疑读）。Lovejoy 把献祭性杀戮同普通食人习俗区分开来：被牺牲的男人或女人，并不会仅仅因为成为食物就具有神秘意义。夹条题为“牺牲”，列出编号类型：食物性或共餐牺牲、神秘牺牲、净化牺牲，以及为巫术目的而行的牺牲；部分法文名称不确定。
+“牺牲。第二，神秘牺牲。” 〔[Q·C：Marillier, 1897 年 sacrifice 研究：牺牲类型区分可作直接思想语境，但不等于逐句誊录](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕在此，“牺牲品总具有神圣价值”（法文原句疑读）。Lovejoy 把献祭性杀戮同普通食人习俗区分开来：被牺牲的男人或女人，并不会仅仅因为成为食物就具有神秘意义。夹条题为“牺牲”，列出编号类型：食物性或共餐牺牲、神秘牺牲、净化牺牲，以及为巫术目的而行的牺牲；部分法文名称不确定。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3248,12 +3254,12 @@ Inserted slip: ‘Sacrifices’ with a numbered typology, including alimentary /
 
 **English transcription / 英文转录**
 
-Discussion of transfer of life / strength to a young and vigorous body; a god, or more usually a god-man, may be killed by his successor. Lovejoy treats this as one form of myth/ritual killing.
+Discussion of transfer of life / strength to a young and vigorous body; a god, or more usually a god-man, may be killed by his successor. 〔[Q·C：Robertson Smith／Frazer 关于神人、生命转移与仪式杀戮的讨论；具体对应段落尚待锁定](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕 Lovejoy treats this as one form of myth/ritual killing.
 Further notes ask whether blood creates a bond or common substance; sharing a meal may function as a weaker form of the same principle, constituting participants as kin / clients. [Several phrases uncertain.]
 
 **Chinese translation / 中文译文**
 
-讨论把生命或力量转移到年轻强健的身体：一位神，或更常见的一位神人，可能被继承者杀死；Lovejoy 把它视为神话或仪式性杀戮的一种形式。随后追问，血液是否创造一种纽带或共同实体；共同进餐或许是同一原则的较弱形式，使参与者成为亲族或依附者。数处措辞仍不确定。
+讨论把生命或力量转移到年轻强健的身体：一位神，或更常见的一位神人，可能被继承者杀死；Lovejoy 把它视为神话或仪式性杀戮的一种形式。 〔[Q·C：Robertson Smith／Frazer 关于神人、生命转移与仪式杀戮的讨论；具体对应段落尚待锁定](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕随后追问，血液是否创造一种纽带或共同实体；共同进餐或许是同一原则的较弱形式，使参与者成为亲族或依附者。数处措辞仍不确定。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3264,12 +3270,12 @@ Further notes ask whether blood creates a bond or common substance; sharing a me
 
 **English transcription / 英文转录**
 
-3. Sac. Expiation.
+3. Sac. Expiation. 〔[Q·C：Marillier, 1897：赎罪、替代与净化的功能性区分；仅作比较控制](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕
 Expiatory sacrifice discussed in relation to collective guilt and purification. Scapegoat-type cases transfer or concentrate the offence of a tribe/community upon a victim who is then removed; purification and expiation are linked. [Examples and source abbreviations uncertain.]
 
 **Chinese translation / 中文译文**
 
-“第三，赎罪牺牲。”Lovejoy 把赎罪献祭同集体罪责和净化联系起来讨论。替罪羊式个案把一个部族或共同体的过犯转移或集中到某个牺牲品身上，再将其逐出或除去；净化与赎罪因而彼此相连。例证及来源缩写有疑读。
+“第三，赎罪牺牲。” 〔[Q·C：Marillier, 1897：赎罪、替代与净化的功能性区分；仅作比较控制](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕Lovejoy 把赎罪献祭同集体罪责和净化联系起来讨论。替罪羊式个案把一个部族或共同体的过犯转移或集中到某个牺牲品身上，再将其逐出或除去；净化与赎罪因而彼此相连。例证及来源缩写有疑读。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3280,11 +3286,11 @@ Expiatory sacrifice discussed in relation to collective guilt and purification. 
 
 **English transcription / 英文转录**
 
-Sacrifice treated in another class as a mechanical or magical means: a charm directly controls natural forces; the god need not be the recipient or moral judge. A note contrasts this with cases in which the god is himself subject to the efficacy of sacrifice. [Proper names illegible.]
+Sacrifice treated in another class as a mechanical or magical means: a charm directly controls natural forces; the god need not be the recipient or moral judge. 〔[Q·C：Marillier, 1897：sacrifice 与 magie 的区分，为最接近的同时代比较材料](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕 A note contrasts this with cases in which the god is himself subject to the efficacy of sacrifice. [Proper names illegible.]
 
 **Chinese translation / 中文译文**
 
-另一类牺牲被理解为机械性或巫术性的手段：咒术直接支配自然力量，神不必是受领者或道德审判者。旁注又把它同另一种情形对照——在那里，神自身也服从牺牲仪式的效力。专名无法辨认。
+另一类牺牲被理解为机械性或巫术性的手段：咒术直接支配自然力量，神不必是受领者或道德审判者。 〔[Q·C：Marillier, 1897：sacrifice 与 magie 的区分，为最接近的同时代比较材料](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕旁注又把它同另一种情形对照——在那里，神自身也服从牺牲仪式的效力。专名无法辨认。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3325,13 +3331,13 @@ Dense multilingual notes, largely illegible in this pass. The page appears to co
 
 **English transcription / 英文转录**
 
-Robertson Smith / ‘Die Religion der Semiten’ [?], p. 107 ff.
+Robertson Smith / ‘Die Religion der Semiten’ [?], p. 107 ff. 〔[Q·N：Robertson Smith, Die Religion der Semiten［题名／版本待核］, p.107 ff.；手稿明确给出页码，但不补定版本](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕
 Lovejoy lists types/functions of sacrifice: sacrifice offered to the dead to feed them; expiatory sacrifice; sacrifice connected with communal or corporate rites.
 On facing page: ‘dead chief’ is treated as a practice essentially funerary; cannibalistic sacrifice is ‘much more rare,’ unless the living person sacrificed or killed is conceived as a form of deity. [Several clauses uncertain.]
 
 **Chinese translation / 中文译文**
 
-参见 Robertson Smith／《闪米特人的宗教》（？）第 107 页以下。Lovejoy 列出牺牲的类型或功能：向死者献祭以供养他们；赎罪牺牲；与共同体或法人团体仪式相连的牺牲。对页把“死去的酋长”视为本质上属于丧葬的做法；食人式牺牲“远为少见”，除非被献祭或杀死的活人被理解为神的一种形态。若干句仍不确定。
+参见 Robertson Smith／《闪米特人的宗教》（？）第 107 页以下。 〔[Q·N：Robertson Smith, Die Religion der Semiten［题名／版本待核］, p.107 ff.；手稿明确给出页码，但不补定版本](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕Lovejoy 列出牺牲的类型或功能：向死者献祭以供养他们；赎罪牺牲；与共同体或法人团体仪式相连的牺牲。对页把“死去的酋长”视为本质上属于丧葬的做法；食人式牺牲“远为少见”，除非被献祭或杀死的活人被理解为神的一种形态。若干句仍不确定。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3372,12 +3378,12 @@ Notes continue on communion and magical sacrifice. A ritual killing is discussed
 
 **English transcription / 英文转录**
 
-In all of these F. soc. mystical / sacrificial forms, religion as ‘union’ does not appear in every case. Lovejoy considers Robertson Smith’s theory too narrow / insufficiently elastic, while allowing that affection, reverence, and corporate feeling toward the god can be produced by common ritual.
+In all of these F. soc. mystical / sacrificial forms, religion as ‘union’ does not appear in every case. Lovejoy considers Robertson Smith’s theory too narrow / insufficiently elastic, while allowing that affection, reverence, and corporate feeling toward the god can be produced by common ritual. 〔[Q·A：Lovejoy 明确批评 Robertson Smith 的共同体结合理论过窄；批评为笔记作者自己的判断](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕
 He then returns to the ‘living god-man’: the human god is killed and the body offered / consumed ceremonially. [Final lines continue.]
 
 **Chinese translation / 中文译文**
 
-Lovejoy 指出，在这些社会性的神秘或献祭形式中，把宗教理解为“结合”的机制并非每次都出现。他认为 Robertson Smith 的理论过窄、缺乏弹性，同时承认共同仪式能够产生对神的爱慕、敬畏及团体情感。随后回到“活着的神人”：人神被杀，其身体被仪式性地奉献或食用。末行未完。
+Lovejoy 指出，在这些社会性的神秘或献祭形式中，把宗教理解为“结合”的机制并非每次都出现。他认为 Robertson Smith 的理论过窄、缺乏弹性，同时承认共同仪式能够产生对神的爱慕、敬畏及团体情感。 〔[Q·A：Lovejoy 明确批评 Robertson Smith 的共同体结合理论过窄；批评为笔记作者自己的判断](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕随后回到“活着的神人”：人神被杀，其身体被仪式性地奉献或食用。末行未完。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3388,12 +3394,12 @@ Lovejoy 指出，在这些社会性的神秘或献祭形式中，把宗教理解
 
 **English transcription / 英文转录**
 
-[Continuation.] Lovejoy argues that the complete form of this union is not found everywhere. He distinguishes several classes/functions of sacrifice, including funerary, expiatory, fecundative, and magical sacrifice.
+[Continuation.] Lovejoy argues that the complete form of this union is not found everywhere. 〔[Q·A：Lovejoy 限制 communion／union 理论的普遍适用范围；与 Marillier 的类型学讨论平行](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 He distinguishes several classes/functions of sacrifice, including funerary, expiatory, fecundative, and magical sacrifice.
 ‘Farewell feast.’ He notes that the extreme form is not found at all in Africa [?], while Robertson Smith’s type appears only rarely or in exceptional cases. [Closing sentence continues beyond batch.]
 
 **Chinese translation / 中文译文**
 
-续上。Lovejoy 主张，这种“结合”的完整形式并非处处存在。他区分牺牲的若干类别或功能，包括丧葬性、赎罪性、促生殖性与巫术性牺牲。“告别宴。”他又说，这一极端形式在非洲（？）完全不见，而 Robertson Smith 所设想的类型也只在罕见或例外情形中出现。结句延续至下一批。
+续上。Lovejoy 主张，这种“结合”的完整形式并非处处存在。 〔[Q·A：Lovejoy 限制 communion／union 理论的普遍适用范围；与 Marillier 的类型学讨论平行](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕他区分牺牲的若干类别或功能，包括丧葬性、赎罪性、促生殖性与巫术性牺牲。“告别宴。”他又说，这一极端形式在非洲（？）完全不见，而 Robertson Smith 所设想的类型也只在罕见或例外情形中出现。结句延续至下一批。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3438,15 +3444,15 @@ Sacrifice
 Bibliography.
 
 L'Anthropophagie — André [?].
-Endokannibalismus — Steinmetz.
+Endokannibalismus — Steinmetz. 〔[Q·D：Rudolf S. Steinmetz, Endokannibalismus, Mittheilungen der Anthropologischen Gesellschaft in Wien 26 (1896), pp.1–60；原文已完整找回](research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md)〕 〔[Q·C：Marillier 对 Steinmetz 的书评见 Revue de l’histoire des religions 34 (1896), pp.113–115；旧记 pp.113–118 已校正，不代表手稿直接抄用书评](research_notes/lovejoy_as_orientalist_web_sweep_batch148_RHR34_Marillier_Steinmetz_page_boundary_correction.md)〕
 In L'Anthropologie, article [reference uncertain].
 Brinton, article [title uncertain] — for good bibliography & fair sketch of subject.
-Blood-Covenant & The Threshold Covenant of H. Clay Trumbull.
-Strack, Der Blut-Aberglaube [?] (contains blood material).
+Blood-Covenant & The Threshold Covenant of H. 〔[Q·N：H. Clay Trumbull, The Blood Covenant 与 The Threshold Covenant；两书均由手稿书目直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕 Clay Trumbull.
+Strack, Der Blut-Aberglaube [?] 〔[Q·N：Hermann L. Strack, Der Blut-Aberglaube［题名读法／版本待核］；保留手稿不确定性](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 (contains blood material).
 
 **Chinese translation / 中文译文**
 
-“牺牲——书目”：André（？）《食人》；Steinmetz《内食人》；《人类学》中的某篇文章；Brinton 的一篇文章，可提供良好书目与公允概述；H. Clay Trumbull《血盟》与《门槛盟约》；Strack《血的迷信》（？），含血液相关材料。
+“牺牲——书目”：André（？）《食人》；Steinmetz《内食人》；《人类学》中的某篇文章；Brinton 的一篇文章，可提供良好书目与公允概述；H. Clay Trumbull《血盟》与《门槛盟约》；Strack《血的迷信》（？） 〔[Q·D：Rudolf S. Steinmetz, Endokannibalismus, Mittheilungen der Anthropologischen Gesellschaft in Wien 26 (1896), pp.1–60；原文已完整找回](research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md)〕 〔[Q·C：Marillier 对 Steinmetz 的书评见 Revue de l’histoire des religions 34 (1896), pp.113–115；旧记 pp.113–118 已校正，不代表手稿直接抄用书评](research_notes/lovejoy_as_orientalist_web_sweep_batch148_RHR34_Marillier_Steinmetz_page_boundary_correction.md)〕 〔[Q·N：H. Clay Trumbull, The Blood Covenant 与 The Threshold Covenant；两书均由手稿书目直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕 〔[Q·N：Hermann L. Strack, Der Blut-Aberglaube［题名读法／版本待核］；保留手稿不确定性](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕，含血液相关材料。
 
 **Uncertain readings / 疑难读法:** first French title/author and one article citation uncertain
 
@@ -3458,23 +3464,23 @@ Strack, Der Blut-Aberglaube [?] (contains blood material).
 **English transcription / 英文转录**
 
 Africa bibliography / ethnographic sources:
-Callaway — The Religious System of the Amazulu.
+Callaway — The Religious System of the Amazulu. 〔[Q·N：Henry Callaway, The Religious System of the Amazulu；非洲材料书目直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 J. [or Jill] Macdonald/Mackenzie [?] — [title concerning Bushmen].
 Bleek — A Brief Account of the Bushmen Folklore [?]; A Glimpse into the Mythology of the Bushmen [?].
 Hahn — The Supreme Being of the Khoi-Khoi [?].
 Kolbe — Description du Cap de Bonne Espérance.
-Casalis — Les Basutos.
-Livingstone — Missionary Travels in South Africa.
+Casalis — Les Basutos. 〔[Q·N：Eugène Casalis, Les Basutos；手稿直接列名，具体摘录位置待核](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
+Livingstone — Missionary Travels in South Africa. 〔[Q·N：David Livingstone, Missionary Travels in South Africa；手稿直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 [several further southern-African works].
 Stanley — Five Years on the Congo.
 Rose, Cowper — Four Years in Southern Africa.
-Grout, Lewis — Zululand.
+Grout, Lewis — Zululand. 〔[Q·N：Lewis Grout, Zululand；书目直接列名，与第 79–80 页 Zulu 祷词相关](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 Norris, Robert — Memoirs of the Reign of Bossa Ahadee [?].
 [other references].
 
 **Chinese translation / 中文译文**
 
-非洲书目或民族志来源：Callaway《Amazulu 的宗教体系》；J. Macdonald/Mackenzie（？）关于 Bushmen 的著作；Bleek《Bushmen 民间传说简述》（？）与《Bushmen 神话一瞥》（？）；Hahn《Khoi-Khoi 的至上存在》（？）；Kolbe《好望角记述》；Casalis《Basutos》；Livingstone《南非传教旅行》；另有若干部南部非洲著作；Stanley《在刚果的五年》；Cowper Rose《南非四年》；Lewis Grout《祖鲁兰》；Robert Norris《Bossa Ahadee 统治回忆录》（？）等。
+非洲书目或民族志来源：Callaway《Amazulu 的宗教体系》；J. Macdonald/Mackenzie（？） 〔[Q·N：Henry Callaway, The Religious System of the Amazulu；非洲材料书目直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕关于 Bushmen 的著作；Bleek《Bushmen 民间传说简述》（？）与《Bushmen 神话一瞥》（？）；Hahn《Khoi-Khoi 的至上存在》（？）；Kolbe《好望角记述》；Casalis《Basutos》；Livingstone《南非传教旅行》；另有若干部南部非洲著作；Stanley《在刚果的五年》；Cowper Rose《南非四年》；Lewis Grout《祖鲁兰》；Robert Norris《Bossa Ahadee 统治回忆录》（？） 〔[Q·N：Eugène Casalis, Les Basutos；手稿直接列名，具体摘录位置待核](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 〔[Q·N：David Livingstone, Missionary Travels in South Africa；手稿直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 〔[Q·N：Lewis Grout, Zululand；书目直接列名，与第 79–80 页 Zulu 祷词相关](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕等。
 
 **Uncertain readings / 疑难读法:** several author names/titles difficult; transcribed only where legible
 
@@ -3485,13 +3491,13 @@ Norris, Robert — Memoirs of the Reign of Bossa Ahadee [?].
 
 **English transcription / 英文转录**
 
-No. 18. The sacrifice magical in a sort of machine: one should not put it into operation unless sure of remaining master of it, for the body/power will take advantage of a man's lack of technical skill with the magical apparatus to subdue him in turn to their will. It is a family/transaction between food and sacrifice in which one or the other must go under.
+No. 18. The sacrifice magical in a sort of machine: one should not put it into operation unless sure of remaining master of it, for the body/power will take advantage of a man's lack of technical skill with the magical apparatus to subdue him in turn to their will. 〔[Q·C：Marillier, 1897 年 sacrifice 论文关于仪式的机械效力／神祇介入区分；思想对照而非确证誊录](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕 It is a family/transaction between food and sacrifice in which one or the other must go under.
 
 But there are also magical sacrifices where one does not even work by way of constraint upon the will of gods, but directly upon the forces of nature. If one wants rain, one makes [an imitative rite], the savage idea being that some strange unity in nature links the act to the desired result.
 
 **Chinese translation / 中文译文**
 
-第 18 项。巫术性牺牲像一部机器：除非确信能够驾驭它，否则不应启动，因为其中的身体或力量会利用操作者技术不足，反过来使他屈从其意志。这是食物与牺牲之间的一种关系或交易，双方必有一方被制服。但也有一些巫术牺牲，并非强迫诸神的意志，而是直接作用于自然力量。例如祈雨时施行模仿性仪式；所谓“野蛮人”的设想是，自然中某种奇异统一性把仪式行为与预期结果连结起来。
+第 18 项。巫术性牺牲像一部机器：除非确信能够驾驭它，否则不应启动，因为其中的身体或力量会利用操作者技术不足，反过来使他屈从其意志。 〔[Q·C：Marillier, 1897 年 sacrifice 论文关于仪式的机械效力／神祇介入区分；思想对照而非确证誊录](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕这是食物与牺牲之间的一种关系或交易，双方必有一方被制服。但也有一些巫术牺牲，并非强迫诸神的意志，而是直接作用于自然力量。例如祈雨时施行模仿性仪式；所谓“野蛮人”的设想是，自然中某种奇异统一性把仪式行为与预期结果连结起来。
 
 **Uncertain readings / 疑难读法:** one phrase in opening paragraph; bottom example trails onto next page
 
@@ -3502,13 +3508,13 @@ But there are also magical sacrifices where one does not even work by way of con
 
 **English transcription / 英文转录**
 
-[continuation] ... affect it. Such rites are not to be identified as a single original type. More commonly several motives are mingled, and only delicate analysis can associate the different ritual elements. Often syncretism follows a period when several sacrifices were distinct in character and later become combined.
+[continuation] ... affect it. Such rites are not to be identified as a single original type. 〔[Q·A：Lovejoy 明确拒绝将混合仪式还原为单一起源；与 Marillier 对多种牺牲机制的讨论平行](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 More commonly several motives are mingled, and only delicate analysis can associate the different ritual elements. Often syncretism follows a period when several sacrifices were distinct in character and later become combined.
 
 One common class concerns offerings to the dead. At first naturally food is given to the dead and [then] sacrifice develops from it. The dead receive food, blood, libations of wine, and in some cases human victims. The ideas underlying these offerings are various and often mixed.
 
 **Chinese translation / 中文译文**
 
-续上：这些仪式不能被认作单一的原初类型。更常见的是多种动机混杂，只有细致分析才能把不同仪式要素分别归类。若干原本性质不同的牺牲，经过一段时期后合并，便形成混合主义。常见的一类是向死者供奉：起初自然只是给死者食物，随后由此发展为牺牲。死者得到食物、血、酒祭，有时也得到人牲；支撑这些供奉的观念多种多样，并常彼此混合。
+续上：这些仪式不能被认作单一的原初类型。 〔[Q·A：Lovejoy 明确拒绝将混合仪式还原为单一起源；与 Marillier 对多种牺牲机制的讨论平行](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕更常见的是多种动机混杂，只有细致分析才能把不同仪式要素分别归类。若干原本性质不同的牺牲，经过一段时期后合并，便形成混合主义。常见的一类是向死者供奉：起初自然只是给死者食物，随后由此发展为牺牲。死者得到食物、血、酒祭，有时也得到人牲；支撑这些供奉的观念多种多样，并常彼此混合。
 
 **Uncertain readings / 疑难读法:** upper-left continuation uncertain; some examples of offerings compressed
 
@@ -3519,13 +3525,13 @@ One common class concerns offerings to the dead. At first naturally food is give
 
 **English transcription / 英文转录**
 
-[Funerary sacrifice.] To provide the dead in the future life with what they possessed in life: at a later stage one kills a man/slave so that the dead may have attendants in a condition corresponding to the next life. In the case of royalty or wealthy persons, human beings may be killed at the tomb/table.
+[Funerary sacrifice.] 〔[Q·C：Marillier, 1897：丧葬供养与其他牺牲机制的功能区分](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕 To provide the dead in the future life with what they possessed in life: at a later stage one kills a man/slave so that the dead may have attendants in a condition corresponding to the next life. In the case of royalty or wealthy persons, human beings may be killed at the tomb/table.
 
 In many cases the rite becomes a family or communal obligation: performance by the community/family has a social character apart from the private needs of the individual dead. Family sacrifice may thus acquire wider social and religious force.
 
 **Chinese translation / 中文译文**
 
-“丧葬牺牲”。目的在于把死者生前拥有之物继续供给来世；到较后阶段，人们杀死一个人或奴隶，使死者在彼世相应处境中仍有侍从。王族或富人下葬时，墓边或祭桌旁可能杀人。许多个案中，仪式成为家族或共同体的义务：共同体或家庭的履行具有社会性质，超出个别死者的私人需要；家族牺牲因而可能取得更广泛的社会和宗教力量。
+“丧葬牺牲”。 〔[Q·C：Marillier, 1897：丧葬供养与其他牺牲机制的功能区分](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕目的在于把死者生前拥有之物继续供给来世；到较后阶段，人们杀死一个人或奴隶，使死者在彼世相应处境中仍有侍从。王族或富人下葬时，墓边或祭桌旁可能杀人。许多个案中，仪式成为家族或共同体的义务：共同体或家庭的履行具有社会性质，超出个别死者的私人需要；家族牺牲因而可能取得更广泛的社会和宗教力量。
 
 **Uncertain readings / 疑难读法:** several clauses in middle and lower half indistinct
 
@@ -3551,11 +3557,11 @@ On southern African populations and sacrifice. Distinctions among Bantu, Bushmen
 
 **English transcription / 英文转录**
 
-[South African examples continued.] References to Max Müller/Callaway [?] and Zulu/Bantu materials. Lovejoy compares forms of sacrifice and divine/ancestral beings, asking whether apparent differences represent developmental stages or merely different social settings. [Much of page illegible.]
+[South African examples continued.] References to Max Müller/Callaway [?] 〔[Q·N：Max Müller／Henry Callaway 为该页可能出现的来源；原字存在疑读，不能据此锁定具体文本](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 and Zulu/Bantu materials. Lovejoy compares forms of sacrifice and divine/ancestral beings, asking whether apparent differences represent developmental stages or merely different social settings. [Much of page illegible.]
 
 **Chinese translation / 中文译文**
 
-续南非例证，涉及 Max Müller／Callaway（？）及 Zulu、Bantu 材料。Lovejoy 比较牺牲的形式与神灵或祖先存在，追问表面的差别究竟代表发展阶段，还是仅仅来自不同社会环境。本页大部分无法辨读。
+续南非例证，涉及 Max Müller／Callaway（？） 〔[Q·N：Max Müller／Henry Callaway 为该页可能出现的来源；原字存在疑读，不能据此锁定具体文本](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕及 Zulu、Bantu 材料。Lovejoy 比较牺牲的形式与神灵或祖先存在，追问表面的差别究竟代表发展阶段，还是仅仅来自不同社会环境。本页大部分无法辨读。
 
 **Uncertain readings / 疑难读法:** page extremely difficult; retained only secure argumentative structure
 
@@ -3568,11 +3574,11 @@ On southern African populations and sacrifice. Distinctions among Bantu, Bushmen
 
 A recent ancestor may retain power and influence after death; offerings/prayers may be addressed to such beings, while magical acts can also be designed to produce an immediate effect without intervention of a personal deity.
 
-Lovejoy cautions against ranking cultures by a simple scale. Funeral sacrifice may be extremely primitive even when elaborate. Animal sacrifice is not necessarily evidence of advancement over human sacrifice; in some contexts the human victim belongs to an older period of extreme respect for a particular dead person. [citation notes follow].
+Lovejoy cautions against ranking cultures by a simple scale. 〔[Q·A：Lovejoy 拒绝将丧葬、巫术与神祇信仰压成单线进化序列](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Funeral sacrifice may be extremely primitive even when elaborate. Animal sacrifice is not necessarily evidence of advancement over human sacrifice; in some contexts the human victim belongs to an older period of extreme respect for a particular dead person. [citation notes follow].
 
 **Chinese translation / 中文译文**
 
-较近世的祖先死后仍可能保有权力与影响，人们会向其供奉、祈祷；与此同时，巫术行为也可绕开人格神，直接产生即时效果。Lovejoy 警告，不应把文化简单排成单线等级。丧葬牺牲即便形式繁复，也可能极为早期；动物牺牲不必表示比人祭更“先进”。在某些语境中，人牲反而属于一个极端尊崇特定死者的较早时期。下有引文笔记。
+较近世的祖先死后仍可能保有权力与影响，人们会向其供奉、祈祷；与此同时，巫术行为也可绕开人格神，直接产生即时效果。Lovejoy 警告，不应把文化简单排成单线等级。 〔[Q·A：Lovejoy 拒绝将丧葬、巫术与神祇信仰压成单线进化序列](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕丧葬牺牲即便形式繁复，也可能极为早期；动物牺牲不必表示比人祭更“先进”。在某些语境中，人牲反而属于一个极端尊崇特定死者的较早时期。下有引文笔记。
 
 **Uncertain readings / 疑难读法:** citations and some ethnographic wording uncertain
 
@@ -3583,11 +3589,11 @@ Lovejoy cautions against ranking cultures by a simple scale. Funeral sacrifice m
 
 **English transcription / 英文转录**
 
-Animal sanctity and sacrifice. References include Cowper Rose, Four Years in Southern Africa. Restrictions on women in relation to cattle/animals are noted. Lovejoy asks whether reverence for animals sacrificed to a deity really implies divinity of the animal. In some cases killing a rain-maker/diviner is punishment for failure to exercise his function effectively, rather than sacrifice to gain rain. Similar cases must be distinguished from genuine religious sacrifice; one cannot infer sacrificial meaning merely from ritualized killing.
+Animal sanctity and sacrifice. References include Cowper Rose, Four Years in Southern Africa. 〔[Q·N：Cowper Rose, Four Years in Southern Africa；手稿直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 Restrictions on women in relation to cattle/animals are noted. Lovejoy asks whether reverence for animals sacrificed to a deity really implies divinity of the animal. In some cases killing a rain-maker/diviner is punishment for failure to exercise his function effectively, rather than sacrifice to gain rain. Similar cases must be distinguished from genuine religious sacrifice; one cannot infer sacrificial meaning merely from ritualized killing.
 
 **Chinese translation / 中文译文**
 
-动物的神圣性与牺牲，所引包括 Cowper Rose《南非四年》。笔记提到妇女接触牛或其他动物时受到的限制。Lovejoy 追问，敬重献给神的动物，是否真的意味着动物本身具有神性。有些杀死祈雨者或占卜者的案例，是惩罚其未能有效履职，而不是为了求雨献祭。必须把这类情形同真正宗教牺牲区分开来；不能仅凭杀戮经过仪式化便推断其具有献祭意义。
+动物的神圣性与牺牲，所引包括 Cowper Rose《南非四年》。 〔[Q·N：Cowper Rose, Four Years in Southern Africa；手稿直接列名](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕笔记提到妇女接触牛或其他动物时受到的限制。Lovejoy 追问，敬重献给神的动物，是否真的意味着动物本身具有神性。有些杀死祈雨者或占卜者的案例，是惩罚其未能有效履职，而不是为了求雨献祭。必须把这类情形同真正宗教牺牲区分开来；不能仅凭杀戮经过仪式化便推断其具有献祭意义。
 
 **Uncertain readings / 疑难读法:** several citation details uncertain
 
@@ -3598,11 +3604,11 @@ Animal sanctity and sacrifice. References include Cowper Rose, Four Years in Sou
 
 **English transcription / 英文转录**
 
-[continuation] One must also distinguish ritual killing from cannibalism. Human flesh may be eaten as a primitive medicine or as a means of driving out/appropriating a spirit, and taboos on eating may have different origins. Such cases provide only cautious evidence for sacrifice proper.
+[continuation] One must also distinguish ritual killing from cannibalism. 〔[Q·A：Lovejoy 的机制区分；可与 Steinmetz 1896 对食人动机的分析对读，但不能简化为单因与多因之争](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕 Human flesh may be eaten as a primitive medicine or as a means of driving out/appropriating a spirit, and taboos on eating may have different origins. Such cases provide only cautious evidence for sacrifice proper.
 
 **Chinese translation / 中文译文**
 
-还必须区分仪式性杀戮与食人。食用人肉可能是一种早期药物，或用于驱逐、吸收某个精灵；禁食也可能具有不同起源。因此，这类个案只能为严格意义上的牺牲提供需要谨慎对待的证据。
+还必须区分仪式性杀戮与食人。 〔[Q·A：Lovejoy 的机制区分；可与 Steinmetz 1896 对食人动机的分析对读，但不能简化为单因与多因之争](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕食用人肉可能是一种早期药物，或用于驱逐、吸收某个精灵；禁食也可能具有不同起源。因此，这类个案只能为严格意义上的牺牲提供需要谨慎对待的证据。
 
 **Uncertain readings / 疑难读法:** opening lines and final examples uncertain
 
@@ -3645,11 +3651,11 @@ Burning and destruction of property at funerals. A practice may begin as a way o
 
 **English transcription / 英文转录**
 
-References to Cowper Rose, Callaway, Lewis Grout/Zululand and related southern-African material. Sacrificial offerings may superficially resemble totemism or animal worship, but the accompanying rules must be examined before inferring either. Offerings to the dead often have an element of contract or expected advantage, but many are acts of loyalty to a deceased chief rather than payment for a specific favor. Lovejoy stresses that serious offences and propitiatory sacrifice should not be conflated with funerary loyalty.
+References to Cowper Rose, Callaway, Lewis Grout/Zululand and related southern-African material. 〔[Q·N：Callaway、Cowper Rose 与 Lewis Grout 为手稿列名的非洲材料来源；具体页码不擅补](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 Sacrificial offerings may superficially resemble totemism or animal worship, but the accompanying rules must be examined before inferring either. Offerings to the dead often have an element of contract or expected advantage, but many are acts of loyalty to a deceased chief rather than payment for a specific favor. Lovejoy stresses that serious offences and propitiatory sacrifice should not be conflated with funerary loyalty.
 
 **Chinese translation / 中文译文**
 
-引用 Cowper Rose、Callaway、Lewis Grout／《祖鲁兰》及相关南部非洲材料。供品表面上可能类似图腾制或动物崇拜，但必须先考察伴随规则，才能作出这类推断。向死者供奉常含契约或预期获利的成分，但许多行为是对已故酋长的忠诚，并非为特定恩惠付款。Lovejoy 强调，严重冒犯后的和解祭，不应与丧葬忠诚混为一谈。
+引用 Cowper Rose、Callaway、Lewis Grout／《祖鲁兰》及相关南部非洲材料。 〔[Q·N：Callaway、Cowper Rose 与 Lewis Grout 为手稿列名的非洲材料来源；具体页码不擅补](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕供品表面上可能类似图腾制或动物崇拜，但必须先考察伴随规则，才能作出这类推断。向死者供奉常含契约或预期获利的成分，但许多行为是对已故酋长的忠诚，并非为特定恩惠付款。Lovejoy 强调，严重冒犯后的和解祭，不应与丧葬忠诚混为一谈。
 
 **Uncertain readings / 疑难读法:** several page references and one technical term uncertain
 
@@ -3660,11 +3666,11 @@ References to Cowper Rose, Callaway, Lewis Grout/Zululand and related southern-A
 
 **English transcription / 英文转录**
 
-[Funerary sacrifice continued.] Lovejoy asks under what social conditions sacrifice of persons around a dead ruler is possible and how it relates to status hierarchy. Such sacrifices are treated as products of a social order in which the dead ruler's household and service relationships are expected to continue. Comparative evidence is cited [references largely illegible]. The page ends by returning to the classification of sacrifice and the question of whether these rites belong to a distinct type.
+[Funerary sacrifice continued.] Lovejoy asks under what social conditions sacrifice of persons around a dead ruler is possible and how it relates to status hierarchy. 〔[Q·A：Lovejoy 将陪葬杀人解释为社会关系与服役结构，而非当然的圣礼共餐](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Such sacrifices are treated as products of a social order in which the dead ruler's household and service relationships are expected to continue. Comparative evidence is cited [references largely illegible]. The page ends by returning to the classification of sacrifice and the question of whether these rites belong to a distinct type.
 
 **Chinese translation / 中文译文**
 
-续论丧葬牺牲。Lovejoy 追问：在何种社会条件下，围绕死去统治者杀人献祭才成为可能？它与身份等级有何关系？这类牺牲产生于一种社会秩序，其中死去统治者的家户与服役关系被期待在死后继续。笔记引用比较材料，但来源多半无法辨读；末尾回到牺牲分类，并追问这些仪式是否构成一种独立类型。
+续论丧葬牺牲。Lovejoy 追问：在何种社会条件下，围绕死去统治者杀人献祭才成为可能？ 〔[Q·A：Lovejoy 将陪葬杀人解释为社会关系与服役结构，而非当然的圣礼共餐](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕它与身份等级有何关系？这类牺牲产生于一种社会秩序，其中死去统治者的家户与服役关系被期待在死后继续。笔记引用比较材料，但来源多半无法辨读；末尾回到牺牲分类，并追问这些仪式是否构成一种独立类型。
 
 **Uncertain readings / 疑难读法:** most bibliography/case names illegible; argument reconstructed only from clearly legible phrases
 
@@ -3695,11 +3701,11 @@ References to Cowper Rose, Callaway, Lewis Grout/Zululand and related southern-A
 
 Lovejoy stresses the difficulty of interpreting a practice from outward form alone. A practice may be explained as support/provision for the dead, as a protective or magical act, or through later ritual interpretation; the same visible rite need not have one motive.
 
-Another reason for human sacrifice is the desire to communicate with the dead or to send them a message. A letter is a favored method, and the messenger is of course a victim. In this case the sending of a human victim is a kind of utilitarian sacrifice rather than worship. Where the dead person is imagined able to communicate between living and dead, however, the rite may approach a mystical or sacramental form of union.
+Another reason for human sacrifice is the desire to communicate with the dead or to send them a message. A letter is a favored method, and the messenger is of course a victim. 〔[Q·C：牺牲者作为使者／媒介可与 Hubert 与 Mauss (1899) 对读；未证明 Lovejoy 阅读或接触该文](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕 In this case the sending of a human victim is a kind of utilitarian sacrifice rather than worship. Where the dead person is imagined able to communicate between living and dead, however, the rite may approach a mystical or sacramental form of union.
 
 **Chinese translation / 中文译文**
 
-续论人祭。Lovejoy 强调，仅凭外在形式很难解释一种做法：它可能被理解为向死者提供给养，也可能是防护或巫术行为，或经过后来仪式解释而获得新意义；同一可见仪式未必只有一种动机。人祭的另一理由，是与死者沟通或向其传信；书信是常见方式，而送信者自然就成为牺牲品。此时送出人牲是功利性牺牲，不是崇拜。不过，若死者被设想为能够沟通生死两界，仪式就可能接近神秘或圣礼式的结合。
+续论人祭。Lovejoy 强调，仅凭外在形式很难解释一种做法：它可能被理解为向死者提供给养，也可能是防护或巫术行为，或经过后来仪式解释而获得新意义；同一可见仪式未必只有一种动机。人祭的另一理由，是与死者沟通或向其传信；书信是常见方式，而送信者自然就成为牺牲品。 〔[Q·C：牺牲者作为使者／媒介可与 Hubert 与 Mauss (1899) 对读；未证明 Lovejoy 阅读或接触该文](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕此时送出人牲是功利性牺牲，不是崇拜。不过，若死者被设想为能够沟通生死两界，仪式就可能接近神秘或圣礼式的结合。
 
 **Uncertain readings / 疑难读法:** left-hand opening discussion heavily abbreviated; one Dahomey/West-African source citation illegible; exact wording of the final sacramental-union sentence uncertain
 
@@ -3710,13 +3716,13 @@ Another reason for human sacrifice is the desire to communicate with the dead or
 
 **English transcription / 英文转录**
 
-Comparative evidence on human sacrifice and sacrifice among African peoples. Lovejoy cites Callaway and other ethnographic authorities, including material on sacrifices at the accession of a new sovereign and on regions where human sacrifice had formerly been widespread.
+Comparative evidence on human sacrifice and sacrifice among African peoples. Lovejoy cites Callaway and other ethnographic authorities, including material on sacrifices at the accession of a new sovereign and on regions where human sacrifice had formerly been widespread. 〔[Q·N：Henry Callaway, The Religious System of the Amazulu；本页直接列名，旧推定具体页码仍未最终锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 
 He treats these reports source-critically: apparently similar sacrifices may have different historical motives, and survivals or later developments should not be forced into one scheme. Material on the Basuto and on African ritual is used to test whether sacrifice should be read as communion, propitiation, funerary provision, or some other form. The page again questions whether a supposed communion-sacrifice is genuinely primitive or a later development.
 
 **Chinese translation / 中文译文**
 
-比较非洲民族的人祭与牺牲材料。Lovejoy 引 Callaway 等民族志作者，包括新君即位时的献祭，以及过去人祭曾广泛流行地区的材料。他以来源批判方式处理这些报告：表面相似的牺牲可能具有不同历史动机，残存形式或后起发展不应被强塞进单一图式。Basuto 与其他非洲仪式材料被用来检验：牺牲应理解为共餐、和解、丧葬供给，还是其他形式？他再次追问，所谓共餐牺牲究竟真是早期类型，还是后来发展。
+比较非洲民族的人祭与牺牲材料。Lovejoy 引 Callaway 等民族志作者，包括新君即位时的献祭，以及过去人祭曾广泛流行地区的材料。 〔[Q·N：Henry Callaway, The Religious System of the Amazulu；本页直接列名，旧推定具体页码仍未最终锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕他以来源批判方式处理这些报告：表面相似的牺牲可能具有不同历史动机，残存形式或后起发展不应被强塞进单一图式。Basuto 与其他非洲仪式材料被用来检验：牺牲应理解为共餐、和解、丧葬供给，还是其他形式？他再次追问，所谓共餐牺牲究竟真是早期类型，还是后来发展。
 
 **Uncertain readings / 疑难读法:** several author/title and page references are illegible; exact ethnographic locality of one accession sacrifice uncertain; right-hand paragraph contains dense corrections and cancellations
 
@@ -3731,11 +3737,11 @@ Human sacrifice to the dead appears very widely, but Lovejoy asks what the nativ
 
 Among some peoples the heart or another especially durable/important part of the body is treated as having peculiar value. Lovejoy distinguishes an autophagic or cannibal act from a sacrifice intended to produce union: the former need not have any magical or mystical effect.
 
-Substitution for a human victim may arise relatively late. A fowl or other animal killed at a tomb can be interpreted as establishing a relation between the dead and the sacrificer. Notes from Trumbull's Blood Covenant are used comparatively, but the analogy is treated cautiously.
+Substitution for a human victim may arise relatively late. A fowl or other animal killed at a tomb can be interpreted as establishing a relation between the dead and the sacrificer. Notes from Trumbull's Blood Covenant are used comparatively, but the analogy is treated cautiously. 〔[Q·N：H. Clay Trumbull, The Blood Covenant；手稿明确作为比较来源，但本页对应页码尚未证实](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕
 
 **Chinese translation / 中文译文**
 
-向死者献人似乎分布极广，但 Lovejoy 追问本地解释究竟是什么。牺牲品可能用于安抚死者精灵，却未必是食物供奉；替代也是另一可能。有些民族把心脏或其他特别耐久、重要的身体部位视为具有特殊价值。Lovejoy 区分自体吞食或食人行为与旨在造成结合的牺牲：前者未必具有任何巫术或神秘效果。以鸡或其他动物替代人牲，或许出现得较晚；墓边杀动物也可被解释为在死者与献祭者之间建立关系。他比较使用 Trumbull《血盟》的笔记，但对类比保持谨慎。
+向死者献人似乎分布极广，但 Lovejoy 追问本地解释究竟是什么。牺牲品可能用于安抚死者精灵，却未必是食物供奉；替代也是另一可能。有些民族把心脏或其他特别耐久、重要的身体部位视为具有特殊价值。Lovejoy 区分自体吞食或食人行为与旨在造成结合的牺牲：前者未必具有任何巫术或神秘效果。以鸡或其他动物替代人牲，或许出现得较晚；墓边杀动物也可被解释为在死者与献祭者之间建立关系。他比较使用 Trumbull《血盟》的笔记，但对类比保持谨慎。 〔[Q·N：H. Clay Trumbull, The Blood Covenant；手稿明确作为比较来源，但本页对应页码尚未证实](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕
 
 **Uncertain readings / 疑难读法:** opening source/date line uncertain; one phrase concerning the heart/body part is only partly legible; Trumbull page reference uncertain
 
@@ -3748,11 +3754,11 @@ Substitution for a human victim may arise relatively late. A fowl or other anima
 
 Lovejoy continues with funeral/ancestral sacrifice and the close coexistence of fear and love toward the dead. He looks for evidence that alimentary sacrifice is early and that food or animals given to dead chiefs/ancestors preserve a relation between the living group and its dead.
 
-A Zulu prayer translated by Lewis Grout is especially important. The preliminary ritual identifies illness as caused by neglected ancestors or ancestral shades; they reproach the sufferer and demand a sacrifice, often a particular cow. The resulting prayer is described as a veritable bargain: the worshipper promises the animal in exchange for relief or cure.
+A Zulu prayer translated by Lewis Grout is especially important. 〔[Q·D：Lewis Grout, Zululand：Zulu 祖先祷词的明确来源；对应书页尚待独立锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 The preliminary ritual identifies illness as caused by neglected ancestors or ancestral shades; they reproach the sufferer and demand a sacrifice, often a particular cow. The resulting prayer is described as a veritable bargain: the worshipper promises the animal in exchange for relief or cure.
 
 **Chinese translation / 中文译文**
 
-续论丧葬或祖先牺牲，以及对死者的恐惧与爱并存。Lovejoy 寻找证据，证明食物性牺牲出现较早，而供给已故酋长或祖先的食物、动物维系了活着群体与死者的关系。Lewis Grout 翻译的一篇 Zulu 祷词尤其重要：预备仪式先把疾病归因于被忽视的祖先或祖灵；祖灵责备病人并要求献祭，常指定一头牛。随后的祈祷被描述为一桩真正的交易：崇拜者许诺献牛，以换取缓解或治愈。
+续论丧葬或祖先牺牲，以及对死者的恐惧与爱并存。Lovejoy 寻找证据，证明食物性牺牲出现较早，而供给已故酋长或祖先的食物、动物维系了活着群体与死者的关系。Lewis Grout 翻译的一篇 Zulu 祷词尤其重要：预备仪式先把疾病归因于被忽视的祖先或祖灵；祖灵责备病人并要求献祭，常指定一头牛。 〔[Q·D：Lewis Grout, Zululand：Zulu 祖先祷词的明确来源；对应书页尚待独立锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕随后的祈祷被描述为一桩真正的交易：崇拜者许诺献牛，以换取缓解或治愈。
 
 **Uncertain readings / 疑难读法:** one introductory ethnographic citation uncertain; several words in the Zulu-prayer setup are abbreviated; exact wording of the bargain formula continues onto next page
 
@@ -3763,7 +3769,7 @@ A Zulu prayer translated by Lewis Grout is especially important. The preliminary
 
 **English transcription / 英文转录**
 
-[continuation of Zulu ancestral-sacrifice prayer]
+[continuation of Zulu ancestral-sacrifice prayer] 〔[Q·D：续承第 79 页 Lewis Grout, Zululand 所载 Zulu 祷词；具体书页尚待复核](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 
 The worshipper promises: if he is cured, he will know the ancestor caused or removed the affliction and will give the cow afterwards. Lovejoy remarks that confidence in the ancestor is present, but the offering remains explicitly transactional; it is not simply an unconditional gift.
 
@@ -3773,7 +3779,7 @@ Lovejoy concludes that such a case may combine alimentary, expiatory, and funera
 
 **Chinese translation / 中文译文**
 
-续 Zulu 祖先牺牲祷词。崇拜者承诺：若得痊愈，就会知道疾病由祖先造成或解除，并在事后献牛。Lovejoy 指出，其中确有对祖先的信赖，但供品仍明确具有交易性，并非无条件赠礼。这里也出现替代或替罪羊观念：人们可要求牛把病人身上的邪恶“带走”。祭牲的某些部位，尤其头骨或牛角，随后被保存为物神或护符，以防疾病复发。因此同一案例可能混合食物性、赎罪性与丧葬性牺牲，却几乎不能证明神秘结合。
+续 Zulu 祖先牺牲祷词。 〔[Q·D：续承第 79 页 Lewis Grout, Zululand 所载 Zulu 祷词；具体书页尚待复核](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕崇拜者承诺：若得痊愈，就会知道疾病由祖先造成或解除，并在事后献牛。Lovejoy 指出，其中确有对祖先的信赖，但供品仍明确具有交易性，并非无条件赠礼。这里也出现替代或替罪羊观念：人们可要求牛把病人身上的邪恶“带走”。祭牲的某些部位，尤其头骨或牛角，随后被保存为物神或护符，以防疾病复发。因此同一案例可能混合食物性、赎罪性与丧葬性牺牲，却几乎不能证明神秘结合。
 
 **Uncertain readings / 疑难读法:** exact formula addressed to the ancestor partly illegible; one source name near the fetish/skull discussion uncertain
 
@@ -3805,13 +3811,13 @@ The page then turns to a new topic: circumcision and the ritual use/value of blo
 
 Circumcision is treated as an incorporation rite. Before circumcision children do not possess the full privileges or limitations of the tribe; by the act, rights and obligations are conferred. Neophytes may wear a special coiffure and remain under temporary restrictions before returning to ordinary social life.
 
-The shedding of blood is central. Young men are circumcised together and are thereafter regarded as entering a specially intimate relation, a bond of fraternity. Lovejoy calls this clearly a case of blood-brotherhood: fraternity is produced by blood spilt at the same time and place.
+The shedding of blood is central. 〔[Q·C：Trumbull, The Blood Covenant 的血盟／纳入共同体问题背景；此处并无可确证的逐句对应](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕 Young men are circumcised together and are thereafter regarded as entering a specially intimate relation, a bond of fraternity. Lovejoy calls this clearly a case of blood-brotherhood: fraternity is produced by blood spilt at the same time and place.
 
 The rite can therefore be read as adoption into the paternal/tribal circle, with privileges and responsibilities conveyed through participation in the blood of the group.
 
 **Chinese translation / 中文译文**
 
-割礼被视为纳入共同体的仪式。割礼前，儿童尚不具有部族的完整特权与限制；通过这一行为，他们获得权利和义务。入门者可能梳特殊发式，暂时受到各种限制，之后才回归日常社会生活。流血是核心：青年一同受割礼，此后被认为进入格外亲密的关系，形成兄弟纽带。Lovejoy 明确称其为血兄弟关系，即由同一时间、地点流出的血制造兄弟情谊。仪式因此可理解为被收养进父系或部族圈子，并通过分享群体之血获得特权与责任。
+割礼被视为纳入共同体的仪式。割礼前，儿童尚不具有部族的完整特权与限制；通过这一行为，他们获得权利和义务。入门者可能梳特殊发式，暂时受到各种限制，之后才回归日常社会生活。流血是核心：青年一同受割礼，此后被认为进入格外亲密的关系，形成兄弟纽带。 〔[Q·C：Trumbull, The Blood Covenant 的血盟／纳入共同体问题背景；此处并无可确证的逐句对应](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕Lovejoy 明确称其为血兄弟关系，即由同一时间、地点流出的血制造兄弟情谊。仪式因此可理解为被收养进父系或部族圈子，并通过分享群体之血获得特权与责任。
 
 **Uncertain readings / 疑难读法:** one age notation for circumcision uncertain; one phrase about a sacred object/stone touched with blood uncertain
 
@@ -3843,13 +3849,13 @@ The right-hand page is blank.
 
 Sacrifices on the East Coast of Africa and related anthropological practices. Lovejoy notes a special form of fetish/protective rite and asks whether it is limited to Africa.
 
-A Basuto example describes sacrifice connected with the founding or consecration of a new settlement/capital. Human or animal remains, blood, flesh, or bones may be incorporated into the foundation or retained as protective material. The aim is the safety, continuity, or impregnability of the new place.
+A Basuto example describes sacrifice connected with the founding or consecration of a new settlement/capital. Human or animal remains, blood, flesh, or bones may be incorporated into the foundation or retained as protective material. 〔[Q·C：Trumbull, The Threshold Covenant 为奠基／门槛仪式的可能比较背景；尚未建立本句的具体页码对应](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 The aim is the safety, continuity, or impregnability of the new place.
 
 Lovejoy explicitly warns that this need not express the idea of union through blood. Foundation/building sacrifice can instead depend on the independent protective efficacy of the victim's body or blood. Bits of flesh elsewhere function as protective charms.
 
 **Chinese translation / 中文译文**
 
-东非沿岸的牺牲及相关人类学习俗。Lovejoy 记录一种特殊物神或防护仪式，并追问它是否仅限于非洲。Basuto 材料描述建立或祝圣新聚落、新都城时的牺牲：人或动物的遗骸、血、肉、骨可被埋入地基或保存为保护材料，目的在保障新地点的安全、延续或不可攻破。Lovejoy 明确警告，这不必表达通过血液结合的观念；奠基或建筑牺牲可能依靠祭牲身体或血液本身独立的防护效力，其他地方的肉块也可充当护符。
+东非沿岸的牺牲及相关人类学习俗。Lovejoy 记录一种特殊物神或防护仪式，并追问它是否仅限于非洲。Basuto 材料描述建立或祝圣新聚落、新都城时的牺牲：人或动物的遗骸、血、肉、骨可被埋入地基或保存为保护材料，目的在保障新地点的安全、延续或不可攻破。 〔[Q·C：Trumbull, The Threshold Covenant 为奠基／门槛仪式的可能比较背景；尚未建立本句的具体页码对应](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕Lovejoy 明确警告，这不必表达通过血液结合的观念；奠基或建筑牺牲可能依靠祭牲身体或血液本身独立的防护效力，其他地方的肉块也可充当护符。
 
 **Uncertain readings / 疑难读法:** title of the German/South-African source uncertain; details of the Basuto foundation narrative partly illegible; several words in the right-hand comparison with funerary divinities uncertain
 
@@ -3862,13 +3868,13 @@ Lovejoy explicitly warns that this need not express the idea of union through bl
 
 Human flesh may be sought for charms; Lovejoy classifies this as sacrificial-magical or protective rather than necessarily ritual communion. He compares fecundative and foundation sacrifices and notes that in some cases the victim is deliberately made to suffer, contrary to rites in which the victim is expected to be willing, joyful, or consenting.
 
-The page gathers material on the life-giving quality of blood, including Trumbull's Blood Covenant and Strack's Der Blutaberglaube. Blood is credited with curative and rejuvenating power: life can supposedly be restored by bathing in blood, the aged can be restored to youth, and the blood of young children may be used for health or renewal.
+The page gathers material on the life-giving quality of blood, including Trumbull's Blood Covenant and Strack's Der Blutaberglaube. 〔[Q·D：H. Clay Trumbull, The Blood Covenant, p.118；手稿与印本文本已逐项校对，后续材料延至 pp.124–129](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕 〔[Q·N：Hermann L. Strack, Der Blut-Aberglaube；手稿直接列名，具体版本与页码未完全锁定](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 〔[Q·C：Marillier, RHR 37 (1898), pp.351、411–412，与 Trumbull 共享材料场；不能据此断言 Marillier 向 Lovejoy 传递该书](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 Blood is credited with curative and rejuvenating power: life can supposedly be restored by bathing in blood, the aged can be restored to youth, and the blood of young children may be used for health or renewal.
 
 Lovejoy treats these examples as primarily magical rather than medical, and distinguishes them from sacrifice proper.
 
 **Chinese translation / 中文译文**
 
-人肉可能被搜集来制作符咒；Lovejoy 把它归为献祭—巫术或防护，而非必然属于仪式共餐。他比较促生殖牺牲与奠基牺牲，并指出某些仪式故意使祭牲受苦，这与要求祭牲自愿、喜悦或同意的仪式相反。本页汇集血液赋予生命的材料，包括 Trumbull《血盟》和 Strack《血的迷信》。血被认为具有治疗和返老还童之力：以血沐浴可恢复生命，老人可重获青春，幼童之血可用于健康或更新。Lovejoy 认为这些例子主要属于巫术而非医学，并将其同严格意义上的牺牲区分。
+人肉可能被搜集来制作符咒；Lovejoy 把它归为献祭—巫术或防护，而非必然属于仪式共餐。他比较促生殖牺牲与奠基牺牲，并指出某些仪式故意使祭牲受苦，这与要求祭牲自愿、喜悦或同意的仪式相反。本页汇集血液赋予生命的材料，包括 Trumbull《血盟》和 Strack《血的迷信》。 〔[Q·D：H. Clay Trumbull, The Blood Covenant, p.118；手稿与印本文本已逐项校对，后续材料延至 pp.124–129](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕 〔[Q·N：Hermann L. Strack, Der Blut-Aberglaube；手稿直接列名，具体版本与页码未完全锁定](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 〔[Q·C：Marillier, RHR 37 (1898), pp.351、411–412，与 Trumbull 共享材料场；不能据此断言 Marillier 向 Lovejoy 传递该书](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕血被认为具有治疗和返老还童之力：以血沐浴可恢复生命，老人可重获青春，幼童之血可用于健康或更新。Lovejoy 认为这些例子主要属于巫术而非医学，并将其同严格意义上的牺牲区分。
 
 **Uncertain readings / 疑难读法:** one reference to a fort/foundation rite uncertain; exact Strack/Trumbull page numbers uncertain; one example of rejuvenation is difficult to localize ethnographically
 
@@ -3879,13 +3885,13 @@ Lovejoy treats these examples as primarily magical rather than medical, and dist
 
 **English transcription / 英文转录**
 
-Blood, eyes, bones, and other bodily parts are treated as charms against supernatural danger or as means of acquiring the qualities of another person. Lovejoy notes examples in which the eye of a human victim or the body part of a dead chief is believed to confer clearer sight or intelligence; the eye of a white man may be valued because superior intelligence is attributed to him.
+Blood, eyes, bones, and other bodily parts are treated as charms against supernatural danger or as means of acquiring the qualities of another person. Lovejoy notes examples in which the eye of a human victim or the body part of a dead chief is believed to confer clearer sight or intelligence; the eye of a white man may be valued because superior intelligence is attributed to him. 〔[Q·D：H. Clay Trumbull, The Blood Covenant, p.129；具体眼睛／身体部位例证已与印本文本核对](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕
 
 Possession of bones or blood can likewise be interpreted as possession of the dead person's strength, health, or power. Blood used in building or protecting a house contributes directly to the stability and safety of the structure. Again the mechanism is magical efficacy, not necessarily communion.
 
 **Chinese translation / 中文译文**
 
-血、眼睛、骨骼及其他身体部位被用作抵御超自然危险的符咒，或用于取得他人的特质。例如，人牲之眼或死去酋长的身体部位据说能赋予更清晰的视觉或智力；白人的眼睛可能因被归有较高智力而受到重视。占有骨或血，同样可被解释为占有死者的力量、健康或权能。建筑或保护房屋时使用血液，则直接增强结构的稳固与安全。其机制仍是巫术效力，不必是共餐结合。
+血、眼睛、骨骼及其他身体部位被用作抵御超自然危险的符咒，或用于取得他人的特质。例如，人牲之眼或死去酋长的身体部位据说能赋予更清晰的视觉或智力；白人的眼睛可能因被归有较高智力而受到重视。 〔[Q·D：H. Clay Trumbull, The Blood Covenant, p.129；具体眼睛／身体部位例证已与印本文本核对](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕占有骨或血，同样可被解释为占有死者的力量、健康或权能。建筑或保护房屋时使用血液，则直接增强结构的稳固与安全。其机制仍是巫术效力，不必是共餐结合。
 
 **Uncertain readings / 疑难读法:** one Ashanti/Gold Coast source name uncertain; Trumbull quotation/page reference uncertain; right-hand final source citation illegible
 
@@ -3896,13 +3902,13 @@ Possession of bones or blood can likewise be interpreted as possession of the de
 
 **English transcription / 英文转录**
 
-A further series of facts concerns ritual uses of blood, especially in the making or animation of idols/fetishes. Lovejoy argues that blood may be credited with efficacious power in itself and need not merely serve as a pledge of the presence of a spirit. Saliva, perspiration, urine, and excrement can receive analogous magical values.
+A further series of facts concerns ritual uses of blood, especially in the making or animation of idols/fetishes. Lovejoy argues that blood may be credited with efficacious power in itself and need not merely serve as a pledge of the presence of a spirit. 〔[Q·A：Lovejoy 将血自身效力与精灵在场分开；Marillier 的相关讨论仅构成共享问题背景](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 Saliva, perspiration, urine, and excrement can receive analogous magical values.
 
 He then distinguishes another process: one may try to place the spirit of a departed personage under one's power or establish a sympathetic relation to it by ritual contrivances. These practices belong to the larger field of sympathetic magic and the manipulation of images or objects, rather than automatically to sacrifice.
 
 **Chinese translation / 中文译文**
 
-另一组材料涉及血的仪式用途，尤其用于制作或激活偶像、物神。Lovejoy 认为，血本身可被赋予有效力量，并不只是精灵在场的凭证；唾液、汗液、尿液与粪便也可具有类似巫术价值。随后他区分另一过程：人们可能借助仪式机关，设法控制某位死者的精灵，或与之建立感应关系。这些做法属于更广义的感应巫术及对图像或物体的操控，不能自动归入牺牲。
+另一组材料涉及血的仪式用途，尤其用于制作或激活偶像、物神。Lovejoy 认为，血本身可被赋予有效力量，并不只是精灵在场的凭证；唾液、汗液、尿液与粪便也可具有类似巫术价值。 〔[Q·A：Lovejoy 将血自身效力与精灵在场分开；Marillier 的相关讨论仅构成共享问题背景](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕随后他区分另一过程：人们可能借助仪式机关，设法控制某位死者的精灵，或与之建立感应关系。这些做法属于更广义的感应巫术及对图像或物体的操控，不能自动归入牺牲。
 
 **Uncertain readings / 疑难读法:** Grant Allen/source reference in left column uncertain; several words in the transition to spirit-control are illegible; examples following 'sympathetic relation' are heavily abbreviated
 
@@ -3915,11 +3921,11 @@ He then distinguishes another process: one may try to place the spirit of a depa
 
 Lovejoy distinguishes the manipulation of a person (or part/name of a person) in sympathetic magic from another class of objects credited with efficacy in themselves. Plants, stones, amulets, charms, ju-ju/gri-gri and similar objects can be treated as possessing a natural or supernatural efficacy for particular purposes.
 
-The distinction with fetishism is crucial. A fetish is effective insofar as a spirit is believed to inhabit or be present in the object. A charm or amulet need not contain a spirit at all; its efficacy can be intrinsic to the thing.
+The distinction with fetishism is crucial. A fetish is effective insofar as a spirit is believed to inhabit or be present in the object. 〔[Q·A：Lovejoy 区分精灵内居的 fetish 与具有自身效力的 charm；后接 Kingsley 材料，但这项二分不能直接归给 Kingsley](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕 A charm or amulet need not contain a spirit at all; its efficacy can be intrinsic to the thing.
 
 **Chinese translation / 中文译文**
 
-Lovejoy 区分两类：一是感应巫术中操控某个人、其身体部分或名字；二是被认为自身即有效力的物体。植物、石头、护身符、符咒、ju-ju、gri-gri 等，可被视为针对特定目的具有自然或超自然效力。与物神崇拜的区别至关重要：物神之所以有效，是因为人们相信精灵居住或存在于物体中；符咒或护身符则完全不必包含精灵，其效力可以内在于物本身。
+Lovejoy 区分两类：一是感应巫术中操控某个人、其身体部分或名字；二是被认为自身即有效力的物体。植物、石头、护身符、符咒、ju-ju、gri-gri 等，可被视为针对特定目的具有自然或超自然效力。与物神崇拜的区别至关重要：物神之所以有效，是因为人们相信精灵居住或存在于物体中；符咒或护身符则完全不必包含精灵，其效力可以内在于物本身。 〔[Q·A：Lovejoy 区分精灵内居的 fetish 与具有自身效力的 charm；后接 Kingsley 材料，但这项二分不能直接归给 Kingsley](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕
 
 **Uncertain readings / 疑难读法:** one West-African term after 'gri-gri' uncertain; final example on the right continues onto next page
 
@@ -3930,7 +3936,7 @@ Lovejoy 区分两类：一是感应巫术中操控某个人、其身体部分或
 
 **English transcription / 英文转录**
 
-Miss Kingsley is cited on West-African fetish and amulet beliefs. Lovejoy stresses that an amulet is distinct from a fetish: there need be no spiritualistic idea at all. Objects worn or carried against the evil eye or other dangers are simply credited with a special efficacy.
+Miss Kingsley is cited on West-African fetish and amulet beliefs. 〔[Q·D：Mary H. Kingsley, Travels in West Africa (1897), p.511；spirit-indwelling／suhman 具体文本已经核对](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕 〔[Q·C：Hubert 与 Mauss 使用同一 Kingsley 著作的 p.454，而 Lovejoy 对应 p.511；共享作者不等于相同摘录或直接影响](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕 Lovejoy stresses that an amulet is distinct from a fetish: there need be no spiritualistic idea at all. 〔[Q·A：Kingsley p.511 提供精灵内居材料；amulet 的内在效力与 fetish 的对分属于 Lovejoy 的分析改写](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕 Objects worn or carried against the evil eye or other dangers are simply credited with a special efficacy.
 
 For the conceptual world he is reconstructing, there is no sharp boundary between natural and supernatural efficacy. Mandragora may be credited with producing riches just as belladonna is credited with a medicinal effect; both are treated as facts in the order of things.
 
@@ -3938,7 +3944,7 @@ Human blood can acquire the same general status as a powerful charm, including i
 
 **Chinese translation / 中文译文**
 
-引用 Miss Kingsley 关于西非物神与护身符信仰的论述。Lovejoy 强调，护身符不同于物神，其中完全不必有唯灵论观念；佩戴或携带物品以防邪眼等危险，只因人们相信它具有特殊效力。在他重建的观念世界里，自然效力与超自然效力之间没有鲜明界线：曼德拉草可被认为带来财富，正如颠茄被认为具有药效，两者都被当作事物秩序中的事实。人血也可获得强力符咒的一般地位，包括欧洲关于犹太人使用基督徒血液的传说。
+引用 Miss Kingsley 关于西非物神与护身符信仰的论述。 〔[Q·D：Mary H. Kingsley, Travels in West Africa (1897), p.511；spirit-indwelling／suhman 具体文本已经核对](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕 〔[Q·C：Hubert 与 Mauss 使用同一 Kingsley 著作的 p.454，而 Lovejoy 对应 p.511；共享作者不等于相同摘录或直接影响](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕Lovejoy 强调，护身符不同于物神，其中完全不必有唯灵论观念；佩戴或携带物品以防邪眼等危险，只因人们相信它具有特殊效力。 〔[Q·A：Kingsley p.511 提供精灵内居材料；amulet 的内在效力与 fetish 的对分属于 Lovejoy 的分析改写](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕在他重建的观念世界里，自然效力与超自然效力之间没有鲜明界线：曼德拉草可被认为带来财富，正如颠茄被认为具有药效，两者都被当作事物秩序中的事实。人血也可获得强力符咒的一般地位，包括欧洲关于犹太人使用基督徒血液的传说。
 
 **Uncertain readings / 疑难读法:** one specific fetish term/source phrase from Kingsley uncertain; one charm example before the evil-eye sentence is illegible
 
@@ -3951,13 +3957,13 @@ Human blood can acquire the same general status as a powerful charm, including i
 
 Human sacrifice may sometimes be a ritual device for enforcing the presence or allegiance of a spirit in a particular place. Lovejoy separates this from the direct magical efficacy attributed to human blood.
 
-In West-African examples, blood is sprinkled at house entrances during epidemic disease as a protective barrier, 'as a sort of turning of a key against the intruder.' Miss Kingsley is again cited on beliefs in the properties of blood and on haunted or blood-protected houses.
+In West-African examples, blood is sprinkled at house entrances during epidemic disease as a protective barrier, 'as a sort of turning of a key against the intruder.' 〔[Q·D：Mary H. Kingsley, Travels in West Africa (1897), p.525；门口洒血／保护屏障的对应文本已经核对](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕 Miss Kingsley is again cited on beliefs in the properties of blood and on haunted or blood-protected houses.
 
 Lovejoy concludes that sympathetic magic may be present in some examples, but the supposed magical potency of blood itself is an independent factor. The discussion continues beyond this page.
 
 **Chinese translation / 中文译文**
 
-人祭有时可能是一种仪式手段，用来强制某个精灵在特定地点现身或效忠。Lovejoy 把它同被归于人血的直接巫术效力区分开来。在西非材料中，瘟疫期间人们把血洒在房屋入口，作为防护屏障，“仿佛转动钥匙，把闯入者锁在门外”。他再次引用 Miss Kingsley 关于血的属性及闹鬼或以血防护房屋的信仰。结论是：某些例子确有感应巫术，但血本身被设想的巫术力量是一个独立因素。讨论延续至下一页。
+人祭有时可能是一种仪式手段，用来强制某个精灵在特定地点现身或效忠。Lovejoy 把它同被归于人血的直接巫术效力区分开来。在西非材料中，瘟疫期间人们把血洒在房屋入口，作为防护屏障，“仿佛转动钥匙，把闯入者锁在门外”。 〔[Q·D：Mary H. Kingsley, Travels in West Africa (1897), p.525；门口洒血／保护屏障的对应文本已经核对](research_notes/MS38_005_kingsley_source_transformation_matrix_v1.csv)〕他再次引用 Miss Kingsley 关于血的属性及闹鬼或以血防护房屋的信仰。结论是：某些例子确有感应巫术，但血本身被设想的巫术力量是一个独立因素。讨论延续至下一页。
 
 **Uncertain readings / 疑难读法:** opening historical comparison partly illegible; exact West-African ethnic/group name uncertain; Miss Kingsley page number appears to be c. 525 but is not fully secure
 
@@ -3987,11 +3993,11 @@ Lovejoy concludes that sympathetic magic may be present in some examples, but th
 
 Notes on sacrificial burning and first-fruits. Lovejoy contrasts cases in which men and women are treated differently in burning rites, and asks whether the distinction is connected with ideas of food, purification, or funerary sacrifice.
 
-Feasts of first fruits: a Zululand example (p. 161–2 in the cited source) requires purification before anyone may taste the new grain. Lovejoy treats the rite as a problem of interpretation: it may look like an offering or sacrifice, but its rationale may instead be purification, taboo, or communal renewal.
+Feasts of first fruits: a Zululand example (p. 161–2 in the cited source) requires purification before anyone may taste the new grain. 〔[Q·N：Zulu 材料在所引著作 pp.161–162；具体是否即 Lewis Grout 的 Zululand 仍需版本校勘](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕 Lovejoy treats the rite as a problem of interpretation: it may look like an offering or sacrifice, but its rationale may instead be purification, taboo, or communal renewal.
 
 **Chinese translation / 中文译文**
 
-关于焚烧祭与初熟祭的笔记。Lovejoy 对照焚烧仪式中男女受到不同处理的个案，并追问这种区别是否与食物、净化或丧葬牺牲观念相关。初熟节方面，祖鲁兰一例要求任何人品尝新谷之前先行净化。Lovejoy 把它视为解释问题：仪式看似供奉或牺牲，其根据却可能是净化、禁忌或共同体更新。
+关于焚烧祭与初熟祭的笔记。Lovejoy 对照焚烧仪式中男女受到不同处理的个案，并追问这种区别是否与食物、净化或丧葬牺牲观念相关。初熟节方面，祖鲁兰一例要求任何人品尝新谷之前先行净化。 〔[Q·N：Zulu 材料在所引著作 pp.161–162；具体是否即 Lewis Grout 的 Zululand 仍需版本校勘](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕Lovejoy 把它视为解释问题：仪式看似供奉或牺牲，其根据却可能是净化、禁忌或共同体更新。
 
 **Uncertain readings / 疑难读法:** opening comparison of burning rites is partly illegible; exact source title for the Zululand reference is uncertain
 
@@ -4070,13 +4076,13 @@ A key mechanism is identification: spirits of one class can become identified wi
 
 **English transcription / 英文转录**
 
-Inserted note headed by a June 20 reference. Lovejoy tests African material against a general theory of divine hierarchy. Duff MacDonald is cited for cases in which the relevant deity is not celestial or not supreme.
+Inserted note headed ‘Marillier — [uncertain abbreviation] — June 20’. 〔[Q·V：夹页题识应为 Marillier —［缩写未辨］— June 20；1899 年 6 月 20 日为星期二](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕 Lovejoy tests African material against a general theory of divine hierarchy. Duff MacDonald is cited for cases in which the relevant deity is not celestial or not supreme. 〔[Q·N：Duff MacDonald, Africana；第 2 页书目及此页均直接标明作者](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 
 The working hypothesis is that a high/supreme god may be a later development associated with political organization and chieftainship. Lovejoy immediately treats this as a hypothesis to be tested rather than a rule, since apparently 'primitive' peoples can complicate the expected correlation.
 
 **Chinese translation / 中文译文**
 
-题有 6 月 20 日参照的夹页。Lovejoy 用非洲材料检验神灵等级的一般理论，并引 Duff MacDonald 论某些神既非天神，也非至上神的例子。工作假设是：高位或至上神可能是与政治组织和酋长制相连的后起发展。但他立即把它当作待检验的假设，而非规律，因为表面上所谓“原始”民族也会使预期关联复杂化。
+题为“Marillier——［缩写未辨］——6 月 20 日”的夹页。 〔[Q·V：夹页题识应为 Marillier —［缩写未辨］— June 20；1899 年 6 月 20 日为星期二](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕Lovejoy 用非洲材料检验神灵等级的一般理论，并引 Duff MacDonald 论某些神既非天神，也非至上神的例子。 〔[Q·N：Duff MacDonald, Africana；第 2 页书目及此页均直接标明作者](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕工作假设是：高位或至上神可能是与政治组织和酋长制相连的后起发展。但他立即把它当作待检验的假设，而非规律，因为表面上所谓“原始”民族也会使预期关联复杂化。
 
 **Uncertain readings / 疑难读法:** exact lecture/reference heading uncertain; several lines connecting religion and political organization are heavily abbreviated
 
@@ -4087,13 +4093,13 @@ The working hypothesis is that a high/supreme god may be a later development ass
 
 **English transcription / 英文转录**
 
-Inserted note on the historical development of sacrifice. Annual and communal sacrifice is treated as potentially later than simpler or more local forms. Lovejoy asks when a general developmental theory can be accepted and when apparent similarities may instead reflect borrowing.
+Inserted note on the historical development of sacrifice. Annual and communal sacrifice is treated as potentially later than simpler or more local forms. Lovejoy asks when a general developmental theory can be accepted and when apparent similarities may instead reflect borrowing. 〔[Q·A：Lovejoy 将历史发展序列与借用／传播区分，要求独立证据](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕
 
 He also considers whether older funerary/alimentary practices can be reorganized into agricultural or communal sacrifice, and warns that a present ritual complex may contain elements with different histories.
 
 **Chinese translation / 中文译文**
 
-关于牺牲历史发展的夹页。年度性、共同体牺牲可能晚于较简单或较地方性的形式。Lovejoy 追问，何时可以接受一般发展理论，何时表面相似实际上反映借用。他还考虑，较早的丧葬或食物供奉如何被重新组织为农业或共同体牺牲，并警告：现存仪式复合体可能包含历史各异的成分。
+关于牺牲历史发展的夹页。年度性、共同体牺牲可能晚于较简单或较地方性的形式。Lovejoy 追问，何时可以接受一般发展理论，何时表面相似实际上反映借用。 〔[Q·A：Lovejoy 将历史发展序列与借用／传播区分，要求独立证据](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕他还考虑，较早的丧葬或食物供奉如何被重新组织为农业或共同体牺牲，并警告：现存仪式复合体可能包含历史各异的成分。
 
 **Uncertain readings / 疑难读法:** opening source/name uncertain; right-hand developmental argument contains several illegible phrases
 
@@ -4106,13 +4112,13 @@ He also considers whether older funerary/alimentary practices can be reorganized
 
 Inserted note on offerings to the dead and family spirits. Lovejoy asks what a dead person can still be imagined to need and whether a 'gift' remains meaningful if the dead no longer require ordinary material goods.
 
-A chicken sacrifice is described in which the bird may be killed without spilling blood and offered to a family spirit; in other cases the throat is cut. The variation matters because blood may possess an independent ritual or magical significance rather than merely marking the killing of a victim.
+A chicken sacrifice is described in which the bird may be killed without spilling blood and offered to a family spirit; in other cases the throat is cut. 〔[Q·C：Trumbull 的血盟材料构成比较背景，但该鸡祭案例的具体文本来源尚未锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕 The variation matters because blood may possess an independent ritual or magical significance rather than merely marking the killing of a victim.
 
 The right-hand notes compare further African examples, including animal/spirit associations, to decide whether they are funerary, mystical, or protective.
 
 **Chinese translation / 中文译文**
 
-关于向死者和家族精灵供奉的夹页。Lovejoy 追问，死者还会被设想需要什么；如果他们已不需要普通物质用品，“礼物”是否仍有意义。一例鸡祭中，鸡可在不流血的情况下被杀并献给家族精灵，其他情形则割喉。差异很重要，因为血可能具有独立的仪式或巫术意义，而不只是标志祭牲被杀。右侧笔记比较更多非洲例子及动物—精灵关联，以判断其属于丧葬性、神秘性还是防护性。
+关于向死者和家族精灵供奉的夹页。Lovejoy 追问，死者还会被设想需要什么；如果他们已不需要普通物质用品，“礼物”是否仍有意义。一例鸡祭中，鸡可在不流血的情况下被杀并献给家族精灵，其他情形则割喉。 〔[Q·C：Trumbull 的血盟材料构成比较背景，但该鸡祭案例的具体文本来源尚未锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch57_005_trumbull_exact_page_source_transformation.md)〕差异很重要，因为血可能具有独立的仪式或巫术意义，而不只是标志祭牲被杀。右侧笔记比较更多非洲例子及动物—精灵关联，以判断其属于丧葬性、神秘性还是防护性。
 
 **Uncertain readings / 疑难读法:** exact source for the chicken example uncertain; animal/spirit example on the right is fragmentary
 
@@ -4123,13 +4129,13 @@ The right-hand notes compare further African examples, including animal/spirit a
 
 **English transcription / 英文转录**
 
-Inserted analytic note distinguishing modes of offering. Some offerings are magical, others propitiatory; funerary liquids or movable goods need not have a mystical character. Lovejoy again resists treating all offerings as communion.
+Inserted analytic note distinguishing modes of offering. Some offerings are magical, others propitiatory; funerary liquids or movable goods need not have a mystical character. Lovejoy again resists treating all offerings as communion. 〔[Q·A：Lovejoy 明确拒绝 Robertson Smith 式单一 communion 解释；与 Marillier 的多机制分类可比较](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕
 
 Agricultural/harvest ceremonies are then compared: a chicken may be killed and blood spilled on the ground, and ritual objects may be arranged for protection of crops or fields. Solar heat/light and other natural forces can enter the explanation, making the rite closer to magical or fecundative sacrifice than to alimentary sacrifice.
 
 **Chinese translation / 中文译文**
 
-分析夹页区分供奉方式：有些是巫术性的，有些是和解性的；丧葬中使用液体或动产并不必然具有神秘性质。Lovejoy 再次拒绝把所有供奉都看作共餐。随后比较农业或收获仪式：人们可能杀鸡，把血洒在地上，并布置仪式物品保护庄稼或田地；太阳热力、光及其他自然力量也会进入解释，使仪式更接近巫术性或促生殖性牺牲，而非食物性牺牲。
+分析夹页区分供奉方式：有些是巫术性的，有些是和解性的；丧葬中使用液体或动产并不必然具有神秘性质。Lovejoy 再次拒绝把所有供奉都看作共餐。 〔[Q·A：Lovejoy 明确拒绝 Robertson Smith 式单一 communion 解释；与 Marillier 的多机制分类可比较](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕随后比较农业或收获仪式：人们可能杀鸡，把血洒在地上，并布置仪式物品保护庄稼或田地；太阳热力、光及其他自然力量也会进入解释，使仪式更接近巫术性或促生殖性牺牲，而非食物性牺牲。
 
 **Uncertain readings / 疑难读法:** one line on corpse/flesh offerings is unclear; exact harvest locality/source uncertain
 
@@ -4140,13 +4146,13 @@ Agricultural/harvest ceremonies are then compared: a chicken may be killed and b
 
 **English transcription / 英文转录**
 
-Bibliographic insert for first-fruit and agricultural sacrifice. Lovejoy lists comparative references for Ashanti/West Africa and American materials, including Bancroft and other ethnographic collections, with page references for first-fruit feasts, prayers, harvest ceremonies, and sacrificial practices.
+Bibliographic insert for first-fruit and agricultural sacrifice. Lovejoy lists comparative references for Ashanti/West Africa and American materials, including Bancroft and other ethnographic collections, with page references for first-fruit feasts, prayers, harvest ceremonies, and sacrificial practices. 〔[Q·N：Bancroft 民族志汇编为手稿直接列名来源；具体卷次与页码仍待锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕
 
 The page functions mainly as a source index for the agricultural-sacrifice section.
 
 **Chinese translation / 中文译文**
 
-初熟祭与农业牺牲的书目夹页。Lovejoy 列出 Ashanti、西非和美洲材料的比较来源，包括 Bancroft 等民族志汇编，并标注初熟宴、祈祷、收获仪式与献祭做法的页码。本页主要充当农业牺牲一节的资料索引。
+初熟祭与农业牺牲的书目夹页。Lovejoy 列出 Ashanti、西非和美洲材料的比较来源，包括 Bancroft 等民族志汇编，并标注初熟宴、祈祷、收获仪式与献祭做法的页码。 〔[Q·N：Bancroft 民族志汇编为手稿直接列名来源；具体卷次与页码仍待锁定](research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md)〕本页主要充当农业牺牲一节的资料索引。
 
 **Uncertain readings / 疑难读法:** several titles and author names are too abbreviated to normalize securely; page numbers are retained only where visually clear
 
@@ -4174,13 +4180,13 @@ Lovejoy then compares American cases in which blood is placed on seed-corn or pl
 
 **English transcription / 英文转录**
 
-Further agricultural-sacrifice parallels from India and other comparative material. Lovejoy notes cases where part of the victim/body is used in the rite and the remainder is eaten, and he compares harvest or periodic ceremonies with material discussed by Mannhardt.
+Further agricultural-sacrifice parallels from India and other comparative material. Lovejoy notes cases where part of the victim/body is used in the rite and the remainder is eaten, and he compares harvest or periodic ceremonies with material discussed by Mannhardt. 〔[Q·N：Wilhelm Mannhardt 的农业／植被仪式研究；手稿直接列名，具体书名与页码尚未核定](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕
 
 He distinguishes a true sacrifice from cases in which animal parts or vegetal offerings are used only instrumentally. Yet objects that look merely vegetal or alimentary may still carry sacrificial or fecundative significance if they are understood as furnishing life/substance to a deity, crop, or communal power.
 
 **Chinese translation / 中文译文**
 
-进一步比较印度等地的农业牺牲。Lovejoy 记录仪式使用祭牲或身体一部分、其余被食用的案例，并把收获或周期性仪式同 Mannhardt 所论材料对照。他区分真正牺牲与仅把动物部位或植物供品当工具使用的情形。不过，看似纯属植物或食物的物品，若被理解为向神、作物或共同体力量提供生命或实体，也仍可能具有献祭或促生殖意义。
+进一步比较印度等地的农业牺牲。Lovejoy 记录仪式使用祭牲或身体一部分、其余被食用的案例，并把收获或周期性仪式同 Mannhardt 所论材料对照。 〔[Q·N：Wilhelm Mannhardt 的农业／植被仪式研究；手稿直接列名，具体书名与页码尚未核定](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕他区分真正牺牲与仅把动物部位或植物供品当工具使用的情形。不过，看似纯属植物或食物的物品，若被理解为向神、作物或共同体力量提供生命或实体，也仍可能具有献祭或促生殖意义。
 
 **Uncertain readings / 疑难读法:** left-hand Indian references and Sanskrit/author names uncertain; one Mannhardt comparison is compressed
 
@@ -4191,13 +4197,13 @@ He distinguishes a true sacrifice from cases in which animal parts or vegetal of
 
 **English transcription / 英文转录**
 
-Lovejoy asks about the recent introduction of cannibalism in southern Africa and uses this to test a developmental sequence for agricultural sacrifice. He sketches a branching diagram linking cultivated plants, domestic animals, and sacrifice, then asks whether domestic-animal sacrifice could have grown out of earlier agrarian/fecundative rites.
+Lovejoy asks about the recent introduction of cannibalism in southern Africa and uses this to test a developmental sequence for agricultural sacrifice. 〔[Q·C：Steinmetz, Endokannibalismus (1896)：食人的传播、历史分层与多重动机；此处不主张逐字来源](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕 He sketches a branching diagram linking cultivated plants, domestic animals, and sacrifice, then asks whether domestic-animal sacrifice could have grown out of earlier agrarian/fecundative rites.
 
 He formulates an objection: the theory risks a vicious circle if it assumes agricultural sacrifice first used wild animals and later domestic animals, while domestication itself is supposed to precede agriculture. Lovejoy rejects the premise as generally unsafe and argues that in Africa agriculture can be anterior to domestication; moreover domestic animals need not contribute labor to agriculture.
 
 **Chinese translation / 中文译文**
 
-Lovejoy 追问食人习俗是否近期才传入南非，并借此检验农业牺牲的发展序列。他画出分支图，把栽培植物、家畜与牺牲联系起来，继而追问家畜献祭是否可能源自更早的农业或促生殖仪式。他提出反驳：若理论假定农业牺牲先用野生动物、后来才用家畜，同时又说驯化必定先于农业，就会陷入循环。Lovejoy 认为这一前提通常并不可靠：非洲的农业可以早于驯化，而且家畜也不必为农业提供劳力。
+Lovejoy 追问食人习俗是否近期才传入南非，并借此检验农业牺牲的发展序列。 〔[Q·C：Steinmetz, Endokannibalismus (1896)：食人的传播、历史分层与多重动机；此处不主张逐字来源](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕他画出分支图，把栽培植物、家畜与牺牲联系起来，继而追问家畜献祭是否可能源自更早的农业或促生殖仪式。他提出反驳：若理论假定农业牺牲先用野生动物、后来才用家畜，同时又说驯化必定先于农业，就会陷入循环。Lovejoy 认为这一前提通常并不可靠：非洲的农业可以早于驯化，而且家畜也不必为农业提供劳力。
 
 **Uncertain readings / 疑难读法:** labels in the small diagram are partly unclear; two African authorities cited for agriculture/domestication are only partly legible
 
@@ -4208,13 +4214,13 @@ Lovejoy 追问食人习俗是否近期才传入南非，并借此检验农业牺
 
 **English transcription / 英文转录**
 
-The domestication/agriculture argument continues. Lovejoy notes cultivation by primitive implements and argues that a mechanical theory of fertilizing newly planted seeds must be kept distinct from later symbolic interpretations.
+The domestication/agriculture argument continues. Lovejoy notes cultivation by primitive implements and argues that a mechanical theory of fertilizing newly planted seeds must be kept distinct from later symbolic interpretations. 〔[Q·A：Lovejoy 区分仪式的机械功能与后加象征解释；属于作者的方法论判断](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕
 
 A broader conceptual note follows: sacrifice of domestic animals can be modified into sacrifice of a divine animal or divine representative, but the historical relation must be demonstrated rather than assumed. The page turns to the spirit/soul of plants and asks whether a sacrificial victim represents the plant in human form.
 
 **Chinese translation / 中文译文**
 
-续论驯化与农业。Lovejoy 指出，使用简陋工具也可以耕作，并主张必须把新种播下后的机械性施肥理论，同后来的象征解释区分开来。随后提出更广的概念问题：家畜牺牲可以转变为神圣动物或神之代表的牺牲，但历史关系必须得到证明，不能预设。末尾转向植物的精灵或灵魂，追问牺牲品是否以人形代表植物。
+续论驯化与农业。Lovejoy 指出，使用简陋工具也可以耕作，并主张必须把新种播下后的机械性施肥理论，同后来的象征解释区分开来。 〔[Q·A：Lovejoy 区分仪式的机械功能与后加象征解释；属于作者的方法论判断](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕随后提出更广的概念问题：家畜牺牲可以转变为神圣动物或神之代表的牺牲，但历史关系必须得到证明，不能预设。末尾转向植物的精灵或灵魂，追问牺牲品是否以人形代表植物。
 
 **Uncertain readings / 疑难读法:** opening agricultural tool term uncertain; several lines on modification of domestic-animal sacrifice are compressed
 
@@ -4225,15 +4231,15 @@ A broader conceptual note follows: sacrifice of domestic animals can be modified
 
 **English transcription / 英文转录**
 
-Lovejoy rejects the assumption that the soul/spirit of vegetation was originally conceived in human form. Following Mannhardt and related evidence, he says the soul of a plant is primitively conceived in animal or plant form, probably not human form.
+Lovejoy rejects the assumption that the soul/spirit of vegetation was originally conceived in human form. Following Mannhardt and related evidence, he says the soul of a plant is primitively conceived in animal or plant form, probably not human form. 〔[Q·N：Wilhelm Mannhardt；手稿明确标示参照对象，但具体著作与版本尚未锁定](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕
 
-He considers a theory in which agrarian sacrifice consists in immolating the soul of the plant to itself, so that the plant may be fertilized by an equivalent or supplementary soul. This, however, would be quasi-mechanical and magical rather than sacramental: the sacrifice is not yet addressed to the plant as a personal deity.
+He considers a theory in which agrarian sacrifice consists in immolating the soul of the plant to itself, so that the plant may be fertilized by an equivalent or supplementary soul. This, however, would be quasi-mechanical and magical rather than sacramental: the sacrifice is not yet addressed to the plant as a personal deity. 〔[Q·C：Marillier, 1897：机械／巫术效力与献祭对象之间的区分；概念对读，不是确证借文](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕
 
 Only at a later stage could a more complicated development produce the sacramental sacrifice of a representative of a god. Lovejoy marks this transition as a point still to be fully discussed.
 
 **Chinese translation / 中文译文**
 
-Lovejoy 拒绝假定植物精灵最初被设想为人形。依据 Mannhardt 等材料，他认为植物灵魂在较早期被构想为动物或植物形态，大概不是人形。他考虑一种理论：农业牺牲是把植物自身的灵魂献给植物，使植物由一个相等或补充的灵魂受精。不过这仍是准机械、巫术性的，而非圣礼性的：牺牲尚未献给作为人格神的植物。只有在后来阶段，更复杂的发展才会产生以神之代表为祭牲的圣礼性牺牲；Lovejoy 标明这一转变仍待充分讨论。
+Lovejoy 拒绝假定植物精灵最初被设想为人形。依据 Mannhardt 等材料，他认为植物灵魂在较早期被构想为动物或植物形态，大概不是人形。 〔[Q·N：Wilhelm Mannhardt；手稿明确标示参照对象，但具体著作与版本尚未锁定](research_notes/MS38_005_hubert_mauss_shared_source_constellation_v1.csv)〕他考虑一种理论：农业牺牲是把植物自身的灵魂献给植物，使植物由一个相等或补充的灵魂受精。不过这仍是准机械、巫术性的，而非圣礼性的：牺牲尚未献给作为人格神的植物。 〔[Q·C：Marillier, 1897：机械／巫术效力与献祭对象之间的区分；概念对读，不是确证借文](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕只有在后来阶段，更复杂的发展才会产生以神之代表为祭牲的圣礼性牺牲；Lovejoy 标明这一转变仍待充分讨论。
 
 **Uncertain readings / 疑难读法:** final right-hand summary is abbreviated; manuscript page number is not visible in the scan
 
@@ -4261,11 +4267,11 @@ Lovejoy 拒绝假定植物精灵最初被设想为人形。依据 Mannhardt 等�
 
 **English transcription / 英文转录**
 
-The discussion turns explicitly to autophagy/anthropophagy as an interpretive problem. Lovejoy asks whether eating human flesh is in itself a religious act. Repeated or customary cannibal practices can survive after their original motive has disappeared, so present ceremonial form is poor evidence for original cause. Motives can include famine, revenge, hatred of enemies, affection for relatives, or the desire to acquire qualities attributed to the dead.
+The discussion turns explicitly to autophagy/anthropophagy as an interpretive problem. Lovejoy asks whether eating human flesh is in itself a religious act. Repeated or customary cannibal practices can survive after their original motive has disappeared, so present ceremonial form is poor evidence for original cause. 〔[Q·C：Steinmetz, Endokannibalismus (1896), pp.46、52、59–60；二者皆承认多种动机，差别在解释层级而非单因对多因](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕 Motives can include famine, revenge, hatred of enemies, affection for relatives, or the desire to acquire qualities attributed to the dead.
 
 **Chinese translation / 中文译文**
 
-讨论明确转向自食或食人这一解释问题。Lovejoy 追问：食用人肉本身是否就是宗教行为？反复或习惯化的食人做法可以在原始动机消失后继续存在，因此现今的仪式形式很难证明最初原因。动机可能包括饥荒、复仇、仇恨敌人、爱恋亲属，或希望取得被归于死者的某种品质。
+讨论明确转向自食或食人这一解释问题。Lovejoy 追问：食用人肉本身是否就是宗教行为？反复或习惯化的食人做法可以在原始动机消失后继续存在，因此现今的仪式形式很难证明最初原因。 〔[Q·C：Steinmetz, Endokannibalismus (1896), pp.46、52、59–60；二者皆承认多种动机，差别在解释层级而非单因对多因](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕动机可能包括饥荒、复仇、仇恨敌人、爱恋亲属，或希望取得被归于死者的某种品质。
 
 **Uncertain readings / 疑难读法:** opening heading partly illegible; one comparative source title uncertain; several motive-terms heavily abbreviated
 
@@ -4276,11 +4282,11 @@ The discussion turns explicitly to autophagy/anthropophagy as an interpretive pr
 
 **English transcription / 英文转录**
 
-Lovejoy distinguishes collective/ritualized cannibalism from specifically religious cannibalism. A public feast, solemnity, or fixed ceremonial rule can make an act look religious, but ceremoniality by itself does not prove an original sacramental or mystical motive. Many alleged cases of religious cannibalism are poorly supported; ritual sanction may be a later social regulation of an older practice.
+Lovejoy distinguishes collective/ritualized cannibalism from specifically religious cannibalism. A public feast, solemnity, or fixed ceremonial rule can make an act look religious, but ceremoniality by itself does not prove an original sacramental or mystical motive. 〔[Q·A：Lovejoy 将 ritualization 与 sacramental origin 分离；可与 Steinmetz 比较，但结论为笔记作者自己的证据判断](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕 Many alleged cases of religious cannibalism are poorly supported; ritual sanction may be a later social regulation of an older practice.
 
 **Chinese translation / 中文译文**
 
-Lovejoy 区分集体或仪式化食人，与严格意义上的宗教食人。公开宴会、庄严气氛或固定仪式规则会使行为看似宗教性的，但仪式化本身不能证明其最初具有圣礼或神秘动机。许多所谓宗教食人的案例证据薄弱；仪式认可可能只是社会后来对较早做法的规制。
+Lovejoy 区分集体或仪式化食人，与严格意义上的宗教食人。公开宴会、庄严气氛或固定仪式规则会使行为看似宗教性的，但仪式化本身不能证明其最初具有圣礼或神秘动机。 〔[Q·A：Lovejoy 将 ritualization 与 sacramental origin 分离；可与 Steinmetz 比较，但结论为笔记作者自己的证据判断](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕许多所谓宗教食人的案例证据薄弱；仪式认可可能只是社会后来对较早做法的规制。
 
 **Uncertain readings / 疑难读法:** several cited authors/titles illegible; French and African references not secure enough to normalize; one passage on selected body parts fragmentary
 
@@ -4291,11 +4297,11 @@ Lovejoy 区分集体或仪式化食人，与严格意义上的宗教食人。公
 
 **English transcription / 英文转录**
 
-Evidence for a supernatural or mysterious character of cannibalism is reviewed critically. Human flesh or selected organs may be credited with special efficacy, but this can belong to sympathetic magic rather than sacrifice or communion. Lovejoy asks whether victims are really offered to a deity or whether body parts are eaten to acquire strength, courage, intelligence, or another quality associated with the victim. Sacred animals and the head/soul relation are also used to test whether taboo or sacred association counts as sacrifice.
+Evidence for a supernatural or mysterious character of cannibalism is reviewed critically. Human flesh or selected organs may be credited with special efficacy, but this can belong to sympathetic magic rather than sacrifice or communion. 〔[Q·C：Steinmetz, Endokannibalismus, p.52 §26：身体／生命力转移；Lovejoy 将其与牺牲和共餐的证明要求分开](research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md)〕 Lovejoy asks whether victims are really offered to a deity or whether body parts are eaten to acquire strength, courage, intelligence, or another quality associated with the victim. Sacred animals and the head/soul relation are also used to test whether taboo or sacred association counts as sacrifice.
 
 **Chinese translation / 中文译文**
 
-批判性审查食人具有超自然或神秘性质的证据。人肉或特定器官可能被赋予特殊效力，但这可属于感应巫术，而非牺牲或共餐。Lovejoy 追问：牺牲品是否真的献给神？还是人们食用身体部位，以取得被认为属于死者的力量、勇气、智力或其他品质？神圣动物及头颅与灵魂的关系也被用于检验：禁忌或神圣关联是否足以构成牺牲？
+批判性审查食人具有超自然或神秘性质的证据。人肉或特定器官可能被赋予特殊效力，但这可属于感应巫术，而非牺牲或共餐。 〔[Q·C：Steinmetz, Endokannibalismus, p.52 §26：身体／生命力转移；Lovejoy 将其与牺牲和共餐的证明要求分开](research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md)〕Lovejoy 追问：牺牲品是否真的献给神？还是人们食用身体部位，以取得被认为属于死者的力量、勇气、智力或其他品质？神圣动物及头颅与灵魂的关系也被用于检验：禁忌或神圣关联是否足以构成牺牲？
 
 **Uncertain readings / 疑难读法:** ethnographic names/page references illegible; head/soul discussion compressed; one French bibliographic note unreadable diplomatically
 
@@ -4306,11 +4312,11 @@ Evidence for a supernatural or mysterious character of cannibalism is reviewed c
 
 **English transcription / 英文转录**
 
-The left page continues source criticism of cannibal evidence. A new heading on the right concerns human sacrifice used to propitiate the spirit of the victim in order to avert injury to the sacrificer. An African example suggests that a murdered or sacrificed person's spirit may itself become dangerous; later offerings can therefore appease that victim-spirit rather than a pre-existing god.
+The left page continues source criticism of cannibal evidence. A new heading on the right concerns human sacrifice used to propitiate the spirit of the victim in order to avert injury to the sacrificer. 〔[Q·A：Lovejoy 区分安抚受害者精灵与供养祖先；不能从外在杀戮形式直接推出同一机制](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 An African example suggests that a murdered or sacrificed person's spirit may itself become dangerous; later offerings can therefore appease that victim-spirit rather than a pre-existing god.
 
 **Chinese translation / 中文译文**
 
-左页继续批判食人材料的来源。右页新标题讨论一种人祭：为了避免献祭者受到伤害，向牺牲者本人的精灵行和解。一则非洲材料表明，被杀或被献祭者的精灵自身可能变得危险；后来的供奉因此是在安抚这个受害者精灵，而不是某位预先存在的神。
+左页继续批判食人材料的来源。右页新标题讨论一种人祭：为了避免献祭者受到伤害，向牺牲者本人的精灵行和解。 〔[Q·A：Lovejoy 区分安抚受害者精灵与供养祖先；不能从外在杀戮形式直接推出同一机制](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕一则非洲材料表明，被杀或被献祭者的精灵自身可能变得危险；后来的供奉因此是在安抚这个受害者精灵，而不是某位预先存在的神。
 
 **Uncertain readings / 疑难读法:** exact African source/page uncertain; some wording in left-page critique indistinct
 
@@ -4321,11 +4327,11 @@ The left page continues source criticism of cannibal evidence. A new heading on 
 
 **English transcription / 英文转录**
 
-Water-spirits and animal forms are compared with sacrifice to natural powers. Men thrown or cast into water may represent propitiation of a dangerous spirit rather than a meal/communion sacrifice. The page then criticizes the common theory that animal sacrifice is simply a humane substitute for earlier human sacrifice. Secure demonstrations are few; Indian substitution cases may be exceptional. Lovejoy suggests that decline of human sacrifice may also follow changing social conditions and the increasing economic/social value of human life.
+Water-spirits and animal forms are compared with sacrifice to natural powers. Men thrown or cast into water may represent propitiation of a dangerous spirit rather than a meal/communion sacrifice. The page then criticizes the common theory that animal sacrifice is simply a humane substitute for earlier human sacrifice. 〔[Q·A：Lovejoy 拒绝把动物牺牲自动解释为人祭替代，要求独立历史证据](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Secure demonstrations are few; Indian substitution cases may be exceptional. Lovejoy suggests that decline of human sacrifice may also follow changing social conditions and the increasing economic/social value of human life.
 
 **Chinese translation / 中文译文**
 
-把水中精灵、动物形态与向自然力量献祭相比较。把人投入水中，可能是在安抚危险精灵，而非食物或共餐牺牲。随后批评一种常见理论：动物牺牲只是较早人祭的人道替代。可靠证明很少，印度的替代案例或许属于例外。Lovejoy 提出，人祭衰落也可能源于社会条件变化，以及人命的经济、社会价值上升。
+把水中精灵、动物形态与向自然力量献祭相比较。把人投入水中，可能是在安抚危险精灵，而非食物或共餐牺牲。随后批评一种常见理论：动物牺牲只是较早人祭的人道替代。 〔[Q·A：Lovejoy 拒绝把动物牺牲自动解释为人祭替代，要求独立历史证据](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕可靠证明很少，印度的替代案例或许属于例外。Lovejoy 提出，人祭衰落也可能源于社会条件变化，以及人命的经济、社会价值上升。
 
 **Uncertain readings / 疑难读法:** Hartland reference and water-spirit examples abbreviated; final sentence continues beyond page
 
@@ -4336,11 +4342,11 @@ Water-spirits and animal forms are compared with sacrifice to natural powers. Me
 
 **English transcription / 英文转录**
 
-Sacrifice to water deities or hostile spirits is separated from sacramental communion. A victim cast into the sea during a violent tempest is treated as propitiation of danger. Lovejoy contrasts this with rites addressed to a deity conceived as friend/protector, where a feast of union may form part of the ceremony. Similar outward forms can therefore belong to different mechanisms.
+Sacrifice to water deities or hostile spirits is separated from sacramental communion. 〔[Q·A：Lovejoy 将危险和解、供养与圣礼结合视为不同机制](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕 A victim cast into the sea during a violent tempest is treated as propitiation of danger. Lovejoy contrasts this with rites addressed to a deity conceived as friend/protector, where a feast of union may form part of the ceremony. Similar outward forms can therefore belong to different mechanisms.
 
 **Chinese translation / 中文译文**
 
-向水神或敌对精灵献祭，应同圣礼性共餐区分。暴风中把牺牲品投入海里，是对危险的和解；以朋友或保护者身份被构想的神，则可能在仪式中接受结合之宴。因此，外形相似的做法可以属于完全不同的机制。
+向水神或敌对精灵献祭，应同圣礼性共餐区分。 〔[Q·A：Lovejoy 将危险和解、供养与圣礼结合视为不同机制](research_notes/MS38_004_001_061_005_pp031-060_vs_Marillier_Totemism_Sacrifice.md)〕暴风中把牺牲品投入海里，是对危险的和解；以朋友或保护者身份被构想的神，则可能在仪式中接受结合之宴。因此，外形相似的做法可以属于完全不同的机制。
 
 **Uncertain readings / 疑难读法:** source introducing sea-victim example uncertain; right-hand references partly illegible
 
@@ -4351,11 +4357,11 @@ Sacrifice to water deities or hostile spirits is separated from sacramental comm
 
 **English transcription / 英文转录**
 
-Persons surviving attacks by tigers or other dangerous animals may be treated as ritually altered, impure, sacred, or specially related to a deity; this status need not imply sacrifice. The main topic becomes circumcision. Lovejoy explicitly rejects the theory that circumcision is a partial human sacrifice substituted for complete human sacrifice. It is instead interpreted through initiation, fraternity, blood, incorporation, and admission to a social/religious group.
+Persons surviving attacks by tigers or other dangerous animals may be treated as ritually altered, impure, sacred, or specially related to a deity; this status need not imply sacrifice. The main topic becomes circumcision. 〔[Q·A：Lovejoy 拒绝割礼＝部分人祭的统一解释；应结合社会入门、血与净化分别检验](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Lovejoy explicitly rejects the theory that circumcision is a partial human sacrifice substituted for complete human sacrifice. It is instead interpreted through initiation, fraternity, blood, incorporation, and admission to a social/religious group.
 
 **Chinese translation / 中文译文**
 
-虎或其他危险动物袭击后的幸存者，可能被视为在仪式上已经改变、不洁、神圣，或同某位神具有特殊关系；这种身份不等于被献祭。随后转入割礼。Lovejoy 明确反对把割礼解释为以部分人祭替代完整人祭；它应通过入门、兄弟关系、血、纳入及进入社会—宗教群体来理解。
+虎或其他危险动物袭击后的幸存者，可能被视为在仪式上已经改变、不洁、神圣，或同某位神具有特殊关系；这种身份不等于被献祭。随后转入割礼。 〔[Q·A：Lovejoy 拒绝割礼＝部分人祭的统一解释；应结合社会入门、血与净化分别检验](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕Lovejoy 明确反对把割礼解释为以部分人祭替代完整人祭；它应通过入门、兄弟关系、血、纳入及进入社会—宗教群体来理解。
 
 **Uncertain readings / 疑难读法:** several ethnographic titles abbreviated; one blood-fraternity phrase overwritten
 
@@ -4366,11 +4372,11 @@ Persons surviving attacks by tigers or other dangerous animals may be treated as
 
 **English transcription / 英文转录**
 
-Puberty rites are described in detail. At a girl's first menstruation a bullock may be sacrificed and a ritual dance performed, while the girl is secluded and temporarily removed from ordinary work and conversation. Lovejoy connects these restrictions with menstrual blood, danger, impurity, and initiation rather than letting the accompanying animal sacrifice explain the whole rite. Puberty ceremonies transfer a child into a new social condition and confer membership, privileges, sexual status, and relation to the community.
+Puberty rites are described in detail. At a girl's first menstruation a bullock may be sacrificed and a ritual dance performed, while the girl is secluded and temporarily removed from ordinary work and conversation. 〔[Q·C：血、青春期与禁忌的比较材料与 Strack／Trumbull 共享问题场，但具体句子来源尚未锁定](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕 Lovejoy connects these restrictions with menstrual blood, danger, impurity, and initiation rather than letting the accompanying animal sacrifice explain the whole rite. Puberty ceremonies transfer a child into a new social condition and confer membership, privileges, sexual status, and relation to the community.
 
 **Chinese translation / 中文译文**
 
-详细描述青春期仪式。女孩初次月经时，可能献一头阉牛并举行仪式舞蹈；女孩被隔离，暂时停止日常劳动和交谈。Lovejoy 把这些限制同经血、危险、不洁与入门相联系，而不让伴随的动物牺牲解释整套仪式。青春期礼仪把儿童转入新的社会状态，赋予成员身份、特权、性身份及其与共同体的关系。
+详细描述青春期仪式。女孩初次月经时，可能献一头阉牛并举行仪式舞蹈；女孩被隔离，暂时停止日常劳动和交谈。 〔[Q·C：血、青春期与禁忌的比较材料与 Strack／Trumbull 共享问题场，但具体句子来源尚未锁定](research_notes/MS38_005_Marillier_1898_Trumbull_source_field_matrix_batch143.csv)〕Lovejoy 把这些限制同经血、危险、不洁与入门相联系，而不让伴随的动物牺牲解释整套仪式。青春期礼仪把儿童转入新的社会状态，赋予成员身份、特权、性身份及其与共同体的关系。
 
 **Uncertain readings / 疑难读法:** source for menstruation/bullock sacrifice uncertain; lower-left note on menstrual danger difficult; right-hand analysis partly crossed out
 
@@ -4381,11 +4387,11 @@ Puberty rites are described in detail. At a girl's first menstruation a bullock 
 
 **English transcription / 英文转录**
 
-Beating, whipping, cutting, scarification, and other painful acts at initiation are compared. Explanations in which pain merely makes admonitions memorable are treated as insufficient. Lovejoy also considers but does not accept as a general rule the theory that whipping or bloodletting is a partial sacrifice of the novice to a god. Comparative material instead suggests ordeal, purification, bodily marking, group discipline, and production of a new social status.
+Beating, whipping, cutting, scarification, and other painful acts at initiation are compared. Explanations in which pain merely makes admonitions memorable are treated as insufficient. Lovejoy also considers but does not accept as a general rule the theory that whipping or bloodletting is a partial sacrifice of the novice to a god. 〔[Q·A：Lovejoy 拒绝把鞭笞与流血统一解释为向神献祭；强调仪式功能可能不同](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Comparative material instead suggests ordeal, purification, bodily marking, group discipline, and production of a new social status.
 
 **Chinese translation / 中文译文**
 
-比较入门礼中的殴打、鞭笞、割伤、刻痕等痛苦行为。Lovejoy 认为，仅说痛苦能让训诫更易铭记，并不足以解释。他也考虑但不接受一条普遍规则：鞭笞或放血是把入门者部分献给神。比较材料更指向考验、净化、身体标记、群体纪律，以及新社会身份的制造。
+比较入门礼中的殴打、鞭笞、割伤、刻痕等痛苦行为。Lovejoy 认为，仅说痛苦能让训诫更易铭记，并不足以解释。他也考虑但不接受一条普遍规则：鞭笞或放血是把入门者部分献给神。 〔[Q·A：Lovejoy 拒绝把鞭笞与流血统一解释为向神献祭；强调仪式功能可能不同](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕比较材料更指向考验、净化、身体标记、群体纪律，以及新社会身份的制造。
 
 **Uncertain readings / 疑难读法:** Bechuana/Australian sources uncertain; one spear/blood passage partly illegible
 
@@ -4396,11 +4402,11 @@ Beating, whipping, cutting, scarification, and other painful acts at initiation 
 
 **English transcription / 英文转录**
 
-Initiation is further analyzed as purification and fortification. Flagellation and lustration can purge impurity or strengthen a novice at a dangerous transition. Comparative notes describe girls beaten with rods or thorn-wood until blood is drawn, menstruation restrictions, and secret-society initiation. Separation from ordinary life, bodily trial, secrecy, and readmission under changed status are more important than a presumed offering to a deity.
+Initiation is further analyzed as purification and fortification. 〔[Q·A：Lovejoy 将入门仪式分解为净化、强化与社会身份变化，而非归并为单一牺牲机制](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Flagellation and lustration can purge impurity or strengthen a novice at a dangerous transition. Comparative notes describe girls beaten with rods or thorn-wood until blood is drawn, menstruation restrictions, and secret-society initiation. Separation from ordinary life, bodily trial, secrecy, and readmission under changed status are more important than a presumed offering to a deity.
 
 **Chinese translation / 中文译文**
 
-进一步把入门分析为净化与强化。鞭笞与洗濯可清除不洁，或在危险转变中增强入门者。比较笔记描述女孩被木棍或荆棘抽打至出血、月经禁忌及秘密结社入门。脱离日常生活、身体考验、保密，以及以改变后的身份重新被接纳，比假定向神供奉更重要。
+进一步把入门分析为净化与强化。 〔[Q·A：Lovejoy 将入门仪式分解为净化、强化与社会身份变化，而非归并为单一牺牲机制](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕鞭笞与洗濯可清除不洁，或在危险转变中增强入门者。比较笔记描述女孩被木棍或荆棘抽打至出血、月经禁忌及秘密结社入门。脱离日常生活、身体考验、保密，以及以改变后的身份重新被接纳，比假定向神供奉更重要。
 
 **Uncertain readings / 疑难读法:** one French article title not secure; southern-African citations abbreviated
 
@@ -4411,11 +4417,11 @@ Initiation is further analyzed as purification and fortification. Flagellation a
 
 **English transcription / 英文转录**
 
-Lovejoy gathers food, bodily-contact, sex, and menstruation taboos. Men and women may be prohibited from eating together, contact with menstruating women avoided, and young people segregated during maturation. These taboos are not automatically sacrificial and may reflect separation, protection, purity, or social regulation. He also asks whether girls' initiation establishes a durable relation analogous to blood-brotherhood among cohorts or complementary groups.
+Lovejoy gathers food, bodily-contact, sex, and menstruation taboos. Men and women may be prohibited from eating together, contact with menstruating women avoided, and young people segregated during maturation. These taboos are not automatically sacrificial and may reflect separation, protection, purity, or social regulation. 〔[Q·A：Lovejoy 区分禁忌、隔离、洁净与牺牲；形式相近不能取代机制证明](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 He also asks whether girls' initiation establishes a durable relation analogous to blood-brotherhood among cohorts or complementary groups.
 
 **Chinese translation / 中文译文**
 
-Lovejoy 汇集食物、身体接触、性与月经禁忌：男女可能不得同食，应避免接触经期妇女，青年成熟期间会被隔离。这些禁忌并非自动属于牺牲，可能反映分离、防护、洁净或社会规制。他还追问，女孩入门是否会在同批成员或互补群体间建立一种类似血兄弟关系的持久纽带。
+Lovejoy 汇集食物、身体接触、性与月经禁忌：男女可能不得同食，应避免接触经期妇女，青年成熟期间会被隔离。这些禁忌并非自动属于牺牲，可能反映分离、防护、洁净或社会规制。 〔[Q·A：Lovejoy 区分禁忌、隔离、洁净与牺牲；形式相近不能取代机制证明](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕他还追问，女孩入门是否会在同批成员或互补群体间建立一种类似血兄弟关系的持久纽带。
 
 **Uncertain readings / 疑难读法:** New-Zealand/Basuto examples difficult; cross-sex/group-bond hypothesis partly illegible
 
@@ -4426,11 +4432,11 @@ Lovejoy 汇集食物、身体接触、性与月经禁忌：男女可能不得同
 
 **English transcription / 英文转录**
 
-Lovejoy reaches an explicit negative conclusion: even adult married men can be beaten in initiation contexts, so bodily injury alone gives no reason to connect such observances with human sacrifice. He then summarizes the sacrificial field: alimentary sacrifice is common; expiatory or propitiatory sacrifice is also common; sacramental union is comparatively exceptional. This distribution undercuts a single communion theory of sacrifice. The right-hand notes return to foundation rites and the danger/impurity of blood.
+Lovejoy reaches an explicit negative conclusion: even adult married men can be beaten in initiation contexts, so bodily injury alone gives no reason to connect such observances with human sacrifice. He then summarizes the sacrificial field: alimentary sacrifice is common; expiatory or propitiatory sacrifice is also common; sacramental union is comparatively exceptional. 〔[Q·A：Lovejoy 对 Robertson Smith 式普遍 communion 理论作限定；与 Marillier, 1897 的功能多样性形成对照](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕 This distribution undercuts a single communion theory of sacrifice. The right-hand notes return to foundation rites and the danger/impurity of blood.
 
 **Chinese translation / 中文译文**
 
-Lovejoy 得出明确的否定结论：连已婚成年男子也可能在入门情境中受鞭打，因此身体伤害本身不足以把这类仪式同人祭联系起来。随后总结牺牲领域：食物性牺牲常见；赎罪或和解性牺牲也常见；圣礼式结合相对例外。这种分布削弱了以“共餐结合”统一解释牺牲的理论。右页笔记回到奠基仪式及血的危险或不洁。
+Lovejoy 得出明确的否定结论：连已婚成年男子也可能在入门情境中受鞭打，因此身体伤害本身不足以把这类仪式同人祭联系起来。随后总结牺牲领域：食物性牺牲常见；赎罪或和解性牺牲也常见；圣礼式结合相对例外。 〔[Q·A：Lovejoy 对 Robertson Smith 式普遍 communion 理论作限定；与 Marillier, 1897 的功能多样性形成对照](research_notes/lovejoy_as_orientalist_web_sweep_batch29_marillier_1897_sacrifice_primary_against_005.md)〕这种分布削弱了以“共餐结合”统一解释牺牲的理论。右页笔记回到奠基仪式及血的危险或不洁。
 
 **Uncertain readings / 疑难读法:** one noun in summary abbreviated; foundation-smelting example uncertain; blood heading partly illegible
 
@@ -4441,11 +4447,11 @@ Lovejoy 得出明确的否定结论：连已婚成年男子也可能在入门情
 
 **English transcription / 英文转录**
 
-Funerary practices are reconsidered. Companion-killing, burial of servants, and sending wives or dependants with the dead need not have alimentary or sacramental character; they can be utilitarian, status-preserving, expiatory, or intended to provide attendants in the next life. Slaves or retainers sent alive into graves or killed before burial function as continued service or communication with the dead, analogous to sending messages or useful goods.
+Funerary practices are reconsidered. Companion-killing, burial of servants, and sending wives or dependants with the dead need not have alimentary or sacramental character; they can be utilitarian, status-preserving, expiatory, or intended to provide attendants in the next life. 〔[Q·A：Lovejoy 把陪葬杀人解释为社会地位／服役关系延续，不预设共餐或圣礼机制](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕 Slaves or retainers sent alive into graves or killed before burial function as continued service or communication with the dead, analogous to sending messages or useful goods.
 
 **Chinese translation / 中文译文**
 
-重新考察丧葬做法。杀死陪伴者、埋葬仆役、让妻子或依附者随死者而去，未必具有食物性或圣礼性质；它们可以是功利性的、维持身份的、赎罪性的，或旨在为来世提供侍从。被活埋或在下葬前杀死的奴隶、随从，功能是继续服役或与死者沟通，类似向死者传送讯息或有用物品。
+重新考察丧葬做法。杀死陪伴者、埋葬仆役、让妻子或依附者随死者而去，未必具有食物性或圣礼性质；它们可以是功利性的、维持身份的、赎罪性的，或旨在为来世提供侍从。 〔[Q·A：Lovejoy 把陪葬杀人解释为社会地位／服役关系延续，不预设共餐或圣礼机制](research_notes/MS38_005_marillier_student_method_operator_matrix_v1.csv)〕被活埋或在下葬前杀死的奴隶、随从，功能是继续服役或与死者沟通，类似向死者传送讯息或有用物品。
 
 **Uncertain readings / 疑难读法:** several localities/names illegible; one lower-left body-remains example uncertain; right-hand final lines abbreviated
 
@@ -4456,11 +4462,11 @@ Funerary practices are reconsidered. Companion-killing, burial of servants, and 
 
 **English transcription / 英文转录**
 
-The sustained comparative-religion discussion closes with eating selected human body parts. A body part may transmit its associated quality: head/brain -> intelligence, heart -> courage/breath/life, sexual organs -> sexual power. Lovejoy treats this as sympathetic or transferable efficacy rather than sufficient evidence of sacramental cannibalism. He notes that one-part eating may also be a reduced form of consuming the whole body. A loose slip on the right, headed 'The Gospel' [?], contains an unrelated outline and is retained as a separate inserted fragment.
+The sustained comparative-religion discussion closes with eating selected human body parts. A body part may transmit its associated quality: head/brain -> intelligence, heart -> courage/breath/life, sexual organs -> sexual power. 〔[Q·C：Steinmetz, Endokannibalismus (1896), p.52 §26：食用特定部位与生命力／性质转移；为可核对的机制对照，不直接证明本句逐字来源](research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md)〕 Lovejoy treats this as sympathetic or transferable efficacy rather than sufficient evidence of sacramental cannibalism. 〔[Q·A：Lovejoy 将可转移效力与 sacramental cannibalism 分离；1906 年 Fundamental Concept 为后出的对照，不是此处来源](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕 He notes that one-part eating may also be a reduced form of consuming the whole body. A loose slip on the right, headed 'The Gospel' [?], contains an unrelated outline and is retained as a separate inserted fragment.
 
 **Chinese translation / 中文译文**
 
-持续的比较宗教讨论以食用特定人体部位收束。身体部分可传递与其关联的品质：头颅或脑对应智力，心对应勇气、气息或生命，性器官对应性能力。Lovejoy 把这理解为感应或可转移的效力，不足以证明圣礼性食人。他又指出，只食一部分也可能是食用整个身体的缩减形式。右侧题为“福音”（？）的散页是一份无关提纲，作为独立插页保留。
+持续的比较宗教讨论以食用特定人体部位收束。身体部分可传递与其关联的品质：头颅或脑对应智力，心对应勇气、气息或生命，性器官对应性能力。 〔[Q·C：Steinmetz, Endokannibalismus (1896), p.52 §26：食用特定部位与生命力／性质转移；为可核对的机制对照，不直接证明本句逐字来源](research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md)〕Lovejoy 把这理解为感应或可转移的效力，不足以证明圣礼性食人。 〔[Q·A：Lovejoy 将可转移效力与 sacramental cannibalism 分离；1906 年 Fundamental Concept 为后出的对照，不是此处来源](research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md)〕他又指出，只食一部分也可能是食用整个身体的缩减形式。右侧题为“福音”（？）的散页是一份无关提纲，作为独立插页保留。
 
 **Uncertain readings / 疑难读法:** opening words uncertain; loose-slip heading and several outline terms illegible
 
@@ -4471,11 +4477,11 @@ The sustained comparative-religion discussion closes with eating selected human 
 
 **English transcription / 英文转录**
 
-Back-leaf memorandum rather than continuation of the comparative-religion argument. Readable fragments include a special lecture dated January 9 [?] and a reference beginning 'V. Marillier'; other scheduling/bibliographic words are too faint to normalize securely.
+Back-leaf memorandum rather than continuation of the comparative-religion argument. Readable fragments include a special lecture dated January 9 [?] and a reference beginning 'V. Marillier'; other scheduling/bibliographic words are too faint to normalize securely. 〔[Q·N：封底直接出现 V. Marillier；仅证明姓名参照，不能从中补定具体课程或阅读文本](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕
 
 **Chinese translation / 中文译文**
 
-封底页备忘，不再延续比较宗教论证。可辨片段包括 1 月 9 日（？）的一场特别讲座，以及以“V. Marillier”开头的参照；其他日程或书目文字过淡，无法可靠规范化。
+封底页备忘，不再延续比较宗教论证。可辨片段包括 1 月 9 日（？）的一场特别讲座，以及以“V. Marillier”开头的参照；其他日程或书目文字过淡，无法可靠规范化。 〔[Q·N：封底直接出现 V. Marillier；仅证明姓名参照，不能从中补定具体课程或阅读文本](research_notes/lovejoy_as_orientalist_web_sweep_batch62_005_marillier_weekly_session_pairs_and_source_criticism_genealogy.md)〕
 
 **Uncertain readings / 疑难读法:** top line possibly 'Reconnaissance ...'; date/time faint; Marillier title/reference only partly legible
 
