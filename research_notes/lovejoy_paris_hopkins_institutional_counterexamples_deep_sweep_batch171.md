@@ -63,7 +63,7 @@ The same appendix records:
 
 > March 8, 1934 — Paul E. Dumont, *Primitivism in Ancient India*.
 
-In 1935 Lovejoy and George Boas published P.-E. Dumont's `Primitivism in Indian Literature` as a `Supplementary Essay`, pp. 433–447, after the classical chapters. The titles are not identical. The surviving record demonstrates temporal precedence and thematic proximity; it does **not** establish that the oral paper and published essay were verbally identical.
+In 1935 Lovejoy and George Boas published P.-E. Dumont's `Primitivism in Indian Literature` as a `Supplementary Essay`, printed pp. 433–446, after the classical chapters. The repository's 1973 Octagon reprint places Dumont's final paragraph on printed p. 446 / PDF p. 464; printed p. 447 / PDF p. 465 already begins the separate appendix `Some Meanings of 'Nature'`. The frequently repeated `433–447` therefore extends one page beyond Dumont's essay in the inspected witness. On p. 446 Dumont explicitly states that his survey omits the entire Buddhist and Jain literatures. The oral and printed titles are not identical. The surviving record demonstrates temporal precedence, thematic proximity, and a precisely documented archival omission; it does **not** establish that the oral paper and published essay were verbally identical or identify who made the editorial decision.
 
 The strongest reconstruction is therefore not `India excluded from the club`. It is:
 

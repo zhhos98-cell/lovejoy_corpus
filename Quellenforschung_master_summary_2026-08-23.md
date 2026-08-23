@@ -3,7 +3,7 @@
 
 Date / 日期: 2026-08-23
 Status / 状态: consolidated cross-corpus synthesis / 全库综合总纲
-Scope / 范围: summary only. No new source expansion. Every page-lock cited here already exists in the underlying concordance and research-memorandum files. / 仅为综合，不新增来源；此处每一处 page-lock 均已见于底层校勘表与研究备忘。
+Scope / 范围: consolidated source-critical synthesis, including the 2026-08-23/24 cross-field addendum. Every page-lock cited here is documented in the underlying concordance or existing research-memorandum files. / 源流批评综合总纲，包含 2026-08-23/24 跨学科增补；此处每一处 page-lock 均见于底层校勘表或现有研究备忘。
 
 > This document does not supersede the individual concordances or the pre-pitch synthesis. It gathers, in one place, what the source-critical work has and has not established. / 本文件不取代各校勘表或 pre-pitch synthesis，只把源流批评已确立与未确立的内容集中于一处。
 
@@ -68,6 +68,26 @@ Lovejoy invented contextualism / anticipated Skinner / invented proof-level grad
 
 ### Not yet locked (honest amber) / 尚未锁定（诚实黄灯）
 Exact dates of individual notebook leaves; whether 004 was compiled for the article or the article extracted from a broader project (evidence currently favors extraction); the 005 literal-draft relationship; Bankim/Mitra original-edition pagination (hence paraphrase); exact JHU folder/item wording. / 个别手稿页日期；004 为文章而编还是文章从更大项目抽取（现有证据更支持抽取）；005 逐字底稿关系；Bankim/Mitra 原版页码（故 paraphrase）；JHU 具体 folder/item 措辞。
+
+---
+
+## Cross-field consolidation, 2026-08-23/24 / 跨学科综合增补
+
+The later sweep does not displace the manuscript-level argument. It locates the same operations within historically documented assignments of persons, archives, and explanatory authority. / 本轮补充不取代逐页手稿论证，而是将同样的工作操作放入人物、文献和解释权的具体制度分配之中。
+
+**1. The 1899 contemporary classification is explicit / 1899 年的分类在一手文本中明确存在.** Morris Jastrow, [“The Historical Study of Religions in Universities and Colleges”](https://www.jstor.org/stable/592338), *JAOS* 20 (1899), 317–325, classifies Buddhism with other “advanced religions” on pp. 318–319, then assigns Indian religions to Indologists and “primitive” religious phenomena to anthropologists on p. 321. He explicitly takes the Paris EPHE structure as an institutional model. The same journal volume puts Washburn Hopkins, Everett, Jastrow, Toy, and Lanman into a single pp. 303–337 publication sequence. Jastrow is a period-native witness to disciplinary allocation; no claim is made that Lovejoy read or followed his article. / Jastrow 第 318—319 页将佛教列入「高级宗教」，第 321 页分别将印度宗教和「原始」宗教现象指派给印度学家和人类学家，并以巴黎 EPHE 为制度模型。同卷第 303—337 页集中呈现原始宗教、印度哲学、宗教史、巫术和佛学网络。该文章是同时代制度见证，不能直接证明 Lovejoy 阅读或奉行其纲领。
+
+**2. Paris participation is already proven / 巴黎参与已经由官方报告证实.** Marillier's [official EPHE report](https://www.persee.fr/doc/ephe_0000-0002_1898_num_12_8_19501), printed p. 33, names Lovejoy among active auditors. The status is stronger than thematic proximity and weaker than formal *élève titulaire* or diploma status. Mauss's earlier attendance under Marillier and Lévi shows shared pedagogical infrastructure; it does not establish a meeting with Lovejoy. / Marillier 官方报告第 33 页将 Lovejoy 列为积极参与研讨的旁听者，证据强于主题相近，但不足以证明正式学籍或文凭身份。Mauss 更早随 Marillier 和 Lévi 听课，只证明共享教学基础设施，不证明与 Lovejoy 会面。
+
+**3. The 1901 syllabus has an earlier bibliographic witness / 1901 年课程有更早的书目证据.** The *Essays in the History of Ideas* bibliography, original collection 1948, inspected in the 1960 Capricorn reprint at printed p. 340 / PDF p. 362, lists `Syllabus: The philosophy of Buddhism, four lectures. The Washington University Association, 1901.` Wilson 1982 supplies the four lecture titles, but is not the earliest surviving bibliographic witness. The syllabus itself and actual lecture delivery remain uninspected. / 《观念史论文集》1948 年原始编纂、1960 年重印本第 340 页已著录 1901 年四讲佛教课程；Wilson 1982 提供四讲标题，但并非最早书目证据。课程提纲原件和实际讲授情况仍未核实。
+
+**4. Dumont's omission is primary-text verified, and the standard page range needs correction / Dumont 的省略已有一手页码锁定，常见页码范围应修正.** In the repository's Octagon second printing of 1973, reproducing the 1935 volume, Dumont's `Primitivism in Indian Literature` starts at printed p. 433 / PDF p. 451 and ends at printed p. 446 / PDF p. 464. Its last paragraph expressly excludes the entire Buddhist and Jain literatures. Printed p. 447 / PDF p. 465 begins `APPENDIX SOME MEANINGS OF 'NATURE'`; therefore the repeatedly cited range `433–447` is inaccurate for the inspected book. The club register independently places Dumont's `Primitivism in Ancient India` on March 8, 1934. Seminar inclusion, supplementary placement, and omitted archives are distinct operations; the titles differ and editorial responsibility remains unknown. / 仓库中 1973 年重印的 1935 年著作表明，Dumont 补篇实际为印刷第 433—446 页，末段明确省略全部佛教和耆那教文献；第 447 页已经进入另一附录。1934 年 3 月 8 日的俱乐部报告另证印度材料曾进入研讨。口头参与、补篇位置和文献遗漏必须分开，不能据此推定编辑责任。
+
+**5. Primitive changes semantic function / primitive 的语义功能随材料而变化.** The 1898 Buddhist article has no occurrence of *primitive*. Jastrow 1899 treats Buddhism as “advanced” in a civilization-rank distinction. Lovejoy 1906 attributes an abstract causal category to ethnographically classified living populations. *The Great Chain of Being*, printed pp. 30, 97, and 218, explicitly says “primitive Buddhism,” where the immediate contrast concerns early Buddhist doctrine. Lovejoy and Boas 1935 use chronological and cultural *primitivism* as historian-owned analytical categories. These are temporal, anthropological, axiological, and disciplinary uses, not one interchangeable claim. / 1898 年佛教论文没有 *primitive*；Jastrow 1899 在文明分类中将佛教称作「高级」；1906 年则以民族志材料讨论当代人群的因果概念；《存在巨链》第 30、97、218 页使用「primitive Buddhism」，主要关联早期佛教教义；1935 年的年代性与文化性原始主义又属于史家自设分析范畴。时间、民族志、价值与学科分工应逐项区分。
+
+**6. Existing scholarship constrains the novelty claim / 既有研究限定原创性表述.** [Schüttpelz, Albers and Schmid, *Gradhiva* 38 (2024)](https://journals.openedition.org/gradhiva/8458), partly translating a 2013 German contribution, already connects Lovejoy and Boas's primitivism project with its Asian supplements and *The Great Chain*. Ramkrishna Bhattacharya had already noticed Dumont's Buddhist/Jain omission in 2000, though the present repository now verifies it against the book itself and corrects the page range. [Amrita Nanda's 2024 chapter](https://link.springer.com/chapter/10.1007/978-3-031-55873-3_3), note 28, still cites Lovejoy 1898. The contribution is the cross-field reconstruction: notebook practice, specialist Buddhist controversy, active EPHE participation, explicit 1899 institutional sorting, asynchronous affiliation and continued teaching, the 1934 club paper, the page-446 omission, and the mature work's own use of “primitive Buddhism.” / 原始主义与观念史的关系、亚洲补篇及佛教遗漏均已有各自的研究前史，佛教学界至 2024 年仍引用 Lovejoy。原创位置在于把逐页手稿、佛学技术争论、巴黎研讨、1899 年制度分类、会员身份与教学的不同时间线、1934 年报告、第 446 页省略以及成熟著作中的「primitive Buddhism」组合为同一条证据分级清楚的历史链条。
+
+**Detailed research log / 详细研究日志:** `research_notes/JHI_blog_notebook_diagrams_paper_techniques_affordances_research_log_2026-08-23.md`, sections 17–26.
 
 ---
 
