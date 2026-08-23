@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—45 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—60 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—45 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—60 页已完成翻译，其余页面继续处理。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -3171,6 +3171,10 @@ The American Race.
 New York 1891
 [call number:] 8°7 837.
 
+**Chinese translation / 中文译文**
+
+书目：D. G. Brinton，《美洲人种》，纽约，1891 年；索书号或馆藏记号为 8°7 837。
+
 #### 005 · PDF 047 · Manuscript / 手稿 93
 
 **Type / 类型:** notes  
@@ -3183,6 +3187,10 @@ Report of Arno, etc. about F. Teke [?].
 Tanganyika / Cameroon / Central Africa.
 Notes on post-mortem treatment and a widely extended custom; first step described as finding a water-course or putting the dead in/near its bed. [Several lines illegible.]
 
+**Chinese translation / 中文译文**
+
+“Soc.，6 月 6 日。”记 Arno 等人关于 Teke（？）的报告，并列 Tanganyika、Cameroon 与中非材料。笔记讨论死后的处置及一种分布很广的习俗：第一步似乎是寻找水道，或把死者放入河床或水道附近。数行无法辨读。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 048 · Manuscript / 手稿 未标页 / unnumbered
@@ -3193,6 +3201,10 @@ Notes on post-mortem treatment and a widely extended custom; first step describe
 **English transcription / 英文转录**
 
 [Continuation.] Discussion of turning back / crossing running water, apparently as a means of preventing the dead or spirits from returning to trouble the living. The practice is treated as frequent and well established. [Dense lower passage illegible.]
+
+**Chinese translation / 中文译文**
+
+续论折返或越过流水，显然是为了阻止死者或精灵返回骚扰生者。Lovejoy 把这种做法视为频繁出现且有充分材料支持的习俗。页面下部文字密集，仍无法辨读。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3205,6 +3217,10 @@ Notes on post-mortem treatment and a widely extended custom; first step describe
 
 Notes continue on funerary practice, powerful fetish / protection, and killing of slaves or attendants.
 Robertson Smith and Frazer are mentioned critically; Lovejoy warns against constructing an anthropological scheme beyond the evidence. [Bibliographic details partly illegible.]
+
+**Chinese translation / 中文译文**
+
+续记丧葬做法、强力的物神或防护手段，以及杀死奴隶或侍从。笔记批评性地提到 Robertson Smith 与 Frazer；Lovejoy 警告，不应超出证据构造一套完整的人类学图式。部分书目信息无法辨认。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3219,6 +3235,10 @@ Sacrifice.
 2. Sac. mystique. Here F. victim a toujours une valeur divine [?]. Lovejoy distinguishes sacrificial killing from ordinary cannibalistic practice: a man or woman sacrificed has no mystical significance merely by being food.
 Inserted slip: ‘Sacrifices’ with a numbered typology, including alimentary / communion sacrifice, mystical sacrifice, sacrifice of purification, and sacrifice for magical ends. [French labels partly uncertain.]
 
+**Chinese translation / 中文译文**
+
+“牺牲。第二，神秘牺牲。”在此，“牺牲品总具有神圣价值”（法文原句疑读）。Lovejoy 把献祭性杀戮同普通食人习俗区分开来：被牺牲的男人或女人，并不会仅仅因为成为食物就具有神秘意义。夹条题为“牺牲”，列出编号类型：食物性或共餐牺牲、神秘牺牲、净化牺牲，以及为巫术目的而行的牺牲；部分法文名称不确定。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 051 · Manuscript / 手稿 未标页 / unnumbered
@@ -3230,6 +3250,10 @@ Inserted slip: ‘Sacrifices’ with a numbered typology, including alimentary /
 
 Discussion of transfer of life / strength to a young and vigorous body; a god, or more usually a god-man, may be killed by his successor. Lovejoy treats this as one form of myth/ritual killing.
 Further notes ask whether blood creates a bond or common substance; sharing a meal may function as a weaker form of the same principle, constituting participants as kin / clients. [Several phrases uncertain.]
+
+**Chinese translation / 中文译文**
+
+讨论把生命或力量转移到年轻强健的身体：一位神，或更常见的一位神人，可能被继承者杀死；Lovejoy 把它视为神话或仪式性杀戮的一种形式。随后追问，血液是否创造一种纽带或共同实体；共同进餐或许是同一原则的较弱形式，使参与者成为亲族或依附者。数处措辞仍不确定。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3243,6 +3267,10 @@ Further notes ask whether blood creates a bond or common substance; sharing a me
 3. Sac. Expiation.
 Expiatory sacrifice discussed in relation to collective guilt and purification. Scapegoat-type cases transfer or concentrate the offence of a tribe/community upon a victim who is then removed; purification and expiation are linked. [Examples and source abbreviations uncertain.]
 
+**Chinese translation / 中文译文**
+
+“第三，赎罪牺牲。”Lovejoy 把赎罪献祭同集体罪责和净化联系起来讨论。替罪羊式个案把一个部族或共同体的过犯转移或集中到某个牺牲品身上，再将其逐出或除去；净化与赎罪因而彼此相连。例证及来源缩写有疑读。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 053 · Manuscript / 手稿 未标页 / unnumbered
@@ -3253,6 +3281,10 @@ Expiatory sacrifice discussed in relation to collective guilt and purification. 
 **English transcription / 英文转录**
 
 Sacrifice treated in another class as a mechanical or magical means: a charm directly controls natural forces; the god need not be the recipient or moral judge. A note contrasts this with cases in which the god is himself subject to the efficacy of sacrifice. [Proper names illegible.]
+
+**Chinese translation / 中文译文**
+
+另一类牺牲被理解为机械性或巫术性的手段：咒术直接支配自然力量，神不必是受领者或道德审判者。旁注又把它同另一种情形对照——在那里，神自身也服从牺牲仪式的效力。专名无法辨认。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3265,6 +3297,10 @@ Sacrifice treated in another class as a mechanical or magical means: a charm dir
 
 Notes on ritual protection / funerary rites and the land/community. Several lines discuss procedures intended to protect a group when other sources of danger or misfortune threaten it. [Most bibliographic and ethnographic details illegible.]
 
+**Chinese translation / 中文译文**
+
+关于仪式防护、丧葬礼俗以及土地或共同体的笔记。数行讨论当其他危险或灾祸威胁群体时，用以保护共同体的程序。大部分书目和民族志细节无法辨读。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 055 · Manuscript / 手稿 未标页 / unnumbered
@@ -3275,6 +3311,10 @@ Notes on ritual protection / funerary rites and the land/community. Several line
 **English transcription / 英文转录**
 
 Dense multilingual notes, largely illegible in this pass. The page appears to continue the sacrifice / ritual sequence and contains French/Spanish-looking source excerpts or abbreviations. No silent reconstruction attempted.
+
+**Chinese translation / 中文译文**
+
+多语种密集笔记，本轮大部分无法辨读。页面似乎继续牺牲与仪式的论述，并含法文或西班牙文式的来源摘录和缩写；不作无依据的补写。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3289,6 +3329,10 @@ Robertson Smith / ‘Die Religion der Semiten’ [?], p. 107 ff.
 Lovejoy lists types/functions of sacrifice: sacrifice offered to the dead to feed them; expiatory sacrifice; sacrifice connected with communal or corporate rites.
 On facing page: ‘dead chief’ is treated as a practice essentially funerary; cannibalistic sacrifice is ‘much more rare,’ unless the living person sacrificed or killed is conceived as a form of deity. [Several clauses uncertain.]
 
+**Chinese translation / 中文译文**
+
+参见 Robertson Smith／《闪米特人的宗教》（？）第 107 页以下。Lovejoy 列出牺牲的类型或功能：向死者献祭以供养他们；赎罪牺牲；与共同体或法人团体仪式相连的牺牲。对页把“死去的酋长”视为本质上属于丧葬的做法；食人式牺牲“远为少见”，除非被献祭或杀死的活人被理解为神的一种形态。若干句仍不确定。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 057 · Manuscript / 手稿 未标页 / unnumbered
@@ -3300,6 +3344,10 @@ On facing page: ‘dead chief’ is treated as a practice essentially funerary; 
 
 Continuation on sacrifice and the god-man. Lovejoy distinguishes killing a human representative of a god from killing a god ‘in propria persona’; where a man has offended a god, the victim may be delivered to the god to be dealt with. Two broad types are contrasted: funerary / substitutionary cases and magical sacrifices. [Some wording uncertain.]
 
+**Chinese translation / 中文译文**
+
+续论牺牲与神人。Lovejoy 区分杀死神的人间代表，与杀死“以其本身人格存在”的神；若某人冒犯了神，牺牲品可能被交付给神，由神处置。笔记大体对照两类：丧葬或替代性个案，以及巫术性牺牲。部分措辞不确定。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 058 · Manuscript / 手稿 未标页 / unnumbered
@@ -3310,6 +3358,10 @@ Continuation on sacrifice and the god-man. Lovejoy distinguishes killing a human
 **English transcription / 英文转录**
 
 Notes continue on communion and magical sacrifice. A ritual killing is discussed as a means of obtaining or renewing efficacy rather than as moral punishment. [Page is faint and the first-pass reading remains fragmentary.]
+
+**Chinese translation / 中文译文**
+
+续记共餐牺牲与巫术牺牲。仪式性杀戮被讨论为取得或更新效力的手段，而非道德惩罚。页面字迹很淡，现有辨读仍较零碎。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
@@ -3323,6 +3375,10 @@ Notes continue on communion and magical sacrifice. A ritual killing is discussed
 In all of these F. soc. mystical / sacrificial forms, religion as ‘union’ does not appear in every case. Lovejoy considers Robertson Smith’s theory too narrow / insufficiently elastic, while allowing that affection, reverence, and corporate feeling toward the god can be produced by common ritual.
 He then returns to the ‘living god-man’: the human god is killed and the body offered / consumed ceremonially. [Final lines continue.]
 
+**Chinese translation / 中文译文**
+
+Lovejoy 指出，在这些社会性的神秘或献祭形式中，把宗教理解为“结合”的机制并非每次都出现。他认为 Robertson Smith 的理论过窄、缺乏弹性，同时承认共同仪式能够产生对神的爱慕、敬畏及团体情感。随后回到“活着的神人”：人神被杀，其身体被仪式性地奉献或食用。末行未完。
+
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
 #### 005 · PDF 060 · Manuscript / 手稿 121
@@ -3334,6 +3390,10 @@ He then returns to the ‘living god-man’: the human god is killed and the bod
 
 [Continuation.] Lovejoy argues that the complete form of this union is not found everywhere. He distinguishes several classes/functions of sacrifice, including funerary, expiatory, fecundative, and magical sacrifice.
 ‘Farewell feast.’ He notes that the extreme form is not found at all in Africa [?], while Robertson Smith’s type appears only rarely or in exceptional cases. [Closing sentence continues beyond batch.]
+
+**Chinese translation / 中文译文**
+
+续上。Lovejoy 主张，这种“结合”的完整形式并非处处存在。他区分牺牲的若干类别或功能，包括丧葬性、赎罪性、促生殖性与巫术性牺牲。“告别宴。”他又说，这一极端形式在非洲（？）完全不见，而 Robertson Smith 所设想的类型也只在罕见或例外情形中出现。结句延续至下一批。
 
 **Uncertain readings / 疑难读法:** Dense handwriting; conservative first-pass transcription.
 
