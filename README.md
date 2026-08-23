@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy: Archives, Intellectual Networks, and the History of Ideas
 # 阿瑟·O. 洛夫乔伊：档案、学术网络与观念史
 
-> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 第 1—105 页已完成翻译，其余页面继续处理。原始拼写、疑难读法和置信度以 JSON 校正版为准。
+> Repository status / 仓库状态：私人研究语料库；两册手稿英文校正转录共 191 页完整收录。中文部分覆盖研究框架、证据标准、人物机构网络、术语和材料索引；004 笔记全部 71 页已完成逐页全文翻译；005 笔记 PDF 全 120 页已完成翻译。原始拼写、疑难读法和置信度以 JSON 校正版为准。
 
 ## Contents / 目录
 
@@ -177,7 +177,7 @@ The *Essays* foreword defines the History of Ideas Club through work in **occide
 **Pages / 页数:** 71  
 **Source PDF SHA-256 / 原始 PDF 校验值:** `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`  
 **OCR SHA-256 / OCR 校验值:** `e14956e2904f2c907d29163bbea3f3f162a011da2a53928dbf370efe7d031d84`  
-**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 第 1—105 页已完成翻译，其余页面继续处理。
+**Translation status / 翻译状态:** 完整英文原文已收录；004 笔记全部 71 页已完成中文全文翻译；005 笔记 PDF 全 120 页已完成翻译。
 
 ### Batch p001-018 / 批次 p001-018
 
@@ -4263,6 +4263,10 @@ Lovejoy 拒绝假定植物精灵最初被设想为人形。依据 Mannhardt 等�
 
 The discussion turns explicitly to autophagy/anthropophagy as an interpretive problem. Lovejoy asks whether eating human flesh is in itself a religious act. Repeated or customary cannibal practices can survive after their original motive has disappeared, so present ceremonial form is poor evidence for original cause. Motives can include famine, revenge, hatred of enemies, affection for relatives, or the desire to acquire qualities attributed to the dead.
 
+**Chinese translation / 中文译文**
+
+讨论明确转向自食或食人这一解释问题。Lovejoy 追问：食用人肉本身是否就是宗教行为？反复或习惯化的食人做法可以在原始动机消失后继续存在，因此现今的仪式形式很难证明最初原因。动机可能包括饥荒、复仇、仇恨敌人、爱恋亲属，或希望取得被归于死者的某种品质。
+
 **Uncertain readings / 疑难读法:** opening heading partly illegible; one comparative source title uncertain; several motive-terms heavily abbreviated
 
 #### 005 · PDF 107 · Manuscript / 手稿 未标页 / unnumbered
@@ -4273,6 +4277,10 @@ The discussion turns explicitly to autophagy/anthropophagy as an interpretive pr
 **English transcription / 英文转录**
 
 Lovejoy distinguishes collective/ritualized cannibalism from specifically religious cannibalism. A public feast, solemnity, or fixed ceremonial rule can make an act look religious, but ceremoniality by itself does not prove an original sacramental or mystical motive. Many alleged cases of religious cannibalism are poorly supported; ritual sanction may be a later social regulation of an older practice.
+
+**Chinese translation / 中文译文**
+
+Lovejoy 区分集体或仪式化食人，与严格意义上的宗教食人。公开宴会、庄严气氛或固定仪式规则会使行为看似宗教性的，但仪式化本身不能证明其最初具有圣礼或神秘动机。许多所谓宗教食人的案例证据薄弱；仪式认可可能只是社会后来对较早做法的规制。
 
 **Uncertain readings / 疑难读法:** several cited authors/titles illegible; French and African references not secure enough to normalize; one passage on selected body parts fragmentary
 
@@ -4285,6 +4293,10 @@ Lovejoy distinguishes collective/ritualized cannibalism from specifically religi
 
 Evidence for a supernatural or mysterious character of cannibalism is reviewed critically. Human flesh or selected organs may be credited with special efficacy, but this can belong to sympathetic magic rather than sacrifice or communion. Lovejoy asks whether victims are really offered to a deity or whether body parts are eaten to acquire strength, courage, intelligence, or another quality associated with the victim. Sacred animals and the head/soul relation are also used to test whether taboo or sacred association counts as sacrifice.
 
+**Chinese translation / 中文译文**
+
+批判性审查食人具有超自然或神秘性质的证据。人肉或特定器官可能被赋予特殊效力，但这可属于感应巫术，而非牺牲或共餐。Lovejoy 追问：牺牲品是否真的献给神？还是人们食用身体部位，以取得被认为属于死者的力量、勇气、智力或其他品质？神圣动物及头颅与灵魂的关系也被用于检验：禁忌或神圣关联是否足以构成牺牲？
+
 **Uncertain readings / 疑难读法:** ethnographic names/page references illegible; head/soul discussion compressed; one French bibliographic note unreadable diplomatically
 
 #### 005 · PDF 109 · Manuscript / 手稿 未标页 / unnumbered
@@ -4295,6 +4307,10 @@ Evidence for a supernatural or mysterious character of cannibalism is reviewed c
 **English transcription / 英文转录**
 
 The left page continues source criticism of cannibal evidence. A new heading on the right concerns human sacrifice used to propitiate the spirit of the victim in order to avert injury to the sacrificer. An African example suggests that a murdered or sacrificed person's spirit may itself become dangerous; later offerings can therefore appease that victim-spirit rather than a pre-existing god.
+
+**Chinese translation / 中文译文**
+
+左页继续批判食人材料的来源。右页新标题讨论一种人祭：为了避免献祭者受到伤害，向牺牲者本人的精灵行和解。一则非洲材料表明，被杀或被献祭者的精灵自身可能变得危险；后来的供奉因此是在安抚这个受害者精灵，而不是某位预先存在的神。
 
 **Uncertain readings / 疑难读法:** exact African source/page uncertain; some wording in left-page critique indistinct
 
@@ -4307,6 +4323,10 @@ The left page continues source criticism of cannibal evidence. A new heading on 
 
 Water-spirits and animal forms are compared with sacrifice to natural powers. Men thrown or cast into water may represent propitiation of a dangerous spirit rather than a meal/communion sacrifice. The page then criticizes the common theory that animal sacrifice is simply a humane substitute for earlier human sacrifice. Secure demonstrations are few; Indian substitution cases may be exceptional. Lovejoy suggests that decline of human sacrifice may also follow changing social conditions and the increasing economic/social value of human life.
 
+**Chinese translation / 中文译文**
+
+把水中精灵、动物形态与向自然力量献祭相比较。把人投入水中，可能是在安抚危险精灵，而非食物或共餐牺牲。随后批评一种常见理论：动物牺牲只是较早人祭的人道替代。可靠证明很少，印度的替代案例或许属于例外。Lovejoy 提出，人祭衰落也可能源于社会条件变化，以及人命的经济、社会价值上升。
+
 **Uncertain readings / 疑难读法:** Hartland reference and water-spirit examples abbreviated; final sentence continues beyond page
 
 #### 005 · PDF 111 · Manuscript / 手稿 未标页 / unnumbered
@@ -4317,6 +4337,10 @@ Water-spirits and animal forms are compared with sacrifice to natural powers. Me
 **English transcription / 英文转录**
 
 Sacrifice to water deities or hostile spirits is separated from sacramental communion. A victim cast into the sea during a violent tempest is treated as propitiation of danger. Lovejoy contrasts this with rites addressed to a deity conceived as friend/protector, where a feast of union may form part of the ceremony. Similar outward forms can therefore belong to different mechanisms.
+
+**Chinese translation / 中文译文**
+
+向水神或敌对精灵献祭，应同圣礼性共餐区分。暴风中把牺牲品投入海里，是对危险的和解；以朋友或保护者身份被构想的神，则可能在仪式中接受结合之宴。因此，外形相似的做法可以属于完全不同的机制。
 
 **Uncertain readings / 疑难读法:** source introducing sea-victim example uncertain; right-hand references partly illegible
 
@@ -4329,6 +4353,10 @@ Sacrifice to water deities or hostile spirits is separated from sacramental comm
 
 Persons surviving attacks by tigers or other dangerous animals may be treated as ritually altered, impure, sacred, or specially related to a deity; this status need not imply sacrifice. The main topic becomes circumcision. Lovejoy explicitly rejects the theory that circumcision is a partial human sacrifice substituted for complete human sacrifice. It is instead interpreted through initiation, fraternity, blood, incorporation, and admission to a social/religious group.
 
+**Chinese translation / 中文译文**
+
+虎或其他危险动物袭击后的幸存者，可能被视为在仪式上已经改变、不洁、神圣，或同某位神具有特殊关系；这种身份不等于被献祭。随后转入割礼。Lovejoy 明确反对把割礼解释为以部分人祭替代完整人祭；它应通过入门、兄弟关系、血、纳入及进入社会—宗教群体来理解。
+
 **Uncertain readings / 疑难读法:** several ethnographic titles abbreviated; one blood-fraternity phrase overwritten
 
 #### 005 · PDF 113 · Manuscript / 手稿 未标页 / unnumbered
@@ -4339,6 +4367,10 @@ Persons surviving attacks by tigers or other dangerous animals may be treated as
 **English transcription / 英文转录**
 
 Puberty rites are described in detail. At a girl's first menstruation a bullock may be sacrificed and a ritual dance performed, while the girl is secluded and temporarily removed from ordinary work and conversation. Lovejoy connects these restrictions with menstrual blood, danger, impurity, and initiation rather than letting the accompanying animal sacrifice explain the whole rite. Puberty ceremonies transfer a child into a new social condition and confer membership, privileges, sexual status, and relation to the community.
+
+**Chinese translation / 中文译文**
+
+详细描述青春期仪式。女孩初次月经时，可能献一头阉牛并举行仪式舞蹈；女孩被隔离，暂时停止日常劳动和交谈。Lovejoy 把这些限制同经血、危险、不洁与入门相联系，而不让伴随的动物牺牲解释整套仪式。青春期礼仪把儿童转入新的社会状态，赋予成员身份、特权、性身份及其与共同体的关系。
 
 **Uncertain readings / 疑难读法:** source for menstruation/bullock sacrifice uncertain; lower-left note on menstrual danger difficult; right-hand analysis partly crossed out
 
@@ -4351,6 +4383,10 @@ Puberty rites are described in detail. At a girl's first menstruation a bullock 
 
 Beating, whipping, cutting, scarification, and other painful acts at initiation are compared. Explanations in which pain merely makes admonitions memorable are treated as insufficient. Lovejoy also considers but does not accept as a general rule the theory that whipping or bloodletting is a partial sacrifice of the novice to a god. Comparative material instead suggests ordeal, purification, bodily marking, group discipline, and production of a new social status.
 
+**Chinese translation / 中文译文**
+
+比较入门礼中的殴打、鞭笞、割伤、刻痕等痛苦行为。Lovejoy 认为，仅说痛苦能让训诫更易铭记，并不足以解释。他也考虑但不接受一条普遍规则：鞭笞或放血是把入门者部分献给神。比较材料更指向考验、净化、身体标记、群体纪律，以及新社会身份的制造。
+
 **Uncertain readings / 疑难读法:** Bechuana/Australian sources uncertain; one spear/blood passage partly illegible
 
 #### 005 · PDF 115 · Manuscript / 手稿 未标页 / unnumbered
@@ -4361,6 +4397,10 @@ Beating, whipping, cutting, scarification, and other painful acts at initiation 
 **English transcription / 英文转录**
 
 Initiation is further analyzed as purification and fortification. Flagellation and lustration can purge impurity or strengthen a novice at a dangerous transition. Comparative notes describe girls beaten with rods or thorn-wood until blood is drawn, menstruation restrictions, and secret-society initiation. Separation from ordinary life, bodily trial, secrecy, and readmission under changed status are more important than a presumed offering to a deity.
+
+**Chinese translation / 中文译文**
+
+进一步把入门分析为净化与强化。鞭笞与洗濯可清除不洁，或在危险转变中增强入门者。比较笔记描述女孩被木棍或荆棘抽打至出血、月经禁忌及秘密结社入门。脱离日常生活、身体考验、保密，以及以改变后的身份重新被接纳，比假定向神供奉更重要。
 
 **Uncertain readings / 疑难读法:** one French article title not secure; southern-African citations abbreviated
 
@@ -4373,6 +4413,10 @@ Initiation is further analyzed as purification and fortification. Flagellation a
 
 Lovejoy gathers food, bodily-contact, sex, and menstruation taboos. Men and women may be prohibited from eating together, contact with menstruating women avoided, and young people segregated during maturation. These taboos are not automatically sacrificial and may reflect separation, protection, purity, or social regulation. He also asks whether girls' initiation establishes a durable relation analogous to blood-brotherhood among cohorts or complementary groups.
 
+**Chinese translation / 中文译文**
+
+Lovejoy 汇集食物、身体接触、性与月经禁忌：男女可能不得同食，应避免接触经期妇女，青年成熟期间会被隔离。这些禁忌并非自动属于牺牲，可能反映分离、防护、洁净或社会规制。他还追问，女孩入门是否会在同批成员或互补群体间建立一种类似血兄弟关系的持久纽带。
+
 **Uncertain readings / 疑难读法:** New-Zealand/Basuto examples difficult; cross-sex/group-bond hypothesis partly illegible
 
 #### 005 · PDF 117 · Manuscript / 手稿 未标页 / unnumbered
@@ -4383,6 +4427,10 @@ Lovejoy gathers food, bodily-contact, sex, and menstruation taboos. Men and wome
 **English transcription / 英文转录**
 
 Lovejoy reaches an explicit negative conclusion: even adult married men can be beaten in initiation contexts, so bodily injury alone gives no reason to connect such observances with human sacrifice. He then summarizes the sacrificial field: alimentary sacrifice is common; expiatory or propitiatory sacrifice is also common; sacramental union is comparatively exceptional. This distribution undercuts a single communion theory of sacrifice. The right-hand notes return to foundation rites and the danger/impurity of blood.
+
+**Chinese translation / 中文译文**
+
+Lovejoy 得出明确的否定结论：连已婚成年男子也可能在入门情境中受鞭打，因此身体伤害本身不足以把这类仪式同人祭联系起来。随后总结牺牲领域：食物性牺牲常见；赎罪或和解性牺牲也常见；圣礼式结合相对例外。这种分布削弱了以“共餐结合”统一解释牺牲的理论。右页笔记回到奠基仪式及血的危险或不洁。
 
 **Uncertain readings / 疑难读法:** one noun in summary abbreviated; foundation-smelting example uncertain; blood heading partly illegible
 
@@ -4395,6 +4443,10 @@ Lovejoy reaches an explicit negative conclusion: even adult married men can be b
 
 Funerary practices are reconsidered. Companion-killing, burial of servants, and sending wives or dependants with the dead need not have alimentary or sacramental character; they can be utilitarian, status-preserving, expiatory, or intended to provide attendants in the next life. Slaves or retainers sent alive into graves or killed before burial function as continued service or communication with the dead, analogous to sending messages or useful goods.
 
+**Chinese translation / 中文译文**
+
+重新考察丧葬做法。杀死陪伴者、埋葬仆役、让妻子或依附者随死者而去，未必具有食物性或圣礼性质；它们可以是功利性的、维持身份的、赎罪性的，或旨在为来世提供侍从。被活埋或在下葬前杀死的奴隶、随从，功能是继续服役或与死者沟通，类似向死者传送讯息或有用物品。
+
 **Uncertain readings / 疑难读法:** several localities/names illegible; one lower-left body-remains example uncertain; right-hand final lines abbreviated
 
 #### 005 · PDF 119 · Manuscript / 手稿 未标页 / unnumbered
@@ -4406,6 +4458,10 @@ Funerary practices are reconsidered. Companion-killing, burial of servants, and 
 
 The sustained comparative-religion discussion closes with eating selected human body parts. A body part may transmit its associated quality: head/brain -> intelligence, heart -> courage/breath/life, sexual organs -> sexual power. Lovejoy treats this as sympathetic or transferable efficacy rather than sufficient evidence of sacramental cannibalism. He notes that one-part eating may also be a reduced form of consuming the whole body. A loose slip on the right, headed 'The Gospel' [?], contains an unrelated outline and is retained as a separate inserted fragment.
 
+**Chinese translation / 中文译文**
+
+持续的比较宗教讨论以食用特定人体部位收束。身体部分可传递与其关联的品质：头颅或脑对应智力，心对应勇气、气息或生命，性器官对应性能力。Lovejoy 把这理解为感应或可转移的效力，不足以证明圣礼性食人。他又指出，只食一部分也可能是食用整个身体的缩减形式。右侧题为“福音”（？）的散页是一份无关提纲，作为独立插页保留。
+
 **Uncertain readings / 疑难读法:** opening words uncertain; loose-slip heading and several outline terms illegible
 
 #### 005 · PDF 120 · Manuscript / 手稿 未标页 / unnumbered
@@ -4416,6 +4472,10 @@ The sustained comparative-religion discussion closes with eating selected human 
 **English transcription / 英文转录**
 
 Back-leaf memorandum rather than continuation of the comparative-religion argument. Readable fragments include a special lecture dated January 9 [?] and a reference beginning 'V. Marillier'; other scheduling/bibliographic words are too faint to normalize securely.
+
+**Chinese translation / 中文译文**
+
+封底页备忘，不再延续比较宗教论证。可辨片段包括 1 月 9 日（？）的一场特别讲座，以及以“V. Marillier”开头的参照；其他日程或书目文字过淡，无法可靠规范化。
 
 **Uncertain readings / 疑难读法:** top line possibly 'Reconnaissance ...'; date/time faint; Marillier title/reference only partly legible
 
