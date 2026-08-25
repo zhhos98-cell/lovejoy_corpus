@@ -24,7 +24,25 @@ The items adjacent to Lovejoy's entry also include a Pali-text installment edite
 
 Primary source: [*Orientalische Bibliographie*, XII (for 1898; published 1899), title page, preface, entries 1418–1419 and 1491–1496](https://archive.org/stream/orientalischebibliographie12.1898/Orientalische%20Bibliographie%2012.1898_djvu.txt).
 
-## 2. Newly recovered 1900 and 1901 membership rolls give Lovejoy's Paris address and tighten his AOS chronology
+## 2. In 1903 a named Pali specialist deliberately selected and classified Lovejoy's article
+
+Albert J. Edmunds, **“A Buddhist Bibliography, Based upon the Libraries of Philadelphia,”** *Journal of the Pali Text Society*, **1902–03** issue, published **1903**, pp. 1–60, lists Lovejoy by name on **p. 44**:
+
+> LOVEJOY. — The Buddhist technical terms upādāna and upādisesa. By Arthur Oncken Lovejoy. J.A.O.S., July, 1898, pp. 126–136.
+
+This goes beyond the 1899 German index. Edmunds is an identifiable contemporary Buddhist specialist who explicitly selected Lovejoy's paper for a signed, highly specialized Pali Text Society bibliography. His preface says that the bibliography draws on Philadelphia public libraries, his own collection, and borrowed works, and that he aimed to include only works of **“permanent value.”** These statements establish a named compiler's selective recognition, but they do not prove that Edmunds read every page of Lovejoy's article, accepted its interpretation, or personally corresponded with him.
+
+The local classificatory context is particularly important. Edmunds places Lovejoy within **“Comparative Religion, Psychology, and special criticism”**; immediately above Lovejoy on p. 44 appears **Sylvain Lévi**, while the preceding page includes Hermann Jacobi's analysis of **Buddhism, Sāṃkhya-Yoga, and the nidānas**, with a further reference to **Charles R. Lanman**. This is contemporary published disciplinary grouping by a named scholar, not merely a modern reconstruction linking Lovejoy to Paris or to the Sāṃkhya controversy.
+
+On **p. 27**, the same bibliography separately describes **Édouard Specht's work on two Chinese versions of the *Milindapañha***, explicitly noting an introduction by **Sylvain Lévi** and associating it with the **1892** Orientalist congress. This documents a pre-existing Specht–Lévi collaboration on the very Buddhist textual object later present in Lovejoy's notebook and article. The original congress volume has not yet been directly inspected; Edmunds's 1903 signed bibliography is the contemporary witness used here.
+
+A further contemporary AOS membership roll lists **Albert J. Edmunds**, at the Historical Society of Pennsylvania, and **Arthur Oncken Lovejoy** in the same **1897** corporate-member directory. Shared institutional membership and Edmunds's later explicit bibliographic inclusion are both established; a meeting or correspondence between the two is not.
+
+Dating control: one OCR rendering misleadingly reads the title-page imprint as “1909.” The Pali Text Society's own archived-volume register, its official issue, the National Library of Israel's catalogue, and the volume's internal list of society publications establish the relevant bibliography as the **1902–03 issue, published in 1903**.
+
+Primary and institutional sources: [Pali Text Society, official PDF of Edmunds's 1903 article](https://palitextsociety.org/wp-content/uploads/2024/12/JPTS_V_11.pdf); [Pali Text Society, archived-volume register identifying Edmunds, pp. 1–60](https://palitextsociety.org/jpts-archived-volumes/); [complete public-domain OCR](https://archive.org/stream/journalpalitext24socigoog/journalpalitext24socigoog_djvu.txt); [AOS corporate-member directory including Edmunds and Lovejoy, 1897](https://www.jstor.org/stable/592296).
+
+## 3. Newly recovered 1900 and 1901 membership rolls give Lovejoy's Paris address and tighten his AOS chronology
 
 The American Oriental Society's corporate-member list explicitly headed **“REVISED, DECEMBER, 1900”** contains:
 
@@ -52,7 +70,7 @@ Publication-date control is essential. The directory is **revised December 1900*
 
 Primary sources: [AOS front matter and member list, revised December 1900, issued April 1902](https://www.jstor.org/stable/592505); [AOS front matter and member list, revised December 1901](https://www.jstor.org/stable/592404); [AOS front matter and member list, revised January 1903](https://www.jstor.org/stable/592370).
 
-## 3. Buddhist teaching existed during Lovejoy's actual 1898–99 Paris year
+## 4. Buddhist teaching existed during Lovejoy's actual 1898–99 Paris year
 
 Two independent contemporary EPHE documents now recover a Buddhist course previously obscured by first-page-only extraction:
 
@@ -67,7 +85,7 @@ Primary sources: [EPHE programme for 1898–99, published 1898, pp. 137–143](h
 
 Lovejoy's surviving notebook independently places him in Marillier's **Monday** survivance conferences on **12 and 19 June 1899**. Specht's course likewise met on Mondays, at **3:15 p.m.** The weekday overlap is secure, but Marillier's precise start time has not been recovered, so neither a timetable conflict nor compatibility can yet be established.
 
-## 4. Later Paris course reports identify the *Milindapañha* and a named Buddhist specialist
+## 5. Later Paris course reports identify the *Milindapañha* and a named Buddhist specialist
 
 The EPHE report published in **1902**, retrospectively describing the preceding academic work, identifies **Édouard Specht** teaching the **Chinese recension of the *Milindapañha***. The named attendees include **Louis de La Vallée Poussin**. The same report also places La Vallée Poussin in Alfred Foucher's elementary Sanskrit conference.
 
@@ -77,7 +95,7 @@ Evidence grading: the common text and named attendance are secure; Lovejoy's att
 
 Primary sources: [EPHE, *Langue sanscrite*, report published 1902, pp. 80–81](https://www.persee.fr/doc/ephe_0000-0001_1903_num_1_1_2409); [complete bound-volume OCR including the otherwise omitted second page](https://archive.org/stream/annuaire20frangoog/annuaire20frangoog_djvu.txt); [Lovejoy, “The Buddhistic Technical Terms Upādāna and Upādisesa” (1898)](https://www.jstor.org/stable/592475); repository transcription `archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`, manuscript p. 131, PDF p. 46.
 
-## 5. Two distinct *Sūtrālaṃkāra* projects must not be conflated
+## 6. Two distinct *Sūtrālaṃkāra* projects must not be conflated
 
 An **1898** Académie report identifies a manuscript attributed to **Asaṅga**, obtained during Lévi's Nepal research. A separate EPHE report **published in 1903** says that Lévi's former student **Édouard Huber**, by then at Hanoi, had completed a translation of a *Sūtrālaṃkāra*. An independently preserved letter from Lévi to Paul Pelliot, dated **1 October 1903**, identifies Huber's project as the *Sūtrālaṃkāra* attributed to **Aśvaghoṣa**.
 
@@ -85,7 +103,7 @@ Thus the similar titles designate **two distinct scholarly objects**: the Asaṅ
 
 Sources: [Académie report on Lévi's Nepal manuscript, 1898](https://www.persee.fr/doc/crai_0065-0536_1898_num_42_2_71154); [EPHE, *Langue sanscrite*, report published 1903, pp. 89–91](https://www.persee.fr/doc/ephe_0000-0001_1904_num_1_1_2463); [Musée Guimet research edition quoting Lévi's letter to Pelliot dated 1 October 1903](https://guimet-photo-pelliot.fr/essais/essai_8.php). Only the contemporary 1903 letter is used here; the translation's later publication lies outside this batch's cutoff and is intentionally excluded.
 
-## 6. A named Indian author and additional Buddhist philology appear in the 1904 Paris record
+## 7. A named Indian author and additional Buddhist philology appear in the 1904 Paris record
 
 The EPHE Sanskrit report **published in 1904**, covering the **1903–04** academic year, identifies **Pandit Ganapati Śāstrī**, principal of the Maharaja of Travancore's college, as the author of a Sanskrit reader intended for schools in India and also for Sanskrit instruction in Europe. Its printing had already begun under Lévi's supervision. The report documents an Indian intellectual as an author and curriculum-maker, while also making the asymmetrical editorial supervision explicit.
 
@@ -102,5 +120,5 @@ Primary sources: [EPHE, *Langue sanscrite*, report published 1904, pp. 76–78](
 1. Recover a visual copy or complete transcription of pp. 66–67 in the **1898–99** EPHE report and identify whether Specht supplied a named attendance list.
 2. Recover the precise starting time of Marillier's Monday conference before claiming either timetable compatibility or conflict with Specht's **3:15 p.m.** course.
 3. Preserve the 1904 record of Ganapati Śāstrī's reader as a work already in production; its completed publication falls outside the agreed chronological boundary.
-4. Locate a further **1902** AOS membership roll or directors' record to narrow the newly corrected December-1901-to-January-1903 exit interval.
-5. Search only contemporary specialist bibliography, correspondence, citations, and course records for a direct named reader or respondent to Lovejoy's 1898 article.
+4. Inspect the **1902** AOS directors' or treasurer's records rather than assume that a separate published 1902 member roll exists: the digitized volume's contents jump from the April 1902 Boston proceedings to a **“List of Members 1903.”**
+5. Seek substantive argument, correspondence, or quotation by Edmunds or another named specialist: Edmunds's 1903 signed inclusion proves selective bibliographic recognition, not doctrinal agreement or a direct personal exchange.
