@@ -8,6 +8,18 @@ This batch concerns Lovejoy's academic formation, Sanskrit/Pali studies, Buddhis
 
 An institutional course record establishes that a course existed, not that Lovejoy attended it. A bibliographic entry establishes contemporary discoverability and disciplinary classification, not that any particular scholar read, cited, or endorsed the article. Shared use of the same Buddhist text establishes object-level overlap, not direct interpersonal influence.
 
+The present research priority is **Lovejoy himself**. Contextual Paris and specialist-network records remain in this batch only when they help delimit an available course, a text Lovejoy demonstrably used, or a named reception trace. They are not substitutes for evidence about his own reading, writing, teaching, or institutional work.
+
+## 0. Lovejoy himself explicitly carried the 1898 Buddhist analysis into his 1902 comparative philosophy
+
+Lovejoy's **"Religion and the Time-Process,"** *The American Journal of Theology* 6.3 (July **1902**), pp. 439–472, is not merely a later work that happens to mention Buddhism. Its byline identifies him with **Washington University**, and on printed p. **442** he describes the Pali Piṭakas' Three Characteristics and dependent origination as a Buddhist analysis of change, volition, desire, satisfaction, and renewed grasping. At the exact point where he says he is summarizing that analysis in modern terms, his footnote directs readers to **"the writer's paper"** on *The Buddhistic Technical Terms upādāna and upādisesa*.
+
+This is the strongest direct pre-1905 continuity statement now in the batch: **Lovejoy himself**, not a later interpreter, identifies the detailed 1898 philological paper as the analytical support for his broader 1902 comparative-philosophical account. It establishes authorial reuse across two publications; it does not by itself prove that every claim in 1902 was already present in the earlier notebook or that Paris caused the enlargement in scale.
+
+The page image also closes a small bibliographic problem. Lovejoy's footnote prints the earlier paper as *JAOS* **"Vol. XVIII"**, but the paper actually appeared in volume **XIX**, Second Half (1898), pp. 126–136. Because `XVIII` is plainly visible in the scan, this is a **printed self-miscitation**, not an OCR error. The explicit title leaves the cited work's identity secure.
+
+Primary sources: [Lovejoy, 1902 article, complete Internet Archive/JSTOR object](https://archive.org/details/jstor-3153919); [direct scan, printed p. 442 / PDF p. 5](https://archive.org/details/jstor-3153919/page/n4/mode/1up); [Lovejoy's 1898 article](https://www.jstor.org/stable/592475).
+
 ## 1. Lovejoy's 1898 Buddhist article was internationally indexed by September 1899
 
 Lucian Scherman's *Orientalische Bibliographie*, volume XII, is designated **for bibliography year 1898**, but its title page gives **1899** as the publication year and its preface is signed at Munich in **September 1899**. Its Pali-and-Prakrit section lists entry 1492:
