@@ -73,3 +73,29 @@ Purpose: temporary append-only log for browser clicks/downloads that are materia
 **Resolves:** upgrades course content from Wilson-mediated reconstruction to contemporaneous institutional primary; especially valuable for separating the three pedagogical jurisdictions rather than treating `Harvard comparative religion` as one method.
 
 **Firewall:** catalogue availability/course description does not by itself prove which exact readings, lectures or exercises Lovejoy completed beyond the separately controlled enrollment/course-list evidence.
+
+---
+
+## MF-004 — *The Great Chain of Being* primary epilogue audit
+
+**Priority:** P0 / editor-requested mature-work epilogue closure
+
+**Target:** Arthur O. Lovejoy, *The Great Chain of Being: A Study of the History of an Idea* (1936; later Harvard printings use stable pagination in the opening lectures). Highest-value target is Lecture II around printed pp. 24–45, especially p. 35; also check the index for `Oriental`, `Buddhism/Buddhist`, `India/Indian`, `Vedanta`, `Hindu`, `Nirvana`, `China/Chinese`, `otherworldliness`, `Occidental`.
+
+**Fast links:**
+- Open Library / Internet Archive edition locator: https://openlibrary.org/books/OL7692618M/The_Great_Chain_of_Being
+- Internet Archive identifier exposed by the scan record: `greatchainofbein0000love_b9m4`
+- Google Books 1936/Harvard record: https://books.google.com/books/about/The_Great_Chain_of_Being.html?id=SExr0AEACAAJ
+- Alternate Google Books text/record route: https://books.google.com/books/about/The_great_chain_of_being.html?hl=en&id=AiMNAQAAIAAJ&output=html_text
+- Secondary locator only for the p.35 wording, **not primary proof**: https://socratesontrial.org/the-great-chain-of-being/
+
+**Return:** (1) page image/text for printed p. 35 and one page before/after; (2) index page(s) containing `Oriental` and any Indic/Buddhist terms if present; (3) if search-inside gives no Buddhist/Indic hits, a screenshot/search result recording the bounded negative is useful.
+
+**Already controlled without this return:**
+- a scan-derived 1966 Harvard printing OCR identifies the book's object in the preface as a conception in `Occidental philosophy` and one of the most persistent presuppositions in `Western thought`; Lovejoy says his task is to set separately told historical parts into relation with a `single pervasive complex of ideas`;
+- the same scan-derived OCR has no straightforward hits for `Buddh*`, `Vedanta`, or `Hindu` in the currently exposed text search;
+- multiple independent scholarly quotations locate at p. 35 Lovejoy's contrast between Plato as the source of the **indigenous** Occidental strain of otherworldliness and `imported Oriental varieties`.
+
+**Resolves:** whether the Blog epilogue should say (a) mature Lovejoy still substantively compares Buddhism/India inside *Great Chain*, or the currently more likely and safer (b) early Indic objects have been displaced from the book's canonical narrative center, with `Oriental` material functioning mainly as an exterior comparator/boundary marker while the narrated genealogy is explicitly Occidental/Western.
+
+**Firewall:** do not name Buddhism as the specific `imported Oriental` comparator unless the primary pages/index support that identification; do not infer deliberate exclusion from a bounded negative search.
