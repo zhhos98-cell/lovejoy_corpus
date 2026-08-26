@@ -27,9 +27,9 @@ Purpose: record repository consolidation in a compact, recoverable form. Files l
 - Third thematic pass removed 11 additional 005 batch/process files and replaced their living functions with 3 canonical thematic dossiers; two older evidence-bearing thematic files were retained but their outdated verdicts were rewritten in place.
 - Fourth thematic pass replaced 7 Steinmetz/anthropophagy discovery and primary-resolution prose batches with 1 primary-controlled explanatory-level dossier.
 - Retrieval cleanup removed 5 obsolete deterministic-route / mirror-route files after all still-live targets were verified in the canonical manual queue.
-- Fifth thematic pass replaced 5 004 / 004→005→1906 analytical prose batches with 2 canonical dossiers while retaining their matrices.
+- Fifth thematic pass replaced 6 004 / 004→005→1906 analytical prose batches with 2 canonical dossiers while retaining their matrices.
 
-**Net active-tree reduction across these passes: 48 files.**
+**Net active-tree reduction across these passes: 49 files.**
 
 This count excludes new structural/canonical files whose purpose is consolidation. It describes net reduction of the pre-cleanup working tree rather than total repository file count.
 
@@ -169,10 +169,11 @@ Both now defer conceptual priority to `005_Marillier_selector_alignment_consolid
 Merged into `research_notes/004_proof_architecture_publication_selection_consolidated.md`:
 
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch152_Oldenberg_1890_baseline_vs_1897_third_edition.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch153_004_family_resemblance_to_diagnostic_specificity.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch154_two_gates_diagnosticity_and_genealogical_redundancy.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch155_004_manuscript_surplus_publication_evidentiary_compression.md`
 
-The canonical dossier now integrates the direct 1897 Oldenberg/Jacobi correction from Batch159, so no active file still treats the true third-edition pages as pending. It preserves the 1890 `Familienähnlichkeit` baseline, diagnostic specificity, independent genealogical warrant, proof-level partition, manuscript surplus and the observable publication gradient. Retained matrices:
+The canonical dossier now integrates the direct 1897 Oldenberg/Jacobi correction from Batch159, so no active file still treats the true third-edition pages as pending. It preserves the 1890 `Familienähnlichkeit` baseline, the Rhys-Davids/Lovejoy manuscript hinge (`To R.D.'s remark it should be added...`), the replacement of generic eternity with `separateness of Self and World` / `thorough-going dualism`, diagnostic specificity, independent genealogical warrant, proof-level partition, manuscript surplus and the observable publication gradient. Retained matrices:
 
 - `Oldenberg_1890_1897_Jacobi_edition_state_matrix_batch152.csv`;
 - `004_1898_1902_two_gate_inference_matrix_batch154.csv`;
