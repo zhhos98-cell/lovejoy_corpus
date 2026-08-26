@@ -1,22 +1,24 @@
 # MS38 005 — boundary controls: selector reallocation, ritual morphology, and unsynchronized developmental clocks
 
 Consolidated: 2026-08-26
-Status: **CANONICAL THEMATIC DOSSIER / DIRECT MARILLIER PRIMARY UPGRADED**
+Status: **CANONICAL THEMATIC DOSSIER / DIRECT MARILLIER PRIMARY FULLY COLLATED**
 Supersedes active-tree Batches219, 224 and 225. Original versions remain in Git history.
+
+Read together with `research_notes/005_Marillier_selector_alignment_consolidated.md`, which now carries the canonical attribution/originality allocation for the early eschatology block.
 
 ## Core result
 
-Three separate notebook tests now provide complementary controls against reading `MS38_004_001_061_005` as a single civilization ladder.
+Three separate notebook tests provide complementary controls against reading `MS38_004_001_061_005` as a single civilization ladder.
 
 1. **Suicide / special death:** the same apparent post-mortem punishment is repeatedly reallocated as the operative selector changes.
 2. **Human/animal sacrifice:** visible ritual severity or morphology does not itself identify mechanism or developmental rank.
 3. **Agriculture/domestication:** an external economic/subsistence sequence cannot silently serve as a universal chronological scaffold for ritual development.
 
-The user-returned direct Marillier primary adds a decisive upstream control: before Lovejoy's notebook, Marillier already distinguished **contact/borrowing, moral versus non-moral determinants, rites/magical practices, manner of death, status, and later moralization**, and explicitly allowed formally similar beliefs to have different significance in different settings.
+The returned complete Marillier 1893/94 primary materially narrows originality claims. Marillier already provides not only the determinant ingredients but also an explicit moral/non-moral selector criterion, mixed ritual/moral cases, contact and superposition controls, and a transitional moralization zone. Lovejoy's `desert` and `half-moral` therefore remain useful **actor-local compact labels**, but no longer carry a conceptual priority claim.
 
-Together they support a bounded analytical formulation:
+The Lovejoy delta is more procedural:
 
-> **Lovejoy repeatedly refuses to let one visible outcome, ritual form, or assumed cross-domain chronology do more historical/classificatory work than the relation-specific evidence licenses.**
+> **005 repeatedly holds a visible outcome or form fixed, varies the candidate selector/mechanism, and reallocates the case until the relation licensed by the evidence is isolated; the same diagnostic discipline is then carried across domains.**
 
 This does not mean that 005 abandons hierarchy or evolutionary language. The notebook explicitly uses `primitive`, `higher stage`, `more developed peoples`, and related rankings. The point is narrower: the coordinates of hierarchy do not always synchronize.
 
@@ -28,27 +30,26 @@ This does not mean that 005 abandons hierarchy or evolutionary language. The not
 
 Primary locus: corrected 005 transcription, especially PDF pp.3–6, 11, 14–20.
 
-### Attribution background — now direct-primary strengthened
+### Attribution background — direct-primary closure
 
-Marillier, Mauss and Söderblom already supply much of the determinant field: terrestrial status, ritual qualification, manner of death, clan/social consequences, moral differentiation, contact/contamination, and later moral superposition. Söderblom 1901 also provides a serial selector sequence and explicitly follows Marillier with `d'autres divisions`.
+Marillier, Mauss and Söderblom supply substantial upstream controls, but the complete Marillier `Survivance` text now carries more of the conceptual burden directly than earlier batches allowed.
 
-The returned full text of Léon Marillier, `La survivance de l’âme et l’idée de justice chez les peuples non civilisés` (1893/94), removes an important relay dependency.
+Direct Marillier controls include:
 
-Direct Marillier controls now include:
+- **contact / borrowing:** doctrines that look morally differentiated may be products of prolonged relations with Christians, Muslims or Indic traditions and can be superadded to older beliefs;
+- **determinant plurality:** post-mortem fate can depend on rank, manner of death, ritual fidelity, journey competence, courage/cowardice, divine arbitrariness or chance;
+- **explicit moral criterion:** differentiated destiny becomes genuinely moral when allocation tracks the good/bad quality or moral value of earthly conduct rather than these other selectors;
+- **rite versus morality:** ceremonies, rites and magical practices can affect destiny without thereby becoming moral merit;
+- **mixed cases:** a `good/bad` distinction can be partly moral but principally ritual;
+- **same-looking feature, different significance:** analogous forms can recur with different `signification` and `portée`;
+- **historical superposition:** newer moral reward/punishment can be added to older non-moral afterlife structures without erasing them;
+- **transitional moralization:** moral reward/punishment can be recognizable while still not clearly disentangled from contrary conceptions.
 
-- **contact / borrowing:** doctrines that look morally differentiated may be products of prolonged relations with Christians or Muslims rather than untouched indigenous strata; in the North American discussion Marillier explicitly treats the `happy hunting-grounds` image as possibly borrowed from whites and superadded to older beliefs;
-- **determinant plurality:** post-mortem fate can be determined by chance, arbitrary divine action, terrestrial rank, manner of death, or unequal skill/strength rather than the moral quality of earthly conduct;
-- **rite versus morality:** acts influencing destiny are often ceremonies, rites, or magical practices rather than actions classified as morally good or bad; even labels translated as `good` and `bad` can turn on whether appropriate funeral rites were performed;
-- **same-looking feature, different significance:** Marillier says analogous features recur across Oceania, Africa, Brazil and the Indian archipelago `avec une signification et une portée différentes`; formal recurrence therefore does not itself fix historical or moral meaning;
-- **developmental moralization:** he describes beliefs in gods and future life as becoming progressively moralized as societies become more complex, rather than treating moral judgment as the original universal source of afterlife belief.
-
-This matters because the upstream environment already performs a relation-sensitive decomposition of what would otherwise look like one category, `moral afterlife differentiation`.
-
-Therefore the strong Lovejoy claim is not category invention. The documentary delta lies in how 005 locally reuses, reallocates, compresses and tests this field.
+Therefore neither a stable middle determinant field, the conceptual `desert` test, nor the transitional `half-moral` zone is safely Lovejoy-specific. `Desert` is a concise notebook wording of an upstream inferential rule; `half-moral` is a concise label for a directly Marillier-controlled transition problem.
 
 ### The suicide sequence
 
-Across adjacent pages, an apparently punitive afterlife attached to suicide/special death can be tested as:
+Across adjacent pages, an apparently punitive afterlife attached to suicide/special death is tested as:
 
 `manner of death`
 → `ritual/manual qualification`
@@ -56,17 +57,19 @@ Across adjacent pages, an apparently punitive afterlife attached to suicide/spec
 → `social obligation / clan solidarity`
 → `exclusion / blood-contact consequence`
 → `later imported or higher-stage moral interpretation`
-→ only if the outcome tracks **desert**, `strict moral punishment`.
+→ `moral allocation only if the operative selector is evaluative conduct / desert`.
 
 The diagnostic operation is:
 
 > **hold the visible outcome fixed; vary the candidate selector; reassign the case until the relation licensed by the evidence is isolated.**
 
+This repeated same-case migration, rather than ownership of the selector categories themselves, is the stronger Lovejoy notebook delta.
+
 ### Strong examples
 
-- Early pages explicitly refuse to identify differentiated post-mortem destiny with moral reward/punishment merely because outcomes differ.
+- Early pages refuse to identify differentiated post-mortem destiny with moral reward/punishment merely because outcomes differ.
 - Greenland-type material associates favorable destiny with drowning/childbirth/special death while Lovejoy marks the relation as non-moral.
-- Suicide is considered through clan solidarity: killing oneself can injure the clan through one of its members; exclusion from social/religious rights can follow without requiring a doctrine of moral desert.
+- Suicide is considered through clan solidarity: killing oneself can injure the clan through one of its members; exclusion from social/religious rights can follow without requiring moral desert.
 - Later moral conceptions or contact can reassign suicide to special punishment, showing historical superposition rather than a timeless selector.
 
 ### Evidence limit
@@ -81,7 +84,7 @@ Primary locus: corrected 005 transcription, especially PDF pp.67–76.
 
 ### p.67 — magnitude can be political/status amplification
 
-Lovejoy compares ordinary funerary killing with extravagant human sacrifice/massacre associated with rulers. The corrected transcription preserves the analytical possibility that the difference is **political/status** rather than a fundamentally different religious motive: a king has greater power/resources.
+Lovejoy compares ordinary funerary killing with extravagant human sacrifice/massacre associated with rulers. The corrected transcription preserves the possibility that the difference is **political/status** rather than a fundamentally different religious motive: a king has greater power/resources.
 
 Thus:
 
@@ -90,7 +93,7 @@ Thus:
 
 ### pp.68–69 — human → animal does not prove advancement
 
-The notebook explicitly asks whether apparent differences represent developmental stages or different social settings. It cautions against ranking cultures by a simple scale and refuses to treat animal sacrifice as automatic evidence of advancement over human sacrifice.
+The notebook asks whether apparent differences represent developmental stages or different social settings. It refuses to treat animal sacrifice as automatic evidence of advancement over human sacrifice.
 
 A human victim can belong to an older funerary/provisionary logic tied to a particular dead person; changing victim species does not by itself establish mechanism or stage.
 
@@ -175,7 +178,7 @@ Evidence grade: medium-high corrected-transcription control. MD-006 optionally r
 - a belief's apparent moral content may be borrowed/superadded rather than coeval with the older structure it now inhabits;
 - formally analogous beliefs can recur with different `signification` and `portée`.
 
-The direct Marillier return makes the last two points especially important. The workshop model was already capable of treating a living tradition as internally stratified by contact, inheritance, later moralization and function. That strengthens the project's broader claim that the operative problem is **stratification**, not merely the detection of contradiction.
+The direct Marillier return makes the last two points especially important and now also shows that the transition into moral classification can itself be internally mixed. The workshop model was already capable of treating a living tradition as stratified by contact, inheritance, ritual/moral selector, later moralization and function.
 
 The strongest safe conclusion is:
 
@@ -189,13 +192,15 @@ This should be read alongside the 004 control where `viññāṇa` can be tempor
 
 The user-returned MS-0038 finding aid independently identifies a Paris 1898–99 black notebook on `primitive religions and practices`, alongside a loose notebook on Sāṃkhya/Buddhism and 1898–99 totemism notes. The description of the primitive-religions notebook gives Lovejoy's address as `5 rue Rollins`.
 
-This does not identify a lecturer by itself. It does, however, tighten the material provenance of the 1898–99 workshop/notebook environment and makes the relation between the corrected 004/005 corpus and Paris comparative-religion / Indological work less dependent on retrospective reconstruction.
+This does not identify a lecturer by itself. It does tighten the material provenance of the 1898–99 workshop/notebook environment and makes the relation between the corrected 004/005 corpus and Paris comparative-religion / Indological work less dependent on retrospective reconstruction.
 
 ---
 
 ## VI. Saturation rule
 
-Further 005 case-mining is not warranted merely to collect more examples of `same form ≠ same mechanism`. Reopen only if a new passage changes one of:
+The selector-priority issue is closed in `005_Marillier_selector_alignment_consolidated.md`. Further 005 case-mining is not warranted merely to collect more examples of `same form ≠ same mechanism` or another Marillier example of non-moral differentiation.
+
+Reopen only if a new object changes one of:
 
 - relation-type logic;
 - chronology across domains;
@@ -203,4 +208,4 @@ Further 005 case-mining is not warranted merely to collect more examples of `sam
 - source-provenance politics;
 - material revision visible on the manuscript page.
 
-Otherwise additional sacrifice/charm/fetish/cannibalism examples are corroborative, not new conceptual batches.
+Otherwise additional sacrifice/charm/fetish/cannibalism/escha­tology examples are corroborative, not new conceptual batches.
