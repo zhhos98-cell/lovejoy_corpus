@@ -1,508 +1,203 @@
 # Lovejoy corpus — CURRENT STATE
 
-Last synchronized: 2026-08-26  
-Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL RETURNS INCORPORATED / 5 NARROW ACTIVE CONTROLS / ACTIVE-TREE CLEANUP NET −106**
+Last synchronized: 2026-08-26
+Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL RETURNS INCORPORATED / 5 NARROW ACTIVE CONTROLS / ACTIVE-TREE CLEANUP NET −117**
 
-This is the single living restart/state file. Older checkpoints, batch-level resolution notes, superseded retrieval routes, and drafting architectures are historical states recoverable from Git history, not active instructions.
+This is the single living restart/state file. Detailed proof belongs in the canonical dossiers and retained source/data products below. Deleted batch/process prose remains recoverable through Git history and should not be recreated merely for preservation.
 
-## 1. Read order
+## 1. Restart read order
 
-For a new session, read only:
+Read only what the current problem requires. Default order:
 
-1. `CURRENT_STATE.md` — scope, conclusions, remaining work and restart rules;
-2. `Quellenforschung_master_summary_2026-08-23.md` — full cross-corpus source-critical synthesis;
-3. `research_notes/004_proof_architecture_publication_selection_consolidated.md` — canonical 004 proof / manuscript-publication architecture;
-4. `research_notes/004_Senart_Jacobi_Oldenberg_primary_controversy_consolidated.md` — page-level Senart/Jacobi/Oldenberg controversy and priority controls;
-5. `research_notes/004_Hardy_causal_microgenesis_consolidated.md` — Hardy → 004 → 1898 → 1902 causal source-transformation chain;
-6. `research_notes/004_upadisesa_lexical_semantic_recomposition_consolidated.md` — Oldenberg 1882 / Childers / Rhys Davids / Müller / Dahlmann → 004 → 1898 lexical-semantic chain;
-7. `research_notes/005_Marillier_selector_alignment_consolidated.md` — canonical 005 selector/originality attribution;
-8. `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md` — cross-object diagnostic/mechanism/reaggregation architecture;
-9. `research_notes/004_005_1902_1906_proof_warrant_architecture_consolidated.md` — canonical proof-burden/warrant migration, 1902 bridge, 1906 vera-causa/source-function/asymmetry control;
-10. `research_notes/Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md` — canonical 1904 contradiction/genealogy/source-role/Indic-comparator control;
-11. `research_notes/Lovejoy_1904_Recent_Literature_primary_consolidated.md` — canonical 1904 reading-ecology/translation/source-role control;
-12. `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md` — canonical 1908–09 decomposition/recombination/genealogy control;
-13. `research_notes/AOS_membership_Indic_practice_continuity_consolidated.md` — AOS institutional chronology versus continuing Buddhist/Indic practice;
-14. `research_notes/Wilson_1982_Indic_reception_topology_consolidated.md` — canonical Wilson bibliographic/reception topology through June 1981;
-15. `research_notes/lovejoy_1898_post1981_buddhist_afterlife_memory_split_batch200.md` — post-1981 external reception control;
-16. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary packet;
-17. `research_notes/manual_download_click_backlog.md` — only living manual queue;
-18. the relevant transcription, matrix or source memo only when a specific proposition requires it.
+1. `CURRENT_STATE.md`
+2. `Quellenforschung_master_summary_2026-08-23.md`
+3. `research_notes/004_proof_architecture_publication_selection_consolidated.md`
+4. `research_notes/004_Senart_Jacobi_Oldenberg_primary_controversy_consolidated.md`
+5. `research_notes/004_Hardy_causal_microgenesis_consolidated.md`
+6. `research_notes/004_upadisesa_lexical_semantic_recomposition_consolidated.md`
+7. `research_notes/005_Marillier_selector_alignment_consolidated.md`
+8. `research_notes/005_boundary_controls_consolidated.md`
+9. `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`
+10. `research_notes/004_005_1902_1906_proof_warrant_architecture_consolidated.md`
+11. `research_notes/Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md`
+12. `research_notes/Lovejoy_1904_Recent_Literature_primary_consolidated.md`
+13. `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md`
+14. `research_notes/AOS_membership_Indic_practice_continuity_consolidated.md`
+15. `research_notes/Lovejoy_1906_early_reception_Leuba_King_Jung_consolidated.md`
+16. `research_notes/Lovejoy_1906_citation_shadow_source_transformation_consolidated.md`
+17. `research_notes/Wilson_1982_Indic_reception_topology_consolidated.md`
+18. `research_notes/lovejoy_1898_post1981_buddhist_afterlife_memory_split_batch200.md`
+19. `research_notes/manual_primary_returns_2026-08-26.md`
+20. `research_notes/manual_download_click_backlog.md` — only living manual queue.
 
 Current JHI Blog prose: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`.
 
-Backstage novelty/historiography firewall: `research_notes/JHI_blog_historiography_novelty_control_consolidated.md`.
+Historiography/novelty firewall: `research_notes/JHI_blog_historiography_novelty_control_consolidated.md`.
 
-## 2. Scope lock
+## 2. Scope and restart rules
 
 - Core manuscript objects: `MS38_004_001_061_004` and `MS38_004_001_061_005`.
-- Ordinary forward endpoint: **1910**.
-- Later material enters only as explicit Indic/Buddhist continuity, reception, historiographic or adversarial control.
-- Do not equate manual/browser-dependent gaps with unfinished conceptual research.
-- Do not create a new numbered conceptual batch merely because a source is returned; incorporate evidence into the relevant canonical dossier unless the model itself changes.
+- Ordinary forward endpoint: **1910**. Later material enters only as explicit Indic/Buddhist continuity, reception, historiographic, political/institutional or adversarial control.
+- Non-manual conceptual research is converged. Do not open a new generic numbered batch because another example can be found.
+- New primary returns are incorporated claim-by-claim into the relevant canonical dossier. Create a new conceptual object only if the model actually changes.
+- `manual_download_click_backlog.md` is authoritative for unresolved manual/browser-dependent controls.
+- Git history is the archive layer. Preserve primary/corrected transcriptions, matrices, source registers and genuinely unique source microhistories; remove only superseded interpretation/process layers after their unique content has a living home.
 
 ## 3. Top-line model
 
-The strongest current description is a sequence of separable operations:
+The strongest current description is:
 
 > **shared problem/category field → local redivision/reweighting → relation-specific judgment → internally stratified historical object → transverse comparison → possible broader reaggregation.**
 
-Do not frame early Lovejoy primarily as inventing the constituent analytical operators. Direct Oldenberg, Jacobi, Marillier, Söderblom, Hardy and other controls show that much of the proof repertoire was already field-level.
+Do not frame early Lovejoy as inventing the constituent operators. Direct Oldenberg, Jacobi, Marillier, Söderblom, Hardy and other controls show much of the proof repertoire already existed in contemporary fields.
 
-Lovejoy's strongest documentary delta is narrower:
+Lovejoy's more defensible documentary delta is:
 
-> **selection and reweighting of inherited distinctions → repeated local testing → dense reallocation of cases/relations → recombination across domains → later scale expansion and possible re-totalization.**
+> **selection and reweighting of inherited distinctions → repeated local testing → dense reallocation of cases/relations → transport across domains → later scale expansion and possible re-totalization.**
 
-The project is therefore about source transformation and evidentiary allocation, not an origin myth for `unit-ideas`.
+The project is therefore about source transformation, evidentiary allocation and stratification, not an origin myth for mature `unit-ideas`.
 
-## 4. Canonical claim map
+## 4. Canonical claim boundaries
 
-### 4.1 Notebook 004 / Lovejoy 1898
+### 004 / 1898 Buddhist work
 
-Primary-secure operations include:
+Keep separate:
 
-- temporal position can differ from logical inclusion (`viññāṇa` / `nāmarūpa`);
-- generic resemblance does not establish system identity or genealogy;
-- formal recurrence/common provenance does not establish semantic or causal identity;
-- etymological possibility does not settle contextual meaning;
-- historical compositeness does not by itself settle present intelligibility;
-- borrowed terms/ideas can receive a new `arrangement and application`.
+- diagnostic specificity;
+- contextual semantic/function control;
+- textual witness/edition control;
+- historical dependence/borrowing/composition;
+- publication selection.
 
-#### Senart / Jacobi / Oldenberg attribution control
+Oldenberg/Jacobi priority is secure for several basic proof operations; Lovejoy uptake is not established merely by priority or availability. Hardy directly supplies the two-factor rebirth architecture later sharpened by Lovejoy. Rhys Davids directly supplies the `upādi`/five-skandha lexical fork. Müller printed p.30 currently fails while p.36 carries the relevant aspiration-loss wording; treat Lovejoy's `p.30` as a probable six-page citation slip unless another pagination witness explains it.
 
-Use `004_Senart_Jacobi_Oldenberg_primary_controversy_consolidated.md`.
+Notebook 004 is especially valuable because publication removes or softens broader genealogical/metaphysical surplus while preserving more locally controllable semantic and causal claims.
 
-Direct primary evidence establishes that before or contemporaneously with Lovejoy:
+### 005 / Marillier workshop
 
-- Senart already practiced lexical filiation, decomposition and historical stratification;
-- Jacobi used nontrivial doctrinal difference-points rather than generic affinity;
-- the true 1897 third edition of Oldenberg already separated characteristic from generic resemblance, question/function from formal position, source chronology/genre from speculative genealogy, usage from etymological projection, and explicitly rejected `upādāna = upādānakkhandha`.
+Direct Marillier primary now secures contact/borrowing, determinant plurality, ritual/magical versus moral determinants, developmental moralization, and the explicit possibility that formally similar beliefs have different `signification` and `portée`.
 
-Therefore:
+Söderblom and N. W. Thomas supply independent workshop/institutional controls for redivision, unequal evidentiary value and directed student research. Lovejoy-local labels such as `half-moral` or `desert` should not be inflated into priority claims.
 
-> **Oldenberg priority is secure for the basic anti-Senart semantic control; Lovejoy uptake from the 1897 edition is not proved merely by priority or availability.**
+Strongest 005 delta:
 
-Keep `priority`, `availability`, `access`, and `documented uptake` as separate evidentiary states.
+> **compact redivision + repeated same-case reallocation among competing selectors/mechanisms + cross-domain portability.**
 
-#### Hardy causal microgenesis
+The suicide cluster remains the cleanest case.
 
-Use `004_Hardy_causal_microgenesis_consolidated.md`.
-
-Hardy 1853 pp.394–396 directly supplies the two-factor architecture: `upādāna` produces renewed existence while karma controls its manner/state. Notebook 004 explicitly cites Hardy p.394 and reformulates the source as **fact versus manner of continued existence**. Lovejoy 1898 stabilizes this as:
-
-- karma → **particular condition** of rebirth;
-- `upādāna` → **fact of rebirth as such**.
-
-Lovejoy's increment is not invention of two causal factors. It is **historical-functional recomposition**: an inherited distinction is analytically sharpened, separately text-tested, then explained historically through different functions assigned to inherited karma and the specifically Buddhist problem of continued rebirth.
-
-#### `upādisesa` lexical-semantic recomposition
-
-Use `004_upadisesa_lexical_semantic_recomposition_consolidated.md`.
-
-Oldenberg 1882 already supplies most of the ethical-residue semantic direction and principal canonical apparatus. Lovejoy's stronger delta is evidentiary recomposition:
-
-- competing lexical genealogies are bracketed when they cannot discriminate meaning;
-- usage and doctrinal contrast bear the semantic burden;
-- contradictory witnesses remain visible;
-- final confidence is lower than Oldenberg's strong orthographic resolution.
-
-Manual returns additionally resolve the lexical fork:
-
-- Rhys Davids 1894 p.113 directly supplies the `upādi` / five-skandha derivation Lovejoy quotes;
-- Dahlmann 1896 p.14 is directly controlled;
-- Müller 1884 printed p.30 contains no relevant statement, while printed p.36 contains the relevant aspiration-loss correspondence. Treat Lovejoy's `p.30` as a **probable six-page citation slip unless another pagination witness explains it**. Do not silently emend the footnote.
-
-#### Material provenance
-
-The JHU MS-0038 finding aid independently identifies Paris 1898–99 material including a notebook on `primitive religions and practices`, a loose `Sāṃkhya and Buddhism` notebook, and `Notes on totemism, 1898–1899`; it also gives `5 rue Rollins` for the primitive-religions notebook description. This tightens notebook provenance but does not identify the lecturer responsible for each item.
-
-### 4.2 Notebook 005 / Marillier workshop
-
-Direct Marillier and Söderblom primary controls remove broad priority claims for the selector field.
-
-Marillier already supplies:
-
-- rank, manner of death, ritual fidelity, strength/journey competence, courage, chance, divine arbitrariness and moral conduct as distinct determinants;
-- an explicit moral/non-moral criterion tied to the moral value of earthly conduct;
-- mixed ritual/moral allocations;
-- contact, borrowing, superposition and later moralization of older structures;
-- formally similar beliefs with different `signification` and `portée`.
-
-Söderblom, in the same Marillier workshop environment, independently shows:
-
-- `d'autres divisions` / serial redivision;
-- quasi-moral transition categories;
-- correction of surface `good/bad` labels by operative selector;
-- non-mechanical relation between conceptual stage and a single global civilizational degree.
-
-Therefore:
-
-- `half-moral` and `desert` are Lovejoy-local compact labels, not secure conceptual inventions;
-- serial selector ordering as such is workshop-shared;
-- later moral superposition is direct Marillier precedent.
-
-Lovejoy's stronger notebook delta is:
-
-> **particular compact redivision + repeated same-case reallocation among competing selectors/mechanisms + cross-domain portability.**
-
-The suicide cluster is the cleanest case: death-type, ritual/taboo, social/clan injury, exclusion, contact/later moralization and strict moral allocation are tested against one another rather than treated as interchangeable meanings of one punishment.
-
-The Steinmetz branch is separately closed in `005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`: local motive plurality, origin hierarchy, relational reclassification and anti-single-origin critique are upstream; Lovejoy's remaining delta lies in dense mechanism-level redistribution and portability across sacrifice, blood, charms, cannibalism and agriculture.
-
-### 4.3 EPHE pedagogy
-
-N. W. Thomas's 1896 direct description of Marillier's course gives actor-near control: **`work by the pupils, directed by the lecturer`**. Students prepared papers on particular questions, read them, received Marillier's comments and collective discussion; diploma work was on a `critical or historical question`.
-
-Use the institutional formulation:
-
-> **directed student research + collective criticism + revisable classifications**, not transmission of one fixed `Marillier doctrine`.
-
-MD-007 now asks only whether Thomas's 1898 diploma article itself states the later form/meaning/origin or survivance-control operator.
-
-### 4.4 `primitive` and historical stratification
-
-Lovejoy remains inside evolutionary hierarchy; do not erase that.
-
-But the hierarchy is not one perfectly synchronized master ladder. The corpus contains:
-
-- whole-population developmental ranking;
-- internal/intratraditional strata;
-- older non-moral structures with later ethical overlays;
-- divergence among social rank, ritual form, causal mechanism, subsistence sequence and developmental attribution.
-
-Best bounded formulation:
-
-> **`primitive` participates in hierarchy, but historical position is distributed across relations, components, social settings and domains rather than perfectly synchronized in one ladder.**
-
-Project shorthand such as `chronological non-isomorphism` is analytical, not Lovejoy's vocabulary.
-
-### 4.5 Proof/warrant architecture across 004 → 005 → 1902 → 1906
-
-Use `004_005_1902_1906_proof_warrant_architecture_consolidated.md`.
-
-The cross-stage architecture is:
-
-- 004: textual witness → semantic relation → doctrinal/causal function → historical dependence/composition;
-- 005: reporter/document → comparative class → mechanism → genealogy/development;
-- 1902: affinity → logical motive → internal/external genealogy → historical combination/survival;
-- 1906: lexical/grammatical existence control → claim-relative source competence → independent warrant/`vera causa` → custom as application and reciprocal corroboration → cross-regional synthesis.
+### 004 → 005 → 1902 → 1906 proof architecture
 
 Canonical rule:
 
 > **A stronger proposition does not automatically inherit the evidence that established a weaker proposition.**
 
-Therefore source criticism alone is not the project claim. Keating, Jarvis, Brinton, Marillier and Hubert–Mauss show that criticism, weighting and anti-genealogical cautions already existed in the field. Lovejoy's documentary interest lies in repeated allocation of **question-relative evidentiary license** and the transport of this proof partition across evidence types.
+The evidence objects change:
 
-The Harvard→Paris chronology is an **overlap zone**, not a clean handoff: the JAOS Buddhist article belongs to the second half of 1898 while Lovejoy's Marillier participation is 1898–99, but notebook 004 preserves the prepublication working apparatus.
+- 004: textual witness → semantic relation → doctrinal/causal function → historical dependence/composition;
+- 005: reporter/document → comparative class → mechanism → genealogy/development;
+- 1902: affinity → logical motive → internal/external genealogy → historical combination/survival;
+- 1906: lexical/grammatical existence control → proposition-relative source competence → independent warrant / `vera causa` → customs as application and reciprocal corroboration → cross-regional synthesis.
 
-The 1902 article is the direct published bridge: it self-cites the 1898 Buddhist paper; retains logical affinity despite formal difference; calls Aristotle/Vedānta affinity obvious while rejecting unsupported Oriental influence in favor of an internal Greek genealogy; decomposes Christianity into heterogeneous inheritances; and treats Royce through survival and `warring categories`.
+Project terms `question-relative evidentiary license`, `proposition-relative source reliability`, `reproof`, `warrant migration` and `triangulation under asymmetric evidence` are analytical vocabulary.
 
-The 1906 paper then explicitly requires independent evidence for the proposed causal category as a `vera causa`. Source reliability becomes proposition-relative: an observer may be usable for a custom or lexical occurrence while weak for translation, semantic abstraction or causal ontology.
+The Harvard→Paris transition is an **overlap zone**, not a clean handoff.
 
-Do not idealize the execution. Jones and Hetherwick supply high-resolution grammatical controls, but the North-American packet is denser than several Oceanic/African packets; Lovejoy probabilistically extends richer North-American meanings across lower-resolution analogues. Codrington retains adverse personal-origin evidence, and the Hetherwick volume number / Hollis–Eliot attribution controls show ordinary bibliographic failure modes.
+### 1904 portability control
 
-Canonical formulation:
+Three independent 1904 objects show proposition-sensitive inference control outside the original Buddhist setting:
 
-> **proof partition + warrant migration + reproof, under asymmetric evidence.**
+- Bruno–Spinoza: structural comparandum ≠ genealogy; direct influence ≠ exclusive explanatory source; contradiction requires a historical/logical generator. Vedānta is a real technical comparator, while the closing `Occidental` rhetoric is a separate civilizational operation.
+- `Recent Literature`: review target, translation witness, antecedent, influence, comparandum and milieu are separate relation types. Duprat, Norman Smith and Couchoud are the strongest local controls.
+- `Some Eighteenth Century Evolutionists`: anticipation ≠ possession of later system; temporal sequence ≠ descent; homology ≠ kinship; suggestive evidence ≠ proof-bearing evidence.
 
-`reproof`, `warrant migration`, `question-relative evidentiary license`, `proposition-relative source reliability` and `triangulation under asymmetric evidence` are project terms.
+Portability is demonstrable; Buddhist causation of the later method is not.
 
-### 4.6 1904 — portable proof controls across distinct genres
+### 1906 scale politics
 
-Use:
-
-- `Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md`;
-- `Lovejoy_1904_Recent_Literature_primary_consolidated.md`;
-- retain `lovejoy_1904_evolutionists_source_criticism_proof_levels_batch189.md` as the independent evolution/history-of-science primary control.
-
-The 1904 corpus now gives three separate non-Buddhist tests.
-
-#### Bruno–Spinoza
-
-Lovejoy separates:
-
-- structural comparandum from historical/genealogical source;
-- documented direct influence from degree/explanatory priority;
-- common tradition-level availability from exclusive dependence;
-- internal contradiction from the historical/logical generator that makes both sides recur.
-
-Vedānta/Muṇḍaka functions as a technical comparator in the `that/what` distinction, while the closing `sober Occidental mind` rhetoric introduces a separate civilizational asymmetry. Do not collapse those two operations.
-
-#### `Recent Literature`
-
-Lovejoy distinguishes:
-
-- direct review objects;
-- translation witnesses;
-- structural/classificatory comparanda;
-- antecedents;
-- downstream influence;
-- historiographical-method exemplars;
-- multi-field historical milieu.
-
-Duprat supplies a particularly strong translation-witness control; Norman Smith's `analytical history` and Couchoud's many-sided milieu are direct positive historiographical criteria.
-
-#### Evolutionists
-
-Lovejoy distinguishes isolated anticipations from possession of a later theory, progressive sequence from genealogical descent, homology from kinship, suggestive evidence from proof-bearing evidence, and shared conclusion from distinct evidentiary routes.
-
-Canonical 1904 formulation:
-
-> **By 1904 proposition-sensitive inference control and relation-type discrimination are demonstrably portable across metaphysics, review literature and history of biological ideas.**
-
-This portability does not prove that Buddhist philology caused the later practice.
-
-### 4.7 1906 — decomposition can re-totalize
-
-`The Fundamental Concept of the Primitive Philosophy` decomposes local materials by mechanism but then abstracts a cross-cutting causal bearer upward as `primitive philosophy / savage thought`.
-
-Canonical formulation:
+`The Fundamental Concept of the Primitive Philosophy` decomposes local evidence by mechanism and then reaggregates one recurrent causal family upward as `primitive philosophy / savage thought`.
 
 > **decomposition can generate a new totalization.**
 
-This is the main politics-of-scale problem in the 1906 line.
+Keep Lovejoy's explicit brakes beside his strong scope language. Source resolution is uneven by region.
 
-Lovejoy's own brakes (`somewhat too categorically`, `first stage`, incomplete testimony) should be preserved beside his strong scope language (`more fundamental`, `most nearly ubiquitous`, `dominant preoccupation`).
+Fletcher's direct article supplies an actor-declared source-scope ceiling: she refuses treatment `in a world sense` and grounds conclusions in long research `within a limited area`. Lovejoy's later cross-regional use is therefore a demonstrable **receiver-side scale expansion**. Formal Fletcher authorship remains secure; hidden sentence-level La Flesche/Dorsey coauthorship is not established.
 
-#### Source politics
+### Early reception of 1906
 
-William Jones and Fletcher sharpen the scale issue.
+Use `Lovejoy_1906_early_reception_Leuba_King_Jung_consolidated.md`.
 
-Jones: Indigenous Fox/Meskwaki local semantic evidence is narrower than Lovejoy's later comparative attribution.
+Reception disaggregates the paper into category, causal thesis, evidence dossier, proof architecture and epistemic status.
 
-Fletcher's direct `The Import of the Totem` article explicitly refuses treatment `in a world sense` and grounds claims in long research `within a limited area`.
+- Leuba 1912 accepts non-personal power and Lovejoy as evidence summary but contests strong mechanical regularity; for genesis he shifts warrant to child psychology.
+- King/Leuba/Lovejoy form a controversy/feedback ecology, but King 1910 p.163, Leuba 1910 p.301 and Lovejoy 1914 pp.216–220 retain explicit HOLDs at proposition level.
+- Jung: Lovejoy is absent from the 1916 first-English state and enters the enlarged 1917 revision as historical warrant for a primordial-energy-image argument. In 1928 Jung reopens the evidence and accepts efficacy while narrowing the claim that the analyst's abstraction is itself an indigenous abstract concept.
 
-Project formulation:
+### Citation shadow and source transformation
 
-> **author-controlled source-scope ceiling → receiver-controlled scale expansion.**
+Use `Lovejoy_1906_citation_shadow_source_transformation_consolidated.md`.
 
-`provenance compression` may be used for the broader loss of collaborative/source infrastructure, but do not invent hidden sentence-level coauthorship without evidence.
+Key rules:
 
-### 4.8 1908–1909 — local validation before recombination
+- citation edge ≠ proposition-assent edge;
+- `mechanical`, `force`, `energy`, mana/manitou grouping are distributed vocabulary, not Lovejoy fingerprints;
+- downstream similarity requires configuration-level evidence;
+- a category can survive by changing epistemic address from reconstructed native concept to analyst metalanguage;
+- quotation/excerpt boundaries can themselves carry provenance.
 
-Use `1908_1909_decomposition_recombination_reception_consolidated.md`.
+Codrington is the strongest same-source control. His mana account combines impersonal transferable efficacy with personal/spiritual origination. Lovejoy preserves adverse personal-origin evidence and reweights it. Durkheim's **openly marked ellipsis** removes that adverse directional clause from the local proof-bearing quotation before the text is used for `same impersonality`; do not redescribe this as secret falsification or infer deceptive intent.
 
-Primary-secure sequence:
+Swain 1915 preserves Durkheim's shortened packet, and Hardy 1966 explicitly uses Swain while reproducing the same shortened Codrington sequence. Thus a selective quotation can become a portable documentary object: **the omission became part of the quotation**.
 
-- 1908 `The Thirteen Pragmatisms` decomposes one historical label into logically independent contentions;
-- 1909 `Pragmatism and Realism` permits controlled recomposition after discrimination, including a `new compound in intellectual chemistry`;
-- the Lovejoy–W. B. Smith controversy tests source, chronology, semantics and descent links locally before evaluating a larger historical-genealogical theory against `antecedent probabilities`.
+### AOS / Indic continuity
 
-Canonical formulation:
+AOS chronology must use the later corrected control: the last positive corporate-member evidence is **December 1901**, not 1899. The exit interval is after Dec.1901 / before Jan.1903.
 
-> **local-link validation → warranted recombination → prior-sensitive cumulative judgment.**
+Institutional membership is only a proxy. Lovejoy's Buddhist/Indic practice continues in teaching and print beyond a simple membership narrative, including the 1901 Buddhism syllabus and 1907 Deussen/Vedānta review.
 
-Lovejoy is not simply an atomist; the restriction is that a whole cannot lend evidentiary strength backward to a failed load-bearing local relation.
+### Wilson and later memory
 
-### 4.9 AOS affiliation versus Buddhist/Indic practice
+Wilson 1982 preserves the Indic objects but partitions them bibliographically. The Buddhist pair 19/243 is subject-index linked; 176 remains retrievable at author/title/annotation levels; the 21–22–51–5 and evolution lines receive denser formal and secondary retrospective routing.
 
-Use `AOS_membership_Indic_practice_continuity_consolidated.md`.
+This is evidence of differential retrospective visibility, not deliberate suppression.
 
-Primary-secure institutional chronology:
+Post-1981 Buddhist studies continues to cite the 1898 technical argument, while general Lovejoy biography more often preserves only title/career memory. Citation survival and genealogical survival are therefore distinct.
 
-- 1897: Buddhist paper no.30 on AOS programme, read by title; Lovejoy elected corporate member; physical attendance unresolved;
-- 1898: member and specialist JAOS author; no recorded Hartford attendance/paper;
-- 1899: member; no recorded Cambridge attendance/paper;
-- Dec. 1900 roll: member, correspondence address `5 Rue Rollin, Paris, France`;
-- Dec. 1901 roll: member, `[address desired.]`;
-- Jan. 1903 roll: absent.
+## 5. Political line
 
-Current exit window:
+Political claims remain deliberately narrow.
 
-> **after Dec. 1901 and before Jan. 1903.**
+`The Hatchet` 1906 directly places A. O. Lovejoy on the *Bulletin of the Washington University Association* staff/publication structure. This establishes institutional placement only, not responsibility for each article.
 
-The AOS itself states that one did not need to be a `professed Orientalist` to become a member. Therefore membership is affiliation evidence, not a professional-identity proxy.
+The direct primary blocker remains:
 
-The practice chronology continues across genres:
+> **MD-001 — Arthur O. Lovejoy, `Democracy in the Twentieth Century`, Bulletin of the Washington University Association 4 (1906), 81–102.**
 
-- Wilson records a dedicated four-lecture `The Philosophy of Buddhism` syllabus in 1901;
-- 1902 `Religion and the Time-Process` explicitly reuses Lovejoy's own 1898 Buddhist paper;
-- the direct 1907 Vedānta review (`lovejoy_1907_deussen_vedanta_primary_review_batch201.md`) shows current Indic-philosophical field judgment and a programme for studying Indian systems as **technical philosophy rather than theosophy**, through the reasons producing conclusions.
+Until those pages are recovered, do not infer exact 1906 semantics of `race`, `stage of culture`, democracy, hierarchy or political development from later writings.
 
-Safe formulation:
+## 6. Five active manual controls
 
-> **the specialist institutional locus changed before Indic competence disappeared.**
+1. **MD-001** — `Democracy in the Twentieth Century`, direct pp.81–102.
+2. **MD-006** — original page images for notebooks 004/005 where handwriting/material form is publication-critical.
+3. **MD-007** — N. W. Thomas 1898 same-teacher/article control: test whether the later form/meaning/origin or survivance operator is explicitly present in the 1898 object.
+4. **MD-009** — Archives nationales / EPHE Vth Section finding aid: isolate student/attendance/registration evidence beyond the current institutional controls.
+5. **MD-010** — JRAS 29.2 (1897), 407–410, the still-missing half of the Dahlmann reception control. The Wiener review is already incorporated.
 
-Avoid turning this into the stable identity claim `Lovejoy remained an Orientalist` without qualification.
+Everything else previously returned manually is incorporated or parked.
 
-Contemporary circulation is separately secure: the 1898 article enters *Orientalische Bibliographie* by 1899 and Albert J. Edmunds's selective Pali Text Society bibliography by 1903. This proves specialist discoverability/classificatory uptake, not doctrinal agreement or correspondence.
+## 7. Cleanup state
 
-### 4.10 Wilson 1982 and post-1981 reception
+Current cumulative net active-tree reduction on this cleanup line:
 
-Use `Wilson_1982_Indic_reception_topology_consolidated.md` for Wilson's bibliography and `lovejoy_1898_post1981_buddhist_afterlife_memory_split_batch200.md` for the external afterlife.
+> **117 files.**
 
-Wilson preserves the early Indic objects but gives them thinner relation topology than the 21–22–51–5 Great-Chain/temporalism line or the evolution-method genealogy.
+Recent consolidation layers include:
 
-- entries19 and243 are reunited under `Buddhism`, but neither has an outgoing formal `See`;
-- entry176 is author/title retrievable and semantically rich in annotation but lacks a recovered formal genealogy;
-- under Wilson's own title-index rule, no commentary edge is indexed for 19/243/176 through his June 1981 cutoff;
-- control: entry22 has an explicit title-index commentary edge to Wilson435;
-- Randall and Duffin give evolutionism explicit secondary methodological genealogies.
+- Wilson 1982 staged prose → one canonical;
+- 1904 Bruno–Spinoza / `Recent Literature` staged prose → two canonicals;
+- proof/warrant Batches68–80 → one canonical, with Batch71 retained as archival-targeting;
+- early reception Batches81–87 → `Lovejoy_1906_early_reception_Leuba_King_Jung_consolidated.md`;
+- downstream reception/source-transformation Batches91–94,97,99 → `Lovejoy_1906_citation_shadow_source_transformation_consolidated.md`.
 
-Canonical formulation:
+Archive/provenance/AAUP batches 88–90, 95–96, 98 and 100 are **not** part of those reception consolidations and remain active until separately audited against later archive-index/canonical objects.
 
-> **bibliographic repartition + asymmetrical retrospective reception can obscure a recurrent Indic trajectory without erasing the individual objects.**
-
-Do not infer deliberate suppression by Wilson or causal formation of mature history-of-ideas method from the graph.
-
-Batch200 then shows a split post-1981 afterlife: Buddhist studies preserves the technical 1898 argument, while general Lovejoy biography often preserves only the existence/title of the early Buddhist work and loses the 1898–1907 trajectory.
-
-### 4.11 Reception control: Oltramare 1909
-
-Oltramare 1909 directly discusses Warren, Oldenberg, Senart and Deussen; no `Lovejoy` hit surfaced in the full-object OCR control.
-
-Use only:
-
-> **Lovejoy does not surface in the present 1909 specialist-synthesis OCR control while adjacent major interpreters do.**
-
-This is bounded negative evidence, not proof that Oltramare never read Lovejoy.
-
-### 4.12 1909–1910 self-revision
-
-Use `1910_self_revision_controls_consolidated.md`.
-
-Kant 1909→1910 is the positive early self-reclassification control: Lovejoy explicitly revises an earlier broad predicate after closer study and splits it by domain. The 1910 formal-logic correction is only a local erratum.
-
-Rule:
-
-> **acknowledged error alone is insufficient; intellectual self-reclassification requires a changed evidentially licensed unit, relation, scope or predicate.**
-
-Generic ≤1910 correction searching is saturated.
-
-### 4.13 Political line — one deliberate hold
-
-The 1903–1906 political sequence remains suggestive, but `Democracy in the Twentieth Century` (1906), pp.81–102, still lacks direct pages.
-
-Institutional controls are secure:
-
-- 1905 *Hatchet*: Lovejoy = Managing Editor of `The Bulletin of the Washington University Association`;
-- 1906 *Hatchet*: A. P. Winston = Managing Editor; Lovejoy remains on Bulletin staff;
-- near-contemporary directory: Lovejoy served as Washington University Association secretary, 1904–06.
-
-These facts establish publication/institutional proximity, not authorship or responsibility for every Bulletin item.
-
-Wilson's annotation makes `stage of culture, traditions and race` the decisive locus, but direct pages must determine whether the argument is institutional-fit relativism, developmental-capacity hierarchy, racialized capacity, or a mixed position.
-
-**Do not strengthen the political interpretation before MD-001 returns.**
-
-## 5. Project-vocabulary firewall
-
-The following are project terms unless a source explicitly says otherwise:
-
-- chronological non-isomorphism;
-- relation-specific historical time;
-- predicate topology / predicate fission;
-- transverse reaggregation;
-- category ownership / reattribution endpoint;
-- source-scope ceiling / receiver-controlled scale expansion;
-- provenance compression;
-- dynamic taxonomy / selector procedure;
-- resolution increase / multi-axis stratification;
-- diagnostic specificity / two-gate model / genealogical redundancy;
-- manuscript surplus / evidentiary compression;
-- mechanism universalism / genealogical monism;
-- proposition insulation / warranted recombination / prior-sensitive burden;
-- historical-functional recomposition;
-- proof partition / question-relative evidentiary license;
-- warrant migration / reproof;
-- proposition-relative source reliability;
-- cross-evidential triangulation / triangulation under asymmetric evidence;
-- source-function migration / bibliographic reselection.
-
-Public prose should lead with actor/source wording and only then introduce project abstractions as our analysis.
-
-## 6. Research status
-
-### Automatic / non-manual
-
-**High-value conceptual branches remaining: 0.**
-
-Closed or saturated:
-
-- generic ≤1910 self-correction searches;
-- generic 005 case-mining that merely repeats `same form ≠ same mechanism`;
-- selector-priority searching after direct Marillier/Söderblom controls;
-- Steinmetz/Mauss/Marillier anthropophagy explanatory-level searching;
-- Oldenberg edition-state / basic 004 priority searching;
-- 004→005→1906 diagnostic/mechanism/reaggregation architecture;
-- 004→005→1902→1906 proof/warrant architecture, including 1906 source-function and cross-regional asymmetry;
-- 1904 Bruno–Spinoza / `Recent Literature` source-role and proof-level analysis;
-- 1908–09 decomposition/recombination/genealogy control;
-- generic Wilson 1982 topology searching for the early Indic nodes;
-- generic AOS membership/exit chronology: direct rolls now bound it to Dec.1901–Jan.1903;
-- generic political searching that only reproduces Wilson's secondary annotation;
-- generic attempts to prove a fixed Marillier-school doctrine.
-
-Reopen automatic conceptual research only when:
-
-1. a genuinely new primary object arrives;
-2. project scope changes;
-3. a publication claim requires a targeted adversarial check.
-
-### Manual — only living queue
-
-`research_notes/manual_download_click_backlog.md`
-
-Five narrow active controls remain:
-
-1. **MD-001** — Lovejoy, `Democracy in the Twentieth Century` (1906), pp.81–102, direct pages;
-2. **MD-006** — original notebook 004/005 page images for facsimile-level controls;
-3. **MD-007** — N. W. Thomas 1898 article-internal survivance/form/meaning/origin test only; same-teacher/workshop relation already secure;
-4. **MD-009** — exact 1898–99 EPHE Vth Section scolarité cote/register; broad `20190568/185–368` scolarité range already secure;
-5. **MD-010** — *JRAS* 29.2 (1897), pp.407–410 page text/signature only; the Wiener review half and broader Dahlmann reception ecology are already incorporated.
-
-Manual gaps are finite evidence upgrades, not unfinished non-manual research.
-
-## 7. Repository organization and cleanup state
-
-Keep active:
-
-- primary/corrected transcriptions and archival indexes;
-- CSV/JSON matrices, source registers and evidence tables;
-- major source-critical/thematic memoranda carrying unique evidence;
-- `Quellenforschung_master_summary_2026-08-23.md`;
-- `CURRENT_STATE.md`;
-- canonical dossiers listed in the read order;
-- one living manual queue;
-- current public-facing draft plus one canonical backstage historiography/novelty control.
-
-Remove when superseded:
-
-- restart/session/checkpoint files;
-- old manual/download/retrieval-route queues;
-- resolution/readiness/saturation snapshots whose verdict is incorporated;
-- batch prose whose unique evidence has been checked into a canonical dossier;
-- earlier prose/architecture/historiography drafts replaced by a later complete version.
-
-Git history is the archive layer. Do not create a shadow `archive/` copy merely to preserve deleted working files.
-
-Cleanup manifest: `research_notes/ARCHIVE_MANIFEST_2026-08-26.md`.
-
-Current cumulative **net active-tree reduction: 106 files** relative to the pre-cleanup working tree. This is a net count: new consolidation/canonical files are included against the deleted superseded files. A separately observed parallel removal of Batch47 is not included in this cleanup-line count.
-
-Major cleanup additions after the earlier −86 state:
-
-- Wilson Batches196–199: six staged prose files replaced by `Wilson_1982_Indic_reception_topology_consolidated.md`; four source registers remain active; Batch200 remains separate for post-1981 external reception;
-- 1904 Bruno–Spinoza Batches188/192/193/194 replaced by `Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md`; source registers remain;
-- 1904 `Recent Literature` Batches191/195 replaced by `Lovejoy_1904_Recent_Literature_primary_consolidated.md`; its source register remains;
-- proof/warrant Batches68/69/70/72/73/74/75/76/77/78/79/80 replaced by `004_005_1902_1906_proof_warrant_architecture_consolidated.md`; Batch71 remains because it is an archival-targeting object rather than duplicate proof prose;
-- Batch189 evolution primary autopsy and Batch190 St. Louis institutional analysis were inspected and deliberately retained as non-duplicate evidence objects.
-
-Earlier major 2026-08-26 cleanup families remain recorded in the manifest: 004 source-critical consolidation, Hardy and `upādisesa` microgenesis, AOS chronology, 005 selector/Steinmetz merges, 1908–09 control, self-revision, retrieval-route cleanup and JHI process cleanup.
-
-## 8. Restart rule
-
-If no new manual source or genuinely new primary object has arrived, **do not create another Lovejoy conceptual batch**.
-
-When new manual evidence arrives:
-
-1. identify the exact claim(s) it upgrades or changes;
-2. incorporate them into the relevant canonical dossier/state;
-3. shrink the living manual queue;
-4. create a new numbered conceptual batch only if the object changes the model rather than merely improving evidentiary grade.
-
-When continuing repository cleanup:
-
-1. inspect the real file contents, not filename/batch number alone;
-2. retain primary transcriptions, matrices and unique source microhistories;
-3. delete discovery/retrieval/process prose only after its live evidence has an explicit canonical home;
-4. use exact current blob SHA for every write because another write stream may update `main` concurrently.
+Do not count a separately observed concurrent Batch47 removal in this cleanup-line total unless the cleanup manifest explicitly changes the counting convention.
