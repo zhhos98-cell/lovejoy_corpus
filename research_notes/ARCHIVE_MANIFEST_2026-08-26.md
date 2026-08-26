@@ -1,6 +1,6 @@
 # Active-tree cleanup manifest — 2026-08-26
 
-Purpose: record the repository consolidation in a compact, recoverable form. Files listed here are removed from the **active tree** because their state, queue, or prose function has been superseded. Their complete contents remain recoverable from Git history.
+Purpose: record repository consolidation in a compact, recoverable form. Files listed here were removed from the **active tree** because their state, queue, batch, or prose function was superseded. Their complete contents remain recoverable from Git history.
 
 ## Canonical replacements after cleanup
 
@@ -8,11 +8,21 @@ Purpose: record the repository consolidation in a compact, recoverable form. Fil
 - Master research synthesis: `Quellenforschung_master_summary_2026-08-23.md`
 - Only living manual queue: `research_notes/manual_download_click_backlog.md`
 - Current JHI Blog full draft: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`
+- 005 boundary controls: `research_notes/005_boundary_controls_consolidated.md`
+- 1909–1910 self-revision controls: `research_notes/1910_self_revision_controls_consolidated.md`
 - Detailed primary evidence remains in corrected transcriptions, CSV/JSON matrices/source registers, and substantive thematic/source notes.
+
+## Cleanup totals
+
+First pass removed 23 superseded state/logistics/draft files. Second thematic pass replaced 5 batch-specific analytical files with 2 consolidated dossiers.
+
+**Net active-tree reduction from these two passes: 26 files.**
+
+This count excludes the new structural files `CURRENT_STATE.md` and this manifest; its purpose is to describe consolidation of the pre-cleanup working tree, not total repository file count.
 
 ## Removed state / checkpoint files
 
-These are wholly superseded by `CURRENT_STATE.md` and later substantive batch notes:
+These are wholly superseded by `CURRENT_STATE.md` and later substantive notes:
 
 - `research_notes/restart_brief_after_batch220_2026-08-26.md`
 - `research_notes/restart_brief_after_batch226_2026-08-26.md`
@@ -23,7 +33,7 @@ These are wholly superseded by `CURRENT_STATE.md` and later substantive batch no
 - `research_notes/project_closure_and_JHI_blog_readiness_2026-08-19.md`
 - `research_notes/source_arrival_sync_batch159.md`
 
-The Batch159 evidence itself is retained in `lovejoy_as_orientalist_web_sweep_batch159_classA_controls_attribution_revision.md`; the removed source-arrival file only recorded the temporary transition from retrieval to collation.
+The Batch159 evidence itself remains in `lovejoy_as_orientalist_web_sweep_batch159_classA_controls_attribution_revision.md`; the removed source-arrival file only recorded the temporary transition from retrieval to collation.
 
 ## Removed obsolete/manual logistics files
 
@@ -45,16 +55,37 @@ Important carry-forward during merge:
 - Dahlmann 1897 reception packet → MD-010;
 - RAI MS99, WashU, Uppsala, and broad JHU staff-mediated actions preserved as `PA-###` parked archival actions rather than direct downloads.
 
-## Removed recent meta/audit batches
+## Removed meta/audit batches
 
-Their terminal results are incorporated into `CURRENT_STATE.md`; they do not carry irreplaceable primary transcription.
+Their terminal results are incorporated into `CURRENT_STATE.md` or the consolidated self-revision dossier; they did not carry irreplaceable primary transcription.
 
 - `research_notes/lovejoy_1910_formal_logic_erratum_negative_control_batch221.md`
 - `research_notes/lovejoy_pre1911_explicit_self_revision_saturation_audit_batch222.md`
 - `research_notes/lovejoy_batch208_222_actor_vs_analytic_vocabulary_delta_audit_batch223.md`
 - `research_notes/lovejoy_nonmanual_final_convergence_batch226.md`
 
-Preserved substantive neighbors include the Kant primary/self-revision files, Batch219 suicide analysis, Batch224 ritual-morphology control, Batch225 agriculture/domestication chronology control, and the comprehensive earlier actor-vocabulary audit.
+The comprehensive earlier actor-native / analytic-vocabulary audit remains because it still serves an editorial function.
+
+## Thematic merges
+
+### 005 boundary controls
+
+Merged into `research_notes/005_boundary_controls_consolidated.md`:
+
+- `research_notes/lovejoy_005_suicide_case_reallocation_dynamic_taxonomy_batch219.md`
+- `research_notes/lovejoy_005_human_animal_sacrifice_morphology_development_negative_control_batch224.md`
+- `research_notes/lovejoy_005_agriculture_domestication_unsynchronized_sequence_batch225.md`
+
+The consolidated dossier preserves page loci, evidence grades, attribution limits, the suicide selector sequence, ritual-morphology negative control, agriculture/domestication `vicious circle`, the relation to `primitive = stratification`, and MD-006 page-image limits.
+
+### 1909–1910 self-revision controls
+
+Merged into `research_notes/1910_self_revision_controls_consolidated.md`:
+
+- `research_notes/lovejoy_1910_kant_evolution_relation_specific_classification_self_correction_batch217.md`
+- `research_notes/lovejoy_1909_1910_kant_category_fission_self_revision_batch218.md`
+
+The dossier also incorporates the terminal verdicts of archived Batches221–222: Kant is the positive intellectual-self-reclassification control; the 1910 formal-logic note is a local erratum negative control; generic ≤1910 correction searching is saturated.
 
 ## Removed superseded JHI process drafts
 
@@ -65,7 +96,7 @@ The useful prose has been absorbed into the current v2 full draft; Git history p
 - `research_notes/JHI_blog_pitch_draft_2026-08-20.md`
 - `research_notes/JHI_blog_house_style_and_precedent_audit_2026-08-19.md`
 
-Retained: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` and the comprehensive actor-native / analytic-vocabulary audit because they still serve distinct current editorial functions.
+Retained: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` and `research_notes/JHI_blog_pitch_vocabulary_actor_terms_vs_analytic_terms_2026-08-20.md` because they still serve distinct current editorial functions.
 
 ## Preservation policy used
 
@@ -78,4 +109,4 @@ Do not remove in this cleanup pass:
 - substantive source-critical notes containing unique proposition-level evidence;
 - latest full public-facing drafts.
 
-The purpose of consolidation is to eliminate **state duplication**, not evidentiary granularity. Future cleanup can merge older thematic batch clusters once a canonical thematic dossier has been checked against every source-level claim.
+The purpose of consolidation is to eliminate **state duplication and batch fragmentation**, not evidentiary granularity. Older thematic batch clusters can be merged later only after a canonical dossier has been checked against every source-level claim.
