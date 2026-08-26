@@ -1,164 +1,212 @@
 # Manual download / click backlog — canonical
 
-Last updated: 2026-08-26
-Status: **ONLY LIVING MANUAL QUEUE**
+Last updated: 2026-08-27
+Status: **ONLY LIVING MANUAL QUEUE / FINAL WEB SATURATION COMPLETE**
 
-This file supersedes all older `manual_retrieval_queue*`, per-batch download packets, and checkpoint download lists. An older file marked `pending/open` does not reactivate a target if it is absent here.
+This file supersedes all older manual retrieval queues and the temporary `manual_fast_click_addendum_2026-08-26.md`.
 
-Operating rule: if a human browser click/download is materially faster than automated retrieval, record it here with exact object, minimum return, and evidentiary purpose. Resolved objects are removed from the active table and retained below, in `research_notes/manual_primary_returns_2026-08-26.md`, a thematic dossier, or Git history.
+Operating rule: only keep a target active when human browser access materially exceeds current machine access. Distinguish **argument-sensitive blockers**, **low-priority controls**, and **optional publication-grade page proof**.
 
-## ACTIVE — direct download / browser click
+## ACTIVE — argument-sensitive blockers
 
 ### MD-001 — Lovejoy, `Democracy in the Twentieth Century` (1906)
 
-**Priority:** P0 / largest conceptual uncertainty  
-**Target:** Arthur O. Lovejoy, `Democracy in the Twentieth Century`, *Bulletin of the Washington University Association* 4 (1906), 81–102.
+**Priority:** P0 / largest remaining conceptual uncertainty
 
-Best current entry: NYPL catalogue for *The Bulletin of the Washington University Association*; select **v.3–4 (1905–1906)** under Available online.
+Target: Arthur O. Lovejoy, `Democracy in the Twentieth Century`, *Bulletin of the Washington University Association* 4 (1906), 81–102.
 
-- https://www.nypl.org/research/research-catalog/search?filters%5BplaceOfPublication%5D%5B0%5D=St.+Louis+%5BMo.%5D
-- backup: https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha008898765
+Best current entries:
 
-**Download:** whole pp.81–102 if possible. Minimum useful capture: pp.81–86 + pp.98–102, preserving printed page numbers.
+- NYPL catalogue: https://www.nypl.org/research/research-catalog/search?filters%5BplaceOfPublication%5D%5B0%5D=St.+Louis+%5BMo.%5D
+- backup / Hathi route: https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha008898765
+
+**Return:** whole pp.81–102 if possible. Minimum useful capture: pp.81–86 + pp.98–102, preserving printed page numbers.
 
 **Resolves:** exact semantics of `race`; institutional-fit relativism vs developmental-capacity hierarchy vs racialized political capacity; relation of natural rights/general ends to historically differentiated application.
 
-**Already controlled around the object:** Lovejoy was explicitly **Managing Editor** of the Bulletin in the 1905 *Hatchet*; in the returned 1906 *Hatchet*, A. P. Winston is Managing Editor and Lovejoy remains on the Bulletin staff. A near-contemporary directory also gives Lovejoy as Washington University Association secretary, 1904–06. Publication position is therefore no longer the gap; the article text is.
+**Final-web update:** Lovejoy's January 1907 `Entangling Alliance` is now direct-primary recovered and independently characterizes politics as practical, relative and temporal, rejecting the self-evidence of one identical government/social order for differently situated societies. This strengthens continuity of political relativity but **does not settle the 1906 meaning of `race`, culture, stage or capacity**. MD-001 remains indispensable.
 
 ---
 
 ### MD-006 — original 004/005 notebook page images
 
-**Priority:** P0 / material-method closure  
-**Target files:** `MS38_004_001_061_005.pdf` and secondarily `MS38_004_001_061_004.pdf`, the source PDFs underlying the corrected repository transcriptions.
+**Priority:** P0 / material-method closure
+
+Target source PDFs:
+
+- `MS38_004_001_061_005.pdf`
+- secondarily `MS38_004_001_061_004.pdf`
 
 JHU collection context: https://aspace.library.jhu.edu/repositories/3/resources/54
 
+If the original PDFs are still locally available, simply return/upload the whole file rather than re-downloading.
+
 **005 highest priority:**
+
 - pp.16–20 — suicide / death-type → taboo/custom → clan/social → later moralization → desert;
 - pp.24–27 — afterlife stages/types, destinations/status, journey/trial machinery, ethical reshaping.
 
-**005 optional while the PDF is open:**
+**005 optional while open:**
+
 - pp.34–36 — social rank/status vs developmental hierarchy;
-- pp.69–70; add p.67/p.76 if effortless — human/animal sacrifice morphology, political/status amplification, punishment vs sacrifice;
+- pp.69–70; add p.67/p.76 if effortless — sacrifice morphology, political/status amplification, punishment vs sacrifice;
 - p.103 — agriculture/domestication branching diagram + `vicious circle` chronology test.
 
 **004 highest priority:** page containing `viññāṇa` as `temporally (?) antecedent` to `nāmarūpa` but `logically a subdivision`, ideally one page before/after.
 
-**Return:** screenshots/page exports preserving margins, crossings-out, overwriting, arrows, numbering, insertions and question marks.
+**Return:** full-page screenshots/page exports preserving margins, crossings-out, overwriting, arrows, numbering, insertions and question marks.
 
-**Resolves:** whether conceptual reclassification is materially visible as pen-level revision; upgrades the chronological-non-isomorphism and 005 reallocation controls.
+**Resolves:** whether conceptual reclassification is materially visible as pen-level revision. Textual relation architecture is already secure from corrected transcriptions.
 
----
-
-### MD-007 — N. W. Thomas 1898 diploma article — ARTICLE-INTERNAL OPERATOR ONLY
-
-**Priority:** P2 / near-contemporaneous student-product control  
-**Target:** Northcote Whitridge Thomas, `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *Revue de l'histoire des religions* 38 (1898), 295–347.
-
-**Object:** BSB/MDZ `bsb11864666`; URN `urn:nbn:de:bvb:12-bsb11864666-6`; DDB confirms the 1898 RHR volume is digitized by Bayerische Staatsbibliothek and public-domain/noncommercial-use accessible.
-
-**Important narrowing:** the same-teacher relation is **already secure** and must not be treated as pending. Thomas himself described Marillier's EPHE course in *Folklore* 7 (1896) as `work by the pupils, directed by the lecturer`: pupils wrote papers on specific questions, read them in class, received Marillier's comments, and discussed them collectively. He also described the diploma as a thesis on a `critical or historical question`. Independent biographical/EPHE controls place Thomas under Marillier and identify the Welsh animal-cult thesis as his diploma product.
-
-**Remaining download/audit only:** inspect the 1898 article for `survivance`, `origine`, `forme`, `sens` / `signification`, `analogie`, `ressemblance`, `rite`, `totémisme`, `culte`, `emprunt`, diffusion/contact language, the conclusion, and any classificatory tables.
-
-**Resolves only:** whether the **1898 diploma product itself** already separates outward form, present meaning and historical origin or explicitly controls inference from survivance/analogy. The broader workshop/research-apparatus claim is already direct-primary controlled.
+**Final-web update:** exact source PDFs/raw image-coordinate layer are not publicly indexed, not committed in GitHub, and did not resurface in searchable Library. This is a genuine source-image blocker rather than an unresolved search route.
 
 ---
 
-### MD-009 — Archives nationales / EPHE Vth Section — EXACT 1898–99 SCOLARITÉ COTE ONLY
+## ACTIVE — low-priority controls
 
-**Priority:** P3 / institutional provenance, not a core blocker  
-**Target:** Archives nationales instrument `FRAN_IR_061445` for EPHE Vth Section archive `20190568/001–399`.
+### MD-007 — N. W. Thomas 1898 diploma article — article-internal operator only
 
-**Already resolved:** EPHE's own archive inventory independently confirms that `20190568/185–368` is precisely the Vth Section **archives de la scolarité**. The broad range therefore no longer needs verification.
+**Priority:** P2
 
-**Remaining action:** search the full instrument for `1898`, `1899`, `auditeurs`, `inscriptions`, `registres`, `élèves`, `scolarité`, `étrangers`, `Marillier`, `Lovejoy`, `Söderblom` and return only the exact article/cote/register covering Lovejoy's possible 1898–99 status.
+Target: Northcote Whitridge Thomas, `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *Revue de l'histoire des religions* 38 (1898), 295–347.
 
-The Archives nationales SIV instrument endpoint currently times out in machine access. Do not order broad cartons from this step.
+Fast routes:
 
-**Resolves only:** exact registration/attendance/student-administration object(s) for a later targeted enquiry. The existence and scope of the scolarité series are already secure.
+- BSB/MDZ object: https://www.digitale-sammlungen.de/view/bsb11864666
+- object id: `bsb11864666`
+- URN: `urn:nbn:de:bvb:12-bsb11864666-6`
 
----
+Google Play / Hathi / Gallica also preserve the same volume.
 
-### MD-010 — Dahlmann 1897 reception packet — JRAS TEXT/SIGNATURE ONLY
+**Return/audit:** pp.295–347, especially conclusion and occurrences of `survivance`, `origine`, `forme`, `sens/signification`, `analogie`, `ressemblance`, `rite`, `totémisme`, `culte`, `emprunt`, diffusion/contact language, and any classificatory tables.
 
-**Priority:** P3 / controversy ecology only  
-**Still missing:** *Journal of the Royal Asiatic Society* 29.2 (April 1897), 407–410, DOI `10.1017/S0035869X00145927`.
-
-**Exact object independently controlled:** Cambridge Core and the JRAS front matter identify `Nirvāna: eine Studie zur Vorgeschichte des Buddhismus. By Joseph Dahlmann...`, pp.407–410. The contents/front matter shows no reviewer byline for the notice. Bayerische Staatsbibliothek/DDB also has the full 1897 JRAS volume, BSB `bsb11799352`, URN `urn:nbn:de:bvb:12-bsb11799352-6`; Google Books full-view volume `VXwuAAAAYAAJ` also maps the notice to p.407.
-
-**WZKM half resolved:** *Wiener Zeitschrift für die Kunde des Morgenlandes* 11 (1897), 190–197 is direct-primary recovered; its reviewer is L. v. Schroeder. Do not request it again.
-
-**Additional ecology control already known:** T. W. Rhys Davids later explicitly points readers to JRAS 1897 pp.407–410 while rejecting the stronger move from an older Sāṃkhya background to derivation of Buddhism as a whole. This constrains the likely controversy function of the notice but does **not** establish Rhys Davids as its author.
-
-**Download/audit:** JRAS pp.407–410 only, preserving any terminal initials/signature. Determine exact evaluative claims and reviewer attribution if the page itself supplies one.
-
-**Resolves only:** completion of the two-review Dahlmann reception ecology. It is not evidence of Lovejoy access and is not required for the 004 core argument.
+**Resolves only:** whether Thomas's 1898 diploma product itself separates outward form, present meaning and historical origin or controls inference from survivance/analogy. Same-teacher/workshop relation is already secure.
 
 ---
 
-## PARKED — archival actions, not ordinary download tasks
+### MD-009 — EPHE Vth Section exact 1898–99 scolarité cote
 
-These are preserved so they are not lost during repository cleanup, but they are **not** part of the active click/download count unless the access situation changes.
+**Priority:** P3 / institutional provenance only
+
+Target instrument: `FRAN_IR_061445`, archive `20190568/001–399`.
+
+Already secure: `20190568/185–368` = Vth Section `archives de la scolarité`.
+
+**Action:** search full instrument for `1898`, `1899`, `auditeurs`, `inscriptions`, `registres`, `élèves`, `scolarité`, `étrangers`, `Marillier`, `Lovejoy`, `Söderblom`; return only the exact cote/register covering possible 1898–99 status.
+
+Do not order broad cartons from this step.
+
+---
+
+### MD-010 — Dahlmann 1897 JRAS notice — body/signature only
+
+**Priority:** P3 / controversy ecology
+
+Target: *Journal of the Royal Asiatic Society* 29.2 (April 1897), 407–410, DOI `10.1017/S0035869X00145927`.
+
+Routes:
+
+- BSB object `bsb11799352`, URN `urn:nbn:de:bvb:12-bsb11799352-6`;
+- Google Books full-view volume id `VXwuAAAAYAAJ`;
+- Pahar JRAS collection also exposes an open 1897 whole-year PDF.
+
+**Return:** pp.407–410 only, preserving terminal initials/signature if any. Determine exact evaluative claims and reviewer attribution only if the page itself supplies it.
+
+**Already resolved:** WZKM 11 (1897), 190–197, reviewer L. v. Schroeder. Do not retrieve that half again.
+
+---
+
+## OPTIONAL — publication-grade/page-proof only
+
+These are **not required before drafting** and should not delay MD-001/MD-006.
+
+### OPT-001 — Jastrow Congress paper, pp.287–297
+
+Morris Jastrow Jr., `The Historical Study of Religions: Its Method and Scope`, in *Memoirs of the International Congress of Anthropology* (1894), 287–297.
+
+Routes:
+
+- https://books.google.com/books?id=0LoSAAAAYAAJ
+- https://play.google.com/store/books/details?id=E2lLebzf0ZsC
+- public PDF: https://upload.wikimedia.org/wikipedia/commons/e/e7/Memoirs_of_the_International_congress_of_anthropology_%28IA_memoirsofinterna00inte%29.pdf
+
+**Why optional now:** Jastrow 1893/1899 already directly establish source-specialist/general-comparative jurisdiction; a contemporary 1895 notice independently records his Congress argument for applying the `new psychology` to history of religions. Exact pages would refine how psychology, classification, origin and development are related.
+
+### OPT-002 — Harvard 1896–97 exact course catalogue pages
+
+Target: Everett / Toy / Lanman course descriptions, especially printed pp.73, 75, 99.
+
+IIIF manifest: https://iiif.lib.harvard.edu/manifests/view/drs:467059505$7i
+
+**Why optional now:** actual Lovejoy course traversal is already secure through Wilson's archive-based reconstruction; Jastrow 1893 independently establishes the institutional architecture. Exact catalogue pages upgrade wording/course numbers only.
+
+### OPT-003 — *The Great Chain of Being* p.35 + index page proof
+
+Target: printed p.35 (ideally pp.34–36) plus index entries for `Oriental`, `Buddhism/Buddhist`, `India/Indian`, `Vedanta`, `Hindu`, `Nirvana`, `China/Chinese`, `otherworldliness`, `Occidental`.
+
+Routes:
+
+- https://openlibrary.org/books/OL7692618M/The_Great_Chain_of_Being
+- IA locator identifier `greatchainofbein0000love_b9m4`
+- https://books.google.com/books/about/The_Great_Chain_of_Being.html?id=SExr0AEACAAJ
+
+**Why optional now:** scan-derived Harvard-printing OCR already directly establishes the mature book's Occidental/Western narrative center. Exact p.35/index is needed only to page-proof `imported Oriental varieties` and to avoid overidentifying that phrase with Buddhism.
+
+---
+
+## RESOLVED IN FINAL WEB SWEEP
+
+### MF-002 — Lovejoy, `The Entangling Alliance of Religion and History` (1907)
+
+**RESOLVED DIRECT PRIMARY. DO NOT DOWNLOAD.**
+
+Internet Archive:
+
+- https://archive.org/details/hibbertjournal05londuoft
+- full OCR: https://archive.org/stream/hibbertjournal05londuoft/hibbertjournal05londuoft_djvu.txt
+
+Direct collation now secures:
+
+- universal/cosmic truth vs contingent historical proposition;
+- restricted testimonial verification;
+- historical probability rather than demonstrative certainty;
+- heightened burden for events contrary to ordinary experience;
+- politics as practical/relative/temporal with differentiated applicability;
+- broad Indian unhistorical-religion type contrasted with the Occident.
+
+Canonical note: `research_notes/Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`.
+
+---
+
+## PARKED — archival actions, not current downloads
 
 ### PA-001 — RAI MS 99, Léon Marillier `Notes and extracts`
 
-Custodian: Royal Anthropological Institute, `GB 1446 MS 99`.
+`GB 1446 MS 99`. If authenticated Wiley Digital Archives access becomes available, prioritize `/4` human sacrifice and `/11` bibliography/miscellaneous notes. Do not order broad speculative scans.
 
-Priority if authenticated Wiley Digital Archives access becomes available: `/4` human sacrifice; `/11` bibliography/miscellaneous notes; then covers/first leaves `/1–4`, `/9–11`; only then `/1–3`, `/9–10` if warranted.
+### PA-002 — Washington University 1901 Buddhism syllabus / 1905 Hist. Relig.
 
-Purpose: document-level transmission/provenance comparison with 005. Do not order broad speculative scans.
+Targets: `Syllabus: The Philosophy of Buddhism` (1901) and any exact `Hist. Relig. — Dec. 20, 1905` programme. Staff/reference enquiry only after exact series/object location.
 
-### PA-002 — Washington University 1901 syllabus / 1905 Hist. Relig. context
+### PA-003 — Uppsala Söderblom Paris notebooks
 
-Targets:
-- Arthur O. Lovejoy, `Syllabus: The Philosophy of Buddhism`, Washington University Association, 1901, four lectures;
-- any programme/notice matching `Hist. Relig. — Dec. 20, 1905`.
+`E. Handlingar i särskilda ämnen` → `Udda objekt` → nr 1 → category 2, `kollegieböcker från Paristiden 1894–1901`. Reproduction/reference enquiry only.
 
-Staff/reference enquiry only after an exact archival object/series is located; modest research scans worthwhile if found.
+### PA-004 — JHU broad staff requests
 
-### PA-003 — Uppsala Söderblom Paris study notebooks
-
-Exact archival designation already recovered in Uppsala finding aids: `E. Handlingar i särskilda ämnen` → `Udda objekt` → nr 1 → category 2, `kollegieböcker från Paristiden 1894–1901`.
-
-Purpose: second-student workshop control. This requires a reproduction/reference enquiry, not a public download.
-
-### PA-004 — JHU MS-0873 / broad MS-0038 staff requests
-
-Parked: **DO NOT RECONTACT** merely for marginal quotation upgrades. The user-returned MS-0038 finding aid has already been incorporated. Staff-mediated broad searching remains inactive.
+Do not recontact merely for marginal quotation upgrades; existing MS-0038 finding-aid return is incorporated.
 
 ---
 
-## RESOLVED / removed from active queue
+## Final priority order
 
-### Resolved by user return on 2026-08-26
+1. **MD-001** — conceptual/political blocker.
+2. **MD-006** — material-method blocker.
+3. MD-007 — useful workshop control.
+4. MD-010 — reception hygiene.
+5. MD-009 — provenance precision.
+6. OPT-003 Great Chain page proof, if easy.
+7. OPT-002 Harvard catalogue, if easy.
+8. OPT-001 Jastrow Congress pages, if easy.
 
-- **MD-002 — *Hatchet* 1906 Bulletin staff page:** positive; A. O. Lovejoy listed in Bulletin staff structure under A. P. Winston, Managing Editor. Position only, not responsibility for every item.
-- **MD-003 — JHU MS-0038 finding-aid pass:** completed. No exact 1903–06 `Democracy/Government` manuscript title surfaced; high-value provenance objects located, including 1905/1906 diaries, Washington-days yellow notebook, Paris 1898–99 `primitive religions and practices`, Sāṃkhya/Buddhism, and 1898–99 totemism notes.
-- **MD-004 — Fletcher, `The Import of the Totem`:** complete primary recovered. Fletcher explicitly refuses a `world sense` totalization and grounds inference in limited-area first-hand research, strengthening the source-scope / receiver-scale argument.
-- **MD-005 — Marillier, `La survivance de l’âme...`:** direct primary recovered. Contact/borrowing control, non-moral determinant plurality, rites/magical practices, death-type and developmental moralization are now direct-primary.
-- **MD-008 — Oltramare 1909:** complete primary recovered. Warren, Oldenberg, Senart and Deussen are directly present; no Lovejoy hit surfaced in the OCR control. Use as bounded negative reception evidence only.
-- **MD-010 Wiener half:** *WZKM* 11 (1897), 190–197 recovered and incorporated; JRAS half remains active.
-
-See `research_notes/manual_primary_returns_2026-08-26.md` for the evidence-level incorporation memo.
-
-### Earlier resolved controls
-
-Do not request again unless a publication-grade replacement is specifically needed:
-
-- Marillier review of Steinmetz, RHR 34 (1896), 113–115 — primary recovered Batch159;
-- Jacobi review of Dahlmann, GGA 1897, core 267–273 — primary recovered Batch159;
-- Oldenberg, *Buddha*, true 3rd ed. (1897), pp.272–273, 443–455 — primary recovered Batch159;
-- Söderblom 1901 pp.33–48 — recovered sufficiently for analysis Batch207;
-- Lovejoy 1908 `Pre-Christian Cult of Jesus` — full primary recovered; paired debate closed Batch167;
-- Lovejoy 1907 `Origins of Ethical Inwardness` — recovered;
-- Lovejoy 1907 Deussen review — directly controlled;
-- RHR 25 (1892) Marillier/Frazer + Codrington volume — working corpus recovered;
-- Marillier `Religion`, *La Grande Encyclopédie* XXVIII — working object recovered;
-- Childers facsimile — recovered;
-- alternate/full Müller 1884 witness — recovered.
-
-## Precedence rule
-
-This file is the only living manual queue. Older queue/checkpoint files are historical snapshots and may be deleted from the active tree after their unresolved targets have been carried here.
+Only MD-001 and MD-006 can materially change the present JHI claim ceiling.
