@@ -3,7 +3,7 @@
 Last synchronized: 2026-08-26
 Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL RETURNS INCORPORATED / 5 NARROW ACTIVE CONTROLS**
 
-This is the single living state/log entry for the repository. Older checkpoints, restart briefs, session logs, and per-batch retrieval queues are historical snapshots preserved by Git history and are not active instructions.
+This is the single living state/log entry for the repository. Older checkpoints, restart briefs, session logs, per-batch retrieval queues, and superseded drafting architectures are historical snapshots preserved by Git history and are not active instructions.
 
 ## 1. Read order
 
@@ -14,11 +14,12 @@ For a new session, read only:
 3. `research_notes/004_proof_architecture_publication_selection_consolidated.md` — canonical 004 proof / manuscript-publication control;
 4. `research_notes/005_Marillier_selector_alignment_consolidated.md` — canonical attribution/originality control for the early 005 selector field;
 5. `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md` — canonical cross-object developmental architecture;
-6. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
-7. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
-8. the relevant primary transcription / matrix / thematic dossier for a specific claim.
+6. `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md` — canonical 1908–09 decomposition / recombination / historical-genealogy proof control;
+7. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
+8. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
+9. the relevant primary transcription / matrix / thematic dossier for a specific claim.
 
-For the current JHI Blog prose state, use `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`; earlier prose/pitch drafts are superseded.
+For the current JHI Blog prose state, use `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`. For backstage novelty/historiography control, use `research_notes/JHI_blog_historiography_novelty_control_consolidated.md`. Earlier prose, pitch architectures, readiness audits and historiography snapshots are superseded.
 
 ## 2. Scope lock
 
@@ -145,6 +146,23 @@ Project formulation:
 
 This is the principal politics-of-scale problem in the 1906 comparative-religion line.
 
+### 1908–1909 — decomposition, recombination and cumulative historical judgment
+
+The canonical control is `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md`.
+
+Primary-secure sequence:
+
+- 1908 `The Thirteen Pragmatisms` decomposes one historical label into logically independent contentions and blocks evidentiary success/failure from migrating among them merely because they share the label;
+- contemporary 1908 reception already frames the field through differentiation/decomposition versus integration, so the generic split/integrate pair is not a Lovejoy invention;
+- 1909 `Pragmatism and Realism` permits controlled recomposition after enumeration and discrimination: compatible motives may modify and interpret one another, and novelty may reside in a `new compound in intellectual chemistry` even when the constituents are old;
+- the fully recovered Lovejoy 1908 / W. B. Smith 1909 controversy shows the same architecture in a historical-genealogical dispute: Lovejoy first tests source, chronology, semantics and descent links locally, then evaluates the whole theory against `antecedent probabilities`; Smith defends the cumulative configuration `as a unit`.
+
+Strong bounded formulation:
+
+> **local-link validation → warranted recombination → prior-sensitive cumulative judgment.**
+
+Lovejoy is therefore not simply an atomist and not opposed to configurational explanation. The recurrent restriction is that a whole cannot donate evidentiary strength back to a load-bearing local relation that fails its own source/chronology/semantic test.
+
 ### Source politics
 
 William Jones:
@@ -228,9 +246,10 @@ These are project terms, not Lovejoy's historical vocabulary:
 - research grammar / practice of redivision / shared problem field;
 - diagnostic specificity / two-gate model / genealogical redundancy;
 - manuscript surplus / evidentiary compression;
-- mechanism universalism / genealogical monism.
+- mechanism universalism / genealogical monism;
+- proposition insulation / warranted recombination / prior-sensitive burden.
 
-Public prose should anchor first in actor/source wording (`temporally (?) antecedent`, `logically a subdivision`, `arrangement and application`, `d’autres divisions`, `work by the pupils, directed by the lecturer`, `critical or historical question`, `primitive philosophy`, `higher stage`, `half-moral`, `desert`, `more fundamental than personality`, etc.) and only then introduce project abstractions grammatically as our analysis.
+Public prose should anchor first in actor/source wording (`temporally (?) antecedent`, `logically a subdivision`, `arrangement and application`, `d’autres divisions`, `work by the pupils, directed by the lecturer`, `critical or historical question`, `primitive philosophy`, `higher stage`, `half-moral`, `desert`, `more fundamental than personality`, `new compound in intellectual chemistry`, `antecedent probabilities`, etc.) and only then introduce project abstractions grammatically as our analysis.
 
 ## 7. Research status
 
@@ -247,6 +266,7 @@ Closed/saturated:
 - **Steinmetz/Mauss/Marillier anthropophagy explanatory-level searching:** exact-title bridge, Steinmetz full primary, Marillier pp.113–115 and Mauss reclassification are all directly controlled; further generic motive examples are redundant;
 - **004 proof-architecture / Oldenberg edition-state searching:** 1890 baseline and true 1897 third edition are directly controlled; remaining work is only exact quotation/uptake provenance if a publication claim requires it;
 - **004→005→1906 diagnostic/mechanism architecture:** conceptually closed in the canonical dossier; reopen only for genuinely new primary or material-sequence evidence;
+- **1908–09 decomposition/recombination/reception and Lovejoy–Smith genealogy control:** fully primary-closed in the canonical dossier; further Meyer/Boodin facsimile work is quotation hygiene unless needed for publication;
 - checkpoint-level actor-vs-analytic vocabulary audit;
 - generic corroboration searches for chronological non-isomorphism;
 - generic political searching that only reproduces Wilson's secondary annotation;
@@ -287,10 +307,10 @@ Keep in the active tree:
 - major thematic/source-critical memoranda carrying unique evidence;
 - one master synthesis (`Quellenforschung_master_summary_2026-08-23.md`);
 - this living state/log (`CURRENT_STATE.md`);
-- canonical thematic consolidations, especially `004_proof_architecture_publication_selection_consolidated.md`, `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`, `005_Marillier_selector_alignment_consolidated.md`, `005_shared_source_apparatus_consolidated.md`, `005_Steinmetz_Mauss_controversy_context.md`, `005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`, and `005_boundary_controls_consolidated.md`;
+- canonical thematic consolidations, especially `004_proof_architecture_publication_selection_consolidated.md`, `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`, `1908_1909_decomposition_recombination_reception_consolidated.md`, `005_Marillier_selector_alignment_consolidated.md`, `005_shared_source_apparatus_consolidated.md`, `005_Steinmetz_Mauss_controversy_context.md`, `005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`, and `005_boundary_controls_consolidated.md`;
 - incorporated manual-return memo(s) carrying unique evidence;
 - one living manual queue;
-- latest public-facing draft(s).
+- latest public-facing draft(s) plus one canonical backstage historiography/novelty control.
 
 Remove from the active tree when superseded:
 
@@ -299,8 +319,8 @@ Remove from the active tree when superseded:
 - old manual queues/download packets;
 - obsolete deterministic-route / mirror-route registers whose still-live targets have been carried into the canonical manual queue;
 - batch-specific research notes whose unique evidence and verdict have been checked into a canonical thematic dossier;
-- search-saturation notes whose verdict is incorporated here;
-- earlier prose drafts once a later complete version contains their useful content.
+- search-saturation/readiness notes whose verdict is incorporated here or in a current draft;
+- earlier prose, pitch, architecture and historiography drafts once a later complete version contains their useful content.
 
 Git history is the archive layer. Do not create a second shadow copy of every superseded file merely to call it `archive`.
 
@@ -319,7 +339,10 @@ Git history is the archive layer. Do not create a second shadow copy of every su
 - Steinmetz/anthropophagy Batches33–35, 41, 147–149 are consolidated into `005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`; the Batch149 CSV matrix remains active.
 - Obsolete retrieval infrastructure Batches145–146 and their endpoint/route registers plus the Batch150 mirror-route register were removed after all still-live targets were confirmed in `manual_download_click_backlog.md`.
 - Batches152, 154–157 are consolidated into `004_proof_architecture_publication_selection_consolidated.md` and `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`; their analytical matrices remain active.
-- Cumulative net active-tree reduction after these cleanup passes is **48 files**, with unique primary/page-level evidence retained in canonical dossiers, transcriptions and matrices.
+- Batches160–162 and the later full-primary Batch167 are consolidated into `1908_1909_decomposition_recombination_reception_consolidated.md`; associated analytical matrices remain active. Exact-path cleanup was used because batch numbers are duplicated elsewhere in the repository.
+- The obsolete archive-route snapshot Batch169 was removed after its RAI, Uppsala, Archives nationales, WashU and Deussen branches were all superseded by later object-level controls or the living manual queue.
+- JHI drafting cleanup removed superseded pre-pitch/first-order/non-Western/reframing/architecture notes and the older Batch60/readiness/saturation snapshots. `JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` remains the current prose object; `JHI_blog_historiography_novelty_control_consolidated.md` now carries the backstage novelty/historiography firewall.
+- Cumulative net active-tree reduction after these cleanup passes is **60 files**, with unique primary/page-level evidence retained in canonical dossiers, transcriptions and matrices.
 - Oltramare 1909 closes the bounded negative reception control.
 - 004 canonical delta, paper-thesis memo and source-uptake map synchronized so recovered Jacobi/Oldenberg/Oltramare controls are no longer represented as pending.
 - Wiener Dahlmann review incorporated; reviewer identified as L. v. Schroeder; JRAS page-text/signature half remains outstanding.
