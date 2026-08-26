@@ -1,7 +1,7 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-26  
-Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL RETURNS INCORPORATED / 5 NARROW ACTIVE CONTROLS / ACTIVE-TREE CLEANUP NET −86**
+Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL RETURNS INCORPORATED / 5 NARROW ACTIVE CONTROLS / ACTIVE-TREE CLEANUP NET −95**
 
 This is the single living restart/state file. Older checkpoints, batch-level resolution notes, superseded retrieval routes, and drafting architectures are historical states recoverable from Git history, not active instructions.
 
@@ -17,11 +17,15 @@ For a new session, read only:
 6. `research_notes/004_upadisesa_lexical_semantic_recomposition_consolidated.md` — Oldenberg 1882 / Childers / Rhys Davids / Müller / Dahlmann → 004 → 1898 lexical-semantic chain;
 7. `research_notes/005_Marillier_selector_alignment_consolidated.md` — canonical 005 selector/originality attribution;
 8. `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md` — cross-object developmental architecture;
-9. `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md` — canonical 1908–09 decomposition/recombination/genealogy control;
-10. `research_notes/AOS_membership_Indic_practice_continuity_consolidated.md` — AOS institutional chronology versus continuing Buddhist/Indic practice;
-11. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary packet;
-12. `research_notes/manual_download_click_backlog.md` — only living manual queue;
-13. the relevant transcription, matrix or source memo only when a specific proposition requires it.
+9. `research_notes/Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md` — canonical 1904 contradiction/genealogy/source-role/Indic-comparator control;
+10. `research_notes/Lovejoy_1904_Recent_Literature_primary_consolidated.md` — canonical 1904 reading-ecology/translation/source-role control;
+11. `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md` — canonical 1908–09 decomposition/recombination/genealogy control;
+12. `research_notes/AOS_membership_Indic_practice_continuity_consolidated.md` — AOS institutional chronology versus continuing Buddhist/Indic practice;
+13. `research_notes/Wilson_1982_Indic_reception_topology_consolidated.md` — canonical Wilson bibliographic/reception topology through June 1981;
+14. `research_notes/lovejoy_1898_post1981_buddhist_afterlife_memory_split_batch200.md` — post-1981 external reception control;
+15. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary packet;
+16. `research_notes/manual_download_click_backlog.md` — only living manual queue;
+17. the relevant transcription, matrix or source memo only when a specific proposition requires it.
 
 Current JHI Blog prose: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`.
 
@@ -170,7 +174,52 @@ Best bounded formulation:
 
 Project shorthand such as `chronological non-isomorphism` is analytical, not Lovejoy's vocabulary.
 
-### 4.5 1906 — decomposition can re-totalize
+### 4.5 1904 — portable proof controls across distinct genres
+
+Use:
+
+- `Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md`;
+- `Lovejoy_1904_Recent_Literature_primary_consolidated.md`;
+- retain `lovejoy_1904_evolutionists_source_criticism_proof_levels_batch189.md` as the independent evolution/history-of-science primary control.
+
+The 1904 corpus now gives three separate non-Buddhist tests.
+
+#### Bruno–Spinoza
+
+Lovejoy separates:
+
+- structural comparandum from historical/genealogical source;
+- documented direct influence from degree/explanatory priority;
+- common tradition-level availability from exclusive dependence;
+- internal contradiction from the historical/logical generator that makes both sides recur.
+
+Vedānta/Muṇḍaka functions as a technical comparator in the `that/what` distinction, while the closing `sober Occidental mind` rhetoric introduces a separate civilizational asymmetry. Do not collapse those two operations.
+
+#### `Recent Literature`
+
+Lovejoy distinguishes:
+
+- direct review objects;
+- translation witnesses;
+- structural/classificatory comparanda;
+- antecedents;
+- downstream influence;
+- historiographical-method exemplars;
+- multi-field historical milieu.
+
+Duprat supplies a particularly strong translation-witness control; Norman Smith's `analytical history` and Couchoud's many-sided milieu are direct positive historiographical criteria.
+
+#### Evolutionists
+
+Lovejoy distinguishes isolated anticipations from possession of a later theory, progressive sequence from genealogical descent, homology from kinship, suggestive evidence from proof-bearing evidence, and shared conclusion from distinct evidentiary routes.
+
+Canonical 1904 formulation:
+
+> **By 1904 proposition-sensitive inference control and relation-type discrimination are demonstrably portable across metaphysics, review literature and history of biological ideas.**
+
+This portability does not prove that Buddhist philology caused the later practice.
+
+### 4.6 1906 — decomposition can re-totalize
 
 `The Fundamental Concept of the Primitive Philosophy` decomposes local materials by mechanism but then abstracts a cross-cutting causal bearer upward as `primitive philosophy / savage thought`.
 
@@ -196,7 +245,7 @@ Project formulation:
 
 `provenance compression` may be used for the broader loss of collaborative/source infrastructure, but do not invent hidden sentence-level coauthorship without evidence.
 
-### 4.6 1908–1909 — local validation before recombination
+### 4.7 1908–1909 — local validation before recombination
 
 Use `1908_1909_decomposition_recombination_reception_consolidated.md`.
 
@@ -212,7 +261,7 @@ Canonical formulation:
 
 Lovejoy is not simply an atomist; the restriction is that a whole cannot lend evidentiary strength backward to a failed load-bearing local relation.
 
-### 4.7 AOS affiliation versus Buddhist/Indic practice
+### 4.8 AOS affiliation versus Buddhist/Indic practice
 
 Use `AOS_membership_Indic_practice_continuity_consolidated.md`.
 
@@ -245,7 +294,27 @@ Avoid turning this into the stable identity claim `Lovejoy remained an Orientali
 
 Contemporary circulation is separately secure: the 1898 article enters *Orientalische Bibliographie* by 1899 and Albert J. Edmunds's selective Pali Text Society bibliography by 1903. This proves specialist discoverability/classificatory uptake, not doctrinal agreement or correspondence.
 
-### 4.8 Reception controls
+### 4.9 Wilson 1982 and post-1981 reception
+
+Use `Wilson_1982_Indic_reception_topology_consolidated.md` for Wilson's bibliography and `lovejoy_1898_post1981_buddhist_afterlife_memory_split_batch200.md` for the external afterlife.
+
+Wilson preserves the early Indic objects but gives them thinner relation topology than the 21–22–51–5 Great-Chain/temporalism line or the evolution-method genealogy.
+
+- entries19 and243 are reunited under `Buddhism`, but neither has an outgoing formal `See`;
+- entry176 is author/title retrievable and semantically rich in annotation but lacks a recovered formal genealogy;
+- under Wilson's own title-index rule, no commentary edge is indexed for 19/243/176 through his June 1981 cutoff;
+- control: entry22 has an explicit title-index commentary edge to Wilson435;
+- Randall and Duffin give evolutionism explicit secondary methodological genealogies.
+
+Canonical formulation:
+
+> **bibliographic repartition + asymmetrical retrospective reception can obscure a recurrent Indic trajectory without erasing the individual objects.**
+
+Do not infer deliberate suppression by Wilson or causal formation of mature history-of-ideas method from the graph.
+
+Batch200 then shows a split post-1981 afterlife: Buddhist studies preserves the technical 1898 argument, while general Lovejoy biography often preserves only the existence/title of the early Buddhist work and loses the 1898–1907 trajectory.
+
+### 4.10 Reception control: Oltramare 1909
 
 Oltramare 1909 directly discusses Warren, Oldenberg, Senart and Deussen; no `Lovejoy` hit surfaced in the full-object OCR control.
 
@@ -255,7 +324,7 @@ Use only:
 
 This is bounded negative evidence, not proof that Oltramare never read Lovejoy.
 
-### 4.9 1909–1910 self-revision
+### 4.11 1909–1910 self-revision
 
 Use `1910_self_revision_controls_consolidated.md`.
 
@@ -267,7 +336,7 @@ Rule:
 
 Generic ≤1910 correction searching is saturated.
 
-### 4.10 Political line — one deliberate hold
+### 4.12 Political line — one deliberate hold
 
 The 1903–1906 political sequence remains suggestive, but `Democracy in the Twentieth Century` (1906), pp.81–102, still lacks direct pages.
 
@@ -318,7 +387,9 @@ Closed or saturated:
 - Steinmetz/Mauss/Marillier anthropophagy explanatory-level searching;
 - Oldenberg edition-state / basic 004 priority searching;
 - 004→005→1906 conceptual architecture;
+- 1904 Bruno–Spinoza / `Recent Literature` source-role and proof-level analysis;
 - 1908–09 decomposition/recombination/genealogy control;
+- generic Wilson 1982 topology searching for the early Indic nodes;
 - generic AOS membership/exit chronology: direct rolls now bound it to Dec.1901–Jan.1903;
 - generic political searching that only reproduces Wilson's secondary annotation;
 - generic attempts to prove a fixed Marillier-school doctrine.
@@ -368,21 +439,16 @@ Git history is the archive layer. Do not create a shadow `archive/` copy merely 
 
 Cleanup manifest: `research_notes/ARCHIVE_MANIFEST_2026-08-26.md`.
 
-Current cumulative **net active-tree reduction: 86 files** relative to the pre-cleanup working tree. This is a net count: new consolidation/canonical files are included against the deleted superseded files. A separately observed parallel removal of Batch47 is not included in this cleanup-line count.
+Current cumulative **net active-tree reduction: 95 files** relative to the pre-cleanup working tree. This is a net count: new consolidation/canonical files are included against the deleted superseded files. A separately observed parallel removal of Batch47 is not included in this cleanup-line count.
 
-Major 2026-08-26 cleanup additions since the earlier −60 state:
+Major cleanup additions after the earlier −86 state:
 
-- early discovery snapshots 02/03/05/08/09/10 and other stale process notes retired after direct-primary closure;
-- Batch142 prose retired while its upload-resolution CSV remains;
-- obsolete 004 priority/retrieval states 22/32/34/42/43/44/46/151 retired;
-- duplicate Batch33 states replaced by `004_Senart_Jacobi_Oldenberg_primary_controversy_consolidated.md`;
-- Batch35/39 replaced by `004_Hardy_causal_microgenesis_consolidated.md`;
-- Batch40/41 replaced by `004_upadisesa_lexical_semantic_recomposition_consolidated.md`;
-- Batch31 inference prose retired while the data concordance remains;
-- Open Court Batch13 retired in favor of the more exact retained archive-target file;
-- AOS Batches68/69/70 replaced by `AOS_membership_Indic_practice_continuity_consolidated.md`, with the 1900/1901 corrections from Batch186 and the 1907 primary review delegated to Batch201;
-- obsolete 1908/09 access snapshots 14/15 and other already-resolved route notes retired;
-- JHI readiness/saturation/prose snapshots removed where current draft and canonical historiography control fully absorb them.
+- Wilson Batches196–199: six staged prose files replaced by `Wilson_1982_Indic_reception_topology_consolidated.md`; four source registers remain active; Batch200 remains separate for post-1981 external reception;
+- 1904 Bruno–Spinoza Batches188/192/193/194 replaced by `Lovejoy_1904_Bruno_Spinoza_primary_consolidated.md`; source registers remain;
+- 1904 `Recent Literature` Batches191/195 replaced by `Lovejoy_1904_Recent_Literature_primary_consolidated.md`; its source register remains;
+- Batch189 evolution primary autopsy and Batch190 St. Louis institutional analysis were inspected and deliberately retained as non-duplicate evidence objects.
+
+Earlier major 2026-08-26 cleanup families remain recorded in the manifest: 004 source-critical consolidation, Hardy and `upādisesa` microgenesis, AOS chronology, 005 selector/Steinmetz merges, 1908–09 control, self-revision, retrieval-route cleanup and JHI process cleanup.
 
 ## 8. Restart rule
 
