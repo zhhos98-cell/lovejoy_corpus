@@ -11,9 +11,10 @@ For a new session, read only:
 
 1. `CURRENT_STATE.md` — current scope, claims, state and restart rules;
 2. `Quellenforschung_master_summary_2026-08-23.md` — full cross-corpus source-critical synthesis;
-3. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
-4. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
-5. the relevant primary transcription / matrix / thematic dossier for a specific claim.
+3. `research_notes/005_Marillier_selector_alignment_consolidated.md` — canonical direct-primary attribution/originality control for early 005;
+4. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
+5. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
+6. the relevant primary transcription / matrix / thematic dossier for a specific claim.
 
 For the current JHI Blog prose state, use `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`; earlier prose/pitch drafts are superseded.
 
@@ -54,21 +55,36 @@ The 004 source-uptake map and canonical delta have now been synchronized so that
 
 Project shorthand: **chronological non-isomorphism**. This is our term, not Lovejoy's.
 
-### 005 — shared categories, relation-specific allocation
+### 005 — shared discriminanda, notebook reallocation procedure
 
-Primary/upstream controlled:
+Direct-primary attribution is now substantially closed by the complete user-returned Marillier `Survivance` text. Marillier himself already provides:
 
-- the determinant field has substantial Marillier/Mauss/Söderblom precedent;
-- the user-returned direct Marillier primary independently secures contact/borrowing control, non-moral determinant plurality, ritual/magical determinants, death-type effects and developmental moralization;
-- `half-moral` is at most local lexical compression, not secure conceptual invention;
-- `desert` remains a strong local operational threshold, while the underlying moral-threshold problem is workshop-shared;
-- suicide shows serial reallocation among death-type, ritual/taboo, clan/social relation, later moralization and strict desert;
-- human/animal sacrifice shows ritual morphology, spectacularity and political/status magnitude are not transparent developmental indices;
-- agriculture/domestication shows that subsistence chronology cannot silently serve as a universal master clock for ritual chronology.
+- the determinant field: rank, manner of death, ritual fidelity, journey skill/strength, courage/cowardice, divine arbitrariness, chance and moral conduct;
+- an explicit moral/non-moral criterion: differentiated destiny is not moral unless allocation tracks the good/bad quality or moral value of earthly conduct;
+- mixed cases in which `good/bad` classification is partly moral but principally ritual;
+- contact/borrowing and superposition controls;
+- older non-moral structures transformed but not erased by later moral reward/punishment;
+- a transitional condition in which moral reward/punishment is recognizable but not yet disengaged from contrary conceptions or sharply defined;
+- the rule that formally similar myths can recur with different `signification` and `portée`.
+
+Therefore:
+
+- `half-moral` = Lovejoy-local lexical compression, **not secure conceptual invention**;
+- `desert` = Lovejoy-local compact working term, while the inferential criterion itself has a direct Marillier equivalent;
+- historical moral superposition = direct Marillier precedent, not only a Mauss field-level precedent;
+- the constituent selector taxonomy = upstream secure.
+
+The stronger Lovejoy notebook delta is procedural:
+
+> **hold the visible outcome/form fixed → vary the candidate selector or mechanism → reallocate the case until the operative relation is specified → carry the same diagnostic discipline into new domains.**
+
+Suicide is the cleanest early example: death-type, ritual/taboo, clan/social injury, exclusion, contact/later moralization and strict moral allocation are tested against one another rather than treated as interchangeable meanings of the same punishment.
+
+Later 005 sections carry the same relation-sensitive discipline through sacrifice, blood, charms, cannibalism and agriculture. Batch156 already controls the larger developmental bridge; the direct Marillier recovery changes attribution on the 005 side rather than creating a new 004→005 continuity claim.
 
 Strong bounded formulation:
 
-> **Lovejoy repeatedly refuses to let one visible label, form, or assumed chronology do more inferential work than the relation-specific evidence licenses.**
+> **Lovejoy repeatedly refuses to let one visible label, form, or assumed chronology do more inferential work than the relation-specific evidence licenses; his early documentary delta lies less in owning the discriminanda than in arranging, testing, reallocating and porting them.**
 
 This is a longitudinal analytical description, not an actor-native theory of method.
 
@@ -78,7 +94,8 @@ Secure:
 
 - 005 contains whole-population developmental language (`higher stage`, `more developed peoples`);
 - it also contains internal/intratraditional strata (`Greek primitive / N.T. intermediate`, older non-moral mechanisms, later ethical overlays, imported elements);
-- social rank, ritual morphology, mechanism, subsistence sequence and developmental rank can diverge.
+- social rank, ritual morphology, mechanism, subsistence sequence and developmental rank can diverge;
+- Marillier's direct primary independently shows that later moral content can be superposed on older structures and remain only partially disentangled from them.
 
 Best current formulation:
 
@@ -190,6 +207,7 @@ Closed/saturated:
 - generic ≤1910 self-correction/error/retraction searching;
 - further 005 sacrifice/cannibalism/charm/fetish case-mining that only repeats `same form ≠ same mechanism`;
 - additional selector examples that do not alter the model;
+- **Marillier selector-priority searching:** direct 1893/94 primary now closes `desert`, `half-moral`, determinant-field and superposition attribution at the conceptual level;
 - checkpoint-level actor-vs-analytic vocabulary audit;
 - generic corroboration searches for chronological non-isomorphism;
 - generic political searching that only reproduces Wilson's secondary annotation.
@@ -229,6 +247,7 @@ Keep in the active tree:
 - major thematic/source-critical memoranda carrying unique evidence;
 - one master synthesis (`Quellenforschung_master_summary_2026-08-23.md`);
 - this living state/log (`CURRENT_STATE.md`);
+- canonical thematic consolidations such as `005_Marillier_selector_alignment_consolidated.md` and `005_boundary_controls_consolidated.md`;
 - incorporated manual-return memo(s) carrying unique evidence;
 - one living manual queue;
 - latest public-facing draft(s).
@@ -238,6 +257,7 @@ Remove from the active tree when superseded:
 - restart briefs;
 - session/checkpoint files;
 - old manual queues/download packets;
+- batch-specific research notes whose unique evidence and verdict have been incorporated into a canonical thematic dossier;
 - search-saturation notes whose verdict is incorporated here;
 - earlier prose drafts once a later complete version contains their useful content.
 
@@ -254,6 +274,8 @@ Git history is the archive layer. Do not create a second shadow copy of every su
 - MS-0038 finding aid tightens Paris 1898–99 notebook provenance and locates 1905/1906 diaries plus Washington-days notebook material.
 - Fletcher direct article upgrades the local source-scope / receiver-scale argument and closes the old article-level attribution hold.
 - Marillier direct article upgrades upstream contamination, determinant and moralization controls.
+- Full Marillier collation further removes priority claims for the conceptual `desert` threshold and `half-moral` transition zone; Lovejoy's stronger delta is notebook serialization/reallocation, cross-domain portability and later 1906 abstraction.
+- `research_notes/005_Marillier_selector_alignment_consolidated.md` created as the canonical attribution dossier; Batches203–205 are superseded in active-tree function.
 - Oltramare 1909 closes the bounded negative reception control.
 - 004 canonical delta, paper-thesis memo and source-uptake map synchronized so recovered Jacobi/Oldenberg/Oltramare controls are no longer represented as pending.
 - Wiener Dahlmann review incorporated; JRAS half remains outstanding.
