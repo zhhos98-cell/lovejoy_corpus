@@ -8,17 +8,24 @@ Purpose: record repository consolidation in a compact, recoverable form. Files l
 - Master research synthesis: `Quellenforschung_master_summary_2026-08-23.md`
 - Only living manual queue: `research_notes/manual_download_click_backlog.md`
 - Current JHI Blog full draft: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`
+- 005 selector/originality attribution: `research_notes/005_Marillier_selector_alignment_consolidated.md`
+- 005 shared Marillier/Söderblom/Lovejoy source apparatus: `research_notes/005_shared_source_apparatus_consolidated.md`
+- 005 Steinmetz/Mauss/Marillier controversy context: `research_notes/005_Steinmetz_Mauss_controversy_context.md`
 - 005 boundary controls: `research_notes/005_boundary_controls_consolidated.md`
+- 005 page-level Marillier concordance: `research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md`
+- 005 Marillier/EPHE method environment: `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md`
 - 1909–1910 self-revision controls: `research_notes/1910_self_revision_controls_consolidated.md`
 - Detailed primary evidence remains in corrected transcriptions, CSV/JSON matrices/source registers, and substantive thematic/source notes.
 
 ## Cleanup totals
 
-First pass removed 23 superseded state/logistics/draft files. Second thematic pass replaced 5 batch-specific analytical files with 2 consolidated dossiers.
+- First pass removed 23 superseded state/logistics/draft files.
+- Second thematic pass replaced 5 batch-specific analytical files with 2 consolidated dossiers.
+- Third thematic pass removed 11 additional 005 batch/process files and replaced their living functions with 3 canonical thematic dossiers; two older evidence-bearing thematic files were retained but their outdated verdicts were rewritten in place.
 
-**Net active-tree reduction from these two passes: 26 files.**
+**Net active-tree reduction across the three passes: 34 files.**
 
-This count excludes the new structural files `CURRENT_STATE.md` and this manifest; its purpose is to describe consolidation of the pre-cleanup working tree, not total repository file count.
+This count excludes new structural/canonical files whose purpose is consolidation. It describes net reduction of the pre-cleanup working tree rather than total repository file count.
 
 ## Removed state / checkpoint files
 
@@ -50,9 +57,8 @@ Their true unresolved targets have been carried into `research_notes/manual_down
 Important carry-forward during merge:
 
 - N. W. Thomas RHR 38 (1898) → MD-007;
-- Paul Oltramare 1909 → MD-008;
 - Archives nationales EPHE finding-aid pass → MD-009;
-- Dahlmann 1897 reception packet → MD-010;
+- Dahlmann JRAS 1897 review half → MD-010;
 - RAI MS99, WashU, Uppsala, and broad JHU staff-mediated actions preserved as `PA-###` parked archival actions rather than direct downloads.
 
 ## Removed meta/audit batches
@@ -76,7 +82,60 @@ Merged into `research_notes/005_boundary_controls_consolidated.md`:
 - `research_notes/lovejoy_005_human_animal_sacrifice_morphology_development_negative_control_batch224.md`
 - `research_notes/lovejoy_005_agriculture_domestication_unsynchronized_sequence_batch225.md`
 
-The consolidated dossier preserves page loci, evidence grades, attribution limits, the suicide selector sequence, ritual-morphology negative control, agriculture/domestication `vicious circle`, the relation to `primitive = stratification`, and MD-006 page-image limits.
+The consolidated dossier preserves page loci, evidence grades, attribution limits, the suicide selector sequence, ritual-morphology negative control, agriculture/domestication `vicious circle`, relation to `primitive = stratification`, and MD-006 page-image limits.
+
+### 005 selector/originality allocation — third pass
+
+Merged into `research_notes/005_Marillier_selector_alignment_consolidated.md`:
+
+- `research_notes/lovejoy_005_marillier_1901_custom_taboo_moral_obligation_primary_control_batch203.md`
+- `research_notes/lovejoy_005_marillier_1901_custom_taboo_moral_obligation_primary_control_batch203_sources.md`
+- `research_notes/lovejoy_005_mauss_1896_moral_superposition_journey_morphology_batch204.md`
+- `research_notes/lovejoy_005_mauss_1896_moral_superposition_journey_morphology_batch204_sources.md`
+- `research_notes/lovejoy_005_marillier_1894_page_addressed_determinant_reconstruction_batch205.md`
+- `research_notes/lovejoy_005_soderblom_marillier_cross_student_reattribution_batch206.md`
+- `research_notes/lovejoy_005_soderblom_marillier_cross_student_reattribution_batch206_sources.md`
+- `research_notes/lovejoy_005_soderblom_1901_direct_primary_divisions_morality_transition_batch207.md`
+
+Terminal verdict now preserved canonically:
+
+- direct Marillier 1893/94 supplies determinant field, moral/non-moral criterion, mixed ritual/moral cases, contact/superposition and transitional moralization;
+- Söderblom 1901 proves serial selector redivision, quasi-moral terminology and non-mechanical relation-specific staging were available in the same workshop environment;
+- `desert` and `half-moral` are Lovejoy-local compact labels, not conceptual priority points;
+- Lovejoy's stronger notebook delta is particular redivision, dense repeated same-case reallocation and cross-domain portability, followed by later 1906 reaggregation.
+
+### 005 source-apparatus consolidation — third pass
+
+Batch19 was replaced by `research_notes/005_shared_source_apparatus_consolidated.md`:
+
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch19_cross_student_survivance_concordance.md`
+
+The new dossier preserves exact shared-source/case controls including Murray/Pawnee, Greenland/Egede, Madagascar/Abinal–Vaissière/Hova/second death, Cheyenne/status, manner-of-death clusters, and the internal notebook slip `Marillier — Survivance — 12 June`. It separates **source-apparatus convergence** from conceptual originality.
+
+### 005 controversy context — third pass
+
+Batch20 was replaced by `research_notes/005_Steinmetz_Mauss_controversy_context.md`:
+
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch20_steinmetz_mauss_marillier_005_controversy.md`
+
+The new dossier preserves the named Steinmetz controversy, Mauss as a public pre-Paris controversy witness, the EPHE 1898–99 refutation programme, and the distinction between controversy context and direct transmission.
+
+### 005 longue-durée Marillier programme — third pass
+
+Removed as superseded after its unique evidence was checked against retained thematic/source controls:
+
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch36_005_marillier_ephe_longue_duree_program_genealogy.md`
+
+Its living evidence is preserved in the updated `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md`, later primary Steinmetz controls, and the canonical selector/controversy dossiers. The exact `Endokannibalismus — Steinmetz` bridge is independently retained in later primary-resolution notes.
+
+### 005 retained evidence files rewritten in place
+
+These were **not deleted** because they carry unique granularity, but their old originality verdicts were replaced:
+
+- `research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md` — retained as page-level case concordance, including the `Marillier — Survivance — 12 June` material anchor;
+- `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md` — retained as the broader 1889–1900 EPHE method-environment dossier.
+
+Both now defer conceptual priority to `005_Marillier_selector_alignment_consolidated.md`.
 
 ### 1909–1910 self-revision controls
 
@@ -100,13 +159,13 @@ Retained: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` 
 
 ## Preservation policy used
 
-Do not remove in this cleanup pass:
+Do not remove in cleanup merely because a file is old. Retain or first consolidate:
 
 - corrected notebook transcription JSON;
 - archive indexes/manifests;
 - primary/source transcriptions;
-- CSV/JSON evidence matrices and source registers;
-- substantive source-critical notes containing unique proposition-level evidence;
+- CSV/JSON evidence matrices and source registers carrying unique evidence;
+- substantive source-critical notes containing unique proposition-level or page-level evidence;
 - latest full public-facing drafts.
 
-The purpose of consolidation is to eliminate **state duplication and batch fragmentation**, not evidentiary granularity. Older thematic batch clusters can be merged later only after a canonical dossier has been checked against every source-level claim.
+The purpose of consolidation is to eliminate **state duplication, contradictory verdicts and batch fragmentation**, not evidentiary granularity. Batch clusters are removed only after a canonical dossier has been checked against their source-level claims.
