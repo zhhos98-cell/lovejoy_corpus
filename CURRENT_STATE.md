@@ -1,7 +1,7 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-26
-Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL PRIMARY CONTROLS FINITE**
+Status: **NON-MANUAL RESEARCH CONVERGED / MANUAL RETURNS INCORPORATED / 5 ACTIVE CONTROLS**
 
 This is the single living state/log entry for the repository. Older checkpoints, restart briefs, session logs, and per-batch retrieval queues are historical snapshots preserved by Git history and are not active instructions.
 
@@ -11,8 +11,9 @@ For a new session, read only:
 
 1. `CURRENT_STATE.md` — current scope, claims, state and restart rules;
 2. `Quellenforschung_master_summary_2026-08-23.md` — full cross-corpus source-critical synthesis;
-3. `research_notes/manual_download_click_backlog.md` — only if new user-supplied/manual material has arrived;
-4. the relevant primary transcription / matrix / source note for a specific claim.
+3. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
+4. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
+5. the relevant primary transcription / matrix / source note for a specific claim.
 
 For the current JHI Blog prose state, use `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`; earlier prose/pitch drafts are superseded.
 
@@ -43,6 +44,12 @@ Primary-secure:
 - borrowed or historically derived components can acquire a new configuration/function;
 - Lovejoy's 1898 print explicitly separates borrowed terms/ideas from original `arrangement and application`.
 
+New finding-aid provenance control:
+
+- JHU MS-0038 independently lists a loose notebook on `Suukhya and Buddhism` (read as Sāṃkhya and Buddhism), a Paris 1898–99 black notebook on `primitive religions and practices`, and `Notes on totemism, 1898–1899` probably made from Bibliothèque Nationale readings;
+- the primitive-religions notebook description gives Lovejoy's Paris address as `5 rue Rollins`;
+- this tightens the 1898 notebook environment but does not by itself identify the lecturer/teacher for each notebook.
+
 Project shorthand: **chronological non-isomorphism**. This is our term, not Lovejoy's.
 
 ### 005 — shared categories, relation-specific allocation
@@ -50,6 +57,7 @@ Project shorthand: **chronological non-isomorphism**. This is our term, not Love
 Primary/upstream controlled:
 
 - the determinant field has substantial Marillier/Mauss/Söderblom precedent;
+- the user-returned direct Marillier primary now independently secures contact/borrowing control, non-moral determinant plurality, ritual/magical determinants, death-type effects and developmental moralization;
 - `half-moral` is at most local lexical compression, not secure conceptual invention;
 - `desert` remains a strong local operational threshold, while the underlying moral-threshold problem is workshop-shared;
 - suicide shows serial reallocation among death-type, ritual/taboo, clan/social relation, later moralization and strict desert;
@@ -94,13 +102,25 @@ William Jones:
 
 Jones is a Meskwaki/Fox Indigenous scholar and supplies high-resolution local semantic evidence; Lovejoy's final comparative attribution is broader than Jones's own scope. No direct acquaintance/influence relation is proved.
 
-Fletcher / Francis La Flesche:
+Fletcher / Omaha evidence — upgraded by direct article control:
 
-- Fletcher = secure formal sole author of the relevant print objects;
-- Omaha knowledge production = secure mature collaborative infrastructure involving La Flesche;
-- project term: **provenance compression**.
+- Fletcher = secure formal sole author of `The Import of the Totem`;
+- the article explicitly refuses to treat totems `in a world sense` and grounds inference in many years of research `within a limited area`;
+- it describes first-hand reconstruction from small acts and sayings plus songs, rituals and ceremonies, and then supplies high-resolution Omaha linguistic/social evidence;
+- therefore the local evidentiary scope ceiling is actor-controlled in Fletcher's own publication, while later cross-cultural `primitive philosophy` scale expansion occurs on the receiver/comparativist side;
+- Omaha knowledge production also belongs to a broader collaborative infrastructure involving Francis La Flesche, but the returned article does not license hidden sentence-level coauthorship claims.
 
-Do not infer hidden sentence-level coauthorship or intentional erasure without direct article-level evidence.
+Project terms: **source-scope ceiling / receiver-controlled scale expansion** and, for broader infrastructure loss, **provenance compression**.
+
+### Reception control — Oltramare 1909
+
+The returned complete Oltramare pamphlet has a dedicated Western-interpretation discussion with Warren, Oldenberg, Senart and Deussen directly present. No `Lovejoy` hit surfaced in the full-object OCR pass.
+
+Use only the bounded negative formulation:
+
+> **Lovejoy did not surface in the present OCR reception control, while adjacent major interpreters did.**
+
+This suggests his 1898 intervention was not canonical in this 1909 specialist synthesis; it does not prove Oltramare never read him.
 
 ### 1909 → 1910 — explicit positive and negative controls
 
@@ -116,6 +136,8 @@ Generic ≤1910 self-correction searching is saturated.
 ## 5. Political line — deliberately withheld at one point
 
 The 1903–1906 political sequence is suggestive but `Democracy in the Twentieth Century` (1906), pp.81–102, remains direct-primary dependent.
+
+New institutional control: the returned 1906 *Hatchet* lists `A. O. Lovejoy` in the staff structure for `The Bulletin of the Washington University Association`, under A. P. Winston as Managing Editor. This establishes position only, not responsibility for every Bulletin item.
 
 Safe current statement:
 
@@ -165,7 +187,17 @@ Reopen automatic research only if:
 
 ### Manual
 
-The only living manual queue is `research_notes/manual_download_click_backlog.md`. It contains direct-click/download items plus clearly separated parked archival actions.
+The first user-returned packet was incorporated on 2026-08-26; see `research_notes/manual_primary_returns_2026-08-26.md`.
+
+Resolved by that packet: MD-002, MD-003, MD-004, MD-005, MD-008, plus the Wiener half of MD-010.
+
+The only living manual queue is `research_notes/manual_download_click_backlog.md`. **Five active controls remain:**
+
+1. MD-001 — 1906 `Democracy in the Twentieth Century` direct pages;
+2. MD-006 — original 004/005 notebook page images;
+3. MD-007 — N. W. Thomas 1898 same-teacher control;
+4. MD-009 — Archives nationales / EPHE Vth Section finding aid;
+5. MD-010 — JRAS 29.2 (1897), 407–410 only.
 
 Manual gaps are finite evidence upgrades, not evidence that the non-manual line is unfinished.
 
@@ -178,6 +210,7 @@ Keep in the active tree:
 - major thematic/source-critical memoranda carrying unique evidence;
 - one master synthesis (`Quellenforschung_master_summary_2026-08-23.md`);
 - this living state/log (`CURRENT_STATE.md`);
+- incorporated manual-return memo(s) carrying unique evidence;
 - one living manual queue;
 - latest public-facing draft(s).
 
@@ -191,13 +224,21 @@ Remove from the active tree when superseded:
 
 Git history is the archive layer. Do not create a second shadow copy of every superseded file merely to call it `archive`.
 
-## 9. Log — 2026-08-26 consolidation
+## 9. Log — 2026-08-26 consolidation + manual return incorporation
 
 - Batches221–226 synchronized: formal-logic erratum negative control; ≤1910 self-revision saturation; vocabulary delta audit; 005 ritual-morphology control; 005 agriculture/domestication cross-domain chronology; final non-manual convergence.
 - Automatic branch count reduced to zero high-value conceptual rounds.
 - All true remaining manual/download targets consolidated into `research_notes/manual_download_click_backlog.md`; stale resolved targets removed from the living queue.
 - Repository cleanup initiated: obsolete checkpoints/restart briefs/old queues and superseded JHI process drafts removed from the active tree, with recoverability preserved by Git history and a cleanup manifest.
+- User manual packet uploaded to repository root and incorporated without creating a synthetic Batch227.
+- *Hatchet* 1906 confirms Lovejoy's Bulletin staff placement.
+- MS-0038 finding aid tightens Paris 1898–99 notebook provenance and locates 1905/1906 diaries plus Washington-days notebook material.
+- Fletcher direct article upgrades the local source-scope / receiver-scale argument.
+- Marillier direct article upgrades upstream contamination, determinant and moralization controls.
+- Oltramare 1909 closes the bounded negative reception control.
+- Wiener Dahlmann review incorporated; JRAS half remains outstanding.
+- Living manual queue reduced to five active controls.
 
 ## 10. Restart rule
 
-If no new manual source or genuinely new primary object has arrived, **do not create another Lovejoy conceptual batch**. Preserve this state and move to another research task.
+If no new manual source or genuinely new primary object has arrived, **do not create another Lovejoy conceptual batch**. If new manual evidence arrives, incorporate it claim-by-claim into the relevant thematic memo/state and shrink the manual queue; create a new numbered conceptual batch only if the new object actually changes the model rather than merely upgrading evidence.
