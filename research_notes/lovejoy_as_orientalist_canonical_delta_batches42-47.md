@@ -1,13 +1,15 @@
 # Canonical delta — Lovejoy 004 batches 42–47
 
-Date: 2026-08-18  
-Purpose: compact canonical update to be merged into `lovejoy_as_orientalist_web_sweep.md` after the current 004 run stabilizes. This delta supersedes older broad claims that Lovejoy’s novelty lay in decomposition, compositeness, functional discrimination as such, or restoration of coherence.
+Date: 2026-08-18; synchronized 2026-08-26  
+Status: **CANONICAL 004 FIELD / RECEPTION CONTROL**
+
+This note supersedes older broad claims that Lovejoy’s novelty lay in decomposition, compositeness, functional discrimination as such, or restoration of coherence. It has now been synchronized with Batch159 and the 2026-08-26 manual primary returns.
 
 ## Revised 004 canonical thesis
 
 The strongest documentary line is now:
 
-> **Harvard/Lanman/Warren formation + live 1896–98 Indological controversy → notebook 004 as a source-transformation workshop → 1898 technical philology → 1901 Buddhism teaching → 1902 comparative history of categories → 1907 explicit separation of logical from chronological sequence.**
+> **Harvard/Lanman/Warren formation + live 1896–98 Indological controversy + Paris 1898–99 comparative-religion / Buddhism notebook environment → notebook 004 as a source-transformation workshop → 1898 technical philology → 1901 Buddhism teaching → 1902 comparative history of categories → 1907 explicit separation of logical from chronological sequence.**
 
 The continuity is not proto-`unit-ideas`. It is a discipline of **dividing evidentiary burdens** among:
 
@@ -19,7 +21,17 @@ The continuity is not proto-`unit-ideas`. It is a discipline of **dividing evide
 
 Notebook 004 matters because named source propositions can be followed into Lovejoy’s own reweighting, testing and recomposition before publication.
 
-## Senart 1896 is now a methodological control, not a straw-man foil
+### New material-provenance control from MS-0038
+
+The returned JHU MS-0038 finding aid independently identifies:
+
+- a loose notebook on `Suukhya and Buddhism` (read as Sāṃkhya and Buddhism), mostly notes;
+- a black notebook on `primitive religions and practices`, described as notes apparently taken in Paris in **1898–1899** and giving Lovejoy’s address as **5 rue Rollins**;
+- `Notes on totemism, 1898–1899`, described as probably taken from readings in the Bibliothèque Nationale.
+
+This does not identify the lecturer for each notebook. It does tighten the material provenance of the Paris 1898–99 research environment and reduces dependence on retrospective reconstruction when linking the 004/005 notebooks to contemporary Indology and comparative religion.
+
+## Senart 1896 is a methodological control, not a straw-man foil
 
 Direct primary pp.288, 293 and 295 establish that Senart already:
 
@@ -63,7 +75,17 @@ Oldenberg’s 1882 English translation, exact version cited by Lovejoy (`p.433`)
 - `upādāna ≈ saṁyojana`;
 - strong `upādi = upadhi` orthographic hypothesis.
 
-Lovejoy’s 1898 delta is controlled recomposition:
+The true 1897 third German edition, recovered in Batch159, strengthens the field control further. It already contains explicit warnings that:
+
+- inherited keywords/categories can be recombined under new fundamental ideas;
+- generic resemblance is weaker than genuinely characteristic doctrine;
+- formally similar sequences may answer different questions/functions;
+- negative coincidence and absence have little genealogical weight;
+- source chronology and literary genre constrain historical inference;
+- canonical usage can defeat speculative etymology;
+- `upādāna` is not identical with the five `upādānakkhandha`.
+
+Lovejoy’s 1898 delta is therefore controlled recomposition:
 
 1. he stages competing derivational lines (Childers/Rhys Davids vs Müller/Dahlmann);
 2. he explicitly says both derivations may be etymologically possible;
@@ -74,6 +96,14 @@ Lovejoy’s 1898 delta is controlled recomposition:
 Published rule:
 
 > **derivation/filiation evidence is not sufficient semantic evidence.**
+
+## Jacobi 1897: diagnostic specificity was already live controversy practice
+
+Batch159 recovered Hermann Jacobi’s 1897 review of Dahlmann. Jacobi differentiates Sāṃkhya and Yoga through nontrivial doctrinal markers rather than generic affinities and explicitly criticizes failure to see their differences.
+
+This directly controls the 004 move in which Lovejoy supplements Rhys Davids by treating generic traits as insufficient and seeks a more characteristically Sāṃkhyan diagnostic relation.
+
+Therefore `diagnostic specificity` remains a useful project description of Lovejoy’s operation, but not a priority claim. The 004 value is application/reweighting inside Lovejoy’s own research process.
 
 ## 1902 and 1907: Lovejoy’s own scale expansion
 
@@ -127,33 +157,41 @@ This is the clearest external field control for our phrase **division of evident
 
 It should never be used as an upstream source for Lovejoy. Its function is anti-teleological: similar methodological distinctions arise within Buddhist studies independently of Lovejoy’s later history-of-ideas programme.
 
-## Reception status
+## Reception status — synchronized after Oltramare 1909 return
 
 ### Immediate 1898–1910 reception
 
-Still unlocated. Generic title/term searches have not produced a page-verifiable contemporary citation to Lovejoy 1898. Preserve this as a negative search result only.
+No page-verifiable contemporary citation to Lovejoy 1898 has surfaced in the controlled reception line. Preserve this as a bounded negative result, not proof of absence from all contemporary reading.
 
-### Stronger reception signal from Poussin
+### Poussin signal
 
-Poussin 1905 explicitly names Senart, Garbe, Jacobi and Oldenberg as recent authorities clarifying dependent origination; no Lovejoy hit has yet been recovered from the searchable paper.
+Poussin 1905 explicitly names Senart, Garbe, Jacobi and Oldenberg as recent authorities clarifying dependent origination; no Lovejoy hit was recovered from the searchable paper.
 
-Poussin 1913 visible survey lists again foreground Senart/Oldenberg/Garbe/Jacobi/Warren/Hardy/Rhys Davids and refer the history of Western interpretation to **Paul Oltramare 1909**, without a visible Lovejoy entry.
+Poussin 1913 foregrounds Senart/Oldenberg/Garbe/Jacobi/Warren/Hardy/Rhys Davids and refers the history of Western interpretation to Paul Oltramare 1909.
 
-These are citation signals, not proof of absence.
+### Oltramare 1909 — P0 target now RESOLVED
 
-### New P0 reception target
+The complete 53-page pamphlet `La formule bouddhique des douze causes: son sens originel et son interprétation théologique` is now in the returned primary corpus.
 
-Paul Oltramare, _La formule bouddhique des douze causes: son sens originel et son interprétation théologique_ (Genève, 1909), 53 pp.
+Oltramare has an explicit Western-interpretation discussion and directly treats Warren, Oldenberg, Senart and Deussen; the pamphlet also analyzes `upādāna`, the three-life interpretation, compositional layering and later theological reinterpretation.
 
-Poussin 1913 calls Oltramare an **excellent summary of the history of Western interpretation**. A full-text `Lovejoy` search therefore has unusually high historiographical value.
+A full-object OCR control produced **no `Lovejoy` hit**.
 
-Access targets are recorded in `manual_retrieval_queue_004_batch46_addendum.md`.
+Use only the bounded formulation:
 
-## Pre-1898 controversy targets still P0
+> **Lovejoy does not surface in the present 1909 specialist-synthesis OCR control, while adjacent major Western interpreters do.**
 
-1. Hermann Jacobi’s 1897 review of Dahlmann, _Göttingische Gelehrte Anzeigen_, printed pp.267–273; Jacobi 1898 explicitly points to pp.268 and 272.
-2. Joseph Dahlmann, _Nirvāṇa_ (1896), printed pp.13–15, especially p.14, cited by Lovejoy 1898.
-3. Oldenberg, true _Buddha_ 3rd ed. (1897), p.273 note and pp.443–455, especially 448ff.
+This strengthens the inference that Lovejoy’s 1898 intervention was not canonical in this particular near-contemporary specialist synthesis. It does not establish that Oltramare never read Lovejoy, and OCR absence is not equivalent to exhaustive bibliographic proof.
+
+The earlier `new P0 reception target` instruction is superseded and must not be reactivated.
+
+## Dahlmann reception ecology — partial manual closure
+
+The *Wiener Zeitschrift für die Kunde des Morgenlandes* 11 (1897), 190–197 review has now been recovered. It strongly endorses reconstruction of an older Sāṃkhya/Sāṃkhya-Yoga background and explicitly describes transferred concepts whose apparent contradictions arise when they are moved into a system lacking their original presuppositions.
+
+This is useful controversy ecology only. It is not evidence that Lovejoy read the review.
+
+The paired *Journal of the Royal Asiatic Society* 29.2 (1897), 407–410 notice remains the only missing half of MD-010.
 
 ## Paper architecture now safest
 
@@ -179,8 +217,8 @@ Use three close transformations:
 
 ### External control
 
-Poussin 1905–1913 demonstrates that comparable logic/history tensions belonged to Buddhist-studies practice more broadly. This prevents a teleological claim that every early occurrence is embryonic history of ideas.
+Poussin 1905–1913 and Oltramare 1909 demonstrate that comparable logic/history and compositional problems remained live within Buddhist studies independently of Lovejoy’s later history-of-ideas programme.
 
 ## Current strongest formulation
 
-> **Notebook 004 places Lovejoy inside a late-nineteenth-century Indological field already committed to decomposition, lexical filiation, historical stratification and system reconstruction. Its distinctive evidentiary value is not that it reveals those operations before the later history of ideas, but that it shows Lovejoy learning to limit what each operation may prove. Composite provenance need not imply present unintelligibility; formal recurrence need not imply semantic identity; etymological derivation need not determine contextual meaning. In the 1898 article these controls become publishable semantic and causal arguments; in 1902 and 1907 analogous divisions govern resemblance versus transmission and logical versus chronological sequence. The continuity is not a proto-vocabulary of unit-ideas but a documented practice of keeping genealogy and configuration analytically distinct.**
+> **Notebook 004 places Lovejoy inside a late-nineteenth-century Indological field already committed to decomposition, lexical filiation, historical stratification and system reconstruction. Its distinctive evidentiary value is not that it reveals those operations before the later history of ideas, but that it shows Lovejoy learning to limit what each operation may prove. Composite provenance need not imply present unintelligibility; formal recurrence need not imply semantic identity; etymological derivation need not determine contextual meaning. In the 1898 article these controls become publishable semantic and causal arguments; in 1902 and 1907 analogous divisions govern resemblance versus transmission and logical versus chronological sequence. The continuity is not a proto-vocabulary of unit-ideas but a documented practice of keeping genealogy and configuration analytically distinct. The new Paris finding-aid control and Oltramare reception return strengthen provenance and reception boundaries without changing that model.**
