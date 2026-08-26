@@ -1,416 +1,303 @@
-# Lovejoy 1903–1906 — government, democratic relativity, `primitive philosophy`, and Washington University publication ecology (Batch 216)
+# Lovejoy 1903–1906 — government, democratic relativity, `primitive philosophy`, and Washington University publication ecology
 
-Date: 2026-08-26  
-Status: **STRONG HYPOTHESIS / PRIMARY TEXT OF `DEMOCRACY IN THE TWENTIETH CENTURY` STILL PENDING**  
-Scope: Lovejoy's Washington University political/public-philosophy sequence, 1903–1906, read beside the primary-controlled 1906 `The Fundamental Concept of the Primitive Philosophy`. Ordinary forward boundary remains 1910.
+Date: 2026-08-26
+Status: **CANONICAL POLITICAL DOSSIER / `DEMOCRACY IN THE TWENTIETH CENTURY` DIRECT TEXT STILL PENDING**
 
-## Core result
+The political line is now institutionally well controlled but conceptually withheld at one decisive point: Arthur O. Lovejoy, `Democracy in the Twentieth Century`, *Bulletin of the Washington University Association* 4 (1906), 81–102, remains unavailable as direct page text. Daniel J. Wilson's quotation-bearing annotation is strong enough to identify the problem but not strong enough to settle the exact semantics of `race`, `stage of culture`, or the relation between democratic ends and historically differentiated political forms.
 
-A new political control has emerged around the same year as Lovejoy's `Primitive Philosophy` paper.
+The secure 1903–1906 sequence is:
 
-Daniel J. Wilson's annotated bibliography gives unusually detailed, quotation-bearing access to Lovejoy's `Democracy in the Twentieth Century`, *Bulletin of the Washington University Association* 4 (1906), 81–102. Wilson reports that Lovejoy asks how the principles and arguments for democracy stand after more than a century of reflection; says much of democracy's original theoretical/philosophical foundation has decayed; connects that decay to social evolution, human progress, and recognition of distinct racial and national characteristics undermining the eighteenth-century conception of a homogeneous `man`; and closes with the `relativity of all political doctrines` and the need to allow for differences of `stage of culture, traditions and race`.
+> `1903 government syllabus: natural rights vs rational end`  
+> `1904 international ethics: ethical criterion tested against altered global relations`  
+> `1905 School Extension: democracy requires civic education / assimilation`  
+> `1905 Bulletin: Lovejoy = Managing Editor`  
+> `1906 Democracy: political relativity / stage-culture / traditions / race — Wilson-mediated only`  
+> `1906 Bulletin: Lovejoy remains on staff, A. P. Winston = Managing Editor`  
+> `1906 Primitive Philosophy: heterogeneous local evidence reaggregated upward as primitive philosophy / savage thought`.
 
-The primary pages 81–102 have **not yet been recovered directly**, so these phrases remain `PRIMARY-MEDIATED-BY-WILSON`, not direct primary quotations in this repository.
+The strongest current research question is whether two opposite scalar movements coexist in 1906:
 
-Even at that evidentiary level, the item matters because it sits inside a 1903–1906 political sequence:
+- comparative religion: **local → transverse → collective**;
+- political theory: **universal doctrine → historically differentiated applicability**.
 
-> `1903 government syllabus: NATURAL RIGHTS vs RATIONAL END`  
-> `1904 international ethics: systematic ethical criterion under new global material conditions`  
-> `1905 School Extension: democracy requires civic education / social assimilation`  
-> `1906 Democracy: political doctrines apparently historicized by culture-stage / tradition / race`  
-> `1906 Primitive Philosophy: heterogeneous local mechanisms reaggregated upward as primitive philosophy / savage thought`.
-
-The high-value question is no longer whether early Lovejoy had both political and comparative-religion interests. It is whether **the same analytical habit of separating general relation from historically situated instantiation works in opposite scalar directions in his 1906 political and comparative-religion texts**.
-
-Provisional formula, pending direct control of `Democracy`:
-
-> **cognitive comparison generalizes upward; political universality differentiates downward.**
-
-A more conservative formulation is stronger at present:
-
-> **Lovejoy's 1903–1906 political materials suggest a distinction between general normative ends and historically variable institutional applicability, while the 1906 comparative-religion paper isolates local mechanisms and then reattributes one cross-cutting mechanism to a generalized `primitive philosophy`.**
-
-Do not publish the first formula as a direct finding until the 1906 Democracy pages are controlled.
+This remains a hypothesis until the 1906 `Democracy` pages are directly controlled.
 
 ---
 
 ## 1. 1903 — `Some Fundamentals of the Theory of Government`
 
-Wilson entry 246 records a Washington University Association syllabus of four lectures in 1903. The syllabus treats:
+Wilson records a Washington University Association syllabus of four lectures organized around political power and social industry, with a recurring contrast between:
 
-- distribution of political power in the state;
-- distribution of the `collective industry of society`;
-- in both domains, theories of **natural rights**;
-- and theories of **the rational end**.
+- theories of **natural rights**;
+- theories of **the rational end**.
 
-This provides a pre-1906 conceptual fork:
+This supplies an important pre-1906 conceptual fork. A political form can be justified by inherent/natural right or judged relative to a rationally specified end.
 
-`political legitimacy from natural/inherent rights`
+If `Democracy in the Twentieth Century` retains a general end while relativizing institutional forms to history, culture or population, the shift would be better described as:
 
-versus
+> **general evaluative end + historically variable institutional suitability**
 
-`political legitimacy/form judged by a rationally specified end`.
+rather than pure political relativism.
 
-The physical syllabus has not yet been recovered. Therefore the exact internal order, definitions of `rational end`, and any examples of differential political forms remain pending.
-
-### Significance
-
-If 1906 `Democracy` retains a general rational end while making political doctrines/institutions relative to stage/tradition/race, the shift is not from universalism to pure relativism. It is more likely:
-
-> `universal or general evaluative end`  
-> + `historically variable institutional suitability`.
-
-That is a hypothesis to be tested directly, not yet a conclusion.
+That remains a direct-primary question.
 
 ---
 
 ## 2. 1904 — `Ethics and International Relations`
 
-Bibliographic existence is contemporaneously confirmed: the 1904 *Journal of Philosophy, Psychology and Scientific Methods* lists Arthur O. Lovejoy, `Ethics and International Relations`, as published in the *Bulletin of the Washington University Association*.
+The object is contemporaneously bibliographically secure. Wilson's detailed annotation reports that Lovejoy brings `patient analysis` and `the methods of systematic ethical science` to the limits of intervention and compulsion among nations.
 
-Wilson's detailed annotation reports that Lovejoy proposes to bring `patient analysis` and `the methods of systematic ethical science` to the limits of intervention and compulsion among nations. The paper treats moral principles as applicable to nations but argues that newer material conditions complicate older Grotius-style international law:
+The argument, as Wilson reconstructs it, tests inherited ethical/legal analogy against altered material relations:
 
-- enormous population growth;
-- increased industrial specialization and interdependence;
-- industrial reliance on raw materials outside national territory;
-- strategic significance of Suez and Panama;
-- an emerging world economy.
+- population growth;
+- industrial specialization and interdependence;
+- dependence on foreign raw materials;
+- strategic canals and routes;
+- an emerging global economy.
 
-Wilson further reports that Lovejoy finds simple analogy with individual ethics insufficient and reaches toward a criterion of the `general well-being of mankind` for external policy.
+The structural operation is already compatible with the notebook work:
 
-Again, this is currently `PRIMARY-MEDIATED-BY-WILSON` for the substantive argument, with contemporary bibliography directly confirming the object.
+`inherited category/rule`
+→ `changed relation structure`
+→ `simple analogy fails`
+→ `criterion must be reconstructed`.
 
-### Structural importance
-
-The operation is already familiar from notebooks 004/005:
-
-> abstract category / inherited rule  
-> → test against changed relation-structure  
-> → reject simple analogy  
-> → reconstruct applicable criterion.
-
-The political object is therefore being decomposed relationally before 1906.
+The substantive argument remains Wilson-mediated unless a direct article witness is recovered.
 
 ---
 
-## 3. 1905 — `School Extension`: democracy as an educative and assimilative project
+## 3. 1905 — `School Extension`
 
-Wilson entry 27 reports `School Extension`, *Educational Outlook* 2 (1905), 202–208.
+Wilson reports that Lovejoy treats democracy and public education as mutually conditioning. Democracy requires progressive education and moral development; public schools must cultivate civic virtues, public spirit, imagination and superior talent and, in an immigrant society, operate as a major agency of `social assimilation`.
 
-According to his annotation, Lovejoy argues that democracy makes progressive education and moral development necessary, while public education in turn makes democracy possible. The public school must cultivate civic virtues/public spirit, arouse imagination, select and develop superior talent, and in an immigrant nation serve as a principal mechanism of `social assimilation`.
+This matters for the 1906 political question because it suggests that democratic government depends on produced civic capacities and institutional formation, not merely abstract constitutional permission.
 
-The article also stresses that ordinary schooling fails to reach first-generation immigrants and much of adult/community life, hence the school should extend its institutional reach into community structures.
+Therefore, if the 1906 article's `stage of culture / traditions / race` language survives direct control, at least three readings remain open:
 
-Primary full text remains pending.
+1. institutional-fit relativism;
+2. developmental-capacity hierarchy;
+3. racialized political capacity.
 
-### Why it matters
-
-This gives a direct chronological bridge between the abstract 1903 government syllabus and the 1906 relativity problem.
-
-Democracy here is not only a constitutional form. It requires production of civic capacities through institutions. Therefore 1906 `stage of culture / traditions / race`, if direct text confirms Wilson's summary, may concern **conditions of institutional operation and civic formation**, not simply ranking peoples as intrinsically unfit for democracy.
-
-That distinction must be tested, not assumed.
+`School Extension` makes the first two especially plausible possibilities but cannot decide among them.
 
 ---
 
-## 4. 1906 — `Democracy in the Twentieth Century`: evidence grade and current reconstruction
+## 4. 1905–1906 — Bulletin publication position is now directly controlled
 
-### Bibliographic identity
+The Washington University publication ecology is stronger than previously stated.
+
+### 1905
+
+The 1905 *Hatchet* publication page for `The Bulletin of the Washington University Association` explicitly lists:
+
+> **Arthur O. Lovejoy, Managing Editor**
+
+with Otto Heller, Ambrose P. Winston and W. R. Vickroy on the editorial committee.
+
+This is direct contemporaneous evidence that Lovejoy occupied a central editorial role in the Bulletin immediately before the volume containing `Democracy in the Twentieth Century`.
+
+### 1906
+
+The returned 1906 *Hatchet* page lists the Bulletin staff as:
+
+- A. P. Winston — Managing Editor;
+- A. O. Lovejoy;
+- F. W. Shipley;
+- Holmes Smith;
+- R. S. Starbird.
+
+Thus Lovejoy remained inside the Bulletin staff structure in 1906 but was no longer the named managing editor.
+
+### Near-contemporary directory control
+
+*The Book of St. Louisans* describes Lovejoy as secretary of the Washington University Association, 1904–06.
+
+### Evidentiary consequence
+
+The publication relationship is now securely:
+
+> **1905 Managing Editor → 1906 continuing Bulletin staff member + Association secretary through 1906.**
+
+This does **not** prove:
+
+- that Lovejoy controlled every article in Bulletin volume 4;
+- that he solicited every contribution;
+- that he was editor of his own 1906 essay in the sense needed to infer responsibility for adjacent material;
+- influence from other Bulletin contributors.
+
+Use the institutional evidence to establish proximity and role, not textual causation.
+
+---
+
+## 5. 1906 — `Democracy in the Twentieth Century`: current evidence grade
+
+Bibliographic identity is secure:
 
 Arthur O. Lovejoy, `Democracy in the Twentieth Century`, *Bulletin of the Washington University Association* 4 (1906), 81–102.
 
-NYPL independently records holdings of Bulletin vols.3–4 (1905–1906) and marks the serial available online. The Online Books Page independently points to HathiTrust page images of the Bulletin.
+NYPL records vols.3–4 (1905–1906) and marks them available online; the Online Books Page routes the serial to HathiTrust page images. Repeated web searches still recover Wilson's annotation rather than the direct article text.
 
-### Wilson's quotation-bearing annotation
+### Wilson's quotation-bearing reconstruction
 
-Wilson says Lovejoy:
+Wilson reports that Lovejoy:
 
-- asks how democracy's principles/arguments stand after a century of reflection;
-- says a large part of its original theoretical/philosophical foundations has decayed;
-- says social-evolution/progress theory and recognition of racial/national characteristics destroyed the eighteenth-century conception of man that supported democratic theory/practice;
+- asks how democratic principles and arguments stand after more than a century of reflection;
+- says a large part of democracy's original theoretical/philosophical foundations has decayed;
+- connects that decay to social evolution, progress and recognition of racial/national difference undermining the eighteenth-century conception of homogeneous `man`;
 - examines natural-rights doctrine;
 - concludes with `the relativity of all political doctrines`;
-- and a need to allow for differences in `stage of culture`, `traditions`, and `race`.
+- calls for allowance for differences of `stage of culture, traditions and race`.
 
-### Why Wilson's access is stronger than an ordinary retrospective summary
+Evidence code:
 
-In the **same Bulletin volume**, Wilson's entry 174 for P. E. More, *The Shelburne Essays*, pp.151–155, explicitly says:
+> **PRIMARY-MEDIATED-BY-WILSON / DIRECT FACSIMILE PENDING**.
 
-> `Unable to obtain copy.`
-
-For Lovejoy pp.81–102 he supplies several quotation-bearing propositions and a detailed argumentative synopsis. This does not transform Wilson into a primary source. It does make `Democracy` substantially stronger than a generic bibliographic paraphrase: Wilson's own bibliography distinguishes works he could not obtain from works he could annotate propositionally.
-
-Current evidence code:
-
-> `PRIMARY-MEDIATED-BY-WILSON / DIRECT FACSIMILE PENDING`.
-
-Do not silently upgrade the quotations to direct primary until pp.81–102 are seen.
+Wilson's annotation is unusually valuable because elsewhere in the same bibliography he explicitly marks inaccessible objects `Unable to obtain copy`; here he gives several quotations and a structured synopsis. It is therefore stronger than a generic bibliographic paraphrase, while remaining secondary evidence.
 
 ---
 
-## 5. The primary-controlled 1906 comparison: `Primitive Philosophy`
+## 6. `Race` remains the political blocker
 
-Unlike `Democracy`, Lovejoy's 1906 *Monist* paper is fully primary-controlled in the repository.
+Do not collapse `stage of culture`, `traditions`, and `race` into one variable before reading pp.81–102.
 
-Batches 157, 210, 212 and 213 establish:
+The direct article must determine whether `race` functions as:
 
-1. Lovejoy decomposes ethnographic reports and rites into causal mechanisms;
-2. historical/institutional origins can remain plural;
-3. recurrent impersonal/transferable efficacy is abstracted across North America, Oceania and Africa;
+- hereditary biological disposition;
+- nationality/people/historical population;
+- accumulated collective mental characteristics;
+- a loose period term for collective difference;
+- an independent constraint alongside culture and tradition;
+- or one element in a mixed biological-historical theory.
+
+The fact that Lovejoy/Wilson's triplet lists `stage of culture`, `traditions`, and `race` separately is itself a reason to keep them analytically distinct until direct control.
+
+Current status:
+
+> **RACE SEMANTICS = HOLD.**
+
+The political claim should not be strengthened beyond this point from Wilson alone.
+
+---
+
+## 7. The primary-controlled 1906 comparison — `Primitive Philosophy`
+
+Lovejoy's 1906 *Monist* paper is fully primary-controlled.
+
+The secure scalar movement is:
+
+1. heterogeneous ethnographic reports are decomposed into causal mechanisms;
+2. local historical origins can remain plural;
+3. recurrent impersonal/transferable efficacy is abstracted across regions;
 4. the abstraction is elevated to `Primitive Energetics` / a fundamental concept of `primitive philosophy`;
-5. it is then attributed to `savage thought`, `most savages`, and broad collective populations;
-6. the strongest local evidence is unevenly distributed, and high-resolution North-American semantics are used as an analogical key for less-resolved fields;
-7. William Jones's local Meskwaki/Algonquian analysis itself sets a narrower source-scope ceiling than Lovejoy's final cross-regional scale.
+5. the result is reattributed upward to `savage thought`, `most savages`, and broad collective populations.
 
-So 1906 comparative religion makes a scalar movement:
+The Fletcher and Jones source-politics controls now sharpen this movement:
 
-`local historical plurality`
-→ `mechanism abstraction`
-→ `cross-cultural equivalence`
-→ **collective cognitive reaggregation**.
+- William Jones supplies locally bounded high-resolution semantic evidence that Lovejoy extends beyond Jones's source scope;
+- Fletcher's complete article explicitly refuses to treat totems `in a world sense`, yet Lovejoy later extracts Omaha propositions into a transregional category.
+
+Therefore the comparative side securely moves:
+
+> **local source ceilings → proposition extraction → portable mechanism → receiver-controlled scale expansion → collective reattribution.**
 
 ---
 
-## 6. The paired 1906 hypothesis: two opposite scalar movements
+## 8. The paired 1906 hypothesis
 
-If Wilson's `Democracy` quotations survive primary control, 1906 contains a striking pair.
+If the Wilson quotations are confirmed in the direct 1906 political text, the pair becomes analytically striking.
 
 ### Comparative religion
 
-Lovejoy begins from historical/ethnographic heterogeneity and asks what mechanism can be generalized.
-
-Direction:
-
-> **local → transverse → collective**.
+`local plurality`
+→ `mechanism abstraction`
+→ `cross-cultural equivalence`
+→ `collective cognitive reaggregation`.
 
 ### Political theory
 
-Lovejoy begins from a historically universalizing democratic doctrine grounded in an eighteenth-century concept of man and asks what changes once human difference, social evolution, traditions, and cultural stage are admitted.
+`universal democratic doctrine grounded in a homogeneous conception of man`
+→ `recognition of historically differentiated populations`
+→ possible `differential institutional applicability`.
 
-Possible direction:
-
-> **universal doctrine → historically differentiated applicability**.
-
-This yields the provisional double movement:
+Provisional formula:
 
 > **cognitive comparison generalizes upward; political universality differentiates downward.**
 
-But there are at least three logically different versions of `differentiates downward`, and primary text must decide among them:
+This formula is project language and remains conditional on MD-001.
 
-A. **institutional-fit relativism** — democratic forms vary with historical conditions while general ends remain;
+A safer current sentence is:
 
-B. **developmental-capacity hierarchy** — democratic government is appropriate only after a society reaches a certain stage;
-
-C. **racialized political capacity** — inherited racial characteristics constrain democratic suitability.
-
-Wilson's short annotation cannot safely distinguish A/B/C. It mentions `stage of culture`, `traditions`, and `race` as separate variables, which is itself reason not to collapse them prematurely.
+> **Lovejoy's 1903–1906 political materials suggest a distinction between general normative ends and historically variable institutional conditions, while the 1906 comparative-religion paper decomposes local evidence and then reaggregates a cross-cutting mechanism at a much broader collective scale.**
 
 ---
 
-## 7. `Race` must remain semantically unresolved until primary control
+## 9. Relation to `primitive = stratification`
 
-A major caution comes from contemporary evolutionist vocabulary.
+The larger project argument should remain structural rather than moralizing by shortcut.
 
-Classic anthropological discourse did not always equate `race` and `stage of culture`. Tylor, for example, could explicitly separate hereditary/racial variation from grades of civilization and treat cultural development as analytically independent of bodily race.
+The 004/005 notebooks show that historical position can be distributed across components, mechanisms, traditions and domains rather than synchronized in one calendar or one ladder.
 
-Therefore Lovejoy's triplet:
+The political material may extend that structure:
 
-> `stage of culture / traditions / race`
+- democracy has a conceptual/normative history;
+- societies possess different institutional histories, traditions and cultural conditions;
+- one world-clock date need not entail one political-historical applicability.
 
-cannot be reduced in advance to one biological-racial hierarchy.
+Possible project shorthand:
 
-Primary audit should ask:
+> **political chronological non-isomorphism**
 
-- does `race` mean hereditary biological disposition?
-- nationality / people / historical population?
-- historically accumulated mental characteristics?
-- a loose period synonym for collective difference?
-- does Lovejoy treat race and culture as independently causal or interchangeable?
-
-Until pages 81–102 are recovered:
-
-> `RACE SEMANTICS = HOLD`.
+but only after MD-001 demonstrates that Lovejoy himself is making an institutional/historical differentiation rather than a simpler hierarchy of capacities.
 
 ---
 
-## 8. Washington University Association as the shared print environment
+## 10. Evidence hierarchy
 
-Batch185 already established the institutional sequence:
+### Direct / primary
 
-- 1901: Association issues at least two Lovejoy syllabi;
-- 1903: the Association visibly has Lecture and Printing Committees;
-- 1904–06: Lovejoy is listed as Association secretary in a near-contemporary directory;
-- 1905 *Hatchet*: `The Bulletin of the Washington University Association` lists **Arthur O. Lovejoy, Managing Editor**, alongside Otto Heller, Ambrose P. Winston and W. R. Vickroy.
+- Lovejoy 1906 `The Fundamental Concept of the Primitive Philosophy` — full primary controlled;
+- 1905 *Hatchet* Bulletin page — Lovejoy = **Managing Editor**;
+- 1906 *Hatchet* Bulletin page — A. P. Winston = Managing Editor; A. O. Lovejoy remains on staff;
+- *Book of St. Louisans* — Lovejoy = Washington University Association secretary, 1904–06;
+- Washington University Digital Commons bibliographic/collection controls for the *Hatchet* objects.
 
-The 1906 *Hatchet* survives digitally. Its Part 12, pp.213–219, is explicitly described by Washington University Digital Commons as containing publication staff for:
+### Strong mediated
 
-- *The Hatchet*;
-- the *Bulletin of the Washington University Association*;
-- the Medical Department quarterly bulletin.
+- Wilson on `Some Fundamentals of the Theory of Government`;
+- Wilson on `Ethics and International Relations`;
+- Wilson on `School Extension`;
+- Wilson on `Democracy in the Twentieth Century`.
 
-Machine access to the Part-12 PDF currently returns HTTP 403, but the object is available for manual browser access.
+### Direct-primary blocker
 
-This is the highest-value institutional control currently pending:
-
-> **Was Lovejoy still listed as managing editor / editorial staff in the 1906 Hatchet?**
-
-If yes, the connection between his 1906 political essay and the Bulletin's editorial apparatus becomes contemporaneous and direct. If no, his prior 1905 managing editorship remains important but should not be projected into volume 4.
+- `Democracy in the Twentieth Century`, pp.81–102.
 
 ---
 
-## 9. G. Stanley Hall in Bulletin volume 4: publication-environment control only
+## 11. MD-001 direct-primary audit instructions
 
-Secondary bibliographic control places G. Stanley Hall's `The Undeveloped Races in Contact with Civilization` in *Bulletin of the Washington University Association* **4**, pp.145–150.
+When the article arrives, do not merely search the three famous words. Read the whole argumentative arc.
 
-The year is unstable across later bibliographies: one gives 1905, others 1906. Volume 4 may span the academic/publication years 1905–06. Until the physical issue is checked, use:
+Minimum audit:
 
-> **same Bulletin volume / same publication family**
+1. pp.81–86 — definition of democracy, liberty/independence, theoretical foundations;
+2. all passages on natural rights and the eighteenth-century conception of man;
+3. every occurrence and nearby paragraph for `race`, `racial`, `nation`, `national`, `culture`, `stage`, `tradition`, `capacity`, `fitness`, `progress`, `evolution`;
+4. pp.98–102 — conclusion and exact logic of relativity;
+5. determine whether any general end/criterion survives the relativization of forms;
+6. classify `race` separately from culture/tradition before synthesizing.
 
-rather than:
+The result must choose among or combine:
 
-> `same issue`, `same month`, or necessarily `same calendar year`.
+- institutional-fit relativism;
+- developmental-capacity hierarchy;
+- racialized capacity;
+- mixed position.
 
-The fact is potentially significant because the Bulletin's volume 4 then contains, at minimum:
+Do not infer the answer from Wilson's nouns alone.
 
-- Lovejoy on democratic doctrine, culture-stage, tradition, and race (pp.81–102, Wilson-mediated);
-- Hall on `undeveloped races` in contact with civilization (pp.145–150, bibliographically controlled);
-- P. E. More review material immediately after (pp.151–155).
+## Saturation rule
 
-But the following claims are **withheld**:
+Until MD-001 arrives, do not create further conceptual political batches from the same secondary annotation. Additional bibliography, institutional context or race-history comparison is only useful if it directly resolves a semantic ambiguity in the primary article.
 
-- Hall influenced Lovejoy;
-- Lovejoy solicited or edited Hall's piece;
-- Lovejoy endorsed Hall's racial-development arguments;
-- textual vocabulary in Lovejoy came from Hall.
-
-The secure object is a **shared publication environment**, not an influence edge.
-
----
-
-## 10. A possible political analogue of the 004/005 stratification problem
-
-The notebook work has established that one historical object need not possess one synchronized historical age.
-
-004:
-
-- temporal antecedence ≠ logical position;
-- original and derived elements coexist;
-- borrowed components can form a new configuration.
-
-005:
-
-- older mechanisms + later moral interpretation + imported layer + current function coexist;
-- `Greek primitive / N.T. intermediate` demonstrates intratraditional staging;
-- historical layers are not reducible to whole-population chronology.
-
-The 1906 political material may reveal an analogous decomposition at a different object scale:
-
-- `democracy` as a normative doctrine has one conceptual history;
-- particular societies possess different institutional histories, traditions and cultural stages;
-- a doctrine's universal claim may therefore fail to map isomorphically onto every political object at the same historical moment.
-
-This would be a political form of **chronological non-isomorphism**:
-
-> `same world-clock date` ≠ `same political-historical applicability`.
-
-This formulation remains **HYPOTHESIS** until `Democracy` is directly controlled.
-
----
-
-## 11. Why this matters for the larger `primitive = stratification` thesis
-
-The project-level thesis is becoming more precise.
-
-After the Enlightenment's homogeneous human subject becomes difficult to sustain, difference need not be organized only by putting whole peoples onto one linear staircase.
-
-Lovejoy's materials show at least three possible operations:
-
-1. **internal stratification** — put multiple historical ages inside a tradition/object;
-2. **transverse reaggregation** — compare equivalent strata/mechanisms across unrelated objects and rebuild a collective category (`primitive philosophy`);
-3. **differential applicability** — potentially treat political doctrines/forms as historically relative to differently situated populations.
-
-If `Democracy` confirms the third operation, `primitive` and `democracy` become complementary rather than disconnected political/intellectual objects:
-
-- `primitive` supplies a technical language for identifying cross-cultural causal/cognitive strata;
-- democratic universalism is recalibrated once populations are no longer assumed to instantiate one homogeneous human-historical condition.
-
-This would make the politicality of `primitive` structural rather than merely pejorative.
-
-The sentence should remain conditional until the primary text is in hand.
-
----
-
-## 12. Evidence hierarchy
-
-### DIRECT / PRIMARY OR NEAR-PRIMARY
-
-- Lovejoy 1906 `The Fundamental Concept of the Primitive Philosophy`: full primary article; repository-controlled.
-- 1905 *Hatchet*, p.228: Lovejoy explicitly `Managing Editor` of *Bulletin of the Washington University Association*.
-- 1906 Washington University Digital Commons object: *Hatchet* Part 12 pp.213–219 explicitly contains Bulletin publication staff; actual staff page still unread because machine download is 403.
-- 1904 contemporary *Journal of Philosophy, Psychology and Scientific Methods* bibliography confirms `Ethics and International Relations` as a Bulletin publication.
-- NYPL catalog confirms *Bulletin* vols.3–4 (1905–1906) holdings and online availability.
-- Online Books Page confirms HathiTrust page-image route for the serial.
-
-### PRIMARY-MEDIATED-BY-WILSON
-
-- 1903 `Some Fundamentals of the Theory of Government` syllabus content.
-- 1904 `Ethics and International Relations` detailed argument and quoted criteria.
-- 1905 `School Extension` detailed argument and quotations.
-- 1906 `Democracy in the Twentieth Century` detailed argument and quotations.
-
-### CONTEXTUAL / SECONDARY
-
-- Hall, `The Undeveloped Races in Contact with Civilization`, Bulletin 4:145–150 bibliographic placement via secondary scholarship.
-- Tylor race/culture distinction as a period conceptual-control, not an influence claim.
-
----
-
-## 13. High-value next controls
-
-### Priority 1 — Lovejoy, `Democracy`, pp.81–102
-
-Directly recover at least:
-
-- pp.81–86: opening definitions and statement of the problem;
-- pages discussing social evolution, national/racial difference, and eighteenth-century `man`;
-- natural-rights section;
-- pp.98–102: conclusion, especially `relativity of all political doctrines` and `stage of culture / traditions / race`.
-
-Primary audit table should code:
-
-`claim`
-× `predicate subject`
-× `scope`
-× `race/culture/tradition semantics`
-× `normative criterion`
-× `institutional application`
-× `developmental direction`.
-
-### Priority 2 — 1906 Hatchet Part 12
-
-Confirm whether Lovejoy appears on Bulletin staff for the 1906 yearbook. Manual URL currently exposed through Digital Commons:
-
-`https://digitalcommons.wustl.edu/cgi/viewcontent.cgi?article=1002&context=hatchet&filename=11&type=additional`
-
-### Priority 3 — Hall vol.4 exact issue/date
-
-Resolve whether pp.145–150 are 1905 or 1906 and whether Lovejoy's article and Hall's occupy the same bound volume only or a tighter issue/editorial unit.
-
-### Priority 4 — recover `School Extension` 1905
-
-Test whether Lovejoy already distinguishes general democratic end from institutional/educative prerequisites before the 1906 relativity formulation.
-
----
-
-## Current publication-safe formulation
-
-> **By 1903 Lovejoy's Washington University public teaching already opposed natural-rights accounts of political distribution to theories grounded in a rational end; in 1904 he applied systematic ethical analysis to international intervention under conditions of growing global interdependence, and in 1905 he described democratic government as dependent upon civic education and social assimilation. Daniel J. Wilson's quotation-bearing annotation of Lovejoy's 1906 `Democracy in the Twentieth Century` indicates a further step: the older democratic theory had depended upon an eighteenth-century conception of a homogeneous humanity that social-evolutionary, national and racial difference had rendered untenable, requiring allowance for `stage of culture`, traditions and race. Since the 1906 primary pages remain unrecovered, the exact meaning of that relativity—especially whether it concerns institutional fit, developmental hierarchy, or racialized political capacity—must remain open. What can already be juxtaposed securely is the scalar problem: in the same year Lovejoy's primary-controlled `Primitive Philosophy` moves from heterogeneous local mechanisms toward a generalized collective cognition, while his political argument appears, through Wilson's access to the text, to move from inherited universal doctrine toward historically differentiated conditions of application.**
-
-## Anti-overclaim rules
-
-- Do not call 1906 `Democracy` direct primary until pages 81–102 are visually/textually controlled.
-- Do not reduce `race`, `stage of culture` and `tradition` to one variable before primary reading.
-- Do not infer Hall→Lovejoy influence from same-volume publication.
-- Do not infer that managing editor = authorial endorsement of all Bulletin content.
-- Do not frame Lovejoy as simply abandoning universalism; test whether `rational end` or human-welfare criterion survives beneath institutional relativity.
-- Do not project later Lovejoy political/race formulations beyond 1910 into this reconstruction under the current scope rule.
+The publication ecology is now sufficiently controlled. The live conceptual blocker is the article itself.
