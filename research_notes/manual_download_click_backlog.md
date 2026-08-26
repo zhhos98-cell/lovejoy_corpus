@@ -80,13 +80,19 @@ JHU collection context: https://aspace.library.jhu.edu/repositories/3/resources/
 - pp.16–20: suicide / manner-of-death → custom/taboo → clan solidarity → later moral punishment → `half-moral` / desert sequence.
 - pp.24–27: stages/types of afterlife, special destinations/status, trial machinery, river/bridge/thread motifs, later ethical reshaping.
 
+**Optional while the same 005 PDF is already open:** PDF pp.31–36.
+
+- corrected transcription is low-confidence here, but it appears to distinguish post-mortem **rank/status differentiation** (chiefs/nobles/common people; persistence of social distinction; possible movement to a higher condition) from moral desert and from chronological/civilizational `higher stage` language;
+- one quick visual pass can determine whether `higher/lower` on these inserted leaves is really a social-rank axis. This is a negative control against flattening every Lovejoy hierarchy into one evolutionary ladder;
+- minimum useful return is pp.34–36; pp.31–33 only if they are easy to capture in the same pass.
+
 **Highest-priority 004 image:** the page containing the `viññāṇa` note where it is `temporally (?) antecedent` to `nāmarūpa` while `logically a subdivision`; ideally include one page before/after.
 
 **What to inspect/return:** screenshots or page exports preserving margins and all handwriting. We specifically need visible material features: crossings-out, overwritten words, arrows, marginal insertions, alternate headings, question marks, numbering changes, interlinear additions, or spatial re-grouping.
 
-**Why:** the clean JSON proves serial **conceptual reclassification**, but it normalizes away pen-level revision. Batch218 gives a published 1909→1910 category-fission event. These page-images can test whether 004/005 preserve a literal notebook analogue where a category is visibly revised on paper rather than merely treated differently on successive pages.
+**Why:** the clean JSON proves serial **conceptual reclassification**, but it normalizes away pen-level revision. Batch218 gives a published 1909→1910 category-fission event. These page-images can test whether 004/005 preserve a literal notebook analogue where a category is visibly revised on paper rather than merely treated differently on successive pages. The optional pp.31–36 additionally tests whether social rank, moral rank and developmental rank are materially kept distinct.
 
-**Minimum return:** 005 pp.16–20 alone is enough for the first material audit; add pp.24–27 and the 004 page when convenient.
+**Minimum return:** 005 pp.16–20 alone is enough for the first material audit; add pp.24–27, pp.34–36, and the 004 page when convenient.
 
 Status: `OPEN / PRIMARY-MATERIAL-HIGH-PRIORITY`.
 
