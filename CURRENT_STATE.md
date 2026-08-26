@@ -11,10 +11,12 @@ For a new session, read only:
 
 1. `CURRENT_STATE.md` — current scope, claims, state and restart rules;
 2. `Quellenforschung_master_summary_2026-08-23.md` — full cross-corpus source-critical synthesis;
-3. `research_notes/005_Marillier_selector_alignment_consolidated.md` — canonical attribution/originality control for the early 005 selector field;
-4. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
-5. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
-6. the relevant primary transcription / matrix / thematic dossier for a specific claim.
+3. `research_notes/004_proof_architecture_publication_selection_consolidated.md` — canonical 004 proof / manuscript-publication control;
+4. `research_notes/005_Marillier_selector_alignment_consolidated.md` — canonical attribution/originality control for the early 005 selector field;
+5. `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md` — canonical cross-object developmental architecture;
+6. `research_notes/manual_primary_returns_2026-08-26.md` — incorporated user-returned primary controls;
+7. `research_notes/manual_download_click_backlog.md` — only living remaining manual queue;
+8. the relevant primary transcription / matrix / thematic dossier for a specific claim.
 
 For the current JHI Blog prose state, use `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`; earlier prose/pitch drafts are superseded.
 
@@ -44,6 +46,10 @@ Primary-secure:
 - etymological/derivational possibility does not settle contextual use;
 - borrowed or historically derived components can acquire a new configuration/function;
 - Lovejoy's 1898 print explicitly separates borrowed terms/ideas from original `arrangement and application`.
+
+Direct Oldenberg/Jacobi controls now show that the constituent proof disciplines were already field-level before or contemporaneously with 004: diagnostic difference-points, source chronology/genre, function-sensitive category comparison, weak negative evidence, usage over etymology, and inherited categories recombined into new systematic configurations. The Lovejoy delta should therefore be located in local selection/reweighting, application, manuscript surplus, and publication transformation rather than operator priority.
+
+The canonical control is `research_notes/004_proof_architecture_publication_selection_consolidated.md`.
 
 Finding-aid provenance control:
 
@@ -87,7 +93,9 @@ The stronger Lovejoy notebook delta is narrower and documentary:
 
 Suicide is the cleanest early example: death-type, ritual/taboo, clan/social injury, exclusion, contact/later moralization and strict moral allocation are tested against one another rather than treated as interchangeable meanings of the same punishment. The exact dense migration of one case through these competing allocations remains a strong notebook-level Lovejoy delta.
 
-Later 005 sections carry the relation-sensitive discipline through sacrifice, blood, charms, cannibalism and agriculture. Batch156 already controls the larger developmental bridge; the direct Marillier/Söderblom controls change attribution on the 005 side rather than creating a new 004→005 continuity claim.
+Later 005 sections carry the relation-sensitive discipline through sacrifice, blood, charms, cannibalism and agriculture. `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md` controls the larger developmental bridge; the direct Marillier/Söderblom controls change attribution on the 005 side rather than creating a new 004→005 continuity claim.
+
+The Steinmetz/anthropophagy branch is separately closed in `research_notes/005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`: Steinmetz already had local motive plurality, Mauss reclassified surviving kin practice by relation, Marillier directly rejected one interpretation/unique origin for externally similar practices, and Lovejoy's remaining delta lies in dense mechanism-level redistribution and cross-domain portability.
 
 Strong bounded formulation:
 
@@ -128,6 +136,8 @@ Do not turn this into a claim that Lovejoy rejected evolutionary hierarchy.
 ### 1906 — decomposition can re-totalize
 
 `The Fundamental Concept of the Primitive Philosophy` decomposes heterogeneous local materials but then abstracts a cross-cutting causal mechanism and reattributes it upward as `primitive philosophy / savage thought`.
+
+The canonical developmental control is `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`. It distinguishes historical pluralism from non-genealogical mechanism universalism and records Lovejoy's own evidentiary brakes (`somewhat too categorically`, `first stage`, incomplete testimony) alongside the very strong scope language (`more fundamental`, `most nearly ubiquitous`, `dominant preoccupation`).
 
 Project formulation:
 
@@ -215,9 +225,12 @@ These are project terms, not Lovejoy's historical vocabulary:
 - multi-axis stratification;
 - ritual morphology as developmental index;
 - cross-domain master clock;
-- research grammar / practice of redivision / shared problem field.
+- research grammar / practice of redivision / shared problem field;
+- diagnostic specificity / two-gate model / genealogical redundancy;
+- manuscript surplus / evidentiary compression;
+- mechanism universalism / genealogical monism.
 
-Public prose should anchor first in actor/source wording (`temporally (?) antecedent`, `logically a subdivision`, `arrangement and application`, `d’autres divisions`, `work by the pupils, directed by the lecturer`, `critical or historical question`, `primitive philosophy`, `higher stage`, `half-moral`, `desert`, etc.) and only then introduce project abstractions grammatically as our analysis.
+Public prose should anchor first in actor/source wording (`temporally (?) antecedent`, `logically a subdivision`, `arrangement and application`, `d’autres divisions`, `work by the pupils, directed by the lecturer`, `critical or historical question`, `primitive philosophy`, `higher stage`, `half-moral`, `desert`, `more fundamental than personality`, etc.) and only then introduce project abstractions grammatically as our analysis.
 
 ## 7. Research status
 
@@ -231,6 +244,9 @@ Closed/saturated:
 - further 005 sacrifice/cannibalism/charm/fetish case-mining that only repeats `same form ≠ same mechanism`;
 - additional selector examples that do not alter the model;
 - **Marillier/Söderblom selector-priority searching:** direct primary now closes determinant-field, seriality, `desert`, `half-moral`, quasi-moral transition and superposition attribution at the conceptual level;
+- **Steinmetz/Mauss/Marillier anthropophagy explanatory-level searching:** exact-title bridge, Steinmetz full primary, Marillier pp.113–115 and Mauss reclassification are all directly controlled; further generic motive examples are redundant;
+- **004 proof-architecture / Oldenberg edition-state searching:** 1890 baseline and true 1897 third edition are directly controlled; remaining work is only exact quotation/uptake provenance if a publication claim requires it;
+- **004→005→1906 diagnostic/mechanism architecture:** conceptually closed in the canonical dossier; reopen only for genuinely new primary or material-sequence evidence;
 - checkpoint-level actor-vs-analytic vocabulary audit;
 - generic corroboration searches for chronological non-isomorphism;
 - generic political searching that only reproduces Wilson's secondary annotation;
@@ -271,7 +287,7 @@ Keep in the active tree:
 - major thematic/source-critical memoranda carrying unique evidence;
 - one master synthesis (`Quellenforschung_master_summary_2026-08-23.md`);
 - this living state/log (`CURRENT_STATE.md`);
-- canonical thematic consolidations, especially `005_Marillier_selector_alignment_consolidated.md`, `005_shared_source_apparatus_consolidated.md`, `005_Steinmetz_Mauss_controversy_context.md`, and `005_boundary_controls_consolidated.md`;
+- canonical thematic consolidations, especially `004_proof_architecture_publication_selection_consolidated.md`, `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`, `005_Marillier_selector_alignment_consolidated.md`, `005_shared_source_apparatus_consolidated.md`, `005_Steinmetz_Mauss_controversy_context.md`, `005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`, and `005_boundary_controls_consolidated.md`;
 - incorporated manual-return memo(s) carrying unique evidence;
 - one living manual queue;
 - latest public-facing draft(s).
@@ -281,6 +297,7 @@ Remove from the active tree when superseded:
 - restart briefs;
 - session/checkpoint files;
 - old manual queues/download packets;
+- obsolete deterministic-route / mirror-route registers whose still-live targets have been carried into the canonical manual queue;
 - batch-specific research notes whose unique evidence and verdict have been checked into a canonical thematic dossier;
 - search-saturation notes whose verdict is incorporated here;
 - earlier prose drafts once a later complete version contains their useful content.
@@ -297,9 +314,12 @@ Git history is the archive layer. Do not create a second shadow copy of every su
 - Marillier direct article upgrades upstream contamination, determinant and moralization controls.
 - Full Marillier collation removes priority claims for the conceptual `desert` threshold and `half-moral` transition zone.
 - Direct Söderblom same-workshop control further removes priority for serial selector ordering and quasi-moral transition; the Lovejoy delta is narrowed to particular redivision, dense repeated case reallocation, cross-domain portability and later 1906 abstraction.
-- `research_notes/005_Marillier_selector_alignment_consolidated.md` is now the canonical selector/originality dossier; Batches203–207 are removed from active-tree function.
+- `research_notes/005_Marillier_selector_alignment_consolidated.md` is the canonical selector/originality dossier; Batches203–207 are removed from active-tree function.
 - Batch19 is replaced by `005_shared_source_apparatus_consolidated.md`; Batch20 by `005_Steinmetz_Mauss_controversy_context.md`; Batch36 is superseded by retained thematic/primary controls.
-- Third cleanup pass brings cumulative net active-tree reduction to 34 files while preserving page/source granularity in canonical dossiers and corrected concordances.
+- Steinmetz/anthropophagy Batches33–35, 41, 147–149 are consolidated into `005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`; the Batch149 CSV matrix remains active.
+- Obsolete retrieval infrastructure Batches145–146 and their endpoint/route registers plus the Batch150 mirror-route register were removed after all still-live targets were confirmed in `manual_download_click_backlog.md`.
+- Batches152, 154–157 are consolidated into `004_proof_architecture_publication_selection_consolidated.md` and `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`; their analytical matrices remain active.
+- Cumulative net active-tree reduction after these cleanup passes is **48 files**, with unique primary/page-level evidence retained in canonical dossiers, transcriptions and matrices.
 - Oltramare 1909 closes the bounded negative reception control.
 - 004 canonical delta, paper-thesis memo and source-uptake map synchronized so recovered Jacobi/Oldenberg/Oltramare controls are no longer represented as pending.
 - Wiener Dahlmann review incorporated; reviewer identified as L. v. Schroeder; JRAS page-text/signature half remains outstanding.
