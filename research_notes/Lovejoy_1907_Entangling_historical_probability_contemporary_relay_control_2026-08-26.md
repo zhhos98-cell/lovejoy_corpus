@@ -1,56 +1,98 @@
-# Lovejoy 1907 `Entangling Alliance` — historical propositions / probability contemporary relay control
+# Lovejoy 1907 `Entangling Alliance` — direct-primary historical probability / political relativity / India-Occident control
 
-Date: 2026-08-26
-Status: **CONTEMPORARY 1912 EXTENDED-QUOTATION CONTROL / LOVEJOY DIRECT PRIMARY PAGE STILL MF-002**
+Date: 2026-08-27
+Status: **DIRECT PRIMARY CLOSED / MF-002 RESOLVED**
 
-Primary target still pending direct page collation:
+Primary object:
 
-Arthur O. Lovejoy, `The Entangling Alliance of Religion and History`, *The Hibbert Journal* 5.2 (January 1907), 258–276, especially printed p.269.
+Arthur O. Lovejoy, `The Entangling Alliance of Religion and History`, *The Hibbert Journal* 5.2 (January 1907), 258–276.
 
-## Core result
+Direct public witness recovered in the Internet Archive full-text scan of *The Hibbert Journal*, vol. 5:
 
-The substantive uncertainty about whether Lovejoy explicitly formulated an epistemology of historical propositions in this article is now largely closed by a near-contemporary quotation-and-citation control.
+- item: https://archive.org/details/hibbertjournal05londuoft
+- OCR text: https://archive.org/stream/hibbertjournal05londuoft/hibbertjournal05londuoft_djvu.txt
+- IA identifier: `hibbertjournal05londuoft`
+- volume is public domain and exposes full text, OCR search, page-number JSON and PDF.
 
-Benjamin B. Warfield, `Christless Christianity`, *Harvard Theological Review* 5.4 (October 1912), 423–473, cites Lovejoy's *Hibbert Journal* article at pp.258–276 and specifically flags p.269. Warfield then quotes and closely paraphrases the position he is criticizing.
+The earlier Warfield 1912 contemporary-relay control is now secondary corroboration rather than the evidentiary basis.
 
-The relay attributes to Lovejoy a sequence with four separable proposition-types / burdens:
+## 1. Direct actor-explicit claim-type / warrant partition
 
-1. **religious truth-content as universal/cosmic** — if religion supplies fundamental truths valid and significant for all persons, its core truth claims must have universal bearing and universal accessibility;
-2. **contingent temporal matters-of-fact** — local events at particular times/places do not possess that universal accessibility;
-3. **historical proposition as epistemically probabilistic** — Warfield quotes the claim that historical propositions `do not strictly constitute knowledge at all` and treats Lovejoy as holding that the actuality of particular past happenings can reach only degrees of probability;
-4. **extraordinary-event burden** — events `contrary to the usual order` face such an adverse presumption that Lovejoy is quoted as making it at least debatable whether any amount of purely traditional/documentary evidence can offset it.
+Lovejoy's argument directly distinguishes universal religious/metaphysical truth claims from contingent historical propositions.
 
-The same relay also attributes the distinction:
+He first defines the religious truth-content under discussion as universal or cosmic in bearing: religion, if it supplies fundamental truth, cannot make the occurrence of one local event at one time/place the necessary core of a truth meant to be valid and significant for all persons.
 
-`historical attachment useful/necessary for Christianity's survival`
-≠ `historical incidents essential to religious truth`.
+He then gives two separable objections to making historical incidents constitutive of religious truth:
 
-And it reports Lovejoy's claim that the very incidents theology gives greatest dogmatic weight have especially been moved from the clearly ascertainable into the problematical by historical criticism.
+1. **restricted verification/access:** historical propositions are received through tradition/testimony and can be independently tested only by a limited subset of persons with access to the relevant records and specialist competence;
+2. **probabilistic epistemic status:** historical propositions do not, in Lovejoy's strict vocabulary here, possess the certainty of demonstrative knowledge; remote and particular events can reach only degrees of probability.
 
-## Why this matters for the notebook project
+He further distinguishes ordinary from extraordinary historical claims. A reported event contrary to usual experience encounters a strong adverse presumption, and Lovejoy explicitly raises the question whether documentary/traditional evidence can overcome that burden.
 
-This is not merely another later analogue of decomposition. It is unusually close to an actor-explicit theory of **claim type → evidentiary status**:
+The direct-primary structure is therefore:
 
-`universal religious/metaphysical proposition`
-≠ `particular historical proposition`
-≠ `ordinary past-event probability`
-≠ `extraordinary-event probability/documentary burden`.
+`universal/cosmic truth claim`
+≠ `particular temporal occurrence`
+≠ `ordinary historical probability`
+≠ `extraordinary-event documentary burden`.
 
-That makes the longitudinal JHI formulation stronger:
+This is now the strongest actor-explicit published control for the project's analytical rule:
 
-> **By 1907 Lovejoy was explicitly assigning different epistemic status and evidentiary burden to different proposition types. The notebooks should not be retroactively described as applications of this 1907 theory, but their repeated separation of textual, semantic, causal and genealogical warrants now has a strong actor-explicit later control.**
+> **different proposition types receive different epistemic and evidentiary addresses.**
 
-The direct primary pages remain valuable because Warfield is an opponent and frames Lovejoy through a theological controversy. Until Lovejoy pp.258–276 are collated directly, do not rely on Warfield for exact paragraph sequence, omitted qualifications, or Lovejoy's own balance between strict philosophical `knowledge` and ordinary warranted historical belief.
+### JHI ceiling
 
-## Relation to other actor-explicit controls
+The notebooks must still not be described as conscious applications of a theory Lovejoy formulated in 1907. The safe longitudinal use is:
+
+> 004/005 make relation-specific proof burdens archivally visible; by 1907 Lovejoy himself explicitly assigns different epistemic statuses and burdens to different kinds of historical and universal propositions.
+
+## 2. Direct political-relativity control — important but not a substitute for MD-001
+
+The same article contains a useful direct-primary political sentence. Lovejoy characterizes politics as essentially practical, relative and temporal, and says it is not self-evident that one identical social or governmental order should prevail simultaneously across such different societies as France/England and China/Peru.
+
+This directly confirms that political relativity / differentiated institutional applicability was part of Lovejoy's own published vocabulary by January 1907.
+
+It materially strengthens the context around Wilson's synopsis of the still-missing 1906 `Democracy in the Twentieth Century`.
+
+However:
+
+- it does **not** recover the 1906 article;
+- it does **not** settle the semantics of `race`;
+- it does **not** choose among institutional-fit relativism, developmental-capacity hierarchy and racialized political capacity.
+
+Therefore **MD-001 remains the political blocker**.
+
+Safe current formula:
+
+> **Lovejoy's direct 1907 text independently establishes political forms as relative/temporal and nonuniform across societies; the stronger 1906 claim about how `race`, culture, tradition and stage structure that relativity remains on HOLD pending `Democracy in the Twentieth Century`.**
+
+## 3. Direct India / Occident contrast inside the same article
+
+Near the conclusion Lovejoy asks whether an entirely unhistorical religion is possible and says that more than one of the great systems of India can serve as examples of such a type.
+
+His contrast is structural:
+
+- an unhistorical religious type minimizes or denies the worth/reality of the temporal process and concrete historical tasks;
+- Christianity, in his account, cannot simply abandon history in this way;
+- he explicitly says the Indian/unhistorical type has no kinship with the temper of the Occident and frames the alternatives as radically opposed types rather than objects for easy syncretism.
+
+This is a direct 1907 Lovejoy primary control for an emerging **India / Occident typological differentiation**.
+
+### Firewall
+
+Do not silently equate `great systems of India` with Buddhism alone. The article uses a broad civilizational/philosophical type. The 1898 Buddhist object can be related to this later differentiation only through separately controlled primary links.
+
+Do not treat the 1907 rhetoric as a timeless Lovejoy taxonomy; it belongs to the immediate argument over Christianity, historical religion and universal truth.
+
+## 4. Relation to the 1906–10 warrant sequence
 
 ### 1906 Kant
 
-Historical rubric does not automatically warrant bundled claims about doctrine, novelty and discontinuity.
+A grand history-of-philosophy rubric bundles claims about doctrine, novelty and discontinuity; local primary audit causes the historical binary to fail.
 
 ### 1907 `Entangling Alliance`
 
-Historical proposition type itself receives a different epistemic/probability address from universal truth claims; extraordinary historical events require stronger documentary warrant.
+Lovejoy explicitly partitions proposition type and epistemic burden; simultaneously he describes political orders as relative/temporal and opposes an unhistorical Indian type to the Occidental/Christian historical orientation.
 
 ### 1907 Toy / `Ethical Inwardness`
 
@@ -58,41 +100,44 @@ Specialist authority for relative chronology does not settle logical/development
 
 ### 1908–09
 
-Shared historical label does not allow proof/refutation to migrate among independent propositions; historical genealogy is locally audited and then judged under `antecedent probabilities`.
+A shared historical label does not permit evidentiary success/failure to migrate among independent propositions; historical genealogy is locally audited before cumulative judgment under `antecedent probabilities`.
 
-Thus 1906–09 increasingly supplies actor-explicit published versions of problems first made archivally visible in 004/005.
+Thus 1906–09 now provides a dense direct-primary sequence in which local relation, proposition type, historical scale and cumulative burden are repeatedly separated.
 
-## Evidence discipline
+## 5. Consequence for the JHI argument
 
-### Direct contemporary control
+The core thesis is strengthened but not transformed:
 
-Warfield 1912:
+> **The early notebooks matter as an archive of historical warrant, not because Buddhism secretly supplies a mature Lovejoy doctrine. Across philology, comparative religion and philosophy, Lovejoy repeatedly confronts the problem of when one kind of evidence can be upgraded into a stronger proposition. By 1907 that problem is no longer only reconstructable from his operations: he explicitly discusses the distinct epistemic status of historical propositions and the burden borne by improbable historical claims.**
 
-- article is directly controlled in JSTOR/Cambridge metadata and searchable full-text representation;
-- footnote 16: Lovejoy, *Hibbert Journal*, January 1907, pp.258–276, especially p.269;
-- footnote 39 again cites Lovejoy p.269 in Warfield's discussion of historical certainty;
-- Warfield's prose supplies extended quoted phrases rather than a one-line modern summary.
+The newly recovered political and India/Occident passages also sharpen the larger scale problem: different domains can be subject to different permissible reaggregations.
 
-### Still pending
+## 6. Evidence discipline
 
-MF-002 should remain active for printed pp.258–276, especially p.269, to recover:
+Direct primary now secure:
 
-- exact Lovejoy paragraph context;
-- distinction between strict `knowledge` and ordinary historical belief;
-- any qualification of the probability hierarchy;
-- exact relationship between documentary testimony, usual order / prior probability and religious truth.
+- article identity and full body;
+- universal/cosmic vs contingent historical proposition distinction;
+- limited access/verification of historical claims;
+- probabilistic status of remote particular events;
+- stronger burden for events contrary to ordinary experience;
+- politics characterized as practical/relative/temporal with nonuniform institutional applicability across societies;
+- Indian `unhistorical` religious type contrasted with the temper of the Occident.
 
-### Do not claim
+Still not secure from this article:
 
-- that notebook 004/005 consciously applies the 1907 epistemology;
-- that Warfield's hostile framing is identical with Lovejoy's own rhetorical emphasis;
-- that Lovejoy denies every meaningful sense of historical knowledge;
-- that `antecedent probability` here is modern Bayesian formalism.
+- exact 1906 `race` semantics;
+- a direct 1898 self-conscious theory of claim-relative warrant;
+- identification of the Indian type with Buddhism specifically;
+- a causal chain from early Indic studies to the mature history-of-ideas method.
 
-## Public controls
+## 7. Public controls
 
-- Warfield, JSTOR: https://www.jstor.org/stable/1507229
-- Warfield, Cambridge Core: https://www.cambridge.org/core/journals/harvard-theological-review/article/christless-christianity/288F7DB7F6B8539CAE392ECAC8F9FD0C
-- Readable Warfield transcription reproducing the relevant passage: https://www.monergism.com/christless-christianity?page=18
-- Lovejoy volume locator: https://onlinebooks.library.upenn.edu/webbin/serial?id=hibbertjnl
-- Lovejoy vol.5 Google Play: https://play.google.com/store/books/details/Lawrence_Pearsall_Jacks_The_Hibbert_Journal?id=m-5vRvyKK_EC
+- Lovejoy vol. 5 IA item: https://archive.org/details/hibbertjournal05londuoft
+- Lovejoy vol. 5 full OCR: https://archive.org/stream/hibbertjournal05londuoft/hibbertjournal05londuoft_djvu.txt
+- serial locator: https://onlinebooks.library.upenn.edu/webbin/serial?id=hibbertjnl
+- Warfield 1912 contemporary reception/control: https://www.jstor.org/stable/1507229
+
+## Resolution
+
+**MF-002 is resolved and should be removed from the manual queue.** Direct page images would now be publication-grade facsimile hygiene only; they are no longer required for the research claim.
