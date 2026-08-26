@@ -1,147 +1,219 @@
-# From Marillier's comparative method to Lovejoy's 005 and 1906 “Primitive Energetics”
+# From Marillier's comparative method to Lovejoy 005 and 1906 `Primitive Energetics`
 
-## Status
+Updated: 2026-08-26
+Status: **THEMATIC METHOD-ENVIRONMENT DOSSIER / ORIGINALITY ALLOCATION DEFERRED TO `005_Marillier_selector_alignment_consolidated.md`**
 
-This note records a methodological correction to the earlier 005 analyses. The first round of comparison tended to describe notebook `MS38_004_001_061_005` as showing Lovejoy independently developing a “mechanism-first” decomposition of ritual complexes. A broader reading of Léon Marillier's EPHE reports from the 1890s makes that formulation too strong.
+This note preserves the broader Marillier/EPHE methodological environment surrounding notebook `MS38_004_001_061_005`. It should no longer be used to decide whether `desert`, `half-moral`, serial determinant taxonomy, suicide-as-borderline-case logic, or moral superposition are Lovejoy-specific. Those questions are now closed more tightly in `research_notes/005_Marillier_selector_alignment_consolidated.md` using the complete Marillier 1893/94 primary and direct Söderblom 1901 control.
 
-**Revised judgment:** Marillier was already training students to distinguish outwardly similar rites by function/mechanism, to separate surviving ritual forms from the beliefs that originally generated them, to test general theories against monographic evidence, to detect missionary/imported layers, and to classify sacrifices by distinct causal/religious functions. Since Lovejoy is explicitly documented as an active participant in Marillier's 1898–1899 conferences, the analytic habit visible in 005 should be treated in significant part as a learned EPHE/Marillier practice. Lovejoy's distinctive move is more plausibly the later **abstraction and generalization** of that practice into a theory of causation and efficacy — the impersonal, transferable, quasi-mechanical energy theorized in 1906.
+## Core judgment
 
-This is not a claim that every analytic distinction in 005 derives from Marillier. It is a correction of evidential burden: before calling a given notebook distinction “Lovejoy's own,” it must now be checked against Marillier's published work and conference reports.
+Marillier's EPHE program already trained students to:
+
+- distinguish outwardly similar rites by function/mechanism;
+- separate surviving ritual forms from the beliefs that originally generated them;
+- test general theories against monographic evidence;
+- detect missionary/imported layers;
+- classify sacrifice by distinct causal/religious functions;
+- separate moral from non-moral selectors of post-mortem destiny;
+- recognize composite historical systems produced by later superposition.
+
+Lovejoy is explicitly documented as taking an active part in Marillier's 1898–99 conferences. Notebook 005 should therefore be treated in substantial part as work inside a learned EPHE/Marillier problem environment. The strongest Lovejoy delta is not the invention of the discriminanda or serial method. It lies in **his particular notebook redivision, dense repeated case reallocation, cross-domain portability, and later abstraction/reaggregation of one causal family into `Primitive Energetics`.**
 
 ---
 
-## 1. Marillier already practiced mechanism-sensitive decomposition before Lovejoy's documented attendance
+## 1. 1892–93: form can survive its original belief
 
-### 1892–1893: form can survive its original belief
+In the report on Oceanic taboo, Marillier says Melanesian religions were observed in dissolution and that institutions, rites and legends can survive the beliefs that gave birth to them.
 
-In the report on Oceanic taboo, Marillier states that Melanesian religions were already observed in a state of dissolution and that **institutions, rites and legends often survived the beliefs that had given birth to them**.
+Methodological consequence:
 
-This is methodologically important. It means that a present rite cannot simply be read as a transparent expression of its current explanation. Ritual form and generating belief can become historically detached.
+> a present rite is not a transparent expression of either its original cause or its current explanation.
 
-Notebook 005 repeatedly performs the same operation. The clearest example is the funerary destruction/burning of property (PDF p. 73): Lovejoy considers a practice that may begin as a way of preventing the dead from returning and later acquire a different explanation, namely that destruction releases or transfers the object's spirit to the dead. The notebook's later language of syncretism and reinterpretation therefore belongs to a methodological environment already explicit in Marillier's teaching.
+Notebook 005 repeatedly faces the same historical problem. Funerary destruction/burning of property, for example, can persist while its explanatory relation shifts; later sacrificial and magical sections likewise separate inherited forms from new rationalizations.
 
-### 1894–1897: distinguish mechanisms inside the same ceremonial complex
+This is a direct workshop precedent for treating a living religious object as historically composite.
 
-Marillier's marriage research repeatedly insists that rites appearing in one ceremony must be separated analytically. By 1896–1897 he says that rites establishing a religious/social union between spouses must be **carefully distinguished** from magical rites of purification and preservation, even though both occur in nuptial ceremonies. In the 1897–1898 report the distinction is expanded to include fecundating rites as a third mechanism.
+---
 
-The implication is exactly the rule that dominates 005: **co-presence in one rite does not prove common function or common origin**.
+## 2. 1894–98: mechanisms inside one ceremonial complex must be separated
+
+Marillier's marriage research repeatedly distinguishes rites co-present in the same ceremony. By 1896–97 he separates rites establishing religious/social union from magical rites of purification and preservation; by 1897–98 fecundating rites are added as another mechanism.
+
+The rule is:
+
+> **co-presence and outward similarity do not prove common function or common origin.**
 
 Notebook parallels include:
 
-- sacrifice that is funerary, expiatory, magical, fecundative, alimentary or sacramental despite similar outward killing/offering forms;
+- funerary, expiatory, magical, fecundating, alimentary and sacramental sacrifice;
 - first-fruit ceremonies that may be purification/taboo rather than sacrifice;
-- circumcision and initiation injuries that must not be inferred to be partial human sacrifice;
-- ceremonial cannibalism that may express sympathetic transfer, revenge, social regulation, or other mechanisms rather than sacramental communion;
+- circumcision/initiation injuries that need not be partial human sacrifice;
+- ceremonial cannibalism with several possible mechanisms;
 - shared blood or food that does not automatically establish mystical union.
 
-### 1895–1897: generalization must be tested against monographic cases
-
-Marillier's 1895 report says that new Australian research contradicted on several points Morgan, Fison and Howitt's theory of primitive communal marriage. In 1897 he describes the North American work explicitly as **verification, by monographic study of tribes, of general laws** drawn from earlier comparison.
-
-This is not simple accumulation of examples. The method is recursive: formulate a comparative generalization, test it against detailed cases, and revise it where necessary.
-
-Notebook 005 behaves similarly when Lovejoy tests and limits Robertson Smith/Frazer-like schemes, refuses a universal human-sacrifice → animal-substitution sequence, questions agriculture/domestication stadial assumptions, and treats apparently similar ethnographic cases as requiring separate historical explanations.
+The mechanism-sensitive grammar is therefore substantially EPHE/Marillier-shared.
 
 ---
 
-## 2. The 1897–1899 sacrifice courses supply the immediate classificatory template of 005
+## 3. 1895–98: general laws are tested against monographic cases
 
-Marillier's 1897 report does not merely announce “human sacrifice” as a topic. It divides the West-African material into **funerary, expiatory, anthropophagic and magical** sacrifice.
+Marillier's 1895 report notes Australian research contradicting aspects of Morgan/Fison/Howitt schemes. In 1897 he describes North-American work as verification, through monographic tribal study, of general laws drawn from comparison.
 
-The 1898–1899 course — in which Lovejoy is officially listed among the auditors who “took an active part in the work” — retains these types and makes the methodological operation explicit: **determine the reasons for the use of human victims in the different types of sacrifice**, by comparison across Bantu southern Africa, the Guinea coast, North American Indigenous peoples and non-Aryan India. It then adds parallel animal sacrifice, agrarian rites and fecundating sacrifice.
+This is recursive rather than merely accumulative:
 
-This is remarkably close to the architecture of 005 pp. 46–119. The notebook should therefore not be described as Lovejoy independently inventing functional classification of sacrifice. He is working inside a course whose stated task is already to determine distinct reasons/functions behind outwardly similar sacrificial practices.
+`comparative generalization`
+→ `detailed case control`
+→ `revision or restriction`.
 
-What 005 does show is intensive participation in that method: Lovejoy repeatedly pushes borderline cases through the classification, asks when apparent communion is really propitiation or provision, and records cases that refuse a clean type.
+Notebook 005 behaves similarly when it tests Robertson Smith/Frazer-like schemes, rejects automatic human-sacrifice→animal-substitution sequences, questions imported agriculture/domestication stadia, and separates apparently similar cases by mechanism.
 
----
-
-## 3. Source criticism and historical layering are also Marillier's method
-
-Marillier's flood-myth work explicitly identifies **biblical traditions imported by missionaries** as a source-critical problem. His later eschatology course similarly treats Christian interpolations in American myths.
-
-Notebook 005 uses the same rule in future-life material: missionary contact can introduce or intensify moralized eschatology, so reports from contact settings must be treated chronologically and provenance-critically. The notebook also separates Hindu/Buddhist influence from local eschatological structures.
-
-The implication is again methodological transmission rather than mere topical borrowing: ethnographic evidence is historically layered, and the observer must reconstruct which element belongs to which stratum.
+Lovejoy's use is intensive, but the epistemic norm is upstream.
 
 ---
 
-## 4. Marillier's 1899–1900 continuation shows that blood/efficacy and Frazer criticism were already inside the same research program
+## 4. 1897–99 sacrifice courses: immediate classificatory template
 
-The year after Lovejoy's documented active attendance, Marillier's report describes:
+Marillier's 1897 report divides West-African human sacrifice into funerary, expiatory, anthropophagic and magical forms.
 
-- agrarian sacrifices among non-Aryan Indian peoples, especially the Khonds;
-- the **magical and fecundating power of blood**;
+The 1898–99 course — the year in which Lovejoy is officially listed among auditors taking an active part — explicitly asks for the **reasons for the use of human victims in different types of sacrifice**, comparing Bantu southern Africa, the Guinea coast, North-American Indigenous peoples and non-Aryan India. It adds animal sacrifice, agrarian rites and fecundating sacrifice.
+
+This is closely aligned with 005 pp.46–119. Functional decomposition of sacrifice therefore cannot be described as Lovejoy's independent invention.
+
+The Lovejoy notebook delta is instead visible in the way borderline cases are repeatedly pushed through competing classifications and later linked to a more general causal-efficacy problem.
+
+---
+
+## 5. Source criticism and historical layering are Marillier practices
+
+Marillier's flood-myth research isolates biblical traditions imported by missionaries. His eschatology work treats Christian/Indic/Islamic interpolation and borrowing as source-critical problems.
+
+The complete `Survivance` primary now makes the operation direct:
+
+- new moral concepts can be borrowed and superadded to older beliefs;
+- older structures can persist inside transformed composite systems;
+- similar myths can recur with different `signification` and `portée`.
+
+Notebook 005's missionary/Hindu/Buddhist controls therefore belong to a directly upstream historical-provenance method rather than representing a Lovejoy add-on.
+
+---
+
+## 6. 1899–1900 continuation: blood, efficacy and Frazer criticism remain in the same program
+
+The year after Lovejoy's documented active attendance, Marillier's report includes:
+
+- agrarian sacrifices among non-Aryan Indian peoples, especially Khonds;
+- magical/fecundating power of blood;
 - expiatory sacrifices and expulsion of evils;
 - critical examination of Frazer's *Golden Bough*;
 - origin/nature of death and disease;
-- the amoral character of eschatology;
+- amoral eschatology;
 - Christian interpolations in American eschatological myths.
 
-Lovejoy is not listed among the active auditors for that year, so attendance must not be asserted. But the report shows that the exact cluster later prominent in 005 — blood as fecundating efficacy, agrarian sacrifice, expiation, Frazer criticism, source-critical eschatology — was a coherent continuation of Marillier's program, not an accidental collection of themes.
+Lovejoy is not documented as an active auditor that year, so attendance must not be asserted. The evidence instead shows that the cluster later visible in 005 forms a coherent continuation of Marillier's program.
 
-This matters especially for interpreting later inserted leaves in 005. They may represent Lovejoy's continued work in a Marillier-defined problem field even when direct classroom attendance is not documented.
-
----
-
-## 5. What now looks inherited, and what still looks potentially distinctive in Lovejoy
-
-### Strongly attributable to the Marillier/EPHE methodological environment
-
-1. **Function before form:** outwardly similar ceremonies can have different religious, magical, social or economic mechanisms.
-2. **Historical detachment of rite and belief:** institutions and rites can survive the beliefs that generated them and acquire new explanations.
-3. **Source criticism:** missionary/imported traditions must be separated from earlier local strata.
-4. **Testing general theories against monographs:** comparative laws are provisional and must survive detailed ethnographic cases.
-5. **Plural sacrifice taxonomy:** funerary, expiatory, anthropophagic, magical and fecundating mechanisms must be distinguished rather than collapsed into one origin.
-6. **Resistance to simple unilinear schemes:** the same form can emerge in different contexts and present complexes can combine historically distinct elements.
-
-### Plausible Lovejoy intensifications/extensions — still requiring direct Marillier-text control
-
-1. **Suicide as a clan-solidarity/social-injury mechanism** rather than intrinsically moral guilt (005 pp. 17–19). No direct Marillier parallel has yet been located.
-2. The formal sequence **naturalistic continuity → ritual/magical determinant → social/community determinant → half-moral differentiation → strictly moral desert**. Lovejoy appears to formalize the problem more sharply, but Marillier's full *Survivance* text must be checked before claiming originality.
-3. The systematic use of **quasi-mechanical** as an explanatory contrast to personal/sacramental action, crystallizing in 005 p. 105.
-4. The distinction between **spirit-inhabited fetish** and an object whose efficacy is intrinsic, and the erosion of a sharp natural/supernatural divide in pp. 88–90.
-5. Above all, the 1906 move from classifying particular rites to positing a general theory of **impersonal, diffused, transferable, controllable energy** as a fundamental category of early causal thought.
-
-The strongest current originality claim should therefore concern **abstraction**, not the initial act of decomposition.
+This is relevant for later inserted leaves: they may continue work in a Marillier-defined field without proving direct classroom transmission.
 
 ---
 
-## 6. Revised intellectual-development model
+## 7. Direct `Survivance` recovery: selector and moralization method is even more upstream than this note first allowed
 
-The earlier model risked reading 005 teleologically as the spontaneous birth of a mature Lovejoyan method. The evidence supports a more historically grounded sequence:
+The complete Marillier 1893/94 primary now directly controls:
 
-> **Marillier/EPHE comparative method**
-> → distinguish functions inside mixed ritual forms; separate surviving rite from generating belief; test general schemes; reconstruct historical layers
-> → **Lovejoy's 005 apprenticeship/workshop**
-> → intensive mechanism classification across survivance, sacrifice, blood, taboo, cannibalism, initiation and agriculture
-> → **c. 1900 conceptual abstraction**
-> → efficacy/power becomes itself the object of theory
-> → **1906 “Primitive Energetics” / manitouism**
+- rank, manner of death, rites, journey skill/strength, courage/cowardice, chance and divine arbitrariness as non-moral selectors;
+- moral differentiation keyed to the good/bad quality or moral value of conduct;
+- mixed ritual/moral `good/bad` cases;
+- later moralization not yet disentangled from contrary conceptions;
+- historical superposition;
+- same apparent form with different significance/scope.
 
-Lovejoy's 1906 paper explicitly says its conclusions were reached in 1900 and were much influenced by his studies under Léon Marillier. The primary institutional and notebook evidence now makes that acknowledgment analytically meaningful: the influence was plausibly not merely a list of ethnographic facts or a thesis about survivance, but a **way of decomposing comparative evidence by mechanism and historical stratum**.
+The older residual hypotheses in this file are therefore superseded:
 
----
+- suicide as clan/social mechanism now has Marillier 1901 and same-workshop controls;
+- the five-part determinant field is not Lovejoy-created;
+- `half-moral` has direct conceptual and Söderblom `quasi-moral` precedent;
+- `desert` is a Lovejoy-local word for an upstream criterion;
+- serial ordering itself is directly present in Söderblom 1901.
 
-## 7. Consequence for the broader history-of-ideas question
-
-The manuscript evidence should not yet be used to claim a straight line from Marillier to Lovejoy's mature “unit-idea” method. That would require later intermediate evidence.
-
-A narrower and stronger claim is available:
-
-> Before the 1906 *Monist* paper, Lovejoy had been trained in an EPHE comparative-religion practice that treated apparently unitary customs as historically composite and functionally heterogeneous. Notebook 005 shows him working inside that practice. His distinctive early contribution appears to be the abstraction of one recurrent causal mechanism — transferable, quasi-mechanical efficacy — into a general conceptual category.
-
-This formulation preserves Marillier's methodological priority while identifying a concrete Lovejoyan transformation that is directly supported by 005 and the 1906 article.
+Do not recover those claims from Git history as current verdicts.
 
 ---
 
-## Primary evidence to cite/check
+## 8. Söderblom: redivision is the correct actor-near category
 
-- Marillier, EPHE report 1892–1893: Oceanic taboo; institutions/rites/legends surviving the beliefs that generated them.
-- Marillier, EPHE report 1894–1895: critical classification of flood myths and imported biblical traditions; marriage rites requiring analytical distinction.
-- Marillier, EPHE report 1896–1897: religious union rites carefully distinguished from magical purification/preservation rites.
-- Marillier, EPHE report 1897–1898: monographic verification of general laws; distinction of union, magical purification/preservation and fecundating rites; funerary/expiatory/anthropophagic/magical sacrifices.
-- Marillier, EPHE report 1898–1899: Lovejoy named as active auditor; determination of reasons for human victims across sacrifice types; agrarian/fecundating comparison.
-- Marillier, EPHE report 1899–1900: magical/fecundating power of blood; expiation; critical Frazer; amoral eschatology and Christian interpolation.
-- `archive_transcriptions/MS38_004_001_061_005_*.json`.
-- Lovejoy, “The Fundamental Concept of the Primitive Philosophy,” *The Monist* 16.3 (1906), esp. pp. 359–362, 377–382.
+Söderblom 1901 explicitly says he follows Marillier's study `avec d’autres divisions et à un point de vue un peu différent`.
+
+He then serializes explanations of differentiated post-mortem destiny by:
+
+- chance/no relation to present life;
+- terrestrial condition, including tribe, wealth/status and natural gifts;
+- kinds of death;
+- funerary provision/rites;
+- later religious/moral qualification.
+
+He also uses `principes moraux ou quasi-moraux` and resists forced moralization of strength, wealth, childbirth, suicide, battle-death and funeral provision.
+
+This shows that **student redivision of a shared field was itself normal workshop research practice**.
+
+The safest category for Lovejoy is consequently:
+
+> shared problem/source field → **particular Lovejoy redivision and application**.
+
+---
+
+## 9. What remains documentary Lovejoy delta
+
+### A. Particular working arrangement
+
+Lovejoy's exact cut and adjacency are not identical to Marillier or Söderblom. This is an arrangement/application claim, not category ownership.
+
+### B. Dense repeated same-case reallocation
+
+Suicide is repeatedly moved among death-type, taboo/custom, ritual qualification, clan/social injury, exclusion, contact/later moralization and strict moral desert. The exact density of this same-case migration remains a strong notebook-level feature.
+
+### C. Cross-domain portability inside 005
+
+The relation-sensitive discipline migrates from eschatology into sacrifice, blood, cannibalism, charms, initiation, efficacy and agriculture.
+
+### D. 1906 reaggregation
+
+The strongest publication-level Lovejoy transformation remains the abstraction of impersonal, diffused, transferable and controllable efficacy into a general comparative causal category.
+
+The secure claim is therefore **redivision → portability → reaggregation**, not invention of mechanism-sensitive decomposition.
+
+---
+
+## 10. Revised intellectual-development model
+
+> **Marillier/EPHE comparative-religion environment**
+> → mechanisms separated inside common forms; survivals distinguished from generating beliefs; monographic tests applied to general schemes; source layers reconstructed; post-mortem selectors decomposed
+> → **same-workshop student redivision**
+> → Söderblom explicitly reorganizes Marillier with `d’autres divisions`
+> → **Lovejoy 005**
+> → another compact redivision, unusually dense repeated case reallocation, then migration of the diagnostic burden across domains
+> → **c.1900 / 1906 abstraction**
+> → efficacy/power becomes itself a comparative theoretical object.
+
+Lovejoy's 1906 paper says its conclusions were reached in 1900 and were much influenced by studies under Marillier. Institutional and notebook evidence now makes that acknowledgment analytically concrete without requiring verbatim classroom transmission.
+
+---
+
+## 11. Relation to the broader history-of-ideas question
+
+Do not draw a straight line from Marillier to Lovejoy's mature `unit-idea` method without intermediate evidence.
+
+The narrower secure claim is:
+
+> **Before 1906, Lovejoy worked in an EPHE comparative-religion environment that treated apparently unitary customs and beliefs as functionally heterogeneous, historically layered and open to redivision. Notebook 005 records a particular Lovejoy working arrangement of that shared field; the later theoretical delta lies especially in carrying the diagnostic practice across domains and reaggregating recurrent causal relations into a broader category.**
+
+This preserves the upstream methodological ecology while still locating a documentable Lovejoy transformation.
+
+## Canonical controls
+
+- `research_notes/005_Marillier_selector_alignment_consolidated.md`
+- `research_notes/005_boundary_controls_consolidated.md`
+- `research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md`
+- Marillier EPHE reports 1892–1900;
+- complete user-returned Marillier `Survivance` OCR;
+- Söderblom 1901 direct pp.33–47 control;
+- corrected `MS38_004_001_061_005` transcriptions;
+- Lovejoy 1906 `The Fundamental Concept of the Primitive Philosophy`.
