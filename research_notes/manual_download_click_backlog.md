@@ -5,7 +5,7 @@ Status: **ONLY LIVING MANUAL QUEUE**
 
 This file supersedes all older `manual_retrieval_queue*`, per-batch download packets, and checkpoint download lists. An older file marked `pending/open` does not reactivate a target if it is absent here.
 
-Operating rule: if a human browser click/download is materially faster than automated retrieval, record it here with exact object, minimum return, and evidentiary purpose. Resolved objects are removed from the active table and retained only below, in `research_notes/manual_primary_returns_2026-08-26.md`, or in Git history.
+Operating rule: if a human browser click/download is materially faster than automated retrieval, record it here with exact object, minimum return, and evidentiary purpose. Resolved objects are removed from the active table and retained below, in `research_notes/manual_primary_returns_2026-08-26.md`, a thematic dossier, or Git history.
 
 ## ACTIVE — direct download / browser click
 
@@ -22,6 +22,8 @@ Best current entry: NYPL catalogue for *The Bulletin of the Washington Universit
 **Download:** whole pp.81–102 if possible. Minimum useful capture: pp.81–86 + pp.98–102, preserving printed page numbers.
 
 **Resolves:** exact semantics of `race`; institutional-fit relativism vs developmental-capacity hierarchy vs racialized political capacity; relation of natural rights/general ends to historically differentiated application.
+
+**Already controlled around the object:** Lovejoy was explicitly **Managing Editor** of the Bulletin in the 1905 *Hatchet*; in the returned 1906 *Hatchet*, A. P. Winston is Managing Editor and Lovejoy remains on the Bulletin staff. A near-contemporary directory also gives Lovejoy as Washington University Association secretary, 1904–06. Publication position is therefore no longer the gap; the article text is.
 
 ---
 
@@ -49,42 +51,50 @@ JHU collection context: https://aspace.library.jhu.edu/repositories/3/resources/
 
 ---
 
-### MD-007 — N. W. Thomas, Marillier-era diploma product (1898)
+### MD-007 — N. W. Thomas 1898 diploma article — ARTICLE-INTERNAL OPERATOR ONLY
 
-**Priority:** P2 / same-teacher student control  
+**Priority:** P2 / near-contemporaneous student-product control  
 **Target:** Northcote Whitridge Thomas, `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *Revue de l'histoire des religions* 38 (1898), 295–347.
 
-**Object:** BSB/MDZ `bsb11864666`; URN `urn:nbn:de:bvb:12-bsb11864666-6`.
+**Object:** BSB/MDZ `bsb11864666`; URN `urn:nbn:de:bvb:12-bsb11864666-6`; DDB confirms the 1898 RHR volume is digitized by Bayerische Staatsbibliothek and public-domain/noncommercial-use accessible.
 
-**Download:** complete article, or at minimum all pages containing `survivance`, `origine`, `forme`, `sens`, `analogie`, `ressemblance`, `rite`, `totémisme`, `culte`, `emprunt`, `agraire`.
+**Important narrowing:** the same-teacher relation is **already secure** and must not be treated as pending. Thomas himself described Marillier's EPHE course in *Folklore* 7 (1896) as `work by the pupils, directed by the lecturer`: pupils wrote papers on specific questions, read them in class, received Marillier's comments, and discussed them collectively. He also described the diploma as a thesis on a `critical or historical question`. Independent biographical/EPHE controls place Thomas under Marillier and identify the Welsh animal-cult thesis as his diploma product.
 
-**Resolves:** what a same-teacher Marillier student product actually looks like in published practice. It is not evidence that Lovejoy read Thomas.
+**Remaining download/audit only:** inspect the 1898 article for `survivance`, `origine`, `forme`, `sens` / `signification`, `analogie`, `ressemblance`, `rite`, `totémisme`, `culte`, `emprunt`, diffusion/contact language, the conclusion, and any classificatory tables.
+
+**Resolves only:** whether the **1898 diploma product itself** already separates outward form, present meaning and historical origin or explicitly controls inference from survivance/analogy. The broader workshop/research-apparatus claim is already direct-primary controlled.
 
 ---
 
-### MD-009 — Archives nationales / EPHE Vth Section finding aid
+### MD-009 — Archives nationales / EPHE Vth Section — EXACT 1898–99 SCOLARITÉ COTE ONLY
 
 **Priority:** P3 / institutional provenance, not a core blocker  
-**Target:** complete finding aid `FRAN_IR_061445` for EPHE Vth Section archive `20190568/001–399`; priority student/scolarité range `20190568/185–368`.
+**Target:** Archives nationales instrument `FRAN_IR_061445` for EPHE Vth Section archive `20190568/001–399`.
 
-**Download/action:** obtain the finding-aid PDF/text and search `1898`, `1899`, `auditeurs`, `inscriptions`, `registres`, `élèves`, `scolarité`, `étrangers`, `Marillier`, `Lovejoy`, `Söderblom`.
+**Already resolved:** EPHE's own archive inventory independently confirms that `20190568/185–368` is precisely the Vth Section **archives de la scolarité**. The broad range therefore no longer needs verification.
 
-**Return:** exact article/cote/register only. Do not order broad cartons from this step.
+**Remaining action:** search the full instrument for `1898`, `1899`, `auditeurs`, `inscriptions`, `registres`, `élèves`, `scolarité`, `étrangers`, `Marillier`, `Lovejoy`, `Söderblom` and return only the exact article/cote/register covering Lovejoy's possible 1898–99 status.
 
-**Resolves:** narrows registration/attendance/student-administration objects for Lovejoy's 1898–99 EPHE status before any Archives nationales enquiry.
+The Archives nationales SIV instrument endpoint currently times out in machine access. Do not order broad cartons from this step.
+
+**Resolves only:** exact registration/attendance/student-administration object(s) for a later targeted enquiry. The existence and scope of the scolarité series are already secure.
 
 ---
 
-### MD-010 — Dahlmann 1897 reception packet — JRAS HALF ONLY
+### MD-010 — Dahlmann 1897 reception packet — JRAS TEXT/SIGNATURE ONLY
 
 **Priority:** P3 / controversy ecology only  
-**Still missing:** *Journal of the Royal Asiatic Society* 29.2 (1897), 407–410.
+**Still missing:** *Journal of the Royal Asiatic Society* 29.2 (April 1897), 407–410, DOI `10.1017/S0035869X00145927`.
 
-The *Wiener Zeitschrift für die Kunde des Morgenlandes* 11 (1897), 190–197 return is already incorporated in `research_notes/manual_primary_returns_2026-08-26.md` and must not be requested again.
+**Exact object independently controlled:** Cambridge Core and the JRAS front matter identify `Nirvāna: eine Studie zur Vorgeschichte des Buddhismus. By Joseph Dahlmann...`, pp.407–410. The contents/front matter shows no reviewer byline for the notice. Bayerische Staatsbibliothek/DDB also has the full 1897 JRAS volume, BSB `bsb11799352`, URN `urn:nbn:de:bvb:12-bsb11799352-6`; Google Books full-view volume `VXwuAAAAYAAJ` also maps the notice to p.407.
 
-**Download:** JRAS 407–410 only.
+**WZKM half resolved:** *Wiener Zeitschrift für die Kunde des Morgenlandes* 11 (1897), 190–197 is direct-primary recovered; its reviewer is L. v. Schroeder. Do not request it again.
 
-**Resolves:** completes the two-review reception ecology around Dahlmann; not evidence of Lovejoy access and not required for the 004 core argument.
+**Additional ecology control already known:** T. W. Rhys Davids later explicitly points readers to JRAS 1897 pp.407–410 while rejecting the stronger move from an older Sāṃkhya background to derivation of Buddhism as a whole. This constrains the likely controversy function of the notice but does **not** establish Rhys Davids as its author.
+
+**Download/audit:** JRAS pp.407–410 only, preserving any terminal initials/signature. Determine exact evaluative claims and reviewer attribution if the page itself supplies one.
+
+**Resolves only:** completion of the two-review Dahlmann reception ecology. It is not evidence of Lovejoy access and is not required for the 004 core argument.
 
 ---
 
