@@ -8,9 +8,12 @@ Purpose: record repository consolidation in a compact, recoverable form. Files l
 - Master research synthesis: `Quellenforschung_master_summary_2026-08-23.md`
 - Only living manual queue: `research_notes/manual_download_click_backlog.md`
 - Current JHI Blog full draft: `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md`
+- 004 proof architecture / manuscript-publication selection: `research_notes/004_proof_architecture_publication_selection_consolidated.md`
+- 004→005→1906 diagnostic/mechanism/reaggregation architecture: `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`
 - 005 selector/originality attribution: `research_notes/005_Marillier_selector_alignment_consolidated.md`
 - 005 shared Marillier/Söderblom/Lovejoy source apparatus: `research_notes/005_shared_source_apparatus_consolidated.md`
 - 005 Steinmetz/Mauss/Marillier controversy context: `research_notes/005_Steinmetz_Mauss_controversy_context.md`
+- 005 Steinmetz/Mauss/Marillier explanatory-level chain: `research_notes/005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`
 - 005 boundary controls: `research_notes/005_boundary_controls_consolidated.md`
 - 005 page-level Marillier concordance: `research_notes/MS38_004_001_061_005_pp001-030_vs_Marillier_Survivance.md`
 - 005 Marillier/EPHE method environment: `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md`
@@ -22,8 +25,11 @@ Purpose: record repository consolidation in a compact, recoverable form. Files l
 - First pass removed 23 superseded state/logistics/draft files.
 - Second thematic pass replaced 5 batch-specific analytical files with 2 consolidated dossiers.
 - Third thematic pass removed 11 additional 005 batch/process files and replaced their living functions with 3 canonical thematic dossiers; two older evidence-bearing thematic files were retained but their outdated verdicts were rewritten in place.
+- Fourth thematic pass replaced 7 Steinmetz/anthropophagy discovery and primary-resolution prose batches with 1 primary-controlled explanatory-level dossier.
+- Retrieval cleanup removed 5 obsolete deterministic-route / mirror-route files after all still-live targets were verified in the canonical manual queue.
+- Fifth thematic pass replaced 5 004 / 004→005→1906 analytical prose batches with 2 canonical dossiers while retaining their matrices.
 
-**Net active-tree reduction across the three passes: 34 files.**
+**Net active-tree reduction across these passes: 48 files.**
 
 This count excludes new structural/canonical files whose purpose is consolidation. It describes net reduction of the pre-cleanup working tree rather than total repository file count.
 
@@ -53,6 +59,11 @@ Their true unresolved targets have been carried into `research_notes/manual_down
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch158_saturation_and_remaining_evidence_audit.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch166_download_and_remote_reproduction_closure_plan.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch168_access_reroute_WDA_AN_Uppsala_WashU.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch145_primary_retrieval_endpoints_RHR34_Oldenberg1897.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch146_remaining_005_targets_deterministic_digital_routes.md`
+- `research_notes/primary_retrieval_endpoint_register_batch145.csv`
+- `research_notes/MS38_005_remaining_primary_digital_routes_batch146.csv`
+- `research_notes/remaining_primary_mirror_route_resolution_batch150.csv`
 
 Important carry-forward during merge:
 
@@ -60,6 +71,8 @@ Important carry-forward during merge:
 - Archives nationales EPHE finding-aid pass → MD-009;
 - Dahlmann JRAS 1897 review half → MD-010;
 - RAI MS99, WashU, Uppsala, and broad JHU staff-mediated actions preserved as `PA-###` parked archival actions rather than direct downloads.
+
+The removed 145/146/150 route files contained no uniquely live task after cleanup: Thomas remains in MD-007, while Marillier RHR25, `Religion`, Steinmetz, Marillier RHR34, Jacobi and Oldenberg are explicitly recorded as resolved in the living queue.
 
 ## Removed meta/audit batches
 
@@ -126,7 +139,21 @@ Removed as superseded after its unique evidence was checked against retained the
 
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch36_005_marillier_ephe_longue_duree_program_genealogy.md`
 
-Its living evidence is preserved in the updated `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md`, later primary Steinmetz controls, and the canonical selector/controversy dossiers. The exact `Endokannibalismus — Steinmetz` bridge is independently retained in later primary-resolution notes.
+Its living evidence is preserved in the updated `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md`, later primary Steinmetz controls, and the canonical selector/controversy dossiers.
+
+### 005 Steinmetz / anthropophagy explanatory levels — fourth pass
+
+Merged into `research_notes/005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`:
+
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch33_005_marillier_1896_source_packet_concordance.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch34_005_endokannibalismus_exact_title_bridge.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch35_005_steinmetz_method_and_lovejoy_transformation.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch41_005_steinmetz_mauss_endocannibalism_reclassification.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch147_Steinmetz_Endokannibalismus_primary_fulltext_resolution.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch148_RHR34_Marillier_Steinmetz_page_boundary_correction.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch149_Steinmetz_Mauss_Lovejoy_explanatory_level_shift.md`
+
+The canonical dossier preserves the exact `Endokannibalismus — Steinmetz` notebook entry, Steinmetz's complete pp.1–60 primary analysis, Mauss's `anthropophagie rituelle des parents` reclassification, direct Marillier pp.113–115, and the final distinction among local motive plurality, origin hierarchy, relational reclassification, anti-single-origin critique and Lovejoy's mechanism-level redistribution. `MS38_005_Steinmetz_Mauss_Lovejoy_explanatory_level_matrix_batch149.csv` remains active as a data product.
 
 ### 005 retained evidence files rewritten in place
 
@@ -136,6 +163,32 @@ These were **not deleted** because they carry unique granularity, but their old 
 - `research_notes/MS38_004_001_061_005_Marillier_method_to_Lovejoy.md` — retained as the broader 1889–1900 EPHE method-environment dossier.
 
 Both now defer conceptual priority to `005_Marillier_selector_alignment_consolidated.md`.
+
+### 004 proof architecture / manuscript-publication selection — fifth pass
+
+Merged into `research_notes/004_proof_architecture_publication_selection_consolidated.md`:
+
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch152_Oldenberg_1890_baseline_vs_1897_third_edition.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch154_two_gates_diagnosticity_and_genealogical_redundancy.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch155_004_manuscript_surplus_publication_evidentiary_compression.md`
+
+The canonical dossier now integrates the direct 1897 Oldenberg/Jacobi correction from Batch159, so no active file still treats the true third-edition pages as pending. It preserves the 1890 `Familienähnlichkeit` baseline, diagnostic specificity, independent genealogical warrant, proof-level partition, manuscript surplus and the observable publication gradient. Retained matrices:
+
+- `Oldenberg_1890_1897_Jacobi_edition_state_matrix_batch152.csv`;
+- `004_1898_1902_two_gate_inference_matrix_batch154.csv`;
+- `MS38_004_manuscript_publication_selection_matrix_batch155.csv`.
+
+### 004 → 005 → 1906 diagnostic/mechanism architecture — fifth pass
+
+Merged into `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`:
+
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch156_diagnosticity_to_mechanism_004_005_1906.md`
+- `research_notes/lovejoy_as_orientalist_web_sweep_batch157_mechanism_universalism_without_genealogical_monism.md`
+
+The canonical dossier preserves the shift in classification target from system-defining relation to causal bearer to cross-cutting comparative category, while adding the attribution firewall imposed by direct Oldenberg/Jacobi/Marillier controls. It also preserves the 1906 scale tension: historical pluralism can coexist with mechanism universalism, but Lovejoy's move to `more fundamental` / `most nearly ubiquitous` / `dominant preoccupation` is a genuine scope expansion explicitly marked by his own evidentiary qualifications. Retained matrices:
+
+- `004_005_1906_diagnostic_target_shift_matrix_batch156.csv`;
+- `005_1906_mechanism_genealogy_scope_matrix_batch157.csv`.
 
 ### 1909–1910 self-revision controls
 
