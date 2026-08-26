@@ -27,7 +27,7 @@ Purpose: record repository consolidation without reproducing the research argume
 - `research_notes/004_upadisesa_lexical_semantic_recomposition_consolidated.md`
 - `research_notes/lovejoy_as_orientalist_canonical_delta_batches42-47.md`
 
-### 005 / 1906
+### 005 / 1902 / 1906
 
 - `research_notes/005_Marillier_selector_alignment_consolidated.md`
 - `research_notes/005_shared_source_apparatus_consolidated.md`
@@ -35,6 +35,7 @@ Purpose: record repository consolidation without reproducing the research argume
 - `research_notes/005_Steinmetz_Mauss_Marillier_explanatory_level_consolidated.md`
 - `research_notes/005_boundary_controls_consolidated.md`
 - `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`
+- `research_notes/004_005_1902_1906_proof_warrant_architecture_consolidated.md`
 
 ### 1904
 
@@ -66,14 +67,15 @@ Purpose: record repository consolidation without reproducing the research argume
 
 The repository had reached **net −86 active-tree files** after the 004/AOS cleanup stage.
 
-Two subsequent consolidation groups changed the active tree by another net −9:
+Subsequent consolidation groups changed the active tree as follows:
 
 - Wilson 1982 Batches196–199: **6 staged prose files removed / 1 canonical dossier added = net −5**;
-- 1904 Batches188/191/192/193/194/195: **6 staged prose files removed / 2 canonical dossiers added = net −4**.
+- 1904 Batches188/191/192/193/194/195: **6 staged prose files removed / 2 canonical dossiers added = net −4**;
+- proof/warrant Batches68/69/70/72/73/74/75/76/77/78/79/80: **12 staged prose files removed / 1 canonical dossier added = net −11**.
 
 Therefore:
 
-> **Current cumulative net active-tree reduction: 95 files.**
+> **Current cumulative net active-tree reduction: 106 files.**
 
 This is a net structural count relative to the pre-cleanup working tree, not a raw deletion count.
 
@@ -109,7 +111,7 @@ Batches40/41 were replaced by `004_upadisesa_lexical_semantic_recomposition_cons
 
 Batch31 inference prose exited while its data concordance remained.
 
-### 004→005→1906 architecture
+### 004→005→1906 mechanism architecture
 
 Batches156–157 were absorbed into `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`, with matrices retained.
 
@@ -196,7 +198,47 @@ The canonical dossier carries the documented French print-reading ecology, Dupra
 - Batch189 `Some Eighteenth Century Evolutionists` remains because it is an independent full-primary non-religious proof-level control, not a duplicate of the two new 1904 dossiers.
 - Batch190 remains because St. Louis institutional identity/program evidence is a different object.
 
-## 7. Other explicit retained exceptions
+## 7. Proof/warrant consolidation: −95 → −106
+
+Created:
+
+- `research_notes/004_005_1902_1906_proof_warrant_architecture_consolidated.md`.
+
+Removed staged prose:
+
+- `lovejoy_as_orientalist_web_sweep_batch68_005_document_class_provenance_missionary_contamination_Marillier1888.md`;
+- `lovejoy_as_orientalist_web_sweep_batch69_005_source_criticism_not_enough_Jarvis_Keating_Brinton_Marshall_Breeks.md`;
+- `lovejoy_as_orientalist_web_sweep_batch70_005_evidence_partition_matrix_witness_class_mechanism_genealogy.md`;
+- `lovejoy_as_orientalist_web_sweep_batch72_005_Paris_proof_thresholds_Marillier_Hubert_Mauss_analogy_genealogy.md`;
+- `lovejoy_as_orientalist_web_sweep_batch73_004_proof_threshold_matrix_operator_migration_to_005.md`;
+- `lovejoy_as_orientalist_web_sweep_batch74_publication_chronology_004_Paris_005_Hubert_Mauss_1902.md`;
+- `lovejoy_as_orientalist_web_sweep_batch75_1902_Religion_Time_Process_proof_levels_affinity_transmission_recombination.md`;
+- `lovejoy_as_orientalist_web_sweep_batch76_1906_vera_causa_independent_evidence_and_cross_evidential_triangulation.md`;
+- `lovejoy_as_orientalist_web_sweep_batch77_1906_source_function_architecture_proposition_relative_reliability.md`;
+- `lovejoy_as_orientalist_web_sweep_batch78_1906_cross_regional_proof_asymmetry_grammar_independent_observers_and_source_attribution.md`;
+- `lovejoy_as_orientalist_web_sweep_batch79_005_to_1906_source_persistence_function_migration_and_bibliographic_reselection.md`;
+- `lovejoy_as_orientalist_web_sweep_batch80_005_to_1906_reproof_proposition_migration_custom_mechanism_to_independent_lexical_warrant.md`.
+
+Batch71 was deliberately **not** included because it is a JHU/Wilson archival-targeting object rather than another layer of the proof/warrant argument.
+
+The new canonical dossier preserves:
+
+- 005 reporter/contact/source weighting and the Keating/Jarvis/Brinton/Marshall-Breeks controls;
+- notebook-wide `witness → class → mechanism → genealogy` proof partition;
+- Marillier / Hubert–Mauss period controls and their evidence ceilings;
+- the Harvard→Paris chronology as an overlap zone rather than a clean handoff;
+- 1902 affinity-versus-transmission, logical-motive, recombination, survival and `warring categories` controls;
+- 1906 `vera causa`, first-stage linguistic proof and reciprocal corroboration;
+- proposition-relative source reliability inside McGee/Fletcher/M.V.P./Williams/Jones/Dorsey packets;
+- Jones and Hetherwick grammatical controls;
+- Codrington adverse evidence, Hetherwick volume miscitation and Hollis/Eliot attribution slip;
+- cross-regional triangulation under asymmetric evidence;
+- source-function migration/reselection from 005 to 1906;
+- proposition-level `reproof` of selected organs, fertility, fetish/charm, quasi-mechanical efficacy and reporter interpretation.
+
+Retained evidence/data layer includes the consolidated source-register/CSV files, clean manuscript transcriptions and direct primary objects. The consolidation removes only staged explanatory prose.
+
+## 8. Other explicit retained exceptions
 
 These older-looking files were inspected and deliberately retained because they carry unique evidence:
 
@@ -204,15 +246,16 @@ These older-looking files were inspected and deliberately retained because they 
 - the Batch06 edition-state object — 1933/1948 state question remains distinct;
 - `lovejoy_as_orientalist_web_sweep_batch16_deussen_woods_harvard_indic_network.md` — Woods institutional/archive network;
 - `lovejoy_as_orientalist_web_sweep_batch23_004_Garbe_Jacobi_Oldenberg_Lanman_controversy.md` — provenance microhistory / Rhys Davids attribution correction;
+- `lovejoy_as_orientalist_web_sweep_batch27_marillier_taboo_mana_french_primary_routes.md` — Marillier 1896 taboo / EPHE publication infrastructure and French-source ecology;
 - `lovejoy_as_orientalist_web_sweep_batch30_004_Warren_Senart_compositeness_problem.md` — Warren 1896 `piece of patchwork` Harvard-side primary control;
 - `lovejoy_as_orientalist_web_sweep_batch45_004_LaValleePoussin_1902_1913_parallel_problem_afterlife.md` — Poussin 1902–03 direct material;
+- `lovejoy_as_orientalist_web_sweep_batch71_JHU_MS0873_Wilson_transcriptions_and_MS0038_targeting.md` — archival-targeting/Wilson object, not proof-theory prose;
 - `lovejoy_as_orientalist_web_sweep_batch133_Levi_return_route_chronology_audit.md` — Vimy 9 Oct 1898 chronology correction;
-- `lovejoy_as_orientalist_web_sweep_batch27_marillier_taboo_mana_french_primary_routes.md` — Marillier 1896 taboo / EPHE publication infrastructure and French-source ecology;
 - `lovejoy_1898_post1981_buddhist_afterlife_memory_split_batch200.md` — independent post-1981 reception, not Wilson-stage prose.
 
 This exception list is intentional evidence that cleanup is content-based, not filename- or age-based.
 
-## 8. Restart rule for further cleanup
+## 9. Restart rule for further cleanup
 
 1. Inspect the actual content of a candidate file.
 2. Identify its unique propositions, source pages and data products.
