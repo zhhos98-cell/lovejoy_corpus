@@ -1,344 +1,263 @@
-# Batch 214 — Fletcher / La Flesche before Lovejoy 1906: formal authorship, collaborative field infrastructure, and provenance compression
+# Fletcher / La Flesche before Lovejoy 1906 — authorship, local scope, and provenance compression
 
 Date: 2026-08-26
-Status: synced / archival-provenance control
-Scope: continue Batch213's source-politics audit. The narrow question is whether Lovejoy's use of Alice C. Fletcher's Omaha evidence can be redescribed as the appropriation of Francis La Flesche's uncredited knowledge. Current evidence does **not** license that claim. What it does license is a more exact distinction between **formal publication authorship** and **collaborative knowledge-production provenance**.
+Status: **CANONICAL THEMATIC DOSSIER / FULL FLETCHER PRIMARY CONTROLLED**
+
+This dossier asks how Lovejoy's 1906 use of Alice C. Fletcher's Omaha evidence should be described politically and source-critically. The answer requires three levels to remain separate:
+
+1. **formal publication authorship**;
+2. **collaborative knowledge-production infrastructure**;
+3. **the scale at which the published evidence authorizes inference**.
+
+The user-returned complete Smithsonian Annual Report version of Fletcher's `A Study from the Omaha Tribe: The Import of the Totem`, pp.577–586, now closes the old article-level facsimile hold and materially strengthens the scale-control argument.
 
 ## Core result
 
-Alice C. Fletcher's 1896 paper on Siouan `will power` and her 1897/1898 `The Import of the Totem` are formally and contemporaneously attributed to Fletcher alone. Bibliographic records, the AAAS/Science publication record, the Smithsonian reprint catalogue, and contemporary scholarly notices all identify Fletcher as author. No current source identifies Francis La Flesche as coauthor of either paper.
+The evidence does **not** license the chain:
 
-At the same time, the archival provenance of the Omaha knowledge field is structurally collaborative. The National Anthropological Archives arranges the Fletcher/La Flesche papers jointly because of their close professional relationship and places the **majority of ethnographic material** in a third series explicitly titled `Papers relating to the anthropological research of Alice Fletcher and Francis La Flesche`. The collection chronology dates their collaboration from 1882–83. Library of Congress biographical control says Fletcher and La Flesche collected extensive Omaha data together between 1880 and 1910 and that La Flesche's reservation status, Omaha-language knowledge, and participation in Omaha rituals were invaluable to their research.
+`La Flesche formulated Fletcher's proposition → Fletcher erased him → Lovejoy repeats the erasure`.
 
-The correct source-politics model is therefore not:
+No current primary control establishes proposition-level hidden coauthorship of `The Import of the Totem` by Francis La Flesche.
 
-`La Flesche wrote Fletcher's proposition → Fletcher erased him → Lovejoy repeats erasure`.
+The defensible source chain is more complex:
 
-That chain is unproved.
+> **collaborative Omaha knowledge infrastructure → formally sole-authored Fletcher print object with an explicitly local evidentiary scope → Lovejoy claim-relative extraction from that print object → transregional reaggregation as `primitive philosophy`.**
 
-The defensible model is:
+Two distinct project terms are useful here:
 
-> **a long-running collaborative ethnographic infrastructure can be condensed into a legitimate sole-author print object; Lovejoy then cites and partitions that print object at the level of its named author, while the broader infrastructure of knowledge production disappears from the citation label.**
+- **provenance compression**: a broad collaborative knowledge infrastructure circulates through a narrower formally authored publication object;
+- **source-scope ceiling / receiver-controlled scale expansion**: Fletcher herself limits what the Omaha evidence can warrant, while Lovejoy later makes a broader comparative attribution.
 
-We can call this **provenance compression**.
-
-It is a documentary effect, not by itself a claim of plagiarism, hidden coauthorship, or intentional erasure.
+Neither term implies plagiarism or intentional erasure.
 
 ---
 
-## 1. `The Import of the Totem` is formally Fletcher's paper
+## 1. Formal print authorship — Fletcher is secure
 
-Multiple independent bibliographic controls agree.
+Independent contemporary and bibliographic controls agree that `The Import of the Totem` is Alice C. Fletcher's publication.
 
-### Smithsonian Libraries
+The Smithsonian Annual Report object itself is headed:
 
-The Smithsonian Collections Search record for the 1897 reprint gives:
+`A STUDY FROM THE OMAHA TRIBE: THE IMPORT OF THE TOTEM`
 
-- title: `Import of the totem`;
-- author: `Fletcher, Alice C.`;
-- physical extent: 12 pages;
-- date: 1897.
+and immediately gives:
 
-### Smithsonian Anthropological Society records
+`By ALICE C. Fletcher`.
 
-The NAA MS4821 finding aid describes:
-
-`Fletcher, Alice C. "The Import of the Totem; A Study from the Omaha Tribe." A paper read before the Section of Anthropology of the American Association for the Advancement of Science at the Detroit meeting, August, 1897.`
-
-The object is again attributed to Fletcher alone.
-
-### Science publication
-
-PubMed and OpenAlex identify the journal version:
-
-Alice C. Fletcher, `The Import of the Totem`, *Science* 7.166 (4 March 1898), 296–304, DOI 10.1126/science.7.166.296.
-
-Author field: `A C Fletcher` only.
-
-### Smithsonian Report
-
-The Smithsonian Annual Report table of contents gives `The Import of the Totem by Alice C. Fletcher`, starting p.577. The Smithsonian publication catalogue likewise lists `A Study of the Omaha Tribe: The Import of the Totem, by Alice C. Fletcher`.
-
-### Contemporary reception
-
-*Journal of American Folk-Lore* 11 (1898) calls it `Miss Fletcher's "The Import of the Totem"` and summarizes its sections as Fletcher's contribution. *Popular Science Monthly* likewise says `The Import of the Totem was the subject of a paper read by Miss Alice C. Fletcher` and summarizes the common-life thesis as her presentation.
+The same sole attribution is present in the Smithsonian table of contents and in the *Science* publication record. Contemporary notices in the *Journal of American Folk-Lore* and *Popular Science Monthly* likewise treat the paper and its `common life` / `will-power` / efficacy analysis as Fletcher's contribution.
 
 Status:
 
-`PRINT AUTHORSHIP — FLETCHER = SECURE`.
+- `PRINT AUTHORSHIP — FLETCHER = SECURE`;
+- `PRINT COAUTHORSHIP — LA FLESCHE = NOT ESTABLISHED`.
 
-`PRINT COAUTHORSHIP — LA FLESCHE = NO EVIDENCE / WITHHOLD`.
-
-Primary/public controls:
-
-- Smithsonian Collections Search, `Import of the totem`: https://collections.si.edu/search/results.htm?q=%22Fletcher%2C+Alice+C.+%28Alice+Cunningham%29%2C+1838-1923%22
-- PubMed, `The Import of the Totem`: https://pubmed.ncbi.nlm.nih.gov/17730441/
-- *Journal of American Folk-Lore* contemporary notice: https://en.wikisource.org/wiki/Journal_of_American_Folk-Lore/Volume_11/Issue_41/Record_of_American_Folk-Lore
-- *Popular Science Monthly* contemporary notice: https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_52/December_1897/Fragments_of_Science
+The earlier `Notes on Certain Beliefs Concerning Will Power Among the Siouan Tribes` is likewise formally Fletcher's publication. This matters because Lovejoy's 1906 criticism of `will-power` is directed at a proposition circulating under Fletcher's name.
 
 ---
 
-## 2. The 1896 `will power` paper is likewise Fletcher's formal publication
+## 2. The complete article now gives an explicit source-scope ceiling
 
-The immediate precursor is also securely sole-authored in the printed record.
+The full primary materially changes the source-politics analysis because Fletcher herself states the scale limit of the paper.
 
-Alice C. Fletcher, `Notes on Certain Beliefs Concerning Will Power Among the Siouan Tribes`, *Science* 5.113 (26 February 1897), 331–334; paper originally associated with the AAAS Buffalo meeting of 1896.
+She says the study will set out, first, what the Omaha believed concerning their totems and, second, what those totems stood for in Omaha tribal structure. She then states explicitly:
 
-PubMed and Smithsonian catalogues list Alice C. Fletcher as sole author.
+> `There will be no attempt in this paper to treat the subject of totems in a world sense.`
 
-This matters because Lovejoy's criticism of Fletcher in 1906 is precisely that the `will-power` interpretation is too narrow. The interpretive position he receives and then corrects is therefore formally a Fletcher-authored proposition in the literature available to him.
+She grounds that refusal in the experience of `many years of research within a limited area`. Close and careful studies of tribes and races across both hemispheres are, in her view, still too few to support a final summing-up of common features and divergences.
 
-Status:
+This is stronger than a modern reconstruction of localism. It is an **actor-stated evidentiary boundary**.
 
-`WILL-POWER PRINT VERDICT = FLETCHER-OWNED`.
+Therefore:
 
-Source controls:
+`Omaha first-hand evidence`
+→ `Fletcher explicitly withholds world-scale generalization`.
 
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/17788163/
-- Smithsonian Collections Search record for `Notes on certain beliefs concerning will power among the Siouan tribes`.
+When Lovejoy later extracts propositions from the Omaha case and incorporates them into a transregional account of `primitive philosophy / savage thought`, the broader scale is not simply inherited from Fletcher's own declared argument. It is produced by the receiver/comparativist.
+
+This upgrades the project formula:
+
+> **author-controlled local scope → receiver-controlled scale expansion.**
+
+The same formula already proved useful for William Jones, but the provenance structures differ sharply between the Jones and Fletcher cases.
 
 ---
 
-## 3. But the Omaha research infrastructure was jointly produced
+## 3. Fletcher's article also states a first-hand reconstruction method
 
-Formal authorship does not exhaust source provenance.
+The returned primary gives unusually explicit methodological language.
 
-The NAA finding aid for MS4558 is unusually useful because the archive's own organization distinguishes three layers:
+Fletcher describes the difficulty of adjusting the investigator's own `mental attitude` and preventing the investigator's `mental atmosphere` from distorting Indian thought. Because the implications of the totem are embedded in ordinary life and are not necessarily available to detached objective explanation, she says the investigator often must proceed indirectly.
 
-1. `Alice Cunningham Fletcher papers`;
-2. `Francis La Flesche papers`;
+Her evidentiary route includes:
+
+- contradictions that must be sifted;
+- small and apparently unconscious acts and sayings;
+- songs;
+- rituals;
+- ceremonies;
+- linguistic analysis and Omaha terminology;
+- observation of tribal and gentile structure.
+
+This means the circulated print object does not present itself as a free-floating theory imposed on sparse data. It explicitly claims a slow, local, first-hand reconstruction of a specific knowledge field.
+
+That makes Lovejoy's later abstraction especially analytically visible:
+
+`high-resolution local reconstruction`
+→ `claim extraction`
+→ `portable causal mechanism`
+→ `transregional category`.
+
+---
+
+## 4. The Omaha knowledge infrastructure was nevertheless collaborative
+
+Formal authorship does not exhaust knowledge provenance.
+
+The National Anthropological Archives organizes the Fletcher/La Flesche holdings in a way that directly distinguishes:
+
+1. Alice Cunningham Fletcher papers;
+2. Francis La Flesche papers;
 3. `Papers relating to the anthropological research of Alice Fletcher and Francis La Flesche`.
 
-The finding aid says the third section holds the **majority of the ethnographic material** in the collection. Within it, Omaha material includes field notes, informant notes, language materials, social practices, myth and general ethnography.
+The finding aid places the majority of ethnographic material in the joint research series and dates their collaboration from the early 1880s. The Omaha materials include field notes, language materials, informant material, social practices, myth and general ethnography.
 
-The collection chronology dates Fletcher and La Flesche's collaboration from 1882–83, when they began work on Peabody Museum collections of Omaha and Sioux artifacts. There is also a dedicated subseries of correspondence between them beginning in 1895.
+Library of Congress biographical control likewise characterizes Francis La Flesche as an Omaha scholar/interpreter/collector whose reservation background, Omaha-language knowledge and participation in rituals were invaluable to the research carried out with Fletcher.
 
-This makes the research ecology directly archival rather than retrospectively inferred.
+Therefore:
 
-Source:
+`JOINT / COLLABORATIVE OMAHA RESEARCH INFRASTRUCTURE = SECURE`.
 
-- Smithsonian SOVA, `MS 4558 Alice Cunningham Fletcher and Francis La Flesche papers`: https://sova.si.edu/record/naa.ms4558
-
-Role code:
-
-`JOINT ETHNOGRAPHIC INFRASTRUCTURE = SECURE`.
-
-It does not yet tell us who generated any one sentence in Fletcher's 1897 text.
+But this does not identify the sentence-level author of a particular proposition in Fletcher's 1897/98 paper.
 
 ---
 
-## 4. La Flesche's epistemic role in Omaha research was substantive, not merely clerical
+## 5. A pre-1900 credit control shows that La Flesche could be named
 
-Library of Congress biographical material gives a useful pre-1910 characterization.
+The 1893 *A Study of Omaha Indian Music* provides an important control because the same publication ecology could explicitly register Francis La Flesche's contribution. Catalogue records describe the work as having additional reports by La Flesche and John Comfort Fillmore or as Fletcher `aided by Francis La Flesche`.
 
-Francis La Flesche was the son of Omaha chief Joseph La Flesche, grew up on the Omaha Reservation, participated in Omaha ceremonies, worked as an interpreter/research assistant for James Owen Dorsey, and later collaborated extensively with Fletcher. The LOC account says that between 1880 and 1910 Fletcher and La Flesche collected extensive data on the Omaha and that La Flesche's reservation status, language knowledge, and early participation in tribal ritual were **invaluable** to their research.
+Thus the documentary fact that `The Import of the Totem` appears under Fletcher's sole name is meaningful. It cannot simply be explained by a system structurally incapable of crediting La Flesche.
 
-It also notes that La Flesche worked closely with John Comfort Fillmore on the 1893 Omaha music project, checking transcriptions and accompanying fieldwork.
+At the same time, absence of his name from the title line does not prove that none of the research infrastructure or source knowledge behind the paper involved him.
 
-This warrants coding La Flesche as more than `informant` or `assistant` in the general research chain:
+The necessary distinction remains:
 
-`OMAHA SCHOLAR / INTERPRETER / COLLECTOR / COLLABORATIVE ETHNOGRAPHER`.
-
-Again, this does **not** establish proposition-level authorship of `common life` in 1897.
-
-Source:
-
-- Library of Congress biography, Francis La Flesche: https://www.loc.gov/item/n50041742/francis-la-flesche-1857-1932/
+- formal authorship = Fletcher;
+- collaborative ethnographic infrastructure = secure;
+- proposition-level La Flesche authorship = withhold unless direct evidence appears.
 
 ---
 
-## 5. A pre-1900 authorship control: 1893 could explicitly mark La Flesche's contribution
+## 6. Article-level attribution check — old HOLD C is now closed
 
-The 1893 *A Study of Omaha Indian Music* is an especially useful control because it shows that this publication ecology could register differentiated contribution.
+The earlier dossier left open whether Fletcher's full article would name Francis La Flesche, Dorsey or particular Omaha interlocutors in the relevant conceptual passages.
 
-The Sibley Music Library catalogue records:
+The complete returned article has now been searched at the article level. The central methodological and theoretical passages inspected do **not** produce a secure article-level La Flesche or Dorsey attribution for the `common life` / totemic-efficacy propositions.
 
-`A Study of Omaha Indian Music. With additional reports by Francis La Flesche and John Comfort Fillmore.`
+The article does, however, retain dense Omaha-language evidence and repeatedly derives interpretation from the people's words, practices, ritual forms and social organization.
 
-A later Smithsonian bibliographic note describes the same work as:
+Accordingly:
 
-`Alice C. Fletcher, aided by Francis La Flesche`, with a separate report on musical structure by John Comfort Fillmore.
+- the old `recover full article before making an article-level claim` instruction is **resolved**;
+- there is still no basis for assigning the relevant proposition to La Flesche sentence by sentence;
+- the broader collaborative infrastructure remains historically important even where the circulating article compresses it into Fletcher's authorship label.
 
-Thus La Flesche's contribution could be made visible in a Fletcher-led publication before `The Import of the Totem` appeared.
-
-This does not mean absence of his name in 1897 proves zero contribution. It does make the following distinction stronger:
-
-`1897 FORMAL SOLE AUTHORSHIP = meaningful documentary fact`
-
-rather than an accidental result of a publication system structurally incapable of crediting La Flesche.
-
-Sources:
-
-- Sibley Music Library, Arthur Farwell Collection: https://www.esm.rochester.edu/sibley/specialcollections/findingaids/afarwell/ser4-6/
-- Smithsonian Bulletin bibliographic note on the 1893 Omaha music work.
+This is precisely the kind of documentary asymmetry captured by **provenance compression**.
 
 ---
 
-## 6. Contemporary readers also treated the common-life thesis as Fletcher's
+## 7. Lovejoy's 1906 operation: print-author citation + proposition partition + scale jump
 
-The contemporary *Popular Science Monthly* notice is important because it is not merely a modern catalogue enforcing title-page authorship.
+Existing direct control of Lovejoy 1906 shows that he treats Fletcher as the specialist authority and partitions her proposition packet.
 
-It says that Fletcher's paper explains the efficacy of the Omaha totem through a belief in continuity of life linking visible/invisible, living/dead, part/whole and all things. The notice attributes this explanatory packet to Fletcher.
+He retains:
 
-The *Journal of American Folk-Lore* notice likewise inventories `The Common Life`, `Will-Power`, `Basis of Efficacy`, and `Linguistic Evidence` as topics in `Miss Fletcher's` contribution.
+1. the idea that animate and inanimate things are permeated by a common life;
+2. the communicability / transferability of that efficacy.
 
-Therefore the actor-near print field saw:
+He corrects the narrowing toward `will-power`, because efficacy can attach to natural forces and objects that do not fit a simple model of individual volition.
 
-`common-life / will-power / efficacy analysis`
-→ `Fletcher publication`.
+The operation can be represented as:
 
-This is the provenance Lovejoy himself encountered unless unpublished evidence demonstrates otherwise.
-
-Sources:
-
-- *Popular Science Monthly*, December 1897 notice.
-- *Journal of American Folk-Lore* 11 (1898) `Record of American Folk-Lore`.
-
----
-
-## 7. Lovejoy follows print authorship, then decomposes Fletcher's proposition packet
-
-Batch77 directly controlled Lovejoy's 1906 use of Fletcher.
-
-Lovejoy calls Fletcher's Omaha work valuable and retains two propositions:
-
-1. animate and inanimate things are permeated by a common life;
-2. this life is communicable / transferable.
-
-But he rejects or corrects Fletcher's narrowing of the operative principle toward `will-power`, because the same efficacy applies to objects and natural forces that cannot readily be reduced to individual volition.
-
-Thus Lovejoy's citation operation is:
-
-`Fletcher print object`
-→ `field/use structure: RETAIN`
+`Fletcher local Omaha print object`
 → `common life / communicability: RETAIN`
-→ `will-power interpretation: CORRECT / TOO NARROW`
-→ `primitive energetics`.
+→ `will-power: CORRECT AS TOO NARROW`
+→ `portable efficacy mechanism`
+→ `primitive philosophy / savage thought`.
 
-At no point does his citation label restore the broader Fletcher–La Flesche research infrastructure. This is unsurprising under normal scholarly citation practice; nonetheless, for our documentary history the compression is analytically consequential.
+Two changes happen simultaneously:
 
-Existing direct control:
+### Provenance change
 
-`research_notes/lovejoy_as_orientalist_web_sweep_batch77_1906_source_function_architecture_proposition_relative_reliability.md`.
+The collaborative field ecology disappears behind the normal scholarly citation label `Fletcher`.
 
----
+### Scale change
 
-## 8. `Provenance compression` is the correct current term
+Fletcher's own explicit `not in a world sense` boundary is outrun by Lovejoy's comparative reattribution.
 
-The source chain can now be represented at four levels.
-
-### Level 1 — knowledge-production ecology
-
-`Fletcher + La Flesche + Omaha interlocutors + language/ritual knowledge + field materials`.
-
-### Level 2 — publication object
-
-`Alice C. Fletcher, sole named author of 1896/1897 theoretical papers`.
-
-### Level 3 — Lovejoy citation object
-
-`Fletcher = specialist authority on Omaha common life / will-power / totemic efficacy`.
-
-### Level 4 — Lovejoy proposition extraction
-
-`common life + communicability`
-→ incorporated;
-
-`will-power`
-→ corrected;
-
-→ transregional `primitive energetics`.
-
-The movement from Level 1 to Level 2 is what can safely be called **provenance compression**:
-
-> **a wider collaborative research infrastructure becomes represented in circulation by a narrower formally authored publication object.**
-
-This term describes documentary visibility. It does not decide credit justice or hidden authorship.
+These changes should not be collapsed into one generic story of Indigenous erasure. They are analytically separable documentary operations.
 
 ---
 
-## 9. What remains HOLD
+## 8. Jones and Fletcher now form a sharper pair
+
+### William Jones
+
+`Indigenous professional scholar-authored local analysis`
+→ Lovejoy names and cites Jones
+→ local semantic evidence becomes proof within a broader comparative category.
+
+Principal problem:
+
+**receiver control of scale**.
+
+### Fletcher / La Flesche / Omaha knowledge
+
+`collaborative Omaha research infrastructure`
+→ formally Fletcher-authored theoretical print object
+→ Fletcher herself declares a local evidentiary ceiling
+→ Lovejoy cites Fletcher, partitions propositions and reaggregates them transregionally.
+
+Principal problems:
+
+**provenance compression + receiver control of scale**.
+
+The two cases therefore show that `source politics` has more than one architecture.
+
+---
+
+## 9. Current HOLDs
 
 ### HOLD A — Did La Flesche formulate the specific `common life` proposition before Fletcher's 1897 paper?
 
-Current web-accessible archival controls do not establish this.
+Not established.
 
-### HOLD B — Did La Flesche edit, draft, translate, or materially supply the relevant passages of `The Import of the Totem`?
+### HOLD B — Did La Flesche draft, translate, edit or materially supply the relevant sentences in `The Import of the Totem`?
 
 Not established.
 
-### HOLD C — Did Fletcher explicitly acknowledge particular Omaha interlocutors for these conceptual claims inside the full paper?
+### HOLD C — Was Lovejoy personally aware of the full Fletcher–La Flesche collaboration when he used Fletcher in 1906?
 
-The paper's full facsimile should be checked page by page before making a claim about absence/presence of acknowledgments.
+Not established.
 
-### HOLD D — Was Lovejoy aware of Fletcher's collaboration with La Flesche when reading the 1897 paper?
+These are now archival proposition-level questions, not reasons to keep the public-download queue open.
 
-No direct evidence yet.
-
-The archive gives a concrete future route: MS4558 subseries 1.4 (Fletcher–La Flesche correspondence, 1895–1922), 1.5 (Fletcher publications), 3.21 (Omaha field/informant/language materials), especially material around 1896–98.
+If future authenticated archive access becomes available, the precise routes remain MS4558 Fletcher–La Flesche correspondence/publication/field-material series around 1896–98. Do not order broad speculative scans merely to inflate the claim.
 
 ---
 
-## 10. Historiographic consequence: source politics must separate credit from infrastructure
+## 10. Strong article-level formulation
 
-The Jones and Fletcher cases now form a useful pair.
+> **The evidentiary politics of Lovejoy's 1906 `primitive philosophy` cannot be reduced to a contrast between Western theorists and silent Indigenous informants. His North-American proof drew on differently mediated forms of Native knowledge. William Jones entered the literature as an Indigenous professional scholar whose locally bounded analysis Lovejoy explicitly used as high-resolution evidence; the problem there is the receiver's control of scale. Omaha evidence reached Lovejoy through Alice Fletcher's formally sole-authored paper, but behind that print object lay a long collaborative research infrastructure involving Francis La Flesche and Omaha linguistic and ritual knowledge. The recovered full article adds a further boundary: Fletcher explicitly refuses to treat totemism `in a world sense`, grounding her argument in years of research `within a limited area`. Lovejoy's later extraction of Omaha propositions into a transregional `primitive philosophy` therefore involves two distinct documentary transformations: provenance compression at the level of publication/citation and receiver-controlled scale expansion at the level of comparative inference.**
 
-### Jones
+## Saturation rule
 
-`Indigenous scholar-authored local analysis`
-→ named and cited by Lovejoy
-→ source scope retained as evidence but outrun in comparative extension.
+The public article-level Fletcher control is closed. Do not reopen generic searching for La Flesche's hidden coauthorship or additional catalogue confirmation.
 
-Problem:
+Reopen only if a genuinely new archival primary gives proposition-level evidence for:
 
-**scale control**.
+- La Flesche drafting/formulation;
+- named Omaha interlocutor transmission into the exact relevant passage;
+- Lovejoy's documented awareness of the collaboration;
+- a direct alteration of the article's local-scope boundary.
 
-### Fletcher / La Flesche
-
-`collaborative Omaha knowledge infrastructure`
-→ sole-author Fletcher theoretical print object
-→ Lovejoy cites Fletcher and partitions propositions.
-
-Problem:
-
-**provenance visibility**.
-
-These are different political-epistemic mechanisms.
-
-A single formula such as `Native voices were erased` would lose the distinction. The stronger project vocabulary is now:
-
-- `scope sovereignty / receiver scale strengthening` for Jones;
-- `provenance compression` for Fletcher/La Flesche;
-- `collective reattribution` for Lovejoy's final `primitive philosophy` category.
-
-The full chain can therefore be:
-
-`heterogeneous/local knowledge production`
-→ `publication attribution`
-→ `claim-relative source partition`
-→ `portable causal mechanism`
-→ `transregional comparison`
-→ `collective actor reattribution`.
-
-Each arrow has its own evidentiary and political question.
-
----
-
-## 11. Strong article-level formulation
-
-> **The evidentiary politics of Lovejoy's 1906 `primitive philosophy` cannot be reduced to a contrast between Western theorists and silent Indigenous informants. His North-American proof drew on differently mediated forms of Native knowledge. William Jones entered the literature as an Indigenous professional scholar whose locally bounded analysis Lovejoy explicitly used as high-resolution evidence; the problem there is the receiver's control of scale. Omaha evidence reached Lovejoy differently. `The Import of the Totem` and the earlier `will-power` paper were formally and contemporaneously Alice Fletcher's publications, and Lovejoy treated Fletcher as the authority. Yet the archival infrastructure behind Omaha ethnography was deeply collaborative with Francis La Flesche, whose linguistic and ritual knowledge was central to decades of joint research. Here the issue is not demonstrated hidden coauthorship but provenance compression: a broad collaborative knowledge ecology circulated through a narrower, legitimately sole-authored print object.**
-
----
-
-## 12. Next test
-
-The most valuable next move is to ask whether the distinction between **print authorship** and **knowledge infrastructure** is visible *inside Fletcher's own text*.
-
-Target controls:
-
-1. recover a full searchable/facsimile copy of `The Import of the Totem`, pp.577–586 / Science pp.296–304;
-2. record all first-person markers (`I`, `we`), source attributions, named Omaha interlocutors, native-language explanations and footnotes;
-3. compare them with the 1896 `Will Power` paper;
-4. search MS4558 subseries 1.4 / 1.5 / 3.21 for 1896–98 drafts, correspondence and Omaha notes if digital facsimiles become accessible.
-
-Until that control is complete, keep proposition-level La Flesche attribution on HOLD.
+Otherwise the current source-politics model is stable.
