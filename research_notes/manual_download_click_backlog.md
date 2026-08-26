@@ -69,6 +69,29 @@ Status: `OPEN / ARCHIVAL-INDEX`.
 
 ---
 
+### MD-006 — Original notebook page-images for literal reclassification / correction audit
+
+**Target files:** `MS38_004_001_061_005.pdf` and, secondarily, `MS38_004_001_061_004.pdf` from the JHU/backend archive already used to make the repository transcriptions.
+
+JHU collection context: https://aspace.library.jhu.edu/repositories/3/resources/54
+
+**Highest-priority 005 page-images:** PDF pp.16–20 and pp.24–27.
+
+- pp.16–20: suicide / manner-of-death → custom/taboo → clan solidarity → later moral punishment → `half-moral` / desert sequence.
+- pp.24–27: stages/types of afterlife, special destinations/status, trial machinery, river/bridge/thread motifs, later ethical reshaping.
+
+**Highest-priority 004 image:** the page containing the `viññāṇa` note where it is `temporally (?) antecedent` to `nāmarūpa` while `logically a subdivision`; ideally include one page before/after.
+
+**What to inspect/return:** screenshots or page exports preserving margins and all handwriting. We specifically need visible material features: crossings-out, overwritten words, arrows, marginal insertions, alternate headings, question marks, numbering changes, interlinear additions, or spatial re-grouping.
+
+**Why:** the clean JSON proves serial **conceptual reclassification**, but it normalizes away pen-level revision. Batch218 gives a published 1909→1910 category-fission event. These page-images can test whether 004/005 preserve a literal notebook analogue where a category is visibly revised on paper rather than merely treated differently on successive pages.
+
+**Minimum return:** 005 pp.16–20 alone is enough for the first material audit; add pp.24–27 and the 004 page when convenient.
+
+Status: `OPEN / PRIMARY-MATERIAL-HIGH-PRIORITY`.
+
+---
+
 ## OPEN — useful but lower priority
 
 ### MD-004 — Fletcher, `The Import of the Totem` (1897/98), independent article/offprint
