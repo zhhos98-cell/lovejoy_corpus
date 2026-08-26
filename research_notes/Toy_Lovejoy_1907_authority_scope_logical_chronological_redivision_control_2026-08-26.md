@@ -1,7 +1,7 @@
 # Toy → Lovejoy 1907 — authority scope, chronology, and logical redivision
 
 Date: 2026-08-26
-Status: **DIRECT LOVEJOY PRIMARY / AMERICAN TEACHER-CONTINUITY CONTROL / 005 UPTAKE FIREWALL ACTIVE**
+Status: **DIRECT LOVEJOY PRIMARY / DIRECT TOY 1899 PRIMARY / AMERICAN TEACHER-CONTINUITY CONTROL / 005 UPTAKE FIREWALL ACTIVE**
 
 ## Core result
 
@@ -84,40 +84,70 @@ Safe longitudinal claim:
 
 Do not write that Toy supplied the 004/005 proof architecture or that Lovejoy consciously generalized a method learned from Toy.
 
-## IV. Toy 1899 problem-field control: relevant but not a direct uptake edge
+## IV. Toy 1899 problem-field control — full bodies now directly collated
 
 Crawford H. Toy published two unusually relevant pieces in *Journal of the American Oriental Society* 20 (1899):
 
 - `Taboo and Morality`, pp.151–156;
 - `Relation between Magic and Religion`, pp.327–331.
 
-Their existence, titles, authorship, pagination and public-domain JSTOR/Google Books records are direct bibliographic primary evidence. `Relation between Magic and Religion` also has a directly exposed JSTOR reference apparatus including Frazer, Spencer, J. H. King's *The Supernatural*, Spencer and Gillen, Jastrow and Tiele.
+Both full article bodies are now directly recovered from public-domain Internet Archive scans/OCR and controlled in `research_notes/Toy_1899_taboo_morality_magic_religion_primary_control_2026-08-26.md`.
 
-These articles sit almost exactly in the problem-space traversed by 005: taboo versus moral interpretation; magic versus religion; comparative classification of early religious practices.
+The earlier `title-only thematic adjacency` ceiling is therefore retired.
 
-However, current repository-wide code search has **not recovered an explicit Toy citation in notebook 005**. This is a bounded search result, not proof that Lovejoy never read the papers.
+### Direct 1899 operators now secure
+
+`Taboo and Morality` explicitly separates:
+
+- antecedent presence from active causal contribution: in a complex antecedent Toy says one must distinguish the `active element of advance` from a merely formal/accessory condition;
+- universality/transmissibility from the specific question of taboo's moral influence;
+- duties toward gods from duties toward men;
+- religious reinforcement of a right from historical creation/origin of that right;
+- coexistence/coalescence from common origin.
+
+Toy describes taboo and ordinary morality as two systems of regulation that arise differently, can collide, and can coalesce. His conclusion makes taboo a concomitant that can oppose or reinforce moral life rather than its single creator.
+
+`Relation between Magic and Religion` explicitly:
+
+- rejects three total genealogies: magic as degraded religion, magic as germ of religion, or wholly independent system;
+- rejects hard-and-fast early boundaries among natural/supernatural, god/demon and friendly/unfriendly power;
+- removes `sympathetic magic` from the article's object, assigning it instead to a conception of natural law / `savage science`, while defining the article's `magic` as control of supernatural beings;
+- reconstructs later priest/prophet and coercive magician functions as redivisions of an earlier composite role;
+- allows a local transmission/misinterpretation explanation for some advanced societies while refusing to universalize it to all sorcery.
+
+The AOS proceedings further show that the magic/religion paper was presented at the 1899 Cambridge meeting in a session devoted to the Section for the Historical Study of Religions, alongside Charles Carroll Everett on Vedānta/Sāṃkhya, Jastrow on historical religion study in American universities, Hopkins on the economics of religion and other comparative-religion papers.
+
+### Evidentiary consequence
+
+Toy 1899 is now more than a topical control:
+
+> **A documented Lovejoy teacher and the Harvard/AOS ecology directly contain causal-role partition, mechanism-sensitive category restriction, coexistence without common origin, and local-mechanism/non-universal-genealogy controls.**
+
+However, current repository-wide code search has **not recovered an explicit Toy citation in notebook 005**. This remains a bounded search result, not proof that Lovejoy never read the papers.
 
 Therefore:
 
-- Toy 1899 = **direct American problem-field / teacher publication control**;
+- Toy 1899 = **direct American teacher/problem-field primary control**;
 - Toy 1899 → Lovejoy 005 direct reading = **UNPROVED**;
-- thematic proximity must not be converted into pedagogy or textual dependence.
+- structural adjacency must not be converted into pedagogy or textual dependence.
 
-## V. Toy's later authorial continuity (1913) — useful only with a chronology firewall
+## V. Toy's later authorial continuity (1913) — chronology firewall retained, retrojection no longer needed
 
-Toy's own *Introduction to the History of Religions* (1913) directly treats the distinctions in much fuller form. Among the directly recoverable propositions:
+Toy's *Introduction to the History of Religions* (1913) develops related distinctions at greater scale. The 1913 book remains useful as authorial continuity, but the exact 1899 bodies are now available, so later wording no longer needs to stand in for the earlier articles.
 
-- ethical/social obligations and taboo have different bases;
-- taboo may oppose or coalesce with morality;
-- taboo and magic share a conception of occult force while treating different sides/functions of it;
-- composite social constitutions can contain ordinary law, taboo, custom and magic while their lines can often be analytically distinguished;
-- some historical origins are unrecoverable or obscured by later decay/transformation.
+The comparison can be used directionally:
 
-This later book demonstrates **authorial continuity of Toy's problem field**, not the exact wording or full argumentative content of the two 1899 articles. Until the 1899 article bodies are directly collated, do not retroject 1913 formulations into 1899.
+1899 direct articles
+→ already separate taboo/morality causal roles and magic/religion mechanisms
+→ 1913 book develops related distinctions in a larger synthetic treatment.
+
+Do not quote 1913 wording as if it were 1899. Use the recovered 1899 primary text for contemporaneous claims.
 
 The value for the Lovejoy project is contextual:
 
-> **a documented Harvard teacher remained committed to separating co-present normative/religious mechanisms, while his former student in 1907 explicitly assigned that teacher authority over one evidentiary level and retained another level of historical reconstruction for his own argument.**
+> **a documented Harvard teacher publicly practiced proposition- and mechanism-sensitive redivision in 1899; his former student in 1907 explicitly assigned that same teacher authority over one evidentiary level while retaining another level of historical reconstruction for his own argument.**
+
+That is a stronger shared-ecology/continuity control, still not a demonstrated pedagogical transmission chain.
 
 ## VI. Historiographical payoff for the American-centered JHI version
 
@@ -126,14 +156,14 @@ This edge makes the American emphasis more precise without forcing 005 back into
 The article can now distinguish three relations:
 
 1. **documented pedagogy:** Lovejoy studied Hebrew religion under Toy at Harvard;
-2. **documented later authority:** Lovejoy explicitly defers to Toy for relative textual chronology in 1907;
-3. **adjacent American problem field:** Toy's 1899 JAOS publications directly treat taboo/morality and magic/religion, but direct Lovejoy uptake into 005 is not established.
+2. **direct 1899 American problem-field primary:** Toy publicly distinguishes causal role, relation, mechanism and historical scope in taboo/morality and magic/religion arguments;
+3. **documented later authority:** Lovejoy explicitly defers to Toy for relative textual chronology in 1907 while separately reconstructing logical sequence.
 
-This is better than a national influence story. It shows that the same American scholarly ecology contained multiple specialized jurisdictions — philological, chronological, comparative, psychological, historical — and that Lovejoy's practice could accept one jurisdiction while redividing the next inferential task.
+This is better than a national influence story. It shows that the same American scholarly ecology contained multiple specialized jurisdictions — philological, chronological, comparative, psychological, historical — and that both Toy's comparative-religion writing and Lovejoy's later published practice can be observed limiting what one evidentiary relation licenses.
 
 Compact project rule:
 
-> **Teacher authority is not total authority; chronology is not logical sequence; thematic proximity is not textual uptake.**
+> **Teacher authority is not total authority; antecedence is not causal role; reinforcement is not origin; mechanism controls category scope; thematic proximity is not textual uptake.**
 
 ## Evidence ceilings
 
@@ -141,24 +171,30 @@ Compact project rule:
 - Toy was Lovejoy's documented Harvard Hebrew-religion teacher.
 - Lovejoy 1907 explicitly defers to Toy for a relative sequence of Wisdom texts.
 - Lovejoy 1907 explicitly separates logical from chronological sequence and permits asynchronous survival/coexistence.
-- Toy published `Taboo and Morality` and `Relation between Magic and Religion` in JAOS 20 (1899).
-- Toy 1913 directly develops related taboo/morality/magic distinctions.
+- Full direct bodies of Toy's 1899 `Taboo and Morality` and `Relation between Magic and Religion` are now collated.
+- Toy 1899 directly performs causal-role, mechanism, scope and coexistence/origin partitions.
+- The 1899 AOS proceedings directly place the magic/religion paper inside the Cambridge religion-section session.
+- Toy 1913 directly continues related problem fields at larger scale.
 
 ### Bounded negative / hold
 - no explicit Toy citation has yet been recovered in indexed 005 material by repository-wide code search.
-- exact bodies of Toy's two 1899 JAOS articles have not yet been directly collated in this control.
+- Lovejoy's reading of either Toy 1899 article during production of a particular 005 leaf remains unproved.
+- Lovejoy's attendance at the 1899 Cambridge AOS religion-section session is not established by the proceedings inspected in this control.
 
 ### Do not claim
 - Toy directly caused 005's selector architecture;
 - Lovejoy read either Toy 1899 article while producing a particular 005 leaf;
-- Toy's 1913 wording can be quoted as his 1899 position;
-- the 1907 logical/chronological distinction was learned from Toy.
+- the 1907 logical/chronological distinction was learned from Toy;
+- AOS/Harvard institutional adjacency proves textual transmission;
+- Toy's own developmental/political hierarchy can be attributed to Lovejoy.
 
 ## Controls
 
+- `research_notes/Toy_1899_taboo_morality_magic_religion_primary_control_2026-08-26.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch11_1902_1907_primary_texts.md`
 - `research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`
 - `research_notes/lovejoy_as_orientalist_web_sweep_batch50_US_France_transatlantic_sciences_religieuses.md`
 - `research_notes/004_005_1902_1906_proof_warrant_architecture_consolidated.md`
 - Open JSTOR: Toy, `Taboo and Morality`, stable 592321; Toy, `Relation between Magic and Religion`, stable 592340.
+- Internet Archive identifiers `in.gov.ignca.24523` and `in.gov.ignca.24524`.
 - Crawford H. Toy, *Introduction to the History of Religions* (1913), public-domain Project Gutenberg full text.
