@@ -45,9 +45,9 @@ He then gives a modernizing summary of the Buddhist causal psychology of desire,
 
 This matters because the 004→1898→1902 relation is no longer merely reconstructed by us. **Lovejoy himself marks the earlier technical Buddhist work as an analytical foundation for the 1902 comparative-philosophical argument.**
 
-### Bibliographic caution
+### Bibliographic correction closed against the page image
 
-The parsed JSTOR text renders the footnote's JAOS volume as `Vol. XVIII`, whereas the published Buddhist article is securely in *JAOS* 19, Second Half (1898), pp. 126–136. Until the Roman numeral in the page image is checked directly, treat this as either a printed miscitation or OCR error. It does not affect the identity of the cited paper, whose title is explicit.
+The direct page image has now been checked. On printed p. 442 the footnote itself says `Vol. XVIII`, whereas the Buddhist article is securely in *JAOS* 19, Second Half (1898), pp. 126–136. The wrong Roman numeral is therefore a **printed self-miscitation, not an OCR error**. The paper's full title is explicit, so its identity is not in doubt. Direct scan: [Internet Archive/JSTOR, printed p. 442 (PDF p. 5)](https://archive.org/details/jstor-3153919/page/n4/mode/1up).
 
 ---
 
