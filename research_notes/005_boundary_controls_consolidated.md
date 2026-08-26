@@ -1,7 +1,7 @@
 # MS38 005 — boundary controls: selector reallocation, ritual morphology, and unsynchronized developmental clocks
 
 Consolidated: 2026-08-26
-Status: **CANONICAL THEMATIC DOSSIER**
+Status: **CANONICAL THEMATIC DOSSIER / DIRECT MARILLIER PRIMARY UPGRADED**
 Supersedes active-tree Batches219, 224 and 225. Original versions remain in Git history.
 
 ## Core result
@@ -11,6 +11,8 @@ Three separate notebook tests now provide complementary controls against reading
 1. **Suicide / special death:** the same apparent post-mortem punishment is repeatedly reallocated as the operative selector changes.
 2. **Human/animal sacrifice:** visible ritual severity or morphology does not itself identify mechanism or developmental rank.
 3. **Agriculture/domestication:** an external economic/subsistence sequence cannot silently serve as a universal chronological scaffold for ritual development.
+
+The user-returned direct Marillier primary adds a decisive upstream control: before Lovejoy's notebook, Marillier already distinguished **contact/borrowing, moral versus non-moral determinants, rites/magical practices, manner of death, status, and later moralization**, and explicitly allowed formally similar beliefs to have different significance in different settings.
 
 Together they support a bounded analytical formulation:
 
@@ -26,11 +28,23 @@ This does not mean that 005 abandons hierarchy or evolutionary language. The not
 
 Primary locus: corrected 005 transcription, especially PDF pp.3–6, 11, 14–20.
 
-### Attribution background
+### Attribution background — now direct-primary strengthened
 
 Marillier, Mauss and Söderblom already supply much of the determinant field: terrestrial status, ritual qualification, manner of death, clan/social consequences, moral differentiation, contact/contamination, and later moral superposition. Söderblom 1901 also provides a serial selector sequence and explicitly follows Marillier with `d'autres divisions`.
 
-Therefore the strong Lovejoy claim is not category invention.
+The returned full text of Léon Marillier, `La survivance de l’âme et l’idée de justice chez les peuples non civilisés` (1893/94), removes an important relay dependency.
+
+Direct Marillier controls now include:
+
+- **contact / borrowing:** doctrines that look morally differentiated may be products of prolonged relations with Christians or Muslims rather than untouched indigenous strata; in the North American discussion Marillier explicitly treats the `happy hunting-grounds` image as possibly borrowed from whites and superadded to older beliefs;
+- **determinant plurality:** post-mortem fate can be determined by chance, arbitrary divine action, terrestrial rank, manner of death, or unequal skill/strength rather than the moral quality of earthly conduct;
+- **rite versus morality:** acts influencing destiny are often ceremonies, rites, or magical practices rather than actions classified as morally good or bad; even labels translated as `good` and `bad` can turn on whether appropriate funeral rites were performed;
+- **same-looking feature, different significance:** Marillier says analogous features recur across Oceania, Africa, Brazil and the Indian archipelago `avec une signification et une portée différentes`; formal recurrence therefore does not itself fix historical or moral meaning;
+- **developmental moralization:** he describes beliefs in gods and future life as becoming progressively moralized as societies become more complex, rather than treating moral judgment as the original universal source of afterlife belief.
+
+This matters because the upstream environment already performs a relation-sensitive decomposition of what would otherwise look like one category, `moral afterlife differentiation`.
+
+Therefore the strong Lovejoy claim is not category invention. The documentary delta lies in how 005 locally reuses, reallocates, compresses and tests this field.
 
 ### The suicide sequence
 
@@ -157,17 +171,29 @@ Evidence grade: medium-high corrected-transcription control. MD-006 optionally r
 - a social rank is not identical to a moral rank;
 - a violent or ritual form is not identical to a developmental rank;
 - a subsistence chronology is not identical to a religious chronology;
-- an inherited form can receive a later interpretation without becoming historically homogeneous.
+- an inherited form can receive a later interpretation without becoming historically homogeneous;
+- a belief's apparent moral content may be borrowed/superadded rather than coeval with the older structure it now inhabits;
+- formally analogous beliefs can recur with different `signification` and `portée`.
+
+The direct Marillier return makes the last two points especially important. The workshop model was already capable of treating a living tradition as internally stratified by contact, inheritance, later moralization and function. That strengthens the project's broader claim that the operative problem is **stratification**, not merely the detection of contradiction.
 
 The strongest safe conclusion is:
 
-> **`primitive` participates in hierarchy, but the hierarchy is not one perfectly synchronized ladder. 005 distributes historical position across selectors, mechanisms, social capacities, ritual forms and domain-specific chronologies.**
+> **`primitive` participates in hierarchy, but the hierarchy is not one perfectly synchronized ladder. 005 distributes historical position across selectors, mechanisms, social capacities, ritual forms, borrowed overlays and domain-specific chronologies.**
 
 This should be read alongside the 004 control where `viññāṇa` can be temporally antecedent to `nāmarūpa` while logically a subdivision of it, and where borrowed components can receive a distinct `arrangement and application`.
 
 ---
 
-## V. Saturation rule
+## V. Evidence provenance update — JHU finding aid
+
+The user-returned MS-0038 finding aid independently identifies a Paris 1898–99 black notebook on `primitive religions and practices`, alongside a loose notebook on Sāṃkhya/Buddhism and 1898–99 totemism notes. The description of the primitive-religions notebook gives Lovejoy's address as `5 rue Rollins`.
+
+This does not identify a lecturer by itself. It does, however, tighten the material provenance of the 1898–99 workshop/notebook environment and makes the relation between the corrected 004/005 corpus and Paris comparative-religion / Indological work less dependent on retrospective reconstruction.
+
+---
+
+## VI. Saturation rule
 
 Further 005 case-mining is not warranted merely to collect more examples of `same form ≠ same mechanism`. Reopen only if a new passage changes one of:
 
