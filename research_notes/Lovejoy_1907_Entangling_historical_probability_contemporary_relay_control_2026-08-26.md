@@ -1,143 +1,128 @@
-# Lovejoy 1907 `Entangling Alliance` — direct-primary historical probability / political relativity / India-Occident control
+# Lovejoy 1907 `Entangling Alliance` — direct-primary historical probability / political relativity / India–Occident control
 
-Date: 2026-08-27
-Status: **DIRECT PRIMARY CLOSED / MF-002 RESOLVED**
+Final synchronized: 2026-08-27  
+Status: **DIRECT PRIMARY CLOSED / MF-002 RESOLVED / POLITICAL CROSS-CHECK UPDATED AFTER 1906 DEMOCRACY RECOVERY**
 
 Primary object:
 
 Arthur O. Lovejoy, `The Entangling Alliance of Religion and History`, *The Hibbert Journal* 5.2 (January 1907), 258–276.
 
-Direct public witness recovered in the Internet Archive full-text scan of *The Hibbert Journal*, vol. 5:
+Direct public witness:
 
-- item: https://archive.org/details/hibbertjournal05londuoft
-- OCR text: https://archive.org/stream/hibbertjournal05londuoft/hibbertjournal05londuoft_djvu.txt
-- IA identifier: `hibbertjournal05londuoft`
-- volume is public domain and exposes full text, OCR search, page-number JSON and PDF.
+- Internet Archive item: `hibbertjournal05londuoft`
+- https://archive.org/details/hibbertjournal05londuoft
+- OCR: https://archive.org/stream/hibbertjournal05londuoft/hibbertjournal05londuoft_djvu.txt
 
-The earlier Warfield 1912 contemporary-relay control is now secondary corroboration rather than the evidentiary basis.
+The earlier Warfield 1912 relay is secondary corroboration only. The article body itself is now the evidentiary basis.
 
-## 1. Direct actor-explicit claim-type / warrant partition
+## 1. Claim type and evidentiary burden
 
-Lovejoy's argument directly distinguishes universal religious/metaphysical truth claims from contingent historical propositions.
+Lovejoy directly distinguishes universal/cosmic religious propositions from contingent historical occurrences.
 
-He first defines the religious truth-content under discussion as universal or cosmic in bearing: religion, if it supplies fundamental truth, cannot make the occurrence of one local event at one time/place the necessary core of a truth meant to be valid and significant for all persons.
+Two separable problems attach to historical propositions:
 
-He then gives two separable objections to making historical incidents constitutive of religious truth:
+1. **restricted verification/access** — remote events reach most people through testimony/tradition and can be independently tested only by those with records and specialist competence;
+2. **probabilistic epistemic status** — particular past events do not possess demonstrative certainty and can attain only degrees of probability.
 
-1. **restricted verification/access:** historical propositions are received through tradition/testimony and can be independently tested only by a limited subset of persons with access to the relevant records and specialist competence;
-2. **probabilistic epistemic status:** historical propositions do not, in Lovejoy's strict vocabulary here, possess the certainty of demonstrative knowledge; remote and particular events can reach only degrees of probability.
+He then gives extraordinary historical claims a still higher burden: an event contrary to ordinary experience faces a strong adverse presumption, raising the question whether documentary/traditional evidence can overcome it.
 
-He further distinguishes ordinary from extraordinary historical claims. A reported event contrary to usual experience encounters a strong adverse presumption, and Lovejoy explicitly raises the question whether documentary/traditional evidence can overcome that burden.
+Direct-primary structure:
 
-The direct-primary structure is therefore:
-
-`universal/cosmic truth claim`
+`universal/cosmic proposition`
 ≠ `particular temporal occurrence`
 ≠ `ordinary historical probability`
 ≠ `extraordinary-event documentary burden`.
 
-This is now the strongest actor-explicit published control for the project's analytical rule:
+This is the strongest actor-explicit early published control for the project's analytical rule:
 
 > **different proposition types receive different epistemic and evidentiary addresses.**
 
-### JHI ceiling
+### Historical ceiling
 
-The notebooks must still not be described as conscious applications of a theory Lovejoy formulated in 1907. The safe longitudinal use is:
+Do not retroject this 1907 explicit epistemology as Lovejoy's consciously formulated method in 1898. The safe longitudinal use is narrower:
 
-> 004/005 make relation-specific proof burdens archivally visible; by 1907 Lovejoy himself explicitly assigns different epistemic statuses and burdens to different kinds of historical and universal propositions.
+> **004/005 make relation-specific proof burdens archivally visible; by 1907 Lovejoy explicitly assigns different epistemic statuses and burdens to different classes of proposition.**
 
-## 2. Direct political-relativity control — important but not a substitute for MD-001
+## 2. Political relativity — now a cross-check, not a blocker substitute
 
-The same article contains a useful direct-primary political sentence. Lovejoy characterizes politics as essentially practical, relative and temporal, and says it is not self-evident that one identical social or governmental order should prevail simultaneously across such different societies as France/England and China/Peru.
+Lovejoy characterizes politics as practical, relative and temporal and rejects the assumption that one identical social/governmental order must apply simultaneously to very different societies such as France/England and China/Peru.
 
-This directly confirms that political relativity / differentiated institutional applicability was part of Lovejoy's own published vocabulary by January 1907.
+This passage is no longer needed to stand in for the once-missing 1906 `Democracy in the Twentieth Century`. That article has now been recovered directly and controls the political claim.
 
-It materially strengthens the context around Wilson's synopsis of the still-missing 1906 `Democracy in the Twentieth Century`.
+The relationship is instead:
 
-However:
+### February 1906 — `Democracy in the Twentieth Century`
 
-- it does **not** recover the 1906 article;
-- it does **not** settle the semantics of `race`;
-- it does **not** choose among institutional-fit relativism, developmental-capacity hierarchy and racialized political capacity.
+- nineteenth-century social evolution differentiates populations longitudinally by `stage of culture`;
+- race/nationality differentiates them cross-wise;
+- the stage axis carries the stronger developmental hierarchy;
+- the race/national-genius axis is real but qualified, and Lovejoy warns that the race category is overworked;
+- institutional fit is historically/population-relative while higher consequential/civilizational criteria remain;
+- the framework has explicit racialized political consequences in discussion of colonial policy and Black enfranchisement/disfranchisement.
 
-Therefore **MD-001 remains the political blocker**.
+Best 1906 formula:
 
-Safe current formula:
+> **general evaluative ends + historically differentiated institutional suitability.**
 
-> **Lovejoy's direct 1907 text independently establishes political forms as relative/temporal and nonuniform across societies; the stronger 1906 claim about how `race`, culture, tradition and stage structure that relativity remains on HOLD pending `Democracy in the Twentieth Century`.**
+Best race classification:
 
-## 3. Direct India / Occident contrast inside the same article
+> **mixed racial-national-historical population category with real racialized political consequences, not a cleanly biological doctrine.**
+
+### January 1907 — `Entangling Alliance`
+
+The 1907 sentence independently confirms the persistence of the practical/relative/temporal political frame, but it does not need to carry the 1906 race semantics by proxy.
+
+Thus the former political HOLD is **closed**.
+
+## 3. India / Occident typological differentiation
 
 Near the conclusion Lovejoy asks whether an entirely unhistorical religion is possible and says that more than one of the great systems of India can serve as examples of such a type.
 
 His contrast is structural:
 
-- an unhistorical religious type minimizes or denies the worth/reality of the temporal process and concrete historical tasks;
-- Christianity, in his account, cannot simply abandon history in this way;
-- he explicitly says the Indian/unhistorical type has no kinship with the temper of the Occident and frames the alternatives as radically opposed types rather than objects for easy syncretism.
+- an unhistorical religious type minimizes or denies the worth/reality of temporal process and concrete historical tasks;
+- Christianity, in his argument, cannot simply abandon history in that way;
+- he explicitly opposes the Indian/unhistorical type to the historical temper of the Occident rather than treating them as easily syncretizable forms.
 
-This is a direct 1907 Lovejoy primary control for an emerging **India / Occident typological differentiation**.
+This is a direct 1907 primary control for an emerging **India / Occident typological differentiation**.
 
 ### Firewall
 
-Do not silently equate `great systems of India` with Buddhism alone. The article uses a broad civilizational/philosophical type. The 1898 Buddhist object can be related to this later differentiation only through separately controlled primary links.
+Do not equate `great systems of India` with Buddhism alone. The phrase is broader than the specific Buddhist objects of the 1898 article and 1906 More review.
 
-Do not treat the 1907 rhetoric as a timeless Lovejoy taxonomy; it belongs to the immediate argument over Christianity, historical religion and universal truth.
+Do not treat this 1907 contrast as a timeless Lovejoy taxonomy; it belongs to the immediate argument about Christianity, history and universal religious truth.
 
-## 4. Relation to the 1906–10 warrant sequence
+## 4. Position in the 1906–1910 sequence
 
-### 1906 Kant
+The direct-primary sequence is now:
 
-A grand history-of-philosophy rubric bundles claims about doctrine, novelty and discontinuity; local primary audit causes the historical binary to fail.
+- **1906 Kant:** inherited historical umbrella rubric → local doctrinal/argument audit → macro contrast rejected;
+- **1906 Democracy:** generic universal political subject → two-axis historical/population differentiation;
+- **1906 More review:** Sutta Nipāta remains a source-level semantic control while Lovejoy explicitly values induction, historical antecedents, comparison and correlation;
+- **1906 Primitive Philosophy:** local heterogeneous evidence → causal-mechanism abstraction → broad comparative reaggregation;
+- **1907 Entangling Alliance:** proposition type and epistemic burden become actor-explicit; politics is called practical/relative/temporal; India/Occident are typologically differentiated;
+- **1907 Toy / Ethical Inwardness:** specialist authority for relative chronology does not automatically settle Lovejoy's reconstructed logical/developmental sequence;
+- **1908–09:** shared labels are decomposed into independent propositions; cumulative proof burden and antecedent probabilities are locally audited;
+- **1909→1910 Kant revision:** Lovejoy explicitly corrects an earlier umbrella classification by increasing doctrinal/propositional resolution.
 
-### 1907 `Entangling Alliance`
+The result is not a developmental story from decomposition to totalization. Both scalar directions coexist.
 
-Lovejoy explicitly partitions proposition type and epistemic burden; simultaneously he describes political orders as relative/temporal and opposes an unhistorical Indian type to the Occidental/Christian historical orientation.
+## 5. JHI use
 
-### 1907 Toy / `Ethical Inwardness`
+Strongest compact use:
 
-Specialist authority for relative chronology does not settle logical/developmental sequence.
+> **The notebooks reveal relation-specific proof burdens before Lovejoy explicitly theorized the epistemic status of historical claims. By 1907 he was distinguishing universal propositions from contingent historical probabilities and assigning exceptional historical claims a heightened documentary burden. This later explicit vocabulary controls, but should not be retrojected into, the 1898 archive.**
 
-### 1908–09
+The political and India/Occident passages sharpen the scale problem without replacing the direct 1906 texts.
 
-A shared historical label does not permit evidentiary success/failure to migrate among independent propositions; historical genealogy is locally audited before cumulative judgment under `antecedent probabilities`.
+## 6. Firewalls
 
-Thus 1906–09 now provides a dense direct-primary sequence in which local relation, proposition type, historical scale and cumulative burden are repeatedly separated.
+- Direct article body, not Warfield, controls the 1907 claims.
+- `politics practical/relative/temporal` does not by itself prove the exact 1906 race/stage structure; that structure is now controlled by recovered `Democracy`.
+- `great systems of India` ≠ Buddhism alone.
+- later explicit epistemology ≠ conscious 1898 method.
+- historical probability language does not by itself establish the mature unit-idea programme.
 
-## 5. Consequence for the JHI argument
+## 7. Status
 
-The core thesis is strengthened but not transformed:
-
-> **The early notebooks matter as an archive of historical warrant, not because Buddhism secretly supplies a mature Lovejoy doctrine. Across philology, comparative religion and philosophy, Lovejoy repeatedly confronts the problem of when one kind of evidence can be upgraded into a stronger proposition. By 1907 that problem is no longer only reconstructable from his operations: he explicitly discusses the distinct epistemic status of historical propositions and the burden borne by improbable historical claims.**
-
-The newly recovered political and India/Occident passages also sharpen the larger scale problem: different domains can be subject to different permissible reaggregations.
-
-## 6. Evidence discipline
-
-Direct primary now secure:
-
-- article identity and full body;
-- universal/cosmic vs contingent historical proposition distinction;
-- limited access/verification of historical claims;
-- probabilistic status of remote particular events;
-- stronger burden for events contrary to ordinary experience;
-- politics characterized as practical/relative/temporal with nonuniform institutional applicability across societies;
-- Indian `unhistorical` religious type contrasted with the temper of the Occident.
-
-Still not secure from this article:
-
-- exact 1906 `race` semantics;
-- a direct 1898 self-conscious theory of claim-relative warrant;
-- identification of the Indian type with Buddhism specifically;
-- a causal chain from early Indic studies to the mature history-of-ideas method.
-
-## 7. Public controls
-
-- Lovejoy vol. 5 IA item: https://archive.org/details/hibbertjournal05londuoft
-- Lovejoy vol. 5 full OCR: https://archive.org/stream/hibbertjournal05londuoft/hibbertjournal05londuoft_djvu.txt
-- serial locator: https://onlinebooks.library.upenn.edu/webbin/serial?id=hibbertjnl
-- Warfield 1912 contemporary reception/control: https://www.jstor.org/stable/1507229
-
-## Resolution
-
-**MF-002 is resolved and should be removed from the manual queue.** Direct page images would now be publication-grade facsimile hygiene only; they are no longer required for the research claim.
+All substantive questions for this object are closed for the present JHI argument. Reopen only for publication-grade page-image quotation verification or a direct contradictory primary.
