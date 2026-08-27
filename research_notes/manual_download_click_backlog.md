@@ -1,40 +1,9 @@
 # Manual download / click backlog — canonical
 
 Last updated: 2026-08-27
-Status: **NO USER DOWNLOAD REQUIRED FOR MD-006 / SOURCE PDFs LOCATED IN LIBRARY / ONE MATERIAL-RENDER BLOCKER REMAINS**
+Status: **NO ARGUMENT-SENSITIVE MANUAL BLOCKERS / OPTIONAL ONLY**
 
 Only keep a target active when a human return can still change or materially calibrate the argument.
-
-## ACTIVE — material-form closure
-
-### MD-006 — original 004/005 notebook page images
-
-**Priority:** P0 / sole remaining argument-sensitive material-form blocker.
-
-**SOURCE LOCATED IN USER LIBRARY — DO NOT DOWNLOAD AGAIN.**
-
-Confirmed Library objects:
-- `/lovejoy/MS38_004_001_061_004.pdf` — 45,542,867 bytes; 71 pages; Library file id `file_00000000dfa481fd9d549368a8f68714`.
-- `/lovejoy/MS38_004_001_061_005.pdf` — 106,709,841 bytes; 120 pages; Library file id `file_000000000ffc81fda510be332dc2df5f`.
-
-Earlier corrected-transcription provenance records preserve source hashes:
-- 004 PDF SHA-256: `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`.
-- 005 PDF SHA-256: `7ebf4e672bdb2267e71a9c6b617df2078f057b1f23858f2770a3f9de004d96ad`.
-
-Exact byte identity of the newly surfaced Library objects has not yet been rehashed because the current Library raw-transfer endpoint returns HTTP 403. The page renderer also currently returns no readable page image/content. Therefore the remaining blocker is **tool-layer visual access**, not source discovery or user retrieval.
-
-The full material-form second pass is now registered for **all 191 pages**, not only the former priority subset:
-- `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`
-
-Existing `*_clean.json` files remain the authoritative corrected-text layer. The new material layer will record crossings-out, overwriting, insertions, arrows/connectors, marginalia, numbering/reordering marks, hand/ink shifts, page geometry and spatial relations.
-
-Priority close-audit pages when visual rendering becomes available:
-- 004: page containing `viññāṇa` as `temporally (?) antecedent` to `nāmarūpa` but `logically a subdivision`, ideally ±1 page.
-- 005: pp.16–20 and 24–27; then 34–36, 67, 69–70, 76, 103.
-
-No additional user action is currently required. Textual relation architecture is already secure; only pen-level/spatial revision claims remain capped.
-
----
 
 ## OPTIONAL — only if effortless
 
@@ -50,68 +19,45 @@ No need to pursue unless the exact pages are effortless. Lovejoy's actual traver
 
 ---
 
-## RESOLVED BY USER RETURNS — 2026-08-27
+## RESOLVED — material-form closure
 
-### MD-001 — Arthur O. Lovejoy, `Democracy in the Twentieth Century` (1906)
+### MD-006 — original 004/005 notebook page images
 
-**RESOLVED DIRECT PRIMARY. DO NOT DOWNLOAD AGAIN.**
+**RESOLVED DIRECT SOURCE IMAGES. DO NOT DOWNLOAD AGAIN.**
 
-Returned full HathiTrust computer-extracted text from Harvard-origin scan, handle:
-https://hdl.handle.net/2027/hvd.hnav7c
+Source PDFs:
+- `MS38_004_001_061_004.pdf` — 71 pages — SHA-256 `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`.
+- `MS38_004_001_061_005.pdf` — 120 pages — SHA-256 `7ebf4e672bdb2267e71a9c6b617df2078f057b1f23858f2770a3f9de004d96ad`.
 
-Article: *Bulletin of the Washington University Association* 4 (1906), 81–102; address delivered 19 February 1906.
+The newly rendered files exactly match the source hashes recorded during the original transcription round. The earlier empty-page / HTTP 403 behavior was a transient rendering/access-layer problem, not a source-location or source-identity problem.
 
-Key result: Lovejoy directly says nineteenth-century social evolution plus racial/national difference destroyed the unity of Enlightenment `generic Man`, splitting him `longitudinally and cross-wise`. Stage-of-culture difference carries the stronger modal hierarchy; racial/national difference is separately real but qualified (`I do not ... say must be`) and Lovejoy warns the race category is overworked. Political forms are relativized to stage/history/population, while a higher consequences/general-welfare/`standard of civilization` criterion survives. The conclusion applies the framework to colonial policy, female suffrage and Black enfranchisement/disfranchisement.
+Material audit completed:
+- **191/191 pages** received a visual overview pass.
+- Former MD-006 priority pages received high-resolution inspection.
+- Page-level ledger: `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`.
+- Canonical closure: `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`.
 
-Canonical: `research_notes/Lovejoy_1906_Democracy_direct_primary_stratification_control_2026-08-27.md`.
+Highest-value closure results:
+- 004 p.42: `viññāṇa` is spatially nested inside `nāmarūpa` in a diagram while the prose immediately below makes it temporally antecedent and logically a subdivision. Relation types are materially held apart on the page.
+- 005 pp.16–20: visible revisions/emphasis cluster at the boundary between ritual/social/customary determinants and moral desert; deleted wording is not used to infer an unproved direction of conceptual change.
+- 005 pp.24–27: explicit numbered/Roman-numeral afterlife schemas with local revisions materially confirm case decomposition and boundary work.
+- 005 contains multiple inserted/foldout layers (notably pp.29–37, 49–54, 92–100; small slips at pp.46 and 119), proving physical accretion without by itself dating the inserts.
+- 005 p.44 directly confirms `Hist. Relig. — Dec. 20, 1905.`
+- 005 p.103 embeds a branching developmental hypothesis inside an explicit chronological stress test.
 
-### MD-007 — Northcote Whitridge Thomas, 1898
+MD-006 therefore no longer caps pen-level/spatial claims. Remaining restrictions are narrower: a strike-through proves revision activity but not the direction of conceptual change unless both deleted and replacement readings are secure; an insert proves accretion but not its date.
 
-**RESOLVED DIRECT PRIMARY.**
+---
 
-Full article returned: `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *RHR* 38 (1898), 295–347, JSTOR stable 23660286.
+## OTHER RESOLVED / CLOSED
 
-Key result: form/function/origin are separated locally, while the conclusion reaggregates evidence into racial/civilizational geological stages. Strong same-workshop control for `decomposition does not imply anti-totalization`.
-
-Canonical: `research_notes/Thomas_1898_Marillier_student_operator_control_2026-08-27.md`.
-
-### MD-009 — EPHE Vth Section exact 1898–99 scolarité cote
-
-**CLOSED AS NEGATIVE RETRIEVAL / DO NOT KEEP CHASING.**
-
-Exact 1898–99 cote/register could not be located through the available route. This is a provenance gap, not evidence of non-attendance/non-registration.
-
-### MD-010 — Dahlmann 1897 JRAS notice
-
-**RESOLVED DIRECT PRIMARY.**
-
-Returned pp.407–410. No terminal initials/signature; reviewer remains anonymous. Review separates useful source collection from unconvincing system/genealogy theory.
-
-Canonical: `research_notes/Dahlmann_JRAS_1897_review_primary_control_2026-08-27.md`.
-
-### OPT-001 — Morris Jastrow Jr. 1893 Congress paper
-
-**RESOLVED DIRECT PRIMARY.**
-
-Jastrow directly links original-source competence, specialist original research, new psychology, anthropology/folklore and comparative synthesis, while warning against proving too much from analogy. Same paper also retains developmental/racial hierarchy.
-
-Canonical: `research_notes/Jastrow_1893_Congress_method_scope_primary_control_2026-08-27.md`.
-
-### OPT-003 — *The Great Chain of Being* p.35 + index/full-text audit
-
-**RESOLVED DIRECT PRIMARY; PRIOR BOUNDED-OCR IMPRESSION CORRECTED.**
-
-Book centers Occidental/Western genealogy, but Buddhism/Vedānta remain explicit comparators; index includes `Buddhism, 30, 97` and `Vedânta philosophy, 30, 42`.
-
-Revised claim: **functional repartition, not disappearance**.
-
-Canonical: `research_notes/Great_Chain_1936_Indic_comparator_primary_control_2026-08-27.md`.
-
-### MF-002 — Lovejoy, `The Entangling Alliance of Religion and History` (1907)
-
-**RESOLVED DIRECT PRIMARY.** User also returned a full OCR preservation copy.
-
-Canonical: `research_notes/Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`.
+- **MD-001** — Lovejoy, `Democracy in the Twentieth Century` (1906): direct HathiTrust primary recovered. Canonical: `research_notes/Lovejoy_1906_Democracy_direct_primary_stratification_control_2026-08-27.md`.
+- **MD-007** — Northcote Whitridge Thomas (1898): direct primary recovered. Canonical: `research_notes/Thomas_1898_Marillier_student_operator_control_2026-08-27.md`.
+- **MD-009** — EPHE Vth Section exact 1898–99 scolarité cote: closed as negative retrieval; provenance gap, not evidence of non-attendance.
+- **MD-010** — Dahlmann 1897 JRAS notice: direct primary recovered; reviewer anonymous. Canonical: `research_notes/Dahlmann_JRAS_1897_review_primary_control_2026-08-27.md`.
+- **OPT-001** — Jastrow 1893 Congress paper: direct primary recovered. Canonical: `research_notes/Jastrow_1893_Congress_method_scope_primary_control_2026-08-27.md`.
+- **OPT-003** — *The Great Chain of Being* p.35/index audit: direct primary recovered; Indic material is functionally repartitioned, not absent. Canonical: `research_notes/Great_Chain_1936_Indic_comparator_primary_control_2026-08-27.md`.
+- **MF-002** — Lovejoy, `The Entangling Alliance of Religion and History` (1907): direct primary recovered. Canonical: `research_notes/Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`.
 
 ---
 
@@ -124,7 +70,4 @@ Canonical: `research_notes/Lovejoy_1907_Entangling_historical_probability_contem
 
 ## Current priority
 
-1. **MD-006** — source present; finish 191-page material-form second pass once page images can be rendered.
-2. **OPT-002** — optional exact Harvard wording; may be skipped.
-
-No other former manual target remains active.
+No manual return is needed for the JHI argument. `OPT-002` is optional exact-wording hygiene and may be skipped.
