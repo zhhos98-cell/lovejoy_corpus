@@ -1,84 +1,126 @@
-# Harvard 1896–97 course-wording locator — publication-hygiene delta
+# Harvard 1896–97 Everett / Toy / Lanman course wording — direct-primary closure
 
 Date: 2026-08-27  
-Status: **live optional publication hygiene; child object now pinned, exact course wording still page-unverified**
+Status: **CLOSED / DIRECT PRIMARY / PUBLICATION HYGIENE COMPLETE**
 
 ## Scope
 
-This note addresses the only live optional item retained by `CURRENT_STATE.md`: exact 1896–97 Harvard course-description wording for Charles Carroll Everett, Crawford H. Toy, and Charles Rockwell Lanman. It does **not** reopen the frozen general research queue.
+This dossier closes the final optional publication-hygiene item retained after repository freeze: exact 1896–97 Harvard course-description wording for Charles Carroll Everett, Crawford H. Toy, and Charles Rockwell Lanman.
 
-## New retrieval delta
+The source was already present in the user's Library/back-end as:
 
-Earlier Batch 141/144 work established that Harvard's official Faculty of Arts and Sciences course-announcement series is digitized and includes 1896–97, but automated access stalled at the ListView child-object layer. The relevant series root remains:
+- `URN-3-HUL.ARCH-39991521.pdf` — 80-page Harvard Archives scan slice;
+- paired OCR: `URN-3-HUL.ARCH-39991521.pdf_by_PaddleOCR-VL-1.6.json`.
 
-- Harvard FAS Courses of Instruction ListView: `https://listview.lib.harvard.edu/lists/drs-467484628`
-- persistent series identifier: `HUL.ARCH:40128815`
+The scan begins at printed p.67, so Wilson's cited Harvard catalogue pages map exactly as follows:
 
-A Harvard-hosted 2026 *History of Islamic Studies at Harvard Timeline* now supplies the concrete Harvard IIIF locator for the 1896–97 announcement in its source note 30:
+- printed p.73 = PDF p.7;
+- printed p.75 = PDF p.9;
+- printed p.99 = PDF p.33.
 
-- `Harvard University Announcement of Courses of Instruction 1896-97`
-- Harvard University, 1896
-- Harvard University Archives
-- IIIF manifest/view route: `https://iiif.lib.harvard.edu/manifests/view/drs:467059505$7i`
+All three pages were visually checked against the original page images on 2026-08-27. The earlier ListView/IIIF access problem is therefore moot for the present claim.
 
-This is the substantive upgrade: the unresolved problem is no longer identification of the 1896–97 child object. The remaining task is page/canvas extraction and direct reading.
+## 1. Toy — printed p.73 / PDF p.7
 
-## Existing page targets
+Heading: `SEMITIC LANGUAGES AND HISTORY.`
 
-Daniel J. Wilson's reconstruction of Lovejoy's Harvard training cites:
+The direct catalogue entry is:
 
-- a Harvard University Archives list of courses taken by Lovejoy;
-- *Harvard University Catalogue*, 1896–97, pp. **73, 75, 99**;
-- Lovejoy letters to Wallace W. Lovejoy dated 8 October 1896, 10 October 1896, and October/November 1896.
+> **13. History of the Hebrew Religion, with comparison of other Semitic religions. Fri., 2.30–4.30. Professor Toy.**
 
-Wilson's mediated reconstruction remains the enrollment/training anchor pending direct page recovery:
+The page also lists Toy's `History of pre-Christian Hebrew Literature` (course 16¹, first half-year) and Islamic-history half-courses, but course 13 is the exact institutional control relevant to Wilson's statement that Lovejoy studied Hebrew religion with Toy.
 
-- Everett: psychological basis of religious faith and comparative religion;
-- Toy: Hebrew religion;
-- Lanman: Sanskrit and some sacred Buddhist texts.
+This upgrades the Toy side from mediated reconstruction + field control to exact 1896–97 primary course wording.
 
-## Secondary wording control for Everett
+## 2. Lanman — printed p.75 / PDF p.9
 
-A secondary historical-literary source discussing Wallace Stevens at Harvard quotes Everett's Harvard course as:
+Heading: `INDO-IRANIAN LANGUAGES.`
 
-> `Comparative History of Religions, particularly the Vedic Religion, the Hindu philosophies, Buddhism, Mazdaism, and the Chinese Religions.`
+The catalogue lays out a graded Sanskrit/Pāli sequence under Lanman.
 
-It attributes the initiation of this course to Everett in 1891. This wording strongly matches Wilson's mediated description of the comparative-religion course Lovejoy later took, especially the Vedic/Hindu/Buddhist/Mazdaean/Chinese range. It is useful as a **secondary wording control**, not as a substitute for direct verification of the 1896–97 catalogue page. Do not quote it in publication as the exact 1896–97 institutional wording until the Harvard page is recovered.
+### Sanskrit
 
-## Independent primary controls retained
+- `1¹ hf. Elements of the Sanskrit language` — sounds and inflexions; reading easy prose and verse; introductory half-course.
+- `1² hf. Sanskrit (continued)` — classical texts in Lanman's *Reader*; translation at sight.
+- `2¹ hf. Sanskrit (second year)` — course for rapid reading; select episodes from the *Mahā-Bhārata*.
+- `3² hf. Sanskrit` — primarily for graduates; introduction to the language and literature of the Vedas.
 
-Lanman's public Harvard Buddhism lecture of 29 April 1896 remains a primary control for instructor repertoire: Sanskrit/Pāli source languages, Tipiṭaka/Nikāyas, the Pali Text Society, the King of Siam's edition, and comparison with Sāṃkhya/Vedānta. It is an environment/repertoire control, not evidence that Lovejoy attended that lecture or that the formal course used exactly the same syllabus.
+### Pāli / Buddhist texts
 
-A contemporary 1893 overview of the historical study of religions in the United States also reports that Harvard had long offered Everett's comparative-history-of-religions lectures and that Toy lectured on Hebrew religion with comparison to other Semitic religions. This is a useful pre-Lovejoy institutional control, but again does not replace the 1896–97 course page.
+Course 4 is explicitly:
 
-Harvard's official FAS series root and the concrete 1896–97 IIIF child locator now make exact wording a finite page-proof problem.
+> **Pāli (beginner's course). — Elwell's Jātakas. — The legendary history of Buddha, Avidūre and Santike Nidānas. — The second hundred Jātakas (Fausböll's edition).**
 
-## Next finite extraction packet
+Course 5 is explicitly:
 
-From `drs:467059505$7i`, recover and inspect the catalogue/announcement pages corresponding to Wilson's **73, 75, 99**, plus adjacent frames where pagination differs from image sequence. Search/capture exact entries containing:
+> **Pāli (advanced course). — The Sacred Books of Buddhism. — Dhamma Pada. — Sutta Nipāta. — Majjhima Nikāya. Tu., Th., at 2.30, and a third hour at the pleasure of the instructor. Professor Lanman.**
 
-- `Everett`, `Comparative Religion`, `Psychological` / `Religious Faith`;
-- `Toy`, `Hebrew`, `Semitic`, `Religion`;
-- `Lanman`, `Indo-Iranian`, `Sanskrit`, `Buddhist`;
-- course number, exact title/description, instructor, meeting pattern, prerequisites/level, and any specified texts.
+This is the strongest Harvard-side primary closure in the packet. It proves that in 1896–97 Lanman's formal curriculum contained a beginner Pāli course and an advanced Pāli course reading the `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya` as `The Sacred Books of Buddhism`.
 
-Then match recovered course numbers/titles against the 1896–97 President's Report only if publication wording or enrollment scale materially benefits the final article.
+### Evidentiary boundary
 
-## Evidentiary status
+Wilson's archive-mediated account establishes that Lovejoy studied Sanskrit and some sacred Buddhist texts under Lanman. The catalogue now identifies the exact institutional menu and source environment, including an advanced course centered on the same `Sutta Nipāta` that Lovejoy invoked in his 1898 JAOS article and again in 1906.
 
-- **1896–97 official FAS series:** primary/institutional secure.
-- **1896–97 specific child object / IIIF locator:** now pinned.
-- **Lovejoy's Everett/Toy/Lanman traversal:** independently secure through Wilson's archive-mediated reconstruction and existing institutional controls.
-- **Everett comparative-religion title/range:** independently supported by a secondary wording control consistent with Wilson, but not yet 1896–97 page-verified.
-- **Exact 1896–97 course wording:** still pending direct page inspection; do not quote or call primary-verified yet.
-- **Argument-sensitive blocker:** none. This remains publication hygiene only.
+Do **not** infer from the catalogue page alone that Lovejoy was formally enrolled in Pāli course 5 unless the Harvard Archives individual course list or correspondence explicitly identifies that course number. The safe actor-level statement remains: Lovejoy's documented Lanman training occurred inside a curriculum that formally offered advanced Pāli reading of the `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya`.
 
-## Sources / provenance
+## 3. Everett — printed p.99 / PDF p.33
 
-- Harvard University Faculty of Arts and Sciences, Courses of Instruction ListView, `HUL.ARCH:40128815`.
-- Harvard Alwaleed Islamic Studies Program, *History of Islamic Studies at Harvard Timeline* (2026), source note 30, which gives the 1896–97 Harvard Archives IIIF locator `drs:467059505$7i`.
-- B. J. Leggett, *Early Stevens: The Nietzschean Intertext* / related Stevens scholarship as surfaced through JSTOR's *Mind of Winter* excerpt, for the quoted Everett course wording; use as secondary wording control only.
-- Contemporary 1893 *Biblical World* overview of the historical study of religions in the United States, for Everett/Toy institutional course controls.
-- `research_notes/lovejoy_as_orientalist_web_sweep_batch141_Harvard_official_digital_course_retrieval.md`.
-- `research_notes/lovejoy_as_orientalist_web_sweep_batch144_Harvard_1892_1897_digital_retrieval_forensics.md`.
-- `research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`.
+Heading: `PHILOSOPHY.`
+
+The exact entry is:
+
+> **13 hf. The Comparative Study of Religion. — Studies in the Comparative History of Religions, particularly the Vedic Religion, the Hindu Philosophies, Buddhism, Mazdaism, and the Chinese Religions. Half-course. Th., Sat., at 9. Professor Everett.**
+
+The catalogue further says:
+
+> **Course 13 may be taken, by permission, with Course 6, although in the same examination group.**
+
+The immediately preceding printed p.98 / PDF p.32 identifies course 6 as:
+
+> **6 hf. Philosophy of Religion. — Lectures. Half-course. Tu., at 9. Professor Everett.**
+
+Thus the 1896–97 primary source directly confirms Everett's comparative-religion course title, its comparative range, its half-course status, meeting pattern, and its formal relation to Everett's philosophy-of-religion course.
+
+The earlier secondary wording control is now superseded for exact wording. It may remain as reception/context evidence only.
+
+## 4. What this closes
+
+Wilson's mediated reconstruction had cited a Harvard University Archives list of Lovejoy's courses, *Harvard University Catalogue* 1896–97 pp.73, 75, 99, and Lovejoy's October/November 1896 letters. Those three catalogue pages are now directly recovered and visually checked.
+
+The Harvard pedagogical architecture can therefore be stated at primary-document resolution:
+
+- **Toy:** Hebrew religion compared with other Semitic religions;
+- **Lanman:** graded Sanskrit plus beginner/advanced Pāli, with advanced Pāli explicitly reading `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya` as sacred Buddhist books;
+- **Everett:** comparative religion spanning Vedic religion, Hindu philosophies, Buddhism, Mazdaism, and Chinese religions, alongside a separate philosophy-of-religion half-course.
+
+This materially strengthens the existing description of Harvard as a **distributed history-of-religions ecology with different source/evidentiary resolutions**. It does not turn those jurisdictions into one transmitted method.
+
+## 5. Publication-facing consequence
+
+The strongest safe formulation is now:
+
+> **Before the 1898 Buddhist article, Lovejoy's documented Harvard training traversed Toy's comparative Hebrew-religion teaching, Lanman's Sanskrit/Buddhist-text environment, and Everett's comparative study of religion. The 1896–97 catalogue shows that Lanman's curriculum included an advanced Pāli course on the Dhamma Pada, Sutta Nipāta, and Majjhima Nikāya, while Everett's course explicitly compared Vedic religion, Hindu philosophies, Buddhism, Mazdaism, and Chinese religions.**
+
+Keep enrollment distinct from course availability: the exact catalogue wording is primary-verified; Lovejoy's individual traversal remains anchored by Wilson's Harvard-archive-mediated course reconstruction unless the underlying individual course list is separately recovered.
+
+## 6. Evidentiary status
+
+- 1896–97 exact Toy course wording: **DIRECT PRIMARY CLOSED**.
+- 1896–97 exact Lanman Sanskrit/Pāli curriculum: **DIRECT PRIMARY CLOSED**.
+- 1896–97 exact Everett comparative-religion wording: **DIRECT PRIMARY CLOSED**.
+- Everett philosophy-of-religion companion course: **DIRECT PRIMARY CLOSED**.
+- Lovejoy's Everett/Toy/Lanman traversal: **SECURE, archive-mediated through Wilson**.
+- Lovejoy's exact enrollment in Lanman Pāli course 4 or 5: **UNRESOLVED AND NOT REQUIRED**.
+- Argument-sensitive blocker: **NONE**.
+- Former Harvard publication-hygiene queue: **CLOSED**.
+
+## Provenance
+
+- local/library primary: `URN-3-HUL.ARCH-39991521.pdf`.
+- local/library OCR companion: `URN-3-HUL.ARCH-39991521.pdf_by_PaddleOCR-VL-1.6.json`.
+- visually verified printed pp.73, 75, 98, 99 on 2026-08-27.
+- Harvard FAS historical course-announcement series root: `HUL.ARCH:40128815`.
+- earlier retrieval dossiers retained as process history:
+  - `research_notes/lovejoy_as_orientalist_web_sweep_batch141_Harvard_official_digital_course_retrieval.md`;
+  - `research_notes/lovejoy_as_orientalist_web_sweep_batch144_Harvard_1892_1897_digital_retrieval_forensics.md`;
+  - `research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`.
