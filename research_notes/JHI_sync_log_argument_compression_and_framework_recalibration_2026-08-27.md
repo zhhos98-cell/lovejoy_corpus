@@ -3,9 +3,17 @@
 Date: 2026-08-27
 Status: **RESTART-SAFE WRITING SYNCHRONIZATION / NOT EVIDENCE AUTHORITY**
 
-Purpose: synchronize the late-27-August discussion after the source-mapped skeleton, Schaffer 2010 direct check, notebook/publication comparison discussion, and editorial-expectation review. This file records the current writing decisions so that drafting can resume without reopening every conversational branch.
+Purpose: synchronize the late-27-August discussion after the source-mapped skeleton, Schaffer 2010 direct check, notebook/publication comparison discussion, editorial-expectation review, and bilingual story-spine drafting. This file records the current writing decisions so that drafting can resume without reopening every conversational branch.
 
 Evidence authority remains `CURRENT_STATE.md`, `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`, `research_notes/JHI_blog_historiography_novelty_control_consolidated.md`, the Schaffer addendum, and source-specific canonical dossiers.
+
+## 0. Current prose/rhythm companion
+
+The active rhetorical companion is now:
+
+- `research_notes/JHI_bilingual_story_spine_turns_and_returns_2026-08-27.md`
+
+It preserves the full Chinese and English story versions, the intended changes of tone, and the opening-to-ending bibliography return. Use it when drafting paragraph transitions and topic sentences. It is **not** evidence authority and does not replace the compressed architecture or source map.
 
 ## 1. Current problem is compression, not discovery
 
@@ -185,5 +193,25 @@ At paragraph level keep only four active items:
 4. what single transition moves the reader onward?
 
 All other page references, counterexamples and guardrails stay in the source map until revision.
+
+## 10. Rhythm rule added after bilingual story drafting
+
+Do not make the article too smooth. The current story spine deliberately changes register and argumentative pressure.
+
+Preserve these turns:
+
+- the bibliography hook is playful but immediately corrected;
+- the Warren episode narrows the scale sharply;
+- Senart expands it again;
+- p.123 slows the article into material close reading;
+- Harvard cools rather than climaxes;
+- Paris changes the evidence rather than simply continuing Harvard;
+- 1902 gives brief conceptual clarity;
+- 1906 makes the stakes politically uncomfortable;
+- the rest of 1906 disrupts any tidy developmental narrative just established;
+- *Great Chain* quiets the prose again;
+- the final bibliography/historiography return gives the opening a different meaning.
+
+The final recognition should arise from recurrence and rearrangement, not from repeating the same thesis in progressively stronger language.
 
 This is the current writing state as of the end of the 27-August synchronization.
