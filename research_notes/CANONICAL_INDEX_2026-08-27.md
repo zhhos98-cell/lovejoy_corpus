@@ -150,11 +150,12 @@ Mature-work formulation: **Occidental/Western narrative recentering with Indic/B
 
 ## 7. JHI-facing active layer
 
-- `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — sole current article-facing synthesis
+- `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — sole current article-facing evidence synthesis
+- `research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md` — **fixed first-draft writing architecture after full-repository calibration; governs structure/emphasis, not evidence authority**
 - `research_notes/JHI_blog_editor_correspondence_and_submission_alignment_batch178_2026-08-24.md` — retained only for editorial constraints / accepted-pitch alignment
 - `research_notes/JHI_blog_historiography_novelty_control_consolidated.md` — historiographic novelty control
 
-Earlier JHI drafts, pressure tests, architecture experiments, Sutta bridge supplement, grammar-audit memo, and dated gap audits are frozen process strata. Mine them only for historical wording/provenance, not current claim status.
+Earlier JHI drafts, pressure tests, architecture experiments, Sutta bridge supplement, grammar-audit memo, and dated gap audits are frozen process strata. Mine them only for historical wording/provenance, not current claim status. The 2026-08-27 first-draft architecture log above is explicitly whitelisted from this rule.
 
 ## 8. Source registers / matrices
 
