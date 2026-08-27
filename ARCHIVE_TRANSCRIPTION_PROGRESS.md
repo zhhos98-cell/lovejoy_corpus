@@ -62,9 +62,32 @@ Current model: **Marillier/EPHE comparative-religion source collection (1898–9
 - pp.106–119: cannibalism by mechanism, propitiation vs communion, rejection of circumcision-as-partial-sacrifice, initiation/purification/social-status mechanisms, selected organs as transferable efficacy; sustained argument ends p.119.
 - p.120: back-matter memorandum rather than continuation of the main argument.
 
+## 2026-08-27 full material-form audit layer
+
+The two original source PDFs are now confirmed in the user's Library `/lovejoy` folder:
+
+- `/lovejoy/MS38_004_001_061_004.pdf` — 45,542,867 bytes, 71 pages.
+- `/lovejoy/MS38_004_001_061_005.pdf` — 106,709,841 bytes, 120 pages.
+
+This resolves the earlier source-location uncertainty. **The originals are present; they are not missing.** The current technical problem is narrower: the Library page renderer returns no page image/content for these scans, and raw materialization currently returns HTTP 403. Exact byte equality against the source-PDF SHA-256 values retained in the corrected JSON has therefore not yet been revalidated.
+
+A separate non-duplicative material ledger is now initialized:
+
+- `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`
+
+Coverage is **191/191 pages structurally registered**. Each page points back to its authoritative `*_clean.json` corrected-text chunk. The second pass will record material evidence only: crossings-out, overwriting, insertions, arrows/connectors, marginalia, numbering/reordering marks, hand/ink shifts, page geometry and spatial relations.
+
+Important evidence rule: `pending_visual_second_pass` means **not yet visually re-audited**, not “feature absent.” Textual/relational claims remain controlled by the completed corrected transcriptions; pen-level/spatial claims remain capped until page images render.
+
+Priority close-audit pages remain:
+- 004: the `viññāṇa` / `nāmarūpa` temporal-versus-logical relation page, ideally ±1.
+- 005: pp.16–20 and 24–27; then 34–36, 67, 69–70, 76, 103.
+
+The user has requested that the visual second pass cover **the entire 191-page corpus**, not only these priority pages, so the final material layer should be whole-notebook coverage with extra resolution on the argument-sensitive pages.
+
 ## Cross-project research status
 
-The manuscript layer is now stable enough for publication-level concordance work. Current priority comparisons are:
+The manuscript text layer is publication-stable; the only remaining archive-side task is the all-page material-form second pass just described. Current priority comparisons are:
 
 1. **004 → 1898 JAOS → 1902 “Religion and the Time-Process”**.
 2. **005 Paris/Marillier layer → 005 1905 reuse → 1906 “Primitive Philosophy.”**
