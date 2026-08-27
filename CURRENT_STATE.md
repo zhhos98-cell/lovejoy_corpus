@@ -1,131 +1,247 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-27
-Status: **FINAL NON-MANUAL WEB SATURATION COMPLETE / 2 ARGUMENT-SENSITIVE MANUAL BLOCKERS + 3 LOW-PRIORITY CONTROLS / ACTIVE-TREE CLEANUP NET −120**
+Status: **TEXTUAL/CONCEPTUAL RESEARCH CONVERGED / MD-001 RESOLVED DIRECT PRIMARY / ONE ARGUMENT-SENSITIVE MATERIAL BLOCKER (MD-006) / ONE POSSIBLE FINAL TARGETED GRAMMAR AUDIT**
 
-This is the single living restart/state file. Detailed proof belongs in canonical dossiers and retained source/data products. Deleted batch/process prose remains recoverable through Git history.
+This is the single living restart/state file. Detailed proof belongs in canonical dossiers; deleted batch/process prose remains recoverable through Git history.
 
 ## Restart read order
 
-Default: `Quellenforschung_master_summary_2026-08-23.md`, then the relevant canonical dossier. Core current canonicals include `research_notes/004_proof_architecture_publication_selection_consolidated.md`, `004_Senart_Jacobi_Oldenberg_primary_controversy_consolidated.md`, `004_Hardy_causal_microgenesis_consolidated.md`, `004_upadisesa_lexical_semantic_recomposition_consolidated.md`, `005_Marillier_selector_alignment_consolidated.md`, `005_boundary_controls_consolidated.md`, `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`, `004_005_1902_1906_proof_warrant_architecture_consolidated.md`, the three 1904 portability canonicals, `AOS_membership_Indic_practice_continuity_consolidated.md`, `Toy_1899_taboo_morality_magic_religion_primary_control_2026-08-26.md`, `Toy_Lovejoy_1907_authority_scope_logical_chronological_redivision_control_2026-08-26.md`, `Everett_1899_Vedanta_Sankhya_teacher_primary_control_2026-08-26.md`, `Jastrow_1893_preLovejoy_Harvard_source_specialism_primary_control_2026-08-26.md`, `Jastrow_1899_source_jurisdiction_historical_study_religions_primary_control_2026-08-26.md`, `Lovejoy_1906_Kant_historical_rubric_discontinuity_control_2026-08-26.md`, `Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`, `1908_1909_decomposition_recombination_reception_consolidated.md`, `1910_self_revision_controls_consolidated.md`, `Lovejoy_1906_early_reception_Leuba_King_Jung_consolidated.md`, `Lovejoy_1906_citation_shadow_source_transformation_consolidated.md`, `Lovejoy_Science_Service_archive_ecology_consolidated.md`, `Wilson_1982_Indic_reception_topology_consolidated.md`, `JHI_latest_delta_gap_audit_2026-08-26.md`, `final_web_saturation_sweep_2026-08-27.md`, and `manual_download_click_backlog.md`.
+Default: `Quellenforschung_master_summary_2026-08-23.md`, then relevant canonical dossiers.
 
-## Core model and claim discipline
+Highest-value current additions:
 
-Shared problem/category field → local redivision/reweighting → relation-specific judgment → internally stratified historical object → transverse comparison → possible broader reaggregation. Do not frame early Lovejoy as inventor of the constituent operators. The defensible documentary delta is selection/reweighting of inherited distinctions, repeated local testing, dense reallocation of cases/relations, transport across domains, and later scale expansion/re-totalization.
+- `research_notes/Lovejoy_1906_Democracy_direct_primary_stratification_control_2026-08-27.md`
+- `research_notes/lovejoy_1903_1906_government_democracy_primitive_publication_ecology_batch216.md`
+- `research_notes/Lovejoy_1906_Kant_historical_rubric_discontinuity_control_2026-08-26.md`
+- `research_notes/lovejoy_1906_primitive_predicate_topology_reaggregation_batch210.md`
+- `research_notes/Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`
+- `research_notes/Thomas_1898_Marillier_student_operator_control_2026-08-27.md`
+- `research_notes/Jastrow_1893_Congress_method_scope_primary_control_2026-08-27.md`
+- `research_notes/Great_Chain_1936_Indic_comparator_primary_control_2026-08-27.md`
+- `research_notes/Dahlmann_JRAS_1897_review_primary_control_2026-08-27.md`
+- `research_notes/manual_download_click_backlog.md`
 
-A stronger proposition does not automatically inherit evidence that established a weaker proposition. Keep textual witness, semantic/function control, historical dependence, publication selection, source competence, warrant, and cross-regional synthesis distinct. Harvard→Paris is an overlap zone, not a clean handoff. 1904 controls show portability of proposition-sensitive inference outside the Buddhist setting without proving Buddhist causation of the later method.
+Core earlier canonicals remain authoritative for 004/005 proof architecture, Senart/Jacobi/Oldenberg, Hardy, upādisesa, Marillier selector alignment, 1902/1904 portability, Toy/Everett/Jastrow field controls, 1908–10 decomposition/recombination, early reception and Great Chain/Wilson reception topology.
 
-Jastrow 1893 supplies the strongest pre-Lovejoy institutional-method control for Harvard. Before Lovejoy's 1895 arrival, Jastrow already described Harvard's history-of-religions provision as Everett's general Comparative History of Religions supplemented by religion-specific work including Toy on Hebrew religion and Lanman on the Sacred Books of Buddhism — the same three pedagogical jurisdictions Lovejoy later directly traversed in 1896–97. The 1893 conclusion explicitly says general/comparative work acquires value through careful prolonged study of a particular religion, which requires source knowledge and lies within the specialist's province. The Cambridge History of Religions Club and Toy-chaired American lecture committee are pre-Lovejoy institutional context, not Lovejoy participation evidence. Jastrow 1899 is a later sharpening into explicit `axiom` language, not the first appearance of this architecture.
+---
 
-Toy 1899 is a full-primary American teacher/problem-field control. `Taboo and Morality` separates antecedent presence from active causal role, transmission from moral effect, and religious reinforcement from origin of a right; `Relation between Magic and Religion` restricts category scope by mechanism, rejects hard early binaries, redivides composite functions and blocks a local transmission mechanism from becoming a universal genealogy. **Uptake firewall:** no explicit Toy citation has been recovered in indexed 005 material, so do not write Toy→005 method transmission. Lovejoy 1907 separately supplies direct teacher-authority continuity: Toy warrants relative chronology while Lovejoy reconstructs logical sequence.
+## Core model
 
-Everett 1899 is a second full-primary Harvard teacher control for the 004 side. His `Psychology of the Vedanta and Sankhya Philosophies` engages Garbe/Dahlmann, makes a strong Vedānta→Sāṃkhya developmental claim, marks another origin hypothesis as merely conjectural, warns that imported terms such as `Soul`, `Nature` and `matter` distort the system, and actor-declares author/commentator source compression because his object is synthetic school psychology. **Chronology firewall:** the paper postdates Lovejoy 1898 and cannot be its source. Its payoff is the multi-jurisdiction model: Everett's whole-system psychology, Lanman/JAOS philology and Toy's mechanism/causal partition operate at different evidentiary resolutions.
+**Shared problem/category field → local redivision/reweighting → relation-specific judgment → internally stratified historical object → transverse comparison → possible broader reaggregation.**
 
-Jastrow 1899 makes the same multi-jurisdiction structure more formal: no single scholar can perform the historical study of religions at adequate source resolution; particular fields belong to source-competent specialists; direct recourse to sources is an axiom for particular historical study; general/comparative work occupies another synthetic level. **Period-evolutionism firewall:** both 1893 and 1899 combine source-specialist discipline with progressive/developmental totalization. Fine source specialization and civilizational staging could coexist in the field; do not transpose Jastrow's hierarchy into Lovejoy's political semantics or infer direct Jastrow→Lovejoy uptake.
+Governing rule:
 
-Lovejoy's 1906 `Kant's Antithesis of Dogmatism and Criticism` is a direct same-year historical-classification control. He treats `dogmatism/criticism` as an accepted history-of-philosophy rubric that bundles stronger claims about predecessor doctrine, Kantian divergence, originality and period rupture; after disaggregating those relations against Leibniz/Wolff/Kant primary doctrine, he concludes that the binary as a historical contrast falls to the ground. This makes 1906 especially important: Lovejoy is **simultaneously dismantling one grand inherited historical classification after local audit and constructing a new cross-regional comparative category in `Primitive Philosophy`**. Decomposition and totalization are contemporaneous operations, not a simple chronological progression.
+> **A stronger proposition does not automatically inherit evidence that established a weaker proposition.**
 
-## 1907 direct-primary closure — proposition type, probability, politics, India/Occident
+Keep textual witness, semantic/function control, causal role, genealogy, source competence, publication selection, historical position and cross-regional synthesis distinct.
 
-The final web sweep recovered the complete public-domain body of Lovejoy's `The Entangling Alliance of Religion and History`, *Hibbert Journal* 5.2 (1907), 258–276, via Internet Archive identifier `hibbertjournal05londuoft`. MF-002 is resolved.
+Do not frame early Lovejoy as inventor of the constituent operators. His defensible delta is selection/reweighting, local testing, dense reallocation, transport across domains and later scale expansion/re-totalization.
 
-Direct primary establishes:
+---
 
-- universal/cosmic religious truth ≠ contingent historical occurrence;
-- historical propositions depend on restricted testimonial/record access rather than universal direct verification;
-- remote particular past events receive probabilistic rather than demonstrative epistemic status in Lovejoy's strict vocabulary;
-- events contrary to ordinary experience carry a stronger adverse presumption and documentary burden;
-- politics is explicitly characterized as practical, relative and temporal, with no self-evident reason for one identical government/social order across differently situated societies;
-- Lovejoy uses more than one `great system of India` as a broad example of an unhistorical religious type and contrasts that type with Christianity/the temper of the Occident.
+## Harvard / Paris field architecture
 
-This is now the strongest actor-explicit published analogue for **proposition type → epistemic/evidentiary status**. It does **not** license retrojection of a consciously formulated 1907 epistemology into the 1898 notebooks.
+Pre-Lovejoy Harvard is now direct-primary controlled as a distributed history-of-religions ecology rather than one transmitted method.
 
-The political passage materially strengthens continuity around Wilson's synopsis of `Democracy in the Twentieth Century`, but **does not settle the 1906 semantics of `race`, culture, stage or capacity**. MD-001 therefore remains the political blocker.
+Jastrow 1893/1899 assigns particular source fields to specialists, separates source-level work from general/comparative synthesis, and later formalizes direct recourse to sources and division of specialist labor. Everett, Toy and Lanman represent different evidentiary resolutions; Lovejoy later traversed all three jurisdictions.
 
-The India/Occident passage must not be silently reduced to Buddhism. It is a broad 1907 typological contrast in an argument about historical religion.
+Jastrow also proves an important negative theoretical point: **fine source specialization and progressive/civilizational totalization can coexist.** Do not infer source discipline = anti-hierarchy.
 
-The 1908–1909 decomposition/recombination branch remains conceptually closed: one historical label does not license evidentiary transfer among logically independent contentions; recombination can produce configurational novelty; historical-genealogical links require local source/chronology/semantic validation before cumulative judgment; Lovejoy's own `antecedent probabilities` scales the global burden. The 1909→1910 Kant evolution sequence separately supplies an actor-acknowledged correction from whole-actor umbrella classification to domain/proposition distinctions.
+Paris/Marillier remains an overlap zone, not a clean Harvard→Paris handoff. Thomas 1898 now supplies a second-student product in which form/function/origin are locally separated while the conclusion reaggregates evidence into racial/civilizational geological stages. This is a strong same-workshop control for:
 
-## Mature-work / JHI epilogue control
+> **decomposition does not imply anti-totalization.**
 
-The mature-work side should be phrased as **redistribution and change of narrative center**, not simple disappearance of the early Indic materials. `Wilson_1982_Indic_reception_topology_consolidated.md` shows bibliographic repartition and asymmetrical retrospective routing: explicit Buddhist/Indic objects remain retrievable, but Great-Chain/evolution nodes receive denser methodological genealogy.
+No direct Marillier→Lovejoy operator transmission should be claimed beyond controlled workshop/source relations.
 
-A scan-derived OCR of a later Harvard printing of *The Great Chain of Being* supplies a working mature-primary control. Lovejoy defines the book's object in terms of `Occidental philosophy` and persistent presuppositions in `Western thought`; he describes the task as relating separately told historical parts to a `single pervasive complex of ideas` across distinct provinces of history of thought. Straightforward OCR searches did not recover `Buddh*`, `Vedanta`, or `Hindu`. Independent scholarly page-addressed transcriptions locate at printed p.35 the contrast between Plato as source of the indigenous Occidental strain of otherworldliness and `imported Oriental varieties`.
+---
 
-Exact p.35/index page proof is now **optional publication-grade hygiene**, not an argument-sensitive blocker. Until direct page proof is returned, do not identify the `Oriental varieties` specifically as Buddhism and do not turn bounded negative OCR into deliberate-exclusion claims.
+## 004 / 005
 
-Safe epilogue: mature canonical narrative declares an Occidental/Western center; early Indic materials are redistributed into less central comparanda/boundary/reception routes rather than simply erased.
+004 and 005 remain the archival center of the JHI argument.
 
-## 1906 scale politics
+004 separates textual identity, semantic function, causal role, chronology and genealogy; manuscript preserves proof problems pruned from the 1898 print article.
 
-Decomposition can generate a new totalization. Fletcher supplies an actor-declared limited-area source ceiling; Lovejoy's cross-regional use is a demonstrable receiver-side scale expansion.
+005 repeatedly decomposes afterlife/sacrifice/ritual explanations into death-type, taboo/custom, social rank/status, ritual provision, relation, chance, imported moralization and moral desert. Local mechanisms and historical strata need not synchronize.
 
-`lovejoy_1903_1906_government_democracy_primitive_publication_ecology_batch216.md` remains the canonical political saturation dossier. Do not generate further political conceptual batches from Wilson's same mediated summary. Direct 1907 evidence now independently establishes political relativity/nonuniformity, but the only live conceptual political issue is still the direct 1906 article: exact semantics of `race`, `stage of culture`, `traditions`, capacity/hierarchy, and whether a general normative end survives institutional differentiation.
+Corrected transcriptions are sufficient for textual/relational claims.
 
-## Material-form ceiling
+**Material-form ceiling:** original PDFs/raw image-coordinate layer are not currently retrievable. Without MD-006, do not upgrade textual revision into strong claims about pen-level overwriting, arrows, spatial rearrangement or crossings-out.
 
-The corrected 004/005 transcriptions are sufficient for the textual/relational architecture, and the repo preserves metadata proving that original PDFs were manually visually checked when those transcriptions were made. Prior source files were `MS38_004_001_061_004.pdf` (71 pages) and `MS38_004_001_061_005.pdf` (120 pages), with PaddleOCR-VL JSON scaffolds.
+---
 
-A repository + Library + final-web audit did **not** recover the original PDF files or exact raw image/coordinate JSON. GitHub contains corrected page-batch transcriptions plus upload-resolution metadata; searchable Library contains other Lovejoy objects but no exact source PDFs. Therefore MD-006 is a genuine **original-page-return blocker**, not an unresolved search-location problem.
+## 1902–1905 bridge
 
-Without MD-006, textual claims about sequence, reallocation, inserted slips and relation-specific reasoning remain usable. Claims about pen-level overwriting, arrows, spatial revision, crossings-out and material affordance must remain cautious.
+1902 supplies affinity ≠ transmission and internal genealogy can make borrowing unnecessary.
 
-## Final non-manual saturation judgment
+1904 controls show proposition-sensitive inference outside the Buddhist setting without proving Buddhist causation of later method.
 
-`research_notes/final_web_saturation_sweep_2026-08-27.md` records the final target-by-target audit. A deliberately broad blind-spot search for overlooked 1898–1907 Lovejoy primaries did not produce a competing evidentiary spine. `The Social Rôle of the French University` and the 1901 Buddhism syllabus remain bibliographically visible but did not yield newly exposed direct bodies that alter the current model.
+1905 Washington University materials show continuing political/educational concern with civic formation and social assimilation, but they no longer need to carry the 1906 political argument indirectly because the direct 1906 text is now recovered.
 
-Treat the non-manual web branch as **saturated** unless:
+---
 
-1. MD-001 direct pages arrive;
-2. MD-006 original notebook pages arrive;
-3. a newly digitized primary directly contradicts the relation/scale model;
-4. a publication draft requires exact facsimile wording from an optional page-proof object.
+## 1906: the central scalar laboratory
 
-Further horizontal expansion to adjacent scholars/analogous operators is unlikely to increase explanatory power.
+1906 is now the strongest hinge in the project because three direct primaries within months perform different scale operations.
 
-## Early reception
+### 1. `Democracy in the Twentieth Century`
 
-Leuba accepts non-personal power/evidence while contesting strong mechanical regularity; King/Leuba/Lovejoy form a feedback ecology with proposition-level HOLDs; Jung moves from 1917 historical-warrant appropriation to 1928 epistemic re-audit. Citation edge ≠ proposition assent. Distributed mechanical/force/energy vocabulary is not a Lovejoy fingerprint. Codrington is the strongest same-source transformation control; Durkheim's ellipsis is openly marked, and Swain/Hardy show that the shortened quotation packet travels.
+Address delivered 19 February 1906; published in *Bulletin of the Washington University Association* 4 (1906), 81–102. Direct HathiTrust text returned by user; MD-001 resolved.
 
-AOS chronology uses the corrected last positive corporate-member evidence: December 1901; exit after Dec.1901 / before Jan.1903. Membership is only a proxy for Indic practice.
+Lovejoy contrasts eighteenth-century `Nature` with nineteenth-century `Evolution`:
 
-## Science Service archive canonical
+- Nature = one simple, universally valid political norm for `man as man`;
+- Evolution = variable, contingent, historically relative institutions.
 
-Use `research_notes/Lovejoy_Science_Service_archive_ecology_consolidated.md` instead of Batches105/107/108/109 prose. The row-level CSVs remain the audit layer.
+He then adds `race and nationality` and explicitly says the conjunction of:
 
-Four explicit RU7091 folder-level Lovejoy presences are controlled: 1927 B87/F2, 1928 B97/F1, 1929 B105/F1, 1940 B219/F8. Exact candidate containers exist for 1930–38, 1942–47 and 1950–62 but are retrieval facts, not positive presence. Preservation gaps include 1939 K–Smi, 1941 He–Sg within a broader multi-span discontinuity, 1948 A–Sm, and broad 1949 general-correspondence loss; 1926 is a Series-5-specific gap with overlapping Series-2 L containers surviving. Missing ranges do not prove missing Lovejoy documents.
+- stages of social evolution; and
+- racial/national genius
 
-Science Service is a split-custody ecology: RU7091 correspondence, Acc90-105 portrait/biographical morgue, Acc90-068 topical-morgue candidate, Davis/Slosson reciprocal-fonds leads, and a separate Honigmann Lovejoy-titled component. Shared organizational provenance does not establish document identity. B230/F1 `Note on missing 1941 folders` is the highest-value preservation object; the 1941 office move remains contextual hypothesis only until that note is inspected.
+has destroyed the unity of eighteenth-century `generic Man`, splitting him **`longitudinally and cross-wise`**.
 
-## Remaining controls by argumentative consequence
+The two axes are not equivalent:
 
-### Argument-sensitive P0
+- **stage of culture** carries the stronger developmental hierarchy;
+- **race/national genius** is an independent cross-wise differentiator, but Lovejoy says institutional mismatch only *may* follow and warns that the race category is overworked.
 
-- **MD-001 — Lovejoy, `Democracy in the Twentieth Century` (1906), pp.81–102.** Largest remaining substantive uncertainty. Resolves exact political semantics of race/stage/culture/democracy/hierarchy and politics of differential scale.
-- **MD-006 — original notebook 004/005 page images.** Largest remaining material-method uncertainty. Resolves whether conceptual reclassification is visibly enacted through pen-level/spatial revision.
+Best semantic classification:
 
-### Low-priority active controls
+> **mixed racial-national-historical population category with real racialized political consequences, not a cleanly biological doctrine.**
 
-- **MD-007** — N. W. Thomas 1898 article-internal operator; P2.
-- **MD-009** — exact EPHE Vth Section 1898–99 scolarité cote; P3.
-- **MD-010** — JRAS 1897 Dahlmann notice body/signature; P3.
+Lovejoy applies the argument to colonial policy, female suffrage and Black enfranchisement/disfranchisement; the text includes regret about the `hasty` enfranchisement of Black Americans and sympathy with attempts to disfranchise illiterate Black voters, while withholding final explicit judgment on particular cases.
 
-These strengthen local provenance/ecology but cannot overturn the JHI spine.
+Do not sanitize this into neutral contextualism; do not inflate it into a fully articulated hereditary biological race theory.
 
-### Optional publication-grade/page-proof controls
+Crucially, political relativity is **not normative nihilism**. Lovejoy rejects natural-rights absolutism but retains higher consequential/civilizational criteria: general welfare, civil liberty, order, culture, civic virtue, continuity and maintenance/elevation of the `standard of civilization`.
 
-- Jastrow Congress 1893 pp.287–297 — exact psychology/source/origin relation;
-- Harvard 1896–97 catalogue pp.73, 75, 99 — exact course wording;
-- *Great Chain* p.35 + index — exact `Oriental` page proof.
+Thus the 1903 fork is resolved as:
 
-None should delay drafting or MD-001/MD-006.
+> **general evaluative ends + historically differentiated institutional suitability.**
 
-`research_notes/manual_download_click_backlog.md` is the **only living manual queue**. The temporary `manual_fast_click_addendum_2026-08-26.md` has been merged and deleted.
+### 2. `Kant's Antithesis of Dogmatism and Criticism`
 
-## Cleanup state
+April 1906, *Mind* 15.58, 191–214.
 
-Current cumulative net active-tree reduction on this cleanup line: **120 files**.
+Lovejoy disaggregates an accepted whole-period historical rubric into predecessor doctrine, Kantian divergence, argument novelty and historical discontinuity; after local audit, the macro contrast falls to the ground.
 
-Recent consolidations: Wilson staged prose; 1904 portability staged prose; proof/warrant Batches68–80 with Batch71 retained; early reception Batches81–87; citation-shadow/source-transformation Batches91–94,97,99; Science Service archive ecology Batches105,107–109. Preserve primary/corrected transcriptions, matrices, source registers, locator CSVs and genuinely unique microhistories; remove only superseded interpretation/process layers after unique content has a living home.
+Operation:
 
-Archive/provenance/AAUP Batches88–90,95–96,98,100 and the JHU/Stanford provenance sequence 110+ remain active until separately audited. Unique source microhistories such as Batch101 and Batch104 remain active.
+> **macro classification → local proposition audit → macro classification rejected.**
+
+### 3. `The Fundamental Concept of the Primitive Philosophy`
+
+*The Monist* 16.3, **1 July 1906**, 357–382.
+
+Local ethnographic/lexical claims are decomposed proposition by proposition; heterogeneous regional histories remain plural; a recurring impersonal/quasi-mechanical mechanism is abstracted across them; the abstraction is then reattributed upward as `primitive philosophy`, `savage thought`, `most savages` and broad populations.
+
+Operation:
+
+> **local plurality → mechanism abstraction → transverse equivalence → collective cognitive reaggregation.**
+
+### 1906 conclusion
+
+The former hypothesis is now direct-primary:
+
+> **Lovejoy was moving scale in several directions at once: differentiating formerly universal political subjects, dismantling unsupported historical wholes, and rebuilding cross-cultural wholes when he judged local evidence sufficient.**
+
+Therefore the project should not narrate `context → abstraction` or `totalization → pluralism` as a simple developmental sequence.
+
+The central question is:
+
+> **What warrant licenses movement between local relation, population differentiation and aggregate historical category?**
+
+---
+
+## 1907–1910 actor-explicit warrant controls
+
+1907 `Entangling Alliance` is direct-primary recovered. Lovejoy distinguishes universal/cosmic propositions from contingent historical occurrences, gives historical propositions probabilistic epistemic status and imposes stronger documentary burden on extraordinary events. He also explicitly calls politics practical/relative/temporal and contrasts Indian religious systems with the historical temper of Christianity/the Occident.
+
+Do not retroject the 1907 explicit epistemology as Lovejoy's consciously formulated 1898 notebook method. Use it as later actor-explicit control.
+
+1907 Toy/ethical-inwardness work separates specialist authority for chronology from Lovejoy's own logical/developmental reconstruction.
+
+1908–09 `Thirteen Pragmatisms` / Smith controversy / `antecedent probabilities` make proposition decomposition and cumulative burden explicit.
+
+1909→1910 Kant revision supplies actor-acknowledged correction from an umbrella classification to domain/proposition distinctions.
+
+---
+
+## Mature work: functional repartition, not disappearance
+
+User-returned full *Great Chain of Being* OCR corrects the earlier bounded-search impression.
+
+The book explicitly organizes its principal genealogy as `Occidental philosophy` / `Western thought`, but Buddhism/Vedānta are **not absent**. Lecture II directly uses Upanishadic, Vedāntist and Buddhist materials as comparative forms of otherworldliness; index entries include `Buddhism, 30, 97` and `Vedânta philosophy, 30, 42`.
+
+Safe mature-work claim:
+
+> **The center of historical narration becomes explicitly Occidental/Western, while Indic/Buddhist material persists in a changed function — more as comparative philosophical type/boundary control than as the early local philological/causal/genealogical proof problem.**
+
+Call this **functional repartition / change of narrative center**, not disappearance or deliberate exclusion.
+
+---
+
+## New lead generated by MD-001
+
+One research question remains genuinely new and potentially worth a final narrow round:
+
+> **Did Lovejoy reject Tylor/Frazer-style substantive master explanations while retaining or reworking the field's classificatory grammar of `stage of culture` / `race` / `primitive philosophy`?**
+
+Why this is live:
+
+- February `Democracy` uses stages of social evolution, race/nationality, anthropology and institutional relativity;
+- July `Primitive Philosophy` attacks Brinton, Guyau, Tylor, Spencer, Grant Allen/Frazer-type substantive theories, yet still reaggregates `primitive` cognition across broad populations and relevant stages;
+- Tylor's own *Primitive Culture* famously organizes `stages of culture`, comparative races and `primitive philosophy` as field-level categories.
+
+This is **not** yet evidence of Tylor→Lovejoy direct transmission. It is a grammar/source-history question.
+
+If one final research round is run, it should be restricted to:
+
+1. direct lexical/conceptual overlap between Tylor and Lovejoy's two 1906 papers;
+2. Lovejoy's explicit use/rejection of Tylor in the July paper;
+3. whether Mill/Herder/Spencer provide a better source for the political stage axis;
+4. whether any Lovejoy 1906 text explicitly links anthropological stage/race categories to comparative-religion reaggregation.
+
+Stop immediately if this yields only generic period vocabulary or analogy. Do **not** reopen broad adjacent-scholar searching.
+
+---
+
+## Manual queue
+
+`research_notes/manual_download_click_backlog.md` is the only living manual queue.
+
+### Sole argument-sensitive blocker
+
+**MD-006 — original notebook 004/005 page images.**
+
+This affects only material-method claims. It cannot overturn the textual/warrant/scale spine.
+
+### Optional only
+
+Harvard 1896–97 exact Everett/Toy/Lanman catalogue wording. Lovejoy's actual training/traversal is already secure; skip unless effortless.
+
+### Closed
+
+MD-001 Democracy direct primary; MD-007 Thomas; MD-009 negative EPHE exact-cote retrieval; MD-010 Dahlmann JRAS; Jastrow Congress; Great Chain p35/index/full audit; 1907 Hibbert.
+
+---
+
+## Final JHI architecture
+
+The article is now draftable without further web research:
+
+> **Harvard distributed source jurisdictions → 004 relation-specific proof problems → 1898 publication selection → Paris/Marillier + 005 selector/mechanism decomposition → 1902 portability of relation-specific genealogy → 1906 scalar laboratory (political two-axis stratification + Kant decomposition + primitive reaggregation) → 1907–10 actor-explicit warrant controls → mature Occidental recentering with Indic material functionally repartitioned.**
+
+Strongest revised historiographical claim:
+
+> **Decomposition and totalization were contemporaneous possibilities. Lovejoy's early archive is interesting not because it shows a linear escape from context into abstraction, but because it reveals how local evidentiary work could license — or block — movement between relation-specific analysis and larger historical classification.**
+
+---
+
+## Saturation decision rule
+
+General web research is saturated.
+
+A final round is justified **only** as a short 1906 classificatory-grammar audit. It should be abandoned if no direct lexical/source edge beyond generic period vocabulary appears.
+
+MD-006 return would trigger a separate material-form closure round, not another general web sweep.
