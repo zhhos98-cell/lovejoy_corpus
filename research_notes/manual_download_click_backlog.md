@@ -1,32 +1,15 @@
 # Manual download / click backlog — canonical
 
 Last updated: 2026-08-27
-Status: **ONLY LIVING MANUAL QUEUE / FINAL WEB + USER-RETURN SATURATION COMPLETE**
+Status: **ONLY LIVING MANUAL QUEUE / ONE ARGUMENT-SENSITIVE BLOCKER REMAINS**
 
 Only keep a target active when a human return can still change or materially calibrate the argument.
 
-## ACTIVE — argument-sensitive blockers
-
-### MD-001 — Arthur O. Lovejoy, `Democracy in the Twentieth Century` (1906)
-
-**Priority:** P0 / largest remaining conceptual-political uncertainty.
-
-Target: *Bulletin of the Washington University Association* 4 (1906), 81–102.
-
-- NYPL catalogue: https://www.nypl.org/research/research-catalog/search?filters%5BplaceOfPublication%5D%5B0%5D=St.+Louis+%5BMo.%5D
-- backup / Hathi route: https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha008898765
-
-Return whole pp.81–102 if possible; minimum useful capture pp.81–86 + 98–102.
-
-Resolves exact semantics of `race`, stage/culture/tradition, democratic relativity, differential capacity/hierarchy, and whether a general normative end survives historically differentiated application.
-
-Lovejoy 1907 `Entangling Alliance` now independently proves political relativity as his own language, but it does not settle the 1906 `race`/capacity semantics.
-
----
+## ACTIVE — argument-sensitive blocker
 
 ### MD-006 — original 004/005 notebook page images
 
-**Priority:** P0 / material-method closure.
+**Priority:** P0 / sole remaining argument-sensitive manual blocker.
 
 Target source PDFs:
 - `MS38_004_001_061_005.pdf`
@@ -52,21 +35,34 @@ Target exact course descriptions, especially the pages Wilson cites as 73, 75, 9
 
 IIIF manifest: https://iiif.lib.harvard.edu/manifests/view/drs:467059505$7i
 
-**2026-08-27 user return:** `URN-3-HUL.ARCH-39991521...json` contains examination-group/regulation pages but no OCR hits for Everett, Toy, Lanman, Buddhism or the desired course descriptions. It therefore does **not** close this optional item.
+**2026-08-27 user return:** `URN-3-HUL.ARCH-39991521...json` contains examination-group/regulation pages but no OCR hits for Everett, Toy, Lanman, Buddhism or the desired course descriptions. It does **not** close this optional item.
 
-No need to pursue unless the exact course-description pages are easy to identify. Lovejoy's actual traversal of the three pedagogical jurisdictions is already independently secure.
+No need to pursue unless the exact pages are effortless. Lovejoy's actual traversal of the three pedagogical jurisdictions is independently secure.
 
 ---
 
 ## RESOLVED BY USER RETURNS — 2026-08-27
 
+### MD-001 — Arthur O. Lovejoy, `Democracy in the Twentieth Century` (1906)
+
+**RESOLVED DIRECT PRIMARY. DO NOT DOWNLOAD AGAIN.**
+
+Returned full HathiTrust computer-extracted text from Harvard-origin scan, handle:
+https://hdl.handle.net/2027/hvd.hnav7c
+
+Article: *Bulletin of the Washington University Association* 4 (1906), 81–102; address delivered 19 February 1906.
+
+Key result: Lovejoy directly says nineteenth-century social evolution plus racial/national difference destroyed the unity of Enlightenment `generic Man`, splitting him `longitudinally and cross-wise`. Stage-of-culture difference carries the stronger modal hierarchy; racial/national difference is separately real but qualified (`I do not ... say must be`) and Lovejoy warns the race category is overworked. Political forms are relativized to stage/history/population, while a higher consequences/general-welfare/`standard of civilization` criterion survives. The conclusion applies the framework to colonial policy, female suffrage and Black enfranchisement/disfranchisement.
+
+Canonical: `research_notes/Lovejoy_1906_Democracy_direct_primary_stratification_control_2026-08-27.md`.
+
 ### MD-007 — Northcote Whitridge Thomas, 1898
 
 **RESOLVED DIRECT PRIMARY.**
 
-Returned full article: `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *RHR* 38 (1898), 295–347, JSTOR stable 23660286.
+Full article returned: `La survivance du culte totémique des animaux et les rites agraires dans le Pays de Galles`, *RHR* 38 (1898), 295–347, JSTOR stable 23660286.
 
-Key result: Thomas repeatedly separates present/formal resemblance, ritual function and historical origin; ambiguous forms do not warrant totemic genealogy; competing totemic/agricultural explanations are tested locally. Yet the conclusion reaggregates the evidence into racial/civilizational `geological` stages. Strong same-workshop control for `decomposition does not imply anti-totalization`.
+Key result: form/function/origin are separated locally, while the conclusion reaggregates evidence into racial/civilizational geological stages. Strong same-workshop control for `decomposition does not imply anti-totalization`.
 
 Canonical: `research_notes/Thomas_1898_Marillier_student_operator_control_2026-08-27.md`.
 
@@ -74,13 +70,13 @@ Canonical: `research_notes/Thomas_1898_Marillier_student_operator_control_2026-0
 
 **CLOSED AS NEGATIVE RETRIEVAL / DO NOT KEEP CHASING.**
 
-User reports the exact 1898–99 cote/register could not be found through the available route. Broad scolarité-series scope remains secure, but no exact Lovejoy registration object was located. Record as a provenance gap, not evidence of non-attendance or non-registration. Do not order broad cartons merely to close this marginal point.
+Exact 1898–99 cote/register could not be located through the available route. This is a provenance gap, not evidence of non-attendance/non-registration.
 
 ### MD-010 — Dahlmann 1897 JRAS notice
 
 **RESOLVED DIRECT PRIMARY.**
 
-Returned pp.407–410. The notice supplies no terminal initials/signature; reviewer remains anonymous at page level. It rejects Dahlmann's Nirvāṇa and Sāṃkhya/Vedānta dilemmas as wrongly posed, separates useful Mahābhārata source collection from unconvincing system/genealogy theory, and questions application of the later `Sāṃkhya` label.
+Returned pp.407–410. No terminal initials/signature; reviewer remains anonymous. Review separates useful source collection from unconvincing system/genealogy theory.
 
 Canonical: `research_notes/Dahlmann_JRAS_1897_review_primary_control_2026-08-27.md`.
 
@@ -88,7 +84,7 @@ Canonical: `research_notes/Dahlmann_JRAS_1897_review_primary_control_2026-08-27.
 
 **RESOLVED DIRECT PRIMARY.**
 
-Returned full Congress volume. Jastrow explicitly links original-source competence, independent research in a specialist jurisdiction, use of other specialists, anthropology, the `new psychology`, folklore and comparative synthesis; he warns against proving too much from analogies, especially in primitive culture. The same paper also contains explicit racial/developmental hierarchy.
+Jastrow directly links original-source competence, specialist original research, new psychology, anthropology/folklore and comparative synthesis, while warning against proving too much from analogy. Same paper also retains developmental/racial hierarchy.
 
 Canonical: `research_notes/Jastrow_1893_Congress_method_scope_primary_control_2026-08-27.md`.
 
@@ -96,15 +92,15 @@ Canonical: `research_notes/Jastrow_1893_Congress_method_scope_primary_control_20
 
 **RESOLVED DIRECT PRIMARY; PRIOR BOUNDED-OCR IMPRESSION CORRECTED.**
 
-Returned full book OCR. The book explicitly centers `Occidental philosophy` / `Western thought`, but Buddhism/Vedānta are not absent: Lecture II uses Upanishadic, Vedāntist and Buddhist materials as comparative forms of otherworldliness; printed p.35 distinguishes Plato's indigenous Occidental strain from imported Oriental varieties; index gives `Buddhism, 30, 97` and `Vedânta philosophy, 30, 42`.
+Book centers Occidental/Western genealogy, but Buddhism/Vedānta remain explicit comparators; index includes `Buddhism, 30, 97` and `Vedânta philosophy, 30, 42`.
 
-Revised mature-work claim: **functional repartition, not disappearance** — early Indic materials move from local philological/genealogical proof problems toward comparative philosophical types around an Occidental historical genealogy.
+Revised claim: **functional repartition, not disappearance**.
 
 Canonical: `research_notes/Great_Chain_1936_Indic_comparator_primary_control_2026-08-27.md`.
 
 ### MF-002 — Lovejoy, `The Entangling Alliance of Religion and History` (1907)
 
-**RESOLVED DIRECT PRIMARY.** User also returned the full Hibbert Journal OCR as a redundant preservation copy.
+**RESOLVED DIRECT PRIMARY.** User also returned a full OCR preservation copy.
 
 Canonical: `research_notes/Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`.
 
@@ -119,8 +115,7 @@ Canonical: `research_notes/Lovejoy_1907_Entangling_historical_probability_contem
 
 ## Current priority
 
-1. **MD-001** — only remaining substantive/political blocker.
-2. **MD-006** — only remaining material-form blocker.
-3. **OPT-002** — optional exact Harvard wording only; may be skipped.
+1. **MD-006** — sole argument-sensitive blocker, material-form only.
+2. **OPT-002** — optional exact Harvard wording; may be skipped.
 
-Everything else in the former manual queue is closed, negatively resolved, or parked.
+No other former manual target remains active.
