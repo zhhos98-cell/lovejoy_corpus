@@ -125,4 +125,4 @@ Core comparisons remain:
 2. **005 Paris/Marillier layer → 005 1905 reuse → 1906 “Primitive Philosophy.”**
 3. **005 Hebrew/`Hist. Relig.` layer → 1907 “The Origins of Ethical Inwardness in Jewish Thought.”**
 
-See the canonical live research log: `research_notes/lovejoy_as_orientalist_web_sweep.md`.
+For current analytical authority, use `CURRENT_STATE.md`, `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`, and `research_notes/CANONICAL_INDEX_2026-08-27.md`.
