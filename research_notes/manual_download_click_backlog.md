@@ -1,29 +1,38 @@
 # Manual download / click backlog — canonical
 
 Last updated: 2026-08-27
-Status: **ONLY LIVING MANUAL QUEUE / ONE ARGUMENT-SENSITIVE BLOCKER REMAINS**
+Status: **NO USER DOWNLOAD REQUIRED FOR MD-006 / SOURCE PDFs LOCATED IN LIBRARY / ONE MATERIAL-RENDER BLOCKER REMAINS**
 
 Only keep a target active when a human return can still change or materially calibrate the argument.
 
-## ACTIVE — argument-sensitive blocker
+## ACTIVE — material-form closure
 
 ### MD-006 — original 004/005 notebook page images
 
-**Priority:** P0 / sole remaining argument-sensitive manual blocker.
+**Priority:** P0 / sole remaining argument-sensitive material-form blocker.
 
-Target source PDFs:
-- `MS38_004_001_061_005.pdf`
-- `MS38_004_001_061_004.pdf`
+**SOURCE LOCATED IN USER LIBRARY — DO NOT DOWNLOAD AGAIN.**
 
-JHU collection context: https://aspace.library.jhu.edu/repositories/3/resources/54
+Confirmed Library objects:
+- `/lovejoy/MS38_004_001_061_004.pdf` — 45,542,867 bytes; 71 pages; Library file id `file_00000000dfa481fd9d549368a8f68714`.
+- `/lovejoy/MS38_004_001_061_005.pdf` — 106,709,841 bytes; 120 pages; Library file id `file_000000000ffc81fda510be332dc2df5f`.
 
-005 highest priority: pp.16–20 and 24–27; optional 34–36, 69–70, 67/76 if effortless, p.103.
+Earlier corrected-transcription provenance records preserve source hashes:
+- 004 PDF SHA-256: `1ec301a9696949c04acf1c64633377db3fa8c68348d170831b8caa53c561b75f`.
+- 005 PDF SHA-256: `7ebf4e672bdb2267e71a9c6b617df2078f057b1f23858f2770a3f9de004d96ad`.
 
-004 highest priority: page containing `viññāṇa` as `temporally (?) antecedent` to `nāmarūpa` but `logically a subdivision`, ideally ±1 page.
+Exact byte identity of the newly surfaced Library objects has not yet been rehashed because the current Library raw-transfer endpoint returns HTTP 403. The page renderer also currently returns no readable page image/content. Therefore the remaining blocker is **tool-layer visual access**, not source discovery or user retrieval.
 
-Return full-page images preserving margins, crossings-out, overwriting, arrows, numbering, insertions and question marks.
+The full material-form second pass is now registered for **all 191 pages**, not only the former priority subset:
+- `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`
 
-This is a genuine source-image blocker. Textual relation architecture is already secure; only pen-level/spatial revision claims remain capped.
+Existing `*_clean.json` files remain the authoritative corrected-text layer. The new material layer will record crossings-out, overwriting, insertions, arrows/connectors, marginalia, numbering/reordering marks, hand/ink shifts, page geometry and spatial relations.
+
+Priority close-audit pages when visual rendering becomes available:
+- 004: page containing `viññāṇa` as `temporally (?) antecedent` to `nāmarūpa` but `logically a subdivision`, ideally ±1 page.
+- 005: pp.16–20 and 24–27; then 34–36, 67, 69–70, 76, 103.
+
+No additional user action is currently required. Textual relation architecture is already secure; only pen-level/spatial revision claims remain capped.
 
 ---
 
@@ -115,7 +124,7 @@ Canonical: `research_notes/Lovejoy_1907_Entangling_historical_probability_contem
 
 ## Current priority
 
-1. **MD-006** — sole argument-sensitive blocker, material-form only.
+1. **MD-006** — source present; finish 191-page material-form second pass once page images can be rendered.
 2. **OPT-002** — optional exact Harvard wording; may be skipped.
 
 No other former manual target remains active.
