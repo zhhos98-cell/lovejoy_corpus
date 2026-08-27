@@ -2,7 +2,7 @@
 
 Status: **FINAL ACTIVE SYNTHESIS / supersedes dated gap audits, temporary saturation logs, and pre-closure draft architecture files for current claim status.**
 
-This file merges the final gap audit, last web saturation sweep, 1906 classificatory-grammar audit, recovered More/Sutta Nipāta bridge, direct 1906 Democracy text, Great Chain correction, and 191-page manuscript material-form closure into one publication-facing gate.
+This file merges the final gap audit, last web saturation sweep, 1906 classificatory-grammar audit, recovered More/Sutta Nipāta bridge, direct 1906 Democracy text, Great Chain correction, 191-page manuscript material-form closure, and final direct-primary Harvard 1896–97 course-wording closure into one publication-facing gate.
 
 ## 1. Final thesis ceiling
 
@@ -18,17 +18,28 @@ Governing rule:
 
 > **A stronger proposition does not automatically inherit evidence that established a weaker proposition.**
 
-## 2. Harvard before Lovejoy: distributed jurisdictions, not one method
+## 2. Harvard before Lovejoy: distributed jurisdictions, now exact-course primary controlled
 
-The Harvard context is now direct-primary controlled well enough for the JHI article.
+The Harvard context is now direct-primary controlled through both field-level sources and the exact 1896–97 course announcement.
 
-Jastrow's 1893 and 1899 descriptions of the history-of-religions field distinguish general/comparative synthesis from specialist source jurisdictions and make direct recourse to sources a methodological requirement. Harvard's provision placed Everett in general comparative religion, Toy in Hebrew religion, and Lanman in Indic/Buddhist source work. Lovejoy later traversed these jurisdictions.
+Jastrow's 1893 and 1899 descriptions of the history-of-religions field distinguish general/comparative synthesis from specialist source jurisdictions and make direct recourse to sources a methodological requirement. The locally preserved Harvard scan `URN-3-HUL.ARCH-39991521.pdf`, visually checked at printed pp.73, 75, 98, and 99, now gives exact 1896–97 institutional wording:
+
+- **Toy, course 13:** `History of the Hebrew Religion, with comparison of other Semitic religions`.
+- **Lanman:** a graded Sanskrit sequence plus beginner and advanced Pāli. Advanced Pāli course 5 is `The Sacred Books of Buddhism` and explicitly assigns `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya`.
+- **Everett, course 13:** `The Comparative Study of Religion`, with studies in the comparative history of religions `particularly the Vedic Religion, the Hindu Philosophies, Buddhism, Mazdaism, and the Chinese Religions`.
+- **Everett, course 6:** `Philosophy of Religion`.
+
+Wilson's Harvard-archive-mediated reconstruction remains the individual-enrollment anchor for Lovejoy's traversal of Everett, Toy, and Lanman. The catalogue proves course content and institutional structure, not by itself Lovejoy's enrollment in a particular Pāli course number.
+
+Harvard's provision therefore placed Everett in general comparative religion/philosophy of religion, Toy in comparative Hebrew/Semitic religion, and Lanman in Sanskrit/Pāli/Buddhist source work. Lovejoy later traversed these jurisdictions.
 
 Everett and Toy show that source specialists themselves used different resolutions and explanatory categories. Jastrow also retains developmental/civilizational hierarchy. Therefore:
 
 > **source specialization does not imply anti-totalization or political innocence.**
 
-Do not claim a single Harvard method transmitted intact to Lovejoy. Do not require exact 1896–97 catalogue wording for the main argument; that remains optional publication hygiene.
+Do not claim a single Harvard method transmitted intact to Lovejoy. Do not infer exact Pāli-course enrollment from catalogue availability alone.
+
+Canonical Harvard closure: `research_notes/Harvard_1896_97_coursewording_locator_2026-08-27.md`.
 
 ## 3. Notebook 004: relation-specific proof problems
 
@@ -99,11 +110,13 @@ In 1898 he says that the original signification of Buddhist technical terms shou
 
 In April 1906, reviewing Paul Elmer More's *Shelburne Essays*, he again invokes **Sutta Nipāta 1073–1076** to resist a positive/concrete reconstruction of Nirvāṇa. The same review explicitly values `induction of evidence`, inquiry into `historical conditions and antecedents`, `wide-ranging comparisons`, and the correlation of manifestations across heterogeneous literatures.
 
+The Harvard catalogue now adds a non-causal institutional control immediately before the 1898 article: Lanman's 1896–97 advanced Pāli course explicitly taught the `Sutta Nipāta` among the `Sacred Books of Buddhism`. This strengthens the source-environment chronology without proving that Lovejoy was enrolled in that exact course number or that Lanman's course caused Lovejoy's later source practice.
+
 This establishes:
 
-> **1898 source-controlled Buddhist semantics → 1906 reuse of the same canonical source to police a Nirvāṇa interpretation.**
+> **documented Harvard Sanskrit/Buddhist-text training inside a curriculum that formally taught the Sutta Nipāta → 1898 source-controlled Buddhist semantics → 1906 reuse of the same canonical source to police a Nirvāṇa interpretation.**
 
-It does not establish continuous annual Buddhist research, use of the same physical edition, or Buddhist causation of later history-of-ideas method.
+It does not establish continuous annual Buddhist research, use of the same physical edition, exact enrollment in Pāli 5, or Buddhist causation of later history-of-ideas method.
 
 ## 8. 1906 as scalar laboratory
 
@@ -186,7 +199,7 @@ Call this functional repartition / change of narrative center, not disappearance
 
 The article can now be built as:
 
-> **Harvard distributed source jurisdictions → 004 relation-specific proof problems and page-form relation mapping → 1898 publication selection → Paris/Marillier + 005 selector/mechanism decomposition and accretive notebook architecture → 1902 portability of relation-specific genealogy → 1906 scalar laboratory (political two-axis stratification + Kant decomposition + Sutta Nipāta source continuity/comparative correlation + primitive reaggregation) → 1907–10 actor-explicit warrant controls → mature Occidental recentering with Indic material functionally repartitioned.**
+> **Harvard distributed source jurisdictions, exact-course primary controlled → 004 relation-specific proof problems and page-form relation mapping → 1898 publication selection → Paris/Marillier + 005 selector/mechanism decomposition and accretive notebook architecture → 1902 portability of relation-specific genealogy → 1906 scalar laboratory (political two-axis stratification + Kant decomposition + Sutta Nipāta source continuity/comparative correlation + primitive reaggregation) → 1907–10 actor-explicit warrant controls → mature Occidental recentering with Indic material functionally repartitioned.**
 
 Compact thesis sentence:
 
@@ -200,6 +213,7 @@ Do not claim:
 - Lovejoy invented decomposition, relational analysis, or developmental aggregation;
 - Harvard→Paris was a clean handoff;
 - Marillier transmitted a complete method to Lovejoy;
+- catalogue course availability proves Lovejoy's exact enrollment in that course number;
 - citation equals assent;
 - adjacency equals uptake;
 - teacher relation equals total method transmission;
@@ -210,9 +224,9 @@ Do not claim:
 
 ## 14. Residual uncertainty
 
-No argument-sensitive blocker remains.
+No argument-sensitive blocker remains, and the former Harvard 1896–97 publication-hygiene wording gap is now closed by direct inspection of the local primary scan.
 
-Only publication-hygiene uncertainty remains around the exact Harvard 1896–97 Everett/Toy/Lanman catalogue wording. Lovejoy's traversal of the three pedagogical jurisdictions is independently secure.
+One narrower biographical distinction remains intentionally open and non-blocking: the catalogue establishes that Lanman offered beginner and advanced Pāli, including an advanced `Sutta Nipāta` course, while Wilson establishes Lovejoy's Sanskrit/Buddhist-text study under Lanman; exact enrollment in Pāli course 4 or 5 is not presently demonstrated and is not required for the argument.
 
 The EPHE exact 1898–99 scolarité cote is closed as negative retrieval: failure to locate the register is a provenance gap, not evidence of non-attendance.
 
