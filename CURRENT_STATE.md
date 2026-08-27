@@ -1,7 +1,7 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-27  
-Status: **TEXTUAL/CONCEPTUAL RESEARCH SATURATED / FINAL 1906 GRAMMAR AUDIT CLOSED / ONE ARGUMENT-SENSITIVE MATERIAL BLOCKER (MD-006)**
+Status: **TEXTUAL/CONCEPTUAL RESEARCH SATURATED / FINAL 1906 GRAMMAR AUDIT CLOSED / MD-006 SOURCE LOCATED / ONE MATERIAL-RENDER BLOCKER**
 
 This is the single living restart/state file. Detailed proof belongs in canonical dossiers; deleted or superseded process prose remains recoverable through Git history.
 
@@ -21,6 +21,7 @@ Highest-value current additions:
 - `research_notes/Jastrow_1893_Congress_method_scope_primary_control_2026-08-27.md`
 - `research_notes/Great_Chain_1936_Indic_comparator_primary_control_2026-08-27.md`
 - `research_notes/Dahlmann_JRAS_1897_review_primary_control_2026-08-27.md`
+- `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`
 - `research_notes/manual_download_click_backlog.md`
 
 Core earlier canonicals remain authoritative for 004/005 proof architecture, Senart/Jacobi/Oldenberg, Hardy, upādisesa, Marillier selector alignment, 1902/1904 portability, Toy/Everett/Jastrow field controls, 1908–10 decomposition/recombination, early reception and Great Chain/Wilson reception topology.
@@ -69,7 +70,11 @@ No direct Marillier→Lovejoy operator transmission should be claimed beyond con
 
 Corrected transcriptions are sufficient for textual/relational claims.
 
-**Material-form ceiling:** original PDFs/raw image-coordinate layer are not currently retrievable. Without MD-006, do not upgrade textual revision into strong claims about pen-level overwriting, arrows, spatial rearrangement or crossings-out.
+**Material-form status, updated 2026-08-27:** the two original source PDFs are now confirmed in the user's Library `/lovejoy` folder: `MS38_004_001_061_004.pdf` (71 pages, 45,542,867 bytes) and `MS38_004_001_061_005.pdf` (120 pages, 106,709,841 bytes). Source discovery is therefore closed. The remaining blocker is tool-layer visual access: Library page rendering currently returns no page image/content and raw materialization returns HTTP 403. Do not describe the originals as missing.
+
+A full **191-page** second-pass material audit is registered in `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`. Every page is mapped back to its authoritative `*_clean.json` corrected-text chunk. The material layer is separate and will record crossings-out, overwriting, insertions, arrows/connectors, marginalia, numbering/reordering marks, hand/ink shifts, page geometry and spatial relations. `pending_visual_second_pass` means not yet visually re-audited, not absence of a feature.
+
+Until page images are actually rendered, do not upgrade textual revision into strong claims about pen-level overwriting, arrows, spatial rearrangement or crossings-out.
 
 ---
 
@@ -254,9 +259,9 @@ Call this **functional repartition / change of narrative center**, not disappear
 
 ### Sole argument-sensitive blocker
 
-**MD-006 — original notebook 004/005 page images.**
+**MD-006 — source PDFs are present in Library; page-image rendering/materialization is the remaining blocker.**
 
-This affects only material-method claims. It cannot overturn the textual/warrant/scale spine.
+No user re-download is required. The full 191-page material second-pass ledger is initialized; finish it when visual page access is available. This affects only material-method claims and cannot overturn the textual/warrant/scale spine.
 
 ### Optional only
 
@@ -290,8 +295,8 @@ Compact JHI bridge now available:
 
 Do not run another horizontal or classificatory-grammar sweep. Reopen only if:
 
-1. MD-006 original notebook pages arrive;
+1. MD-006 Library page images become renderable or the original PDFs become otherwise visually accessible;
 2. a newly digitized primary directly contradicts the warrant/scale model;
 3. publication drafting requires a specific facsimile quotation/page proof.
 
-MD-006 return should trigger a **material-form closure round**, not another general research round.
+MD-006 visual access should trigger a **material-form closure round**, not another general research round.
