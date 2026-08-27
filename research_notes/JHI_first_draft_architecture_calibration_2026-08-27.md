@@ -1,335 +1,341 @@
-# JHI first-draft architecture — plain-language version
+# JHI first-draft architecture — notebook-led compressed version
 
 Date: 2026-08-27
+Status: **FIRST-DRAFT STRUCTURE FIXED AFTER LATE-DAY RECALIBRATION / WRITING LOG ONLY / NOT EVIDENCE AUTHORITY**
 
-Status: **FIRST-DRAFT STRUCTURE FIXED / WRITING LOG ONLY / NOT A NEW EVIDENCE DOSSIER**
+Purpose: preserve the first-draft structure after the notebook-through-line, manuscript/publication comparison, Wilson/Schaffer historiography, and editorial-expectation discussions. Evidence authority remains with `CURRENT_STATE.md`, `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`, `research_notes/CANONICAL_INDEX_2026-08-27.md`, and source-specific canonical dossiers.
 
-Purpose: preserve the article structure after the full-repository check while removing project-made labels from the writing plan. Evidence status remains controlled by `CURRENT_STATE.md`, `JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`, `CANONICAL_INDEX_2026-08-27.md`, and the source-specific files.
+Detailed sources stay in `research_notes/JHI_first_draft_skeleton_source_map_2026-08-27.md`. Discussion synchronization is in `research_notes/JHI_sync_log_argument_compression_and_framework_recalibration_2026-08-27.md`.
 
-## 1. Language rule
+## 1. Governing writing rule
 
-The article should not turn repository shorthand into historical vocabulary.
+The notebooks carry the article.
 
-Avoid making the prose depend on project labels such as:
+Except for the final *Great Chain of Being* comparison, every substantive movement should begin from, return to, or be explicitly motivated by notebook 004 or 005.
 
-- `proof architecture`;
-- `scalar laboratory`;
-- `resolution-switching`;
-- `functional repartition`;
-- `reaggregation`;
-- `diagnostic specificity`;
-- `two-gate model`;
-- `genealogical redundancy`;
-- `proof-level partition`;
-- `evidentiary compression`;
-- `relation-type discrimination` as if it were Lovejoy's own named method.
+Warren, Senart, Oldenberg, Harvard, Paris, Marillier, Söderblom, 1902 and 1906 do not become separate mini-essays. They enter because a notebook passage requires context, a limit, or a later comparison.
 
-These phrases may remain in older research files as internal indexing language, but they should not organize the article.
+Practical deletion test:
 
-Prefer ordinary historical language and the language of the sources themselves: evidence, comparison, relation, identity, causation, sequence, classification, borrowing, provenance, use, argument, historical development, race, nationality, stage of culture, and so on.
+> **If a paragraph can disappear without changing what the reader understands about the notebooks or their later placement, shorten it, move it to an endnote, or remove it.**
 
-The article should describe what Lovejoy and his contemporaries did before naming it.
+## 2. Language rule
 
-## 2. What the article is and is not trying to prove
+Do not make repository shorthand into article terminology.
 
-The first draft should not attempt a complete genealogy of Lovejoy's method. It should not argue that Buddhism caused the later history of ideas, that the mature `unit-idea` programme was already present in the notebooks, or that Harvard and Paris supplied one continuous method.
+Avoid building the public prose around labels such as `proof architecture`, `scalar laboratory`, `resolution-switching`, `functional repartition`, `reaggregation`, `two-gate model`, `relation-type discrimination`, or other project-made terms.
 
-The narrower question is:
+Prefer source language and ordinary historical description:
 
-> **What kinds of historical relation did Lovejoy think different kinds of evidence could establish?**
+- evidence;
+- relation;
+- comparison;
+- identity;
+- causation;
+- sequence;
+- classification;
+- borrowing;
+- historical origin;
+- use;
+- arrangement;
+- application;
+- historical development.
 
-The surviving archive is uneven. The article therefore follows only claims that can be checked against manuscript pages, contemporary institutional evidence, and later primary publications.
+The article should describe what the documents show before offering any generalization.
 
-A comparison between an early notebook and a later publication is only a comparison unless a direct historical connection can also be shown.
+## 3. Governing thesis
 
-## 3. Opening — a misleading beginning
+Preferred publication-facing two-sentence version:
 
-Target: roughly **180–220 words**.
+> **This essay does not add a forgotten Buddhist episode to Lovejoy's biography; it changes the status of a known one. His notebooks show Buddhist materials as a site where the young Lovejoy repeatedly tested what textual and historical evidence could establish about identity, sequence, causation, borrowing, and arrangement; reading those notes beside the 1898 article and later writings shows what entered print, what was narrowed or left behind, and why later histories of Lovejoy made other parts of his career more central.**
 
-Open with the surprising fact that the first item in the bibliography appended to *Essays in the History of Ideas* is Lovejoy's 1898 Buddhist paper.
+Shorter thesis if the opening needs less historiography:
 
-Do not call it his first publication. Wilson identifies earlier work, including the 1895 essay on James Burnett, Lord Monboddo.
+> **The question is not whether Lovejoy studied Buddhism, but what kind of historical work he did when he did so.**
 
-The opening movement should be:
+The first draft should not claim:
 
-`the retrospective bibliography appears to begin with Buddhist philology`
-→ `that impression is false: Lovejoy had published earlier`
-→ `the mistake is useful because a later bibliography has already arranged an intellectual beginning for the reader`
-→ `turn to the Johns Hopkins notebooks to ask what the young Lovejoy was actually doing`.
+- Buddhism caused the later history of ideas;
+- the mature unit-idea programme is already present in the notebook;
+- Lovejoy invented the distinctions visible in 004/005;
+- Harvard and Paris transmitted one continuous method;
+- structural resemblance between early and later texts proves genealogy;
+- the Buddhist/Indic formation was simply forgotten.
 
-Monboddo is only a correction here. Do not open the larger Monboddo branch unless the final draft later requires it.
+## 4. Five movements
 
-The next paragraph should state the limits immediately:
+The article should now be thought of as five movements, not fifteen coequal topics.
 
-- this is not a complete history of Lovejoy's intellectual formation;
-- the notebooks are not treated as the mature history of ideas in embryo;
-- gaps in archival survival limit what can be claimed;
-- the article follows a small number of specific judgments that can be independently checked.
+### Movement I — retrospective beginning → archive
 
-## 4. Part I — notebook 004, Harvard, and the 1898 article
+Target: **180–220 words**.
 
-Target: roughly **700–800 words**. This is the main evidentiary section.
+Opening sequence:
 
-### 4.1 Begin with Warren
+1. the bibliography appended to *Essays in the History of Ideas* begins with the 1898 Buddhist paper;
+2. immediate chronological correction: it was not Lovejoy's first publication; Wilson records the 1895 Monboddo essay;
+3. one short historiographical sentence: the Buddhist/Asian formation itself was not unknown to later scholars;
+4. turn to Johns Hopkins notebook 004 because the unresolved question is what this known episode consisted of as scholarly work.
 
-Start with Henry Clarke Warren rather than with Harvard institutional history.
+Do not turn Monboddo into a branch. Do not begin with Skinner.
 
-Warren already argued that the links in dependent origination did not all stand in one uniform relation and that each link had to be examined separately. This immediately prevents any claim that Lovejoy invented the basic practice of distinguishing relations.
+A possible transition sentence:
 
-The important moment is narrower. Warren called the relation between desire and attachment one of identity. Lovejoy copied the judgment and then wrote `But not so...`, returning to Buddhist classifications to test that particular claim.
+> **The useful surprise is therefore not that Lovejoy once studied Buddhism, but that the surviving notebooks let us see what he thought particular evidence could and could not prove.**
 
-The point is simple:
+### Movement II — notebook 004 → 1898 publication
+
+Target: **700–800 words**.
+
+This is the evidentiary center.
+
+#### A. Warren first
+
+Start from 004 manuscript p.75 / PDF p.22: Lovejoy copies Warren and interrupts with `But not so...`.
+
+Warren is then introduced only to establish the controversy and the originality limit: Warren already distinguished different kinds of dependence in dependent origination. Lovejoy's local move is to challenge Warren's particular identity judgment for `taṇhā` and `upādāna` by checking classifications in the texts.
+
+Plain point:
 
 > **Lovejoy accepted the question but did not accept every answer supplied by an authority.**
 
-### 4.2 Move from terms to a larger historical arrangement
+At this point begin the first notebook/print comparison: the 1898 paper retains the technical dispute but removes much of the notebook's wider working context.
 
-Use Senart next.
+#### B. Senart / Oldenberg next
 
-Lovejoy could concede that Buddhist materials were composite, that terms or ideas might have been borrowed, and that repetitions occurred. He still rejected the further conclusion that these facts had already proved the resulting arrangement accidental or unintelligible.
+Return to 004 manuscript pp.137–139 / PDF pp.49–50.
 
-The 1898 phrase `arrangement and application` is the best published formulation of this distinction.
+Lovejoy can accept historical mixture, borrowing and heterogeneous origins without accepting that those facts alone determine the character of the resulting Buddhist arrangement.
 
-Plain formulation:
+Use the 1898 phrase `arrangement and application` as the public formulation.
+
+Plain point:
 
 > **Evidence that parts had different origins did not by itself determine how those parts functioned once combined.**
 
-### 4.3 Then introduce the table
+Oldenberg remains the priority/control against claiming Lovejoy invented the basic semantic objection to Senart.
 
-The table should summarize the distinctions already visible in the manuscript. It should not be presented as `Lovejoy's method`.
+This is the second notebook/print comparison: show which wider conjectures disappear and which narrower claim is carried into publication.
 
-Keep it short. Possible rows:
+#### C. Short descriptive table only after the examples
+
+The table is a modern reader's index to questions already visible in the notebook. It is not `Lovejoy's method`.
+
+Possible rows:
 
 - textual witness;
-- semantic identity or difference;
+- whether two terms are identical in use;
 - causal relation;
 - temporal sequence;
 - logical or classificatory inclusion;
-- historical origin or borrowing;
-- the place of a term or idea in a larger arrangement.
+- borrowing or historical origin;
+- what a borrowed/composite part does in the larger arrangement.
 
-The purpose of the table is only to make one point visible:
+One sentence is enough to explain the table:
 
-> **An answer to one historical question did not automatically answer another.**
+> **An answer to one question did not automatically answer another.**
 
-### 4.4 Use manuscript p.123 as the visual high point
+#### D. manuscript p.123 as visual high point
 
-On 004 PDF p.42 / manuscript p.123, `viññāṇa` is placed inside a classification of `nāma`/`nāmarūpa`, while the adjacent prose discusses it as temporally antecedent and logically a subdivision.
+On 004 manuscript p.123 / PDF p.42, `viññāṇa` can be placed inside `nāma` as a classificatory matter and before `nāmarūpa` as a temporal matter because Lovejoy is asking different questions.
 
-Do not describe this with a new theoretical label.
+Do not give this a new label.
 
-The point can be stated directly:
+Plain point:
 
-> **The same term could occupy different positions because Lovejoy was asking different questions about it.**
+> **The same term could occupy different positions because the question had changed.**
 
-The apparent contradiction disappears once the relation under discussion is specified.
+Immediately compare with the printed paper: print makes a more ordered and selective argument out of questions that coexist more visibly in the notebook.
 
-Do not claim that the diagram caused the argument or that the page shows the origin of a later method.
+#### E. `upādisesa` as the cleanest claim-narrowing case
 
-### 4.5 Insert Harvard only after the notebook problem is clear
+Use the notebook's etymologies, competing textual passages and stronger possibilities, then compare the 1898 close.
 
-Keep the institutional paragraph short.
+The published article limits what etymology can establish, turns to documented usage, keeps contrary evidence and does not claim total settlement.
 
-The exact 1896–97 catalogue wording now allows three concise examples:
+This is the strongest manuscript→print example because the change in claim size is easy to show without theorizing it.
 
-- Toy: `History of the Hebrew Religion, with comparison of other Semitic religions`;
-- Lanman: Sanskrit and Pāli teaching, with advanced Pāli reading `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya` as `The Sacred Books of Buddhism`;
-- Everett: `The Comparative Study of Religion`, including Vedic religion, Hindu philosophies, Buddhism, Mazdaism, and Chinese religions, together with `Philosophy of Religion`.
+#### F. Harvard flash only after the notebook is legible
 
-Do not make these three teachers into one method or one line of influence.
+The notebook now creates the institutional question: why is the same student moving among close Buddhist textual work, comparative religion and much larger philosophical questions?
 
-The modest institutional point is:
+Use only the exact 1896–97 controls:
 
-> **Harvard presented religion at several different levels: close textual study, comparison among related traditions, and broad comparison across religions.**
+- Toy: Hebrew religion compared with other Semitic religions;
+- Lanman: Sanskrit/Pāli, including an advanced Pāli syllabus with `Dhamma Pada`, `Sutta Nipāta`, `Majjhima Nikāya`;
+- Everett: comparative study of religions, including Buddhism and Hindu philosophies.
 
-Lovejoy's precise enrolment in Lanman's Pāli course 5 is not established by the catalogue and should not be claimed.
+Do not make three teachers into one method. Catalogue availability does not prove exact course enrollment.
 
-### 4.6 End Part I with manuscript versus publication
+Plain institutional point:
 
-The 1898 article is much narrower than the notebook.
+> **Harvard placed several different ways of studying religion within the same graduate environment: close textual study, comparison among related traditions, and broad comparative religion.**
 
-The notebook contains broad questions about the chronology of Sāṃkhya and Buddhism, large classifications, competing historical reconstructions, and stronger metaphysical possibilities. Much of this disappears from print.
+#### G. Part-I summary
 
-The article retains more tightly controlled questions of wording, textual use, causal role, and the relation between borrowed elements and their arrangement.
+Do not introduce manuscript/publication comparison for the first time here; summarize comparisons already made.
 
-Plain conclusion:
+> **The published paper is much narrower than the notebook from which much of its material emerged.**
 
-> **The published article made a narrower argument than the notebook from which it emerged.**
+## 5. Movement III — notebook 005 → Paris → 1902
 
-## 5. Part II — Paris and notebook 005
+Target: **180–250 words**.
 
-Target: roughly **150–220 words**.
+Begin from one strong 005 example, not from Paris biography.
 
-Paris should remain brief and should not mirror Harvard.
+A differentiated outcome after death cannot be classified as moral reward/punishment solely from its appearance; the notes test other possible explanations such as manner of death, ritual practice, social position, family/group relation or moral conduct.
 
-The purpose of 005 is to show that Lovejoy later worked with a different body of material while confronting related questions about what a visible fact actually established.
+Bring in Marillier and Söderblom only to show that many such distinctions were already available in the shared field. Lovejoy's notes should not be given priority for the basic categories.
 
-Use one clear example. A differentiated fate after death did not by itself prove moral reward or punishment. The result might instead depend on manner of death, ritual practice, social position, family or group relations, imported beliefs, or moral conduct.
+Paris is an overlapping working environment, not a Harvard→Paris method transfer.
 
-Marillier and Söderblom were already making many of these distinctions. Do not make them Lovejoy's inventions.
+Then use 1902 as one or two sentences only:
 
-What matters for the article is simply that Lovejoy's notes repeatedly test which explanation fits a particular case and sometimes move the same case from one possible explanation to another.
+- Lovejoy explicitly points back to the Buddhist paper;
+- Aristotle/Vedānta affinity can be admitted without proving Oriental transmission when Greek intellectual history supplies an internal account.
 
-Paris should be described as an overlapping period of work, not as a clean Harvard-to-Paris handoff.
+Plain point:
 
-End the section once the change of materials is clear.
+> **Outside the Buddhist article, Lovejoy was still separating comparison from a claim of historical transmission.**
 
-## 6. The short 1902 bridge
+## 6. Movement IV — notebook questions → 1906 political enlargement
 
-Do not make 1902 a separate section.
+Target: **300–400 words**.
 
-One or two sentences are enough.
+`Democracy in the Twentieth Century` is the conceptual and political climax, not merely later continuity evidence.
 
-In `Religion and the Time-Process`, Lovejoy explicitly refers readers back to his earlier Buddhist paper. He can acknowledge a strong Aristotle/Vedānta affinity while rejecting the claim of Oriental transmission because he believes the Greek position can be explained through Greek intellectual history.
+Lovejoy's object is now generic `Man`. He says nineteenth-century thought divided it:
 
-The point is not that the same method has now been proven continuous.
-
-The point is narrower:
-
-> **Lovejoy was still separating comparison from historical transmission outside the original Buddhist paper.**
-
-This makes the move to 1906 less abrupt.
-
-## 7. Part III — `Democracy in the Twentieth Century`
-
-Target: roughly **300–400 words**.
-
-This should be the main later turn of the article.
-
-The object has now changed. Lovejoy is no longer discussing a Pāli term or an ethnographic report but the political subject `Man`.
-
-He says nineteenth-century thought divided the Enlightenment's generic Man in two directions:
-
-- `longitudinally`, by stages of social evolution or culture;
+- `longitudinally`, by stages of social evolution/culture;
 - `cross-wise`, by racial or national difference.
 
-Keep his own distinction between the force of the two claims. The stage argument is stronger and more categorical. Race and nationality are treated more cautiously, but they still affect his discussion of political institutions.
+Keep the unequal force of the two claims. Stage/cultural hierarchy is stronger. Race/nationality is more qualified but still politically consequential.
 
-The article must also state the political consequences. Lovejoy applies this historical differentiation to colonial government and to Black enfranchisement and disfranchisement. This prevents the argument from being presented as a politically neutral plea for context.
+State the consequences directly: colonial government and Black enfranchisement/disfranchisement belong in the paragraph, not in an endnote.
 
-### 7.1 Return briefly to the earlier notebook
+The earlier notebook comparison must remain modest:
 
-Do not say that the notebook `reappears` in `Democracy`, that Buddhist study caused the political argument, or that the same relations are present in both texts.
+> **Earlier, different questions could place the same term in different relations. Here Lovejoy himself described human populations through more than one historical distinction at once.**
 
-A restrained comparison is enough:
+Do not claim causal continuity.
 
-> **Earlier, different questions could place the same term in different relations. In `Democracy`, Lovejoy himself described human populations through more than one historical distinction at once.**
+Then synchronize the other 1906 texts very briefly:
 
-The early and later distinctions are not identical. The comparison matters because neither text allows one description to exhaust the object.
-
-### 7.2 One sentence on the rest of 1906
-
-Use the other 1906 publications only to complicate a simple developmental story.
-
-In the same year:
-
-- the Kant paper breaks down an inherited broad classification when particular claims do not support it;
-- the More review still uses `Sutta Nipāta` in a close argument about Nirvāṇa;
-- `The Fundamental Concept of the Primitive Philosophy` moves from many local reports toward a broad comparative category.
+- Kant: a broad inherited classification breaks down under local checking;
+- More review: `Sutta Nipāta` still serves a close Nirvāṇa argument;
+- `Primitive Philosophy`: local reports are gathered into a broad comparative claim.
 
 Plain conclusion:
 
 > **In the same year Lovejoy could resist an over-broad historical classification and make broad classifications of his own.**
 
-No additional label is needed.
+This is enough. Do not reopen 1907–10 in the first structural layer.
 
-## 8. Part IV — *The Great Chain of Being* and the later image of Lovejoy
+## 7. Movement V — *Great Chain* → differentiated historiographical memory
 
-Target: roughly **250–300 words**.
+Target: **250–300 words**.
 
-The mature close should be descriptive.
+This is the deliberate point where the article leaves the notebook as its immediate object.
 
-*The Great Chain of Being* explicitly presents its main historical story through `Occidental philosophy` and `Western thought`.
+Describe *The Great Chain of Being* plainly:
 
-Buddhism and Vedānta are not absent. They remain in the discussion, especially in the treatment of otherworldliness and related comparisons.
+- its principal historical narrative is explicitly Occidental/Western;
+- Buddhism and Vedānta remain present;
+- they more often function as comparisons within that Western-centered narrative than as close textual/historical problems of the kind seen in the early notebook.
 
-The change should be described, not named:
+Do not say the mature work erased India or Buddhism. Do not make the book the hidden endpoint of the notebook.
 
-- in the early notebook, Indian and Buddhist materials are close textual and historical problems;
-- in the mature book, they appear more often as comparisons within a historical narrative whose main line is Western.
+Then return to historiography.
 
-Do not infer deliberate suppression and do not say that Asian material disappeared.
+### Wilson
 
-The final historiographical point should return to the opening bibliography:
+Wilson already documented comparative religion, Lanman, Buddhist/Sanskrit study, Paris/Lévi, the 1898 paper and the 1901 Buddhism syllabus. The early Asian episode was therefore not unknown.
 
-> **Later collections and disciplinary histories do not simply preserve early work; they also affect which parts of that work appear central to an author's career.**
+### Schaffer 2010
 
-The article does not prove a Buddhist or non-Western origin of the history of ideas.
+Schaffer explicitly notes that Lovejoy studied Pāli and Sanskrit in Paris while reconstructing Lovejoy's historiography through seriality, evolution, hierarchy, public intellectual authority and *Great Chain*. The fact is present, but it does not become part of his analysis of Lovejoy's early scholarly practice.
 
-Its narrower contribution is that Lovejoy's early Indian and Buddhist work can now be reconstructed in much greater detail than the later canonical image of Lovejoy usually allows.
+Safe conclusion:
 
-Optional final point if space permits: specialist Buddhist scholarship continued to remember the technical argument of the 1898 paper, while histories of Lovejoy more often remembered the later historian of ideas. The two bodies of scholarship did not preserve the same Lovejoy.
+> **The formation was known but differently classified.**
 
-## 9. Paragraph-level first-draft order
+The final return to the opening bibliography should be simple:
 
-A practical first draft can be written in this order:
+> **Later bibliographies and disciplinary histories do not merely preserve a career; they also make different parts of it easier to see as central.**
 
-1. bibliography surprise and correction;
-2. archival limits and the article's narrow question;
-3. Warren and `But not so...`;
-4. Senart and the difference between origins of parts and their arrangement;
-5. the short table;
-6. manuscript p.123;
-7. Harvard institutional paragraph;
-8. manuscript versus 1898 publication;
-9. Paris/005 in one compact example;
-10. 1902 bridge;
-11. `Democracy` and `longitudinally / cross-wise`;
-12. political consequences;
-13. one sentence on the other 1906 publications;
-14. *Great Chain*;
-15. return to the opening problem of how later scholarship arranges Lovejoy's career.
+The article's contribution is not to move India/Buddhism into a new exclusive center. It is to show that biography, specialist Buddhist/Indological scholarship and the historiography of the history of ideas preserved different parts of the same early work.
 
-Each paragraph should ideally contain:
+## 8. Paragraph-level execution
 
-- one historical claim;
-- one principal piece of evidence;
-- one sentence explaining what that evidence does and does not establish;
-- one transition to the next question.
+A compact first draft can now be written as roughly **12 paragraphs**, not 15 coequal units:
 
-## 10. Working word allocation
+1. bibliography surprise + Monboddo correction + `known episode` historiographical control;
+2. notebook object + archival limit + narrow question;
+3. Warren notebook locus + first print comparison;
+4. Senart/Oldenberg + second print comparison;
+5. short table + p.123 visual center;
+6. `upādisesa` notebook/print claim narrowing + Harvard flash;
+7. Part-I summary and transition to 005;
+8. 005 + Paris field + 1902 hinge;
+9. `Democracy`: longitudinal/cross-wise distinction;
+10. political consequences + one compressed 1906 synchronization;
+11. *Great Chain* mature placement;
+12. Wilson/Schaffer + bibliography return + final historiographical consequence.
 
-For a draft of roughly **1,800–2,000 words**:
+Each paragraph should keep only four active questions:
 
-| Section | Target |
+1. What historical claim does this paragraph make?
+2. Which notebook locus or later primary passage starts it?
+3. Which outside source is needed to explain or limit that evidence?
+4. What one sentence moves the reader onward?
+
+Everything else stays in the source map until revision.
+
+## 9. Working word allocation
+
+For roughly **1,800–2,000 words**:
+
+| Movement | Target |
 |---|---:|
-| Opening | 180–220 |
-| 004 + Harvard + 1898 | 700–800 |
-| Paris/005 + 1902 | 180–250 |
-| `Democracy` + brief 1906 comparison | 300–400 |
+| Retrospective beginning → archive | 180–220 |
+| 004 → 1898 + Harvard flash | 700–800 |
+| 005 → Paris → 1902 | 180–250 |
+| 1906 political enlargement | 300–400 |
 | *Great Chain* + historiography | 250–300 |
 
-This remains within the editorially accepted range and below the recorded 2,400-word maximum.
+The editor's requests are dense, but the draft should demonstrate that the larger windows are controlled, not give each one equal space.
 
-## 11. Material to keep out of the first structural layer
+## 10. Keep outside the first structural layer
 
-Do not let the following compete for space unless a specific paragraph later needs them:
+Unless a sentence specifically needs them, hold back:
 
-- Bankim Chandra Chattopadhyay and Rajendralala Mitra;
-- the larger Monboddo branch;
-- William James;
-- a full history of Harvard religious studies;
-- a full history of Paris comparative religion;
-- the 1904 Bruno/Spinoza material;
-- Leuba and King reception;
-- extended history-of-notetaking secondary literature;
-- the 1907–1910 materials.
+- Bankim Chandra Chattopadhyay / Rajendralal Mitra;
+- substantive Monboddo line;
+- William James beyond the minimum documented transition if needed;
+- full Harvard history;
+- full Paris institutional history;
+- 1904 Bruno/Spinoza;
+- Leuba/King;
+- materiality/notetaking secondary literature;
+- 1907–10 controls;
+- extended Skinner comparison;
+- a full reception survey.
 
-## 12. Drafting limits
+## 11. Final drafting guardrails
 
-1. Keep notebook 004 and the 1898 article at the center.
-2. Do not describe field-wide practices as Lovejoy's inventions.
-3. Do not treat teachers, courses, proximity, or citation as proof of complete transmission.
-4. Do not turn Paris into a second origin story.
-5. Do not use resemblance between early and later texts as evidence of direct continuity unless another source establishes it.
-6. Do not redescribe the young Lovejoy as a proto-Skinnerian.
-7. Do not make `race` in 1906 purely biological, and do not remove the political consequences of the argument.
-8. Do not say that *Great Chain* erased Buddhism or India.
-9. Do not turn a geographically broader early career into a claim that the history of ideas had a Buddhist or non-Western origin.
-10. Prefer source language and ordinary historical description over newly coined analytical labels.
+- Notebook 004 and the 1898 article remain the center of gravity.
+- Notebook 005 is shorter and asymmetrical.
+- Published-text comparison is distributed through notebook paragraphs.
+- External context never replaces the notebook as narrative object.
+- Historiography enters lightly at the beginning and returns at the end.
+- `Democracy` carries the political stakes.
+- *Great Chain* is a later placement, not a teleological endpoint.
+- Do not make known biographical visibility into a claim of total historiographical integration.
+- Do not make later non-integration into a claim that scholars were ignorant.
+- Use ordinary historical language.
 
-## 13. One-sentence article line
+## 12. One-line article spine
 
-> **A surprising Buddhist entry in Lovejoy's later bibliography leads back to notebooks in which he repeatedly asked what particular evidence could establish about identity, causation, sequence, borrowing, and historical arrangement; later writings show those questions moving into broader intellectual and political history, while *The Great Chain of Being* places Asian comparisons within an explicitly Western historical narrative.**
+> **A Buddhist paper that later bibliography makes look like an improbable beginning leads back to notebooks in which Lovejoy tested what particular evidence could establish; reading those notes against the 1898 publication, later political classifications, and the mature *Great Chain of Being* shows both how his claims changed between working paper and print and how later histories made different parts of his early career central.**
 
-This plain-language structure governs the first draft as of 2026-08-27.
+This compressed notebook-led architecture governs first-draft execution as of 2026-08-27.
