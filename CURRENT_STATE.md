@@ -8,11 +8,12 @@ This is the single living restart file. Historical process language elsewhere do
 ## Restart order
 
 1. `CURRENT_STATE.md`
-2. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — final publication-facing synthesis
-3. `research_notes/CANONICAL_INDEX_2026-08-27.md` — active analytical/evidence surface
-4. source-specific canonical dossier as needed
-5. `ARCHIVE_TRANSCRIPTION_PROGRESS.md` — manuscript/transcription status
-6. `research_notes/FROZEN_STRATA_2026-08-27.md` and `research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md` — freeze/governance audit
+2. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — final publication-facing evidence synthesis
+3. `research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md` — fixed first-draft writing architecture after full-repository calibration
+4. `research_notes/CANONICAL_INDEX_2026-08-27.md` — active analytical/evidence surface
+5. source-specific canonical dossier as needed
+6. `ARCHIVE_TRANSCRIPTION_PROGRESS.md` — manuscript/transcription status
+7. `research_notes/FROZEN_STRATA_2026-08-27.md` and `research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md` — freeze/governance audit
 
 The older `Quellenforschung_master_summary_2026-08-23.md` is pre-final synthesis only. A complete pre-cleanup snapshot is preserved at branch `snapshot/pre-freeze-2026-08-27`, base commit `249e8a29862d2daca84f1fbb6b698a2bf2fa6456`.
 
@@ -87,7 +88,11 @@ Safe formula:
 
 ## Final JHI architecture
 
+Evidence-level architecture remains:
+
 **Harvard distributed source jurisdictions → 004 relation-specific proof problems and page-form mapping → 1898 publication selection → Paris/Marillier + 005 selector/mechanism decomposition and accretive notebook architecture → 1902 portability of relation-specific genealogy → 1906 scalar laboratory → 1907–10 actor-explicit warrant controls → mature Occidental recentering with Indic material functionally repartitioned.**
+
+For **first-draft execution**, the structure is now fixed separately in `research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md`: retrospective Buddhist bibliography surprise/correction → 004 + brief Harvard institutional flash → short 005/Paris expansion + 1902 hinge → `Democracy` as conceptual/political climax with 1906 synchronization → *Great Chain* + disciplinary historiography. That file governs writing emphasis, not evidence authority.
 
 Strongest historiographical formulation:
 
@@ -124,9 +129,11 @@ Parked archival possibilities are non-current and should not trigger broad searc
 Current evidence authority is:
 
 1. this file for project state;
-2. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` for article-level synthesis;
+2. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` for article-level evidence synthesis;
 3. `research_notes/CANONICAL_INDEX_2026-08-27.md` for active dossiers;
 4. source-specific canonicals and preserved source/transcription layers.
+
+Current writing architecture is `research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md`; it is intentionally separate from the evidence hierarchy.
 
 Freeze interpretation is governed by `research_notes/FROZEN_STRATA_2026-08-27.md`; the completed structural scan is recorded in `research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md`.
 
