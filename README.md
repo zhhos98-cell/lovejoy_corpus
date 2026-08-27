@@ -20,7 +20,8 @@ Read in this order:
 2. [`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`](research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md) — final publication-facing synthesis
 3. [`research_notes/CANONICAL_INDEX_2026-08-27.md`](research_notes/CANONICAL_INDEX_2026-08-27.md) — active canonical dossiers and evidence layers
 4. [`research_notes/FROZEN_STRATA_2026-08-27.md`](research_notes/FROZEN_STRATA_2026-08-27.md) — what is frozen and how to interpret old batch/HOLD/queue language
-5. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook transcription/material audit status
+5. [`research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md`](research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md) — final complete-tree structural audit and freeze verdict
+6. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook transcription/material audit status
 
 For older long-form synthesis, use [`Quellenforschung_master_summary_2026-08-23.md`](Quellenforschung_master_summary_2026-08-23.md) only after reading the final evidence gate; it is a pre-final synthesis and does not supersede 2026-08-27 closures.
 
@@ -121,7 +122,7 @@ Source registers, matrices, consolidated CSVs, archive manifests. These support 
 
 Historical web-sweep batches, global archive harvest batches, dated JHI architecture/pressure-test drafts, old queues, temporary HOLDs, gap audits, and superseded version chains. These remain searchable for provenance but are not current instructions.
 
-See `research_notes/FROZEN_STRATA_2026-08-27.md`.
+See `research_notes/FROZEN_STRATA_2026-08-27.md` and `research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md`.
 
 ## Manual / archival queue
 
