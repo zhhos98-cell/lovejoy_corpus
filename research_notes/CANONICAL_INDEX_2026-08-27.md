@@ -119,7 +119,7 @@ Use these to establish distributed evidentiary jurisdictions and workshop adjace
 - `research_notes/Lovejoy_1904_Recent_Literature_primary_consolidated.md`
 - `research_notes/Lovejoy_1906_Democracy_direct_primary_stratification_control_2026-08-27.md`
 - `research_notes/Lovejoy_1906_Kant_historical_rubric_discontinuity_control_2026-08-26.md`
-- `research_notes/Lovejoy_1907_Entangling_historical_probability_contemporary_relay_control_2026-08-26.md`
+- `research_notes/Lovejoy_1907_Entangling_direct_primary_warrant_control_2026-08-27.md`
 - `research_notes/Toy_Lovejoy_1907_authority_scope_logical_chronological_redivision_control_2026-08-26.md`
 - `research_notes/1908_1909_decomposition_recombination_reception_consolidated.md`
 - `research_notes/1910_self_revision_controls_consolidated.md`
