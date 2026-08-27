@@ -49,6 +49,8 @@ Highest-value material result: on 004 PDF p.42 / manuscript p.123, `viññāṇa
 
 Harvard before Lovejoy is controlled as a **distributed history-of-religions ecology**, not a single transmitted method. Jastrow 1893/1899 distinguishes specialist source jurisdictions, direct recourse to sources, and comparative synthesis; Everett, Toy, and Lanman represent different evidentiary resolutions later traversed by Lovejoy.
 
+The final 1896–97 catalogue hygiene is now direct-primary closed from the locally preserved Harvard scan `URN-3-HUL.ARCH-39991521.pdf`: Toy course 13 is `History of the Hebrew Religion, with comparison of other Semitic religions`; Lanman's curriculum includes beginner and advanced Pāli, with advanced course 5 explicitly reading `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya` as `The Sacred Books of Buddhism`; Everett course 13 is `The Comparative Study of Religion`, explicitly covering Vedic religion, Hindu philosophies, Buddhism, Mazdaism, and Chinese religions. Lovejoy's individual traversal remains anchored by Wilson's Harvard-archive-mediated course reconstruction; do not infer exact Pāli course-number enrollment from catalogue availability alone. Canonical closure: `research_notes/Harvard_1896_97_coursewording_locator_2026-08-27.md`.
+
 Paris/Marillier is an overlap zone, not a clean Harvard→Paris handoff. Thomas 1898 supplies a same-workshop control in which local form/function/origin distinctions coexist with racial/civilizational reaggregation.
 
 Safe rule:
@@ -102,15 +104,16 @@ Do not claim:
 - citation = assent;
 - adjacency = uptake;
 - teacher relation = total method transmission;
+- catalogue course availability = Lovejoy's exact enrollment in that course number;
 - race in 1906 is simply biological or politically harmless;
 - mature *Great Chain* erased Buddhism;
 - page order/ink/hand alone establishes composition chronology.
 
 ## Queue
 
-**No argument-sensitive blocker remains.**
+**No argument-sensitive blocker remains. No live publication-hygiene retrieval remains.**
 
-Only optional publication hygiene remains: exact Harvard 1896–97 Everett/Toy/Lanman course-description wording. The relevant pedagogical traversal is independently secure.
+The former Harvard 1896–97 Everett/Toy/Lanman wording item is direct-primary closed in `research_notes/Harvard_1896_97_coursewording_locator_2026-08-27.md` from the locally preserved scan `URN-3-HUL.ARCH-39991521.pdf`.
 
 Closed negative retrieval: EPHE Vth Section exact 1898–99 scolarité cote. Failure to locate it is a provenance gap, not evidence of non-attendance.
 
