@@ -23,7 +23,7 @@ Read in this order:
 
 `Quellenforschung_master_summary_2026-08-23.md` is retained as a pre-final long-form synthesis only; read it through the 2026-08-27 final gate.
 
-**State-precedence rule:** some detailed dossiers were written before MD-006, Democracy, Great Chain, or the final 1906 audit closed. Any residual `HOLD`, `pending`, `missing`, `MD-006`, `next action`, or similar process sentence in such a dossier is historical. Current status is controlled by `CURRENT_STATE.md`, the final evidence gate, and the 2026-08-27 material closure.
+**State-precedence rule:** some detailed dossiers were written before MD-006, Democracy, Great Chain, the final 1906 audit, or the Harvard 1896–97 page closure. Any residual `HOLD`, `pending`, `missing`, `MD-006`, `next action`, or similar process sentence in such a dossier is historical. Current status is controlled by `CURRENT_STATE.md`, the final evidence gate, and the 2026-08-27 closures.
 
 ## 1. Governing model
 
@@ -97,6 +97,7 @@ Whole-manuscript material layer:
 
 ### State-bearing primary controls
 
+- `research_notes/Harvard_1896_97_coursewording_locator_2026-08-27.md` — **direct-primary closure of exact 1896–97 Toy/Lanman/Everett course wording from local Harvard scan; former publication-hygiene gap closed**
 - `research_notes/Jastrow_1893_preLovejoy_Harvard_source_specialism_primary_control_2026-08-26.md`
 - `research_notes/Jastrow_1893_Congress_method_scope_primary_control_2026-08-27.md`
 - `research_notes/Jastrow_1899_source_jurisdiction_historical_study_religions_primary_control_2026-08-26.md`
@@ -104,12 +105,14 @@ Whole-manuscript material layer:
 - `research_notes/Toy_1899_taboo_morality_magic_religion_primary_control_2026-08-26.md`
 - `research_notes/Thomas_1898_Marillier_student_operator_control_2026-08-27.md`
 
+The Harvard 1896–97 control establishes exact institutional content: Toy's `History of the Hebrew Religion, with comparison of other Semitic religions`; Lanman's graded Sanskrit and Pāli curriculum, including advanced `Sacred Books of Buddhism` reading `Dhamma Pada`, `Sutta Nipāta`, and `Majjhima Nikāya`; Everett's `Comparative Study of Religion` across Vedic religion, Hindu philosophies, Buddhism, Mazdaism, and Chinese religions, plus `Philosophy of Religion`. Course availability does not by itself prove Lovejoy's exact Pāli course-number enrollment.
+
 ### Supporting provenance dossiers
 
 - `research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`
 - `research_notes/MS38_004_001_061_005_Marillier_EPHE_1898-99_identification.md`
 
-Use these to establish distributed evidentiary jurisdictions and workshop adjacency. Do **not** turn teacher relation, adjacency, or same-workshop structure into total-method transmission.
+Use these to establish distributed evidentiary jurisdictions and workshop adjacency. Do **not** turn teacher relation, adjacency, catalogue availability, or same-workshop structure into total-method transmission or exact enrollment claims.
 
 ## 5. 1902–1910 bridge / scalar operations
 
@@ -189,7 +192,8 @@ As of 2026-08-27:
 - 191-page material-form audit: closed at overview level with high-value pages directly rechecked;
 - political semantics of 1906 Democracy: direct-primary closed;
 - Great Chain Indic/Buddhist presence: direct-primary closed;
+- Harvard exact 1896–97 Toy/Lanman/Everett course wording: **direct-primary closed**;
 - no argument-sensitive blocker remains;
-- Harvard exact 1896–97 course wording is publication-hygiene optional only.
+- no live publication-hygiene retrieval remains.
 
 Reopen research only for a direct contradiction, a newly digitized primary with clear thesis-bearing value, or a publication-stage facsimile/page-proof need.
