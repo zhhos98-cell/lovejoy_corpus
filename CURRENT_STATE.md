@@ -1,7 +1,7 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-27  
-Status: **REPOSITORY FROZEN / TEXTUAL + CONCEPTUAL + WEB + MATERIAL-FORM RESEARCH SATURATED / NO ARGUMENT-SENSITIVE BLOCKERS / READY FOR DRAFTING**
+Status: **REPOSITORY FROZEN / TEXTUAL + CONCEPTUAL + WEB + MATERIAL-FORM RESEARCH SATURATED / NO ARGUMENT-SENSITIVE BLOCKERS / READY FOR DISCUSSION + DRAFTING**
 
 This is the single living restart file. Historical process language elsewhere does not override it.
 
@@ -137,4 +137,4 @@ Historical files may still contain `HOLD`, `pending`, `blocker`, `missing`, `MD-
 2. a direct source contradicts the current warrant/scale model; or
 3. publication drafting requires an exact facsimile, page proof, or quotation verification.
 
-Otherwise the next phase is **drafting, compression, citation placement, and publication editing**.
+Otherwise the next phase is **discussion, drafting, compression, citation placement, and publication editing**.
