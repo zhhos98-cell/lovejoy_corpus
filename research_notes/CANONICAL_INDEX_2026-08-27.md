@@ -4,6 +4,12 @@ Frozen/synchronized: 2026-08-27
 
 This file defines the **active analytical surface** after repository freeze. Historical process files remain searchable, but do not control current status unless explicitly promoted here.
 
+Repository-governance companions:
+- `research_notes/FROZEN_STRATA_2026-08-27.md` — freeze semantics and process-layer policy
+- `research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md` — final complete-tree structural audit
+
+Neither governance file is an additional evidence dossier.
+
 ## 0. Authority and restart order
 
 Read in this order:
@@ -13,6 +19,7 @@ Read in this order:
 3. this canonical index
 4. relevant source-specific dossier below
 5. `ARCHIVE_TRANSCRIPTION_PROGRESS.md` for manuscript/transcription status
+6. the governance companions above only when interpreting frozen historical files or repository structure
 
 `Quellenforschung_master_summary_2026-08-23.md` is retained as a pre-final long-form synthesis only; read it through the 2026-08-27 final gate.
 
