@@ -21,7 +21,6 @@ QUERIES = [
     "Lovejoy great chain of being",
 ]
 
-
 def fetch_json(url):
     req = urllib.request.Request(
         url,
@@ -30,18 +29,15 @@ def fetch_json(url):
     with urllib.request.urlopen(req, timeout=60) as r:
         return json.loads(r.read().decode("utf-8"))
 
-
 def clean(s):
     if not s:
         return ""
     return re.sub(r"\s+", " ", str(s)).strip()
 
-
 def norm_title(s):
     s = clean(s).lower()
     s = re.sub(r"[^a-z0-9]+", " ", s)
     return re.sub(r"\s+", " ", s).strip()
-
 
 def get_openalex(query):
     rows = []
@@ -98,7 +94,6 @@ def get_openalex(query):
 
     return rows
 
-
 def get_crossref(query):
     rows = []
     for offset in range(0, 300, 100):
@@ -151,7 +146,6 @@ def get_crossref(query):
 
     return rows
 
-
 def dedupe(rows):
     seen = {}
     for r in rows:
@@ -176,7 +170,6 @@ def dedupe(rows):
 
     return sorted(seen.values(), key=lambda x: (str(x["year"]), norm_title(x["title"])))
 
-
 def write_csv(filename, rows):
     fields = [
         "database", "year", "title", "authors", "type",
@@ -188,7 +181,6 @@ def write_csv(filename, rows):
         w.writeheader()
         for r in rows:
             w.writerow(r)
-
 
 all_rows = []
 

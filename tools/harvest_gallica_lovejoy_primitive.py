@@ -57,7 +57,6 @@ NS = {
     "srw_dc": "info:srw/schema/1/dc-schema",
 }
 
-
 def fetch_xml(query, start_record=1, maximum_records=50):
     params = {
         "operation": "searchRetrieve",
@@ -75,7 +74,6 @@ def fetch_xml(query, start_record=1, maximum_records=50):
     with urllib.request.urlopen(req, timeout=60) as r:
         return r.read(), url
 
-
 def text_list(elem, tag):
     vals = []
     for x in elem.findall(".//dc:" + tag, NS):
@@ -83,6 +81,8 @@ def text_list(elem, tag):
             vals.append(re.sub(r"\s+", " ", x.text).strip())
     return vals
 
+def first(vals):
+    return vals[0] if vals else ""
 
 def extract_ark(identifiers):
     for ident in identifiers:
@@ -93,7 +93,6 @@ def extract_ark(identifiers):
         if m:
             return m.group(1).replace("https://gallica.bnf.fr/", "").replace("http://gallica.bnf.fr/", "")
     return ""
-
 
 def parse_records(xml_bytes, query_label, query_string, request_url):
     root = ET.fromstring(xml_bytes)
@@ -141,7 +140,6 @@ def parse_records(xml_bytes, query_label, query_string, request_url):
 
     return total, rows
 
-
 def norm_key(row):
     title = re.sub(r"[^a-z0-9]+", " ", row["title"].lower()).strip()
     ark = row["ark"].strip()
@@ -149,7 +147,6 @@ def norm_key(row):
     if ark:
         return ("ark", ark)
     return ("title_date", title, date)
-
 
 def write_csv(path, rows):
     fields = [
@@ -163,7 +160,6 @@ def write_csv(path, rows):
         w.writeheader()
         for r in rows:
             w.writerow({k: r.get(k, "") for k in fields})
-
 
 def main():
     all_rows = []
@@ -238,7 +234,6 @@ def main():
     print("  gallica_lovejoy_primitive_raw.csv")
     print("  gallica_lovejoy_primitive_deduped.csv")
     print("  gallica_query_summary.csv")
-
 
 if __name__ == "__main__":
     main()
