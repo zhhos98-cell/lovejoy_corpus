@@ -1,21 +1,25 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-29  
-Status: **BASE JHI EVIDENCE FROZEN / NOTEBOOK-LED v3 DRAFTING ACTIVE / LOGIC-CARNAP REFROZEN / NO BLOG BLOCKER**
+Status: **BASE JHI EVIDENCE FROZEN / PAGE-LOCKED NOTEBOOK-LED v3.1 ACTIVE / LOGIC-CARNAP REFROZEN / NO BLOG BLOCKER**
 
 This is the single living project-state file. For evidence routing use `research_notes/CANONICAL_INDEX_2026-08-28.md`. Historical `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` language elsewhere does not override this state.
 
 ## 1. Current project state
 
-The present JHI Blog research is saturated and drafting is now active. No general web sweep, archive sweep, logical-analysis branch, Carnap branch, or manual-return queue is live.
+The present JHI Blog research is saturated and drafting is active. No general web sweep, archive sweep, logical-analysis branch, Carnap branch, or manual-return queue is live.
 
 Current working draft:
 
-- `research_notes/JHI_blog_full_draft_v3_notebook_led_2026-08-29.md`
-- created from the fixed five-movement architecture after the repository-wide cleanup;
+- `research_notes/JHI_blog_full_draft_v3_1_page_locked_2026-08-29.md`
+- supersedes v3 for active drafting while retaining v3 as prose/version provenance;
 - full notebook-led structural layer is present from bibliography opening through notebook 004, 005/Paris, 1902, 1906, *Great Chain*, and the historiographical return;
-- Skinner has been removed from the first structural layer rather than used as the opening frame;
-- next work is compression, page-locking, hyperlink/endnote placement, image choice, and sentence-level copyedit rather than new research.
+- the relation inventory table has been removed from public prose and compressed into narrative because Warren/Senart + manuscript p.123 already demonstrate the distinction;
+- 1902 Aristotle/Vedānta is page-locked at pp. 446–47;
+- 1906 `longitudinally / cross-wise` is page-locked at p. 94, with political applications at pp. 101–2 and the Black franchise passage at p. 102;
+- *Great Chain* mature placement is controlled through the preface and pp. 30, 35, 97;
+- Skinner remains outside the first structural layer;
+- next work is hyperlink/endnote placement, opening/historiography citation economy, archival citation wording, exact word count, image choice, and final copyedit rather than new research.
 
 Frozen evidence layers:
 
@@ -70,9 +74,12 @@ Writing authority:
 
 Current prose draft:
 
-- `research_notes/JHI_blog_full_draft_v3_notebook_led_2026-08-29.md`
+- `research_notes/JHI_blog_full_draft_v3_1_page_locked_2026-08-29.md`
 
-The older `JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` remains a prose bank/provenance layer, not the current submission structure.
+Earlier prose/version layers:
+
+- `research_notes/JHI_blog_full_draft_v3_notebook_led_2026-08-29.md` — first full notebook-led structural draft;
+- `research_notes/JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` — earlier prose bank / Skinner-led structure, retained for provenance only.
 
 ## 5. Final logical-analysis calibration
 
@@ -134,7 +141,7 @@ The difficult question is what bridge connects an analytically distinguishable c
 
 Do not infer a causal genealogy from the Carnap dispute or formal logic to the mature unit-idea method.
 
-For the current Blog draft this remains background calibration. Skinner is not the opening architecture of v3.
+For the current Blog draft this remains background calibration. Skinner is not the opening architecture of v3.1.
 
 ## 8. Repository governance after cleanup
 
@@ -167,4 +174,4 @@ Otherwise proceed to drafting, compression and citation placement.
 
 ## Restart shorthand
 
-> **The evidence base is frozen; drafting is active in `JHI_blog_full_draft_v3_notebook_led_2026-08-29.md`. Continue by compressing and page-locking that draft, not by reopening research. Logic/Carnap remains refrozen as calibration.**
+> **The evidence base is frozen; active drafting is now `JHI_blog_full_draft_v3_1_page_locked_2026-08-29.md`. Major later-text page locks are done; continue with citation/link/endnote economy, archival wording, word count, image choice and copyedit—not new research. Logic/Carnap remains refrozen as calibration.**
