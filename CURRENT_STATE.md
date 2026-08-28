@@ -1,15 +1,23 @@
 # Lovejoy corpus — CURRENT STATE
 
-Last synchronized: 2026-08-28  
-Status: **BASE JHI FROZEN + DRAFT-READY / LOGIC-CARNAP CONTROL LINE REFROZEN / REPOSITORY CANONICALIZED / NO BLOG BLOCKER**
+Last synchronized: 2026-08-29  
+Status: **BASE JHI EVIDENCE FROZEN / NOTEBOOK-LED v3 DRAFTING ACTIVE / LOGIC-CARNAP REFROZEN / NO BLOG BLOCKER**
 
 This is the single living project-state file. For evidence routing use `research_notes/CANONICAL_INDEX_2026-08-28.md`. Historical `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` language elsewhere does not override this state.
 
 ## 1. Current project state
 
-The present JHI Blog research is saturated enough to draft. No general web sweep, archive sweep, logical-analysis branch, Carnap branch, or manual-return queue is currently live.
+The present JHI Blog research is saturated and drafting is now active. No general web sweep, archive sweep, logical-analysis branch, Carnap branch, or manual-return queue is live.
 
-Frozen base layers:
+Current working draft:
+
+- `research_notes/JHI_blog_full_draft_v3_notebook_led_2026-08-29.md`
+- created from the fixed five-movement architecture after the repository-wide cleanup;
+- full notebook-led structural layer is present from bibliography opening through notebook 004, 005/Paris, 1902, 1906, *Great Chain*, and the historiographical return;
+- Skinner has been removed from the first structural layer rather than used as the opening frame;
+- next work is compression, page-locking, hyperlink/endnote placement, image choice, and sentence-level copyedit rather than new research.
+
+Frozen evidence layers:
 
 - notebook transcription and material-form audit;
 - Harvard/Paris formation reconstruction;
@@ -18,7 +26,7 @@ Frozen base layers:
 - historiographical controls;
 - five-movement JHI Blog architecture.
 
-The 2026-08-28 logical-analysis/Carnap reopening has also been refrozen after reaching a controlled interpretive ceiling.
+The 2026-08-28 logical-analysis/Carnap reopening remains refrozen after reaching a controlled interpretive ceiling.
 
 ## 2. Archival center
 
@@ -59,6 +67,12 @@ Writing authority:
 - `research_notes/JHI_first_draft_skeleton_source_map_2026-08-27.md`
 - `research_notes/JHI_sync_log_argument_compression_and_framework_recalibration_2026-08-27.md`
 - `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
+
+Current prose draft:
+
+- `research_notes/JHI_blog_full_draft_v3_notebook_led_2026-08-29.md`
+
+The older `JHI_blog_full_draft_v2_submission_edit_2026-08-20.md` remains a prose bank/provenance layer, not the current submission structure.
 
 ## 5. Final logical-analysis calibration
 
@@ -120,6 +134,8 @@ The difficult question is what bridge connects an analytically distinguishable c
 
 Do not infer a causal genealogy from the Carnap dispute or formal logic to the mature unit-idea method.
 
+For the current Blog draft this remains background calibration. Skinner is not the opening architecture of v3.
+
 ## 8. Repository governance after cleanup
 
 Current navigation authority:
@@ -151,4 +167,4 @@ Otherwise proceed to drafting, compression and citation placement.
 
 ## Restart shorthand
 
-> **One living state, one current canonical index. Base JHI evidence is frozen and draft-ready; logic/Carnap is refrozen as calibration. Restart from this file, then the 2026-08-28 canonical index.**
+> **The evidence base is frozen; drafting is active in `JHI_blog_full_draft_v3_notebook_led_2026-08-29.md`. Continue by compressing and page-locking that draft, not by reopening research. Logic/Carnap remains refrozen as calibration.**
