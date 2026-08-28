@@ -1,29 +1,23 @@
 # Arthur O. Lovejoy corpus
 
-Research repository for Arthur O. Lovejoy's early work in Buddhist studies, Indian philosophy, comparative religion, political thought, and the prehistory of his historical practice.
+Research repository for Arthur O. Lovejoy's early Buddhist/Indian studies, comparative religion, political thought, philosophical practice, and the prehistory of his historical method.
 
-**Repository freeze:** 2026-08-27  
-**Current status:** textual, conceptual, web, and material-form research for the present JHI argument is saturated; **no argument-sensitive blocker remains**.
+**Current state:** base JHI project frozen and draft-ready; 2026-08-28 logical-analysis/Carnap control line refrozen; repository navigation consolidated; no argument-sensitive blocker remains.
 
-The pre-freeze long-form README (including the 2026-08-23 JHI draft and embedded research report) is preserved in Git history and on branch:
-
-- `snapshot/pre-freeze-2026-08-27`
-- pre-freeze commit `249e8a29862d2daca84f1fbb6b698a2bf2fa6456`
-
-Do not use the old long README as the current research state.
+A pre-cleanup snapshot is preserved at `snapshot/pre-cleanup-2026-08-28`. The earlier pre-freeze snapshot remains at `snapshot/pre-freeze-2026-08-27` (base commit `249e8a29862d2daca84f1fbb6b698a2bf2fa6456`).
 
 ## Start here
 
 Read in this order:
 
-1. [`CURRENT_STATE.md`](CURRENT_STATE.md) — single living project state
-2. [`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`](research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md) — final publication-facing synthesis
-3. [`research_notes/CANONICAL_INDEX_2026-08-27.md`](research_notes/CANONICAL_INDEX_2026-08-27.md) — active canonical dossiers and evidence layers
-4. [`research_notes/FROZEN_STRATA_2026-08-27.md`](research_notes/FROZEN_STRATA_2026-08-27.md) — what is frozen and how to interpret old batch/HOLD/queue language
-5. [`research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md`](research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md) — final complete-tree structural audit and freeze verdict
-6. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook transcription/material audit status
+1. [`CURRENT_STATE.md`](CURRENT_STATE.md) — single living project state.
+2. [`research_notes/CANONICAL_INDEX_2026-08-28.md`](research_notes/CANONICAL_INDEX_2026-08-28.md) — single current canonical navigation surface.
+3. [`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`](research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md) — publication-facing evidence synthesis for the base JHI article.
+4. [`research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md`](research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md) — current Blog architecture.
+5. [`research_notes/REPOSITORY_CLEANUP_2026-08-28.md`](research_notes/REPOSITORY_CLEANUP_2026-08-28.md) — full-repository cleanup/governance manifest.
+6. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook transcription/material-audit status.
 
-For older long-form synthesis, use [`Quellenforschung_master_summary_2026-08-23.md`](Quellenforschung_master_summary_2026-08-23.md) only after reading the final evidence gate; it is a pre-final synthesis and does not supersede 2026-08-27 closures.
+Older dated indices, sync logs, HOLD files, batch notes and queue language are provenance unless `CURRENT_STATE.md` or the current canonical index explicitly routes to them.
 
 ## Core argument
 
@@ -37,107 +31,86 @@ Governing evidentiary rule:
 
 > **A stronger proposition does not automatically inherit evidence that established a weaker proposition.**
 
-The central historical question is therefore not a linear transition from context to abstraction, but what kinds of warrant allowed Lovejoy to move between local textual/semantic/causal relations, differentiated populations, and larger historical categories.
+The central historical question is what kinds of warrant allowed Lovejoy to move among textual, semantic, logical, chronological, causal, psychological and historical relations without assuming those relations were interchangeable.
 
-## Archive center: notebooks 004 and 005
+## Archive center
 
-Two manuscript notebooks form the archival center:
+Notebooks 004 and 005 remain the archival center.
 
-- `MS38_004_001_061_004` — 71 PDF pages, labelled `Sankhya + Buddhism`
-- `MS38_004_001_061_005` — 120 PDF pages, comparative-religion notebook with a strong Paris 1898–99 core and later reuse
+- 004 corrected text: **71/71 pages**
+- 005 corrected text: **120/120 pages**
+- combined material-form overview: **191/191 pages**
+- authoritative corrected text: `archive_transcriptions/*_clean.json`
+- material ledger: `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`
+- closure: `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`
 
-Authoritative corrected transcriptions are in `archive_transcriptions/*_clean.json`.
+Highest-value material control remains 004 PDF p.42 / manuscript p.123: `viññāṇa` is spatially nested within `nāma`/`nāmarūpa` while adjacent prose treats it as temporally antecedent to `nāmarūpa` and logically a subdivision. Different relation-types are materially held apart on one page.
 
-Coverage:
+## 2026-08-28 logical-analysis control
 
-- 004: **71/71** corrected first-pass pages
-- 005: **120/120** corrected first-pass pages
-- combined material-form second pass: **191/191** overview complete, with argument-sensitive pages inspected at higher resolution
+The reopening historicalized the analytical vocabulary used to describe Lovejoy. Its final result is a calibration, not a new Blog section.
 
-Material closure is documented in:
+Controlled model:
 
-- `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`
-- `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`
+> **Lovejoy used different analytical operations in different contexts. `Logical` did not have one stable local meaning; the stronger recurring candidate is typed relations + inferential jurisdiction rather than one transported formal-logical technique.**
 
-The original PDFs used in the final visual audit match the source SHA-256 values recorded during the earlier transcription round.
+Mandatory adversarial warning:
 
-## Final high-value findings
+> **A ≠ B does not establish that A is historically or functionally independent of B.**
 
-### 004: relation types are materially held apart
+Lovejoy's distinctions sometimes need checking for overpartition, scope widening, or loss of the target actor's bridge between two non-identical relations.
 
-On PDF p.42 / manuscript p.123, `viññāṇa` is spatially nested inside the `nāma` side of the khandha diagram while the adjacent prose treats it as temporally antecedent to `nāmarūpa` and logically a subdivision of it. Temporal and logical relations are therefore not collapsed into one ordering on the page.
+The Carnap comparison is now frozen as a field/adversarial control. It shows, among other things, that decomposition, proposition insulation and verification-route plurality were not uniquely Lovejoyian. Baltimore on 31 December 1935 is best treated as a public jurisdiction dispute within an already liberalized and technically differentiated empiricism, not as the origin of Carnap's liberalization.
 
-### 005: the notebook is physically accretive and classificatory
+See the current canonical index for the terminal dossiers.
 
-Inserted/folded source slips, numbered schemas, local revisions, and diagrams occur throughout the notebook. High-value pages show active work at the boundary among ritual/social/customary determinants and strict moral desert; p.103 embeds a branching developmental hypothesis inside an explicit chronological stress test.
+## Repository layers
 
-### 1898 → 1906 Buddhist source-practice continuity
+### Living navigation
 
-Lovejoy's 1898 JAOS article directs interpretation of Buddhist technical terms back to the **Sutta Nipāta**. In 1906, reviewing Paul Elmer More, he again invokes **Sutta Nipāta 1073–1076** to resist an over-positive reconstruction of Nirvāṇa while explicitly discussing induction, historical antecedents, comparison, and correlation across literatures.
+- `CURRENT_STATE.md`
+- `research_notes/CANONICAL_INDEX_2026-08-28.md`
+- `WORKING_RULES.md`
+- `research_notes/REPOSITORY_CLEANUP_2026-08-28.md`
 
-### 1906 is a scalar laboratory
+### Primary/source and provenance
 
-Within months Lovejoy performs different operations:
+- `archive_transcriptions/` — raw/corrected/clean text, edit logs, diagnostics, material audits.
+- `archive_index/` — archive/source coverage, locators, search and provenance infrastructure.
+- root OCR/metadata/export payloads — legacy source/derived payloads retained at their existing paths in this cleanup to avoid breaking references.
 
-- `Democracy in the Twentieth Century`: generic Man → stage differentiation + race/national differentiation
-- `Kant's Antithesis of Dogmatism and Criticism`: macro rubric → local audit → macro rubric rejected
-- More review: source-level Buddhist semantic control + comparison/correlation
-- `The Fundamental Concept of the Primitive Philosophy`: local plurality → mechanism abstraction → cross-regional reaggregation
+### Canonical analytical layer
 
-Thus decomposition and totalization are contemporaneous possibilities, not successive ideological stages.
+Defined by the current canonical index. Terminal source-specific dossiers remain under `research_notes/`.
 
-### Mature Lovejoy
+### Process provenance
 
-*The Great Chain of Being* explicitly centers an Occidental/Western genealogy, but Buddhism and Vedānta are not absent. Indic materials persist in a changed role, more often as comparative philosophical types or boundary controls. The correct description is **functional repartition / change of narrative center**, not disappearance.
+Historical batch matrices, web sweeps, HOLD/gap audits, old sync logs and exploratory notes remain searchable where they still carry provenance. Their embedded `ACTIVE`, `HOLD`, `pending`, `blocker`, `missing`, or `next action` language is historical, not executable state.
+
+Git history is also the process archive; genuinely superseded navigation/process files may therefore be removed from the working tree after their terminal conclusions are preserved.
 
 ## Evidence discipline
 
 Do not infer:
 
-- citation = assent
-- adjacency = uptake
-- teacher relation = total method transmission
-- thematic similarity = textual reading
-- visible crossing-out = known direction of conceptual change when deleted text is unreadable
-- inserted sheet = datable composition event without independent chronology
-- source specialization = anti-hierarchy or political innocence
-
-Do not frame early Lovejoy as inventor of the constituent operators. His defensible documentary delta is selection/reweighting, local testing, dense reallocation, transport across domains, and scale expansion/re-totalization.
-
-## Repository layers
-
-### Primary/source layer
-
-Root OCR/HTML/EPUB/source files, `archive_index/`, and `archive_transcriptions/`. Preserve as evidence.
-
-### Canonical analytical layer
-
-Defined exclusively by `research_notes/CANONICAL_INDEX_2026-08-27.md` plus `CURRENT_STATE.md` and the final JHI gate.
-
-### Evidence infrastructure
-
-Source registers, matrices, consolidated CSVs, archive manifests. These support claims but do not define current narrative status by themselves.
-
-### Frozen process layer
-
-Historical web-sweep batches, global archive harvest batches, dated JHI architecture/pressure-test drafts, old queues, temporary HOLDs, gap audits, and superseded version chains. These remain searchable for provenance but are not current instructions.
-
-See `research_notes/FROZEN_STRATA_2026-08-27.md` and `research_notes/REPOSITORY_FREEZE_SCAN_2026-08-27.md`.
-
-## Manual / archival queue
-
-No manual return is required for the current JHI argument.
-
-Only one publication-hygiene item remains optional: exact Harvard 1896–97 Everett/Toy/Lanman course-description wording. Lovejoy's actual traversal of those pedagogical jurisdictions is independently secure.
-
-Parked archival possibilities (RAI Marillier MS 99, Washington University syllabus materials, Uppsala Söderblom materials) should not trigger broad new searches unless a publication-stage need arises.
+- citation = assent;
+- adjacency = uptake;
+- teacher relation = total method transmission;
+- curricular availability = exact enrollment;
+- thematic similarity = textual reading;
+- relation non-identity = historical independence;
+- decomposition = uniquely Lovejoyian method;
+- page order/ink/hand alone = composition chronology;
+- mature Western narrative center = disappearance of Buddhism;
+- known Buddhist formation = historiographical development of its technical scholarly content.
 
 ## Reopening rule
 
-General and targeted web research are frozen as saturated. Reopen only if:
+Reopen frozen research only if:
 
-1. a newly digitized primary bears directly on a live proposition;
-2. a direct source contradicts the current warrant/scale model; or
-3. publication editing requires an exact facsimile/page proof.
+1. a newly digitized/direct primary bears directly on a live proposition;
+2. a direct source contradicts the current evidence state;
+3. publication editing requires exact facsimile/page/quotation verification; or
+4. an analytical category already used in the draft requires materially different actor-level historical reconstruction.
 
-Old `HOLD`, `pending`, `blocker`, `missing`, `next action`, or manual-click language in frozen process files is historical and must not override `CURRENT_STATE.md`.
+Otherwise proceed to drafting, compression and citation placement.
