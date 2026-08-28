@@ -1,247 +1,121 @@
-# Carnap interface branch — live sync log
+# Carnap interface branch — final sync / refreeze
 
 Date: 2026-08-28  
-Status: **ACTIVE / MAY-1934 PREHISTORY DIRECT-PRIMARY / BRIDGE RECONSTRUCTED / TECHNICAL-GENEALOGY + MANUSCRIPT-COLLATION FRONT / RESTART-SAFE**
+Status: **FROZEN FOR CURRENT JHI ARTICLE / TECHNICAL TRANSITION CLOSED ENOUGH / REOPEN ONLY IF DIRECT NEW PRIMARY CHANGES A LIVE CLAIM**
 
-This file is the live handoff for the Carnap/meaning-criteria subbranch. `CURRENT_STATE.md` remains project-level authority. Detailed evidence resides in the dossiers linked below.
+This file is the final handoff for the Carnap/meaning-criteria branch. Project authority remains `CURRENT_STATE.md`.
 
-## 1. Durable Lovejoy–Carnap sequence
+## Final closure dossier
 
-### Lovejoy 1930 — meaning / criterion jurisdiction
+`research_notes/Carnap_1934_1935_verification_reduction_transition_final_closure_2026-08-28.md`  
+Commit: `1fe35220007d56b73eab4e19533cac78255b6680`.
 
-`research_notes/Lovejoy_1930_meaning_criterion_jurisdiction_map_2026-08-28.md`
+## Final developmental sequence
 
-Lovejoy separates:
+### May 1934
 
-`operation → evidence/sign → warranted inference → proposition/fact`.
+Carnap's `Notes for an answer to Lewis` already liberalize the old verificationist picture:
 
-Different verification routes need not generate different proposition identities; criterion selection requires independent warrant. McGilvary 1931 is mandatory adversarial control because he disputes Lovejoy's strong operationist attribution to Einstein.
+- statements are hypotheses;
+- meaning/knowledge outrun present experience;
+- future experience matters;
+- `verifiable in principle` is logical rather than technical possibility;
+- formal/material modes must be distinguished.
 
-### Baltimore — 31 Dec. 1935 direct-primary encounter
+This precludes any Baltimore-origin story for the broad liberalization.
 
-`research_notes/Lovejoy_Carnap_Baltimore_APA_1935_boundary_event_2026-08-28.md`
+### Spring 1935
 
-Carnap diary closes the chronology:
+Archival secondary reconstruction, citing Carnap correspondence, dates the first `Testability and Meaning` version to spring 1935. Carnap writes Neurath on 22 June 1935 that important parts of his still-unpublished protocol-sentence position are being treated in an English paper currently in progress.
 
-- 28 Dec.: road journey / West Chester overnight;
-- 29 Dec.: arrival Baltimore;
-- **31 Dec.: Carnap `Testability and Meaning`; Lovejoy intervention; Carnap reply**.
+### 28 June 1935
 
-Carnap's same-day précis: Lovejoy objects that if everything is conventional, logical positivists can no longer declare metaphysics meaningless.
+Direct primary: `Les Concepts Psychologiques et les Concepts Physiques Sont-ils Foncièrement Différents?`.
 
-APA proceedings JSTOR `2180308` indexes `Testability and Meaning — R. Carnap` followed by `An Examination of Logical Positivism — Arthur O. Lovejoy`.
+Carnap still frames physicalism via translation/equipollence, but explicitly rejects talk of **the** verification method. Meaning is tied to the **class of possible verification conditions**; one statement can be verified through heterogeneous routes without splitting into multiple statements/meanings.
 
-`Lovejoy formally introduced Carnap` remains strong secondary Verhaegh until exact original session-role typography is recovered.
+This directly controls Lovejoy 1930: verification-route plurality is field-level by 1935.
 
-### Lovejoy 1938 / published 1942
+### September 1935 Paris
 
-`research_notes/Lovejoy_1938_1942_Carnap_criteria_limits_meaning_direct_primary_dossier_2026-08-28.md`
+Direct primary: `Über die Einheitssprache der Wissenschaft`.
 
-Lovejoy's essay explicitly says it was **written in 1938**. He actor-retrospectively groups pragmatism, operationalism, behaviorism, special relativity in its methodological premises, and neo-positivism inside a radical-empiricist meaning problem.
+Carnap explicitly says definition cannot be the sole method of introducing concepts and introduces **Reduktion / Reduktionssatz**.
 
-His own diagnostic pair is:
+Key result:
 
-`thinkability / actual thought-content`
-≠
-`empirical verifiability / testability`.
+- definition generally permits elimination/retranslation;
+- reduction generally **does not**;
+- terms introduced by reduction need not be eliminable or fully retranslatable into the base vocabulary;
+- Carnap calls this a fundamental distinction.
 
-No documentary evidence shows Baltimore caused the 1938 essay.
+The paper itself cross-references forthcoming `Testability and Meaning` for reduction and empirical testability.
 
-## 2. Field control — Carnap also practices proposition separation
+The Paris congress trio also explicitly partitions:
 
-`research_notes/Carnap_1935_Tabellenmethode_partial_theses_field_control_2026-08-28.md`
+- logical versus psychological questions;
+- truth versus confirmation;
+- definition versus reduction;
+- language convention versus factual truth within an adopted language.
 
-Carnap→Neurath, 2 Jun. 1935: `Tabellenmethode` = `deutliche Trennung der verschiedenen Teilbehauptungen in einer Gesamtauffassung`.
+Thus the mature technical architecture is already public before Baltimore.
 
-He uses logical independence to keep universal revocability outside the definition of physicalism.
+### December 1935 Baltimore
 
-Therefore decomposition, proposition insulation, independence testing and anti-commitment transfer are field-level repertoires. Baltimore is not splitter versus non-splitter.
+9 Dec.: Baltimore manuscript sent to Quine for English correction.  
+31 Dec.: Carnap gives the talk; Lovejoy challenges him; Carnap replies.
 
-## 3. Lovejoy adversarial control — `A ≠ B` does not establish independence
+Baltimore is therefore:
 
-`research_notes/Lovejoy_1908_meaning_criteria_overpartition_adversarial_control_2026-08-28.md`
+> **a public jurisdiction dispute inside an already liberalizing and technically differentiated empiricism, not the point at which Carnap abandons strict verificationism or invents reduction.**
 
-Later James scholarship argues that Lovejoy separates predictive import from consequences of believing too sharply. Together with McGilvary 1931, this yields the active warning:
+### 1936–37
 
-> **Lovejoy can be strong at proving A ≠ B while sometimes underdescribing the target's bridge A↔B.**
+Published `Testability and Meaning` systematizes the architecture:
 
-The historical task is therefore bridge reconstruction, not distinction counting.
+- confirmation instead of conclusive verification;
+- confirmability versus testability;
+- reduction sentences;
+- reducibility versus definability;
+- explicit correction of earlier unrestricted eliminative/translation claims.
 
-## 4. Carnap bridge reconstructed — Lovejoy 1938 scope strengthening
+## Final Lovejoy interpretation
 
-`research_notes/Carnap_1928_1936_bridge_reconstruction_vs_Lovejoy_1938_scope_strengthening_2026-08-28.md`  
-Commit: `d07d16c4a4d5b1eda2aee6c840e1ead9d316e90b`.
+The strongest useful reading is now:
 
-### Carnap 1928
+> **Lovejoy's recurring strength lies in asking what a criterion is entitled to establish; his recurrent risk is to widen the scope of the target doctrine or treat non-identity as stronger independence than the target's bridge warrants.**
 
-Direct *Scheinprobleme* text does not simply reduce meaning to testability:
+Against Carnap specifically:
 
-- meaningful statement expresses a conceivable state of affairs;
-- for new/disputed concepts experiential true/false conditions are necessary and sufficient;
-- `factual content` requires conceivable supporting experiences;
-- `testable → factual content`, but not conversely;
-- theoretical content is distinguished from psychological accompaniment.
+- Lovejoy 1938 is strong as a critique of whether a restricted empirical/scientific meaning criterion is entitled to the broader philosophical consequence of excluding metaphysics;
+- it is weaker if rewritten as proof that mature Carnap simply identified all conceivable meaning with one actual verification procedure.
 
-Best reconstruction:
+Carnap himself was already distinguishing relation-types with considerable precision.
 
-`theoretical factual content ↔ conceivable experiential support conditions`,
+## Consequence for original JHI Blog
 
-with testability a stronger property.
+**Enough. Freeze.**
 
-### Lovejoy 1938
+The Blog needs at most a compact interpretive sentence indicating that Lovejoy's later philosophical work confirms actor-level relation-sensitive discrimination while field controls prevent treating decomposition as uniquely his, and adversarial controls prevent turning analytical separation into historical independence.
 
-Lovejoy widens Carnap's first side into **general actual thought-content / thinkability** and treats empirical settlement as a second criterion.
+Do not add:
 
-Most importantly, Lovejoy explicitly considers a restricted `scientific meaning` reading, says that this would make the doctrine near-definitional and philosophically weak, and then construes `scientific meaning` and general `meaning` as coextensive **if positivism is to have philosophical consequence**.
+- a Carnap/Baltimore section;
+- reduction-sentence technical exposition;
+- formal-logic genealogy into the notebooks;
+- a claim that Lovejoy anticipated analytic philosophy/logical empiricism.
 
-Actor-explicit critical mechanism:
+The logic branch is now a calibration device, not an additional narrative movement.
 
-`restricted technical reading seems philosophically weak`
-→ `select broader reading to preserve philosophical consequence`.
+## Reopen only if
 
-Working adversarial vocabulary:
+1. direct `RC 081-03-06` comparison reveals a pre/post-Baltimore textual change that materially changes the current Lovejoy interpretation;
+2. Lovejoy–Carnap correspondence directly links Baltimore to the 1938 essay;
+3. a publication sentence specifically requires exact original session-role evidence;
+4. a new direct primary contradicts the current developmental chronology.
 
-- scope widening/substitution;
-- bridge-status conversion;
-- consequence-maximizing target selection.
+Otherwise do not continue the Carnap/logic sweep for the present article.
 
-These remain testable habits, not universal traits.
+## Final shorthand
 
-### Carnap 1936–37
-
-Direct `Testability and Meaning` makes the restricted technical architecture explicit:
-
-- definitive verification → graded confirmation;
-- conventional component in acceptance ≠ truth/verification wholly conventional;
-- psychological meaning/images are bracketed;
-- given-language theoretical questions ≠ practical language-construction proposals;
-- older Circle mistake: proposal about language was expressed as assertion;
-- complete testability / complete confirmability / testability / confirmability are distinguished;
-- Carnap recommends **confirmability**, the more liberal requirement.
-
-Best current verdict:
-
-> **Lovejoy 1938 is strongest as a challenge to the jurisdictional scope and philosophical authority of Carnap's empiricist criterion, not as proof that the 1936–37 Carnap literally confused psychological thinkability with testability.**
-
-## 5. Major chronology correction — Lewis-reply liberalization is direct-primary by May 1934
-
-New dossier: `research_notes/Carnap_1934_Lewis_reply_prehistory_pre_Baltimore_causal_control_2026-08-28.md`  
-Commit: `472985bea6b8582c555ee8ff55a617f59141264b`.
-
-### Primary source
-
-Carnap→Charles Morris, 15 May 1934, with attached `Notes for an answer to Lewis’ “Experience and Meaning”`, attachment dated **11 May 1934**. VALEP letter locator: CM; duplicate RC 029-04-15; attachment preserved in CM.
-
-Carnap says:
-
-- Lewis had sent both manuscript and reprint;
-- Carnap had written reply notes;
-- a copy was enclosed to Morris;
-- **another copy had already been sent directly to Lewis**.
-
-### Conceptual result already present by May 1934
-
-Carnap's Notes directly say:
-
-- Lewis's criticism of the former Wittgenstein-influenced view is right;
-- the relevant modification/development was **mainly the effect of opposition by physicists**;
-- a statement is an **hypothesis**, never completely verified by present experiences;
-- it also concerns future experiences;
-- `knowledge and meaning go beyond present experiences`;
-- `verifiable in principle` means **logically**, not technically, possible;
-- material and formal modes must be distinguished;
-- the material mode is **not simply false or senseless** but dangerous because it breeds ambiguity/pseudo-problems;
-- datum ≠ cognoscendum; the cognoscendum contains a `something more` not immediately verified.
-
-### Causal ceiling — supersedes the previous `three weeks before Baltimore` shorthand
-
-Secure:
-
-> **The central Lewis-reply liberalization and several key bridge distinctions are documented roughly nineteen months before Lovejoy's Baltimore intervention.**
-
-Lovejoy therefore cannot be the source of Carnap's:
-
-- hypothesis/future-experience view;
-- recognition that present verification does not exhaust meaning/knowledge;
-- formal/material mode distinction;
-- claim that material-mode formulations need not simply be false/senseless;
-- basic Lewis-reply project.
-
-Carnap's own causal attribution is plural:
-
-`physicists' opposition` → major prior modification
-+
-`Lewis criticism recognized as right` → explicit reply / American-facing clarification.
-
-Lewis is an articulation/correction stimulus, not a single-cause origin.
-
-### 5 Jan. 1935 circulation / target-attribution control
-
-Nagel→Carnap reports Schlick discussing Carnap's `Notes for a reply to Lewis` in a Vienna Circle meeting. Nagel understood Schlick to imply both that Carnap had felt targeted by Lewis's criticism and that Schlick himself had never held some positions Carnap thought necessary to disavow.
-
-Thus the Lewis reply was already generating an **internal dispute over which older position belonged to whom**.
-
-This is highly relevant to the Lovejoy branch's current target-reconstruction problem.
-
-## 6. Revised chronology to use from now on
-
-`pre-May 1934: Lewis sends MS`
-→ `11 May 1934: Carnap Notes dated`
-→ `15 May 1934: Notes sent to Morris; Carnap says copy sent to Lewis`
-→ `5 Jan. 1935: Nagel reports Schlick discussing Notes`
-→ `2 Jun. 1935: Carnap Tabellenmethode field control`
-→ `28 Oct. 1935: developing paper referred to as reply to Lewis`
-→ `9 Dec. 1935: full Testability and Reduction MS sent to Quine`
-→ `31 Dec. 1935: Baltimore / Lovejoy challenge`
-→ `1936–37: published mature Testability and Meaning`.
-
-The sharp Baltimore question is now:
-
-> **How can Carnap liberalize empirical meaning, concede that meaning outruns present verification, and still retain a principled exclusion of metaphysics?**
-
-That is much closer to Lovejoy's same-day objection than the old `Lovejoy versus strict verificationism` frame.
-
-## 7. Current live front — date the technical machinery
-
-May 1934 secures the broad conceptual shift. It does **not yet date the full later technical machinery**.
-
-Highest-value question:
-
-> **When, between the May 1934 Notes and the Dec. 1935 Baltimore manuscript, do reduction sentences, the confirmability/testability distinction, and the explicit conventional/objective architecture enter?**
-
-### Manuscript route
-
-VALEP positively identifies `RC 081-03-06 — Testability and Reduction. Vortrag Baltimore (Meeting Philosophical Association) 31.12.1935`, DOI `10.48666/808458`; current automated document route exposes metadata but not manuscript body.
-
-The manuscript was later published in French translation as `Testabilité et réduction` in *Construction et réduction. Textes inédits sur le physicalisme 1922–1955* (Andrieu/Félix, 2011).
-
-### Exact next queue
-
-1. Search 1934–35 Carnap correspondence for the technical path from Lewis Notes to full Baltimore MS, especially `reduction`, `confirmability`, `testability`, `hypothesis`, `Lewis`.
-2. Recover RC 081-03-06 / 2011 `Testabilité et réduction` and collate three loci:
-   - conventional acceptance versus objective observation;
-   - proposal/decision versus assertion;
-   - confirmability versus stronger testability.
-3. Search for the copy of the May 1934 Notes sent directly to Lewis and any Lewis response.
-4. Search immediate post-Baltimore Carnap–Quine correspondence only for **local revision evidence**; broad liberalization is already pre-event.
-5. Re-read Lovejoy 1938 with the May 1934 prehistory active: his target is intentionally an argument-type / expanded scope, not current Carnap simpliciter.
-6. Continue Lovejoy-side test for scope-strengthening / consequence-maximizing target selection in 1908, 1930 and historiographical writings.
-
-## 8. Firewalls
-
-Do not claim:
-
-- Lovejoy caused Carnap's liberalization;
-- Lewis alone caused Carnap's liberalization;
-- the May 1934 Notes already contain every 1936–37 technical device;
-- Carnap 1928/1934/1935/1936–37 is one fixed verificationism;
-- Lovejoy's clear A≠B distinctions prove his target asserted A=B;
-- decomposition is uniquely Lovejoyian;
-- scope strengthening / overpartition is already a universal Lovejoy trait;
-- `Lovejoy introduced Carnap` is direct-primary before exact session-role evidence;
-- Baltimore caused Lovejoy's 1938 essay;
-- structural recurrence establishes genealogy.
-
-## Restart shorthand
-
-> **Resume from the technical genealogy, not the broad liberalization. Direct Carnap→Morris + attachment proves the Lewis-reply architecture by 11–15 May 1934: former Wittgenstein-influenced view corrected, mainly under physicists' opposition; Lewis criticism accepted as right; statements are hypotheses extending to future experience; knowledge/meaning outrun present experience; logical ≠ technical possibility; formal/material modes separated; material mode dangerous rather than simply senseless. Nagel Jan. 1935 shows internal dispute over which old positivist positions Carnap was disavowing. Baltimore is therefore a public jurisdiction dispute inside an already liberalized empiricism. Next date reduction sentences / confirmability-testability / conventional-objective machinery between May 1934 and Dec. 1935, then collate RC 081-03-06 against 1936–37.**
+> **May 1934 conceptual liberalization → June 1935 plural verification conditions within equipollence → Paris Sept. 1935 explicit non-eliminative reduction → Dec. 1935 Baltimore jurisdiction clash → 1936–37 systematic publication. The logic line is sufficient and is now refrozen for the current JHI Blog.**
