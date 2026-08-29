@@ -1,31 +1,39 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-29  
-Status: **BASE JHI EVIDENCE FROZEN / CLEAN-SUBMISSION v3.3 ACTIVE / 1,878-WORD BODY / 4 ENDNOTES / IMAGE FALLBACK CLOSED / NO BLOG BLOCKER**
+Status: **BASE JHI EVIDENCE FROZEN / CLEAN-SUBMISSION v3.3 ACTIVE / 1,878-WORD BODY / 4 TRUE ENDNOTES / WORD PACKAGE GENERATED + RENDER-QA PASSED / IMAGE FALLBACK CLOSED / NO BLOG BLOCKER**
 
 This is the single living project-state file. For evidence routing use `research_notes/CANONICAL_INDEX_2026-08-28.md`; for final evidence ceilings use `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`. Historical `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` language elsewhere does not override this file.
 
 ## 1. Active JHI Blog layer
 
-Current clean-submission draft:
+Current clean-submission source:
 
 - `research_notes/JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`
 - body: **1,878 words**;
-- citation style: published sources hyperlinked on first substantive mention, with parenthetical page references where useful;
-- endnotes reduced from eleven research notes to **four publication-useful notes**: (1) 1948 bibliography/version + Monboddo chronology; (2) notebook 004 archival citation; (3) Harvard catalogue + enrollment firewall; (4) notebook 005 composite/Paris provenance;
-- v3.3 supersedes v3.2 for active prose and submission preparation. v3.2 remains the full citation-ready research layer; v3.1 remains the page-lock/prose provenance layer.
+- argument / paragraph architecture frozen;
+- published sources hyperlinked on first substantive mention with parenthetical page references where useful;
+- endnotes reduced to **four publication-useful notes**: (1) 1948 bibliography/version + Monboddo chronology; (2) notebook 004 archival citation; (3) Harvard catalogue + enrollment firewall; (4) notebook 005 composite/Paris provenance;
+- copyedit pass 1 completed; the published 1898 article title preserves its historical `Upadana / Upadisesa` spelling while technical terms in prose use normalized diacritics;
+- Harvard wording tightened from an over-specific `study with these figures` formulation to the evidence-controlled `within this training environment`.
 
-Supporting production controls:
+Supporting controls:
 
 - `research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md`
 - `research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`
 
-The argument and paragraph architecture are frozen. Remaining work is production only:
+Word production layer:
 
-1. final American-English / diacritic / quotation copyedit;
-2. image selection and insertion;
-3. author-information block;
-4. Word conversion / final hyperlink check.
+- a submission DOCX named `JHI_Blog_Lovejoy_Buddhism_v3_3_submission_draft.docx` has been generated as the current conversation artifact;
+- Word package contains **true OOXML endnotes**, working hyperlinks, preserved italics/diacritics, title + author/affiliation placeholders, an author-bio placeholder, and a Figure 1 placeholder/caption at the manuscript-p.123 discussion;
+- endnote separator OOXML was explicitly repaired so separator objects are not mis-rendered as empty endnotes;
+- final DOCX was rendered to **5 pages** and every page visually inspected; no clipping, missing glyphs, broken hyperlinks-as-text, note loss, or layout overlap was found.
+
+Only unresolved production inputs are user/editor supplied rather than research problems:
+
+1. preferred publication name;
+2. exact affiliation / short author bio;
+3. final image choice once JHU permission timing is known.
 
 No new research is needed unless copyediting exposes a genuine source contradiction.
 
@@ -96,40 +104,13 @@ Five movements remain fixed:
 
 Do not reintroduce the relation inventory table. Do not make Skinner the opening architecture. Do not turn the mature book into a teleological endpoint. Do not claim Buddhism caused the unit-idea method.
 
-## 5. Frozen interpretive calibrations
+## 5. Frozen calibration / governance
 
-### Logic / analytical-method branch
-
-Refrozen. Superseded model:
-
-`formal logic → one migrated method → history of ideas`.
-
-Controlled model:
-
-> **Lovejoy mobilized different analytical operations in different contexts; the strongest recurrent candidate is typed relations plus inferential jurisdiction, not one transported formal-logical technique.**
-
-Mandatory adversarial rule:
+Logic and Carnap branches remain refrozen as background calibration. The operative anti-leakage rule remains:
 
 > **A ≠ B does not establish that A is historically or functionally independent of B.**
 
-This remains background calibration, not a Blog section.
-
-### Carnap branch
-
-Refrozen. Current sequence:
-
-`May 1934 conceptual liberalization`
-→ `spring 1935 Testability and Meaning draft`
-→ `June 1935 plural verification conditions + still-strong translation/equipollence`
-→ `September 1935 explicit non-eliminative reduction`
-→ `31 December 1935 Baltimore jurisdiction clash`
-→ `1936–37 systematic publication`.
-
-Baltimore is a public jurisdiction dispute within an already changing empiricism, not the origin of Carnap's liberalization. Do not use the Carnap line as a causal genealogy of Lovejoy's mature unit-idea method.
-
-## 6. Repository governance
-
-Navigation authority:
+Repository navigation authority:
 
 1. `CURRENT_STATE.md`
 2. `research_notes/CANONICAL_INDEX_2026-08-28.md`
@@ -137,19 +118,8 @@ Navigation authority:
 4. source-specific terminal dossiers
 5. raw/transcription/provenance layers
 
-Cleanup manifest:
-
-- `research_notes/REPOSITORY_CLEANUP_2026-08-28.md`
-
-Reopen a frozen research line only if:
-
-1. a newly digitized/direct primary changes a live proposition;
-2. a direct source contradicts current evidence;
-3. publication editing requires exact facsimile/page/quotation verification; or
-4. a category already used in the draft requires materially different actor-level reconstruction.
-
-Otherwise continue production rather than research.
+Reopen a frozen research line only if a newly digitized/direct primary changes a live proposition, a direct source contradicts current evidence, publication editing requires exact facsimile/page/quotation verification, or a category already used in the draft requires materially different actor-level reconstruction. Otherwise continue production rather than research.
 
 ## Restart shorthand
 
-> **Active text is `JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`: 1,878-word body, four endnotes, strong published sources hyperlinked, argument frozen. Image is not a blocker: use notebook 004 ms p.123 through JHU permission if practical, otherwise the public-domain 1898 JAOS opening page. Next work is final copyedit, author block, image insertion and Word conversion. Logic/Carnap remain refrozen.**
+> **Active text is `JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`: 1,878-word body, four publication-useful endnotes, strong public primary links, argument frozen. A 5-page Word submission package with true endnotes and Figure 1 placeholder has been generated and passed page-by-page render QA. Remaining inputs are publication name/affiliation-bio and final image selection: notebook 004 ms p.123 through JHU permission if practical, otherwise the public-domain 1898 JAOS opening page. Do not reopen the argument.**
