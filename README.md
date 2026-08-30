@@ -2,7 +2,9 @@
 
 Research repository for Arthur O. Lovejoy's early Buddhist/Indian studies, comparative religion, political thought, philosophical practice, and the prehistory of his historical method.
 
-**Current state:** base JHI project frozen and draft-ready; 2026-08-28 logical-analysis/Carnap control line refrozen; repository navigation consolidated; no argument-sensitive blocker remains.
+**Current state:** base JHI evidence frozen; clean-submission v3.3 active; 1,878-word body and four publication-useful endnotes fixed; Word submission package generated and render-QA passed; image fallback closed; no research or argument blocker remains.
+
+`CURRENT_STATE.md` is the single living project-state file. Historical `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` language elsewhere does not override it.
 
 A pre-cleanup snapshot is preserved at `snapshot/pre-cleanup-2026-08-28`. The earlier pre-freeze snapshot remains at `snapshot/pre-freeze-2026-08-27` (base commit `249e8a29862d2daca84f1fbb6b698a2bf2fa6456`).
 
@@ -10,14 +12,27 @@ A pre-cleanup snapshot is preserved at `snapshot/pre-cleanup-2026-08-28`. The ea
 
 Read in this order:
 
-1. [`CURRENT_STATE.md`](CURRENT_STATE.md) — single living project state.
-2. [`research_notes/CANONICAL_INDEX_2026-08-28.md`](research_notes/CANONICAL_INDEX_2026-08-28.md) — single current canonical navigation surface.
-3. [`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`](research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md) — publication-facing evidence synthesis for the base JHI article.
-4. [`research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md`](research_notes/JHI_first_draft_architecture_calibration_2026-08-27.md) — current Blog architecture.
-5. [`research_notes/REPOSITORY_CLEANUP_2026-08-28.md`](research_notes/REPOSITORY_CLEANUP_2026-08-28.md) — full-repository cleanup/governance manifest.
-6. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook transcription/material-audit status.
+1. [`CURRENT_STATE.md`](CURRENT_STATE.md) — single living project and production state.
+2. [`research_notes/JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`](research_notes/JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md) — current clean-submission source.
+3. [`research_notes/CANONICAL_INDEX_2026-08-28.md`](research_notes/CANONICAL_INDEX_2026-08-28.md) — current canonical evidence/navigation surface.
+4. [`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`](research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md) — publication-facing evidence ceilings.
+5. [`research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md`](research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md) and [`research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`](research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md) — current citation/image production controls.
+6. [`research_notes/REPOSITORY_CLEANUP_2026-08-28.md`](research_notes/REPOSITORY_CLEANUP_2026-08-28.md) — structural-cleanup/governance manifest.
+7. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook transcription/material-audit status.
 
-Older dated indices, sync logs, HOLD files, batch notes and queue language are provenance unless `CURRENT_STATE.md` or the current canonical index explicitly routes to them.
+The earlier first-draft architecture files remain writing-history provenance, not the current submission source. Older dated indices, sync logs, HOLD files, batch notes and queue language are provenance unless `CURRENT_STATE.md` or the current canonical index explicitly routes to them.
+
+## Current production boundary
+
+The argument and paragraph architecture are frozen. The current clean-submission source has a 1,878-word body and four endnotes. A five-page Word package with true OOXML endnotes, working hyperlinks, preserved italics/diacritics, author/affiliation placeholders and a Figure 1 placeholder has been generated and visually checked.
+
+Remaining production inputs are not research queues:
+
+- preferred publication name;
+- exact affiliation / short author bio;
+- final image choice once JHU permission timing is known.
+
+Preferred image: notebook 004, source PDF p.42 / manuscript p.123, subject to JHU publication permission. Fallback: the opening page of Lovejoy's 1898 JAOS article. Image choice does not block text submission.
 
 ## Core argument
 
@@ -60,24 +75,24 @@ Mandatory adversarial warning:
 
 Lovejoy's distinctions sometimes need checking for overpartition, scope widening, or loss of the target actor's bridge between two non-identical relations.
 
-The Carnap comparison is now frozen as a field/adversarial control. It shows, among other things, that decomposition, proposition insulation and verification-route plurality were not uniquely Lovejoyian. Baltimore on 31 December 1935 is best treated as a public jurisdiction dispute within an already liberalized and technically differentiated empiricism, not as the origin of Carnap's liberalization.
-
-See the current canonical index for the terminal dossiers.
+The Carnap comparison is frozen as a field/adversarial control. It is not an active Blog branch.
 
 ## Repository layers
 
-### Living navigation
+### Living navigation / production
 
 - `CURRENT_STATE.md`
+- `research_notes/JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`
 - `research_notes/CANONICAL_INDEX_2026-08-28.md`
 - `WORKING_RULES.md`
-- `research_notes/REPOSITORY_CLEANUP_2026-08-28.md`
 
 ### Primary/source and provenance
 
-- `archive_transcriptions/` — raw/corrected/clean text, edit logs, diagnostics, material audits.
+- `archive_transcriptions/` — raw/corrected/clean text, edit logs, diagnostics and material audits.
 - `archive_index/` — archive/source coverage, locators, search and provenance infrastructure.
-- root OCR/metadata/export payloads — legacy source/derived payloads retained at their existing paths in this cleanup to avoid breaking references.
+- root OCR/metadata/export payloads — legacy source/derived payloads intentionally retained at their existing paths to avoid breaking references.
+
+The root payload layout is recorded structural debt, not an active cleanup queue. Any future migration into `sources/`, `ocr/`, `data/` or `exports/` must be a dedicated path-breaking migration with an explicit path map.
 
 ### Canonical analytical layer
 
@@ -85,9 +100,9 @@ Defined by the current canonical index. Terminal source-specific dossiers remain
 
 ### Process provenance
 
-Historical batch matrices, web sweeps, HOLD/gap audits, old sync logs and exploratory notes remain searchable where they still carry provenance. Their embedded `ACTIVE`, `HOLD`, `pending`, `blocker`, `missing`, or `next action` language is historical, not executable state.
+Historical batch matrices, web sweeps, HOLD/gap audits, old sync logs and exploratory notes remain searchable where they preserve provenance. Their embedded historical state words are not executable instructions.
 
-Git history is also the process archive; genuinely superseded navigation/process files may therefore be removed from the working tree after their terminal conclusions are preserved.
+Git history is also the process archive; genuinely superseded navigation/process files may be removed only after terminal conclusions and required references are preserved.
 
 ## Evidence discipline
 
@@ -113,4 +128,4 @@ Reopen frozen research only if:
 3. publication editing requires exact facsimile/page/quotation verification; or
 4. an analytical category already used in the draft requires materially different actor-level historical reconstruction.
 
-Otherwise proceed to drafting, compression and citation placement.
+Otherwise continue submission production, compression and citation placement rather than research expansion.
