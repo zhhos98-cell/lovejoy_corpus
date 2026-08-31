@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0-lovejoy-direct-image-delta",
+  "date": "2026-09-01",
+  "scope": "Residual 004 loci plus broadened 005 low-confidence and mechanism-sensitive pages",
+  "evidence_rule": "Original image controls wording. Diplomatic text, editorial summary, material/layout observation, and external-source collation remain separate.",
+  "deltas": [
+    {
+      "source_id": "MS38_004_001_061_004",
+      "pdf_page": 17,
+      "manuscript_page_label": "63",
+      "status": "residual verification closed; no substantive clean-text reversal",
+      "witness_status": "W3",
+      "secure_text": "To R.D.'s remark it shld be added ... the central point wh. it makes, the point whereon its 'doctrine of release' is based is the separateness of the Self & the World, — in a word its thorough-going dualism. A more likely reference to a genuinely Sankhyan doctrine is ... Majjhima-Nikaya Sutta 63: 'the soul is one thing & the body is another' etc.",
+      "editorial_consequence": "Closes the former p.17 punctuation/location blind spot. The page explicitly shifts evidential weight from generic eternity-of-matter/self resemblance to the separateness/dualism relation."
+    },
+    {
+      "source_id": "MS38_004_001_061_004",
+      "pdf_page": 29,
+      "manuscript_page_label": "89",
+      "status": "residual source-transition verification closed; clean summary remains broadly valid",
+      "witness_status": "W3 for Childers p.576, Dhammapada 1, and the Childers/Müller contrast",
+      "secure_text": "Child. p. 576 fol. ... Of the 4 mental khandhas, the superiority of V. is strongly asserted in the 1st verse of Dhammapada ... But v. Childers s.v. dhamma, & Müller's Dhammapada for a diff. interpretation of Dhammapada 1.",
+      "editorial_consequence": "The notebook does not simply adopt one rendering of Dhammapada 1; it records an explicit source-level interpretive fork."
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
+      "pdf_page": 3,
+      "manuscript_page_label": "3 [?]",
+      "status": "argument structure upgraded; no verbatim publication quotation yet",
+      "witness_status": "W3 for the central distinction; W2 for several connecting words",
+      "secure_text": "But what is meant by moral notions? ... when we find the rich in the next life are still rich, we cannot call this continuance a case of recompense for virtue.",
+      "editorial_consequence": "Lovejoy separates mere continuity of status from moral recompense. Afterlife difference becomes moral only when it is tied to conduct/desert rather than persistence of terrestrial rank or capacity."
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
+      "pdf_page": 4,
+      "manuscript_page_label": "5 [?]",
+      "status": "argument structure upgraded",
+      "witness_status": "W3 for the anti-moral inference and quasi-mechanical contrast; some wording remains W2",
+      "secure_text": "No more again can religious devotion be held to imply an idea of a moral sort ... [the relation can be] in a purely quasi-mechanical manner.",
+      "editorial_consequence": "Ritual success/reward is explicitly separated from moral judgment. A practice may generate an afterlife consequence through a quasi-mechanical religious relation without constituting moral eschatology."
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
+      "pdf_page": 5,
+      "manuscript_page_label": "7",
+      "status": "argument structure upgraded",
+      "witness_status": "W3 for the closing historical characterization",
+      "secure_text": "[The other world] is not properly a copy of the present world of today but of yesterday; the morality supposed to be reigning there is commonly a little traditional & obsolete.",
+      "editorial_consequence": "The afterlife is treated as a lagging historical layer, preserving older norms rather than transparently mirroring the present."
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
+      "pdf_page": 64,
+      "manuscript_page_label": "129",
+      "status": "substantive lexical correction pending merge into clean batch",
+      "witness_status": "W3 for 'the gods' and the magical-apparatus sentence",
+      "withdraw": "current clean wording: 'for the body/power will take advantage of a man's lack of technical skill ...'",
+      "replace_with": "for the gods will take advantage of a man's lack of technical skill with the magical apparatus to subject him in turn to their will",
+      "editorial_consequence": "The mechanism is a contest/transaction with personal gods mediated by a quasi-technical magical apparatus; the prior 'body/power' reading is an image-level error."
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
+      "pdf_page": 96,
+      "manuscript_page_label": "187",
+      "status": "chronology/provenance anchor upgraded",
+      "witness_status": "W3 for 'Marillier' and 'June 20'; middle abbreviation W2",
+      "secure_text": "Marillier — [sem. sec.?] — June 20",
+      "editorial_consequence": "This inserted analytical sheet has an explicit Marillier/June-20 anchor. The page should be treated as a discrete inserted witness tied to the comparative-religion teaching/research layer, not simply as undated notebook prose."
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
+      "pdf_page": 104,
+      "manuscript_page_label": "195",
+      "status": "substantive directionality correction pending merge into clean batch",
+      "witness_status": "W3 for H.S. -> domestic-animal-sacrifice direction; compressed middle wording W2",
+      "secure_text": "[The] manner of the H.S. is in turn modified into sacr. of dom. an., dressed as a man & so on. The dom. an. sac. ... comes not fr. wild an. sac. directly, but by modification of H.S. ...",
+      "withdraw": "current clean summary: 'sacrifice of domestic animals can be modified into sacrifice of a divine animal or divine representative'",
+      "replace_with": "Lovejoy is testing a substitutional/developmental direction in which human sacrifice (H.S.) is modified into domestic-animal sacrifice, including animals dressed/treated in human fashion; he explicitly denies that this domestic-animal form need derive directly from wild-animal sacrifice.",
+      "editorial_consequence": "This reverses the causal direction in the first-pass summary. The page belongs with p.103 as a sequence-testing exercise: proposed ritual succession is decomposed into alternative historical pathways rather than one linear wild-animal -> domestic-animal story."
+    }
+  ],
+  "merge_policy": "Substantive lexical/directionality corrections at 005 pp.64 and 104 should be merged into their authoritative clean JSON batches on the next clean-file consolidation. Other entries mainly upgrade witness grade and argument structure."
+}
