@@ -7,6 +7,39 @@ This file is a thin live queue for actions where one manual click, archive reque
 
 ## HIGH-VALUE QUICK ADVANCE — global-history / method-history branch
 
+### QA-000 — UMSL CSPT founding correspondence, `SL: 6/6`, Box 2
+
+Collection: University of Missouri–St. Louis University Archives, `SL: 6/6 — Conference for the Study of Political Thought`.
+
+Recent archival scholarship directly uses **Box 2** and identifies named 1967 founding documents. This is currently the most sharply specified and potentially easiest high-leverage institutional archive request in the method-history branch.
+
+Ask for scans/reproductions or exact folder/item references for, at minimum:
+
+- J. G. A. Pocock -> Melvin Richter and Neal Wood, 11 Sept. 1967;
+- Melvin Richter -> Sheldon Wolin, 27 Nov. 1967;
+- Neal Wood -> Pocock and Richter, 30 Nov. 1967;
+- Melvin Richter -> Harvey Mansfield, 7 Dec. 1967;
+- Joseph Cropsey -> Richter, 9 Dec. 1967;
+- Harvey Mansfield -> Richter, 11 Dec. 1967;
+- Neal Wood -> Pocock and Richter, 15 Dec. 1967;
+- Pocock -> Richter and Wood, 18 Dec. 1967;
+- Judith Shklar -> Richter, 18 Dec. 1967;
+- Ellen Meiksins, `Report on Foundation Meeting`, 1967;
+- `Conference for the Study of Political Thought`, early-1968 programmatic / manifesto document;
+- any adjacent constitution, membership list, funding proposal, chapter plan, newsletter plan, publication/journal plan, minutes or foundation correspondence.
+
+Primary proposition targets:
+
+1. APSR/publication-access anxiety and behavioralist jurisdiction;
+2. coalition recruitment across major political/methodological differences;
+3. Wood's separatist institutional plan vs Pocock/Richter resistance to disciplinary secession;
+4. exact wording of Pocock's `relatedness` position;
+5. whether early founders already planned chapters, newsletters, journals or publication infrastructure;
+6. whether Skinner, Dunn, Laslett or Cambridge method discussions appear in the founding files.
+
+Canonical archive manifest:
+`research_notes/CSPT_1967_founding_correspondence_UMSL_Box2_archive_manifest_institutional_divergence_2026-08-31.md`.
+
 ### QA-001 — LSE PSA 1968 Sussex conference item references
 
 Collection: `GB 0097 PSA`, Political Studies Association, LSE/British Library of Political and Economic Science.
@@ -128,4 +161,4 @@ No need to pursue unless the exact pages are effortless. Lovejoy's actual traver
 
 For the frozen JHI Blog: **none**.
 
-For the larger Lovejoy/JHI method-history article: `QA-001` and `QA-002` have the highest archival leverage; `QA-003`–`QA-005` are direct-page upgrades that can be executed whenever access is effortless.
+For the larger Lovejoy/JHI method-history article: `QA-000` is currently the easiest/highest-yield archive request because it already has official series + Box 2 + named dated documents. `QA-001` and `QA-002` remain the highest-leverage Skinner publication-history requests; `QA-003`–`QA-005` are direct-page upgrades that can be executed whenever access is effortless.
