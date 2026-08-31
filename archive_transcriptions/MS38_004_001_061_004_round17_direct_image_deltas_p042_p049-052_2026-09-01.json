@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0-lovejoy-direct-image-delta-register",
+  "source_id": "MS38_004_001_061_004",
+  "source_description": "Arthur O. Lovejoy notebook labelled ‘Sankhya + Buddhism’",
+  "split_witness": "MS38_004_001_061_004_37-71.pdf",
+  "date": "2026-09-01",
+  "status": "DIRECT IMAGE CHECK COMPLETE FOR LISTED LOCI / DELTAS LOGGED / CLEAN-BATCH MERGE NOT YET PERFORMED",
+  "governing_rule": "ORIGINAL IMAGE -> SECURE READING -> TRANSCRIPTION CORRECTION -> INTERPRETIVE CONSEQUENCE",
+  "authority_note": "This register records only page-specific deltas established from the renewed split-PDF witness. It does not silently rewrite the heterogeneous summary/diplomatic layers in the existing clean batch.",
+  "deltas": [
+    {
+      "pdf_page": 42,
+      "manuscript_page_label": "123",
+      "split_local_page": 6,
+      "witness_grade": "W3",
+      "existing_clean_key_text": "Viññāṇa is temporally (?) antecedent to nāmarūpa and logically a subdivision of it.",
+      "direct_image_secure_key_text": "viññāna is temporally (?) an antecedent of nāma-rūpam, & logically a subdivision of it.",
+      "correction": "The relation phrase is diplomatically ‘an antecedent of’, not ‘antecedent to’. The manuscript also uses the form ‘nāma-rūpam’ in this sentence; normalized conceptual prose may continue to use nāmarūpa if explicitly marked as normalization.",
+      "material_layout_observation": "The diagram immediately above nests viññānam under nāma within nāmarūpam while the prose assigns temporal antecedence and logical subdivision. No visible erasure removes either relation.",
+      "interpretive_consequence": "The prior relation-type argument survives; the correction is diplomatic rather than conceptual."
+    },
+    {
+      "pdf_page": 49,
+      "manuscript_page_label": "137",
+      "split_local_page": 13,
+      "witness_grade": "W3 for key rejection/conclusion; W2 for the crossed/overwritten temporal-homogeneity phrase immediately above",
+      "existing_clean_key_text": "there is, he argues, a discoverable technical system underlying the arrangement.",
+      "direct_image_secure_key_text": "There is a discoverable logical system wh. governs the arrangement, and the repetitions are intentional; as I hope I have succeeded in showing.",
+      "additional_secure_text": "The page directly rejects the claim that the formula is ‘illogical & unintelligible’ or that its terms were ‘jumbled together in an order more or less accidental.’",
+      "correction": "Replace the normalized descriptor ‘technical system’ with the manuscript’s ‘logical system’ when representing Lovejoy’s own wording or conceptual vocabulary.",
+      "hold": "Do not freeze the exact crossed/overwritten word(s) in the immediately preceding clause about the sequence being non-homogeneous / not strictly temporal until a still tighter paleographic read is needed for quotation.",
+      "interpretive_consequence": "This materially strengthens the claim that Lovejoy’s local problem is one of relation and intelligible arrangement, not merely technical taxonomy. It does not establish a later unit-idea method or a Buddhist origin for it."
+    },
+    {
+      "pdf_page": 50,
+      "manuscript_page_label": "139",
+      "split_local_page": 14,
+      "witness_grade": "W3 for the relation-type fragment",
+      "direct_image_secure_fragment": "precede both temporally as well as logically",
+      "correction": "The existing clean summary’s distinction between temporal and logical precedence is directly supported by the page image rather than being an editorial synthesis.",
+      "interpretive_consequence": "p.50 independently repeats the relation-type vocabulary found on p.42, reducing the chance that ms p.123 is an isolated formulation."
+    },
+    {
+      "pdf_page": 51,
+      "manuscript_page_label": "141",
+      "split_local_page": 15,
+      "witness_grade": "W3 for heading/source anchor and high-level genealogy; W2 for some compressed technical forms",
+      "direct_image_secure_fragments": [
+        "Nidānas",
+        "Senart, p. 285",
+        "Moreover, t. enumeration might easily be either abridged or extended."
+      ],
+      "correction": "The clean summary’s Senart anchor and shift into avijjā/saṅkhāra genealogy are image-supported; exact compressed Pāli/Sanskrit items in the alternate series remain a quotation-level queue rather than a conceptual blocker.",
+      "interpretive_consequence": "The page makes the historical-genealogical question distinct from the logical-arrangement question secured on pp.49-50."
+    },
+    {
+      "pdf_page": 52,
+      "manuscript_page_label": "143",
+      "split_local_page": 16,
+      "witness_grade": "W3 for the key evaluative transitions; W2 for several compressed middle clauses",
+      "direct_image_secure_fragments": [
+        "the whole enumeration is secondary as to origin & composite as to character",
+        "And what of nāma-rūpa?",
+        "plainly only a scholastic expedient"
+      ],
+      "correction": "The clean summary is conceptually sustained: Lovejoy distinguishes composite/secondary origin from the later scholastic work of making the inherited terms cohere. No stronger direct-borrowing claim is licensed.",
+      "interpretive_consequence": "The local sequence now separates at least three questions: historical origin, logical arrangement, and scholastic reconciliation. These should not be flattened into one chronology or one contradiction claim."
+    }
+  ],
+  "tranche_result": "004 pp.49-52 are no longer a blind conceptual queue. Publication-grade quotation still requires caution around the crossed temporal-homogeneity phrase on p.49 and some compressed technical forms on pp.51-52. The p.42 diplomatic wording also requires a small clean-batch correction (‘an antecedent of’)."
+}
