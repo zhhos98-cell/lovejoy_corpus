@@ -90,8 +90,11 @@ The following earlier closures remain hypotheses or source-lineage identificatio
 - p.62 exact Brinton sacrifice item;
 - p.78 Trumbull numeral and p.268f/p.299 locus assignment;
 - pp.79–80 Grout as exact immediate carrier and the precise Lovejoy-local classification of the Zulu case;
-- Kingsley sequential reading run unless its page numbers are independently image-secure;
-- p.119 selected-body-part wording used for the 005→1906 continuity argument.
+- Kingsley sequential reading run unless its page numbers are independently image-secure.
+
+### Image-rechecked but still lexically limited
+
+- **005 p.119 selected-body-part mechanism:** Round-16 original-image recheck confirms a `specific virtue or force` / transferable-efficacy problem and an explicit alternative in which a part can stand as a representative of the whole body. It does **not** secure the earlier clean transcript's neat normalized arrows `head/brain -> intelligence; heart -> courage/breath/life; sexual organs -> sexual power`. Treat the local mechanism as W2-W3 and keep exact body-part assignments qualified.
 
 ## 5. Governing language restrictions
 
@@ -131,11 +134,14 @@ For every high-value difficult page:
 Highest-priority remaining blind/image-controlled pages:
 
 - 004 p.6/MS21, p.8/MS25, p.12/MS53, p.17, p.20, p.22, p.29, p.33, p.42, pp.47–52;
-- 005 pp.3–6, p.10, p.11, p.27, p.29, p.47, p.62, p.78, **pp.79–80**, pp.85–86, p.89, p.103, p.119.
+- 005 pp.3–6, p.10, p.11, p.27, p.29, p.47, p.62, p.78, **pp.79–80**, pp.85–86, p.89, p.103.
 
-Round-16 completed locus:
+Round-16 completed/image-rechecked loci:
 
-- **005 p.117** — key late-synthesis wording recovered directly from original image; see `research_notes/QUELLENFORSCHUNG_round16_original_image_verification_2026-08-31.md` and `research_notes/MS38_005_transcription_corrections_round16_original_image_2026-08-31.csv`.
+- **005 p.117** — key late-synthesis wording recovered directly from original image at W3;
+- **005 p.119** — transferable-efficacy mechanism recovered at W2-W3; normalized organ-quality triplet withdrawn.
+
+See `research_notes/QUELLENFORSCHUNG_round16_original_image_verification_2026-08-31.md` and `research_notes/MS38_005_transcription_corrections_round16_original_image_2026-08-31.csv`.
 
 Use:
 
@@ -151,6 +157,6 @@ The strongest defensible formulation is:
 
 > **Lovejoy worked within already sophisticated philological and comparative-religion source environments. At selected manuscript seams where the witness is secure, the notebooks show him redistributing evidentiary jobs: quotation versus inference, temporal order versus classificatory inclusion, fact versus manner, visible ritual form versus causal mechanism, and synthetic field map versus lower-witness test.**
 
-Round-16 p.117 adds a secure late example of the last operation: Lovejoy explicitly ranks the relative incidence of sacrificial mechanisms rather than merely listing them.
+Round-16 p.117 adds a secure late example of the last operation: Lovejoy explicitly ranks the relative incidence of sacrificial mechanisms rather than merely listing them. Round-16 p.119 strengthens a different point: he entertains more than one causal account for selected-body-part efficacy, while the earlier clean transcription had made the page look more schematically settled than it is.
 
 This is stronger than an originality claim because the relevant transformations can be demonstrated locally without assigning Lovejoy ownership of the upstream categories or methods.
