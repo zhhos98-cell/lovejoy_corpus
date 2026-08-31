@@ -12,14 +12,16 @@
     "page_count": 18,
     "created_at": "2026-08-17T21:56:00+08:00",
     "method": "Manual visual correction against rendered PDF pages, using PaddleOCR-VL output only as a scaffold.",
-    "policy": "Preserve Lovejoy abbreviations; normalize obvious OCR errors; mark uncertain readings rather than silently reconstructing handwriting."
+    "policy": "Preserve Lovejoy abbreviations; normalize obvious OCR errors; mark uncertain readings rather than silently reconstructing handwriting.",
+    "status": "first pass complete; direct original-image second pass propagated for p.20 and pp.27-36; p.33 Upādāna/karma reading corrected"
   },
   "research_signals_from_batch": [
     "Dependent origination (paticca-samuppada) is treated as the technical working-out of Buddhism’s general philosophical position and linked to the Three Characteristics.",
     "Lovejoy decomposes the twelve nidanas term by term: birth, bhava, upadana, tanha, sensation, contact, ayatana, namarupa, consciousness, sankhara, avijja.",
     "The notebook repeatedly cross-references Warren, Childers, Oldenberg, Rhys Davids, Buddhaghosa, Hardy and Hopkins.",
     "Lovejoy diagrammatically maps consciousness → namarupa → sense-organs → contact → sensation → desire, then asks how the chain relates to the Four Truths.",
-    "Karma is used to explain continuity across rebirth while the khandhas perish; Lovejoy explicitly probes causal continuity, personal identity, and annihilation at Nirvana."
+    "Karma is used to explain continuity across rebirth while the khandhas perish; Lovejoy explicitly probes causal continuity, personal identity, and annihilation at Nirvana.",
+    "Direct-image control of p.32 shows that Lovejoy assigns different sequence rules to different portions of paticca-samuppada: a local relation can be parallel and order-invertible, later links follow a fixed sequence, 3–9 form one group, 1–2 are separable, and 10–12 redescribe 3–9 from another point of view."
   ],
   "pages": [
     {
@@ -36,7 +38,11 @@
       "page_type": "notes",
       "corrected_text": "Nidānas\n\nTo understand F. general philos. positn of Bism, as correlated with F. 3 Characteristics, and then to understand F. technical working out of this general conception, in colln. w. F. current Indic ideas, in F. Paticca-samupp., is to understand Bism; for, leaving F. ethical system out of acct., all A. is essential in Bistic doctrine is involved in F. 12 notions & F. very complicated inter-relation. [F. degree of this complication has very seldom been stated as it is by European writers?] The most that can be hoped for in F. present effort is some degree of approaching such understanding, through a careful analysis of F. comprehension of texts.\n\nThe Nidānas (Paticcasamuppādo)\nF. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2.\n\n‘Once upon a time F. Blessed One was dwelling at Sāvatthi in Jetavana monastery in F. park of Anāthapiṇḍika. There the Blessed One addressed F. bhikkhus: “Bhikkhus,” said he. “Lord,” said F. bhikkhus to F. Blessed One in reply. And F. Blessed One spoke as follows: “O bhikkhus, I will cause you to understand dependent origination; give ear to it & heed well what I shall say.” “So be it, Lord,” replied F. bhikkhus. And F. Blessed One spoke as follows: “What, O F., is dep’d’t Origination? From ignorance as a cause arises Conformations, from Conformations …”’",
       "transcription_confidence": "medium",
-      "uncertain_readings": ["left-page sentence on how rarely the interrelation has been stated", "exact subtitle/reference under The Nidānas", "a few words in quoted introduction"]
+      "uncertain_readings": ["left-page sentence on how rarely the interrelation has been stated", "exact subtitle/reference under The Nidānas", "a few words in quoted introduction"],
+      "text_layer": "direct_image_verified_programmatic_structure",
+      "witness_status": "W3 for programmatic relation between general philosophical position, technical working-out, twelve notions, and complicated inter-relation",
+      "material_layout_observation": "The left page is a programmatic prose preface headed ‘Nidānas’; the facing right page immediately switches to the source sequence under ‘The Nidānas (Paticcasamuppādo)’. The spread materially separates analytic programme from source transcription.",
+      "editorial_argument_summary": "Lovejoy defines the task as understanding a general philosophical position through its technical working-out and the complicated inter-relation of the twelve notions, approached by careful textual analysis. Several small words remain unfit for exact quotation."
     },
     {
       "pdf_page": 21,
@@ -92,7 +98,11 @@
       "page_type": "notes-and-diagram",
       "corrected_text": "The relation of F. Nidānas 3–8 inclusive may be represented thus:\n\n3. Consciousness: eye-consciousness / ear-consciousness / nose-consciousness / tongue-consciousness / body-consciousness / mind-consciousness.\n4. Nāmarūpa.\n5. Sense-organs: eye / ear / nose / tongue / body / mind.\n6. Contact of: eye / ear / nose / tongue / body / mind.\n7. Sensation of: sight / sound / smell / taste / touch / thought or perception [?].\n8. Desire of: sight / sound / smell / taste / touch / thought or perception [?].\n\nNidānas cont.\n\nNāmarūpa (Name & Form). ‘What, O F., is name & form? … Sensation, perception, consciousness (cetanā [?]), contact, attention; A. is what is meant by name. Tre are also 4 great elements & a form springing fr. each of F. 4 great elements’ etc. (Nid. Saṁy.)\n\n[F. 4 gr. elements are F. earthy element, watery element, fiery element, windy element; & F. together constitute F. body. Cf. Saṁyutta Nikāya XII 62; Warren p. 158.]\n\nBuddhaghosa on it, Warren p. 58; and name & form together seem to be the subtle & the gross components wh. go to make up F. bodily indiv. organism. But F. further [reference uncertain], cf. Oldenberg, p. 228, points. Name & form appear to equal in F. denotation F. indiv. organism.",
       "transcription_confidence": "medium",
-      "uncertain_readings": ["diagram final category thought or perception", "cetanā/consciousness wording in nāmarūpa definition", "references in lower-right commentary"]
+      "uncertain_readings": ["diagram final category thought or perception", "cetanā/consciousness wording in nāmarūpa definition", "references in lower-right commentary"],
+      "text_layer": "direct_image_verified_diagram_plus_summary",
+      "witness_status": "W3 for diagram geometry and labels 3–8",
+      "material_layout_observation": "Six consciousness lines converge on nāmarūpa; nāmarūpa then fans into six sense-organs, after which six parallel sensory channels continue through contact, sensation, and desire. This is a many-to-one / one-to-many / parallel-channel reconstruction of a nominally serial formula.",
+      "editorial_argument_summary": "The page itself distinguishes relation geometry inside the nidāna sequence; serial textual order is not represented as one uniform adjacency relation."
     },
     {
       "pdf_page": 28,
@@ -131,24 +141,32 @@
       "manuscript_page_label": "95",
       "page_type": "notes",
       "corrected_text": "Paticca-samuppāda. Various versions given by author F. MP (II, 32) thus: ‘Where tre is an organ (eye) & also forms, tre arises eye-consciousness; when tre is eye-consciousness tre arises contact; when tre is eye-contact tre arises sensation; when tre is sensation tre is desire; when tre is desire tre is attachment; when tre is attachment tre is becoming; when tre is becoming tre is birth, old age etc.’\n\nOn F. first 3 of these, Rh. Davids says: ‘It is not clear fr. F. terse phraseology of F. passage whether F. form (e.g. visible object) is to be a subjective stage preliminary to F. “phasso,” or whether it is inclusive of it.’ (Cf. Dhamma Saṅgaṇi 584, 599, 620.) I am inclined to think it is F. former. But A. latter [reading uncertain] might be rendered, ‘tre arises consciousness (of existence) wh. is dependent on F. eye.’\n\nWhat appears to me F. [point] is A. form & consciousness are parallel since [?], whose order may be inverted w’out making any difference, while F. subsequent links down to taṇhā follow in fixed sequence. MP gives same order in II, 32, but still more abridged in F. he makes karma follow directly upon taṇhā, v. p. 167. It seems clear fr. tre A. 3–9 form a single indivisible group, while 1–2 may be regarded separately, & 10–12 are simply 3–9 looked at fr. another point of view.",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["Rhys Davids quotation syntax around phasso", "one analytical sentence about form/consciousness"]
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["Rhys Davids quotation syntax around phasso", "opening words immediately before the secure claim that form and consciousness are parallel"],
+      "text_layer": "direct_image_secure_relational_claims",
+      "witness_status": "W3 for parallelism, order-invertibility, fixed sequence, and 1–2 / 3–9 / 10–12 segmentation",
+      "material_layout_observation": "The spread moves from quoted alternate sequence on the left into Lovejoy's compressed relational analysis on the right; different portions of the chain are assigned different sequence rules rather than one uniform chronology.",
+      "editorial_argument_summary": "Lovejoy treats form/consciousness as locally parallel and order-invertible, later links through taṇhā as fixed in sequence, 3–9 as a single group, 1–2 as separately treatable, and 10–12 as 3–9 viewed from another standpoint."
     },
     {
       "pdf_page": 33,
       "manuscript_page_label": "97",
       "page_type": "notes",
-      "corrected_text": "Ignorance. Cf. F. Nirvāṇa doctrine.\n\nWhen false notions [?] — desire for agreeable & dislike of disagreeable F. pass away; w. them ceases activity, & w. F. ceases birth; & w. F. cessation of birth comes F. entire abolition of pain; F. absolute abolition is final bliss.\n\nUpādāna, Relation to Karma. May MP be called F. causal of F. fact of continued existence, & karma F. cause of F. manner of continued existence? F. Hardy, p. 394.",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["opening phrase after heading Ignorance", "exact grammar of MP/karma question"]
+      "corrected_text": "Ignorance. Cf. F. Nirvāṇa doctrine.\n\nWhen false notions [?] — desire for agreeable & dislike of disagreeable F. pass away; w. them ceases activity, & w. F. ceases birth; & w. F. cessation of birth comes F. entire abolition of pain; F. absolute abolition is final bliss.\n\nUpādāna, Relation to Karma. May Up. be called F. cause of F. fact of continued existence, & karma F. cause of F. manner of continued existence? F. Hardy, p. 394.",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["opening phrase after heading Ignorance"],
+      "text_layer": "direct_image_corrected_key_question",
+      "witness_status": "W3 for Up. = Upādāna in the karma question",
+      "editorial_argument_summary": "Original-image control corrects the prior ‘MP’ reading: Lovejoy is explicitly testing a division of causal labor between upādāna as cause of the fact of continued existence and karma as cause of its manner."
     },
     {
       "pdf_page": 34,
       "manuscript_page_label": "99",
       "page_type": "notes",
-      "corrected_text": "Khandhas\n\nChilders: ‘Tre are 5 khandhas or elements of being: rūpakkhandha, vedanā, saññā, saṅkhāra, viññāṇa,’ or Form, Sensation, Perception, Determination, Consciousness. Khandha in F. comp. prob. means collection or aggregate, for rūpakkhandha, or F. physical body, is an assemblage of 28 elements & properties, & viññāṇakkhandha includes [?] 89 divisions, & saṅkhāra 55. F. 5 khandhas embrace all F. essential properties of every sentient being; some beings possess them less completely than others, & F. inhabitants of F. four arūpa-brahmalokas do not possess F. first khandha (rūpa) at all. When a man dies, F. khandhas of wh. he is constituted perish, but …",
-      "transcription_confidence": "medium-high",
-      "uncertain_readings": ["number/word before 89 divisions", "minor Childers wording"]
+      "corrected_text": "Khandhas\n\nChilders: ‘Tre are 5 khandhas or elements of being: rūpakkhandha, vedanā, saññā, saṅkhāra, viññāṇa,’ or Form, Sensation, Perception, Determination, Consciousness. Khandha in F. comp. prob. means collection or aggregate, for rūpakkhandha, or F. physical body, is an assemblage of 28 elements & properties, & viññāṇakkhandha includes 89 divisions, & saṅkhāra 55. F. 5 khandhas embrace all F. essential properties of every sentient being; some beings possess them less completely than others, & F. inhabitants of F. four arūpa-brahmalokas do not possess F. first khandha (rūpa) at all. When a man dies, F. khandhas of wh. he is constituted perish, but …",
+      "transcription_confidence": "high",
+      "uncertain_readings": ["minor Childers wording"],
+      "witness_status": "W3 for numerical readings 28 / 89 / 55"
     },
     {
       "pdf_page": 35,
@@ -156,7 +174,8 @@
       "page_type": "notes",
       "corrected_text": "[continuation]\n\n… by F. force of his Kamma a new set of khandas instantly starts into existence, & a new being appears in another world, who, tho possessing different khandas & another form, is in reality identical w. F. man just passed away, because F. Kamma is F. same. Kamma is, therefore, F. link wh. preserves F. identity of a being thro’ all F. countless changes wh. it undergoes in its progress through Saṁsāra. But A. khandhas perish at death, tre is no break in F. line of organized existence, v. [reference uncertain]. When, by F. attainment of Nirvāṇa, last being destroyed, F. potentiality for rebirth conveyed by Kamma ceases, and F. death of F. Arhat is F. annihilation not merely of F. khandas but of his existence.\n\nVedanā, saññā & saṅkhāras are collectively termed dhamma, ‘faculties’ (Dh. 90 [?]); cf. p. 67.\n\nHopkins: ‘Metaphysically F. human ego to F. Bist is only a collective of five skandhas (form, sensation, ideas, faculties of mind, & reason). A. vanishes when F. collective is dispersed, but F. factor of F. collective reforms again, & F. new ego is F. result of F. reformation.’",
       "transcription_confidence": "medium-high",
-      "uncertain_readings": ["reference after organized existence", "dhamma page/reference"]
+      "uncertain_readings": ["reference after organized existence", "dhamma page/reference"],
+      "material_layout_observation": "The left page develops continuity across replacement khandhas through karma; the facing right page juxtaposes a collective-classification note and a Hopkins quotation defining the ego as a collective. The spread stages personal continuity against changing constituent aggregates."
     },
     {
       "pdf_page": 36,
