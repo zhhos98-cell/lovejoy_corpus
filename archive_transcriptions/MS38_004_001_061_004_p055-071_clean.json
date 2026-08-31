@@ -19,7 +19,7 @@
       "The local audit copy retains raw OCR; the GitHub copy stores corrected text for compactness."
     ],
     "notebook_completion": true,
-    "status": "first pass complete; original-image second pass completed for pp.55-71 with lexical correction propagated on p.61 and direct-image structural control on pp.62, 66 and 68"
+    "status": "first pass complete; original-image second pass completed for pp.55-71 with lexical correction propagated on p.61, direct-image structural control on pp.62, 66 and 68, and secure bibliographic/reference refinements on pp.59, 64-65, 69-70"
   },
   "research_signals_from_batch": [
     "Lovejoy closes the dependent-origination section by mapping the twelve nidānas onto the khandhas and comparing Buddhist technical vocabulary with Sāṁkhya and Vedānta.",
@@ -77,9 +77,11 @@
       "pdf_page": 59,
       "manuscript_page_label": "159",
       "page_type": "notes_and_quotations",
-      "corrected_text": "[Continuation of French note:]\n‘… conception; je pense qu’il s’agit ici de l’évolution de l’être qui passe par la conception pour arriver à l’existence.’\n\nUpādāna. Mahāvagga [?] 6 [?]. Pali quotation, including ‘dukkhaṃ … pañcupādānakkhandhā dukkhā.’ Lovejoy glosses the standard statement that the five aggregates subject to attachment are suffering.\n\nDhammacakkappavattana Sutta, Rhys Davids trans.: ‘The next: Five aggregates with attachment … are painful’ [wording abbreviated in notebook]. Upādāna, or grasping / attachment, is thus treated as the source or condition of the aggregates as suffered.\n\nA secondary source (SPCK, p. 113 [?]) is quoted: ‘A comprehensive name for all the five skandhas is upādhi,’ a word derived/allusively connected with upādāna, ‘to grasp,’ either with the hand or the mind. When the Buddhist becomes an Arhat and reaches Nirvāṇa he has extinguished craving and passion, but while alive his upādhi — the skandhas, his body with all its powers — remains. At death, however, ‘he will have reached nir-upādhi-sesa-nirvāṇa-dhātu,’ extinction without residue of the five skandhas.",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["Mahāvagga reference", "name of secondary source before SPCK p.113", "exact English wording of quoted explanation", "hyphenation/form of nir-upādhi-sesa-nirvāṇa-dhātu"]
+      "corrected_text": "[Continuation of French note:]\n‘… conception; je pense qu’il s’agit ici de l’évolution de l’être qui passe par la conception pour arriver à l’existence.’\n\nUpādāna. Mahāvagga, 6^19. Pali quotation, including ‘dukkhaṃ … pañcupādānakkhandhā dukkhā.’ Lovejoy glosses the standard statement that the five aggregates subject to attachment are suffering.\n\nDhammacakkappavattana Sutta, Rhys Davids trans.: ‘The next: Five aggregates with attachment … are painful’ [wording abbreviated in notebook]. Upādāna, or grasping / attachment, is thus treated as the source or condition of the aggregates as suffered.\n\nSays Rh. D. (Bism SPCK, p. 113): ‘A comprehensive name for all the five skandhas is upādhi,’ a word derived/allusively connected with upādāna, ‘to grasp,’ either with the hand or the mind. When the Buddhist becomes an Arhat and reaches Nirvāṇa he has extinguished craving and passion, but while alive his upādhi — the skandhas, his body with all its powers — remains. At death, however, ‘he will have reached nir-upādhi-sesa-nirvāṇa-dhātu,’ extinction without residue of the five skandhas.",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["exact English wording of quoted explanation", "hyphenation/form of nir-upādhi-sesa-nirvāṇa-dhātu"],
+      "text_layer": "direct_image_corrected_references_and_attribution",
+      "witness_status": "W3 for ‘Mahāvagga, 6^19’ and ‘Says Rh. D. (Bism SPCK, p. 113)’"
     },
     {
       "pdf_page": 60,
@@ -120,17 +122,21 @@
       "pdf_page": 64,
       "manuscript_page_label": "169",
       "page_type": "quotation_stub",
-      "corrected_text": "[Continuation:] ‘residuum of impurity.’\n\nQuotation. Sutta Nip. I.5 [?].\n\nPali line: ‘Yo nāma bhavesu sāraṃ …’ [partly illegible].\n\nLovejoy’s English gloss: ‘Who has not / seeks no essence in the existences, like one that looks for flowers on fig-trees — the bhikkhu leaves this and the further shore.’\n\nMiln.: ‘He sees all this is false.’",
+      "corrected_text": "[Continuation:] ‘residuum of impurity.’\n\nQuotation. Sutta Nip. I.5.\n\nPali line: ‘Yo nāma bhavesu sāraṃ …’ [partly illegible].\n\nLovejoy’s English gloss: ‘Who has not / seeks no essence in the existences, like one that looks for flowers on fig-trees — the bhikkhu leaves this and the further shore.’\n\nMiln.: ‘He sees all this is false.’",
       "transcription_confidence": "low-medium",
-      "uncertain_readings": ["Pali verse", "exact Sutta-Nipāta reference", "exact wording of the English gloss"]
+      "uncertain_readings": ["Pali verse", "exact wording of the English gloss"],
+      "text_layer": "direct_image_corrected_reference",
+      "witness_status": "W3 for Sutta Nip. I.5 reference"
     },
     {
       "pdf_page": 65,
       "manuscript_page_label": "171",
       "page_type": "notes_and_pali_quotation",
-      "corrected_text": "Upādānaṃ.\n\nSaṁy.-Nik. XXIV / XXII, 40 [?]:\n‘What are the things subject to attachment, & what is attachment? The eye etc. is a thing subject to upādāna; and whatever in connection with it is greed & desire, that is upādāna.’\n\nSo also Saṁy.-Nik. 22.121 [?]. Cf. also Saṁy.-Nik. 22.32, where the upādāniya-dhammā are again mentioned: by regarding with pleasure the things subject to attachment, desire arises, and from desire attachment, etc.\n\nSutta Nip. ‘No more, 5 — Birth has been destroyed’ [p. 15?].\n\nThe word upādisesa occurs once in Sutta-Nipāta (p. 135 [?]) in a Pali passage beginning ‘evaṁ … bhikkhuno …’; here it is applied to the anāgāmin. A synonymous / related form occurs once [reference v. 876?], and a negative form anupādisesa occurs in another verse.\n\nPali verse [partly illegible], followed by Lovejoy’s translation:\n‘Thus some paṇḍits say that the chief thing in this world is the purification of the demons; others, again, say that religious observances (? samayaṃ) are the …’",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["first Saṁyutta-Nikāya book/section number", "Pali quotation", "exact related form and reference", "translation continues on next page"]
+      "corrected_text": "Upādānaṃ.\n\nSaṁy.-Nik. XXIV, 40:\n‘What are the things subject to attachment, & what is attachment? The eye etc. is a thing subject to upādāna; and whatever in connection with it is greed & desire, that is upādāna.’\n\nSo also Saṁy.-Nik. 22.121. Cf. also Saṁy.-Nik. 22.32, where the upādāniya-dhammā are again mentioned: by regarding with pleasure the things subject to attachment, desire arises, and from desire attachment, etc.\n\nSutta Nip. ‘No more, 5 — Birth has been destroyed’ [p. 15?].\n\nThe word upādisesa occurs once in Sutta-Nipāta (p. 135 [?]) in a Pali passage beginning ‘evaṁ … bhikkhuno …’; here it is applied to the anāgāmin. A synonymous / related form occurs once [reference v. 876?], and a negative form anupādisesa occurs in another verse.\n\nPali verse [partly illegible], followed by Lovejoy’s translation:\n‘Thus some paṇḍits say that the chief thing in this world is the purification of the demons; others, again, say that religious observances (? samayaṃ) are the …’",
+      "transcription_confidence": "medium-high for Saṁyutta references; medium overall",
+      "uncertain_readings": ["Pali quotation", "exact related form and reference", "translation continues on next page", "Sutta-Nipāta page/reference details after the Saṁyutta notes"],
+      "text_layer": "direct_image_corrected_samyutta_references",
+      "witness_status": "W3 for Saṁy.-Nik. XXIV, 40; 22.121; 22.32"
     },
     {
       "pdf_page": 66,
@@ -165,17 +171,21 @@
       "pdf_page": 69,
       "manuscript_page_label": "179",
       "page_type": "notes_and_quotations",
-      "corrected_text": "Upādānaṃ.\n\nSutta after Sutta in the Saṁyutta-Nikāya is devoted to the exposition of the five skandhas and the inculcation of the doctrine that they should be looked upon with disgust, without passion, in freedom from attachment.\n\nSaṁy. 22.59.23 [?]: while this exposition was being preached by the Blessed One, the minds of five monks were released from the āsavas.\n\nSaṁy. 22.63: ‘Clinging to the skandhas, man is bound by Māra; but by not clinging one is released from the Evil One / Māra.’\n\nKhandha-Saṁyutta. References to Warren p. 487 and Childers; form-group = rūpakkhandha, derivative form = upādāya-rūpa [?]. [Bibliographic note partly illegible.]\n\nUpādānaṃ. Saṁy. 22.77, 8 + 10 [?]:\n‘Thus hearing the doctrine, the disciple feels disgust at the skandhas; feeling displeased / disgusted, he becomes free from passion; when he is thus freed, the consciousness arises: I am freed.’",
+      "corrected_text": "Upādānaṃ.\n\nSutta after Sutta in the Saṁyutta-Nikāya is devoted to the exposition of the five skandhas and the inculcation of the doctrine that they should be looked upon with disgust, without passion, in freedom from attachment.\n\nSaṁy. 22.59.23: while this exposition was being preached by the Blessed One, the minds of five monks were released from the āsavas.\n\nSaṁy. 22.63: ‘Clinging to the skandhas, man is bound by Māra; but by not clinging one is released from the Evil One / Māra.’\n\nKhandha-Saṁyutta. References to Warren p. 487 and Childers; form-group = rūpakkhandha, derivative form = upādāya-rūpa [?]. [Bibliographic note partly illegible.]\n\nUpādānaṃ. Saṁy. 22.77, 8 + 10:\n‘Thus hearing the doctrine, the disciple feels disgust at the skandhas; feeling displeased / disgusted, he becomes free from passion; when he is thus freed, the consciousness arises: I am freed.’",
       "transcription_confidence": "medium-high",
-      "uncertain_readings": ["first Saṁyutta reference numbering", "exact Pali compound for derivative form", "small bibliographic note before the final quotation"]
+      "uncertain_readings": ["exact Pali compound for derivative form", "small bibliographic note before the final quotation"],
+      "text_layer": "direct_image_corrected_samyutta_references",
+      "witness_status": "W3 for Saṁy. 22.59.23; 22.63; 22.77, 8 + 10"
     },
     {
       "pdf_page": 70,
       "manuscript_page_label": "181",
       "page_type": "notes_reference_list",
-      "corrected_text": "Upādāna etc.\n\nSaṁy. 23.8.5 [?]:\n‘Then, O Rādha, a monk, seeing the origin of the five upādānakkhandhas and their destruction, and the taste of them and their extinction as they really are, being free from attachment, becomes released — that monk is called the Arahat, one who has destroyed the āsavas.’\n\nDhammapada 89 [?]. Pali verse beginning ‘Ādānapaṭinissagga … ye ratā …’ [partly legible]. Lovejoy’s gloss: those who delight in freedom from taking/grasping, free from upādāna and craving, enter Nibbāna. Buddhaghosa annotation follows.\n\nPassages referred to:\nSutta Piṭaka — [several Sutta references: 9; I.1; 13; II.2; II.3 etc.]\nMajjhima-Nikāya, Saṅkhārupapatti Sutta [?].\nVinaya, Mahāvagga, p. 134 [?].\n\nHeading for next material: Dhammapada.",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["Saṁyutta reference", "Pali Dhammapada verse", "reference list on right page", "Majjhima sutta title"]
+      "corrected_text": "Upādāna etc.\n\nSaṁy. 23.8.5:\n‘Then, O Rādha, a monk, seeing the origin of the five upādānakkhandhas and their destruction, and the taste of them and their extinction as they really are, being free from attachment, becomes released — that monk is called the Arahat, one who has destroyed the āsavas.’\n\nDh. 89. Pali verse beginning ‘Ādānapaṭinissagga … ye ratā …’ [partly legible]. Lovejoy’s gloss: those who delight in freedom from taking/grasping, free from upādāna and craving, enter Nibbāna. Buddhaghosa annotation follows.\n\nPassages referred to:\nSutta Piṭaka — [several Sutta references: 9; I.1; 13; II.2; II.3 etc.]\nMajjhima-Nikāya, Saṅkhārupapatti Sutta [?].\nVinaya, Mahāvagga, p. 134 [?].\n\nHeading for next material: Dhammapada.",
+      "transcription_confidence": "medium-high for Saṁyutta and Dh. 89 references; medium overall",
+      "uncertain_readings": ["Pali Dhammapada verse", "reference list on right page", "Majjhima sutta title", "Vinaya/Mahāvagga page detail"],
+      "text_layer": "direct_image_corrected_reference_anchors",
+      "witness_status": "W3 for Saṁy. 23.8.5 and Dh. 89"
     },
     {
       "pdf_page": 71,
