@@ -1,39 +1,46 @@
 # Lovejoy corpus — CURRENT STATE
 
 Last synchronized: 2026-08-31  
-Status: **JHI BLOG FROZEN / CLEAN-SUBMISSION v3.3 PRODUCTION-READY / GLOBAL-HISTORY + METHOD-INFRASTRUCTURE ROUND 6 ACTIVE / UNIT×RELATION MATRIX v0.5 ACTIVE / APSR VENUE-CAPACITY CONTROL DIRECT / SUBMISSION-REFEREE CAUSAL GATE OPEN / NO BLOG BLOCKER**
+Status: **JHI BLOG v3.4 CLEAN TEXT ACTIVE / v3.3 DOCX STILL CURRENT WORD ARTIFACT / GLOBAL-HISTORY + METHOD-INFRASTRUCTURE ROUND 7 ACTIVE / UNIT×RELATION v0.5 + H&T 1968 ADDENDUM / FOUR-VENUE ECOLOGY ACTIVE / NO BLOG RESEARCH BLOCKER**
 
-This is the single living project-state file. The publication-facing JHI Blog remains frozen. The active research extension restarts from `research_notes/HANDOFF_Lovejoy_JHI_global_history_round6_2026-08-31.md` and `research_notes/unit_relation_matrix_v0_5_augmented_1892_2026_2026-08-31.tsv`. For frozen blog evidence routing use `research_notes/CANONICAL_INDEX_2026-08-28.md` and `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`. Historical `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` language elsewhere does not override this file.
+This is the single living state file. For the active extension restart from `research_notes/HANDOFF_Lovejoy_JHI_global_history_round7_2026-08-31.md`. For proposition coding use `research_notes/unit_relation_matrix_v0_5_augmented_1892_2026_2026-08-31.tsv` plus the explicit H&T addendum `research_notes/unit_relation_matrix_v0_5_addendum_HT1968_history_of_religions_2026-08-31.tsv`. Historical status language elsewhere does not override this file.
 
-## 1. JHI Blog — frozen / production-ready
+## 1. JHI Blog — active text v3.4, production artifact still v3.3
 
-Current text: `research_notes/JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`.
+Active clean markdown/text:
 
-- body: **1,878 words**;
-- argument and paragraph architecture frozen;
-- four publication-useful true endnotes;
-- submission DOCX already generated with true OOXML endnotes, working hyperlinks and preserved diacritics/italics;
-- rendered to **5 pages** and passed page-by-page visual QA.
+`research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md`
 
-Only remaining production inputs are publication name, exact affiliation/short bio, and final image choice.
+- body: **1,881 words**;
+- four endnotes unchanged;
+- argument / paragraph architecture unchanged from v3.3;
+- no new Skinner, APSR, H&T or *Political Theory* excursus/citations;
+- calibration changed only two formulations in the final paragraph.
 
-First-choice image remains notebook 004, source PDF p.42 / manuscript p.123 (`MS38_004_001_061_004`, *Arthur Oncken Lovejoy papers*, MS-0038, Johns Hopkins). Fallback remains the public-domain opening page of the 1898 JAOS article.
+v3.4 supersedes v3.3 at **text level**. Preserve:
 
-Do **not** reopen the blog because the extension becomes richer. Reopen only for a direct contradiction or publication-critical exact-source correction.
+`research_notes/JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`
 
-## 2. Lovejoy archival ceilings remain unchanged
+as the prior production snapshot.
 
-- notebook 004 corrected: **71/71 pages**;
-- notebook 005 corrected: **120/120 pages**;
-- total material-form review: **191/191 pages**;
-- authoritative corrected text: `archive_transcriptions/*_clean.json`;
-- material closure: `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`.
+The existing submission DOCX is still the **v3.3 Word artifact**. It has true OOXML endnotes, working hyperlinks, preserved italics/diacritics and passed five-page render QA. Do **not** say the DOCX is v3.4 until regenerated from the new clean text.
 
-Highest-value visual control remains 004 PDF p.42 / manuscript p.123: `viññāṇa` is spatially nested inside `nāma` / `nāmarūpa`, while adjacent prose treats it as temporally antecedent to `nāmarūpa` and logically a subdivision.
+### v3.4 calibration
 
-JHU citation ceiling remains: cite notebook title/source ID + collection + manuscript/PDF locus; **do not infer Box 61 from the `061` component of the digitization ID**.
+Round 6–7 infrastructure research did not reopen the blog argument. It strengthened existing anti-origin / anti-linear controls.
 
-## 3. Governing publication-facing thesis remains frozen
+Only two final formulations changed:
+
+1. `later bibliographies and disciplines decide which...` -> `later publication venues, bibliographies, and disciplinary histories make some ... easier to see than others`;
+2. final `what later histories of a discipline made of that work...` -> `how later bibliographies and disciplinary histories classified that work as other versions of Lovejoy became canonical`.
+
+Calibration audit:
+
+`research_notes/JHI_blog_v3_3_round6_7_new_evidence_calibration_audit_2026-08-31.md`.
+
+Reverse control: JHI's 1987 Lovejoy/*Great Chain* reassessment and Kelley 1990 support reclassification / programme-vs-performance / selective continuity rather than a unitary replacement narrative.
+
+### Blog governing thesis remains
 
 > **This essay does not add a forgotten Buddhist episode to Lovejoy's biography; it changes the status of a known one. His notebooks show Buddhist materials as a site where the young Lovejoy repeatedly tested what textual and historical evidence could establish about identity, sequence, causation, borrowing, and arrangement; reading those notes beside the 1898 article and later writings shows what entered print, what was narrowed or left behind, and why later histories of Lovejoy made other parts of his career more central.**
 
@@ -41,298 +48,242 @@ Shortest question remains:
 
 > **The question is not whether Lovejoy studied Buddhism, but what kind of historical work he did when he did so.**
 
-## 4. Global governance / anti-leakage rules
+### Production/image status
 
-Keep all of the following:
+Only user/editor inputs remain: publication name; exact affiliation/short bio; final image selection.
 
-`A != B` does not prove A historically/functionally independent of B.
+First-choice image remains notebook 004, PDF p.42 / ms p.123 (`MS38_004_001_061_004`, *Arthur Oncken Lovejoy papers*, MS-0038, Johns Hopkins). Fallback remains the public-domain opening page of Lovejoy's 1898 JAOS article.
 
-`UNIT TYPE != RELATION TYPE`.
+No new research is needed for the blog unless direct evidence creates a contradiction.
 
-`UNIT TYPE BELONGS TO THE CLAIM, NOT ONCE-FOR-ALL TO THE PHYSICAL OBJECT`.
+## 2. Lovejoy archival ceilings remain locked
 
-`DRAFT READER != REFEREE != EDITOR != CAUSE OF SPECIFIC REVISION`.
+- notebook 004 corrected: **71/71 pages**;
+- notebook 005 corrected: **120/120 pages**;
+- total material-form review: **191/191 pages**;
+- authoritative corrected text: `archive_transcriptions/*_clean.json`;
+- closure: `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`.
 
-`INFRASTRUCTURE != CONTENT POSITION`.
+Highest-value page remains notebook 004 PDF p.42 / ms p.123: `viññāṇa` is spatially nested inside `nāma` / `nāmarūpa` while adjacent prose treats it as temporally antecedent and logically a subdivision.
 
-`FOUNDERS' PREFERENCES != INSTITUTIONAL FORM != PUBLISHED CONTENT != LATER DISCIPLINARY IDENTITY`.
+JHU citation ceiling: cite notebook title/source ID + collection + manuscript/PDF locus; **do not infer Box 61 from the `061` digitization component**.
 
-`OBJECT CLASSIFICATION != METHOD ROLE != EDITORIAL CATEGORY`.
+## 3. Governing analytical architecture
 
-`FIELD LABEL != METHOD CONTENT`.
+UNIT×RELATION remains active:
 
-`PARALLEL / OVERLAPPING METHOD != INDEPENDENT ORIGIN != DIRECT INFLUENCE`.
+`WHAT UNIT?`
+-> `WHAT RELATION?`
+-> `WHAT EVIDENCE LICENSES THAT RELATION?`.
 
-`TEXTUAL RESEMBLANCE != TRANSMISSION`.
+Round 7 adds an infrastructure stack:
 
-`PROGRAMME != EXECUTION`.
+`ARGUMENT`
++
+`CARRIER`
++
+`CURRICULUM`
++
+`NETWORK`
++
+`CANON`.
 
-`PUBLISHED CATEGORY ARCHITECTURE != RECRUITMENT PRACTICE`.
+Current compact formula:
 
-`ORIGIN EVENT != BOARD OFFICE != SECTION EDITORSHIP != AUTHORSHIP != CORRESPONDENCE`.
+> **METHOD CHANGE = ARGUMENT + CARRIER + CURRICULUM + NETWORK + CANON, with no term reducible to another.**
 
-`THEORY PRESENCE != ADEQUATE ARTICLE CAPACITY`.
+Expanded workflow:
 
-`LOW REPRESENTATION != PROVEN EDITORIAL DISCRIMINATION`.
+`WHAT UNIT?`
+-> `WHAT RELATION?`
+-> `WHAT PROOF BURDEN?`
+-> `WHAT CARRIER ROLE?`
+-> `WHAT NETWORK/CURRICULUM MAKES IT RECURRENT?`
+-> `WHAT LATER CANON MAKES IT PORTABLE?`.
 
-`REVIEW INFRASTRUCTURE != RESEARCH-ARTICLE SPACE`.
+No single causal direction is assumed.
 
-`PERSONAL ACCESS != ADEQUATE FIELD INFRASTRUCTURE`.
+## 4. Active matrix
 
-`ACTOR GRIEVANCE != OBSERVED VENUE MIX != EDITORIAL CAUSE`.
+Main matrix:
 
-`JOURNAL-NAMED CORRESPONDENCE FOLDER != REFEREE FILE`.
+`research_notes/unit_relation_matrix_v0_5_augmented_1892_2026_2026-08-31.tsv`.
 
-`VERSION ROUTE != EDITORIAL ROUTE`.
+H&T addendum:
 
-## 5. Repository navigation authority
+`research_notes/unit_relation_matrix_v0_5_addendum_HT1968_history_of_religions_2026-08-31.tsv`.
 
-1. `CURRENT_STATE.md` — single living state;
-2. `research_notes/HANDOFF_Lovejoy_JHI_global_history_round6_2026-08-31.md` — active extension restart;
-3. `research_notes/unit_relation_matrix_v0_5_augmented_1892_2026_2026-08-31.tsv` — active proposition matrix;
-4. `research_notes/CANONICAL_INDEX_2026-08-28.md` — frozen blog evidence routing;
-5. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — frozen blog ceiling;
-6. source-specific terminal dossiers;
-7. raw/transcription/provenance layers.
+Addendum rows:
 
-## 6. Active extension — Round 6
+- `HT1968_SMITH_ORIGIN_PATTERN`;
+- `HT1968_BAIRD_CATEGORY_OBJECT`.
 
-### 6.1 Active UNIT×RELATION matrix = v0.5
+Do **not** call the main matrix v0.6 yet. Consolidate only after additional proposition-level infrastructure rows justify a new full version.
 
-File: `research_notes/unit_relation_matrix_v0_5_augmented_1892_2026_2026-08-31.tsv`.
-
-v0.5 preserves the previous proposition-level rows and adds two APSR institutional rows:
-
-- `APSR_1971_POLPHIL_CAPACITY` — APSR editors' own Volume-65 census: 46 articles, 3 political philosophy, 13 operational formal theory, 35 with table/figure; low output share does not reveal field-specific submission/rejection/discrimination.
-- `APSR_PUB_SUBMISSION_FEEDBACK` — editors hypothesize visible publication mix -> perceived editorial preference -> future submission mix; actor mechanism hypothesis, not demonstrated causal effect.
-
-No aggregate historical trend is licensed merely from matrix-row frequency.
-
-### 6.2 *Political Theory* 1973 corporate-source correction remains locked
-
-Two distinct 1973 corporate texts:
-
-#### February 1973, 1.1 — direct-full programme
-
-`Editorial Statement`, pp.3–4.
-
-Direct-full dossier: `research_notes/Political_Theory_1973_inaugural_Editorial_Statement_direct_full_pluralist_programme_2026-08-31.md`.
-
-It declares broad/international scope, dialogue, avoidance of exclusive identification with one school/orientation, and planned parallel roles including history of political thought, modern theory, conceptual analysis and polemic argumentation.
-
-Control:
-
-`DECLARED NON-EXCLUSIVITY != EQUAL ACCEPTANCE / EQUAL PRESTIGE / NO PREFERENCE`.
-
-#### May 1973, 1.2 — launch/origin narrative
-
-`From the Editors`, pp.131–133.
-
-p.131 is dual-direct and confirms journal idea arose at a Columbia CSPT chapter graduate-student meeting, then moved through SAGE and editorial-network organization. pp.132–133 remain gated; Feldman 2025 retains secondary exact-quote control for the longer mission language.
-
-Use:
-
-`FEB PROGRAMME -> MAY ORIGIN/LAUNCH -> 1975 EXECUTION`.
-
-Do not blend the February and May editorials.
-
-### 6.3 1975 *Political Theory* execution remains direct-full
-
-`research_notes/Political_Theory_1975_editorial_census_actor_taxonomy_execution_control_2026-08-31.md`.
-
-Direct controls include:
-
-- ~185 submissions in profiled period;
-- 18 accepted;
-- ~100 `historical`, 85 residual `modern`;
-- essays may be `historical or modern`, `methodological or conceptual`;
-- twentieth-century named-theorist pieces labelled historical are admitted not quite historical;
-- 23 modern submissions concern methodology / philosophy of intellectual history / philosophy of social science as metatheory.
-
-Core:
-
-`OBJECT CLASSIFICATION != METHOD ROLE != EDITORIAL CATEGORY`.
-
-Preserve printed mismatch:
-
-`48 TOTAL ACCEPTED/PUBLISHED` vs `24 HISTORICAL + 20 MODERN = 44`.
-
-### 6.4 Early Skinner carrier is multi-domain
-
-`research_notes/Political_Theory_1973_1975_Skinner_democracy_method_venue_execution_sequence_2026-08-31.md`.
-
-Skinner appears in early *Political Theory* not only as a contextualist-method figure but also in empirical-democracy/value-neutrality controversy. The 1973 p.287 author note directly credits Burrow, Dunn and Thompson with reading/commenting on successive drafts.
-
-Controls:
-
-`SKINNER CARRIER != CONTEXTUALIST METHOD ONLY`;
-
-`METHOD AS SYMPOSIUM OBJECT != VENUE ORTHODOXY`;
-
-`SUCCESSIVE-DRAFT READERSHIP != FORMAL REFEREEING / SPECIFIC REVISION CAUSE`.
-
-### 6.5 Haddock 1974–79 remains the strongest same-actor cross-venue execution route
-
-Key dossiers remain active. The 1979 JHI full text directly shows:
-
-- method/case reciprocity;
-- artifact interpretation depends on producer/practice reconstruction;
-- Homer changes from one timeless individual author toward poetic nations/layered traditions/later collectors;
-- textual resemblance cannot close Vico->Blackwell influence without concrete evidence;
-- philosophy/philology mutual constraint;
-- classification already interpretive;
-- historical meaning can require a network of language/custom/jurisprudence/government/authority/rationality.
-
-Haddock 1976 *Social Research* exact metadata remain secure but full text remains gated.
-
-### 6.6 CSPT institutional execution remains `embedded differentiation`
-
-Central founding archive:
-
-- UMSL `SL:6/6 — Conference for the Study of Political Thought`;
-- Box 2 founding correspondence identified through recent archival scholarship.
-
-St. Louis node direct controls:
-
-- Lyman Tower Sargent: St. Louis Area Coordinator 1969–71, Council 1969–71, Newsletter editor 1970–71;
-- separate UMSL Sociology archive `SL:2/21/1`, Box 6, item 26 = `Conference for the Study of Political Thought, 1970`.
-
-Model:
-
-`LOCAL NODE <-> COUNCIL <-> NEWSLETTER <-> WIDER CONFERENCE INFRASTRUCTURE`.
-
-Preserve:
-
-`REGIONAL EXECUTION != METHOD HOMOGENEITY OR CENTRAL CONTROL`.
-
-### 6.7 Recipient-side *Political Theory* recruitment gates remain concrete
-
-`research_notes/Political_Theory_1971_1973_editorial_recruitment_recipient_archives_Shklar_Popper_manifest_2026-08-31.md`.
-
-- Shklar: Harvard HUGFP 118 direct collection; Gatta reports 1971–72 Lamb/Odajnyk correspondence and Shklar self-positioning between `history of political thought` and `conceptual analysis`; originals pending.
-- Popper: direct finding-aid target `Box 339 Folder 4 — Political Theory (Walter Odajnyk), 1972–1981`; request 1972–73 items first.
-- Allan Bloom: Robert Lamb letter 14 Nov. 1973 exists in Bloom Papers; later Bloom PT publication does not establish commission.
-
-Research question:
-
-`PUBLISHED CATEGORY ARCHITECTURE <-> ACTUAL RECRUITMENT PRACTICE`.
-
-### 6.8 APSR 1966–73 venue-capacity control — new Round-6 result
+## 5. Four-venue carrier ecology
 
 Primary dossier:
 
-`research_notes/APSR_1966_1973_political_theory_venue_capacity_Ranney_Polsby_present_absent_2026-08-31.md`.
+`research_notes/APSR_JHI_HistoryTheory_PoliticalTheory_1960_1975_fourvenue_carrier_role_ecology_2026-08-31.md`.
 
-Direct June 1972 APSR editorial `Present and Absent` audits Volume 65 (1971):
+### APSR
 
-- 46 articles total;
-- 3 political philosophy;
-- 13 operationally formal theory;
-- 35 with at least one table/figure.
+Broad political-science flagship; theory remains permeable but political-philosophy research-article visibility is uneven. Direct 1972 editor census of 1971 gives 46 articles, 3 political philosophy, 13 formal theory, 35 containing a table/figure. Standing review jurisdiction includes `Political Theory, History of Political Thought, and Methodology`. Odajnyk's APSR publication and Richter's Ranney-era board membership block total-exclusion narratives.
 
-The editors themselves call political philosophy and several older areas weakly represented, but explicitly consider multiple causal possibilities and state they cannot know from published output alone whether it reflects the field's best current work.
+Controls:
 
-They also hypothesize:
+`THEORY PRESENCE != ADEQUATE ARTICLE CAPACITY`;
 
-`VISIBLE PUBLISHED MIX -> PERCEIVED EDITORIAL PREFERENCE -> FUTURE SUBMISSION MIX`.
-
-This gives a plausible institutional feedback mechanism without proving its magnitude or operation for any individual author.
-
-### 6.9 APSR remained permeable to theory
-
-Do not convert 3/46 into absence.
-
-Late-1960s/early-1970s APSR carried Kalleberg, Wolin, Sartori, Miller, Odajnyk, Scaff and other theory/method/history-of-thought material; the journal repeatedly maintained the review category `Political Theory, History of Political Thought, and Methodology`.
-
-The June 1972 accepted-future list includes theory/history/method items including Odajnyk.
-
-Odajnyk's `The Political Ideas of C. G. Jung` was accepted before *Political Theory* launched and published in APSR 67.1 (March 1973), contemporaneously with the new journal's publication-access rhetoric.
-
-Therefore:
-
-`FOUNDER OF SPECIALIST THEORY JOURNAL != PERSONALLY EXCLUDED FROM APSR`;
+`LOW REPRESENTATION != PROVEN DISCRIMINATION`;
 
 `PERSONAL ACCESS != ADEQUATE FIELD INFRASTRUCTURE`.
 
-Best current institutional model:
+### JHI
 
-`PERMEABLE FLAGSHIP + UNEVEN ARTICLE/ROLE DISTRIBUTION + PERCEIVED-PREFERENCE FEEDBACK -> SPECIALIST CARRIER CREATION`.
+Methodological controversy can be an ordinary/lead research article; Parekh/Berki 1973 is direct example. JHI ordinary articles/reviews also carry internal conceptual history, transmission, reception, regional historiography and field-method relations. Existing global/regional census is an expanded seed, not exhaustive share data.
 
-### 6.10 Richter 1970 APSR board overlap — direct
+### History and Theory
 
-Dossier:
+Dedicated metahistorical venue. Before Skinner 1969 it already differentiates ordinary articles, substantive review essays, communications, explicit symposia and thematic Beihefte.
 
-`research_notes/APSR_1970_Richter_editorial_board_anonymous_review_institutional_overlap_addendum_2026-08-31.md`.
+Direct controls:
 
-September 1970 APSR front matter directly lists Melvin Richter on Austin Ranney's Editorial Board, alongside Harvey Mansfield and others, and states manuscripts were sent out anonymously for editorial evaluation.
+- 1963 `Symposium: Uses of Theory in the Study of History`;
+- 1964–65 Beiheft 5, `The Historiography of the History of Philosophy`, including Mandelbaum on history of ideas/intellectual history/history of philosophy;
+- Skinner 1969 as ordinary lead article in H&T 8.1;
+- same annual volume Beiheft 9 on quantitative history / logic of social sciences.
 
-This matters because Richter had expressed publication anxiety about the Ranney transition in 1967.
+Control:
 
-Thus:
+`ARGUMENTATIVE RUPTURE != CARRIER-FORM RUPTURE`.
 
-`PUBLICATION ANXIETY != EXTERNALITY TO EDITORIAL APPARATUS`.
+Skinner enters a pre-existing method jurisdiction; this does not diminish the distinctiveness/influence of his argument.
 
-But:
+### Political Theory
 
-`BOARD MEMBERSHIP != CONTROL OF SPECIFIC MANUSCRIPT DECISIONS / CHANGED BELIEFS / CSPT REPRESENTATION`.
+Feb. 1973 inaugural statement is direct-full and declares school-nonexclusive, multi-role architecture: history of political thought, modern theory, conceptual analysis, polemic, plus special/review forms. Early execution includes Skinner substantive boundary article, Pateman comment, 1974 Skinner symposium, Haddock history-of-ideas article, 1975 metatheory/editorial census and later rejoinder.
 
-Keep editorial states distinct:
+Control:
 
-`RANNEY 1970 BOARD/PROCESS STATE != POLSBY 1971–72 CENSUS STATE`.
+`DECLARED PLURALISM != EQUAL ACCEPTANCE / NO PREFERENCE`.
 
-### 6.11 Submission/referee causal gate — defined, not solved
+## 6. H&T 1968 whole method ecology
 
-Dossier:
+Dossiers:
 
-`research_notes/APSR_1969_1972_submission_referee_archive_gate_search_ceiling_Wolin_Fallers_2026-08-31.md`.
+- `research_notes/History_and_Theory_1968_preSkinner_method_ecology_curriculum_religion_global_historiography_2026-08-31.md`;
+- `research_notes/History_and_Theory_1968_history_of_religions_method_categories_origin_object_bridge_to_Lovejoy_2026-08-31.md`.
 
-No public item-level centralized Ranney/Polsby APSR submission/referee archive has yet been located. This means `PUBLIC LOCATOR NOT FOUND`, not `FILES DO NOT SURVIVE`.
+Volume 7 (1968), immediately before Skinner, directly includes:
 
-#### Wolin
+- Louis Mink on Collingwood/question-answer/presuppositions;
+- Rudolph Weingartner on selected products/components in intellectual/cultural history;
+- explanation/reason/narrative debates;
+- Hollinger on Perry Miller and cultural-form/environment interaction;
+- Romila Thapar on inherited Orientalist/nationalist constructions and periodizations of ancient India;
+- Jürgen Herbst's empirical study of theoretical work in American university curricula;
+- Beiheft 8 `On Method in the History of Religions`.
 
-Feldman identifies `Theory as Vocation`, 1968, Sheldon Wolin Papers, Bancroft Library, Carton 7 Folder 13. The published APSR article calls itself a revised September 1968 CSPT paper.
+### Herbst curriculum control
 
-This yields a version route but no public submission/referee correspondence route:
+Official H&T summary reports theoretical courses in nearly 90% of institutions surveyed; among schools offering them, roughly 90% place them in history departments and roughly 40% also in philosophy; more than half mix historiography/philosophy/methodology, with eclectic courses most favored.
 
-`VERSION ROUTE != EDITORIAL ROUTE`.
+Use this as an **institutional infrastructure proposition**, while holding exact publication-level numerical claims until full article/sample design is read.
 
-#### Fallers
+### Smith / Baird
 
-University of Chicago directly lists Lloyd A. Fallers Papers, Box 2 Folder 2, `American Political Science Review, 1971–1972`. Fallers also published an APSR book review in March 1972. Therefore the folder may concern that review, other correspondence, referee work, or a mixture.
+Morton Smith separates what historical evidence can establish about individual religious histories from claims about general `origin` or `nature`; pattern generalization may come later.
 
-`JOURNAL-NAMED FOLDER != REFEREE FILE`.
+Robert Baird directly criticizes `Hinduism`, `Buddhism`, `Christianity`, etc. as interpretive categories imposed before historical research, potentially precomposing the object.
 
-Polsby's 1971–72 managing-editor report directly exposes anonymization of author names and referee-dependent evaluation, but no public field-specific submission/rejection denominator.
+Controls:
 
-Keep three evidence layers separate:
+`PARTICULAR HISTORY != GENERAL ORIGIN / ESSENCE`;
 
-`CONTEMPORARY PROCESS ARCHITECTURE`
-!= `RANNEY LATER REFEREE-MECHANISM RECOLLECTION`
-!= `MISSING INDIVIDUAL REFEREE / FIELD-DISTRIBUTION DATA`.
+`INHERITED CATEGORY NAME != HISTORICALLY ADEQUATE UNIT`.
 
-## 7. Active queue
+Relation to Lovejoy:
 
-### Highest-value archive gates already narrow enough to request
+structural later analogue only.
 
-1. Shklar HUGFP 118 — 1971–72 Lamb/Odajnyk correspondence, especially reported Box 1 Folder 12 / June 1972 and adjacent material.
-2. Popper Box 339 Folder 4 — earliest 1972–73 `Political Theory (Walter Odajnyk)` material.
-3. UMSL CSPT Box 2 — founding correspondence, Meiksins report, 1968 programme.
-4. UMSL Sociology `SL:2/21/1`, Box 6, item 26 — St. Louis 1970 local execution.
+`LOVEJOY EARLY EXECUTOR OF PROBLEMS != LOVEJOY ORIGINATOR OF H&T 1968 METHOD`.
 
-### APSR causal gate
+Keep this backstage from the blog.
 
-5. Pursue APSR submission/referee evidence **only when an item-level locator appears**, preferably a named political-theory manuscript route. Do not keep counting article titles merely to reproduce the direct 1971 actor census.
+## 7. CSPT / Political Theory / APSR institutional state remains active
 
-### Comparative public/direct direction
+Keep prior direct locks:
 
-6. If continuing without archive requests, compare **role allocation across venues** rather than schools: how APSR, JHI and *Political Theory* distribute `political philosophy / history of ideas / conceptual analysis / formal theory / methodology` across research article, review, symposium, editorial and metatheory roles.
+- 1967 CSPT founding archive target: UMSL `SL:6/6`, Box 2;
+- St. Louis regional node by 1969–71 via Sargent coordinator/council/newsletter roles + UMSL Sociology Box 6 item 26;
+- PT Feb. 1973 inaugural programme direct-full;
+- PT May 1973 p.131 direct CSPT-origin/launch narrative, pp.132–133 still gated;
+- PT 1975 direct-full editorial census with overlapping historical/modern/methodological/conceptual categories and unresolved printed 48 vs 44 subtotal;
+- Skinner 1973 successive-draft readers Burrow/Dunn/Thompson direct;
+- APSR Ranney 1970 Richter board overlap direct;
+- APSR submission/referee cause remains item-level archival gate, not inferable from output.
 
-### Stable access gates
+## 8. Haddock route remains active control
 
-7. May 1973 `From the Editors` pp.132–133 — stable access ceiling.
-8. Haddock 1976 *Social Research* — exact route secure, full text gated.
-9. Blau 2026 / Wesleyan-*History and Theory* manuscript-editorial gates remain higher-cost.
+1974 *Political Theory* -> 1976 Vichian anti-anachronism/reconstruction -> 1979 JHI `True Homer` full-text execution.
+
+1979 direct controls include:
+
+- method/case reciprocity;
+- historical-unit transformation from individual Homer toward poetic nations/layered traditions/collectors;
+- textual resemblance != Vico->Blackwell transmission proof;
+- philosophy/philology mutual constraint;
+- artifact classification already interpretive;
+- networked historically variable meaning.
+
+Haddock 1976 *Social Research* remains metadata/self-citation locked but full-text gated.
+
+## 9. Hard firewalls
+
+Retain all:
+
+`A != B` does not prove historical/function independence.
+
+`UNIT TYPE != RELATION TYPE`.
+
+`UNIT TYPE BELONGS TO CLAIM, NOT ONCE-FOR-ALL TO PHYSICAL OBJECT`.
+
+`DRAFT READER != REFEREE != EDITOR != SPECIFIC REVISION CAUSE`.
+
+`OBJECT != ROLE != EDITORIAL CATEGORY`.
+
+`FIELD LABEL != METHOD CONTENT`.
+
+`TEXTUAL RESEMBLANCE != TRANSMISSION`.
+
+`PARALLEL / OVERLAPPING METHOD != INDEPENDENT ORIGIN != DIRECT INFLUENCE`.
+
+`ARGUMENTATIVE RUPTURE != CARRIER-FORM RUPTURE`.
+
+`ARGUMENT CONTINUITY != CARRIER-FORM CONTINUITY`.
+
+`VENUE IDENTITY != ONE METHOD`.
+
+`SPECIALIZATION != DISCIPLINARY EXIT`.
+
+`PRE-EXISTING RELATED PROBLEM != LINEAR PRECURSOR`.
+
+`LATER STRUCTURAL ANALOGUE != GENEALOGY`.
+
+`INHERITED CATEGORY != HISTORICALLY ADEQUATE UNIT`.
+
+`PROGRAMME != PRACTICE != INFRASTRUCTURE != CANON`.
+
+## 10. Next queue
+
+1. **Actor traffic across H&T / JHI / CSPT / PT**: relation-type appearances of Pocock, Shklar, Mink, Mandelbaum, Passmore and other actors only where concrete edges emerge. Distinguish author / reviewer / editor / draft reader / society officer / correspondent.
+2. **Herbst 1968 full text** only if sample design or exact numeric denominator becomes publication-relevant; official summary suffices for current infrastructure control.
+3. **Weingartner / Thapar 1968** may enter UNIT×RELATION/global matrix if proposition-level coding adds value; do not create a precursor list.
+4. Narrow archive gates remain: Shklar HUGFP 118; Popper Box 339 Folder 4; UMSL CSPT Box 2; UMSL Sociology Box 6 item 26.
+5. Skinner H&T editorial/referee causation only if item-level archives appear.
+6. Stable gates: Haddock 1976 full text; PT May 1973 pp.132–133.
+7. Next production task for blog, when desired: regenerate v3.4 DOCX from the clean text and rerun render QA. No need to do this merely because research continues.
 
 ## Restart shorthand
 
-> **ROUND 6 ACTIVE; BLOG FROZEN. Matrix v0.5. PT Feb.1973 programme direct-full = explicit school-nonexclusive multi-role architecture; May p.131 direct = Columbia-CSPT origin/launch; 1975 direct-full = overlapping editorial categories. APSR venue-capacity control now direct: 1971 output 46 articles, 3 political philosophy, 13 formal theory, 35 table/figure; editors themselves diagnose weak representation and hypothesize visible-output -> perceived-preference -> submission feedback while refusing one causal explanation. APSR still carries theory/method work and standing theory/history/method review infrastructure; Odajnyk had APSR article accepted before launching PT, so `PERSONAL ACCESS != ADEQUATE FIELD INFRASTRUCTURE`. September 1970 APSR front matter directly lists Richter on Ranney's Editorial Board and anonymous editorial evaluation, so `PUBLICATION ANXIETY != EXTERNALITY TO EDITORIAL APPARATUS`; keep Ranney 1970 distinct from Polsby 1971–72. Referee causation remains unsolved: Wolin has manuscript Carton7 Folder13 but no public APSR correspondence locator; Fallers Box2 Folder2 APSR 1971–72 exists but overlaps his book review, so `JOURNAL-NAMED FOLDER != REFEREE FILE`. Stop article-counting; next use narrow PT recruitment/CSPT archives or item-level referee correspondence if surfaced.**
+> **CURRENT: JHI Blog text is v3.4 clean, 1,881 words/four notes; only final memory/classification wording changed after infrastructure calibration. Existing Word artifact remains v3.3. Round 7 active. Main matrix v0.5 + H&T 1968 addendum. Four-venue ecology: APSR permeable but uneven; JHI ordinary forms carry method; H&T has pre-Skinner article/review/communication/symposium/Beiheft infrastructure; PT explicitly designs/executes multi-role controversy. H&T 1968 adds curriculum + religion-method + global-historiography controls: Smith `PARTICULAR HISTORY != GENERAL ORIGIN/ESSENCE`, Baird `INHERITED CATEGORY != ADEQUATE UNIT`; treat as structural analogues, not Lovejoy genealogy. Governing formula `METHOD CHANGE = ARGUMENT + CARRIER + CURRICULUM + NETWORK + CANON`. Next: relation-typed actor traffic, then narrow archives.**
