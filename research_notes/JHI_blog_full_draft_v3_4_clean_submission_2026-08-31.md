@@ -1,11 +1,11 @@
 # What Was Arthur Lovejoy Doing with Buddhism?
 
-Status: **CLEAN SUBMISSION DRAFT / v3.4 / INFRASTRUCTURE-CALIBRATED / JHI BLOG LINK-ENDNOTE STYLE**  
+Status: **CLEAN SUBMISSION DRAFT / v3.4 / INFRASTRUCTURE + OBJECT-CATEGORY CALIBRATED / JHI BLOG LINK-ENDNOTE STYLE**  
 Date: 2026-08-31  
-Body word count: **1,881 words**  
+Body word count: **1,880 words**  
 Supersedes for active text: `JHI_blog_full_draft_v3_3_clean_submission_2026-08-29.md`  
 Preserves v3.3 as prior production-ready snapshot; existing v3.3 DOCX remains the current Word package until next production pass.  
-Calibration control: `JHI_blog_v3_3_round6_7_new_evidence_calibration_audit_2026-08-31.md`
+Calibration controls: `JHI_blog_v3_3_round6_7_new_evidence_calibration_audit_2026-08-31.md`; `JHI_blog_v3_4_object_category_audit_Buddhism_notebook_unit_2026-08-31.md`
 
 The bibliography appended to Arthur O. Lovejoy’s [*Essays in the History of Ideas*](https://www.press.jhu.edu/books/title/5183/essays-history-ideas) gives him an unlikely beginning.[^1] Its first entry is an [1898 article on two Buddhist technical terms](https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-ENG/love.htm)—not a precursor to *The Great Chain of Being*, not a statement of the unit-idea program, but a piece of specialist Buddhist scholarship. The impression is false: Lovejoy had already published an essay on Lord Monboddo in 1895.[^1] Yet the false beginning is useful. Before we have learned much about the young Lovejoy, a later bibliography has already arranged his career for us.
 
@@ -35,7 +35,7 @@ By the time Lovejoy published [*The Great Chain of Being*](https://openlibrary.o
 
 Returning from the mature book to the notebooks therefore does not reveal a forgotten Buddhist origin of the history of ideas. Wilson had already preserved the early training, the 1898 article, and Paris; Schaffer could preserve the Pāli and Sanskrit fact while telling a different story about Lovejoy through evolution, hierarchy, seriality, and *Great Chain*. The formation was known but differently classified. What the notebooks alter is its evidentiary status: they let us reconstruct the scholarly work performed inside a biographical episode that later histories could mention without making it analytically central.
 
-The odd first item in the *Essays* bibliography thus looks different at the end. A scholarly career is arranged more than once. Notes arrange materials into working problems; publication narrows some of those problems into claims an author is prepared to defend; mature books rearrange earlier materials around new narrative centers; later publication venues, bibliographies, and disciplinary histories make some of those arrangements easier to see than others. The question raised by Lovejoy’s Buddhist notebooks is therefore not simply whether he once studied Buddhism. It is what kind of historical work he did when he did so—and how later bibliographies and disciplinary histories classified that work as other versions of Lovejoy became canonical.
+The odd first item in the *Essays* bibliography thus looks different at the end. A scholarly career is arranged more than once. Notes arrange materials into working problems; publication narrows some of those problems into claims an author is prepared to defend; mature books rearrange earlier materials around new narrative centers; later publication venues, bibliographies, and disciplinary histories make some of those arrangements easier to see than others. The question raised by these notebooks is therefore not simply whether he once studied Buddhism. It is what kind of historical work he did when he did so—and how later bibliographies and disciplinary histories classified that work as other versions of Lovejoy became canonical.
 
 ---
 
@@ -53,14 +53,15 @@ The odd first item in the *Essays* bibliography thus looks different at the end.
 
 ## Production note (remove before submission)
 
-- v3.4 changes only two closing formulations relative to v3.3; all substantive paragraphs, four endnotes, links and evidence ceilings are unchanged.
-- Body is 1,881 words, approximately three words longer than v3.3 and still comfortably below the 2,400-word editorial ceiling.
-- Calibration rationale: replace unitary `disciplines decide` agency with distributed publication/bibliography/disciplinary-history visibility and make the final question explicitly about later classification.
+- v3.4 preserves all substantive paragraphs, four endnotes, links and evidence ceilings from v3.3; calibration changes are confined to the closing memory/classification language and one final object-category micro-edit.
+- Body is **1,880 words**, still comfortably below the 2,400-word editorial ceiling.
+- Infrastructure calibration replaces unitary `disciplines decide` agency with distributed publication/bibliography/disciplinary-history visibility and makes the final question explicitly about later classification.
 - Reverse calibration against JHI's 1987 Lovejoy reassessment and Kelley's 1990 executive-editor self-history supports this wording: JHI itself treated Lovejoy through programme/performance distinction, comparison, critique, selective extension and reclassification rather than a single replacement narrative.
+- Object-category calibration replaces `Lovejoy's Buddhist notebooks` with `these notebooks`, because notebook 005 has already been established as a broader Paris comparative-religion object whose materials are no longer primarily Pāli/Buddhist. H&T/Baird 1968 triggered the audit but does not supply a retrospective genealogy.
 - No APSR, H&T, *Political Theory*, Skinner or carrier-architecture citations are added to the public essay; those findings function as internal calibration evidence only.
 - Existing v3.3 DOCX remains the current Word artifact until a new production pass is explicitly made from v3.4.
 - Image path unchanged: first choice notebook 004 MS p.123 / PDF p.42 via JHU publication permission; rights-clean fallback public-domain opening page of the 1898 JAOS article.
 
 ## Restart shorthand
 
-> **v3.4 CLEAN SUBMISSION TEXT: supersedes v3.3 at markdown/text level after Round 6–7 infrastructure calibration and reverse check against JHI 1987/1990 self-memory. Only final paragraph changes: `later bibliographies and disciplines decide...` -> `later publication venues, bibliographies, and disciplinary histories make some ... easier to see than others`; final `what later histories of a discipline made of that work...` -> `how later bibliographies and disciplinary histories classified that work as other versions of Lovejoy became canonical`. 1,881 words, four endnotes, no new public citations. v3.3 remains preserved and its DOCX remains current until next production pass.**
+> **v3.4 CLEAN SUBMISSION TEXT: active markdown is now 1,880 words / four notes after infrastructure + object-category calibration. Relative to v3.3, only closing memory/classification wording and final `Lovejoy's Buddhist notebooks` -> `these notebooks` changed; substantive body/evidence unchanged. The object correction follows the blog's own distinction between notebook 004 and broader Paris notebook 005; Baird 1968 only triggered the audit. Existing v3.3 DOCX remains current until next production pass.**
