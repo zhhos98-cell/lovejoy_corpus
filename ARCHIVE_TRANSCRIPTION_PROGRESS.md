@@ -20,7 +20,7 @@ Current source-critical policy is governed by `QUELLENFORSCHUNG_CURRENT_GATE.md`
 - `research_notes/QUELLENFORSCHUNG_round17b_004_p042_p049-052_direct_image_2026-09-01.md`;
 - `research_notes/MS38_004_005_transcription_corrections_round17_original_image_2026-09-01.csv`;
 - `archive_transcriptions/MS38_004_001_061_004_round17_direct_image_deltas_p042_p049-052_2026-09-01.json`;
-- `research_notes/MS38_004_second_pass_tranche2_p049-052_clause_layout_2026-09-01.md` for the page-form and clause-layout addendum.
+- `research_notes/MS38_004_round17c_p049-052_material_page_form_addendum_2026-09-01.md` for the page-form and clause-layout addendum.
 
 Where a Round-17 delta has been merged into a `*_clean.json` batch, that clean batch is again the active text authority and the delta register remains its audit trail. Unmerged loci continue to be governed by the dossier/ledger.
 
