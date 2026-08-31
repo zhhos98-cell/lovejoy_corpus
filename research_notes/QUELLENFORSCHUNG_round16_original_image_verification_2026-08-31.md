@@ -63,19 +63,60 @@ The Round-15 downgrade on p.117 is partially reversed. The page may now be quote
 
 The governing historical claim therefore becomes stronger locally without reviving an originality story: the manuscript witness securely shows Lovejoy ranking the incidence and evidentiary weight of competing sacrificial mechanisms.
 
+## Round 16.2 — MS38_004_001_061_005 PDF p.119
+
+### Original-image result
+
+The left page is again readable enough to recover the structure, but several words remain genuinely difficult. Secure fragments include:
+
+> `Note ... fashion of ... human flesh — indicates a specific virtue or force ...`
+
+> `Note also organs wh. are chosen ... Some we can well enough understand — frontal bone ... of head often regarded as seat of intelligence, [illegible] as seat of breath & hence of life, and genital organs ...`
+
+> `T. reason for this is not entirely clear — perh. as a repr. of [the] whole body, thus giving to eater possession of [the] force ... of [the] eaten.`
+
+The physically separate right-hand slip is unrelated back-matter/outline material and should stay separate from the cannibalism argument.
+
+### Correction to the prior clean reading
+
+The existing clean text normalized the page into a neat organ-to-quality mapping:
+
+`head/brain -> intelligence; heart -> courage/breath/life; sexual organs -> sexual power`.
+
+The image does not sustain that full triplet at W3. What it does sustain is more interesting and more cautious:
+
+1. selected human flesh/body parts can be treated as carrying a **specific virtue or force**;
+2. Lovejoy thinks some selections are intelligible because a body part is conventionally associated with a function or quality, with the head/frontal-bone/intelligence relation among the clearest visible examples;
+3. he explicitly says the reason for other selections is `not entirely clear`;
+4. he entertains an alternative mechanism in which the **part represents the whole body**, allowing the eater to acquire the force of the eaten person.
+
+This is a genuine correction, not merely a lexical cleanup. The earlier transcription made Lovejoy more systematic than the page itself is.
+
+### W/S/T/A recalibration
+
+For the selected-part mechanism:
+
+- **W2-W3** — the core mechanism and several phrases are image-secure, while some body-part nouns and the exact quality assignments remain uncertain;
+- **S0** — no external source needed yet;
+- **T0** — source transmission remains untested at this stage;
+- **A2** — direct local analytical alternatives are visible: part-specific virtue versus part-as-representative-of-whole.
+
+### Current evidentiary effect
+
+The 005→1906 bridge remains viable at the level of **transferable efficacy / force**, but the manuscript should no longer be cited for the fully normalized three-arrow body-part schema. Publication-side comparison must use the weaker and more faithful formulation until exact words are collated.
+
 ## Round 16 queue
 
 Next high-priority original-image checks:
 
-1. 005 p.119 — selected-body-part / transferable-efficacy wording;
-2. 005 pp.79-80 — Zulu ancestral-sacrifice sequence, but note that the existing clean reading was already viewed during this working session, so this will be an image-controlled recheck rather than a perfectly source-blind first pass;
-3. 005 p.78 — Trumbull numeral/locus;
-4. 005 p.62 — exact Brinton sacrifice item;
-5. 005 p.10 — `American Legends V [name]` paleography;
-6. 004 p.13/p.42 and other Round-15 priority loci after the 005 late-synthesis block is closed.
+1. 005 pp.79-80 — Zulu ancestral-sacrifice sequence, but note that the existing clean reading was already viewed during this working session, so this will be an image-controlled recheck rather than a perfectly source-blind first pass;
+2. 005 p.78 — Trumbull numeral/locus;
+3. 005 p.62 — exact Brinton sacrifice item;
+4. 005 p.10 — `American Legends V [name]` paleography;
+5. 004 p.13/p.42 and other Round-15 priority loci after the 005 late-synthesis block is closed.
 
 ## Repository authority
 
 Until the clean JSON batch is propagated, the correction ledger
 `research_notes/MS38_005_transcription_corrections_round16_original_image_2026-08-31.csv`
-controls exact quotation from p.117 and supersedes the older editorial-summary wording at that locus.
+controls exact quotation from pp.117 and 119 and supersedes the older editorial-summary wording at those loci.
