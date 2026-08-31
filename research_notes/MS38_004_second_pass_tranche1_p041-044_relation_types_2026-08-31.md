@@ -1,149 +1,118 @@
 # MS38_004 second-pass tranche 1: pp. 41–44 / ms pp. 121–127 — relation types around viññāṇa
 
 Date: 2026-08-31
-Status: **TEXTUAL TRIANGULATION COMPLETE / DIRECT SPLIT-PDF PIXEL RECHECK STILL REQUIRED BEFORE ALTERING CLEAN TRANSCRIPTION**
+Status: **DIRECT SPLIT-PDF IMAGE RECHECK COMPLETE / KEY RELATION VOCABULARY IMAGE-SECURE**
 
 ## Evidence discipline
 
-This tranche begins the new second-pass after the original split PDFs were re-supplied. The split witness containing full-PDF pp. 37–71 is `MS38_004_001_061_004_37-71.pdf`; full-PDF p. 42 corresponds to local split-PDF p. 6.
+The governing visual witness is the re-supplied split packet `MS38_004_001_061_004_37-71.pdf`. Full-PDF pp. 41–44 correspond to local split-PDF pp. 5–8. These four local pages have now been rendered and inspected directly against the manuscript hand.
 
-At this stage the current interface has exposed the file as a page-bearing witness but has not returned usable page pixels for direct handwriting inspection. Therefore this note **does not alter any `*_clean.json` reading**. It performs a controlled triangulation among:
+The evidence sequence is therefore now:
 
-1. authoritative clean transcription `MS38_004_001_061_004_p037-054_clean.json`;
-2. neighboring notebook pages 41–44;
-3. the 1898 published article, `The Buddhistic Technical Terms upādāna and upādisesa`;
-4. prior material-form closure, which remains the governing visual audit until the newly supplied split witness can be directly inspected.
+`ORIGINAL IMAGE -> SECURE READING -> TRANSCRIPTION CONTROL -> INTERPRETIVE CONSEQUENCE`
 
-No claim below should be promoted from `secure transcription state` to `new direct-image reading` merely because the split PDF is present.
+The direct-image pass confirms the main relation-sensitive reading already present in the clean transcription while sharpening the diplomatic wording. It does not license a claim that Buddhist studies caused Lovejoy's later unit-idea method.
 
 ---
 
-## 1. Local sequence, pp. 41–44
+## 1. Direct-image results
 
-### p. 41 / ms p. 121
+### p. 41 / ms p. 121 / split local p. 5
 
-The notebook overlays the five khandhas with paticca-samuppāda. `nāmarūpa` is decomposed into `rūpa` and `nāma`, and `nāma` is related to `vedanā`, `saññā`, `saṅkhāra`, and `viññāṇa`.
+The right-hand page is headed `The Khandhas` and gives the familiar fivefold set: form, sensation, perception, dispositions/conformations, consciousness. The facing-page diagram maps `Khandhas & Paticca Samuppāda` across `nāmarūpa` and its subdivisions. The important material fact is that the page is diagrammatic rather than merely discursive: Lovejoy is aligning two schemes on the same spread.
 
-This page is already doing two different analytic operations at once:
+The direct image therefore secures the material premise of the earlier inference: classificatory containment and dependent-origination sequence are being compared within one working layout.
 
-- **classification / containment**: what belongs under `nāma` / `nāmarūpa`;
-- **causal-sequential mapping**: how the same terms appear in dependent origination.
+### p. 42 / ms p. 123 / split local p. 6
 
-### p. 42 / ms p. 123
+The right-hand page is headed `Khandhas`. The diagram places `Nāmarūpam` over `Rūpam` and `Nāma`; under `Nāma` appear `Vedanā`, `Saññā`, `Saṅkhārā`, and `Viññāṇam`.
 
-The clean transcription records Lovejoy’s explicit formulation:
+The key sentence is directly legible. Diplomatic reading:
 
-> `Viññāṇa is temporally (?) antecedent to nāmarūpa and logically a subdivision of it.`
+> `In other words, viññāṇa is temporally (?) an antecedent of nāmarūpam, & logically a subdivision of it.`
 
-The same page’s diagram places `viññāṇa` inside `nāma` inside `nāmarūpa`.
+This settles the main outstanding points:
 
-Therefore, at the current secure transcription level, the key proposition is not simply that Lovejoy noticed a contradiction. He explicitly distinguishes **relation types**:
+- `temporally` is secure;
+- the parenthetical question mark after it is genuinely present;
+- Lovejoy writes `an antecedent of`, not merely an editor's normalized `antecedent to`;
+- `logically a subdivision of it` is secure;
+- the sentence sits immediately below the diagram in the same continuous hand;
+- no visible erasure or overwritten replacement creates the key contrast.
 
-- temporal relation: `viññāṇa -> nāmarūpa`;
-- logical/classificatory relation: `viññāṇa ⊂ nāma ⊂ nāmarūpa`.
+The page therefore gives unusually explicit first-order evidence that Lovejoy distinguished relation types. `Viññāṇa` is antecedent in one relation and contained/subdivided in another.
 
-The question mark after `temporally` remains a direct-image recheck target. Until the split-PDF pixels are legible, preserve the punctuation/qualification exactly as in the clean transcription.
+### p. 43 / ms p. 125 / split local p. 7
 
-### p. 43 / ms p. 125
+The direct image begins:
 
-The next page generalizes the same problem through `vedanā`: it is treated both as
+> `Cf. relation of vedanā as a subdivision of nāma, & vedanā in f. chain.`
 
-- a subdivision of `nāma`, and
-- a link in the causal chain.
+The remainder describes a double division yielding eighteen sorts by combining three affective qualities with six sensory sources. The first line is the decisive control: the p. 42 relation problem is immediately repeated with `vedanā`. This is not an isolated curiosity attached only to `viññāṇa`.
 
-This is important because it makes p. 42 less likely to be an isolated anomaly attached only to `viññāṇa`. The local notebook sequence repeatedly encounters **one technical item occupying more than one relation-schema**.
+### p. 44 / ms p. 127 / split local p. 8
 
-### p. 44 / ms p. 127
+The direct image is headed `Khandhas. Viññāṇam.` Lovejoy writes, in substance and with the key wording directly legible, `For further evidence of primacy of viññāṇam ... note th. t. 4 mental khandhas are collectively called t. "conscious group" ... also its place in t. Paticca-Samupp.` He then turns to a Rhys Davids discussion in which `viññāṇam` is extensively subdivided, culminating in a classification into 89 classes.
 
-Lovejoy then returns to `viññāṇa` and emphasizes its primacy while also noting its extensive subdivision in Buddhist psychology. The local movement is therefore:
+The direct witness therefore confirms the local movement:
 
-`overlay systems -> identify relation-type mismatch -> test second term (vedanā) -> return to viññāṇa as a privileged but multiply classified item`.
-
-This is a stronger description than treating p. 42 as a free-standing diagrammatic curiosity.
+`cross-system mapping -> explicit temporal/logical distinction -> second example with vedanā -> return to viññāṇa as both privileged and multiply classified`.
 
 ---
 
-## 2. What changes when compared with the 1898 article
+## 2. What the direct image changes
 
-The published article does **not** reproduce the p. 42 diagram or the explicit formula `temporally antecedent / logically subdivision`. But it preserves the underlying problem in compressed form.
+Before this pass, the strongest claim depended on the corrected transcription plus earlier visual audit. It can now be stated at W3/direct-image level:
 
-Most important controls:
+> Across pp. 41–43 Lovejoy treats the same Buddhist technical terms as members of a classificatory scheme and as nodes in a causal/temporal sequence; on ms p. 123 he explicitly writes that `viññāṇa is temporally (?) an antecedent of nāmarūpam, & logically a subdivision of it.`
 
-1. Lovejoy explicitly says the paticca-samuppāda formula is **not a strict temporal sequence**.
-2. He nevertheless divides it broadly into past / present / future existential sections.
-3. He says the terms, and perhaps some ideas, are largely borrowed, while their **arrangement and application** are original and characteristic.
-4. He declines to reproduce the full analysis showing how the skandhas are obscurely referred to within nidānas 1–8.
+The question mark is analytically useful rather than weakening the evidence. It qualifies the temporal description while leaving the contrast with `logically` intact. Lovejoy is visibly uncertain about how strictly to characterize the temporal relation, but the page still insists that temporal and logical relations are not the same relation.
 
-The manuscript-to-publication transformation can therefore be described more precisely as:
+This strengthens the preferred interpretation:
+
+> **Lovejoy does not force every relation into one axis. He preserves non-identical relation types and asks how the same technical unit can occupy them simultaneously.**
+
+That formulation is stronger than `Lovejoy noticed a contradiction` and safer than a genealogical claim about the mature unit-idea method.
+
+---
+
+## 3. Relation to the 1898 article
+
+The published article does not reproduce the diagram or the exact `temporally / logically` sentence. It does, however, preserve the structural problem in prose: the dependent-origination formula is not treated as a simply strict temporal series, while its arrangement remains open to technical reconstruction.
+
+The manuscript-to-publication transformation can therefore continue to be described as:
 
 `VISIBLE MULTI-RELATIONAL MAPPING IN NOTEBOOK`
 
 ->
 
-`PUBLISHED DISCLAIMER AGAINST STRICT TEMPORALITY + CLAIM FOR INTELLIGIBLE ARRANGEMENT`.
+`PUBLISHED QUALIFICATION OF STRICT TEMPORALITY + DEFENCE OF INTELLIGIBLE ARRANGEMENT`.
 
-The article does not eliminate the notebook problem. It **changes its representational form**. The diagrammatic/classificatory collision is compressed into prose that refuses to treat sequence as simply chronological while retaining causal and systemic intelligibility.
-
----
-
-## 3. First second-pass result
-
-### Secure now
-
-- p. 41–43 form a local cluster in which the same Buddhist terms are mapped simultaneously into classificatory and causal/sequential systems.
-- p. 42 explicitly distinguishes temporal from logical relation in the current clean transcription.
-- p. 43 supplies an immediate second example (`vedanā`) of one item functioning both as a subdivision of `nāma` and as a causal-chain link.
-- the 1898 article explicitly rejects a strictly temporal reading of the formula while defending the intelligibility of its arrangement.
-
-### Strong interpretive inference
-
-The most economical description of this local working practice is:
-
-> **Lovejoy is not trying to force every relation into one axis. He preserves different relation-types and asks how one technical unit can occupy them simultaneously.**
-
-This is stronger and more exact than `Lovejoy noticed a contradiction`, and safer than `Lovejoy had already invented the mature unit-idea method`.
-
-### HOLD pending direct image
-
-- exact certainty of the word `temporally` and the status of the following question mark;
-- exact arrow/line geometry on p. 42;
-- whether any small insertion, overwrite, pen change, or marginal cue qualifies the relation sentence;
-- exact visual relation between the diagram and adjacent prose;
-- any claim about sequence of inscription on the page.
-
-No clean-transcription edit is licensed yet.
+This is an operational continuity, not a single-source origin claim.
 
 ---
 
-## 4. Consequence for the JHI argument
+## 4. Transcription consequence
 
-The p. 42 control should now be framed at one level more precisely:
+The existing clean JSON is substantively correct on pp. 41–44. The direct pass sharpens p. 42's diplomatic key line to:
 
-Old shorthand:
+`In other words, viññāṇa is temporally (?) an antecedent of nāmarūpam, & logically a subdivision of it.`
 
-`classification and temporal priority are held apart spatially.`
+For p. 43, the image-secure opening control is:
 
-Preferred formulation after this tranche:
+`Cf. relation of vedanā as a subdivision of nāma, & vedanā in f. chain.`
 
-`Across pp. 41–43 Lovejoy treats the same Buddhist terms as members of a classificatory scheme and as nodes in a causal/temporal sequence; on ms p. 123 he explicitly describes viññāṇa as temporally antecedent to nāmarūpa while logically a subdivision of it.`
-
-Publication-facing caution remains essential:
-
-- this is evidence for an early **relation-sensitive analytic practice**;
-- it is not evidence that Buddhist studies caused the later unit-idea method;
-- it is not evidence for a linear developmental trajectory;
-- the relevant continuity is an operation: decomposing a system while preserving non-identical relations among the decomposed terms.
+No major substantive reversal is required. The principal change is witness status: the relation vocabulary and page geometry are now directly verified from the re-supplied original split PDF.
 
 ---
 
-## 5. Next image-level targets
+## 5. Next image-level target
 
-When direct pixels are available, inspect in this order:
+Proceed to full-PDF pp. 47–54 / split local pp. 11–18, with special priority to:
 
-1. **full p. 42 / split local p. 6** — exact `temporally (?)` reading, diagram geometry, insertion/revision state;
-2. **full p. 41 / split local p. 5** — exact mapping of khandhas against `nāmarūpa`;
-3. **full p. 43 / split local p. 7** — wording that makes `vedanā` both subdivision and causal link;
-4. **full p. 44 / split local p. 8** — wording of `primacy` / classification of `viññāṇa`;
-5. then widen to pp. 47–54, where `upādāna/upādhi` and Senart force the same relation-type problem into the published 1898 argument.
+1. p. 49 / ms p. 137, where Lovejoy concedes compositeness and non-homogeneous temporality while rejecting the claim that the formula is unintelligible or accidental;
+2. p. 50 / ms p. 139, where collective designation and temporal/logical antecedence are brought together again;
+3. pp. 47–48, `upādāna/upadhi` and Senart;
+4. pp. 51–54, `avijjā`, `saṅkhāra`, Sāṁkhya-Yoga, and `āsava` etymology.
 
-The next decisive question is whether the original hand strengthens or weakens the clean transcription’s explicit relation vocabulary. Until that check is complete, the clean JSON remains authoritative.
+Current tranche status: **PAGES 41–44 DIRECTLY VERIFIED / KEY RELATION-TYPE EVIDENCE W3 / CLEAN TRANSCRIPTION SUBSTANTIVELY CONFIRMED / NEXT PASS 47–54.**
