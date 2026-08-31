@@ -13,7 +13,7 @@
     "created_at": "2026-08-17T21:56:00+08:00",
     "method": "Manual visual correction against rendered PDF pages, using PaddleOCR-VL output only as a scaffold.",
     "policy": "Preserve Lovejoy abbreviations; normalize obvious OCR errors; mark uncertain readings rather than silently reconstructing handwriting.",
-    "status": "first pass complete; direct original-image second pass propagated for p.20 and pp.27-36; p.33 Upādāna/karma reading corrected"
+    "status": "first pass complete; direct original-image second pass propagated for pp.20-36; p.20 method phrase, p.21 birth-definition terms, p.26 āyatana gloss, and p.33 Upādāna/karma reading corrected"
   },
   "research_signals_from_batch": [
     "Dependent origination (paticca-samuppada) is treated as the technical working-out of Buddhism’s general philosophical position and linked to the Three Characteristics.",
@@ -21,7 +21,8 @@
     "The notebook repeatedly cross-references Warren, Childers, Oldenberg, Rhys Davids, Buddhaghosa, Hardy and Hopkins.",
     "Lovejoy diagrammatically maps consciousness → namarupa → sense-organs → contact → sensation → desire, then asks how the chain relates to the Four Truths.",
     "Karma is used to explain continuity across rebirth while the khandhas perish; Lovejoy explicitly probes causal continuity, personal identity, and annihilation at Nirvana.",
-    "Direct-image control of p.32 shows that Lovejoy assigns different sequence rules to different portions of paticca-samuppada: a local relation can be parallel and order-invertible, later links follow a fixed sequence, 3–9 form one group, 1–2 are separable, and 10–12 redescribe 3–9 from another point of view."
+    "Direct-image control of p.32 shows that Lovejoy assigns different sequence rules to different portions of paticca-samuppada: a local relation can be parallel and order-invertible, later links follow a fixed sequence, 3–9 form one group, 1–2 are separable, and 10–12 redescribe 3–9 from another point of view.",
+    "Direct-image control of p.20 secures Lovejoy’s own description of the procedure as a careful analysis, i.e. a comparison of texts."
   ],
   "pages": [
     {
@@ -36,21 +37,24 @@
       "pdf_page": 20,
       "manuscript_page_label": "71",
       "page_type": "notes",
-      "corrected_text": "Nidānas\n\nTo understand F. general philos. positn of Bism, as correlated with F. 3 Characteristics, and then to understand F. technical working out of this general conception, in colln. w. F. current Indic ideas, in F. Paticca-samupp., is to understand Bism; for, leaving F. ethical system out of acct., all A. is essential in Bistic doctrine is involved in F. 12 notions & F. very complicated inter-relation. [F. degree of this complication has very seldom been stated as it is by European writers?] The most that can be hoped for in F. present effort is some degree of approaching such understanding, through a careful analysis of F. comprehension of texts.\n\nThe Nidānas (Paticcasamuppādo)\nF. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2.\n\n‘Once upon a time F. Blessed One was dwelling at Sāvatthi in Jetavana monastery in F. park of Anāthapiṇḍika. There the Blessed One addressed F. bhikkhus: “Bhikkhus,” said he. “Lord,” said F. bhikkhus to F. Blessed One in reply. And F. Blessed One spoke as follows: “O bhikkhus, I will cause you to understand dependent origination; give ear to it & heed well what I shall say.” “So be it, Lord,” replied F. bhikkhus. And F. Blessed One spoke as follows: “What, O F., is dep’d’t Origination? From ignorance as a cause arises Conformations, from Conformations …”’",
-      "transcription_confidence": "medium",
+      "corrected_text": "Nidānas\n\nTo understand F. general philos. positn of Bism, as correlated with F. 3 Characteristics, and then to understand F. technical working out of this general conception, in colln. w. F. current Indic ideas, in F. Paticca-samupp., is to understand Bism; for, leaving F. ethical system out of acct., all A. is essential in Bistic doctrine is involved in F. 12 notions & F. very complicated inter-relation. [F. degree of this complication has very seldom been stated as it is by European writers?] The most that can be hoped for in F. present effort is some degree of approaching such understanding, through a careful analysis (i.e. a comparison of texts).\n\nThe Nidānas (Paticcasamuppādo)\nF. fr. Nidāna-Saṁyutta on F. whole sequence: Saṁy. Nik. 12, 2.\n\n‘Once upon a time F. Blessed One was dwelling at Sāvatthi in Jetavana monastery in F. park of Anāthapiṇḍika. There the Blessed One addressed F. bhikkhus: “Bhikkhus,” said he. “Lord,” said F. bhikkhus to F. Blessed One in reply. And F. Blessed One spoke as follows: “O bhikkhus, I will cause you to understand dependent origination; give ear to it & heed well what I shall say.” “So be it, Lord,” replied F. bhikkhus. And F. Blessed One spoke as follows: “What, O F., is dep’d’t Origination? From ignorance as a cause arises Conformations, from Conformations …”’",
+      "transcription_confidence": "medium-high",
       "uncertain_readings": ["left-page sentence on how rarely the interrelation has been stated", "exact subtitle/reference under The Nidānas", "a few words in quoted introduction"],
-      "text_layer": "direct_image_verified_programmatic_structure",
-      "witness_status": "W3 for programmatic relation between general philosophical position, technical working-out, twelve notions, and complicated inter-relation",
+      "text_layer": "direct_image_corrected_programmatic_text",
+      "witness_status": "W3 for programmatic relation between general philosophical position, technical working-out, twelve notions, complicated inter-relation, and the analysis/comparison-of-texts procedure",
       "material_layout_observation": "The left page is a programmatic prose preface headed ‘Nidānas’; the facing right page immediately switches to the source sequence under ‘The Nidānas (Paticcasamuppādo)’. The spread materially separates analytic programme from source transcription.",
-      "editorial_argument_summary": "Lovejoy defines the task as understanding a general philosophical position through its technical working-out and the complicated inter-relation of the twelve notions, approached by careful textual analysis. Several small words remain unfit for exact quotation."
+      "editorial_argument_summary": "Lovejoy defines the task as understanding a general philosophical position through its technical working-out and the complicated inter-relation of the twelve notions. Original-image control secures his procedural phrase ‘through a careful analysis (i.e. a comparison of texts)’; the former clean reading ‘comprehension of texts’ was wrong."
     },
     {
       "pdf_page": 21,
       "manuscript_page_label": "73",
       "page_type": "notes",
-      "corrected_text": "[continuation of dependent-origination sequence]\n\n… arises Consciousness etc.\n‘That, O F., are old age & death?’\n\n‘What, O F., is Birth? Whatever of any being in F. aggregate of beings is birth, propagation, descent, rebirth, arising of khandas, [manifestation?] of F. [12] āyatanas — A., O F., is what is meant by birth.’\n\nNidānas cont.\n\nBhava (Existence). ‘What, O F., is existence? Tre are for me 3 existences: desire-existence (kāma-bhava), form-existence (rūpa-bhava), formless-existence (arūpa-bhava). A. is what is meant by existence.’ Nidāna Saṁyutta.\n\nF. is to say, existence in F. Kāmaloka (F. 11 Kāmalokas = 6 devalokas, F. world of men, F. world of F. Pretas, F. world of animals, & Hell) or in F. Rūpaloka (strictly F. rūpa-brahma-lokas) & F. Arūpaloka (arūpa-brahmaloka). In other words, bhava = F. existence of a being in general, which was specifically taken [in] F. form of Jāti & Jarāmaraṇa. Bhavo, tr. by Childers, ‘continued existence,’ wh. is precisely what it means in F. paticca-samuppāda formula.",
-      "transcription_confidence": "medium-high",
-      "uncertain_readings": ["one phrase in definition of birth", "several transliterated cosmological terms"]
+      "corrected_text": "[continuation of dependent-origination sequence]\n\n… arises Consciousness etc.\n‘That, O F., are old age & death?’\n\n‘What, O F., is Birth? Whatever any one being in F. aggregate of beings is birth, origination, descent, rebirth, arising of khandas, attaining of F. [12] āyatanas — A., O F., is what is meant by birth.’\n\nNidānas cont.\n\nBhava (Existence). ‘What, O F., is existence? Tre are for me 3 existences: desire-existence (kāma-bhava), form-existence (rūpa-bhava), formless-existence (arūpa-bhava). A. is what is meant by existence.’ Nidāna Saṁyutta.\n\nF. is to say, existence in F. Kāmaloka (F. 11 Kāmalokas = 6 devalokas, F. world of men, F. world of F. Pretas, F. world of animals, & Hell) or in F. Rūpaloka (strictly F. rūpa-brahma-lokas) & F. Arūpaloka (arūpa-brahmaloka). In other words, bhava = F. existence of a being in general, which was specifically taken [in] F. form of Jāti & Jarāmaraṇa. Bhavo, tr. by Childers, ‘continued existence,’ wh. is precisely what it means in F. paticca-samuppāda formula.",
+      "transcription_confidence": "high for birth-definition wording; medium-high overall",
+      "uncertain_readings": ["several transliterated cosmological terms"],
+      "text_layer": "direct_image_corrected_birth_definition",
+      "witness_status": "W3 for ‘origination’ and ‘attaining of F. [12] āyatanas’",
+      "editorial_argument_summary": "Original-image control replaces the former clean readings ‘propagation’ and ‘[manifestation?]’ with the visible terms ‘origination’ and ‘attaining’."
     },
     {
       "pdf_page": 22,
@@ -88,9 +92,11 @@
       "pdf_page": 26,
       "manuscript_page_label": "83",
       "page_type": "notes",
-      "corrected_text": "Nidānas cont.\n\nSix Seats of Sensation. ‘What, O F., are F. 6 seats of sensation? Tre are eye, ear, nose, tongue, body, mind. A. is what is meant by F. 6 seats of sensation.’ (Nid. Saṁy.)\n\nF. āyatana = dwelling-place, abode, receptacle, ‘cause’ [?].",
+      "corrected_text": "Nidānas cont.\n\nSix Seats of Sensation. ‘What, O F., are F. 6 seats of sensation? Tre are eye, ear, nose, tongue, body, mind. A. is what is meant by F. 6 seats of sensation.’ (Nid. Saṁy.)\n\nF. āyatana = dwelling-place, abode, receptacle, ‘cause’.",
       "transcription_confidence": "high",
-      "uncertain_readings": ["final gloss after āyatana"]
+      "uncertain_readings": [],
+      "text_layer": "direct_image_corrected_gloss",
+      "witness_status": "W3 for final gloss ‘cause’"
     },
     {
       "pdf_page": 27,
