@@ -1,13 +1,18 @@
 # *Political Theory* 1973 founding editorial: p.131 direct CSPT-origin lock
 
 Date: 2026-08-31
-Status: **DIRECT PAGE-IMAGE CONTROL FOR p.131 / pp.132–133 ACCESS-GATED / FOUNDING PROGRAMME PARTIAL LOCK**
+Status: **DIRECT p.131 DUAL-CARRIER CONTROL (SAGE PAGE IMAGE + vLEX MACHINE-READABLE TEXT) / pp.132–133 ACCESS-GATED / FOUNDING PROGRAMME PARTIAL LOCK**
 
 ## Core result
 
 The inaugural `From the Editors` statement in *Political Theory* 1.2 (May 1973), pp.131–133, can now be partially upgraded from later retrospective control to direct primary evidence.
 
-The **first printed page, p.131, is directly visible as a page image** on the SAGE article record.
+The **first printed page, p.131, is directly controlled in two independent web carriers**:
+
+1. SAGE first-page image;
+2. vLex machine-readable rendering of the same page, with DOI/date and the opening text exposed directly.
+
+The two carriers agree on the key p.131 propositions.
 
 It directly establishes that:
 
@@ -95,15 +100,23 @@ Again:
 
 ---
 
-## IV. What remains secondary or access-gated
+## IV. Source-state correction: p.131 is stronger, pp.132–133 are still gated
 
 The SAGE record confirms the article as:
 
 `From the Editors`, *Political Theory* 1.2 (May 1973), pp.131–133, DOI 10.1177/009059177300100201.
 
-At present only p.131 has been directly inspected as a page image.
+The vLex carrier independently exposes DOI/date and the p.131 opening text through the point at which the page discusses early contributors and organizational growing pains. It then truncates behind its access layer.
 
-The following should therefore remain **secondary / later-archival control** until pp.132–133 are directly recovered:
+Therefore the current evidence ceiling is unusually clean:
+
+`p.131 = DIRECT DUAL-CARRIER PRIMARY CONTROL`
+
+but
+
+`pp.132–133 = STILL ACCESS-GATED`.
+
+The following should remain **secondary / later-archival control** until pp.132–133 are directly recovered:
 
 - the formulation that the journal was intended to `build bridges`;
 - the fuller statement that it aimed to stimulate thought and controversy, clarify problems, foster understanding, and generate new perspectives on political ideals;
@@ -111,7 +124,7 @@ The following should therefore remain **secondary / later-archival control** unt
 
 Nathan H. Feldman, `Political Theory within and without Political Science`, *Perspectives on Politics* 23.4 (2025), remains the principal recent archival/history control for those points.
 
-Do not silently upgrade Feldman's quotations to direct primary status merely because p.131 of the original editorial is now visible.
+Do not silently upgrade Feldman's quotations to direct primary status merely because p.131 of the original editorial is now controlled twice.
 
 ---
 
@@ -152,7 +165,8 @@ This is more informative than treating the journal's founding statement as a sta
 ### Direct locked
 
 - article metadata, volume/issue/date/pages/DOI;
-- p.131 page image;
+- p.131 SAGE page image;
+- p.131 vLex machine-readable text;
 - Columbia CSPT graduate-student meeting as origin of journal idea;
 - SAGE persuasion route;
 - actors' statement of an actual need for an international journal of political philosophy;
@@ -171,7 +185,8 @@ This is more informative than treating the journal's founding statement as a sta
 
 Direct primary:
 
-- `From the Editors`, *Political Theory* 1.2 (May 1973), 131–133, DOI 10.1177/009059177300100201, SAGE article page and first-page image.
+- `From the Editors`, *Political Theory* 1.2 (May 1973), 131–133, DOI 10.1177/009059177300100201, SAGE article page + first-page image;
+- vLex rendering of the same DOI/article, exposing p.131 machine-readable text.
 
 Recent archival/disciplinary control:
 
@@ -185,4 +200,4 @@ Companion direct execution control:
 
 ## Restart shorthand
 
-> **1973 PT FOUNDING EDITORIAL PARTIAL DIRECT LOCK: SAGE p.131 page image directly confirms that the journal idea originated at a graduate-student meeting of Columbia University's CSPT chapter; the editors then persuaded SAGE of the need/professional viability and describe an actual need for an international journal of political philosophy, with Section Editors/Editorial Board enabling rapid organization. This upgrades the CSPT->journal origin to direct contemporary self-description. Only p.131 is direct-locked: pp.132–133 remain access-gated, so `build bridges` and the fuller mission language remain Feldman-2025 secondary/archival control until directly recovered. Pair p.131 with the direct-full 1975 editorial census as `FOUNDING VENUE PROGRAMME -> EDITORIAL CLASSIFICATION IN PRACTICE`; preserve `INFRASTRUCTURE FORMATION != ONE METHOD'S VICTORY`.**
+> **1973 PT FOUNDING EDITORIAL PARTIAL DIRECT LOCK UPGRADED: p.131 now has dual direct carriers — SAGE page image + vLex machine-readable text — confirming that the journal idea originated at a graduate-student meeting of Columbia University's CSPT chapter; editors then persuaded SAGE of need/professional viability and describe an actual need for an international journal of political philosophy, with Section Editors/Editorial Board enabling rapid organization. This makes the CSPT->journal origin a direct contemporary self-description. Both carriers stop at p.131; pp.132–133 remain access-gated, so `build bridges` and fuller mission language remain Feldman-2025 secondary/archival control until directly recovered. Pair p.131 with the direct-full 1975 editorial census as `FOUNDING VENUE PROGRAMME -> EDITORIAL CLASSIFICATION IN PRACTICE`; preserve `INFRASTRUCTURE FORMATION != ONE METHOD'S VICTORY`.**
