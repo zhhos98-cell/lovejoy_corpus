@@ -17,7 +17,8 @@ These must not be collapsed. In particular, `corrected_text` in older `*_clean.j
 Current source-critical policy is governed by `QUELLENFORSCHUNG_CURRENT_GATE.md`. Round-17 exact quotation deltas are governed by:
 
 - `research_notes/QUELLENFORSCHUNG_round17_original_witness_verification_2026-09-01.md`;
-- `research_notes/MS38_004_005_transcription_corrections_round17_original_image_2026-09-01.csv`.
+- `research_notes/MS38_004_005_transcription_corrections_round17_original_image_2026-09-01.csv`;
+- `research_notes/MS38_004_second_pass_tranche2_p049-052_clause_layout_2026-09-01.md` for the current p.49–52 clause/layout closure.
 
 Until those deltas are propagated into the relevant `*_clean.json` batches, the Round-17 dossier/ledger supersedes older exact wording at the listed loci.
 
@@ -28,7 +29,7 @@ Until those deltas are propagated into the relevant `*_clean.json` batches, the 
 - Text coverage: **71/71 first pass complete**.
 - Material coverage: **71/71 visual overview complete; selected high-value pages directly/high-resolution reviewed**.
 - Round-16 propagation: **p.41–42 material/text distinction written back into the clean transcription batch**.
-- Round-17 renewed originals: **p.6, p.8, pp.12–14, p.18, p.20, p.22, p.33, pp.47–48 directly re-read; several former blind loci upgraded to W3.**
+- Round-17 renewed originals: **p.6, p.8, pp.12–14, p.18, p.20, p.22, p.33, pp.47–52 directly re-read; several former blind loci upgraded to W3 and p.49 wording materially corrected.**
 
 Batches:
 
@@ -59,14 +60,18 @@ Safe claim: the page materially holds classificatory inclusion apart from tempor
 - **p.22/MS75**: W3 Warren attribution to `identity` and Lovejoy's `But not so` objection.
 - **p.33/MS97**: W3 Hardy grammar: `fact of continued existence` versus `manner of continued existence?`, `Hardy, p.394`; visible question mark retained.
 - **pp.47–48/MS133–135**: named-source seams secured: `Oldbg.` and `Senart: "À propos de la théorie bouddhique des douze nidānas"`.
+- **p.49/MS137**: direct wording corrects the clean summary's `discoverable technical system` to **`discoverable logical system`**. `homogeneous` is visibly inserted over the first right-leaf line; the following qualifier is struck/overwritten, so `strict temporal relation` is withdrawn as diplomatic wording. The anti-Senart clauses `illogical & unintelligible`, `jumbled together`, and `repetitions are intentional` are W3.
+- **p.50/MS139**: W3 anchors for `not merely a double but a triple enumeration`, `Namarupa ... a collective designation`, and `temporally as well as logically antecedent`; the numbered technical list remains partly unresolved. The facing right leaf is almost entirely blank, which is now recorded as page-form evidence of an abrupt thought-block closure.
+- **p.51/MS141**: W3 for `Nidānas:`, the Senart p.285 quotation onset, the `very practical & natural` / `ontological function` contrast, and the explicitly initialled question `But is tre necessarily any ontological function involved? A.O.L.`. The `A.O.L.` marker is an image-secure author/source seam.
+- **p.52/MS143**: W3 for `the whole enumeration is secondary as to origin & composite as to character`, the standalone pivot `And what of namarupa?`, `scholastic expedient, without warrant`, and the closing `theory, conceived all of a piece` phrase. The page visibly decomposes the problem into modules and ends with substantial blank space.
 
 ### Remaining 004 text-hygiene queue
 
-This is now smaller:
+The high-value blind queue is now narrow:
 
 - p.17 exact new-witness location/punctuation around `To R.D.'s remark it should be added`;
 - p.29 Childers/Müller exact source numerals and transition grammar;
-- pp.49–52 clause-level Senart/Oldenberg quotation boundaries plus compressed Pāli/Sanskrit forms.
+- pp.49–52 **compressed Pāli/Sanskrit forms only**, if a fully diplomatic line-by-line edition is required. The principal argumentative clauses and material page structure are now image-secure.
 
 Published-paper cross-read remains `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`.
 
@@ -132,4 +137,4 @@ Coverage remains **191/191 overview**. The newly re-supplied split witnesses are
 
 ## Current archive state
 
-**004 71/71 + 005 120/120 FIRST PASS COMPLETE / MATERIAL 191/191 OVERVIEW COMPLETE / ROUND-16 IMAGE-SECURE DELTAS PROPAGATED / ROUND-17 ORIGINAL-WITNESS HYGIENE ACTIVE / FORMER BLIND QUEUE SUBSTANTIALLY REDUCED / p.62 `BRINTON` OVER-EXPANSION WITHDRAWN / NEXT = RESIDUAL PAGE-LEVEL VERIFICATION + CONTROLLED PROPAGATION, NOT A NEW ARCHIVE SWEEP.**
+**004 71/71 + 005 120/120 FIRST PASS COMPLETE / MATERIAL 191/191 OVERVIEW COMPLETE / ROUND-16 IMAGE-SECURE DELTAS PROPAGATED / ROUND-17 ORIGINAL-WITNESS HYGIENE ACTIVE / p.49 `LOGICAL SYSTEM` CORRECTION SECURE / p.51 `A.O.L.` AUTHOR-SEAM SECURE / FORMER BLIND QUEUE SUBSTANTIALLY REDUCED / p.62 `BRINTON` OVER-EXPANSION WITHDRAWN / NEXT = RESIDUAL PAGE-LEVEL VERIFICATION + CONTROLLED PROPAGATION, NOT A NEW ARCHIVE SWEEP.**
