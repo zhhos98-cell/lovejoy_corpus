@@ -51,34 +51,47 @@
     },
     {
       "source_id": "MS38_004_001_061_005",
+      "pdf_page": 55,
+      "manuscript_page_label": null,
+      "status": "argument/transcription upgrade merged into clean batch",
+      "witness_status": "W3 for 'not ritual but alimentary', male-flesh preference, and gastronomic contrast",
+      "secure_text": "Cannibalism ... not ritual but alimentary ... [preference for male flesh despite a stated gastronomic superiority of female flesh].",
+      "editorial_consequence": "Lovejoy treats the base practice as alimentary while using selective preference to test modification by non-alimentary ideas about power/value. This is an anti-form control: ceremonial/selective consumption is not automatically sacrifice or sacrament.",
+      "merged_commit": "e49b406e032787767335925e7063228e1d3199a8"
+    },
+    {
+      "source_id": "MS38_004_001_061_005",
       "pdf_page": 64,
       "manuscript_page_label": "129",
-      "status": "substantive lexical correction pending merge into clean batch",
+      "status": "substantive lexical correction merged into clean batch",
       "witness_status": "W3 for 'the gods' and the magical-apparatus sentence",
-      "withdraw": "current clean wording: 'for the body/power will take advantage of a man's lack of technical skill ...'",
+      "withdraw": "former clean wording: 'for the body/power will take advantage of a man's lack of technical skill ...'",
       "replace_with": "for the gods will take advantage of a man's lack of technical skill with the magical apparatus to subject him in turn to their will",
-      "editorial_consequence": "The mechanism is a contest/transaction with personal gods mediated by a quasi-technical magical apparatus; the prior 'body/power' reading is an image-level error."
+      "editorial_consequence": "The mechanism is a contest/transaction with personal gods mediated by a quasi-technical magical apparatus; the prior 'body/power' reading is an image-level error.",
+      "merged_commit": "d33a609836f38015f43dcea4ad6000f1117b47bc"
     },
     {
       "source_id": "MS38_004_001_061_005",
       "pdf_page": 96,
       "manuscript_page_label": "187",
-      "status": "chronology/provenance anchor upgraded",
+      "status": "chronology/provenance anchor merged into clean batch",
       "witness_status": "W3 for 'Marillier' and 'June 20'; middle abbreviation W2",
       "secure_text": "Marillier — [sem. sec.?] — June 20",
-      "editorial_consequence": "This inserted analytical sheet has an explicit Marillier/June-20 anchor. The page should be treated as a discrete inserted witness tied to the comparative-religion teaching/research layer, not simply as undated notebook prose."
+      "editorial_consequence": "This inserted analytical sheet has an explicit Marillier/June-20 anchor. The page should be treated as a discrete inserted witness tied to the comparative-religion teaching/research layer, not simply as undated notebook prose.",
+      "merged_commit": "ee9f11457ee140940f99a3c1ba91c67cb964600b"
     },
     {
       "source_id": "MS38_004_001_061_005",
       "pdf_page": 104,
       "manuscript_page_label": "195",
-      "status": "substantive directionality correction pending merge into clean batch",
+      "status": "substantive directionality correction merged into clean batch",
       "witness_status": "W3 for H.S. -> domestic-animal-sacrifice direction; compressed middle wording W2",
       "secure_text": "[The] manner of the H.S. is in turn modified into sacr. of dom. an., dressed as a man & so on. The dom. an. sac. ... comes not fr. wild an. sac. directly, but by modification of H.S. ...",
-      "withdraw": "current clean summary: 'sacrifice of domestic animals can be modified into sacrifice of a divine animal or divine representative'",
+      "withdraw": "former clean summary: 'sacrifice of domestic animals can be modified into sacrifice of a divine animal or divine representative'",
       "replace_with": "Lovejoy is testing a substitutional/developmental direction in which human sacrifice (H.S.) is modified into domestic-animal sacrifice, including animals dressed/treated in human fashion; he explicitly denies that this domestic-animal form need derive directly from wild-animal sacrifice.",
-      "editorial_consequence": "This reverses the causal direction in the first-pass summary. The page belongs with p.103 as a sequence-testing exercise: proposed ritual succession is decomposed into alternative historical pathways rather than one linear wild-animal -> domestic-animal story."
+      "editorial_consequence": "This reverses the causal direction in the first-pass summary. The page belongs with p.103 as a sequence-testing exercise: proposed ritual succession is decomposed into alternative historical pathways rather than one linear wild-animal -> domestic-animal story.",
+      "merged_commit": "ee9f11457ee140940f99a3c1ba91c67cb964600b"
     }
   ],
-  "merge_policy": "Substantive lexical/directionality corrections at 005 pp.64 and 104 should be merged into their authoritative clean JSON batches on the next clean-file consolidation. Other entries mainly upgrade witness grade and argument structure."
+  "merge_policy": "Substantive p.55, p.64, p.96, and p.104 controls are merged into authoritative clean batches. Remaining entries chiefly upgrade witness grade and argument structure."
 }
