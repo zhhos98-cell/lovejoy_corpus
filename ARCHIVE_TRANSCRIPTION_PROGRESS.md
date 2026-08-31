@@ -1,7 +1,7 @@
 # Lovejoy manuscript transcription progress
 
-Last synchronized: 2026-08-31  
-Status: **004 71/71 FIRST PASS + SELECTIVE ROUND-16 IMAGE CORRECTIONS / 005 120/120 FIRST PASS + SELECTIVE ROUND-16 IMAGE CORRECTIONS / MATERIAL 191/191 OVERVIEW CLOSED**
+Last synchronized: 2026-09-01  
+Status: **004 71/71 FIRST PASS + ROUND-16 PROPAGATED + ROUND-17 ORIGINAL-WITNESS DELTAS / 005 120/120 FIRST PASS + ROUND-16 PROPAGATED + ROUND-17 ORIGINAL-WITNESS DELTAS / MATERIAL 191/191 OVERVIEW COMPLETE**
 
 ## Working method and authority split
 
@@ -14,7 +14,12 @@ The archival layer has four distinct evidence types:
 
 These must not be collapsed. In particular, `corrected_text` in older `*_clean.json` entries is heterogeneous: some entries are close diplomatic transcriptions; others are source-supported argumentative summaries. A source-supported summary cannot serve as independent evidence for the source identification that helped produce it.
 
-Current source-critical policy is governed by `QUELLENFORSCHUNG_CURRENT_GATE.md`.
+Current source-critical policy is governed by `QUELLENFORSCHUNG_CURRENT_GATE.md`. Round-17 exact quotation deltas are governed by:
+
+- `research_notes/QUELLENFORSCHUNG_round17_original_witness_verification_2026-09-01.md`;
+- `research_notes/MS38_004_005_transcription_corrections_round17_original_image_2026-09-01.csv`.
+
+Until those deltas are propagated into the relevant `*_clean.json` batches, the Round-17 dossier/ledger supersedes older exact wording at the listed loci.
 
 ## MS38_004_001_061_004 — “Sankhya + Buddhism”
 
@@ -23,6 +28,7 @@ Current source-critical policy is governed by `QUELLENFORSCHUNG_CURRENT_GATE.md`
 - Text coverage: **71/71 first pass complete**.
 - Material coverage: **71/71 visual overview complete; selected high-value pages directly/high-resolution reviewed**.
 - Round-16 propagation: **p.41–42 material/text distinction written back into the clean transcription batch**.
+- Round-17 renewed originals: **p.6, p.8, pp.12–14, p.18, p.20, p.22, p.33, pp.47–48 directly re-read; several former blind loci upgraded to W3.**
 
 Batches:
 
@@ -31,9 +37,9 @@ Batches:
 - `archive_transcriptions/MS38_004_001_061_004_p037-054_clean.json`
 - `archive_transcriptions/MS38_004_001_061_004_p055-071_clean.json`
 
-### Image-secure benchmark: pp.41–42
+### Stable benchmark: pp.41–42
 
-PDF p.41 contains a large diagram mapping dependent-origination / `nāmarūpa` relations against the khandhas. PDF p.42 / manuscript p.123 directly shows the hierarchy:
+PDF p.41 contains the diagrammatic mapping of dependent-origination / `nāmarūpa` relations against the khandhas. PDF p.42 / manuscript p.123 directly shows the hierarchy:
 
 `nāmarūpa → rūpam / nāma → vedanā / saññā / saṅkhārā / viññāṇam`
 
@@ -41,22 +47,26 @@ Immediately below, the image-secure key sentence reads:
 
 `Viññāṇa is temporally (?) antecedent to nāmarūpa and logically a subdivision of it.`
 
-The clean JSON now records the sentence, the diagram and the material-layout observation separately. No visible erasure creates the contrast. Safe claim: the page materially holds classificatory inclusion apart from temporal priority. This is a local working practice, not an origin claim about the later history-of-ideas method.
+Safe claim: the page materially holds classificatory inclusion apart from temporal priority. This is a local working practice, not an origin claim about the later history-of-ideas method.
+
+### Round-17 004 witness deltas
+
+- **p.6/MS21**: W3 for `Buddh. Agnosticism`, `Sabbāsava Sutta of F. Maj. Nik.`, and quotation onset; overwritten explanatory line stays W2.
+- **p.8/MS25**: major upgrade. Direct image reads `v. Oldenberg p. 204 — Gotama + leaves of Simsapa-wood.` The former `Oldenberg 204` conjecture is now manuscript evidence.
+- **pp.12–14/MS53–57**: W3 source-run start `Rhys Davids on Contemp. Date of Sankhya & Buddhism.` / `Am. Lect.: Buddhi., p. 24.`; p.14 right begins a visibly new underlined/numbered section, giving the local material endpoint of the continuous run.
+- **p.18/MS65**: W3 for the opening practical-agnosticism reweighting, including `not a necessary interpretation`.
+- **p.20/MS71**: W3 programme frame `The most that can be hoped for in F. present effort ...` plus `through a careful analysis + comparison of texts;`; middle phrase stays partly uncertain.
+- **p.22/MS75**: W3 Warren attribution to `identity` and Lovejoy's `But not so` objection.
+- **p.33/MS97**: W3 Hardy grammar: `fact of continued existence` versus `manner of continued existence?`, `Hardy, p.394`; visible question mark retained.
+- **pp.47–48/MS133–135**: named-source seams secured: `Oldbg.` and `Senart: "À propos de la théorie bouddhique des douze nidānas"`.
 
 ### Remaining 004 text-hygiene queue
 
-The remaining work is concentrated, not a new whole-notebook transcription:
+This is now smaller:
 
-- p.6/MS21 Sabbāsava source heading/page notation;
-- p.8/MS25 Siṃsapā source string and conjectured `Oldenberg 204 f.`;
-- pp.12–16 Rhys Davids 1896 start/end source marks;
-- p.17 punctuation around `To R.D.'s remark it should be added`;
-- p.18 practical-agnosticism paragraph;
-- p.20 `present effort` paragraph;
-- p.22 Warren `identity` sentence punctuation;
-- p.29 Childers/Müller source numerals and transition;
-- p.33 Hardy p.394 fact/manner grammar;
-- pp.47–52 Senart/Oldenberg source and quotation boundaries plus compressed Pāli/Sanskrit forms.
+- p.17 exact new-witness location/punctuation around `To R.D.'s remark it should be added`;
+- p.29 Childers/Müller exact source numerals and transition grammar;
+- pp.49–52 clause-level Senart/Oldenberg quotation boundaries plus compressed Pāli/Sanskrit forms.
 
 Published-paper cross-read remains `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md`.
 
@@ -65,8 +75,9 @@ Published-paper cross-read remains `research_notes/MS38_004_001_061_004_vs_1898_
 - Source PDF: 120 pages.
 - Source SHA-256: `7ebf4e672bdb2267e71a9c6b617df2078f057b1f23858f2770a3f9de004d96ad`.
 - Text coverage: **120/120 first pass complete**.
-- Material coverage: **120/120 visual overview complete; former MD-006 priority pages directly/high-resolution reviewed**.
+- Material coverage: **120/120 visual overview complete; selected high-value pages directly/high-resolution reviewed**.
 - Round-16 propagation: **pp.78–80, pp.85–86, p.117 and p.119 corrected/annotated in the clean JSON batches**.
+- Round-17 renewed originals: **p.10, p.11, p.62, pp.89–90 directly re-read; one prior bibliographic expansion withdrawn.**
 
 Batches:
 
@@ -81,7 +92,7 @@ Batches:
 
 ### Provenance/material chronology
 
-005 is a physically accretive, longitudinal notebook rather than a single-date object.
+005 remains a physically accretive, longitudinal notebook rather than a single-date object.
 
 - strong Paris 1898–99 core, with EPHE/Marillier course alignment and documented active participation by Lovejoy;
 - direct page headings/anchors include `May 29`, `Marillier — Survivance — 12 June`, and `Hist. Relig. — Dec. 20, 1905.`;
@@ -89,66 +100,36 @@ Batches:
 - major inserted/foldout layers occur approximately pp.29–37, pp.49–54 and pp.92–100, with smaller slips at pp.46 and p.119;
 - physical insertion proves accretion, not insertion date.
 
-### Material-form benchmarks
+### Round-16 propagated benchmarks
 
-- pp.16–20: revisions/emphasis cluster at the boundary between ritual/social/customary determinants, strict moral desert and missionary-source criticism;
-- pp.24–27: numbered/Roman-numeral schemas convert ethnographic material into explicit classes and locally revise their boundaries;
-- p.103: developmental proposal → branching diagram → chronology/vicious-circle stress test.
+- **p.78/MS157**: `Trumbull, "Blood-Covenant" 2?`; external pp.268f/299 remain collation loci only.
+- **pp.79–80/MS159–161**: `Translation of Zulu prayer given by Lewis Grout, q.v.`, `veritable bargain`, anti-deferred-payment formula, `notion of substitution, like scape-goat`, and `May F. cow carry away F. evil wh. is in me.` are image-secure.
+- **pp.85–86/MS173–175**: exact anchors `V. Trumbull Blood Cov't 118.` and `(quot. Trumbull p.129)` bracket the sequential-reading inference.
+- **p.117**: ranked distributional synthesis is W3: greatest number alimentary/anthropophagic; next most numerous expiatory/propitiatory; `A human sacrifice for union is altogether exceptional`.
+- **p.119**: prior neat organ-quality arrows withdrawn; image supports `specific virtue or force`, some part/function associations, uncertainty about others, and part-as-representative-of-whole.
 
-### Round-16 transcription corrections now propagated
+### Round-17 005 witness deltas
 
-**p.78 / MS157**
-
-Manuscript source line frozen as `Trumbull, "Blood-Covenant" 2?`. The uncertain numeral is not expanded from external content matching. External pp.268f/299 remain collation loci only.
-
-**pp.79–80 / MS159–161**
-
-Image-secure strings now in the clean transcription include:
-
-- `Translation of Zulu prayer given by Lewis Grout, q.v.`;
-- `F. prayer ... a veritable bargain`;
-- `not "Give me & I will give you F. cow afterwards"`;
-- `notion of substitution, like scape-goat`;
-- `May F. cow carry away F. evil wh. is in me.`
-
-This corrects the former normalized chronology: the manuscript explicitly contrasts the rite with a simple deferred-payment formula.
-
-**pp.85–86 / MS173–175**
-
-Exact source anchors now image-secure in the clean JSON:
-
-- `V. Trumbull Blood Cov't 118.`
-- `(quot. Trumbull p.129)`
-
-These bracket a strong sequential-reading inference through Trumbull pp.118–129. Intervening clauses remain mixed diplomatic/editorial unless independently re-read.
-
-**p.117**
-
-The clean summary has been replaced by image-secure ranked wording. The page distinguishes `gt. number of cases` alimentary/anthropophagic, `next most numerous cases` expiatory/propitiatory, and states `A human sacrifice for union is altogether exceptional`. One following comparative clause remains illegible.
-
-**p.119**
-
-The prior neat organ-quality arrows are withdrawn. The page supports a `specific virtue or force` mechanism, some visible part/function associations, uncertainty about others, and an explicit alternative in which the selected part stands `as a repr. of [the] whole body`. A separate right-hand slip remains physically/textually separate.
+- **p.10/MS17**: direct line `American Legends, v. Brint.` The manuscript field is frozen at `Brint.` rather than silently expanded.
+- **p.11/MS19**: W3 for `V. Rink`, `Tales & Traditions of F. Eskimos`, and `p. 36-37`; intervening imprint/parenthetical remains W2.
+- **p.62/MS125**: major correction. Direct image reads `Enc. Brtt. art. [overwritten/illegible], for good bibliography & fair sketch of subject.` Earlier `Brinton, article [title uncertain]` expansion is withdrawn. The title position is physically overwritten and remains unrecovered.
+- **pp.89–90/MS181–183**: Kingsley page-run is now W3 at the manuscript level: `Kingsley, Travels of W. Afr. 511` and later `Miss Kingsley ... 525`.
 
 ### Remaining 005 text-hygiene queue
 
 - pp.3–6 local Lovejoy wording versus Marillier/programme language;
-- p.10 `American Legends, V. [Brinton?]` and Yarrow/Powers marks;
-- p.11 exact Rink wording/page references;
 - p.27 / p.29 / p.47 headings + first paragraphs where local wording matters;
-- p.62 exact Brinton item after `art.`;
-- p.89 exact Kingsley page/reference run;
 - p.103 exact authorities/source marks around the already image-secure diagram.
 
 ## 191-page material closure and current access state
 
-The 2026-08-27 material audit remains canonical for page form:
+The 2026-08-27 material audit remains canonical for its recorded page-form inspection level:
 
 - `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`;
 - `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`.
 
-Coverage remains **191/191 overview**. The newly re-supplied split witnesses are present at full coverage. In the current execution environment their page-image channel returns `Image unavailable` and raw-byte materialization is not authorized; therefore no fresh line reading is invented from an inaccessible render. Existing Round-16 corrections derive from earlier direct/high-resolution image controls already recorded in the repository. The residual queue is left explicitly open until blind pixels are available.
+Coverage remains **191/191 overview**. The newly re-supplied split witnesses are now directly readable at page-image level in the active execution environment. The former `Image unavailable` blocker is lifted. Fresh line readings must still be recorded page by page; overview-level review is never promoted silently into diplomatic transcription.
 
 ## Current archive state
 
-**004 71/71 + 005 120/120 FIRST PASS COMPLETE / MATERIAL 191/191 OVERVIEW COMPLETE / ROUND-16 IMAGE-SECURE DELTAS PROPAGATED / LAYOUT TREATED AS INDEPENDENT EVIDENCE / REMAINING WORK = SMALL BLIND PALEOGRAPHY QUEUE, NOT A NEW ARCHIVE SWEEP.**
+**004 71/71 + 005 120/120 FIRST PASS COMPLETE / MATERIAL 191/191 OVERVIEW COMPLETE / ROUND-16 IMAGE-SECURE DELTAS PROPAGATED / ROUND-17 ORIGINAL-WITNESS HYGIENE ACTIVE / FORMER BLIND QUEUE SUBSTANTIALLY REDUCED / p.62 `BRINTON` OVER-EXPANSION WITHDRAWN / NEXT = RESIDUAL PAGE-LEVEL VERIFICATION + CONTROLLED PROPAGATION, NOT A NEW ARCHIVE SWEEP.**
