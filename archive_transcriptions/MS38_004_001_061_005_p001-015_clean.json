@@ -18,7 +18,8 @@
       "Do not silently reconstruct illegible handwriting; mark [illegible], [?], or explain in uncertain_readings.",
       "Proper names and ethnographic titles are retained only where visually supported; uncertain bibliography is explicitly flagged.",
       "The original OCR file is referenced by filename and SHA-256; this batch stores corrected text only."
-    ]
+    ],
+    "status": "first pass complete; direct-original second-pass corrections propagated for pp.3–6, including moral/natural wording and the p.6 purification heading"
   },
   "research_signals_from_batch": [
     "Future-life beliefs are treated as initially continuous with this-worldly status rather than intrinsically moral.",
@@ -27,7 +28,8 @@
     "Many so-called primitive traditions explain death as non-natural: death requires a specific supernatural, sorcerous, accidental, or taboo-breaking cause.",
     "Origin-of-death myths include failed rejuvenation, mistaken messages, breaking taboos, hostile spirits, and Pandora/Hesiod-type narratives.",
     "The notebook draws repeatedly on ethnographic literature including Wyatt Gill, Brough Smyth, Codrington, Duff MacDonald, and Rink.",
-    "The analytic outline on PDF pp. 14–15 explicitly treats future-life doctrine as heterogeneous: naturalistic continuity, ritual determinants, social/community determinants, and eventually strictly moral guilt."
+    "The analytic outline on PDF pp. 14–15 explicitly treats future-life doctrine as heterogeneous: naturalistic continuity, ritual determinants, social/community determinants, and eventually strictly moral guilt.",
+    "Direct-original control of pp.3–6 sharpens the mechanism: Lovejoy distinguishes moral reward from continuity of status, physical or magical power, direct vengeance, manner of death, and ritual purification; p.6 explicitly concerns purification before entering the other life, not a generic 'primitive' heading."
   ],
   "pages": [
     {
@@ -50,33 +52,43 @@
       "pdf_page": 3,
       "manuscript_page_label": "3 [?]",
       "page_type": "notes",
-      "corrected_text": "[heading / page label uncertain]\n\nF. [future] life by little & little [develops?]; ideas of reward [and/or] moral ideas in F. world gradually get transferred to, or supplemented in, another world whose existence is already believed in.\n\nBut what is meant by moral notions? They certainly do not apply to all F. distinctions wh. savage [mind makes]. Thus when we find A. F. rich in F. next life are still rich, we cannot call A. [continuance] a case of recompense for virtue. Only when F. reward or punishment is applied as a result of [retributive] justice in F. life, wh. tells them both to have been [punished] or rewarded. So are we to make a distinction bet. real & supernatural qualities of F. savage man. Such a distinction does not exist for F. savage mind.",
-      "transcription_confidence": "medium-low",
-      "uncertain_readings": ["Opening heading and several connecting words.", "The phrase around “recompense for virtue” is only partly legible.", "‘retributive’ is a contextual reading and remains uncertain."]
+      "corrected_text": "Nov. 10. [remaining heading uncertain]\n\nLittle by little ideas of reward arise in F. world & gradually get transferred to, or supplemented in, another world whose existence is already believed in.\n\nBut what is meant by moral notions? They certainly do not apply to all F. distinctions wh. savage [mind makes]. Thus when we find A. F. rich in F. next life are still rich, we cannot call A. [continuance] a case of recompense for virtue. Only when F. reward or punishment is applied as a result of [retributive] justice in F. life, wh. tells them both to have been [punished] or rewarded. So are we to make a distinction bet. nat. & supernatural qualities of F. savage man. Such a distinction does not exist for F. savage mind.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Heading after ‘Nov. 10.’ remains difficult.", "The phrase around “recompense for virtue” is only partly legible.", "‘retributive’ is a contextual reading and remains uncertain."],
+      "text_layer": "direct_image_corrected_key_phrases_plus_conservative_summary",
+      "witness_status": "W3 for ‘Nov. 10.’, transfer/supplement sequence, and ‘nat. & supernatural qualities’; W1-W2 for intervening syntax",
+      "editorial_argument_summary": "The page treats moral/reward ideas as later material transferred into or supplementing an already believed-in other world, and warns that the analyst's natural/supernatural distinction is not native to the conceptual scheme being described."
     },
     {
       "pdf_page": 4,
       "manuscript_page_label": "5 [?]",
       "page_type": "notes",
-      "corrected_text": "Tre is no diff. bet. before [philos.?] strength of one man & F. superior control over nature of another. Both endowments are equally natural, or supernatural, if you will. It is common among savages to regard both as then reflected, reflected in F. life after death. F. man who was a prince remains a prince; therefore no moral notion here. As little is tre belief A. F. man who has magical power in life will have magical power beyond F. grave. What a man is A. he [remains].\n\nNo more again can religious devotion be held to imply an idea of a moral sort. Those who is faithful in sacrifice [etc.] will perhaps be rewarded after death; but he merely means A., e.g., his sacrifices [and] F. god have become [illegible] in a purely quasi-mechanical manner; rites, practically, F. [means] of heaven, &c. So far among savages it might refer to F. future life; implies no judgment. F. last merely A. its victims who have died before him will [illegible].",
-      "transcription_confidence": "medium-low",
-      "uncertain_readings": ["Several words in the opening sentence.", "Passage on sacrifice/gods is partly illegible.", "Last sentence continues onto the next page and is incomplete here."]
+      "corrected_text": "Tre is no diff. bet. F. superior phys. strength of one man & F. superior control over nature of another. Both endowments are equally natural, or supernatural, if you will. It is common among savages to regard both as then reflected in F. life after death. F. man who was a prince remains a prince; therefore no moral notion here. As little is tre belief A. F. man who has magical power in life will have magical power beyond F. grave. What a man is A. he [remains].\n\nNo more again can religious devotion be held to imply an idea of a moral sort. Those who is faithful in sacrifice [etc.] will perhaps be rewarded after death; but he merely means A., e.g., his sacrifices [and] F. god have become [illegible] in a purely quasi-mechanical manner; rites, practically, F. [means] of heaven, &c. So far among savages it might refer to F. future life; implies no judgment. F. last merely A. its victims who have died before him will [illegible].",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Passage on sacrifice/gods is partly illegible.", "Last sentence continues onto the next page and is incomplete here."],
+      "text_layer": "direct_image_corrected_key_sentence_plus_first_pass_remainder",
+      "witness_status": "W3 for ‘superior phys. strength’ versus ‘superior control over nature’ and their afterlife continuity"
     },
     {
       "pdf_page": 5,
       "manuscript_page_label": "7",
       "page_type": "notes",
-      "corrected_text": "[continuation]\n\n[beyond F. grave] will prove hostile on his voyage to F. land of F. dead. F. citations given in M. Surviv. F. idea is one of simple & direct vengeance; [several words illegible]. And finally where tre is punishment by F. gods, [the idea remains] in large part natural [rather than moral].\n\nBut while F. other [feature?] is a [different] one, it is not probable A. copy of F. terrestrial world of today but of yesterday; the morality supposed to be reigning there is commonly a little traditional & obsolete.\n\nSuch is F. general outline of views F. held w. [respect to] F. future life.",
-      "transcription_confidence": "medium-low",
-      "uncertain_readings": ["First half of left page is faint and compressed.", "‘M. Surviv.’ is Lovejoy’s abbreviated source reference; expansion uncertain.", "The final clause after ‘views’ is partly obscured."]
+      "corrected_text": "[continuation]\n\n[beyond F. grave] will prove hostile on his voyage to F. land of F. dead. V. citations given in M. Surviv. F. idea is one of simple & direct vengeance, wh. one expects even fr. F. souls of dogs &c. A. one has maltreated. And finally where tre is punishment by F. gods, [it is at first vengeance for offences/crimes against the gods themselves; exact syntax partly uncertain].\n\nGenerally as a double of F. world, it is not perhaps a copy of F. terrestrial world of today but of yesterday; the morality supposed to be reigning there is commonly a little traditional & obsolete.\n\nSuch is F. general outline of views F. held w. [respect to] F. future life.",
+      "transcription_confidence": "medium",
+      "uncertain_readings": ["Exact syntax of the clause on punishment by the gods remains compressed.", "‘M. Surviv.’ is Lovejoy’s abbreviated source reference; expansion uncertain.", "The final clause after ‘views’ is partly obscured."],
+      "text_layer": "direct_image_corrected_key_text_with_bracketed_hold",
+      "witness_status": "W3 for ‘simple & direct vengeance’, the dogs example, and the ‘world of today but of yesterday’ contrast"
     },
     {
       "pdf_page": 6,
       "manuscript_page_label": "9",
       "page_type": "notes",
-      "corrected_text": "Primitive bef. entering F. life.\n\nCases where F. common people do not survive at all; F. soul [is destroyed?] or are devoured by F. gods. F. fut. destiny depends not exclusively upon condition in life, but also upon F. manner of death — special regions for those who die of suicide, the drowned & women dead in childbirth, &c. The fact we shall see later [in] rites of purification [connected] w. F. surviv.\n\nTo be noted A. survivance, rather than immort., is F. [idea] of F. savage. Immort. is almost foreign to his conception; it is not an idea primitive. There is more: in a great number of cases tre is F. belief in a second death, or even in many successive deaths by wh. F. soul gradually dwindles away to F. point of annihilation. V. Surviv. [abbreviated reference], a series of beliefs showing diff. names & of diff. types & gradation.",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["One verb in the first sentence on souls not surviving.", "Abbreviated source after ‘V. Surviv.’", "Closing words after ‘gradation’ are not securely legible."]
+      "corrected_text": "Purification bef. entering other life.\n\nCases where F. common people do not survive at all; F. souls lacking suff. force, perish, or are devoured by F. gods. F. fut. destiny depends not exclusively upon condition in life, but also upon F. manner of death — tre are special regions for those who die of suicide, the drowned & women dead in childbirth, &c. The facts we shall see later [in] rites of purification [connected] w. F. surviv.\n\nTo be noted A. survivance, rather than immort., is F. idea of F. savage. Immort. is almost foreign to his conception; it is not an idea primitive. What is more, in a great number of cases tre is F. belief in a second death, or even in many successive deaths by wh. F. soul gradually dwindles away to F. point of annihilation. V. Surviv. [abbreviated reference], a series of beliefs showing diff. names & of diff. types & gradation.",
+      "transcription_confidence": "medium-high for key claims; medium for final reference",
+      "uncertain_readings": ["Abbreviated source after ‘V. Surviv.’", "Closing words after ‘gradation’ are not securely legible."],
+      "text_layer": "direct_image_corrected_key_text",
+      "witness_status": "W3 for heading, ‘souls lacking suff. force, perish’, manner-of-death distinction, and survivance/immortality contrast",
+      "editorial_argument_summary": "The original corrects the former heading ‘Primitive bef. entering F. life.’ to ‘Purification bef. entering other life.’ The page treats post-mortem fate as heterogeneous: some souls fail to survive, manner of death redirects destiny, and survivance itself can end in successive deaths and annihilation."
     },
     {
       "pdf_page": 7,
