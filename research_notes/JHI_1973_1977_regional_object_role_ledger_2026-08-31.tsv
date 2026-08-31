@@ -1,0 +1,22 @@
+issue	year	strict_substantive_units	strict_regional_hits	strict_internal_tradition_hits	strict_comparative_hits	strict_contact_transformation_hits	civilizational_textual_hold	expanded_review_hits	source_state	control_note
+34.1	1973	11	0	0	0	0	0	0	DIRECT_JSTOR_TOC	6 ordinary articles + 3 Notes + 2 Discussion; Review-Article excluded
+34.2	1973	10	0	0	0	0	0	0	DIRECT_JSTOR_TOC	5 ordinary + 2 Discussion + 3 Notes; Review-Article excluded
+34.3	1973	12	0	0	0	0	1	0	DIRECT_JSTOR_TOC	7 ordinary + 5 Notes; `Old Testament Law and Economic Society` retained as CIVILIZATIONAL_TEXTUAL_HOLD rather than forced into geographic non-Western count
+34.4	1973	15	0	0	0	0	0	0	DIRECT_JSTOR_TOC_COMPACT	15 substantive article/note/discussion/reply/rejoinder units before review/books/front-back matter
+35.1	1974	13	1	0	1	0	0	0	DIRECT_JSTOR_TOC	`Ideological Superstructure in Gramsci and Mao Tse-Tung` coded COMPARATIVE_COCASE; 7 ordinary + 6 Notes
+35.2	1974	12	0	0	0	0	0	0	DIRECT_JSTOR_TOC	matched substantive denominator; reviews/books/front-back matter excluded
+35.3	1974	10	1	1	0	0	0	0	DIRECT_JSTOR_TOC	`Truth and Ideology: The Confucian Way ... and its Transmission` coded INTERNAL_TRADITION_OBJECT; 6 ordinary + 4 Notes
+35.4	1974	11	1	1	0	0	0	0	DIRECT_JSTOR_TOC	`The Tradition of Monistic Democracy in Latin America` coded INTERNAL_TRADITION_OBJECT; 7 ordinary + 4 Notes
+36.1	1975	12	0	0	0	0	0	1	DIRECT_JSTOR_TOC	strict layer excludes Review-Article `Importance of the History of Ideas in Latin America: Zea's Positivism in Mexico`; retained expanded carrier hit
+36.2	1975	11	0	0	0	0	0	0	DIRECT_JSTOR_TOC	strict substantive units only
+36.3	1975	13	0	0	0	0	0	0	DIRECT_JSTOR_TOC	13 substantive title units before Books Received; no regional hit under current title rule
+36.4	1975	10	0	0	0	0	0	0	DIRECT_JSTOR_TOC	strict layer excludes Review-Article `Three Recent Books on Pragmatism`
+37.1	1976	12	0	0	0	0	1	0	ITEM_LEVEL_METADATA_RECONSTRUCTION	JSTOR issue landing access unstable; 12 article-level units reconstructed from direct/secondary bibliographic item metadata; `Maimonides, Spinoza, and the Field Concept in Physics` retained as CIVILIZATIONAL_TEXTUAL_HOLD, not geographic internal-tradition hit
+37.2	1976	10	0	0	0	0	0	0	DIRECT_JSTOR_TOC	5 ordinary + 5 Notes; `Machiavelli Studies since 1969` treated as bibliographic survey and excluded to match PT bibliography exclusion; Review-Article excluded
+37.3	1976	11	2	1	0	1	0	0	DIRECT_JSTOR_TOC	`Positivism and History in Nineteenth-Century Chile` = INTERNAL_TRADITION_OBJECT; `Posthumous Christianization of the Inca Empire in Colonial Peru` = CONTACT_TRANSFORMATION; 7 ordinary + 4 Notes
+37.4	1976	10	0	0	0	0	0	0	DIRECT_JSTOR_TOC	10 substantive units before Books Received
+38.1	1977	12	0	0	0	0	0	0	DIRECT_JSTOR_TOC	6 ordinary + 6 Notes; Review-Article/erratum excluded
+38.2	1977	12	0	0	0	0	1	0	DIRECT_JSTOR_TOC	5 ordinary + 7 Notes; `Copernicus in the Hebraic Literature...` retained as CIVILIZATIONAL_TEXTUAL_HOLD rather than geographic regional hit; Review-Article excluded
+38.3	1977	12	0	0	0	0	0	0	DIRECT_JSTOR_TOC	6 ordinary + 6 Notes; Review-Article excluded
+38.4	1977	14	0	0	0	0	0	1	DIRECT_JSTOR_TOC	7 ordinary + 4 Notes + 3 Discussion units; Review-Article `Recent Books Which Relate Indian and Western Philosophy` retained expanded carrier hit
+TOTAL	1973-1977	233	5	3	1	1	3	2	HARMONIZED_CENSUS	strict title-level regional hits sparse overall; role composition is analytically more informative than raw share
