@@ -105,18 +105,85 @@ For the selected-part mechanism:
 
 The 005→1906 bridge remains viable at the level of **transferable efficacy / force**, but the manuscript should no longer be cited for the fully normalized three-arrow body-part schema. Publication-side comparison must use the weaker and more faithful formulation until exact words are collated.
 
+## Round 16.3 — MS38_004_001_061_005 PDF pp.79–80 / MS pp.159–161
+
+### Original-image result
+
+This pass confirms the direct source label and recovers a more precise transactional sequence. On p.79 the source line is image-secure:
+
+> `Translation of Zulu prayer given by Lewis Grout, q.v.`
+
+The same page visibly records the preliminary diagnosis in terms of an ancestral shade, sacrifice, a diviner, and a demanded sacrifice specifying a particular cow. Lovejoy then characterizes the prayer as:
+
+> `a veritable bargain`
+
+The continuation on p.80 matters because the earlier clean reading compressed the temporal order. The manuscript explicitly contrasts the actual rite with a deferred-payment formula:
+
+> `not "Give me & I will give you F. cow afterwards"`
+
+The surrounding wording indicates greater confidence in the ancestor than that deferred formula would imply, while Lovejoy still says it is necessary to propitiate the ancestor's anger. Later on the page he writes:
+
+> `notion of substitution, like scape-goat`
+
+and gives the image-secure formula:
+
+> `May F. cow carry away F. evil wh. is in me.`
+
+The closing classification on p.80 visibly separates alimentary / expiatory & funerary functions from a union reading. The exact noun immediately before `union` remains slightly uncertain, but the negative distinction is secure.
+
+### Correction to the prior clean reading
+
+The clean p.79–80 summary got the main causal architecture right, but one chronological detail was too smooth: it could be read as though the cow were promised after cure. The manuscript instead makes the animal part of the present transaction and explicitly says the rite is **not** the simple deferred quid-pro-quo `Give me ... and I will give you the cow afterwards`.
+
+The following claims are now secure enough to carry separately:
+
+- Lewis Grout is a **direct manuscript source node** for this Zulu prayer;
+- `veritable bargain` is Lovejoy's own visible characterization;
+- the case includes a distinct substitution/scapegoat mechanism;
+- the clean summary's later fetish/skull/horn details remain useful as an analytic reconstruction but are not all yet diplomatic at the same level.
+
+### W/S/T/A recalibration
+
+- **W3** for the Grout source line, `veritable bargain`, the anti-deferred-payment contrast, and the scapegoat quotation;
+- **W2-W3** for the connecting ritual sequence and later protective-object details;
+- **S3 / T3** for Lewis Grout as the directly named carrier of the prayer;
+- **A2** for Lovejoy's local classification of transaction, substitution, and non-union functions.
+
+## Round 16.4 — MS38_004_001_061_005 PDF p.78 / MS p.157
+
+### Original-image result
+
+The Trumbull bibliographic line is directly readable as:
+
+> `Trumbull, "Blood-Covenant" 2?`
+
+The mark after `2` is not a recoverable multi-digit page number on the manuscript image. It looks uncertain in Lovejoy's own hand and should remain uncertain in transcription.
+
+### Correction to the prior clean/source-collation layer
+
+Earlier source work proposed p.268f and p.299 as strong content loci. Those remain legitimate **external-source collation targets**, but they are not recoverable manuscript numerals. The manuscript field and the external collation field must therefore stay separate:
+
+- diplomatic bibliographic mark: `2?`;
+- external content localization: 268f / 299 only if independently justified by source comparison.
+
+### W/S/T/A recalibration
+
+- **W3** for the bibliographic title and uncertain numeral `2?`;
+- **W2** for parts of the surrounding compressed argument;
+- **S/T** remain to be assigned at the external-collation stage rather than back-projected into the witness.
+
 ## Round 16 queue
 
 Next high-priority original-image checks:
 
-1. 005 pp.79-80 — Zulu ancestral-sacrifice sequence, but note that the existing clean reading was already viewed during this working session, so this will be an image-controlled recheck rather than a perfectly source-blind first pass;
-2. 005 p.78 — Trumbull numeral/locus;
-3. 005 p.62 — exact Brinton sacrifice item;
-4. 005 p.10 — `American Legends V [name]` paleography;
-5. 004 p.13/p.42 and other Round-15 priority loci after the 005 late-synthesis block is closed.
+1. 005 p.62 — exact Brinton sacrifice item; the earlier image checkpoint suggests the post-`art.` wording is authorially overwritten, so the purpose is to freeze the diplomatic state rather than force a title;
+2. 005 p.10 — `American Legends, v. Brint.` propagation into the correction layer;
+3. 005 pp.85–86 — preserve explicit Trumbull p.118 / p.129 anchors and check intervening wording;
+4. 005 p.89 — Kingsley / fetish-amuletry wording;
+5. 004 priority loci, beginning with p.6/MS21 and p.12/MS53, after the 005 high-risk transcription block is closed.
 
 ## Repository authority
 
-Until the clean JSON batch is propagated, the correction ledger
+Until the clean JSON batches are propagated, the correction ledger
 `research_notes/MS38_005_transcription_corrections_round16_original_image_2026-08-31.csv`
-controls exact quotation from pp.117 and 119 and supersedes the older editorial-summary wording at those loci.
+controls exact quotation from pp.78–80, 117 and 119 and supersedes older analytic-summary wording at those loci.
