@@ -18,7 +18,8 @@
       "Do not silently reconstruct illegible handwriting; mark [illegible], [?], or explain in uncertain_readings.",
       "Sanskrit/Pali spellings are transcribed as legibly as possible; modern normalized forms are not silently substituted.",
       "The original OCR file is referenced by filename and SHA-256; this GitHub transcription file stores corrected text only to keep the archival layer compact."
-    ]
+    ],
+    "status": "first pass complete; original-image second pass verified for pp.6-8 and pp.12-18; p.6 substantive technical-term correction secured"
   },
   "research_signals_from_batch": [
     "Sankhya method: pramana, syllogism, perception, testimony",
@@ -26,7 +27,8 @@
     "Flux/impermanence and the continuity problem",
     "Chronological priority and possible relation of Sankhya and Buddhism",
     "Brahma-jala / Digha-Nikaya classification of sixty-two heresies",
-    "Lovejoy’s comparison of Sankhya dualism with early Buddhist formulations about self, world, soul/body, and future life"
+    "Lovejoy’s comparison of Sankhya dualism with early Buddhist formulations about self, world, soul/body, and future life",
+    "Direct-image second pass shows Lovejoy separating isolated doctrines or antecedent thinkers from a later system as a whole: he calls the chronological evidence for an early fully formed Sankhya doubtful and explicitly rejects a Brahma-jala passage as good evidence that the Sankhya system already existed as a whole."
   ],
   "pages": [
     {
@@ -73,9 +75,12 @@
       "pdf_page": 6,
       "manuscript_page_label": "21",
       "page_type": "notes",
-      "corrected_text": "Buddh. Agnosticism\n[heading abbreviated/uncertain in manuscript]\n\nSabbasava Sutta of F. Maj. Nik. [?]. First of F. several is F. “considering of things wh. ought not to be considered.”\n\n“Unwisely does he consider thus: Have I existed during F. ages of F. past, or not? What was I during F. ages of F. past? How was I? Having been what, what did I become during F. ages of F. past? Shall I exist in F. future, or shall I not? etc. [The] questions above are repeated for F. future. Or he debates thus w. himself as to F. present: Do I really exist, or do I not? What am I? How am I? Whence did this being come? Whither will it go? In him then unwisely considering there springs up one or another”",
-      "transcription_confidence": "medium",
-      "uncertain_readings": ["heading/source line; abbreviated reference to Majjhima Nikaya"]
+      "corrected_text": "Buddh. Agnosticism\n\nSabbasava Sutta of t. Maj. Nik. [abbreviated source line partly uncertain]. 1. first source of all āsavas is t. “considering of things wh. ought not to be considered.”\n\n“Unwisely does he consider thus: Have I existed during F. ages of F. past, or not? What was I during F. ages of F. past? How was I? Having been what, what did I become during F. ages of F. past? Shall I exist in F. future, or shall I not? etc. [The] questions above are repeated for F. future. Or he debates thus w. himself as to F. present: Do I really exist, or do I not? What am I? How am I? Whence did this being come? Whither will it go? In him then unwisely considering there springs up one or another”",
+      "transcription_confidence": "medium-high",
+      "uncertain_readings": ["exact abbreviated source line after Sabbasava Sutta"],
+      "text_layer": "direct_image_corrected_key_text",
+      "witness_status": "W3 for ‘first source of all āsavas’ reading",
+      "editorial_argument_summary": "Original-image recheck corrects the prior nonsensical first-pass phrase ‘First of the several’: Lovejoy is explicitly identifying a first source of all āsavas, namely considering things that ought not to be considered."
     },
     {
       "pdf_page": 7,
@@ -83,7 +88,7 @@
       "page_type": "notes",
       "corrected_text": "[continuation from preceding page]\n\n“of F. 6 heretical notions: [uncertain passage on the views ‘I have a self,’ ‘I have no self,’ and the permanence of self]. … ‘this self of mine wh. is permanent, lasting, eternal, not subject to change, enduring’ … This F. walker in heresy, F. jungle of heresy, F. wilderness of heresy.”\n\nOn F. certain passages of F. Sutta Nipata, esp. F. Atthaka-vagga, the seeker in possession of an auto-philos. sort wh. cannot be accepted for on the grounds. Though it might be regarded as merely satirical expression of contempt for F. false & fruitless reasoning of F. heretics, & as inquisitiveness agt disputation for F. sake of disputation, wh., by cultivating intellectual pride, will obviously increase rather than diminish attachment to existence. But some sentences are more extreme in tone; e.g. (S.N. 911) “A Brahmana is no follower of heretical doctrines, he is not a friend of knowledge (ñana [?]), & having destroyed acquired opinions wh. have arisen, he is indifferent to learning while others acquire it.” Again, “Not by opinion, not by tradition, not by knowledge, do F. wise call any one a Muni.” But these must be taken in conjunction w. other passages, e.g. w. other passage below in F. [next page].",
       "transcription_confidence": "low-medium",
-      "uncertain_readings": ["opening quotation on six heretical notions; one Pali/Sanskrit term after ‘knowledge’"]
+      "uncertain_readings": ["opening quotation on six heretical notions; one Pali/Sanskrit term after ‘knowledge’; exact syntax of the first sentence on Sutta Nipata remains difficult despite direct-image inspection"]
     },
     {
       "pdf_page": 8,
