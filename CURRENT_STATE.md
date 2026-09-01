@@ -47,6 +47,12 @@ Image order: notebook 004 PDF p.42 / manuscript p.123, subject to JHU permission
 
 The authoritative corrected text is the set of twelve paginated clean JSON batches in `archive_transcriptions/`. No aggregate `MS38_004_clean.json` or `MS38_005_clean.json` is current or required.
 
+The integrated human-readable edition is:
+
+`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`
+
+It presents 004 pp.1–71 followed by 005 pp.1–120 and retains page metadata, confidence, witness/text-layer status, supplementary evidence fields, and uncertainty lists. It is generated from, and must remain exactly synchronized with, the twelve canonical JSON batches.
+
 Source-critical authority:
 
 - `ARCHIVE_TRANSCRIPTION_PROGRESS.md`;
@@ -188,4 +194,4 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 
 ## Restart shorthand
 
-> **Current = one living state, one stable canonical index, twelve paginated clean notebook batches, and terminal dossiers. 004 is conceptually closed after targeted original-image recheck; 005 has broad targeted rechecks through Round 20 but no full second-pass closure. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. Blog v3.4 is production-held, not research-blocked.**
+> **Current = one living state, one stable canonical index, one integrated 191-page reading edition generated from twelve paginated clean notebook batches, and terminal dossiers. 004 is conceptually closed after targeted original-image recheck; 005 has broad targeted rechecks through Round 20 but no full second-pass closure. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. Blog v3.4 is production-held, not research-blocked.**

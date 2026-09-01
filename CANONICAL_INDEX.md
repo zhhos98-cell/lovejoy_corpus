@@ -12,6 +12,7 @@ This is the repository's current routing surface. `CURRENT_STATE.md` controls br
 | Current project state | `CURRENT_STATE.md` |
 | Notebook coverage and residual limits | `ARCHIVE_TRANSCRIPTION_PROGRESS.md` |
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
+| Integrated page-by-page reading edition | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
 | Working/governance rules | `WORKING_RULES.md` |
 | Current Blog source | `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` |
 | Publication-facing evidence ceilings | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
@@ -22,6 +23,10 @@ The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` is retained as a histor
 ## 2. Notebook text and material authority
 
 ### Authoritative clean text
+
+Human-readable integrated edition:
+
+- `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` — 004 pp.1–71 + 005 pp.1–120, generated deterministically from the following canonical batches.
 
 Notebook 004:
 

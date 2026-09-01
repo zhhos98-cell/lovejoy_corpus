@@ -16,6 +16,12 @@ These categories are not interchangeable. In particular, `corrected_text` in the
 
 Current protocol: `QUELLENFORSCHUNG_CURRENT_GATE.md`.
 
+Integrated human-readable edition:
+
+`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`
+
+It contains all 191 PDF pages in sequence and is deterministically generated from the twelve canonical batches. The Markdown is the reading surface; the JSON batches remain the machine-readable authority.
+
 ## Notebook 004 — “Sankhya + Buddhism”
 
 - Source PDF: 71 pages.
