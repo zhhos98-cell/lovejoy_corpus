@@ -23,9 +23,25 @@ REQUIRED = (
     "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
     "QUELLENFORSCHUNG_CURRENT_GATE.md",
     "WORKING_RULES.md",
+    "root_payload_index.md",
+    "archive_index/README.md",
+    "archive_transcriptions/README.md",
+    "research_notes/README.md",
     "archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md",
-    "research_notes/REPOSITORY_CLEANUP_2026-09-01.md",
+    "research_notes/repository_cleanup_2026-09-02.md",
 )
+
+ROOT_CONTROL_FILES = {
+    ".gitignore",
+    "README.md",
+    "CURRENT_STATE.md",
+    "TRANSCRIPTION_COMPLETION_QUEUE.md",
+    "CANONICAL_INDEX.md",
+    "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
+    "QUELLENFORSCHUNG_CURRENT_GATE.md",
+    "WORKING_RULES.md",
+    "root_payload_index.md",
+}
 
 CANONICAL_BATCHES = (
     ("archive_transcriptions/MS38_004_001_061_004_p001-018_clean.json", 1, 18),
@@ -85,6 +101,16 @@ def main() -> int:
     for relative in REQUIRED:
         if not (ROOT / relative).is_file():
             errors.append(f"missing required file: {relative}")
+
+    root_index_path = ROOT / "root_payload_index.md"
+    root_index_text = (
+        root_index_path.read_text(encoding="utf-8") if root_index_path.is_file() else ""
+    )
+    for path in files:
+        if path.parent != ROOT or path.name in ROOT_CONTROL_FILES:
+            continue
+        if f"`{path.name}`" not in root_index_text:
+            errors.append(f"unindexed root payload: {path.name}")
 
     parsed_json = 0
     for path in files:
@@ -158,6 +184,10 @@ def main() -> int:
         "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
         "QUELLENFORSCHUNG_CURRENT_GATE.md",
         "WORKING_RULES.md",
+        "root_payload_index.md",
+        "archive_index/README.md",
+        "archive_transcriptions/README.md",
+        "research_notes/README.md",
     )
     for relative in living_docs:
         path = ROOT / relative
