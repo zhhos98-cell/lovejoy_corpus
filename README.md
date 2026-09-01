@@ -2,7 +2,7 @@
 
 Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comparative religion, political thought, philosophical practice, and the prehistory of his historical method.
 
-**Current state (2026-09-02):** the JHI Blog text is at v3.4 (1,880 body words; four endnotes) and remains on production hold. Notebook 004 has 71/71 first-pass page coverage plus a conceptually closed targeted original-image second pass for the present argument, but it is not a full diplomatic edition. Notebook 005 has 120/120 first-pass page coverage plus targeted original-image rechecks through Round 20, but its diplomatic transcription is still incomplete. The AOS 1897 presentation, election, and publication-path questions have direct-primary closure at the stated evidence ceilings.
+**Current state (2026-09-02):** the JHI Blog text is at v3.4 (1,880 body words; four endnotes) and remains on production hold. Notebook 004 has 71/71 first-pass page coverage plus a conceptually closed targeted original-image second pass for the present argument, but it is not a full diplomatic edition. Notebook 005 has 120/120 first-pass page coverage plus targeted original-image rechecks through Round 20, but its diplomatic transcription is still incomplete. Source collation for 005 pp.31–36 has substantially narrowed the Marillier source packets without changing the diplomatic text. The AOS 1897 presentation, election, and publication-path questions have direct-primary closure at the stated evidence ceilings.
 
 **Important:** `191/191` means page coverage and material overview, not manuscript transcription completion.
 
@@ -17,8 +17,10 @@ Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comp
 5. [`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`](archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md) — integrated working reading surface, 004 pp.1–71 followed by 005 pp.1–120. The legacy filename contains `final`; this is not a claim of full diplomatic completion.
 6. [`QUELLENFORSCHUNG_CURRENT_GATE.md`](QUELLENFORSCHUNG_CURRENT_GATE.md) — governing source-critical protocol.
 7. [`WORKING_RULES.md`](WORKING_RULES.md) — repository and evidence-governance rules.
+8. Directory maps: [`archive_transcriptions/README.md`](archive_transcriptions/README.md), [`archive_index/README.md`](archive_index/README.md), and [`research_notes/README.md`](research_notes/README.md).
+9. [`root_payload_index.md`](root_payload_index.md) — inventory and preservation policy for legacy source/OCR/metadata/export files retained in the root.
 
-The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` and earlier state files are historical snapshots. They no longer route current work.
+The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` and earlier state files are historical snapshots. They no longer route current work. The current structural cleanup record is `research_notes/repository_cleanup_2026-09-02.md`.
 
 ## Current research boundary
 
@@ -56,7 +58,7 @@ Notebooks 004 and 005 remain the archival center.
 - Authoritative page records: the twelve paginated `archive_transcriptions/MS38_004_001_061_{004,005}_p*_clean.json` files. Their `corrected_text` fields are heterogeneous and may contain diplomatic text, readable fragments, or editorial argument summaries.
 - Machine-readable direct-image audit trails: the Round-17 and Round-18 delta JSON files in `archive_transcriptions/`.
 
-Current transcription restart order is 005 pp.31–36, pp.42–43, then pp.47–60 before continuing the rest of 005 page by page. See `TRANSCRIPTION_COMPLETION_QUEUE.md` for completion criteria.
+Current transcription restart order is 005 pp.31–36, pp.42–43, then pp.47–60 before continuing the rest of 005 page by page. For pp.31–36, `research_notes/MS38_005_pp031-036_Marillier_source_collation_2026-09-02.md` should be open beside the image: it narrows source identification but explicitly cannot license Lovejoy's exact manuscript wording. See `TRANSCRIPTION_COMPLETION_QUEUE.md` for completion criteria.
 
 The highest-value material control remains notebook 004, PDF p.42 / manuscript p.123. `viññāṇa` is spatially nested under `nāma/nāmarūpa`, while adjacent prose treats it as temporally antecedent and logically a subdivision. The page holds distinct relation types apart without licensing an origin story about the later unit-idea method.
 
@@ -70,11 +72,14 @@ The highest-value material control remains notebook 004, PDF p.42 / manuscript p
 | Source-critical policy | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Integrated working reading surface | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
 | Machine-readable page authority | paginated `archive_transcriptions/*_clean.json` batches |
+| Transcription directory map | `archive_transcriptions/README.md` |
+| Archive discovery/custody map | `archive_index/README.md` |
+| Research-note routing/provenance map | `research_notes/README.md` |
 | Audit and provenance | delta JSON/CSV, material manifest, `archive_index/`, terminal dossiers |
 | Historical process | dated batches, sweeps, old state deltas, queues, and superseded notes in Git history |
-| Legacy payloads | root OCR, metadata, source exports, and source texts retained at stable paths |
+| Legacy root payloads | indexed in `root_payload_index.md`; retained at stable paths |
 
-The root payload layout is known structural debt. Moving large OCR/source files would break many historical references, so any migration to `sources/`, `ocr/`, `data/`, or `exports/` must be a separately mapped path migration.
+The root payload layout remains known structural debt, but it is now explicitly inventoried. Moving large OCR/source files would break many historical references, so any migration to `sources/`, `ocr/`, `data/`, or `exports/` must be a separately mapped path migration with a redirect map and reference rewrite.
 
 ## JHI production state
 
@@ -90,7 +95,7 @@ Run:
 python tools/audit_repository.py
 ```
 
-The audit checks the required navigation surface, parses every tracked JSON file, validates the twelve canonical clean-transcription batches, verifies that the integrated 191-page reading surface exactly matches them, and reports Markdown links to missing local files. Structural validation does not itself certify diplomatic completeness.
+The audit checks the required navigation surface, parses every tracked JSON file, validates the twelve canonical clean-transcription batches, verifies that the integrated 191-page reading surface exactly matches them, reports Markdown links to missing local files, detects exact-content duplicates, and now requires every non-control tracked root payload to be registered in `root_payload_index.md`. Structural validation does not itself certify diplomatic completeness.
 
 ## Reopening rule
 

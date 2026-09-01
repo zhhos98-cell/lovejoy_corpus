@@ -17,9 +17,13 @@ This is the repository's current routing surface. `CURRENT_STATE.md` controls br
 | Working/governance rules | `WORKING_RULES.md` |
 | Current Blog source | `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` |
 | Publication-facing evidence ceilings | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
-| Repository cleanup record | `research_notes/REPOSITORY_CLEANUP_2026-09-01.md` |
+| `research_notes/` routing | `research_notes/README.md` |
+| Transcription-directory authority map | `archive_transcriptions/README.md` |
+| Archive-index authority map | `archive_index/README.md` |
+| Legacy root payload inventory | `root_payload_index.md` |
+| Repository cleanup record | `research_notes/repository_cleanup_2026-09-02.md` |
 
-The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` is retained as a historical freeze snapshot. It is no longer current navigation.
+The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` is retained as a historical freeze snapshot. `research_notes/REPOSITORY_CLEANUP_2026-09-01.md` records the preceding authority-consolidation pass. Neither overrides current routing.
 
 ## 2. Notebook text and material authority
 
@@ -59,6 +63,8 @@ There are no current aggregate `MS38_004_clean.json` or `MS38_005_clean.json` fi
 - `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`
 - `research_notes/MS38_004_005_transcription_corrections_round17_original_image_2026-09-01.csv`
 
+Directory-local authority and mutation rules: `archive_transcriptions/README.md`.
+
 ## 3. Current archival routing
 
 ### Diplomatic completion
@@ -69,7 +75,7 @@ Start with:
 
 Current restart order:
 
-1. 005 pp.31–36 — low/low-medium confidence inserted leaves with substantial untranscribed or illegible wording;
+1. 005 pp.31–36 — source packets are now substantially narrowed by `research_notes/MS38_005_pp031-036_Marillier_source_collation_2026-09-02.md`, but diplomatic wording remains open because printed-source collation cannot substitute for direct image reading;
 2. 005 pp.42–43 — partial Greek lexical/textual slips;
 3. 005 pp.47–60 — explicit Round-20 handoff, preserving existing later upgrades at p.49, p.53, and p.55;
 4. remaining 005 blocks page by page;
@@ -84,13 +90,14 @@ Current restart order:
 
 State: 71/71 first pass; targeted second-pass conceptual queue closed for present argument; exact diplomatic residue remains.
 
-### Notebook 005 targeted-control dossiers
+### Notebook 005 targeted-control and source-collation dossiers
 
+- `research_notes/MS38_005_pp031-036_Marillier_source_collation_2026-09-02.md` — external-source collation; narrows source packets, does not change diplomatic text.
 - `research_notes/QUELLENFORSCHUNG_round18b_005_source_evaluation_jurisdiction_and_insert_layers_2026-09-01.md`
 - `research_notes/MS38_005_round19_p003-006_moral_natural_purification_direct_image_2026-09-01.md`
 - `research_notes/MS38_005_round20_p016-030_contact_sociality_marillier_insert_recheck_2026-09-01.md`
 
-State: 120/120 first-pass page coverage plus broad targeted original-image checks through Round 20; diplomatic transcription active and incomplete.
+State: 120/120 first-pass page coverage plus broad targeted original-image checks through Round 20; diplomatic transcription active and incomplete. For pp.31–36, the source-identification problem is narrower than the manuscript-transcription problem.
 
 ## 4. AOS 1897, Milinda, and publication selection
 
@@ -159,11 +166,11 @@ These lines calibrate unit, relation, revision, carrier, and canon claims. They 
 
 ## 9. Provenance layers
 
-- `archive_index/`: archive coverage, locators, entity resolution, custody, and search provenance.
-- `archive_transcriptions/`: canonical page records, delta registers, and material audits.
-- `research_notes/`: terminal dossiers plus historical batch/process provenance.
-- root payloads: legacy OCR, metadata, source text, and exports kept at stable paths.
-- Git history: superseded state/navigation files and process history.
+- `archive_index/` — archive coverage, locators, entity resolution, custody, and search provenance; see `archive_index/README.md`.
+- `archive_transcriptions/` — canonical page records, delta registers, material audits, and integrated reading surface; see `archive_transcriptions/README.md`.
+- `research_notes/` — terminal dossiers plus historical batch/process provenance; see `research_notes/README.md`.
+- root payloads — legacy OCR, metadata, source text, and exports retained at stable paths and inventoried in `root_payload_index.md`.
+- Git history — superseded state/navigation files and removed supersession-only process material.
 
 A historical note can contain useful evidence while its `ACTIVE`, `HOLD`, `final`, `complete`, or `next action` language is obsolete. Follow the authority chain above.
 
