@@ -1,18 +1,19 @@
 # Lovejoy corpus — canonical index
 
-Last synchronized: 2026-09-01
+Last synchronized: 2026-09-02
 Status: **CURRENT STABLE NAVIGATION**
 
-This is the repository's current routing surface. `CURRENT_STATE.md` controls branch state. Dated canonical indices, state deltas, sync logs, batch notes, and queue language are historical unless this file or `CURRENT_STATE.md` explicitly routes to them.
+This is the repository's current routing surface. `CURRENT_STATE.md` controls branch state. `TRANSCRIPTION_COMPLETION_QUEUE.md` controls the distinction between page coverage and diplomatic manuscript completion. Dated canonical indices, state deltas, sync logs, batch notes, and queue language are historical unless one of these living files explicitly routes to them.
 
 ## 1. Core authority
 
 | Need | Use |
 |---|---|
 | Current project state | `CURRENT_STATE.md` |
+| Diplomatic transcription completion and exact restart pages | `TRANSCRIPTION_COMPLETION_QUEUE.md` |
 | Notebook coverage and residual limits | `ARCHIVE_TRANSCRIPTION_PROGRESS.md` |
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
-| Integrated page-by-page reading edition | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
+| Integrated working page-by-page reading surface | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
 | Working/governance rules | `WORKING_RULES.md` |
 | Current Blog source | `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` |
 | Publication-facing evidence ceilings | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
@@ -22,11 +23,11 @@ The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` is retained as a histor
 
 ## 2. Notebook text and material authority
 
-### Authoritative clean text
+### Authoritative page records
 
-Human-readable integrated edition:
+Integrated working reading surface:
 
-- `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` — 004 pp.1–71 + 005 pp.1–120, generated deterministically from the following canonical batches.
+- `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` — 004 pp.1–71 + 005 pp.1–120, generated deterministically from the canonical batches. The legacy filename contains `final`; it is not a claim of full diplomatic transcription.
 
 Notebook 004:
 
@@ -46,7 +47,9 @@ Notebook 005:
 - `archive_transcriptions/MS38_004_001_061_005_p091-105_clean.json`
 - `archive_transcriptions/MS38_004_001_061_005_p106-120_clean.json`
 
-There are no current aggregate `MS38_004_clean.json` or `MS38_005_clean.json` files. The paginated batches are authoritative.
+There are no current aggregate `MS38_004_clean.json` or `MS38_005_clean.json` files. The paginated batches are authoritative page records.
+
+**Critical status rule:** `corrected_text` is heterogeneous. It may contain diplomatic visible wording, direct-image key fragments plus conservative summary, or an editorial argument summary. Page presence and `191/191` coverage therefore do not establish diplomatic completion.
 
 ### Material and audit trails
 
@@ -56,26 +59,38 @@ There are no current aggregate `MS38_004_clean.json` or `MS38_005_clean.json` fi
 - `research_notes/MS38_004_005_material_form_closure_2026-08-27.md`
 - `research_notes/MS38_004_005_transcription_corrections_round17_original_image_2026-09-01.csv`
 
-The `*_clean.json` field `corrected_text` is heterogeneous: it may contain diplomatic visible text or an editorial argument summary. Use each record's evidence/status fields and the source-critical gate before exact quotation.
+## 3. Current archival routing
 
-## 3. Current archival terminal dossiers
+### Diplomatic completion
 
-### Notebook 004
+Start with:
+
+- `TRANSCRIPTION_COMPLETION_QUEUE.md`
+
+Current restart order:
+
+1. 005 pp.31–36 — low/low-medium confidence inserted leaves with substantial untranscribed or illegible wording;
+2. 005 pp.42–43 — partial Greek lexical/textual slips;
+3. 005 pp.47–60 — explicit Round-20 handoff, preserving existing later upgrades at p.49, p.53, and p.55;
+4. remaining 005 blocks page by page;
+5. 004 only when the goal expands from present argument control to a full diplomatic edition.
+
+### Notebook 004 argument-control dossiers
 
 - `research_notes/Lovejoy_original_image_second_pass_cross_notebook_recheck_2026-09-01.md`
 - `research_notes/QUELLENFORSCHUNG_round18_residual004_broad005_hygiene_2026-09-01.md`
 - `research_notes/MS38_004_round19_direct_image_reference_and_lexical_refinements_2026-09-01.md`
 - `research_notes/MS38_004_round17c_p049-052_material_page_form_addendum_2026-09-01.md`
 
-State: 71/71 first pass; targeted second-pass conceptual queue closed; exact diplomatic micro-residue remains.
+State: 71/71 first pass; targeted second-pass conceptual queue closed for present argument; exact diplomatic residue remains.
 
-### Notebook 005
+### Notebook 005 targeted-control dossiers
 
 - `research_notes/QUELLENFORSCHUNG_round18b_005_source_evaluation_jurisdiction_and_insert_layers_2026-09-01.md`
 - `research_notes/MS38_005_round19_p003-006_moral_natural_purification_direct_image_2026-09-01.md`
 - `research_notes/MS38_005_round20_p016-030_contact_sociality_marillier_insert_recheck_2026-09-01.md`
 
-State: 120/120 first pass plus broad targeted original-image checks through Round 20; not a complete second-pass closure.
+State: 120/120 first-pass page coverage plus broad targeted original-image checks through Round 20; diplomatic transcription active and incomplete.
 
 ## 4. AOS 1897, Milinda, and publication selection
 
@@ -145,13 +160,13 @@ These lines calibrate unit, relation, revision, carrier, and canon claims. They 
 ## 9. Provenance layers
 
 - `archive_index/`: archive coverage, locators, entity resolution, custody, and search provenance.
-- `archive_transcriptions/`: canonical clean text, delta registers, and material audits.
+- `archive_transcriptions/`: canonical page records, delta registers, and material audits.
 - `research_notes/`: terminal dossiers plus historical batch/process provenance.
 - root payloads: legacy OCR, metadata, source text, and exports kept at stable paths.
 - Git history: superseded state/navigation files and process history.
 
-A historical note can contain useful evidence while its `ACTIVE`, `HOLD`, or `next action` language is obsolete. Follow the authority chain above.
+A historical note can contain useful evidence while its `ACTIVE`, `HOLD`, `final`, `complete`, or `next action` language is obsolete. Follow the authority chain above.
 
 ## 10. Reopening rule
 
-Reopen only for a new/direct primary bearing on a live proposition, a contradiction in current evidence, publication-level exact verification, or a materially necessary actor-level reconstruction of an analytical category already in use. Generic web/archive expansion and stale queues do not reactivate a frozen branch.
+Research-argument reopening and transcription completion are separate. Reopen a frozen research line only for a new/direct primary bearing on a live proposition, a contradiction in current evidence, publication-level exact verification, or a materially necessary actor-level reconstruction of an analytical category already in use. Continue the diplomatic transcription queue whenever manuscript completion is the archival objective.
