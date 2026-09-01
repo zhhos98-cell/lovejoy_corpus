@@ -89,7 +89,7 @@ JSTOR stable URL:
 Internet Archive text:
 `https://archive.org/stream/pt2journalofamer19ameruoft/pt2journalofamer19ameruoft_djvu.txt`
 
-The published article opens by defining its problem as the meaning of `upādāna` and the kindred `upādi-`, and proceeds through Pitaka usage. JSTOR's reference extraction shows that the article cites the **Milinda Pañha** repeatedly (including pp. 65, 32/33, and 60 in the cited edition).
+The published article opens by defining its problem as the meaning of `upādāna` and the kindred `upādi-`, and proceeds through Pitaka usage. Later direct collation, recorded in `research_notes/Milinda_witness_reassignment_MS97_direct_image_Trenckner_p32_correction_2026-09-01.md`, fixes the three explicit **Milinda Pañha** loci as Trenckner pp. 65, 32, and 60. The earlier p.32/33 ambiguity is superseded.
 
 Therefore the evidentiary status of the 1897 -> 1898 relation must be upgraded.
 
