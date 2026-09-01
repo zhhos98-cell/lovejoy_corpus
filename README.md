@@ -10,9 +10,10 @@ Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comp
 
 1. [`CURRENT_STATE.md`](CURRENT_STATE.md) — compact living state and exact restart points.
 2. [`CANONICAL_INDEX.md`](CANONICAL_INDEX.md) — stable navigation surface for current evidence.
-3. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook coverage, authority, and remaining limits.
-4. [`QUELLENFORSCHUNG_CURRENT_GATE.md`](QUELLENFORSCHUNG_CURRENT_GATE.md) — governing source-critical protocol.
-5. [`WORKING_RULES.md`](WORKING_RULES.md) — repository and evidence-governance rules.
+3. [`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`](archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md) — integrated human-readable transcription, 004 pp.1–71 followed by 005 pp.1–120.
+4. [`ARCHIVE_TRANSCRIPTION_PROGRESS.md`](ARCHIVE_TRANSCRIPTION_PROGRESS.md) — notebook coverage, authority, and remaining limits.
+5. [`QUELLENFORSCHUNG_CURRENT_GATE.md`](QUELLENFORSCHUNG_CURRENT_GATE.md) — governing source-critical protocol.
+6. [`WORKING_RULES.md`](WORKING_RULES.md) — repository and evidence-governance rules.
 
 The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` and earlier state files are historical snapshots. They no longer route current work.
 
@@ -46,6 +47,7 @@ Notebooks 004 and 005 remain the archival center.
 - 004: 71/71 first-pass pages; targeted original-image second pass conceptually closed; micro-paleographic residue remains.
 - 005: 120/120 first-pass pages; broad targeted original-image rechecks completed through Round 20; no claim of full second-pass closure.
 - Combined material-form overview: 191/191 pages.
+- Human-readable final reading surface: `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`.
 - Authoritative corrected text: the twelve paginated `archive_transcriptions/MS38_004_001_061_{004,005}_p*_clean.json` files.
 - Machine-readable direct-image audit trails: the Round-17 and Round-18 delta JSON files in `archive_transcriptions/`.
 
@@ -58,7 +60,8 @@ The highest-value material control remains notebook 004, PDF p.42 / manuscript p
 | Living state | `CURRENT_STATE.md` |
 | Current navigation | `CANONICAL_INDEX.md` |
 | Source-critical policy | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
-| Authoritative notebook text | paginated `archive_transcriptions/*_clean.json` batches |
+| Human-readable notebook edition | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
+| Machine-readable notebook authority | paginated `archive_transcriptions/*_clean.json` batches |
 | Audit and provenance | delta JSON/CSV, material manifest, `archive_index/`, terminal dossiers |
 | Historical process | dated batches, sweeps, old state deltas, queues, and superseded notes in Git history |
 | Legacy payloads | root OCR, metadata, source exports, and source texts retained at stable paths |
@@ -79,7 +82,7 @@ Run:
 python tools/audit_repository.py
 ```
 
-The audit checks the required navigation surface, parses every tracked JSON file, validates the twelve canonical clean-transcription batches, and reports Markdown links to missing local files.
+The audit checks the required navigation surface, parses every tracked JSON file, validates the twelve canonical clean-transcription batches, verifies that the integrated 191-page edition exactly matches them, and reports Markdown links to missing local files.
 
 ## Reopening rule
 
