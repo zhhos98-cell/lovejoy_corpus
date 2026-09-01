@@ -93,6 +93,11 @@ Three weaker or supersession-only AOS process notes were removed after the stron
 - `research_notes/AOS_1897_membership_History_of_Religions_Section_and_Lovejoy_status_2026-09-01.md`
 - `research_notes/AOS_1897_Lovejoy_membership_and_history_of_religions_section_infrastructure_2026-09-01.md`
 
+Two additional membership/network notes arrived concurrently on `main` after the cleanup branch was cut. They repeated the already superseded pre-proceedings state (`actual delivery`, formal Section creation, and election mechanism still queued) and were removed during the integrated-transcription pass:
+
+- `research_notes/AOS_1897_Lovejoy_membership_History_of_Religions_Section_and_Lowell_network_2026-09-01.md`
+- `research_notes/AOS_1897_membership_history_of_religions_section_Lovejoy_status_2026-09-01.md`
+
 Their historical content remains recoverable in Git. None was a raw source, transcription, machine-readable audit record, or unique terminal dossier.
 
 ## 5. Files intentionally preserved
