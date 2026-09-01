@@ -31,7 +31,7 @@ PDF coverage: 71/71 pages.
 ### Integrated corrected text
 
 > A. O. Lovejoy
-> Sankhya + Buddhism
+> Sankhya & Buddhism
 >
 > Harvard Cooperative Society.
 
@@ -67,8 +67,8 @@ PDF coverage: 71/71 pages.
 
 > Index.
 >
-> Anicca, p. 49–52,
-> Gotama, p. 131, 169,
+> Aniccaṃ p.49–52,
+> Anattaṃ p.131, 169,
 > Agnosticism, p. 21.
 
 ### Uncertain readings
@@ -85,13 +85,13 @@ PDF coverage: 71/71 pages.
 
 ### Integrated corrected text
 
-> The Method of the Sankhya
+> _The Method of the Sankhya_
 > Garbe p. 150
 > [For bibliog. problem, etc. see other note-book.]
 >
-> “All the Hindu systems manifest a genuine philosophical temper in that they recognize the necessity of giving an account of the sources of knowledge acknowledged by them. The usual wd for a source of kn. is pramana; etymologically = that whereby anything is measured off, accurately established, discovered as real knowledge (pramiti).
+> “All the Hindu systems manifest a genuine philosophical temper in that they recognize the necessity of giving an account of the sources of knowledge acknowledged by them. The usual wd for a source of kn. is pramana; etymologically = that whereby anything is measured off, accurately established, discovered as real knowledge (pramā).
 >
-> The systems differ in the number of pramanas; but in the discussion of that one wh. is most important, and accepted by all schools as the distinctively philosophical method of proof, viz. the syllogism, the text-book”
+> The systems differ in the number of pramanas; but in the discussion of that one wh. is most important, and accepted by all schools as the distinctively philosophical _method of proof_, viz. the syllogism, the text-book”
 
 ### Uncertain readings
 
@@ -109,14 +109,14 @@ PDF coverage: 71/71 pages.
 
 > [continuation from preceding page]
 >
-> “of the orthodox systems show pretty complete agreement. The probable terminology, definitions, examples are on this point almost uniformly the same. This much indicates that the results of the logic worked out by the Nyaya-Vaisesika School had been adopted by the other schools as an established logical method. Consequently when we find a similar theory of the syllogism in certain Sankhya writings (e.g. S.-t.-k. & S. [illegible] Bhasya) we must recognize an alien element; which fact however a European expositor of the Sankhya need notice only in so far as it bears upon the method of the system.
+> “of the orthodox systems show pretty complete agreement. The probable terminology, definitions, examples are on this point almost uniformly the same. This much indicates that the results of the logic worked out by the Nyaya-Vaisesika School had been adopted by the other schools as an established logical method. Consequently when we find a similar theory of the syllogism in certain Sankhya writings (e.g. S.-t.-k. & S. [illegible] Bhashya) we must recognize an alien element; which fact however a European expositor of the Sankhya need notice only in so far as it bears upon the method of the system.
 >
 > Our system recognizes 3 sources of knowledge:
 > 1. Perception (pratyaksha, drishta)
 > 2. Syllogism (anumana)
-> 3. Certain reliable testimony (aptavacana, sabda).
+> 3. Certain <reliable> testimony (aptavacana, sabda).
 >
-> 1. Perception. Defined, Karika 5 as ‘apprehension of indiv. objects.’ First F. [?] says in Sutra I, 89 as ‘F. function of that wh., on contact (w. a thing) represents the form of that thing.’”
+> 1. Perception. Defined, Karika 5 as ‘apprehension of indiv. objects.’ First F. [?] says in _Sutra I, 89_ as ‘the function of that wh., on contact (w. a thing) represents the form of that thing.’”
 
 ### Uncertain readings
 
