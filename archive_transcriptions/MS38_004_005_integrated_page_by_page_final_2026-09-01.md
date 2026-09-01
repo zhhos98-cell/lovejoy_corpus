@@ -136,11 +136,11 @@ PDF coverage: 71/71 pages.
 
 ### Integrated corrected text
 
-> Buddh. Agnosticism
+> Bist. Agnosticism
 >
-> Sabbasava Sutta of t. Maj. Nik. [abbreviated source line partly uncertain]. 1. first source of all āsavas is t. “considering of things wh. ought not to be considered.”
+> _Sabbāsava Sutta_ of t. _Maj. Nik_. [abbreviated source line partly uncertain]. 1. first source of all āsavas is t. “considering of things wh. ought not to be considered.”
 >
-> “Unwisely does he consider thus: Have I existed during F. ages of F. past, or not? What was I during F. ages of F. past? How was I? Having been what, what did I become during F. ages of F. past? Shall I exist in F. future, or shall I not? etc. [The] questions above are repeated for F. future. Or he debates thus w. himself as to F. present: Do I really exist, or do I not? What am I? How am I? Whence did this being come? Whither will it go? In him then unwisely considering there springs up one or another”
+> “Unwisely does he consider thus: Have I existed during t. ages of t. are past, or not? What was I during t. ages of t. past? How was I [?]? Having been what, what did I become during t. ages of t. past? Shall I exist in t. future, or shall I not? etc. [The] questions above are repeated for t. future. Or he debates thus w. himself as to t. present: Do I really exist, or do I not? What am I? How am I? Whence did this being come? Whither will it go? In him then unwisely considering there springs up one or another”
 
 ### Editorial argument summary
 
