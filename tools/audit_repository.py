@@ -22,6 +22,7 @@ REQUIRED = (
     "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
     "QUELLENFORSCHUNG_CURRENT_GATE.md",
     "WORKING_RULES.md",
+    "archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md",
     "research_notes/REPOSITORY_CLEANUP_2026-09-01.md",
 )
 
@@ -118,6 +119,16 @@ def main() -> int:
         errors.append("canonical 004 coverage is not exactly pages 1-71")
     if covered.get("005") != list(range(1, 121)):
         errors.append("canonical 005 coverage is not exactly pages 1-120")
+
+    integrated_check = subprocess.run(
+        [sys.executable, "tools/build_integrated_transcription.py", "--check"],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+    )
+    if integrated_check.returncode != 0:
+        detail = integrated_check.stderr.strip() or integrated_check.stdout.strip()
+        errors.append(f"integrated transcription check failed: {detail}")
 
     broken_links: list[str] = []
     for path in files:
