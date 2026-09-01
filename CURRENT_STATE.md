@@ -1,16 +1,17 @@
 # Lovejoy corpus — current state
 
-Last synchronized: 2026-09-01
-Status: **JHI v3.4 HOLD / ARCHIVE 004 TARGETED SECOND PASS CONCEPTUALLY CLOSED / 005 TARGETED SECOND PASS ACTIVE, NOT FULLY CLOSED / AOS 1897 DIRECT-PRIMARY CLOSURE / UNIT×RELATION v0.7**
+Last synchronized: 2026-09-02
+Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 004 ARGUMENT-CONTROL CLOSED BUT NOT DIPLOMATICALLY COMPLETE / 005 DIPLOMATIC TRANSCRIPTION ACTIVE / AOS 1897 DIRECT-PRIMARY CLOSURE / UNIT×RELATION v0.7**
 
 This is the repository's single living state file. Historical status language elsewhere does not override it.
 
 ## Restart order
 
 1. `CURRENT_STATE.md` — this file.
-2. `CANONICAL_INDEX.md` — current navigation and authority map.
-3. `ARCHIVE_TRANSCRIPTION_PROGRESS.md` and `QUELLENFORSCHUNG_CURRENT_GATE.md` for notebook work.
-4. The terminal dossier named under the relevant branch below.
+2. `TRANSCRIPTION_COMPLETION_QUEUE.md` — active manuscript completion criteria and exact page queue.
+3. `CANONICAL_INDEX.md` — current navigation and authority map.
+4. `ARCHIVE_TRANSCRIPTION_PROGRESS.md` and `QUELLENFORSCHUNG_CURRENT_GATE.md` for notebook work.
+5. The terminal dossier named under the relevant branch below.
 
 ## 1. JHI Blog — production hold
 
@@ -39,28 +40,35 @@ Image order: notebook 004 PDF p.42 / manuscript p.123, subject to JHU permission
 
 ## 2. Archival core — authoritative state
 
-### Coverage
+### Coverage versus completion
 
-- notebook 004: 71/71 first-pass pages; targeted original-image second pass conceptually closed; micro-paleographic and foreign-language residue remains;
-- notebook 005: 120/120 first-pass pages; targeted original-image rechecks through Round 20; **not** a complete second-pass or diplomatic closure;
+- notebook 004: 71/71 first-pass pages; targeted original-image second pass conceptually closed for the present argument; micro-paleographic, foreign-language, and bibliographic residue remains; **not a full diplomatic edition**;
+- notebook 005: 120/120 first-pass pages; targeted original-image rechecks through Round 20; **diplomatic transcription remains active and incomplete**;
 - combined material-form overview: 191/191 pages.
 
-The authoritative corrected text is the set of twelve paginated clean JSON batches in `archive_transcriptions/`. No aggregate `MS38_004_clean.json` or `MS38_005_clean.json` is current or required.
+`191/191` is a coverage statement, not a completion statement. A populated `corrected_text` field can contain diplomatic visible wording, readable fragments, or an editorial argument summary. It must not be treated as proof that a page has been fully transcribed.
 
-The integrated human-readable edition is:
+Diplomatic completion authority:
+
+`TRANSCRIPTION_COMPLETION_QUEUE.md`
+
+The authoritative page records are the twelve paginated clean JSON batches in `archive_transcriptions/`. No aggregate `MS38_004_clean.json` or `MS38_005_clean.json` is current or required.
+
+The integrated human-readable reading surface is:
 
 `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`
 
-It presents 004 pp.1–71 followed by 005 pp.1–120 and retains page metadata, confidence, witness/text-layer status, supplementary evidence fields, and uncertainty lists. It is generated from, and must remain exactly synchronized with, the twelve canonical JSON batches.
+It presents 004 pp.1–71 followed by 005 pp.1–120 and retains page metadata, confidence, witness/text-layer status, supplementary evidence fields, and uncertainty lists. The stable filename contains `final`, but this is **not** a claim of full diplomatic completion. It is generated from, and must remain exactly synchronized with, the twelve canonical JSON batches.
 
 Source-critical authority:
 
+- `TRANSCRIPTION_COMPLETION_QUEUE.md`;
 - `ARCHIVE_TRANSCRIPTION_PROGRESS.md`;
 - `QUELLENFORSCHUNG_CURRENT_GATE.md`;
 - `archive_transcriptions/MS38_004_005_material_audit_manifest_2026-08-27.json`;
 - Round-17 and Round-18 machine-readable delta registers under `archive_transcriptions/`.
 
-### 004 closure
+### 004 argument-control closure
 
 The residual argument-bearing queue at p.17 and p.29 is closed by direct-image control. The earlier pp.49–52 conceptual blind queue is also closed. Main current controls include:
 
@@ -77,9 +85,9 @@ Terminal routing:
 - `research_notes/MS38_004_round19_direct_image_reference_and_lexical_refinements_2026-09-01.md`;
 - `research_notes/Lovejoy_original_image_second_pass_cross_notebook_recheck_2026-09-01.md`.
 
-004 is conceptually closed for the present argument. It is not advertised as a fully diplomatic edition.
+004 is conceptually closed for the present argument. It remains open as a future diplomatic-edition task if complete manuscript transcription becomes the goal.
 
-### 005 targeted second pass
+### 005 diplomatic transcription — active
 
 The broadened original-image pass has corrected or secured several mechanism-bearing loci:
 
@@ -94,13 +102,18 @@ The broadened original-image pass has corrected or secured several mechanism-bea
 - p.104: direction fixed as human sacrifice -> domestic-animal substitute, not the reverse;
 - pp.117–120: high-value terminal synthesis and mechanism loci rechecked.
 
+These controls establish research propositions; they do not complete the transcription of surrounding pages.
+
+Known incomplete zones include pp.31–36, where several inserted leaves remain low/low-medium confidence with substantial illegible or untranscribed text, and pp.42–43, where Greek lexical slips remain partial. Round 20 also explicitly hands off to pp.47–60.
+
 Terminal routing:
 
+- `TRANSCRIPTION_COMPLETION_QUEUE.md`;
 - `research_notes/QUELLENFORSCHUNG_round18b_005_source_evaluation_jurisdiction_and_insert_layers_2026-09-01.md`;
 - `research_notes/MS38_005_round19_p003-006_moral_natural_purification_direct_image_2026-09-01.md`;
 - `research_notes/MS38_005_round20_p016-030_contact_sociality_marillier_insert_recheck_2026-09-01.md`.
 
-Current archive action: continue only proposition-sensitive original-image rechecks in 005. Do not turn “120/120 first pass” into “full second-pass closure.”
+Current archive action: **finish 005 diplomatically page by page**, starting with pp.31–36, then pp.42–43, then pp.47–60, preserving later direct-image deltas already merged. After that, continue the remaining 005 blocks. Proposition-sensitive hygiene remains useful but no longer defines the completion boundary.
 
 ## 3. AOS 1897 and the 1898 publication path — direct-primary closure
 
@@ -173,6 +186,7 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 
 ## 6. Hard firewalls
 
+- `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
 - `A != B` does not prove independence.
 - `UNIT TYPE != RELATION TYPE`.
 - `UNIT TYPE BELONGS TO CLAIM`.
@@ -187,11 +201,12 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 
 ## 7. Exact next actions
 
-1. Archive: continue 005 proposition-sensitive original-image hygiene, starting only from unresolved mechanism/direction/source-attribution loci after checking current clean batches.
-2. AOS: obtain a true page image of JAOS 18 (1897), p.389 and diplomatically transcribe the full No. 30 title; then search correspondence/submission records for the version relation.
-3. Blog: when user/editor inputs are ready, regenerate the v3.4 DOCX and rerun render QA.
-4. Wider method control: direct-read a post-Mew Skinner text only if that comparative branch is intentionally resumed.
+1. Archive: follow `TRANSCRIPTION_COMPLETION_QUEUE.md`; begin 005 pp.31–36, then pp.42–43, then pp.47–60, and continue page by page.
+2. Archive after each batch: regenerate the integrated reading surface and run `python tools/audit_repository.py`.
+3. AOS: obtain a true page image of JAOS 18 (1897), p.389 and diplomatically transcribe the full No. 30 title; then search correspondence/submission records for the version relation.
+4. Blog: when user/editor inputs are ready, regenerate the v3.4 DOCX and rerun render QA.
+5. Wider method control: direct-read a post-Mew Skinner text only if that comparative branch is intentionally resumed.
 
 ## Restart shorthand
 
-> **Current = one living state, one stable canonical index, one integrated 191-page reading edition generated from twelve paginated clean notebook batches, and terminal dossiers. 004 is conceptually closed after targeted original-image recheck; 005 has broad targeted rechecks through Round 20 but no full second-pass closure. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. Blog v3.4 is production-held, not research-blocked.**
+> **Current = one living state, one stable canonical index, one explicit diplomatic-completion queue, one integrated 191-page working reading surface generated from twelve paginated page-record batches, and terminal dossiers. Page coverage is complete; manuscript transcription is not. 004 is argument-control closed but not a full diplomatic edition. 005 diplomatic transcription is active, restarting at pp.31–36, pp.42–43, then pp.47–60. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. Blog v3.4 is production-held, not research-blocked.**
