@@ -1,9 +1,9 @@
 # Lovejoy corpus — canonical index
 
 Date: 2026-08-28  
-Status: **FROZEN CANONICAL NAVIGATION / BASE + 2026-08-28 CONTROL LINES CONSOLIDATED**
+Status: **HISTORICAL SNAPSHOT / SUPERSEDED BY ROOT `CANONICAL_INDEX.md` ON 2026-09-01**
 
-This is the single current canonical navigation surface for the repository. `CURRENT_STATE.md` remains the authority for project state. Older canonical indices, sync logs, HOLD files, batch notes and queue language are historical/provenance unless this file or `CURRENT_STATE.md` explicitly routes to them.
+This file preserves the 2026-08-28 freeze state. It is no longer current navigation. Use root `CANONICAL_INDEX.md`; `CURRENT_STATE.md` remains the authority for project state.
 
 ## 1. Restart order
 
