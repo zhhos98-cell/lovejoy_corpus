@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 REQUIRED = (
     "README.md",
     "CURRENT_STATE.md",
+    "TRANSCRIPTION_COMPLETION_QUEUE.md",
     "CANONICAL_INDEX.md",
     "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
     "QUELLENFORSCHUNG_CURRENT_GATE.md",
@@ -152,6 +153,7 @@ def main() -> int:
     living_docs = (
         "README.md",
         "CURRENT_STATE.md",
+        "TRANSCRIPTION_COMPLETION_QUEUE.md",
         "CANONICAL_INDEX.md",
         "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
         "QUELLENFORSCHUNG_CURRENT_GATE.md",
@@ -185,7 +187,8 @@ def main() -> int:
 
     print(f"Tracked files: {len(files)}")
     print(f"Parsed JSON files: {parsed_json}")
-    print("Canonical clean coverage: 004=71/71, 005=120/120")
+    print("Canonical page coverage: 004=71/71, 005=120/120")
+    print("Diplomatic transcription completion is governed separately by TRANSCRIPTION_COMPLETION_QUEUE.md")
     if warnings:
         print(f"Warnings: {len(warnings)}")
         for warning in warnings:
@@ -195,7 +198,7 @@ def main() -> int:
         for error in errors:
             print(f"  ERROR {error}")
         return 1
-    print("Repository audit: PASS")
+    print("Repository structural audit: PASS")
     return 0
 
 
