@@ -1,6 +1,6 @@
 # Working rules
 
-Last updated: 2026-08-28
+Last updated: 2026-09-01
 
 ## 1. Durable-state rule
 
@@ -11,7 +11,7 @@ During an active research run:
 1. **Synchronize early and repeatedly.** Commit every material evidentiary result, correction, bounded negative, branch decision, or superseded hypothesis.
 2. **Optimize for restart safety.** A checkpoint should state what was tested, source/locator, result, warrant/confidence, what changed, and the exact next action.
 3. **Keep one living state.** `CURRENT_STATE.md` is the only authority for whether a branch is live, frozen, parked, or complete.
-4. **Use one current canonical index.** `research_notes/CANONICAL_INDEX_2026-08-28.md` is the routing surface for current evidence. Older indices are historical snapshots unless explicitly reactivated.
+4. **Use one current canonical index.** `CANONICAL_INDEX.md` is the stable routing surface for current evidence. Dated indices are historical snapshots unless explicitly reactivated.
 5. **Do not reconstruct from chat memory when repo state exists.** Restart from `CURRENT_STATE.md`, then the canonical index, then the terminal/source-specific dossier.
 6. **Record negative controls.** Failed locators and bounded negatives are evidence when they constrain claims; distinguish search-layer failure from archival absence.
 7. **Separate evidence levels.** Keep direct primary, mediated quotation, field control, analyst-level structural homology, and genealogy/influence claims distinct.
@@ -44,7 +44,7 @@ A frozen branch may reopen only when direct new primary evidence changes a live 
 The working tree should privilege:
 
 `CURRENT_STATE`
-→ `current canonical index`
+→ `CANONICAL_INDEX.md`
 → `terminal dossiers`
 → `evidence infrastructure / raw provenance`.
 
@@ -70,4 +70,4 @@ For the current Lovejoy project specifically:
 
 ## 5. Restart shorthand
 
-> **Read `CURRENT_STATE.md`, then `research_notes/CANONICAL_INDEX_2026-08-28.md`. Treat everything else as source, support, or history unless those two files say otherwise.**
+> **Read `CURRENT_STATE.md`, then `CANONICAL_INDEX.md`. Treat everything else as source, support, or history unless those two files say otherwise.**
