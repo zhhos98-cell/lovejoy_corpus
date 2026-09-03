@@ -122,9 +122,37 @@ Use:
 - `Skinner_1970_1974_Mew_counterexample_scope_revision_Hobbes_Locke_case_substitution_2026-08-31.md`
 - `Pocock_1973_1984_2009_same_text_carrier_reclassification_version_proofburden_2026-08-31.md`
 - `Haddock_1976_Vico_Anachronism_fulltext_1979_JHI_sameactor_method_case_reuse_2026-08-31.md`
-- `martin_guerre_21c_reappearances_history_of_knowledge_sidecar_2026-09-03.md` — non-genealogical sidecar on identification, proof, media, gendered knowledge, digital source remediation, epistemic portability, and the 2026 theatrical return.
 
-These calibrate unit, relation, revision, carrier, canon, warrant, and portability claims. They do not displace the Lovejoy archival core. The Martin Guerre sidecar is a comparative method control only: it does **not** enter the Lovejoy evidence chain and does not imply influence, transmission, or shared genealogy.
+### Martin Guerre twenty-first-century identification / verification control cluster
+
+Read as one non-genealogical comparative sequence:
+
+1. `martin_guerre_21c_reappearances_history_of_knowledge_sidecar_2026-09-03.md` — broad map: epistemic relocations, media, gendered knowledge, digital source remediation, and the 2026 theatrical return.
+2. `martin_guerre_21c_verification_regimes_digital_identity_proof_of_humanity_addendum_2026-09-03.md` — recognition → identification → authentication → biometrics/liveness → proof of humanity; introduces prospective enrollment as a variable.
+3. `martin_guerre_davis_about_denis_parliament_identification_regime_source_chain_2010_2020_2026-09-03.md` — direct scholarly-to-policy source-chain control; separates About/Denis's regime periodization from the separately cited Davis case.
+4. `martin_guerre_case_portability_vs_identification_concept_transmission_2007_2024_2026-09-03.md` — separates case itinerary from concept genealogy; introduces `retrospective protocolization` and braided transmission.
+5. `martin_guerre_identification_benchmark_convergent_recoding_cole_higgs_thorburn_cgd_2001_2018_2026-09-03.md` — Cole/Higgs/Thorburn/CGD control; replaces an unsupported single citation chain with `convergent recoding`.
+6. `martin_guerre_reference_state_manufacturing_witness_jurisdiction_nist_france_identite_2025_2026.md` — current-standards calibration; refines prospective enrollment into `recursive reference-state manufacturing` and tracks the `witness jurisdiction shift` through NIST applicant references and France Identité certification.
+
+Current compressed Martin Guerre control sequence:
+
+`portable case`
+
+→ `identification failure`
+
+→ `disciplinary reclassification`
+
+→ `policy / technical protocolization`
+
+→ `reference-state manufacturing`
+
+→ `provenance-bearing assurance`
+
+with an important anti-teleological correction:
+
+`interpersonal testimony does not disappear; its epistemic jurisdiction is bounded, proceduralized, and recorded inside modern exception pathways`.
+
+These calibrate unit, relation, revision, carrier, canon, warrant, portability, verification, evidence provenance, and reference-state claims. They do not displace the Lovejoy archival core. The Martin Guerre cluster is comparative method control only: it does **not** enter the Lovejoy evidence chain and does not imply influence, transmission, or shared genealogy with Lovejoy or the active `primitive` branch.
 
 ## 5. Process provenance
 
