@@ -1,32 +1,35 @@
 # Lovejoy 1898–1915 — recurrent claim-specific warrant practice as an external control
 
 Date: 2026-09-03  
-Status: **CROSS-DOMAIN SYNTHESIS / SIGNED EXPLICIT FORMULATION FROM 1907 / NO METHOD-ORIGIN OR ORIGINALITY CLAIM**
+Status: **CROSS-DOMAIN SYNTHESIS / LOCAL EXPLICIT WARRANT ALREADY IN 1898 / PORTABLE NON-RELIGIOUS CONTROL BY 1904 / EPISTEMIC PROPOSITION-CLASSIFICATION EXPLICIT BY 1907 / NO METHOD-ORIGIN OR ORIGINALITY CLAIM**
 
 ## Core result
 
 The strongest cross-domain formulation now available is broader than `authority scope` but narrower than a general `Lovejoy method`:
 
-> **Across distinct scholarly and institutional objects, Lovejoy repeatedly separates claims by type and limits what evidence, authority, or procedure can warrant each claim.**
+> **Across distinct scholarly and institutional objects, Lovejoy repeatedly separates claims by type and limits what evidence, authority, inferential burden, or procedure can warrant each claim.**
 
-The recurrent structure can be expressed analytically as:
+Analytical shorthand:
 
 `CLAIM TYPE`
 -> `RELEVANT RELATION`
 -> `WARRANT / BURDEN / COMPETENT AUTHORITY`
 -> `CEILING ON INFERENCE`.
 
-This is a project-level description of recurrent actor practice. It is **not Lovejoy's own named method**, and it must not be represented as his invention.
+This is project-level vocabulary for recurrent actor practice. It is **not Lovejoy's own named method**, and none of the component proof norms should be represented as his invention without a separate field-history argument.
 
-Chronological controls:
+The chronology must be stated by level rather than by a false search for one `first formulation`:
 
-- **1898:** archival working practice + actor-level diagnosis of a philology/philosophy competence gap; not an explicit general epistemology;
-- **1907:** first currently recovered signed published text in which Lovejoy explicitly assigns different epistemic statuses and evidentiary burdens to different proposition types;
-- **1907:** separate direct authority-scope control in `Ethical Inwardness` — Toy for relative chronology, Lovejoy for logical sequence;
-- **1908:** independent propositions under one historical label cannot borrow argumentative success/failure from one another;
-- **1908:** historical genealogy decomposed into source, chronology, semantics and descent relations before a cumulative judgment is attempted;
-- **1909:** recombination remains legitimate, but only after component presence/compatibility/relations are established;
-- **1915:** institutional inquiry, professional-competence jurisdiction and normative rule design receive different evidentiary orders and different competent decision-makers.
+- **1898:** local published warrant limits are already explicit inside the Buddhist technical-term problem; the France letter also names a practical philology/philosophy competence gap;
+- **1902:** resemblance/affinity is explicitly separated from historical influence in cross-tradition comparison;
+- **1904:** proposition-sensitive proof becomes demonstrably portable into a non-religious historical field and includes explicit `weight of proof` language;
+- **1906:** an inherited historiographical umbrella rubric is unpacked into separable historical propositions and rejected at the macro scale when those relations fail;
+- **1907:** Lovejoy explicitly classifies different proposition types by epistemic status/probability and gives extraordinary historical claims a higher documentary burden;
+- **1907:** Toy's acknowledged specialist authority is explicitly bounded to relative chronology rather than logical-developmental sequence;
+- **1908:** one historical label cannot transfer proof/refutation among logically independent contentions;
+- **1908:** historical genealogy is decomposed into source, chronology, semantics, continuity and descent links before a cumulative judgment is restored;
+- **1909:** recombination remains legitimate, but only after component presence, compatibility and relation are established;
+- **1915:** factual inquiry, professional-competence jurisdiction and normative rule design receive different evidentiary orders and different competent decision-makers.
 
 Hard firewall:
 
@@ -34,58 +37,158 @@ Hard firewall:
 !=
 `STABLE CONSCIOUS METHOD ACROSS ALL YEARS`
 !=
-`LOVEJOY INVENTED THESE EPISTEMIC NORMS`
+`LOVEJOY INVENTED THESE NORMS`
 !=
-`1898 NOTEBOOK CAUSED LATER PRACTICE`.
+`1898 BUDDHIST WORK CAUSED LATER PRACTICE`.
 
 ---
 
-## I. 1898 — practical division of competence before a general vocabulary
+## I. 1898 — local warrant language is already explicit, but object-bound
 
-The MS-0873 France transcription witness gives Lovejoy's own contemporary diagnosis:
+The 1898 Buddhist article should not be described merely as tacit practice.
 
-- philologists had expounded Buddhist literature but paid little attention to philosophical reconstruction;
-- philosophers had reconstructed Buddhist conceptions while neglecting the `technicalities of the texts`;
-- he wanted to work with Sylvain Lévi in order to join textual control to a philosophical question.
+In the *upādisesa* discussion Lovejoy explicitly distinguishes what different forms of evidence can establish:
 
-This is actor-level evidence that Lovejoy recognized a **jurisdiction gap** between two kinds of scholarly competence.
+- two derivations may both be etymologically possible;
+- actual **use** must therefore decide rather than etymological possibility alone;
+- selected textual points can be `relevant but not necessarily conclusive`;
+- contrary passages remain in the record;
+- the question `cannot be regarded as finally settled`.
 
-But it should not be upgraded into a mature epistemology.
+Thus the local published structure is already:
 
-The notebook itself shows local practice:
+`ETYMOLOGICAL POSSIBILITY`
+!=
+`USAGE-BASED SEMANTIC WARRANT`
+!=
+`RELEVANT EVIDENCE`
+!=
+`CONCLUSIVE EVIDENCE`
+!=
+`FINAL SETTLEMENT`.
 
-- semantic relation does not automatically settle causal function;
-- relative sequence does not settle logical inclusion;
-- borrowing/source does not settle function inside a recombined structure;
-- etymology does not settle actual use;
-- resemblance does not settle genealogy.
+This is explicit claim/warrant calibration, but it remains attached to a specialist textual problem. Do not call it a general epistemological manifesto.
 
-The proper 1898 description remains:
+The MS-0873 France transcription witness adds a different actor-level statement in October 1898:
 
-> **working differentiation of claims and warrants inside concrete textual problems**.
+- philologists control Buddhist textual technicalities but often neglect philosophy;
+- philosophers reconstruct Buddhist concepts but may neglect the texts;
+- Lovejoy wants to connect the two competences through study with Sylvain Lévi.
 
-Authority:
+Safe description:
 
+> **1898 already contains explicit local limits on evidentiary force and an actor-level diagnosis of divided scholarly competence; it does not yet supply a general named method.**
+
+Authorities:
+
+- `research_notes/Lovejoy_1898_upadisesa_local_certainty_global_provisionality_microconcordance_2026-08-28.md`;
 - `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
 - current 004 clause-ownership dossiers.
 
-Witness firewall:
-
-`WILSON TRANSCRIPTION != AUTOGRAPH`.
+Witness firewall: `WILSON TRANSCRIPTION != AUTOGRAPH`.
 
 ---
 
-## II. 1907 `Entangling Alliance` — proposition type and epistemic burden become actor-explicit
+## II. 1902 — affinity is not historical influence
 
-Lovejoy's signed primary `The Entangling Alliance of Religion and History`, *Hibbert Journal* 5.2 (1907): 258–276, is the strongest currently recovered early published control for explicit claim typing.
+In the signed primary `Religion and the Time-Process`, Lovejoy calls the affinity between Aristotle's theology and Vedānta `obvious`, but rejects the claim of Oriental influence on Aristotle as `entirely gratuitous` because the internal development of the Platonic dialectic supplies an independent historical account.
 
-He distinguishes:
+The direct relation is:
+
+`STRUCTURAL / DOCTRINAL AFFINITY`
+!=
+`HISTORICAL TRANSMISSION / INFLUENCE`.
+
+This moves the anti-transfer rule beyond the narrow 1898 semantic problem into a comparative historical claim.
+
+It still does not amount to a general epistemic classification of proposition types.
+
+Authority: direct 1902 article, controlled in `research_notes/lovejoy_other_worldliness_1898_1902_1936_concept_genealogy_batch180.md` and the JHI evidence gate.
+
+---
+
+## III. 1904 — portable proposition-sensitive proof and explicit `weight of proof`
+
+`Some Eighteenth Century Evolutionists` is the strongest pre-1907 independent control because it operates outside Buddhism and comparative religion.
+
+Lovejoy repeatedly separates propositions that retrospective histories had collapsed:
+
+- isolated anticipation of a later proposition vs possession of the later theory as a system;
+- temporal succession from lower to higher forms vs mutability of species;
+- homology/resemblance vs genealogical descent;
+- identity of species vs transformism;
+- kinship/ancestry at one level vs general species transformation;
+- shared broad conclusion vs shared evidentiary route;
+- suggestive evidence vs evidence that actually carries the burden of proof.
+
+The Herder section gives the cleanest relation:
+
+`PROGRESSIVE TEMPORAL ORDER`
+!=
+`SPECIES MUTABILITY / DESCENT`.
+
+The Monboddo material goes further. Lovejoy says the famous `tails` material may suggest much but is not designed to bear any of the **`weight of proof`** for the main proposition.
+
+He also marks inaccessible sources as inaccessible, corrects dates and mistranslations, and uses negative statements by historical actors to block retrospective classification.
+
+Thus by 1904:
+
+> **proposition-sensitive proof is demonstrably portable historical practice in Lovejoy's signed work across a non-religious domain.**
+
+This is a stronger chronological claim than saying explicit warrant begins in 1907.
+
+Authority:
+
+`research_notes/lovejoy_1904_evolutionists_source_criticism_proof_levels_batch189.md`.
+
+Field-ownership firewall: source criticism, chronology control and proof-burden distinctions are not Lovejoy inventions. The Lovejoy-level object is their recurrent allocation to particular historical propositions.
+
+---
+
+## IV. 1906 Kant — a bundled historical rubric is not evidence for all propositions carried inside it
+
+In `Kant's Antithesis of Dogmatism and Criticism`, Lovejoy directly attacks an accepted historiographical rubric because one binary label is made to carry several stronger historical claims:
+
+- predecessor method;
+- Kant's divergence from Leibniz/Wolff;
+- actual argumentative novelty;
+- historical discontinuity.
+
+He unpacks and tests those relations separately, then concludes that the contrast falls to the ground **insofar as it is intended as a whole historical contrast** between Kant and his predecessors.
+
+Structure:
+
+`ACTOR / HISTORIOGRAPHICAL RUBRIC`
+!=
+`PREDECESSOR DOCTRINE`
+!=
+`ACTUAL ARGUMENTATIVE NOVELTY`
+!=
+`WARRANTED HISTORICAL DISCONTINUITY`.
+
+This is a direct signed control for bundled-claim leakage two years before `The Thirteen Pragmatisms`.
+
+Authority:
+
+`research_notes/Lovejoy_1906_Kant_historical_rubric_discontinuity_control_2026-08-26.md`.
+
+---
+
+## V. 1907 `Entangling Alliance` — proposition classes receive explicit epistemic status and burden
+
+The 1907 `Entangling Alliance of Religion and History` remains distinctive, but its chronological status must be stated precisely.
+
+It is **not** the beginning of explicit claim-specific warrant in Lovejoy.
+
+It is the earliest currently recovered signed text in this run that explicitly classifies broad proposition types by epistemic status and documentary burden.
+
+Lovejoy distinguishes:
 
 - universal/cosmic propositions;
 - particular temporal/historical occurrences;
-- the restricted accessibility of remote historical claims through testimony/tradition/records;
-- the probabilistic rather than demonstrative status of historical propositions;
-- extraordinary historical claims that face an adverse presumption and therefore require stronger documentary/traditional evidence.
+- restricted access to remote events through testimony/tradition/records;
+- historical propositions as probabilistic rather than demonstratively certain;
+- extraordinary historical events facing a stronger adverse presumption and therefore a heightened documentary/traditional burden.
 
 Direct-primary structure:
 
@@ -97,29 +200,21 @@ Direct-primary structure:
 !=
 `EXTRAORDINARY-EVENT DOCUMENTARY BURDEN`.
 
-This licenses a chronology-sensitive statement:
+Safe statement:
 
-> **By 1907 Lovejoy explicitly assigns different evidentiary burdens to different classes of proposition.**
-
-It does **not** license retrojecting this published vocabulary into 1898.
+> **By 1907 Lovejoy not only limits individual historical inferences; he explicitly differentiates classes of proposition by epistemic status and burden.**
 
 Authority:
 
 `research_notes/Lovejoy_1907_Entangling_direct_primary_warrant_control_2026-08-27.md`.
 
-Field-ownership firewall:
-
-Historical probability, testimony and extraordinary-event proof burdens were established problems in older historiographical, theological and philosophical discourse. The significance here is Lovejoy's direct use and local allocation of those distinctions, not conceptual priority.
+Field-ownership firewall: historical probability, testimony and extraordinary-claim burdens belong to older historiographical/theological/philosophical problem fields. Historical significance here is Lovejoy's explicit deployment, not priority.
 
 ---
 
-## III. 1907 `Ethical Inwardness` — authority itself is proposition-bounded
+## VI. 1907 Toy — specialist authority is proposition-bounded
 
-In `The Origins of Ethical Inwardness in Jewish Thought`, Lovejoy accepts the relative sequence of the Wisdom texts `in deference to the authority of Professor Toy`.
-
-He then separates relative chronology from logical sequence / stage of ethical development.
-
-Thus:
+In `The Origins of Ethical Inwardness in Jewish Thought`, Lovejoy accepts the relative sequence of the Wisdom texts `in deference to the authority of Professor Toy`, then immediately separates that chronology from the logical sequence/stage of ethical development.
 
 `TOY AUTHORITY`
 -> `RELATIVE TEXTUAL CHRONOLOGY`
@@ -130,7 +225,7 @@ but
 !=
 `LOGICAL / DEVELOPMENTAL STAGE`.
 
-This is direct published evidence that acknowledged specialist authority does not automatically transfer across proposition types.
+This is a direct teacher-authority case in which acknowledged expertise does not transfer globally.
 
 Authority:
 
@@ -138,91 +233,47 @@ Authority:
 
 ---
 
-## IV. 1908 `Thirteen Pragmatisms` — one historical label cannot transfer proof among independent propositions
+## VII. 1908–09 — anti-transfer among propositions, local historical links, then warranted recombination
 
-Lovejoy's direct primary `The Thirteen Pragmatisms` makes the anti-transfer rule unusually explicit.
+### `The Thirteen Pragmatisms` (1908)
 
-The historical name `pragmatism` contains multiple contentions that are logically independent in the relevant sense:
-
-- one may be accepted without another;
-- refuting one does not refute the others;
-- defenders and critics are misled when success/failure migrates across propositions merely because the same historical label groups them.
+A single historical name contains logically independent contentions. Acceptance or refutation of one does not migrate to the others simply because they share the label.
 
 Safe rule:
 
 > **membership under one historical name does not license evidentiary transfer among independent propositions.**
 
-This expands the 1907 claim-type control from different epistemic classes to an explicit problem of **argumentative leakage** inside one named doctrine.
+### `The Theory of a Pre-Christian Cult of Jesus` (1908)
 
-Do not call decomposition itself Lovejoy-specific; immediate contemporary reception explicitly treated differentiation/integration as a field-wide issue.
+Lovejoy decomposes a grand historical genealogy into source, chronology, semantics, continuity and descent relations.
 
-Authority:
+Key boundaries include:
 
-`research_notes/1908_1909_decomposition_recombination_reception_consolidated.md`.
-
----
-
-## V. 1908 pre-Christian Jesus controversy — historical links receive relation-specific tests
-
-In `The Theory of a Pre-Christian Cult of Jesus`, Lovejoy decomposes W. B. Smith's grand genealogy into definite historical contentions and tests the evidence attached to each.
-
-The direct primary yields several clear warrant boundaries:
-
-- broad syncretic/contextual plausibility can remain while a specific descent claim fails;
-- source wording that does not state the assigned genealogy cannot carry the historical link;
-- a potentially diagnostic datum without secure chronology remains suspended;
-- an equally adequate local/contextual explanation defeats independent genealogical force;
-- possible etymology does not establish sect identity, historical continuity or a pre-Christian cult;
-- lexical possibility does not establish historical priority or causal generation.
-
-The relation can be summarized as:
-
-`SOURCE IDENTITY / WORDING`
+`POSSIBLE ETYMOLOGY`
 !=
-`CHRONOLOGY`
-!=
-`SEMANTIC POSSIBILITY`
+`SAME SECT`
 !=
 `HISTORICAL CONTINUITY`
 !=
-`DESCENT / GENEALOGY`.
+`PRE-CHRISTIAN CULT`.
 
-On the final page Lovejoy then restores a second-stage global burden. Smith's theory conflicts with `antecedent probabilities` and therefore requires an unusually strong mass of specific historical evidence.
+A potentially diagnostic datum without secure chronology remains suspended; broad contextual probability can survive while a specific genealogical link fails.
 
-Thus local decomposition is not the whole method of judgment:
+On p.609 Lovejoy restores a second-stage cumulative burden: a theory contrary to `antecedent probabilities` requires an `overwhelming mass of specific historical evidences`.
 
-`LOCAL RELATION TESTS`
--> `SURVIVING LINKS`
--> `GLOBAL / PRIOR-SENSITIVE CUMULATIVE BURDEN`.
+Thus:
 
-Modern Bayesian terminology should not be retrojected.
+`LOCAL LINK TESTS`
+-> `SURVIVING RELATIONS`
+-> `GLOBAL / PRIOR-SENSITIVE CUMULATIVE JUDGMENT`.
 
-Authority:
+### `Pragmatism and Realism` (1909)
 
-`research_notes/1908_1909_decomposition_recombination_reception_consolidated.md`.
-
-Primary bibliographic confirmation: Lovejoy, *The Monist* 18.4 (Oct. 1908): 597–609.
-
----
-
-## VI. 1909 — valid recombination has its own burden
-
-`Pragmatism and Realism` prevents an atomistic reading of the 1908 work.
-
-Lovejoy requires:
-
-1. sufficiently complete enumeration of important motives/ideas;
-2. separate assessment of components;
-3. demonstration of compatibility;
-4. recombination only as logic permits;
-5. attention to how combined elements modify and interpret one another;
-6. recognition that historical novelty may lie in the configuration — the `new compound in intellectual chemistry` — rather than a new ingredient.
+Decomposition is not the endpoint. Compatible components may be recombined only after their presence and relation are established; historical novelty may reside in a `new compound in intellectual chemistry` rather than an unprecedented ingredient.
 
 Therefore:
 
-> **claim separation does not imply that configuration is illegitimate; recombination itself carries a separate warrant burden.**
-
-This is particularly useful after the notebook source-ownership recuts: field-owned ingredients can still be historically reselected/recombined without becoming Lovejoy's inventions.
+> **anti-transfer among claims and legitimate configurational synthesis coexist; each scale has a different burden.**
 
 Authority:
 
@@ -230,53 +281,49 @@ Authority:
 
 ---
 
-## VII. 1915 — claim type determines both evidence order and competent decision-maker
+## VIII. 1915 — claim type controls evidence order and competent decision-maker
 
-The first-year AAUP material supplies an institutional domain independent of Buddhist/religion/philosophy textual work.
+The first-year AAUP material provides a genuinely independent institutional domain.
 
-### A. factual / causal institutional claim — Utah
-
-Lovejoy's inquiry design:
+### A. Factual / causal institutional claim — Utah
 
 `CONFLICTING EX PARTE CLAIMS`
 -> identify points that do not `join issue`
 -> collect multi-source evidence
 -> distinguish circumstantial from conclusive support
--> attribute cause/motive only when licensed
--> otherwise suspend the stronger judgment.
+-> attribute motive/cause only when licensed
+-> otherwise withhold the stronger judgment.
 
-### B. professional-competence claim — Nearing
+### B. Professional-competence claim — Nearing
 
 The local faculty/chair/dean had already judged Nearing's professional qualifications and recommended reappointment.
 
-Lovejoy therefore declined to make the external AAUP inquiry independently retry that professional question.
+Lovejoy therefore did not make the external AAUP inquiry retry the competence question. The live issue became trustee jurisdiction to override that professional judgment.
 
-The live problem became trustee override:
-
-`PROFESSIONAL JUDGMENT`
+`PROFESSIONAL-COMPETENCE CLAIM`
 -> `COMPETENT PROFESSIONAL BODY`
 
 versus
 
 `LAY OVERRIDE`
--> `GOVERNANCE / JURISDICTION QUESTION`.
+-> `GOVERNANCE / JURISDICTION CLAIM`.
 
-### C. normative rule design — Aug. 21 Lovejoy/Ford disagreement
+### C. Normative rule design — 21 Aug 1915
 
-Ford proposed surveying current tenure/dismissal practice first and extracting adequate/fair practice.
+Ford wanted to survey existing tenure/dismissal practices first and derive adequate/fair practice.
 
 Lovejoy objected because `little had been done anywhere towards regularizing this matter`.
 
-Where current practices themselves are unregularized, he argued for:
+Where practice is itself unregularized:
 
 `FORMULATE PRINCIPLES FIRST`
 -> `SURVEY PRACTICE AFTERWARD`.
 
-Tiede notes that Lovejoy himself recognized this as the reverse of his ordinary approach to most topics.
+Tiede notes that Lovejoy himself recognized this as the reverse of his usual order for most topics.
 
-Therefore the 1915 material shows more than generic respect for evidence:
+Thus 1915 yields a particularly strong actor-level statement:
 
-> **the order of evidence and principle, and the institution competent to judge, change according to the type of claim.**
+> **both the order of evidence and principle, and the body competent to judge, can change with the claim type.**
 
 Authorities:
 
@@ -287,51 +334,55 @@ Authorities:
 
 ---
 
-## VIII. Cross-domain matrix
+## IX. Cross-domain chronology matrix
 
-| Date | Object | Claim distinction | Warrant / authority rule | Evidence status |
+| Date | Object | Claim distinction | Warrant / authority rule | Evidence level |
 |---|---|---|---|---|
-| 1898 | Buddhism / Pāli | textual technicality vs philosophical reconstruction; local semantic/causal/chronological/genealogical distinctions | competence/warrant differs by question | archival notebook + Wilson transcription witness; not general manifesto |
-| 1907 | religion + history | universal proposition vs historical occurrence; ordinary vs extraordinary historical claim | historical proposition probabilistic; extraordinary claim has higher documentary burden | **signed direct primary** |
-| 1907 | Jewish Wisdom | chronology vs logical-developmental stage | Toy authority bounded to relative chronology | **signed direct primary** |
-| 1908 | pragmatism | historically co-labeled independent propositions | proof/refutation cannot migrate among logically independent contentions | **signed direct primary** |
-| 1908 | pre-Christian Jesus genealogy | source/date/semantics/continuity/descent + global prior | local links separately tested; cumulative burden restored only afterward | **signed direct primary** |
-| 1909 | pragmatist configuration | component vs compound | recombination legitimate only after presence/compatibility/relation burden | **signed direct primary** |
-| 1915 | Utah | factual/cause/motive | multi-source evidence; withhold stronger causal judgment without warrant | direct committee primary; Lovejoy evidence-gathering/report-drafting role strong |
-| 1915 | Nearing | professional competence vs trustee jurisdiction | competent local faculty judgment not automatically retried by lay/external body | committee primary + Lovejoy draft evidence |
-| 1915 | tenure-rule design | current practice vs norm | unregularized practice cannot itself generate norm; principles first | exact Lovejoy letter via Tiede archival citation; original target identified |
+| 1898 | Buddhist technical terms | etymology/use; relevant/conclusive; provisional/final | local evidence types have different semantic force | **signed direct primary** + notebook/transcription context |
+| 1898 | Paris project | philological textual competence vs philosophical reconstruction | divided expertise must be connected without collapse | archival transcription witness |
+| 1902 | Aristotle / Vedānta | affinity vs influence | comparison does not establish transmission | **signed direct primary** |
+| 1904 | evolution historiography | anticipation/order/homology/identity/kinship vs transformism/descent | lower proposition may survive while stronger historical/systemic claim fails; suggestive evidence may carry no proof weight | **signed direct primary** |
+| 1906 | Kant historiography | umbrella rubric vs local historical relations | bundled label does not establish novelty/discontinuity | **signed direct primary** |
+| 1907 | religion + history | universal proposition vs historical occurrence; ordinary vs extraordinary historical claim | explicit epistemic status/probability/documentary burden by proposition class | **signed direct primary** |
+| 1907 | Jewish Wisdom | relative chronology vs logical-developmental stage | Toy authority bounded to chronology | **signed direct primary** |
+| 1908 | pragmatism | historically co-labeled independent propositions | proof/refutation cannot migrate among independent contentions | **signed direct primary** |
+| 1908 | pre-Christian Jesus | source/date/semantics/continuity/descent + global prior | local historical links tested separately; cumulative burden restored after | **signed direct primary** |
+| 1909 | pragmatist configuration | component vs compound | recombination has separate compatibility/relation burden | **signed direct primary** |
+| 1915 | Utah | factual/cause/motive | multi-source inquiry; withhold stronger causal judgment without warrant | direct committee primary; Lovejoy evidence-gathering/report drafting strong |
+| 1915 | Nearing | professional competence vs trustee jurisdiction | professional claim assigned to competent faculty body | committee primary + Lovejoy draft evidence |
+| 1915 | rule design | current practice vs norm | unregularized practice cannot itself generate norm | exact Lovejoy letter via archival citation; original target identified |
 
 ---
 
-## IX. Historiographical consequence for the notebooks
+## X. Historiographical consequence for the notebooks and JHI v3.5
 
-The notebooks should not be redescribed as an embryonic version of the explicit 1907–09 epistemology.
+The chronology blocks two opposite errors.
 
-A safer chronological relation is:
+### Error 1 — making 1898 merely tacit
 
-`1898 LOCAL WORKING PRACTICE`
+The 1898 published article already contains explicit local language about evidentiary relevance, conclusiveness, use versus etymology, and provisional settlement.
 
-then, later and independently,
+So do not write that Lovejoy only later learned to qualify evidence.
 
-`1907–09 EXPLICIT PUBLISHED CLAIM / WARRANT LANGUAGE`.
+### Error 2 — turning 1898 into a mature general epistemology
 
-Thus later primary texts can function as **controls on what kind of distinction we are seeing**, but cannot be used to supply Lovejoy's missing 1898 vocabulary.
+The article's warrant language remains local to specialist textual arguments. By 1904 the same kind of proposition-sensitive proof is demonstrably portable into another historical field; by 1907 proposition classes themselves receive explicit epistemic classification.
 
-This strengthens the current JHI v3.5 sentence:
+Safer relation:
 
-> `This was not a mature methodological manifesto.`
+`1898 LOCAL EXPLICIT WARRANT PRACTICE`
+-> **no causal arrow asserted** ->
+`1904 CROSS-DOMAIN PORTABILITY DIRECTLY OBSERVABLE`
+->
+`1907 EXPLICIT PROPOSITION-CLASS / BURDEN LANGUAGE`.
 
-It also strengthens the manuscript formulation:
-
-> `one relation is not allowed to answer for another`.
-
-But no Blog revision is required merely because later explicit controls now exist. Adding them would enlarge the argument from archival reconstruction into a longer epistemic genealogy and would create a new proof burden not needed by the current short piece.
+The current JHI v3.5 already stays inside this ceiling. Its sentence `This was not a mature methodological manifesto` remains correct. No Blog expansion is required.
 
 ---
 
-## X. Source-ownership / originality firewall
+## XI. Source-ownership / originality firewall
 
-Do not claim any of the following as Lovejoy inventions without a separate field-history argument:
+Do not claim any of the following as Lovejoy inventions without separate field-history evidence:
 
 - historical probability;
 - testimony/record criticism;
@@ -343,21 +394,21 @@ Do not claim any of the following as Lovejoy inventions without a separate field
 - tenure hearings;
 - principle/practice distinction.
 
-The historically defensible Lovejoy-level object is narrower:
+The defensible Lovejoy-level object is:
 
 > **which available proof norms he activates, how he reallocates them to particular claims, where he refuses warrant transfer, and how he recombines surviving relations into a larger judgment.**
 
-This mirrors the source-ownership correction already applied to the notebooks:
+This parallels the notebook source-ownership correction:
 
 `FIELD-AVAILABLE OPERATOR`
 !=
-`LOVEJOY-SPECIFIC REDEPLOYMENT / RECOMBINATION`.
+`LOVEJOY-SPECIFIC SELECTION / REDEPLOYMENT / RECOMBINATION`.
 
 ---
 
-## XI. Strongest current formulation
+## XII. Strongest current formulation
 
-> **Lovejoy's early archive and later signed publications do not support a story in which he invented one general method in Buddhist studies and then exported it elsewhere. They support a narrower recurrence. He repeatedly distinguishes what kind of claim is being made before deciding what sort of evidence, authority, inferential burden, or institutional procedure can settle it. By 1907 this allocation becomes explicit in print; in 1908–09 he makes anti-transfer among independent propositions and link-specific historical proof unusually explicit; in 1915 the same problem appears institutionally as the allocation of factual inquiry, professional competence and normative rule-making to different evidentiary orders and decision-makers.**
+> **Lovejoy's early archive and later signed publications do not support a story in which he invented one general method in Buddhist studies and exported it elsewhere. They support a narrower recurrence. Already in 1898 he explicitly limits what etymology and particular textual evidence can establish inside a Buddhist semantic problem. In 1902 resemblance is separated from historical influence; by 1904 the same proposition-sensitive proof discipline is demonstrably portable into the history of evolution and includes explicit proof-weight language; in 1906 inherited historical rubrics are audited as bundles of separable claims; in 1907 different proposition classes receive explicit epistemic statuses and burdens; in 1908–09 proof is prevented from leaking among independent claims while cumulative and configurational judgment remains possible under separate burdens; and in 1915 factual inquiry, professional competence and normative rule-making are allocated to different evidentiary orders and decision-makers.**
 
 Use:
 
@@ -369,4 +420,4 @@ not:
 
 ## Restart shorthand
 
-> **CLAIM-SPECIFIC WARRANT SYNTHESIS: 1898 = local working differentiation + actor diagnosis philology/text vs philosophy/reconstruction, not manifesto. 1907 Entangling = earliest current signed explicit proposition-type/burden control: universal/cosmic != historical occurrence; history probabilistic; extraordinary event higher documentary burden. 1907 Toy = specialist authority only for relative chronology, not logical stage. 1908 Thirteen Pragmatisms = shared historical label cannot transfer proof/refutation among independent propositions. 1908 pre-Christian Jesus = source/date/semantics/continuity/descent links separately tested, then `antecedent probabilities` raise global cumulative burden. 1909 recombination = configuration legitimate after component/compatibility/relation burden; novelty may be compound. 1915 Utah/Nearing/rule-design = factual claim evidence-first + causal ceiling; professional competence assigned to faculty jurisdiction; unregularized normative rule requires principle-first then survey. Strongest safe category = RECURRENT CLAIM-SPECIFIC WARRANT PRACTICE; field norms are not Lovejoy inventions; later explicit vocabulary must not be retrojected into 1898. JHI v3.5 already observes this firewall and need not expand.**
+> **CLAIM-SPECIFIC WARRANT — CORRECTED CHRONOLOGY: 1898 article already explicit locally: use > etymology for semantic settlement; evidence may be `relevant but not necessarily conclusive`; matter not finally settled. 1898 France transcription: philological text competence != philosophical reconstruction. 1902: obvious affinity != historical influence. 1904 Evolutionists = first strong independent non-religious portable control: anticipation/order/homology/identity/kinship != transformism/descent; suggestive evidence may bear none of the `weight of proof`. 1906 Kant = accepted historical rubric bundles predecessor method/novelty/discontinuity; unpack and test separately. 1907 Entangling = earliest current signed explicit EPISTEMIC CLASSIFICATION of proposition types: historical claims probabilistic; extraordinary events higher documentary burden. 1907 Toy = authority for relative chronology only, not logical stage. 1908 pragmatism = no proof/refutation transfer among independent co-labeled propositions; 1908 Smith = local source/date/semantic/descent tests, then `antecedent probabilities` set cumulative burden; 1909 recombination has its own compatibility/relation burden. 1915 = factual claim evidence-first + causal ceiling; professional competence assigned to faculty jurisdiction; unregularized normative rule = principle-first then survey. Strongest safe category = recurrent claim-specific warrant practice; no invention claim, no linear method genealogy, no retrojection. JHI v3.5 remains correctly calibrated.**
