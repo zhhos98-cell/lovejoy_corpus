@@ -185,11 +185,14 @@ Safe result: Lovejoy explicitly framed his work around philosophy and comparativ
 
 Current writing authority:
 
-- `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md`;
-- `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md`;
-- `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`.
+- `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`;
+- `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`;
+- `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`;
+- `QUELLENFORSCHUNG_CURRENT_GATE.md`.
 
-Status: production HOLD. v3.6 is the current full-repo-calibrated markdown draft (2,334 body words); the existing generated DOCX remains v3.3 until a separate production pass.
+Status: production HOLD. v3.7 is the current notebook-guide / Quellenkritik-calibrated markdown draft (2,366 body words); the existing generated DOCX remains v3.3 until a separate production pass.
+
+Public architecture: notebooks 004 and 005 are the organizing spine; source ownership, witness state, material layers, and authorial seams are explained in the body; 1902/1906 and *Great Chain* function as exits and scale controls rather than the essay's main trajectory.
 
 ## 8. Default continuation rule
 
@@ -221,4 +224,4 @@ Do not collapse these tracks into one queue.
 
 ## Restart shorthand
 
-> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled through inferential permissions rather than mere vocabulary. Brinton gives stage-first synchronization; Boas gives process-first comparability while the primitive predicate survives; Lovejoy gives relation-first decomposition and transverse reaggregation. JHI Blog writing authority is v3.6, full-repo recalibrated at 2,334 body words. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
+> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled through inferential permissions rather than mere vocabulary. Brinton gives stage-first synchronization; Boas gives process-first comparability while the primitive predicate survives; Lovejoy gives relation-first decomposition and transverse reaggregation. JHI Blog writing authority is v3.7, recentered as a notebook guide with Quellenkritik in the body at 2,366 body words. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
