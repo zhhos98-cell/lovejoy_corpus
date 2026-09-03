@@ -1,6 +1,6 @@
 # Lovejoy corpus — canonical index
 
-Last synchronized: 2026-09-02
+Last synchronized: 2026-09-03
 Status: **CURRENT STABLE NAVIGATION**
 
 This is the repository's current routing surface. `CURRENT_STATE.md` controls branch state. `TRANSCRIPTION_COMPLETION_QUEUE.md` controls the distinction between page coverage and diplomatic manuscript completion. Dated canonical indices, state deltas, sync logs, batch notes, and queue language are historical unless one of these living files explicitly routes to them.
@@ -14,6 +14,7 @@ This is the repository's current routing surface. `CURRENT_STATE.md` controls br
 | Notebook coverage and residual limits | `ARCHIVE_TRANSCRIPTION_PROGRESS.md` |
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Integrated working page-by-page reading surface | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
+| Full notebook-to-1898 page concordance | `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` + `.csv` companion |
 | Working/governance rules | `WORKING_RULES.md` |
 | Current Blog source | `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` |
 | Publication-facing evidence ceilings | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
@@ -100,6 +101,14 @@ State: 71/71 first pass; targeted second-pass conceptual queue closed for presen
 State: 120/120 first-pass page coverage plus broad targeted original-image checks through Round 20; diplomatic transcription active and incomplete. For pp.31–36, the source-identification problem is narrower than the manuscript-transcription problem.
 
 ## 4. AOS 1897, Milinda, and publication selection
+
+Full-coverage notebook-to-print authority:
+
+- `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` — terminal 191-page classification and interpretive warrant;
+- `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.csv` — one machine-readable row per PDF page.
+
+Use this pair for page accounting. Positive T3/T2/T1 correspondence is confined to MS38_004. MS38_005 pages marked A are analytical parallels only and must not be cited as genealogical antecedents of the 1898 article. The older `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md` remains useful thematic discussion but is not the full-coverage authority.
+
 
 Authoritative AOS dossier:
 
