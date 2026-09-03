@@ -122,8 +122,9 @@ Use:
 - `Skinner_1970_1974_Mew_counterexample_scope_revision_Hobbes_Locke_case_substitution_2026-08-31.md`
 - `Pocock_1973_1984_2009_same_text_carrier_reclassification_version_proofburden_2026-08-31.md`
 - `Haddock_1976_Vico_Anachronism_fulltext_1979_JHI_sameactor_method_case_reuse_2026-08-31.md`
+- `martin_guerre_21c_reappearances_history_of_knowledge_sidecar_2026-09-03.md` — non-genealogical sidecar on identification, proof, media, gendered knowledge, digital source remediation, epistemic portability, and the 2026 theatrical return.
 
-These calibrate unit, relation, revision, carrier, and canon claims. They do not displace the Lovejoy archival core.
+These calibrate unit, relation, revision, carrier, canon, warrant, and portability claims. They do not displace the Lovejoy archival core. The Martin Guerre sidecar is a comparative method control only: it does **not** enter the Lovejoy evidence chain and does not imply influence, transmission, or shared genealogy.
 
 ## 5. Process provenance
 
