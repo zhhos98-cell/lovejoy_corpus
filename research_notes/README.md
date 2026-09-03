@@ -1,6 +1,6 @@
 # `research_notes/` — routing and provenance map
 
-Date: 2026-09-02  
+Date: 2026-09-03  
 Status: **DIRECTORY INDEX / NOT A SECOND CURRENT-STATE FILE**
 
 `research_notes/` is intentionally a large provenance layer. It contains terminal dossiers, matrices, source-collation notes, writing artifacts, and dated batch/process records. The directory is not flat in authority even though it remains physically flat for path stability.
@@ -32,6 +32,12 @@ Current completion/source-control routing:
 The active diplomatic restart remains 005 pp.31–36, then pp.42–43, then pp.47–60. Source collation may narrow names and source packets but does not license importing printed wording into Lovejoy's manuscript transcription.
 
 ### AOS 1897 / Milinda / publication path
+
+- `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` — terminal 191-page notebook-to-print concordance; distinguishes direct/argumentative/compressed carryover, background, analytical parallel, no correspondence, and chronological exclusion.
+- `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.csv` — machine-readable one-row-per-page companion.
+
+The concordance is authoritative for full page accounting. It does not supersede canonical notebook transcriptions and does not close 005 diplomatic work.
+
 
 - `AOS_1897_Lovejoy_election_read_by_title_and_technical_terms_precursor_2026-09-01.md`
 - `Milinda_witness_reassignment_MS97_direct_image_Trenckner_p32_correction_2026-09-01.md`
