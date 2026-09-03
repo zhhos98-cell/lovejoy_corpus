@@ -2,7 +2,7 @@
 
 Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comparative religion, political thought, philosophical practice, and the prehistory of his historical method.
 
-**Current state (2026-09-03):** the JHI Blog text is at v3.4 (1,880 body words; four endnotes) and remains on production hold. Notebook 004 has 71/71 first-pass page coverage plus targeted original-image control; its high-value clause-level source ownership is closed for the present argument, although the notebook is not a full diplomatic edition. Notebook 005 has 120/120 first-pass page coverage plus targeted original-image rechecks through Round 20; diplomatic completion remains active. Rounds 22–28 now close the high-value 005 source-ownership problem at the current argumentative ceiling: most mechanism propositions are upstream, while Lovejoy's strongest surviving operations lie in source evaluation, case reclassification, mechanism-to-social-jurisdiction mapping, explanatory reassignment, rival-genealogy adjudication, and historical-path testing. Exact wording and a short HOLD queue remain image-dependent. The AOS 1897 presentation, election, and publication-path questions retain direct-primary closure at their stated evidence ceilings.
+**Current state (2026-09-03):** the JHI Blog text is at v3.6 (2,334 body words; six endnotes), full-repo recalibrated and still on production hold; the latest generated DOCX remains v3.3. Notebook 004 has 71/71 first-pass page coverage plus targeted original-image control; its high-value clause-level source ownership is closed for the present argument, although the notebook is not a full diplomatic edition. Notebook 005 has 120/120 first-pass page coverage; broad source ownership is closed and targeted adjudication is routed through the current terminal state, while diplomatic completion remains active. The strongest Lovejoy-local 005 operations lie in source evaluation, case reclassification, mechanism-to-social-jurisdiction mapping, explanatory reassignment, rival-genealogy adjudication, historical-path testing, and explicit unresolved alternatives rather than invention of most component mechanism vocabulary. The AOS 1897 presentation, election, and publication-path questions retain direct-primary closure at their stated evidence ceilings. The active `primitive` argument now uses Brinton as a stage-first synchronization control, Boas as a process-first comparability control, and Lovejoy as a relation-first reaggregation case without converting structural comparison into influence.
 
 **Important:** `191/191` means page coverage and material overview, not manuscript transcription completion.
 
@@ -164,11 +164,11 @@ The root payload layout remains known structural debt, but it is inventoried. Mo
 
 ## JHI production state
 
-The active text is `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` (1,880 body words; four endnotes). The latest generated DOCX remains v3.3 until v3.4 is regenerated and render-QA'd. Text production awaits publication name, affiliation/short bio, and final image choice.
+The active text is `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md` (2,334 body words; six endnotes), calibrated by `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md`. The latest generated DOCX remains v3.3 until a separate production pass is requested. Text production awaits final package-level decisions such as publication name, affiliation/short bio, and final image choice.
 
 Preferred image: notebook 004 PDF p.42 / manuscript p.123, subject to JHU publication permission. Fallback: the public-domain opening page of Lovejoy's 1898 JAOS article.
 
-The terminal 005 source-ownership recut does not force a Blog rewrite. If the Paris/Marillier formation passage is reopened, describe Lovejoy as working inside an already differentiated comparative apparatus and reserve distinctiveness for selection, reassignment, relational mapping, path testing, and later generalization.
+v3.6 absorbs the terminal 005 source-ownership recut, the AOS 1897 title contraction, the Harvard Pāli-5 closure, the MS-0873 actor-level Paris statement, and the clarified 1906 reaggregation endpoint without adding Brinton or Boas to the public Blog body. Those actors remain backstage controls for the larger `primitive` argument.
 
 ## Validation
 
