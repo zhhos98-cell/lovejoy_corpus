@@ -1,7 +1,7 @@
 # Lovejoy corpus — current state
 
-Last synchronized: 2026-09-02
-Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 004 ARGUMENT-CONTROL CLOSED BUT NOT DIPLOMATICALLY COMPLETE / 005 DIPLOMATIC TRANSCRIPTION ACTIVE / AOS 1897 DIRECT-PRIMARY CLOSURE / UNIT×RELATION v0.7**
+Last synchronized: 2026-09-03
+Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 1898 PAGE CONCORDANCE 191/191 / 004 ARGUMENT-CONTROL CLOSED BUT NOT DIPLOMATICALLY COMPLETE / 005 DIPLOMATIC TRANSCRIPTION ACTIVE / AOS 1897 DIRECT-PRIMARY CLOSURE / UNIT×RELATION v0.7**
 
 This is the repository's single living state file. Historical status language elsewhere does not override it.
 
@@ -156,6 +156,22 @@ Current model:
 
 Hold manuscript-level identity among the 10 April announcement, late-April No. 30, and the 1898 article. The exact terms missing from the 1897 proceedings OCR remain a page-image task.
 
+### Full notebook-to-1898 page concordance
+
+Authoritative terminal dossier:
+
+- `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
+- machine-readable companion: `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.csv`.
+
+State-bearing result:
+
+- all 191 PDF pages are classified once: T3=16, T2=14, T1=17, C=12, A=41, N=89, X=2;
+- every T3/T2/T1 positive page-to-print correspondence belongs to MS38_004;
+- MS38_005 supplies no direct textual or argumentative antecedent to the 1898 article: its 41 A pages are analytical parallels only, 77 pages are out of scope, and 005:012 plus 005:044 are chronologically excluded by post-1898 evidence;
+- the densest print carryovers are the karma/upādāna causal-role distinction, the non-strict temporal architecture of dependent origination, the refusal to infer meaninglessness from composite provenance, the explicitly omitted khandha–nidāna worksheet, and the ethical-residue interpretation of upādisesa.
+
+This closes page accounting, not diplomatic transcription. The concordance does not alter the active 005 completion queue or establish manuscript identity with the 1897 communication.
+
 ## 5. Governing analytical architecture
 
 Core:
@@ -187,6 +203,8 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 ## 6. Hard firewalls
 
 - `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
+- `PAGE-LEVEL CORRESPONDENCE != DIPLOMATIC TEXTUAL IDENTITY`.
+- `ANALYTIC PARALLEL != PUBLICATION GENEALOGY`.
 - `A != B` does not prove independence.
 - `UNIT TYPE != RELATION TYPE`.
 - `UNIT TYPE BELONGS TO CLAIM`.
@@ -204,9 +222,10 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 1. Archive: follow `TRANSCRIPTION_COMPLETION_QUEUE.md`; begin 005 pp.31–36, then pp.42–43, then pp.47–60, and continue page by page.
 2. Archive after each batch: regenerate the integrated reading surface and run `python tools/audit_repository.py`.
 3. AOS: obtain a true page image of JAOS 18 (1897), p.389 and diplomatically transcribe the full No. 30 title; then search correspondence/submission records for the version relation.
-4. Blog: when user/editor inputs are ready, regenerate the v3.4 DOCX and rerun render QA.
-5. Wider method control: direct-read a post-Mew Skinner text only if that comparative branch is intentionally resumed.
+4. Publication genetics, if intentionally resumed: phrase-level collate the T3 notebook loci against a page-image/OCR-controlled JAOS witness and record exact quotation/citation transformations.
+5. Blog: when user/editor inputs are ready, regenerate the v3.4 DOCX and rerun render QA.
+6. Wider method control: direct-read a post-Mew Skinner text only if that comparative branch is intentionally resumed.
 
 ## Restart shorthand
 
-> **Current = one living state, one stable canonical index, one explicit diplomatic-completion queue, one integrated 191-page working reading surface generated from twelve paginated page-record batches, and terminal dossiers. Page coverage is complete; manuscript transcription is not. 004 is argument-control closed but not a full diplomatic edition. 005 diplomatic transcription is active, restarting at pp.31–36, pp.42–43, then pp.47–60. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. Blog v3.4 is production-held, not research-blocked.**
+> **Current = one living state, one stable canonical index, one explicit diplomatic-completion queue, one integrated 191-page working reading surface generated from twelve paginated page-record batches, and terminal dossiers. Page coverage is complete; manuscript transcription is not. 004 is argument-control closed but not a full diplomatic edition. 005 diplomatic transcription is active, restarting at pp.31–36, pp.42–43, then pp.47–60. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. The notebook-to-1898 concordance now classifies all 191 pages and confines positive page-to-print carryover to 004; 005 contributes analytical parallels but no direct antecedent. Blog v3.4 is production-held, not research-blocked.**
