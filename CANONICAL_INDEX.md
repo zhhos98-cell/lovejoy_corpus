@@ -15,6 +15,8 @@ This is the repository's current routing surface. `CURRENT_STATE.md` controls br
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Integrated working page-by-page reading surface | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
 | Full notebook-to-1898 page concordance | `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` + `.csv` companion |
+| MS-0873 France 1898–99 archival transcription direct-read | `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md` |
+| JHU reproduction / rights / pending quote state | `archive_index/JHU_MS0873_MS0038_remote_reproduction_status_2026-09-03.md` |
 | Working/governance rules | `WORKING_RULES.md` |
 | Current Blog source | `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` |
 | Publication-facing evidence ceilings | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
@@ -100,6 +102,19 @@ State: 71/71 first pass; targeted second-pass conceptual queue closed for presen
 
 State: 120/120 first-pass page coverage plus broad targeted original-image checks through Round 20; diplomatic transcription active and incomplete. For pp.31–36, the source-identification problem is narrower than the manuscript-transcription problem.
 
+### JHU remote reproduction / material condition
+
+Use:
+
+- `archive_index/JHU_MS0873_MS0038_remote_reproduction_status_2026-09-03.md`.
+
+Current state:
+
+- MS-0873 France 1898–99 Wilson transcription packet: received and read;
+- MS-0038 Box 62 item 2 `Evolution of Religion notes`: very fragile, detached covers, approx. 230 pages, formal Digitization quote pending;
+- MS-0038 Box 38 folders 9–11 `Primitive Religion`: double-sided, often folded / in envelopes, formal Digitization quote pending;
+- known generic JHU Digitization rate from the correspondence: $35/hour; eventual formal quote controls.
+
 ## 4. AOS 1897, Milinda, and publication selection
 
 Full-coverage notebook-to-print authority:
@@ -108,7 +123,6 @@ Full-coverage notebook-to-print authority:
 - `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.csv` — one machine-readable row per PDF page.
 
 Use this pair for page accounting. Positive T3/T2/T1 correspondence is confined to MS38_004. MS38_005 pages marked A are analytical parallels only and must not be cited as genealogical antecedents of the 1898 article. The older `research_notes/MS38_004_001_061_004_vs_1898_Buddhistic_Technical_Terms.md` remains useful thematic discussion but is not the full-coverage authority.
-
 
 Authoritative AOS dossier:
 
@@ -127,13 +141,23 @@ Use the AOS terminal dossier rather than weaker membership-only intermediate not
 
 Start with:
 
+- `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md` — **current actor-level Paris authority at the archival-transcription-witness level**;
 - `research_notes/Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`
 - `research_notes/Harvard_Lovejoy_student_record_card_UAV161_272_5_and_AOS_1897_Milinda_2026-08-31.md`
 - `research_notes/Harvard_Anthropology1_to_Paris005_classification_vs_proof_architecture_2026-08-31.md`
 - `research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`
 - `research_notes/005_Quellenforschung_and_reading_path_reconstruction_round13_2026-08-31.md`
 
-Stable rule: reconstruct a distributed training and research ecology. Curriculum availability, grades, institutional proximity, and teacher relation carry different proof burdens and do not by themselves establish total method transmission.
+MS-0873 state-bearing results:
+
+- 9 Oct 1898: before Paris lectures, Lovejoy prospectively names `philosophy and comparative religion` as the year's work;
+- 20 Oct 1898: he defines the Buddhist research problem as philosophical reconstruction disciplined by textual technicalities and explicitly diagnoses a philologist/philosopher jurisdiction split;
+- Sylvain Lévi is selected for that purpose;
+- 1/5 Dec 1898: no Pāli Buddhism course is available, so the projected formal course becomes occasional private reading at Lévi's house; Wilson's typescript reads `Petakas`, probably but not diplomatically `Piṭakas`;
+- the same letter documents Vernes/Psalms for `Wisdom work`, Réville/Fourth Gospel, theology-library infrastructure, and Sabatier/Acts as a line tried and abandoned;
+- this is direct archival access to Wilson's transcription witness, **not** autograph-level verification.
+
+Stable rule: reconstruct a distributed training and research ecology. Curriculum availability, grades, institutional proximity, teacher relation, formal course, private reading, library infrastructure and actor-declared project carry different proof burdens and do not by themselves establish total method transmission.
 
 ## 6. 1898–1906 and later Lovejoy
 
@@ -158,6 +182,8 @@ Writing authority:
 
 The v3.3 DOCX remains the latest generated and render-QA'd package. Regenerate only when moving v3.4 into production.
 
+The 3 Sep MS-0873 direct-read is a **new direct-primary-bearing source at the archival-transcription level**. It strengthens rather than contradicts the current Blog architecture. If a Paris sentence is revised, route through the MS-0873 dossier and retain the firewall `archival transcription witness != autograph letter`.
+
 ## 8. Comparative method and venue controls
 
 Active matrix and handoff:
@@ -175,7 +201,7 @@ These lines calibrate unit, relation, revision, carrier, and canon claims. They 
 
 ## 9. Provenance layers
 
-- `archive_index/` — archive coverage, locators, entity resolution, custody, and search provenance; see `archive_index/README.md`.
+- `archive_index/` — archive coverage, locators, entity resolution, custody, reproduction/rights status, and search provenance; see `archive_index/README.md`.
 - `archive_transcriptions/` — canonical page records, delta registers, material audits, and integrated reading surface; see `archive_transcriptions/README.md`.
 - `research_notes/` — terminal dossiers plus historical batch/process provenance; see `research_notes/README.md`.
 - root payloads — legacy OCR, metadata, source text, and exports retained at stable paths and inventoried in `root_payload_index.md`.
