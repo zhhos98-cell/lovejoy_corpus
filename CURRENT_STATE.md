@@ -1,7 +1,7 @@
 # Lovejoy corpus — current state
 
 Last synchronized: 2026-09-03
-Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 1898 PAGE CONCORDANCE 191/191 / 004 ARGUMENT-CONTROL CLOSED BUT NOT DIPLOMATICALLY COMPLETE / 005 DIPLOMATIC TRANSCRIPTION ACTIVE / AOS 1897 DIRECT-PRIMARY CLOSURE / UNIT×RELATION v0.7**
+Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 1898 PAGE CONCORDANCE 191/191 / 004 ARGUMENT-CONTROL CLOSED BUT NOT DIPLOMATICALLY COMPLETE / 005 DIPLOMATIC TRANSCRIPTION ACTIVE / AOS 1897 DIRECT-PRIMARY CLOSURE / MS0873 FRANCE 1898–99 ARCHIVAL-TRANSCRIPTION DIRECT READ CLOSED / MS0038 DIGITIZATION QUOTES PENDING / UNIT×RELATION v0.7**
 
 This is the repository's single living state file. Historical status language elsewhere does not override it.
 
@@ -37,6 +37,8 @@ Keep final visibility wording:
 > `later publication venues, bibliographies, and disciplinary histories make some of those arrangements easier to see than others.`
 
 Image order: notebook 004 PDF p.42 / manuscript p.123, subject to JHU permission; fallback to the public-domain opening page of Lovejoy's 1898 JAOS article.
+
+New 3 Sep evidence from MS-0873 materially raises the evidentiary ceiling for the Paris formation claim but does not by itself require Blog expansion. If the Blog is reopened, use the new actor-level formulation recorded under §8 rather than the older Wilson-biography paraphrase.
 
 ## 2. Archival core — authoritative state
 
@@ -216,6 +218,8 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 - `TEXTUAL RESEMBLANCE != TRANSMISSION`.
 - `ARGUMENTATIVE RUPTURE != CARRIER-FORM RUPTURE`.
 - `PROGRAMME != PRACTICE != INFRASTRUCTURE != CANON`.
+- `ARCHIVAL TRANSCRIPTION WITNESS != AUTOGRAPH LETTER`.
+- `INTENDED COURSE != ACTUAL COURSE != PRIVATE SUBSTITUTE PEDAGOGY`.
 
 ## 7. Exact next actions
 
@@ -223,9 +227,48 @@ Do not create v0.8 until a genuinely distinct proposition family accumulates. Th
 2. Archive after each batch: regenerate the integrated reading surface and run `python tools/audit_repository.py`.
 3. AOS: obtain a true page image of JAOS 18 (1897), p.389 and diplomatically transcribe the full No. 30 title; then search correspondence/submission records for the version relation.
 4. Publication genetics, if intentionally resumed: phrase-level collate the T3 notebook loci against a page-image/OCR-controlled JAOS witness and record exact quotation/citation transformations.
-5. Blog: when user/editor inputs are ready, regenerate the v3.4 DOCX and rerun render QA.
+5. Blog: when user/editor inputs are ready, regenerate the v3.4 DOCX and rerun render QA. If the Paris sentence is revised, use the MS-0873 dossier below as the actor-level authority.
 6. Wider method control: direct-read a post-Mew Skinner text only if that comparative branch is intentionally resumed.
+7. JHU reproduction: **wait for the formal Digitization quotes** for Box 62 item 2 and Box 38 folders 9–11; do not send a duplicate request. Estimate only as a provisional range from the known $35/hour rate until JHU supplies controlling totals.
+
+## 8. Paris 1898–99 / MS-0873 archival transcription witness — direct-read closure
+
+Authoritative dossier:
+
+`research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`
+
+Archival logistics / rights / pending reproduction:
+
+`archive_index/JHU_MS0873_MS0038_remote_reproduction_status_2026-09-03.md`
+
+Source status:
+
+- JHU supplied `MS873_001_001_France 1898-99.pdf`, 18 scanned pages of Daniel J. Wilson's transcriptions;
+- JHU reports MS-0873 consists of five chronological binders;
+- this is direct access to an **archival transcription witness**, not direct inspection of Lovejoy's autograph letters.
+
+State-bearing actor-level results:
+
+1. **9 Oct 1898, before Paris lectures began:** Lovejoy says he expects an interesting year of work in `philosophy and comparative religion`.
+2. **20 Oct 1898:** Lovejoy defines a Buddhist project `from a philosophical point of view` and explicitly diagnoses a jurisdiction gap: philologists expound the literature but neglect philosophy, while philosophers reconstruct conceptions without attending to textual technicalities.
+3. **20 Oct 1898:** Sylvain Lévi is selected as the scholar Lovejoy wants to study under for that purpose; Buddhism and biblical Wisdom are joined through the problem of evil; Lovejoy simultaneously says his fellowship requires principal work in what is ordinarily understood as philosophy.
+4. **1/5 Dec 1898:** there is no Pāli Buddhism course that year. Lovejoy proposes occasional private reading at Lévi's house. Wilson's typescript reads **`Petakas`**. Preserve `Petakas` diplomatically; likely normalization to `Piṭakas` remains editorial. Do not silently substitute `Jātakas`.
+5. The same December letter documents Maurice Vernes on Psalms for Lovejoy's `Wisdom work`, Jean Réville on the Fourth Gospel, Faculty of Theology library use for Wisdom commentaries, and a Sabatier Acts course tried and abandoned as too far outside that year's work / too technically presuppositional.
+6. **29 Jan 1899:** Lovejoy records enthusiastic reading of Guyau, describing him as a fresh, vigorous and highly original younger French evolutionary philosopher. Treat this as adjacent intellectual evidence, not as a demonstrated causal source for later method.
+
+Current strongest formulation:
+
+> **Before and during the Paris year, Lovejoy explicitly described a research problem produced by the separation of philological textual expertise from philosophical reconstruction, and sought study capable of joining the two.**
+
+This upgrades the Paris branch from later Wilson-biography mediation to actor-level wording preserved in Wilson's archival transcription. It does not close autograph-level verification and does not establish a total-method genealogy from Lévi, Marillier, comparative religion, or any single teacher.
+
+JHU MS-0038 reproduction status:
+
+- Box 62 item 2, `Evolution of Religion notes`: very fragile, detached covers, approx. 230 pages, formal quote pending;
+- Box 38 folders 9–11, `Primitive Religion`: double-sided notes, often folded or inside envelopes, formal quote pending;
+- known generic Digitization rate from the correspondence: $35/hour, with an earlier stated processing time up to eight weeks;
+- JHU source-credit request for publication images: `Special Collections, Sheridan Libraries, Johns Hopkins University`; JHU does not claim copyright in the Lovejoy papers and leaves copyright investigation to the researcher.
 
 ## Restart shorthand
 
-> **Current = one living state, one stable canonical index, one explicit diplomatic-completion queue, one integrated 191-page working reading surface generated from twelve paginated page-record batches, and terminal dossiers. Page coverage is complete; manuscript transcription is not. 004 is argument-control closed but not a full diplomatic edition. 005 diplomatic transcription is active, restarting at pp.31–36, pp.42–43, then pp.47–60. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. The notebook-to-1898 concordance now classifies all 191 pages and confines positive page-to-print carryover to 004; 005 contributes analytical parallels but no direct antecedent. Blog v3.4 is production-held, not research-blocked.**
+> **Current = one living state, one stable canonical index, one explicit diplomatic-completion queue, one integrated 191-page working reading surface generated from twelve paginated page-record batches, and terminal dossiers. Page coverage is complete; manuscript transcription is not. 004 is argument-control closed but not a full diplomatic edition. 005 diplomatic transcription is active, restarting at pp.31–36, pp.42–43, then pp.47–60. AOS 1897 is closed for absence/read-by-title/corporate election/Section firewall, while manuscript identity into 1898 remains held. The notebook-to-1898 concordance now classifies all 191 pages and confines positive page-to-print carryover to 004; 005 contributes analytical parallels but no direct antecedent. MS-0873 France 1898–99 is now directly read at the archival-transcription level: Lovejoy's own transcribed words define the philology/philosophy Buddhist problem, prospective comparative-religion work, Lévi study plan, no-course/private-`Petakas` substitute, and Wisdom-work ecology. Autograph verification remains open. JHU quotes for Evolution of Religion and Primitive Religion are pending. Blog v3.4 is production-held, not research-blocked.**
