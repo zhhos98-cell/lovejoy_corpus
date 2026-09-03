@@ -2,7 +2,7 @@
 
 Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comparative religion, political thought, philosophical practice, and the prehistory of his historical method.
 
-**Current state (2026-09-03):** the JHI Blog text is at v3.4 (1,880 body words; four endnotes) and remains on production hold. Notebook 004 has 71/71 first-pass page coverage plus targeted original-image control; its high-value clause-level source ownership is now closed for the present argument, although the notebook is not a full diplomatic edition. Notebook 005 has 120/120 first-pass page coverage plus targeted original-image rechecks through Round 20; diplomatic completion remains active. Round 22 has now recut source ownership for 005 pp.31–36 against Marillier 1893: much of the apparent future-life typology is source-owned, while the exact Lovejoy headings/questions/reorderings remain an original-image task. The AOS 1897 presentation, election, and publication-path questions have direct-primary closure at the stated evidence ceilings.
+**Current state (2026-09-03):** the JHI Blog text is at v3.4 (1,880 body words; four endnotes) and remains on production hold. Notebook 004 has 71/71 first-pass page coverage plus targeted original-image control; its high-value clause-level source ownership is now closed for the present argument, although the notebook is not a full diplomatic edition. Notebook 005 has 120/120 first-pass page coverage plus targeted original-image rechecks through Round 20; diplomatic completion remains active. Rounds 22–24 have now recut source ownership through the first major 005 afterlife/sacrifice blocks: pp.31–36 are heavily Marillier-owned at proposition level, pp.47–60 redistribute Robertson Smith/Frazer/Marillier/Cameron material, and pp.61–75 retain a narrower set of Lovejoy-local relations, especially p.66's mapping from sacrificial mechanism to social jurisdiction/competent performer. The AOS 1897 presentation, election, and publication-path questions have direct-primary closure at the stated evidence ceilings.
 
 **Important:** `191/191` means page coverage and material overview, not manuscript transcription completion.
 
@@ -18,10 +18,12 @@ Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comp
 6. [`QUELLENFORSCHUNG_CURRENT_GATE.md`](QUELLENFORSCHUNG_CURRENT_GATE.md) — governing source-critical protocol.
 7. [`research_notes/QUELLENFORSCHUNG_round21_clause_level_source_boundary_recut_2026-09-03.md`](research_notes/QUELLENFORSCHUNG_round21_clause_level_source_boundary_recut_2026-09-03.md) — 004 clause-level recut through the first major source-ownership block.
 8. [`research_notes/QUELLENFORSCHUNG_round21b_pp048-071_authorial_seams_2026-09-03.md`](research_notes/QUELLENFORSCHUNG_round21b_pp048-071_authorial_seams_2026-09-03.md) — 004 pp.48–71 terminal authorial-seam closure.
-9. [`research_notes/QUELLENFORSCHUNG_round22_005_pp031-036_Marillier_clause_ownership_2026-09-03.md`](research_notes/QUELLENFORSCHUNG_round22_005_pp031-036_Marillier_clause_ownership_2026-09-03.md) — current 005 Marillier source-ownership recut; no diplomatic upgrade without the split manuscript image.
-10. [`WORKING_RULES.md`](WORKING_RULES.md) — repository and evidence-governance rules.
-11. Directory maps: [`archive_transcriptions/README.md`](archive_transcriptions/README.md), [`archive_index/README.md`](archive_index/README.md), and [`research_notes/README.md`](research_notes/README.md).
-12. [`root_payload_index.md`](root_payload_index.md) — inventory and preservation policy for legacy source/OCR/metadata/export files retained in the root.
+9. [`research_notes/QUELLENFORSCHUNG_round22_005_pp031-036_Marillier_clause_ownership_2026-09-03.md`](research_notes/QUELLENFORSCHUNG_round22_005_pp031-036_Marillier_clause_ownership_2026-09-03.md) — 005 pp.31–36 Marillier source-ownership recut; no diplomatic upgrade without the split manuscript image.
+10. [`research_notes/QUELLENFORSCHUNG_round23_005_pp047-060_sacrifice_clause_ownership_2026-09-03.md`](research_notes/QUELLENFORSCHUNG_round23_005_pp047-060_sacrifice_clause_ownership_2026-09-03.md) — 005 pp.47–60 sacrifice dossier: Robertson-Smith/Frazer/Marillier/Cameron ownership separated from Lovejoy's local reclassification/recombination.
+11. [`research_notes/QUELLENFORSCHUNG_round24_005_pp061-075_mechanism_jurisdiction_reinterpretation_2026-09-03.md`](research_notes/QUELLENFORSCHUNG_round24_005_pp061-075_mechanism_jurisdiction_reinterpretation_2026-09-03.md) — 005 pp.61–75 mechanism/jurisdiction/reinterpretation recut; p.66 remains the strongest local relation.
+12. [`WORKING_RULES.md`](WORKING_RULES.md) — repository and evidence-governance rules.
+13. Directory maps: [`archive_transcriptions/README.md`](archive_transcriptions/README.md), [`archive_index/README.md`](archive_index/README.md), and [`research_notes/README.md`](research_notes/README.md).
+14. [`root_payload_index.md`](root_payload_index.md) — inventory and preservation policy for legacy source/OCR/metadata/export files retained in the root.
 
 The dated `research_notes/CANONICAL_INDEX_2026-08-28.md` and earlier state files are historical snapshots. They no longer route current work. The current structural cleanup record is `research_notes/repository_cleanup_2026-09-02.md`.
 
@@ -59,6 +61,8 @@ Only three 004 source-carrier HOLDs remain worth preserving for future narrow wo
 
 Round 22 applies the same discipline to 005 pp.31–36. Marillier 1893 already supplies much of the apparent decomposition of non-moral afterlife determinants: rank/age/sex/occupation, mode of death, skill/hazard, ritual access, burial, bodily qualification, sacrifice, and regional case packets. The Lovejoy-specific question is consequently narrower: what did he select, rehead, reorder, question, or later generalize? Current editorial summaries cannot answer that without the manuscript image. In particular, the old p.36 wording that `Lovejoy explicitly asks` about annihilation versus continued existence is withdrawn as an authorial claim until direct-image verification.
 
+Rounds 23–24 continue the recut through 005 pp.47–75. Robertson Smith supplies the main honorific/piacular/mystical-sacramental sacrifice spine and an animal→human substitution counter-arrow; Frazer supplies god-man vitality transfer and the impersonal/direct magic grammar; Marillier supplies magical sacrifice, functional plurality, anti-single-origin criticism, and the survivance problem; Cameron supplies the Manyéma cannibalism packet; Tylor supplies funerary object-soul/destruction alternatives. Lovejoy's secure or provisional local operations are correspondingly narrower: source ranking by evidential discipline (p.49), rebracketing/addition inside an inherited sacrifice taxonomy (p.50), recombination of inherited magical grammars (pp.53/64), `not ritual but alimentary` case reclassification (p.55), `delicate analysis` of presently fused ritual elements (p.65), the p.66 mechanism→social-jurisdiction/competent-performer relation, and p.73's local explanatory reassignment between two source-available funerary rationales. p.69 is no longer evidence that Lovejoy independently invented the animal→human substitution direction.
+
 Recurring firewalls include:
 
 - citation does not establish assent;
@@ -79,16 +83,16 @@ Recurring firewalls include:
 Notebooks 004 and 005 remain the archival center.
 
 - **004:** 71/71 first-pass pages; targeted original-image second pass conceptually closed for the present argument; high-value clause-level source ownership closed through Rounds 21/21b; micro-paleographic, foreign-language, and bibliographic residue remains; no claim of full diplomatic closure.
-- **005:** 120/120 first-pass pages; broad targeted original-image rechecks completed through Round 20; diplomatic transcription remains active and incomplete; pp.31–36 now have a much stricter Marillier source-ownership map from Round 22 but still require the split manuscript image for authorial seams and exact text.
+- **005:** 120/120 first-pass pages; broad targeted original-image rechecks completed through Round 20; diplomatic transcription remains active and incomplete; clause-level source ownership is now recut through pp.31–36 and pp.47–75 in Rounds 22–24, but exact authorial seams remain image-dependent wherever the split manuscript witness is unavailable.
 - Combined material-form overview: 191/191 pages.
 - Active diplomatic completion queue: `TRANSCRIPTION_COMPLETION_QUEUE.md`.
 - Integrated working reading surface: `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`.
 - Authoritative page records: the twelve paginated `archive_transcriptions/MS38_004_001_061_{004,005}_p*_clean.json` files. Their `corrected_text` fields are heterogeneous and may contain diplomatic text, readable fragments, or editorial argument summaries.
 - Machine-readable direct-image audit trails: the Round-17 and Round-18 delta JSON files in `archive_transcriptions/`.
 - Current 004 source-boundary terminal notes: Rounds 21 and 21b.
-- Current 005 source-boundary terminal note: Round 22 for pp.31–36.
+- Current 005 source-boundary terminal notes: Round 22 for pp.31–36, Round 23 for pp.47–60, Round 24 for pp.61–75.
 
-Current diplomatic restart order remains 005 pp.31–36, pp.42–43, then pp.47–60 before continuing the rest of 005 page by page. For pp.31–36, keep both `research_notes/MS38_005_pp031-036_Marillier_source_collation_2026-09-02.md` and Round 22 open beside the split image. The first file identifies source packets; Round 22 states what propositions are already source-owned and which possible Lovejoy seams must be proven from the page.
+Direct-image restart remains governed by the unavailable split witnesses. For pp.31–36, keep both `research_notes/MS38_005_pp031-036_Marillier_source_collation_2026-09-02.md` and Round 22 open beside the split image. For pp.47–75, use Rounds 23–24 to distinguish source-owned propositions from local relations before changing canonical text. If the relevant split image remains inaccessible, continue source-critical work into the next 005 batch rather than promoting editorial summaries into diplomatic wording.
 
 Within pp.31–36, direct-image priority is now:
 
@@ -98,6 +102,8 @@ Within pp.31–36, direct-image priority is now:
 4. p.35 — identify exact examples/order;
 5. p.31 — recover wording and any local reclassification;
 6. p.34 — verify Lovejoy's spellings/abbreviations for the Tonga/Bolotoo packet.
+
+Within pp.47–75, direct-image priority is now p.55 gender/taste direction, p.66 jurisdiction grammar, p.65 `delicate analysis` wording, p.73 `another meaning` connective, p.50 source cue, p.53/64 transition clauses, and p.69 exact substitution syntax.
 
 The highest-value material control in 004 remains PDF p.42 / manuscript p.123. `viññāṇa` is spatially nested under `nāma/nāmarūpa`, while adjacent prose treats it as temporally antecedent and logically a subdivision. Its significance is now explicitly clause-level: the constituent facts are upstream, while the compressed relation pair remains a local synthesis unless a closer source appears.
 
@@ -111,6 +117,7 @@ The highest-value material control in 004 remains PDF p.42 / manuscript p.123. `
 | Source-critical policy | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | 004 source-boundary closure | `research_notes/QUELLENFORSCHUNG_round21_clause_level_source_boundary_recut_2026-09-03.md` + Round 21b |
 | 005 pp.31–36 source-boundary state | `research_notes/QUELLENFORSCHUNG_round22_005_pp031-036_Marillier_clause_ownership_2026-09-03.md` |
+| 005 pp.47–75 source-boundary state | `research_notes/QUELLENFORSCHUNG_round23_005_pp047-060_sacrifice_clause_ownership_2026-09-03.md` + Round 24 |
 | Integrated working reading surface | `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` |
 | Machine-readable page authority | paginated `archive_transcriptions/*_clean.json` batches |
 | Transcription directory map | `archive_transcriptions/README.md` |
@@ -128,7 +135,7 @@ The active text is `research_notes/JHI_blog_full_draft_v3_4_clean_submission_202
 
 Preferred image: notebook 004 PDF p.42 / manuscript p.123, subject to JHU publication permission. Fallback: the public-domain opening page of Lovejoy's 1898 JAOS article.
 
-The current source-ownership corrections do not require a Blog rewrite. If the Paris/Marillier formation passage is reopened, describe Lovejoy as working inside an already determinant-specific Marillier comparative apparatus and reserve distinctiveness for selection, reassignment, recomposition, and later generalization.
+The current source-ownership corrections do not require a Blog rewrite. If the Paris/Marillier formation passage is reopened, describe Lovejoy as working inside an already determinant-specific Marillier comparative apparatus and reserve distinctiveness for selection, reassignment, recomposition, social-jurisdiction mapping, and later generalization.
 
 ## Validation
 
