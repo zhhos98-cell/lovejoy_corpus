@@ -75,6 +75,7 @@ Read in this order:
 4. `lovejoy_004_005_reattribution_endpoint_matrix_batch212.md`
 5. `lovejoy_1897_title_contraction_to_1906_relational_scale_control_batch221.md`
 6. `brinton_1897_primitive_dechronologization_population_resynchronization_batch222.md`
+7. `boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
 
 Supporting consolidations:
 
@@ -92,26 +93,25 @@ Current analytical sequence:
 
 → `transverse reaggregation`
 
-with Brinton providing a control for:
+with Brinton and Boas providing distinct controls:
 
-`primitive = cultural-stage position`
+`Brinton: primitive = cultural-stage position → cross-temporal substitutability → population synchronization`
 
-→ `cross-temporal substitutability`
+`Boas: formal resemblance → process/history adjudication → proved comparability → later generalization`.
 
-→ `population synchronization`.
-
-Do not confuse project vocabulary with actors' vocabulary.
+Do not confuse project vocabulary with actors' vocabulary or structural control with influence.
 
 ## 3. JHI Blog production
 
 Current writing authority:
 
-- `JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md`
+- `JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md`
+- `JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md`
 - `JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
 - `JHI_blog_v3_2_citation_hygiene_2026-08-29.md`
 - `JHI_blog_image_caption_permission_plan_2026-08-29.md`
 
-Earlier skeletons, logs, and draft architectures are process provenance unless routed from the root canonical index.
+v3.6 is the current markdown text, full-repo recalibrated at 2,334 body words. Earlier clean drafts, skeletons, logs, and draft architectures are process provenance unless routed from the root canonical index. The generated DOCX remains v3.3 until a separate production pass.
 
 ## 4. Comparative method controls
 
