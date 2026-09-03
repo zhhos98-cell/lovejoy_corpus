@@ -12,6 +12,31 @@ Prioritize sources by:
 4. precision of current locator;
 5. avoidance of duplicate or open-ended archive requests.
 
+## Pending-quote override — Box 38 folder 10 is now the highest-value material already in motion
+
+JHU is already preparing a formal quote for **MS-0038 Box 38 folders 9–11, `Primitive Religion`**. Do not duplicate this request.
+
+A fresh finding-aid audit now shows that **Box 38 Folder 10** contains at least two state-changing named carriers:
+
+1. `"Manitouism" Paper: Unprinted parts` — finding-aid scope: `Manuscript fragments of "Fundamental Concepts of Primitive Philosophy."`;
+2. `Religion Lectures, 1900, 1905-1906` — manuscript fragments; the finding aid notes a 1905–06 course on phenomenology of religion.
+
+This changes the decision rule when the quote arrives:
+
+- if the three-folder price is acceptable, retain folders 9–11 and preserve physical relations;
+- if the price is high, **ask for a staged Folder-10-only quote before abandoning the Box38 request**;
+- do not treat finding-aid titles as autograph headings until the material is read.
+
+Folder 10 can potentially close:
+
+`MARILLIER / 1900 CONCLUSION`
+-> `1900 / 1905–06 RELIGION TEACHING`
+-> `"MANITOUISM" UNPRINTED MATERIAL`
+-> `1906 MONIST PUBLICATION`.
+
+Authority:
+`archive_index/JHU_MS0038_box38_folder10_Manitouism_unprinted_parts_Religion_Lectures_1900_1906_2026-09-03.md`.
+
 ## P0 — JHU `Fire Cults` and Mana Concept, 1906
 
 Institution: Johns Hopkins University Special Collections  
@@ -24,7 +49,7 @@ Finding-aid scope/content already closed in the repository:
 - some material in Washington University envelopes;
 - manuscript fragments on `fire cults` and other practices explicitly related to Lovejoy's 1906 *Monist* article `The Fundamental Concept of the Primitive Philosophy`.
 
-Why promoted to P0:
+Why promoted to P0 among **new** requests:
 
 - exact and probably small target, therefore unusually high expected value per scan;
 - can expose the source pool and rejected/omitted cases behind the 1906 published aggregate;
@@ -118,7 +143,7 @@ Why third:
 
 - closes **four** primary-text gaps at once with one physical periodical run;
 - replaces Wilson summaries with Lovejoy's own signed texts;
-- **1895 Monboddo is now a high-value pre-Harvard baseline/falsification test**: Wilson's annotation portrays the young Lovejoy concluding that Monboddo anticipated the century's most important scientific doctrine, while Lovejoy's direct 1904 reanalysis sharply restricts Monboddo's status as a biological evolutionist and separates language evolution, human-orangutan ancestry, species identity and transformism. The 1895 primary can determine whether this is a real self-correction from broad precursor classification to proposition-level re-audit, or merely an artifact of Wilson's compressed summary;
+- **1895 Monboddo is a high-value pre-Harvard baseline/falsification test**: Wilson's annotation portrays the young Lovejoy concluding that Monboddo anticipated the century's most important scientific doctrine, while Lovejoy's direct 1904 reanalysis sharply restricts Monboddo's status as a biological evolutionist and separates language evolution, human-orangutan ancestry, species identity and transformism. The 1895 primary can determine whether this is a real self-correction from broad precursor classification to proposition-level re-audit, or merely an artifact of Wilson's compressed summary;
 - 1896 text controls the early university/public-spirit/social-service line;
 - 1900 article is the best post-Paris institutional-writing bridge and a falsification test for the current `democracy + differentiated fit` hypothesis;
 - 1902 sonnet directly tests Ecclesiastes object recurrence after the 1898 `Wisdom work`.
@@ -164,6 +189,32 @@ Claim impact:
 
 `1898 PROJECT ACTIVITY` -> potentially `PROJECT OUTCOME / REDIRECTION`.
 
+## P4b — JHU Box 62 Item 3 `Notes on totemism, 1898–1899`
+
+Institution: Johns Hopkins University Special Collections  
+Exact locator: **MS-0038 Box 62 Item 3**.  
+Finding-aid description: `Notes on totemism, 1898 - 1899`; `Probably taken on readings in Bibliotheque Nationale`.
+
+Why high-value but not yet an immediate request:
+
+- exact Paris-period reading carrier;
+- can test totemism as presence/compatibility versus primitive/universal/origin claim;
+- may identify sources behind composite 005 strata;
+- can test source grading, survivance, genealogy and population representativeness;
+- potentially small and adjacent to the currently quoted Box 62 item 2.
+
+Evidence ceiling:
+
+- BnF provenance is finding-aid probability, not manuscript-closed;
+- Item 3 is **not** included by implication in the current Item-2 quote.
+
+Action:
+
+> after the current JHU quotes return, ask extent/cost if strategically useful; bundle only then if economical.
+
+Authority:
+`archive_index/JHU_MS0038_box62_item3_totemism_1898_99_Bibliotheque_Nationale_target_2026-09-03.md`.
+
 ## P5 — Washington University Association 1901 syllabus pair
 
 Institution: Washington University Archives / University Publications / Association ephemera  
@@ -185,6 +236,28 @@ Why fifth:
 Claim impact:
 
 `WILSON-MEDIATED TEACHING DESCRIPTION` -> direct teaching text / possible 1902 publication-genetics control.
+
+## P5b — JHU Box 61 Folder 2 early Gospel-historicity mathematics notebook
+
+Institution: Johns Hopkins University Special Collections  
+Exact locator: **MS-0038 Box 61 Folder 2 — Mathematics notebook**.
+
+Finding-aid description says the notebook contains Gospel-account comparison aimed at determining historical accuracy, preserves a weaker common-content judgment while historicity remains open, and has handwriting that `looks ... very early`.
+
+Why important:
+
+- possible pre-Harvard / pre-Buddhist claim-warrant baseline in a non-Buddhist object;
+- can falsify as well as support the longitudinal story;
+- a single-folder notebook may be relatively economical.
+
+Why not promoted above the current direct-primary targets:
+
+- date is not secure;
+- finding-aid paraphrase is not Lovejoy wording;
+- 1895 Monboddo primary and Wilson index may constrain the chronology more efficiently first.
+
+Authority:
+`archive_index/JHU_MS0038_box61_folder2_Mathematics_notebook_Gospel_historicity_early_warrant_target_2026-09-03.md`.
 
 ## P6 — Bancroft / Hearst editorial-provenance folder
 
@@ -218,27 +291,34 @@ Claim impact:
 Already in progress; do not duplicate request.
 
 - Box 62 item 2 `Evolution of Religion notes` — approx.230 pages, fragile, detached covers; quote pending.
-- Box 38 folders 9–11 `Primitive Religion` — double-sided, folded/envelope material; quote pending.
+- Box 38 folders 9–11 `Primitive Religion` — double-sided, folded/envelope material; quote pending; **folder 10 now known to contain direct 1906 publication-genetics + 1900/1905–06 teaching carriers**.
 
-These may be high-value sources but are lower in **new-request** priority because JHU is already preparing quotes and because P1 may improve their internal targeting.
+These remain lower in **new-request** priority only because JHU is already preparing quotes. In research-value terms, Box38/f10 is now among the highest-value current targets.
 
 ## Cost-efficiency note
 
-The most economical sequence is now:
+The decision sequence is now:
+
+`WAIT FOR CURRENT JHU BOX38 / BOX62 QUOTES`
+-> if Box38 full quote acceptable, retain 9–11
+-> if high, request **folder10-only staged quote**;
+
+then for new requests:
 
 `P0 Box 23/11 Fire Cults + Mana Concept`
--> close a small exact publication-genetics/source-selection target while the larger JHU quotes remain pending;
+-> close a small exact publication-genetics/source-selection target;
 
 `P1 Wilson index`
--> use it to refine `P4 MS-0873` and any further MS-0038 requests;
+-> refine MS-0873 and later MS-0038 pulls;
 
 `P2 James Walker packet`
--> decide whether the 1898 Wisdom/Buddhism project has an institutional precursor;
+-> test institutionally documented 1898 project boundary;
 
 `P3 Sacramento packet`
--> close four direct-primary gaps with one periodical request, including the 1895 pre-Harvard baseline.
+-> close four direct-primary gaps, including the 1895 pre-Harvard baseline;
 
-Only then should more diffuse correspondence or editorial provenance be ordered unless a new source changes the branch.
+`P4b Box62/item3` and `P5b Box61/f2`
+-> use as compact state-changing JHU targets after current quote cycle, depending on extent/cost.
 
 ## Firewalls
 
@@ -249,7 +329,10 @@ Only then should more diffuse correspondence or editorial provenance be ordered 
 - `SAME CORPUS != SAME QUESTION != SAME CARRIER != GENETIC CONTINUITY`.
 - `CHANGE BETWEEN 1895 AND 1904 != HARVARD / BUDDHISM CAUSED THE CHANGE`.
 - `RELATED MANUSCRIPT FRAGMENTS != PROVED SECOND CHAPTER`.
+- `FINDING-AID PARAPHRASE != LOVEJOY WORDING`.
+- `HANDWRITING LOOKS EARLY != SECURE DATE`.
+- `PROBABLY BNF != PROVED BNF PROVENANCE`.
 
 ## Current restart shorthand
 
-> **Acquisition priority: P0 JHU MS-0038 Box 23 Folder 11 `Fire Cults` and Mana Concept, 1906 — exact small publication-genetics/source-selection target; P1 Wilson 1974–75 index; P2 Harvard James Walker 1898 packet; P3 Sacramento 1895/1896/1900/1902 bundled primary texts; P4 targeted MS-0873 late-Dec-1898–summer-1899 tranche; P5 Washington University 1901 syllabus pair; P6 Bancroft Hearst editorial-provenance folder. Existing JHU Evolution/Primitive Religion quotes remain pending and should not be duplicated.**
+> **Pending-quote override: Box38/f10 is now known to contain `Manitouism` unprinted fragments + Religion Lectures 1900/1905–06; already inside folders9–11 quote, DO NOT duplicate; if quote high, stage folder10. New-request priority remains P0 Box23/f11 Fire Cults+Mana; P1 Wilson index; P2 James Walker; P3 Sacramento 1895/96/1900/1902; P4 MS0873; P4b Box62/item3 totemism 1898–99; P5 WashU 1901 syllabi; P5b Box61/f2 early Gospel-historicity notebook; P6 Bancroft. Box62 item2 Evolution quote pending.**
