@@ -125,7 +125,9 @@ Use:
 
 ### Martin Guerre twenty-first-century identification / verification / book-stage control cluster
 
-Read as one non-genealogical comparative sequence:
+**START HERE:** `martin_guerre_21c_readme.md` — integrated synthesis, controlling vocabulary, book-stage spine, identification/reference-state controls, chronology, closure state, and event-bound reopen gates.
+
+Then use the nine source-level controls below as the evidentiary and analytical support layer:
 
 1. `martin_guerre_21c_reappearances_history_of_knowledge_sidecar_2026-09-03.md` — broad map: epistemic relocations, media, gendered knowledge, digital source remediation, and the 2026 theatrical return.
 2. `martin_guerre_21c_verification_regimes_digital_identity_proof_of_humanity_addendum_2026-09-03.md` — recognition → identification → authentication → biometrics/liveness → proof of humanity; introduces prospective enrollment as a variable.
