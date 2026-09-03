@@ -1,25 +1,27 @@
 # Lovejoy 1896–1907 — Hebrew/Wisdom corpus reactivation and question shift
 
 Date: 2026-09-03  
-Status: **NEW LONGITUDINAL ACTOR-LEVEL CORPUS REACTIVATION CONTROL**
+Status: **LONGITUDINAL ACTOR-LEVEL CORPUS REACTIVATION CONTROL / 1902 ECCLESIASTES CARRIER ADDED**
 
 ## Core result
 
-The newly received MS-0873 France 1898–99 transcription packet extends the existing 1905→1907 Hebrew-corpus line backward to Lovejoy's Paris year and, through the Harvard record card, to formal training in 1896–97.
+The newly received MS-0873 France 1898–99 transcription packet extends the existing 1905→1907 Hebrew-corpus line backward to Lovejoy's Paris year and, through the Harvard record card, to formal training in 1896–97. A newly recovered Wilson bibliographic item also places a published Ecclesiastes carrier in 1902.
 
-The defensible pattern is not nine years of continuous work on one project. It is:
+The defensible pattern is not continuous work on one project. It is:
 
 `FORMAL HEBREW-RELIGION TRAINING`
 → `1898 WISDOM / PROBLEM-OF-EVIL PROJECT`
-→ `[INTERVENING CONTINUITY NOT DEMONSTRATED]`
+→ `[1899–1901 CONTINUITY OPEN]`
+→ `1902 ECCLESIASTES REAPPEARS IN A PUBLISHED LITERARY CARRIER`
+→ `[1903–04 CONTINUITY OPEN]`
 → `1905 HEBREW ESCHATOLOGY / SOUL-SEMANTICS REACTIVATION`
 → `1907 ETHICAL-INWARDNESS REPARTITION`.
 
-The same or overlapping textual corpus is repeatedly rebuilt around different questions.
+The same or overlapping textual corpus is repeatedly rebuilt around different questions and carrier forms.
 
 Strong rule:
 
-> **CORPUS REACTIVATION != PROJECT CONTINUITY != UNCHANGED HISTORICAL OBJECT.**
+> **CORPUS REACTIVATION != PROJECT CONTINUITY != UNCHANGED HISTORICAL OBJECT != UNCHANGED CARRIER FORM.**
 
 ## I. 1896–97 — Toy: direct formal enrollment
 
@@ -70,6 +72,8 @@ This is unusually strong actor-level evidence because it shows three things at o
 2. comparative-religion work and philosophy are analytically adjacent but institutionally non-identical;
 3. Lovejoy is actively allocating effort across the boundary rather than simply occupying a fixed disciplinary box.
 
+The fellowship is now identified more precisely as Harvard's **James Walker Fellowship**, supporting Lovejoy's Paris year in 1898–99. That institutional identity does not yet establish the content of Lovejoy's approved fellowship project.
+
 ### 1/5 Dec 1898
 
 The Paris letter makes `Wisdom work` concrete.
@@ -111,9 +115,80 @@ The 1898 Wisdom object is best described as:
 
 This is not yet the 1907 `ethical inwardness` object.
 
-It is also not identical with the 1905 Hebrew-escha­tology object.
+It is also not identical with the 1905 Hebrew-eschatology object.
 
-## IV. 1905 — notebook 005: same broad corpus, different relation
+## IV. 1902 — Ecclesiastes reappears in a different carrier
+
+Daniel J. Wilson's *Arthur O. Lovejoy: An Annotated Bibliography* records:
+
+`"Ecclesiastes Instructed." University of California Magazine 8 (1902): 285.`
+
+Wilson describes it as a sonnet on finding meaning in life by helping others. The poem itself has **not yet been directly recovered**, so Wilson's summary must remain secondary/mediated and must not be converted into Lovejoy's wording.
+
+The significance of the item changed once the 1898 letters were recovered. Ecclesiastes is now known to have been a named research object in Lovejoy's Paris `Wisdom work`, so its 1902 reappearance cannot be treated as merely an unrelated title in the bibliography.
+
+Safe relation:
+
+`1898 ECCLESIASTES AS RESEARCH OBJECT`
+→ `[GENETIC RELATION OPEN]`
+→ `1902 ECCLESIASTES AS PUBLISHED LITERARY OBJECT`.
+
+This establishes **object recurrence across carrier form**, not project continuity.
+
+### Same-year direct semantic control
+
+Lovejoy's signed 1902 `Religion and the Time-Process` is directly primary-controlled. Its positive valuation of temporal life explicitly includes:
+
+- `process`;
+- `social fellowship`;
+- aims with `social and collective significance`;
+- `devotion to the service of society`.
+
+Wilson's thematic summary of the sonnet, finding meaning by helping others, lies in a compatible value field. That licenses only:
+
+`SAME YEAR + COMPATIBLE VALUE DIRECTION`.
+
+It does not license:
+
+- poem = poetic digest of `Religion and the Time-Process`;
+- one text caused the other;
+- the poem uses the same vocabulary;
+- the 1898 Wisdom project developed continuously into the 1902 value theory.
+
+Primary target:
+
+`research_notes/Lovejoy_1902_Ecclesiastes_Instructed_Wisdom_reactivation_target_2026-09-03.md`.
+
+The probable retrieval locus is *University of California Magazine / The Graduate*, vol.8 no.6, October 1902, around p.285; direct page control remains pending.
+
+## V. 1901–02 — multi-carrier convergence, not one manuscript line
+
+The repo already holds two additional Wilson-mediated 1901 Washington University Association objects:
+
+- `Syllabus: The Philosophy of Buddhism`;
+- `Syllabus: Robert Louis Stevenson, Moralist`, which Wilson describes through an opposition between `otherworldly ethics` and a `new temporally based ethics`.
+
+Their originals remain unrecovered.
+
+Together with the new 1898 evidence and the 1902 Ecclesiastes item, the safest model is a **distributed problem field**:
+
+`1898 Buddhist specialist / Wisdom problem field`
++
+`1901 Buddhism teaching stream [Wilson-mediated]`
++
+`1901 Stevenson otherworldly / temporal ethics stream [Wilson-mediated]`
++
+`1902 Ecclesiastes literary carrier [primary target]`
+→
+`1902 Religion and the Time-Process [full direct primary]`.
+
+The arrow marks chronological/conceptual convergence worth testing, **not demonstrated draft genealogy**.
+
+Authority:
+
+`research_notes/Lovejoy_1898_Wisdom_to_1901_02_otherworldliness_temporal_ethics_recombination_2026-09-03.md`.
+
+## VI. 1905 — notebook 005: same broad corpus, different relation
 
 The directly dated `Hist. Relig. — Dec. 20, 1905` block in notebook 005 organizes Hebrew materials around:
 
@@ -139,7 +214,7 @@ Authority:
 
 `research_notes/Lovejoy_005_Hebrew_eschatology_1905_to_1907_ethical_inwardness_same_corpus_new_question_2026-08-31.md`.
 
-## V. 1907 — Ethical Inwardness: corpus repartitioned again
+## VII. 1907 — Ethical Inwardness: corpus repartitioned again
 
 Lovejoy's `The Origins of Ethical Inwardness in Jewish Thought` (AJT 11.2, April 1907, 228–249) works through:
 
@@ -171,22 +246,25 @@ Authority:
 - `research_notes/Toy_Lovejoy_1907_authority_scope_logical_chronological_redivision_control_2026-08-26.md`;
 - `research_notes/Lovejoy_005_Hebrew_eschatology_1905_to_1907_ethical_inwardness_same_corpus_new_question_2026-08-31.md`.
 
-## VI. Longitudinal relation matrix
+## VIII. Longitudinal relation matrix
 
 | Date | Corpus / object | Main question | Authority / infrastructure | Relation to next state |
 |---|---|---|---|---|
 | 1896–97 | Hebrew religion / Semitic comparison | historical-comparative religion | Toy, formal Semitic 13, A | training / source-jurisdiction context |
-| Oct–Dec 1898 | Wisdom literature / Ecclesiastes | evil, pessimism, Buddhist comparability | Vernes, Israel Lévi, Hebrew, BnF + Theology library; fellowship philosophy boundary | named actor-level research project |
+| Oct–Dec 1898 | Wisdom literature / Ecclesiastes | evil, pessimism, Buddhist comparability | Vernes, Israel Lévi, Hebrew, BnF + Theology library; James Walker Fellowship philosophy boundary | named actor-level research project |
+| 1901 | Buddhism; Stevenson moralism | Buddhist philosophy/ethics; otherworldly vs temporal ethics | Washington University Association syllabi, currently Wilson-mediated | distinct teaching carriers / possible convergence field |
+| 1902 | Ecclesiastes | exact operation pending primary poem; Wilson says meaning through helping others | Berkeley alumni-periodical carrier | object recurrence / carrier shift; genetic relation HOLD |
+| 1902 | India/Greek/Christian/modern philosophical comparison | time/process, otherworldliness, value, social fellowship | signed `Religion and the Time-Process` | direct philosophical recombination |
 | Dec 1905 | OT/Hebrew eschatology, Job/Ecclesiastes, nephesh/ruach | dead cognition, Sheol, soul/life, comparative eschatology | notebook / Hist. Relig. teaching-research block | corpus reactivation + question shift |
 | Apr 1907 | Job/Psalms/Proverbs/Ben Sira/Ecclesiastes/Wisdom | development of ethical inwardness | Toy relative chronology + Lovejoy logical reconstruction | corpus repartition + new published object |
 
-The table should not be read as proof of continuous work in 1899–1904.
+The table should not be read as proof of continuous work across the open intervals.
 
-## VII. Strongest historical inference
+## IX. Strongest historical inference
 
-The new letters allow a more powerful statement than the earlier 1905→1907 comparison:
+The new letters plus the 1902 carrier allow a more powerful statement than the earlier 1905→1907 comparison:
 
-> **Lovejoy repeatedly returned to overlapping Hebrew/Wisdom materials while changing the relation he wanted those texts to establish. The stable carrier was partly the corpus; the historical object was rebuilt around different questions.**
+> **Lovejoy repeatedly returned to overlapping Hebrew/Wisdom materials while changing both the relation he wanted those texts to establish and the carrier through which he used them. The stable element was partly the corpus; the historical object was repeatedly rebuilt.**
 
 This is a concrete early case of:
 
@@ -196,33 +274,38 @@ This is a concrete early case of:
 +
 `AUTHORITY REALLOCATION`
 +
+`CARRIER SHIFT`
++
 `NEW HISTORICAL OBJECT`.
 
-It is therefore highly relevant to the repo's unit/relation architecture.
+It is therefore highly relevant to the repo's unit/relation/carrier architecture.
 
-## VIII. What remains open
+## X. What remains open
 
 High-value but non-blocking:
 
-1. locate any surviving 1898–99 Lovejoy notes specifically on Wisdom literature / Ecclesiastes;
-2. search MS-0038 for a Paris-period Wisdom manuscript or paper title;
-3. test whether the 1907 article cites/commentates any exact source or passage already named in the 1898 letters beyond broad corpus overlap;
-4. search 1899–1904 teaching/publication records for reactivation of Wisdom literature before the dated 1905 notebook block;
-5. identify whether Lovejoy's 1898 `Wisdom work` produced a paper, fellowship report, lecture, or abandoned project.
+1. recover the 1902 `Ecclesiastes Instructed` original page and determine what exact Ecclesiastes proposition is being answered;
+2. locate any surviving 1898–99 Lovejoy notes specifically on Wisdom literature / Ecclesiastes;
+3. obtain Wilson's 1974–75 detailed MS-0038 item/correspondence index;
+4. recover Lovejoy's 1898 James Walker Fellowship application/appointment paperwork;
+5. search MS-0873 late Dec 1898–summer 1899 for project outcome/redirection;
+6. recover both 1901 Washington University Association syllabi;
+7. test whether the 1907 article cites/commentates any exact source or passage already named in the 1898 letters beyond broad corpus overlap.
 
-Until such evidence is found, use `reactivation / repartition` rather than `continuous project`.
+Until such evidence is found, use `reactivation / recurrence / repartition / recombination` rather than `continuous project`.
 
-## IX. JHI relevance
+## XI. JHI relevance
 
-This branch does **not** need to enter the current Blog. The Blog already has sufficient architecture and is under the word ceiling.
+This branch does **not** need to enter the current Blog. The Blog already has sufficient architecture.
 
 Its value is analytical control:
 
 - it independently confirms that Lovejoy could keep a corpus while changing the question;
+- it shows carrier form can change independently of corpus continuity;
 - it shows relation-specific authority allocation in a second textual tradition outside Buddhism;
 - it makes the October 1898 philosophy/comparative-religion boundary concrete rather than abstract;
 - it provides a non-Buddhist control against claiming that the notebook operations are uniquely generated by Buddhist philology.
 
 ## Restart shorthand
 
-> **HEBREW/WISDOM 1896–1907: direct Harvard card closes Toy Semitic 13 (A). MS-0873 now shows a live Paris `Wisdom work`: Ecclesiastes/problem of evil, Vernes Psalms, Israel Lévi textual material, Hebrew reuse, Theology-library commentaries, and active rejection of Sabatier Acts as outside the year's project. 1905 notebook 005 reactivates overlapping OT material as Hebrew eschatology/nephesh-ruach; 1907 Ethical Inwardness repartitions Job/Psalms/Proverbs/Ben Sira/Ecclesiastes/Wisdom around inward virtue and gives Toy authority for relative chronology while Lovejoy reconstructs logical sequence. Safe relation = CORPUS REACTIVATION + QUESTION SHIFT + AUTHORITY REALLOCATION, not continuous nine-year project.**
+> **HEBREW/WISDOM 1896–1907: Toy Semitic 13 (A) is direct-primary closed. MS-0873 shows a live 1898 Paris `Wisdom work`: Ecclesiastes/problem of evil, Vernes Psalms, Israel Lévi textual material, Hebrew reuse, Theology-library commentaries, under a James Walker Fellowship that Lovejoy represented as principally philosophical. The gap is no longer simply 1898→1905: Wilson records a 1902 Lovejoy sonnet `Ecclesiastes Instructed`, whose original remains to be recovered; its thematic summary is compatible with Lovejoy's directly readable 1902 social/process value theory but genetic identity is held. 1905 notebook 005 reactivates overlapping OT material as Hebrew eschatology/nephesh-ruach; 1907 Ethical Inwardness repartitions the corpus around inward virtue and separates Toy's chronological authority from Lovejoy's logical reconstruction. Safe relation = CORPUS REACTIVATION + QUESTION SHIFT + AUTHORITY REALLOCATION + CARRIER SHIFT, not continuous project.**
