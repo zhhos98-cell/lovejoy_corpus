@@ -121,62 +121,92 @@ Operational sequence:
 
 Important correction: Brinton is not adequately described as a crude doctrinal stadialist. He rejects the Comte fetishism → polytheism → monotheism ladder and refuses to make animism a self-contained religious stadium. The stronger ordering moves one level upward into cultural-stage synchronization and psychology.
 
-Compact comparison:
+## 6. Boas 1896 — process-first comparability and predicate survival
 
-> **Brinton = synchronization by cultural-stage equivalence.**
+Primary route:
+
+- `research_notes/boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
+
+Current result:
+
+Boas directly attacks the move from recurrent formal similarity to identical cause and one uniform developmental history. The same ethnological result may arise from multiple processes; extended comparison therefore requires a prior proof of comparability.
+
+At the same time, the paper continues to use `primitive man`, `primitive tribes`, and `primitive art`, and it retains laws, stages of culture, and eventual generalization after local historical reconstruction.
+
+This yields a crucial predicate/inference split:
+
+`primitive classification survives`
+
+while
+
+`uniform-history inference from primitive similarity is restricted`.
+
+Boas also explicitly names Brinton as the most pronounced American representative of the uniform-human-mind comparative view under criticism. This makes Boas/Brinton a direct period methodological confrontation rather than a retrospective textbook contrast.
+
+The strongest three-way control is now:
+
+> **Brinton = stage-first synchronization.**
 >
-> **Lovejoy = transverse equivalence after relational decomposition.**
+> **Boas = process-first comparability.**
+>
+> **Lovejoy = relation-first reaggregation.**
 
-This is a difference of route and endpoint, not a binary of totalization versus pluralism.
+These differ in what must be established before heterogeneous cases may be pooled and in the scale at which historical position is reassigned.
 
-## 6. Emerging technical model of `primitive`
+## 7. Emerging technical model of `primitive`
 
-The project currently distinguishes at least four operations:
+The project currently distinguishes at least five operations:
 
 1. **relational primitiveness** — a mechanism, representation, layer, or relation is classified as primitive;
 2. **internal stratification** — one historical object contains differently dated/logically positioned components;
 3. **transverse reaggregation** — similarly classified relations are grouped across otherwise heterogeneous objects;
-4. **population synchronization** — whole living populations are assigned comparable developmental positions.
+4. **population synchronization** — whole living populations are assigned comparable developmental positions;
+5. **process-first comparability** — resemblance is insufficient for pooling until historical process/cause has been adjudicated.
 
 These operations can coexist.
 
-The current two-axis model is:
+The current two-axis model remains useful:
 
 - **vertical/internal axis:** strata inside traditions, texts, rites, concepts, institutions;
 - **horizontal/transverse axis:** equivalence among similarly classified strata across traditions.
 
+But Batch 223 adds a prior **comparability gate**: the right to move horizontally cannot be inferred from formal resemblance alone.
+
 Population-level developmental position can then be imposed as an additional higher-order address.
 
-## 7. Current high-value formulation
+## 8. Current high-value formulation
 
 Avoid:
 
 - `primitive simply means earlier`;
 - `Lovejoy always resists flattening`;
 - `Brinton is just unilineal evolutionism`;
+- `Boas simply abolishes evolutionary or primitive categories`;
 - `philological precision later degenerates into anthropology`.
 
 Prefer:
 
-> **Historical ordering moves from calendar succession toward relation-specific position. Once relations become detachable from whole historical objects, they become portable across traditions. That portability can support new comparative reaggregations, including population-level developmental synchronization.**
+> **Historical ordering moves from calendar succession toward relation- and process-specific position. The decisive variable is not merely whether an actor uses `primitive`, but what inferential permissions follow from assigning the predicate: whether it licenses stage equivalence, demands reconstructed process, or permits relation-specific transverse comparison.**
 
 A shorter formulation:
 
-> **The history of `primitive` is partly a history of converting date into position.**
+> **The history of `primitive` is partly a history of converting date into position and regulating the transfer of that position across cases.**
 
-## 8. Evidence firewall
+## 9. Evidence firewall
 
-Project analytical terms such as `relational decomposition`, `scale contraction`, `transverse reaggregation`, `population synchronization`, `dechronologization`, `positional rechronologization`, `predicate topology`, and `scale-control` are not Lovejoy's or Brinton's own vocabulary unless directly quoted in a source-specific note.
+Project analytical terms such as `relational decomposition`, `scale contraction`, `transverse reaggregation`, `population synchronization`, `dechronologization`, `positional rechronologization`, `predicate topology`, `scale-control`, `process-first comparability`, `comparability gate`, and `predicate/inference split` are not Lovejoy's, Brinton's, or Boas's own vocabulary unless directly quoted in a source-specific note.
 
 Do not infer direct influence from local or institutional proximity. Brinton's Boston lectures are a direct period control and an explicit later interlocutor; Lovejoy attendance and direct transmission remain HOLD.
 
+Do not infer that Lovejoy read Boas's 1896 paper or derived notebook 004/005 from Boas. Boas is currently a direct period methodological control.
+
 Do not infer manuscript identity from title continuity. The AOS 1897 → JAOS 1898 sequence is a strong publication-path precursor, not proof that one unchanged manuscript survives across all states.
 
-## 9. Default continuation routes
+## 10. Default continuation routes
 
 When the user says `continue` without specifying a branch, choose by immediate context:
 
 - if discussing manuscript/source ownership → resume `CURRENT_STATE.md` archival queue;
-- if discussing `primitive`, chronology, politics, Brinton, or 1906 → continue the argument-development branch from Batches 208–210, 221–222;
+- if discussing `primitive`, chronology, politics, Brinton, Boas, or 1906 → continue the argument-development branch from Batches 208–210, 221–223;
 - if discussing JHI Blog production → route through `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` + `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`;
 - if discussing Paris actor evidence → route through `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`.
