@@ -1,15 +1,15 @@
 # Lovejoy corpus — project argument map
 
-Last synchronized: 2026-09-03
+Last synchronized: 2026-09-03  
 Status: **LIVING ARGUMENT ROUTER / DOES NOT OVERRIDE EVIDENCE GATES**
 
 This file answers a different question from `CURRENT_STATE.md` and `CANONICAL_INDEX.md`.
 
-- `CURRENT_STATE.md` = what is currently open/closed.
+- `CURRENT_STATE.md` = what is currently open, held, frozen, or complete.
 - `CANONICAL_INDEX.md` = where authoritative files live.
 - `PROJECT_ARGUMENT_MAP.md` = how the major historical arguments connect.
 
-Do not use this file as a substitute for direct primary controls or transcription authority.
+Do not use this file as a substitute for direct primary controls, transcription authority, or source-ownership adjudication.
 
 ## 1. Core project problem
 
@@ -17,13 +17,11 @@ The project asks how late nineteenth- and early twentieth-century historical and
 
 Current working thesis:
 
-> `primitive` is best treated not merely as a chronological adjective or ideological contradiction but as an operational stratifying category that can assign different historical, logical, causal, genealogical, or cultural positions to components of heterogeneous objects.
+> **`primitive` is best treated not merely as a chronological adjective or ideological contradiction but as an operational stratifying category whose force depends on the inferential permissions attached to the classification.**
 
-The key analytical distinction is between **date** and **position**.
+The key analytical distinction is between **date** and **position**. A population, belief, mechanism, rite, textual component, or conceptual relation may be contemporary in calendar time while being assigned a different historical, developmental, logical, causal, or genealogical position.
 
-A population, belief, mechanism, rite, or textual component may be contemporary in calendar time while being assigned a different historical/developmental position.
-
-## 2. Lovejoy 1897–98 — decomposition and publication contraction
+## 2. Lovejoy 1897–98 — decomposition and public scale contraction
 
 Primary route:
 
@@ -41,9 +39,9 @@ Documented public title path:
 
 Current interpretation:
 
-> The public-facing research object contracts from whole-text argument to term-level semantic problem. This does not prove one manuscript was simply renamed; it does provide direct publication-path evidence for scale contraction.
+> The public-facing research object contracts from whole-text argument to term-level semantic problem. This is direct publication-path evidence for scale contraction, not proof that one manuscript was simply renamed without alteration.
 
-MS38_004 supplies the stronger methodological control: temporal sequence, logical classification, etymology, usage, provenance, function, resemblance, and genealogy repeatedly receive separate proof burdens.
+Notebook 004 supplies the stronger methodological control. Temporal sequence, logical classification, etymology, usage, provenance, function, resemblance, and genealogy repeatedly receive separate proof burdens.
 
 Compact rule:
 
@@ -61,11 +59,13 @@ Current result:
 
 Notebook 005 allows relation-specific historical strata to coexist inside heterogeneous traditions, rites, and conceptual complexes. `Primitive` can attach to a component, mechanism, representation, or layer without requiring the entire object or population to occupy one homogeneous temporal state.
 
-This yields a vertical/internal model:
+Vertical/internal model:
 
 `historical object`
 
 → multiple strata with non-isomorphic temporal / logical / causal / genealogical positions.
+
+The archive track has now established that most component mechanism vocabulary is source-owned. The stronger Lovejoy-local claim lies in source ranking, case reclassification, relation-separation, mechanism-to-social-bearer mapping, historical-path testing, rival-genealogy restriction, and explicit alternatives. This protects the argument from converting failed source recovery into originality.
 
 ## 4. Lovejoy 1906 — transverse reaggregation
 
@@ -89,11 +89,11 @@ Lovejoy 1906 isolates an impersonal, communicable, quasi-mechanical efficacy acr
 
 Thus decomposition does not necessarily dissolve totalization.
 
-> **Historical/genealogical pluralism can coexist with mechanism universalism and collective reaggregation.**
+> **Historical or genealogical pluralism can coexist with mechanism universalism and collective reaggregation.**
 
-The important continuity from 1897–98 is not permanently small scale. It is relation-type discrimination followed by variable decisions about the level at which reaggregation is permitted.
+The important continuity from 1897–98 is therefore not permanently small scale. It is relation-type discrimination followed by variable decisions about the level at which reaggregation is permitted.
 
-## 5. Brinton 1897 — positional chronology and population synchronization
+## 5. Brinton 1897 — stage-first synchronization
 
 Primary route:
 
@@ -119,9 +119,9 @@ Operational sequence:
 
 → `primitive peoples/religions become a coherent comparative object`.
 
-Important correction: Brinton is not adequately described as a crude doctrinal stadialist. He rejects the Comte fetishism → polytheism → monotheism ladder and refuses to make animism a self-contained religious stadium. The stronger ordering moves one level upward into cultural-stage synchronization and psychology.
+Brinton should not be reduced to a crude doctrinal stadialist. He rejects the Comte fetishism → polytheism → monotheism ladder and refuses to make animism a self-contained religious stadium. The stronger ordering move operates at the level of cultural-stage synchronization and psychology.
 
-## 6. Boas 1896 — process-first comparability and predicate survival
+## 6. Boas 1896 — process-first comparability
 
 Primary route:
 
@@ -133,7 +133,7 @@ Boas directly attacks the move from recurrent formal similarity to identical cau
 
 At the same time, the paper continues to use `primitive man`, `primitive tribes`, and `primitive art`, and it retains laws, stages of culture, and eventual generalization after local historical reconstruction.
 
-This yields a crucial predicate/inference split:
+Predicate/inference split:
 
 `primitive classification survives`
 
@@ -141,40 +141,40 @@ while
 
 `uniform-history inference from primitive similarity is restricted`.
 
-Boas also explicitly names Brinton as the most pronounced American representative of the uniform-human-mind comparative view under criticism. This makes Boas/Brinton a direct period methodological confrontation rather than a retrospective textbook contrast.
+Boas explicitly names Brinton as a pronounced American representative of the uniform-human-mind comparative position under criticism. This makes Boas/Brinton a direct period methodological confrontation rather than a retrospective textbook contrast.
 
-The strongest three-way control is now:
+## 7. Three-way control
 
-> **Brinton = stage-first synchronization.**
->
-> **Boas = process-first comparability.**
->
+The strongest compact comparison is:
+
+> **Brinton = stage-first synchronization.**  
+> **Boas = process-first comparability.**  
 > **Lovejoy = relation-first reaggregation.**
 
-These differ in what must be established before heterogeneous cases may be pooled and in the scale at which historical position is reassigned.
+These differ in what must be established before heterogeneous cases may be pooled, what type of historical position is assigned, and the scale at which reaggregation becomes legitimate.
 
-## 7. Emerging technical model of `primitive`
+This is a structural control. It is not evidence that Lovejoy read Boas's 1896 paper, attended Brinton's lectures, or derived notebooks 004/005 from either actor.
+
+## 8. Emerging technical model of `primitive`
 
 The project currently distinguishes at least five operations:
 
 1. **relational primitiveness** — a mechanism, representation, layer, or relation is classified as primitive;
-2. **internal stratification** — one historical object contains differently dated/logically positioned components;
+2. **internal stratification** — one historical object contains differently dated or logically positioned components;
 3. **transverse reaggregation** — similarly classified relations are grouped across otherwise heterogeneous objects;
 4. **population synchronization** — whole living populations are assigned comparable developmental positions;
 5. **process-first comparability** — resemblance is insufficient for pooling until historical process/cause has been adjudicated.
 
 These operations can coexist.
 
-The current two-axis model remains useful:
+Two spatial metaphors remain useful:
 
-- **vertical/internal axis:** strata inside traditions, texts, rites, concepts, institutions;
+- **vertical/internal axis:** strata inside traditions, texts, rites, concepts, or institutions;
 - **horizontal/transverse axis:** equivalence among similarly classified strata across traditions.
 
-But Batch 223 adds a prior **comparability gate**: the right to move horizontally cannot be inferred from formal resemblance alone.
+Boas adds a prior **comparability gate**: the right to move horizontally cannot be inferred from formal resemblance alone. Population-level developmental position can then be imposed as an additional higher-order address.
 
-Population-level developmental position can then be imposed as an additional higher-order address.
-
-## 8. Current high-value formulation
+## 9. High-value formulation
 
 Avoid:
 
@@ -188,25 +188,23 @@ Prefer:
 
 > **Historical ordering moves from calendar succession toward relation- and process-specific position. The decisive variable is not merely whether an actor uses `primitive`, but what inferential permissions follow from assigning the predicate: whether it licenses stage equivalence, demands reconstructed process, or permits relation-specific transverse comparison.**
 
-A shorter formulation:
+Short form:
 
 > **The history of `primitive` is partly a history of converting date into position and regulating the transfer of that position across cases.**
 
-## 9. Evidence firewall
+## 10. Evidence firewall
 
-Project analytical terms such as `relational decomposition`, `scale contraction`, `transverse reaggregation`, `population synchronization`, `dechronologization`, `positional rechronologization`, `predicate topology`, `scale-control`, `process-first comparability`, `comparability gate`, and `predicate/inference split` are not Lovejoy's, Brinton's, or Boas's own vocabulary unless directly quoted in a source-specific note.
+Project terms such as `relational decomposition`, `scale contraction`, `transverse reaggregation`, `population synchronization`, `dechronologization`, `positional rechronologization`, `predicate topology`, `scale-control`, `process-first comparability`, `comparability gate`, and `predicate/inference split` are analyst vocabulary unless a source-specific note establishes actor usage.
 
-Do not infer direct influence from local or institutional proximity. Brinton's Boston lectures are a direct period control and an explicit later interlocutor; Lovejoy attendance and direct transmission remain HOLD.
-
-Do not infer that Lovejoy read Boas's 1896 paper or derived notebook 004/005 from Boas. Boas is currently a direct period methodological control.
+Do not infer direct influence from local or institutional proximity. Brinton's Boston lectures are a direct period control and an explicit later interlocutor; Lovejoy attendance and direct transmission remain HOLD. Boas is currently a period methodological control, not a proven source for Lovejoy.
 
 Do not infer manuscript identity from title continuity. The AOS 1897 → JAOS 1898 sequence is a strong publication-path precursor, not proof that one unchanged manuscript survives across all states.
 
-## 10. Default continuation routes
+## 11. Default continuation routes
 
 When the user says `continue` without specifying a branch, choose by immediate context:
 
-- if discussing manuscript/source ownership → resume `CURRENT_STATE.md` archival queue;
-- if discussing `primitive`, chronology, politics, Brinton, Boas, or 1906 → continue the argument-development branch from Batches 208–210, 221–223;
-- if discussing JHI Blog production → route through `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md` + `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md` + `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`;
-- if discussing Paris actor evidence → route through `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`.
+- manuscript/source ownership → resume the archival queue in `CURRENT_STATE.md`;
+- `primitive`, chronology, politics, Brinton, Boas, 1906, comparability, or reaggregation → continue the argument-development branch from Batches 208–210 and 221–223;
+- JHI Blog production → route through `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`, `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`, and `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`;
+- Paris actor evidence → route through `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`.
