@@ -12,6 +12,50 @@ Prioritize sources by:
 4. precision of current locator;
 5. avoidance of duplicate or open-ended archive requests.
 
+## P0 — JHU `Fire Cults` and Mana Concept, 1906
+
+Institution: Johns Hopkins University Special Collections  
+Collection: Arthur O. Lovejoy papers, MS-0038  
+Exact locator: **Box 23, Folder 11 — `Fire Cults` and Mana Concept, 1906**.
+
+Finding-aid scope/content already closed in the repository:
+
+- miscellaneous notes;
+- some material in Washington University envelopes;
+- manuscript fragments on `fire cults` and other practices explicitly related to Lovejoy's 1906 *Monist* article `The Fundamental Concept of the Primitive Philosophy`.
+
+Why promoted to P0:
+
+- exact and probably small target, therefore unusually high expected value per scan;
+- can expose the source pool and rejected/omitted cases behind the 1906 published aggregate;
+- may preserve manuscript-to-print states close enough for publication genetics;
+- can test the Meylan corpus-boundary hypothesis at manuscript level rather than only through printed omission;
+- Lovejoy's 1906 article described the inquiry as a first stage/chapter of a larger study;
+- Lovejoy's direct 1914 Leuba review still says mana/manitou `profoundly interpenetrates other elements of early belief`, affects religious development, and should be traced beyond a primitive stage into higher phases;
+- therefore the folder may be a prepublication source pool, an unpublished continuation, or a mixed reused dossier.
+
+Request complete folder preserving:
+
+- every leaf recto/verso;
+- envelopes, including fronts/backs;
+- inserts and original order;
+- blank-but-annotated versos;
+- material/form clues that can distinguish prepublication, postpublication and later reuse.
+
+Claim impact:
+
+`PRINTED 1906 CATEGORY + LATER 1914 RETROSPECTIVE`
+-> potentially `SOURCE POOL / VERSION RELATION / ABANDONED LARGER STUDY / CORPUS BOUNDARY`.
+
+Firewalls:
+
+- `RELATED MANUSCRIPT FRAGMENTS != PROVED SECOND CHAPTER`;
+- `FOLDER DATE 1906 != EVERY LEAF COMPOSED IN 1906`;
+- `OMITTED FROM PRINT != DELIBERATELY EXCLUDED FOR CIVILIZATIONAL REASONS` without manuscript evidence.
+
+Authority:
+`research_notes/Lovejoy_1906_1914_Fire_Cults_larger_study_publication_genetics_target_2026-09-03.md`.
+
 ## P1 — Daniel J. Wilson 1974–75 detailed MS-0038 index
 
 Institution: Johns Hopkins University Special Collections  
@@ -22,7 +66,7 @@ Ask for:
 
 > Daniel J. Wilson's 1974–75 detailed index/catalogue to the Arthur O. Lovejoy papers (MS-0038), including the subject/title-of-each-item index and complete correspondence index referred to in the finding aid's Processing Information.
 
-Why first:
+Why first after P0:
 
 - potentially exposes item-level titles not visible in current public folder descriptions;
 - can route `Wisdom`, `Ecclesiastes`, `Psalms`, `Hebrew`, `Vernes`, `Paris`, early Buddhist work, and many later correspondence questions;
@@ -112,7 +156,7 @@ Questions:
 
 Why fourth:
 
-- highly relevant but potentially larger than P1/P2;
+- highly relevant but potentially larger than P0/P1/P2;
 - date-window request should be much cheaper than all five binders;
 - Wilson index, if obtained first, may narrow exact letters further.
 
@@ -180,7 +224,10 @@ These may be high-value sources but are lower in **new-request** priority becaus
 
 ## Cost-efficiency note
 
-The most economical sequence is:
+The most economical sequence is now:
+
+`P0 Box 23/11 Fire Cults + Mana Concept`
+-> close a small exact publication-genetics/source-selection target while the larger JHU quotes remain pending;
 
 `P1 Wilson index`
 -> use it to refine `P4 MS-0873` and any further MS-0038 requests;
@@ -189,7 +236,7 @@ The most economical sequence is:
 -> decide whether the 1898 Wisdom/Buddhism project has an institutional precursor;
 
 `P3 Sacramento packet`
--> close four direct-primary gaps with one periodical request, including the new 1895 pre-Harvard baseline.
+-> close four direct-primary gaps with one periodical request, including the 1895 pre-Harvard baseline.
 
 Only then should more diffuse correspondence or editorial provenance be ordered unless a new source changes the branch.
 
@@ -201,7 +248,8 @@ Only then should more diffuse correspondence or editorial provenance be ordered 
 - `PUBLICATION IN SAME VENUE != COMMON EDITORIAL CAUSE`.
 - `SAME CORPUS != SAME QUESTION != SAME CARRIER != GENETIC CONTINUITY`.
 - `CHANGE BETWEEN 1895 AND 1904 != HARVARD / BUDDHISM CAUSED THE CHANGE`.
+- `RELATED MANUSCRIPT FRAGMENTS != PROVED SECOND CHAPTER`.
 
 ## Current restart shorthand
 
-> **Acquisition priority: P1 Wilson 1974–75 index; P2 Harvard James Walker 1898 packet; P3 Sacramento 1895/1896/1900/1902 bundled primary texts — 1895 Monboddo is now the pre-Harvard baseline/falsification target; P4 targeted MS-0873 late-Dec-1898–summer-1899 tranche; P5 Washington University 1901 syllabus pair; P6 Bancroft Hearst editorial-provenance folder. Existing JHU Evolution/Primitive Religion quotes remain pending and should not be duplicated.**
+> **Acquisition priority: P0 JHU MS-0038 Box 23 Folder 11 `Fire Cults` and Mana Concept, 1906 — exact small publication-genetics/source-selection target; P1 Wilson 1974–75 index; P2 Harvard James Walker 1898 packet; P3 Sacramento 1895/1896/1900/1902 bundled primary texts; P4 targeted MS-0873 late-Dec-1898–summer-1899 tranche; P5 Washington University 1901 syllabus pair; P6 Bancroft Hearst editorial-provenance folder. Existing JHU Evolution/Primitive Religion quotes remain pending and should not be duplicated.**
