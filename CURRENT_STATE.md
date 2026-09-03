@@ -2,309 +2,157 @@
 
 Last synchronized: 2026-09-03
 
-Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 1898 PAGE CONCORDANCE 191/191 / 004 HIGH-VALUE CLAUSE OWNERSHIP CLOSED FOR PRESENT ARGUMENT / 005 HIGH-VALUE SOURCE OWNERSHIP CLOSED THROUGH ROUND 28 + TARGETED HOLD ADJUDICATION THROUGH ROUND 33 / 005 DIPLOMATIC TRANSCRIPTION INCOMPLETE / AOS 1897 DIRECT-PRIMARY CLOSURE / MS0873 FRANCE 1898–99 ARCHIVAL-TRANSCRIPTION DIRECT READ CLOSED / MS0038 DIGITIZATION QUOTES PENDING / UNIT×RELATION v0.7**
+Status: **JHI v3.4 HOLD / ARCHIVE PAGE COVERAGE 191/191 / 004 HIGH-VALUE CLAUSE OWNERSHIP CLOSED FOR PRESENT ARGUMENT / 005 BROAD SOURCE OWNERSHIP CLOSED + TARGETED ADJUDICATION THROUGH ROUND 37 / 005 DIPLOMATIC TRANSCRIPTION INCOMPLETE / 1898 PAGE CONCORDANCE 191/191 / AOS 1897 DIRECT-PRIMARY CLOSURE / MS0873 FRANCE 1898–99 ARCHIVAL-TRANSCRIPTION DIRECT READ CLOSED / MS0038 DIGITIZATION QUOTES PENDING / UNIT×RELATION v0.7**
 
-This is the repository's single living state file. Historical status language elsewhere does not override it.
+This is the repository's single living state file. Historical state language elsewhere does not override it.
 
 ## Restart order
 
-1. `CURRENT_STATE.md` — this file.
-2. `TRANSCRIPTION_COMPLETION_QUEUE.md` — diplomatic completion criteria and image queue.
-3. `CANONICAL_INDEX.md` — stable evidence navigation.
-4. `QUELLENFORSCHUNG_CURRENT_GATE.md` — source-ownership rules.
-5. 004 terminal dossiers: Rounds 21/21b.
-6. 005 terminal source-ownership dossier: Round 28, with Rounds 22–27 as its substrate and Rounds 29–33 as targeted HOLD adjudications.
+1. `CURRENT_STATE.md`.
+2. `TRANSCRIPTION_COMPLETION_QUEUE.md` for image/diplomatic completion.
+3. `CANONICAL_INDEX.md` for stable navigation.
+4. `QUELLENFORSCHUNG_CURRENT_GATE.md` for evidence rules.
+5. Notebook 004 terminal source dossiers: Rounds 21/21b.
+6. Notebook 005 terminal source dossier: Round 28, then targeted Rounds 29–37.
 
----
+## Governing firewalls
 
-## 1. JHI Blog — production hold
+- `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
+- `NOTEBOOK HANDWRITING != PROPOSITION AUTHORSHIP`.
+- `SOURCE-OWNED CONSTITUENTS != SOURCE-OWNED RELATION`.
+- `PRINTED SOURCE COLLATION != RECOVERY OF ILLEGIBLE MANUSCRIPT WORDING`.
+- `EDITORIAL SUMMARY GRAMMAR != MANUSCRIPT AUTHORSHIP`.
+- `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
+- `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 
-Active text:
+## Notebook 004
 
-`research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md`
-
-State:
-
-- 1,880 body words;
-- four endnotes;
-- no v3.5;
-- latest generated DOCX remains v3.3 until v3.4 is regenerated and render-QA'd;
-- no current research contradiction requires a Blog rewrite;
-- text production awaits publication name, affiliation/short bio, and final image choice.
-
-Keep:
-
-> `The formation was known but differently classified.`
-
-If the Paris/Marillier formation sentence is reopened, reserve distinctiveness for **selection, source evaluation, reassignment, recomposition, social-jurisdiction mapping, rival-genealogy adjudication, historical-path testing, and later reaggregation**, not for the underlying mechanism inventory.
-
-Preferred image: notebook 004 PDF p.42 / manuscript p.123, subject to JHU permission. Fallback: public-domain opening page of Lovejoy's 1898 JAOS article.
-
----
-
-## 2. Archival core — coverage versus completion
-
-- notebook 004: 71/71 first-pass pages; targeted image control and high-value clause ownership conceptually closed for the present argument; micro-paleographic/bibliographic residue remains; **not a full diplomatic edition**;
-- notebook 005: 120/120 first-pass pages; targeted image rechecks through Round 20; high-value source ownership conceptually closed through Round 28 and narrowed by targeted Rounds 29–33; **diplomatic transcription remains active and incomplete**;
-- combined material-form overview: 191/191 pages.
-
-`191/191` is page coverage, not diplomatic completion. A `corrected_text` field may contain diplomatic wording, readable fragments, or editorial argument summary.
-
-Authoritative page records: twelve paginated `archive_transcriptions/MS38_004_001_061_{004,005}_p*_clean.json` files.
-
-Integrated working surface:
-
-`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`
-
-The legacy filename contains `final`; it does not mean full diplomatic closure.
-
----
-
-## 3. Governing source-critical rules
-
-> **Notebook handwriting is a carrier, not proof of proposition authorship.**
-
-> **Source-owned constituent propositions do not automatically establish source ownership of the relation Lovejoy draws among them.**
-
-> **A stronger proposition does not inherit evidence that established a weaker proposition.**
-
-Hard firewalls:
-
-- `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`;
-- `NOTEBOOK HANDWRITING != PROPOSITION AUTHORSHIP`;
-- `SOURCE-OWNED CONSTITUENTS != SOURCE-OWNED RELATION`;
-- `PRINTED SOURCE COLLATION != RECOVERY OF ILLEGIBLE MANUSCRIPT WORDING`;
-- `ANALYTIC PARALLEL != PUBLICATION GENEALOGY`;
-- `CASE SUBSTITUTION != CLAIM REVISION`;
-- `TEXTUAL RESEMBLANCE != TRANSMISSION`;
-- `PROGRAMME != PRACTICE != INFRASTRUCTURE != CANON`;
-- `ARCHIVAL TRANSCRIPTION WITNESS != AUTOGRAPH LETTER`.
-
----
-
-## 4. Notebook 004 — terminal clause-level state
-
-Terminal dossiers:
-
-- `research_notes/QUELLENFORSCHUNG_round21_clause_level_source_boundary_recut_2026-09-03.md`;
-- `research_notes/QUELLENFORSCHUNG_round21b_pp048-071_authorial_seams_2026-09-03.md`.
+71/71 first-pass pages. High-value clause ownership is closed for the present argument, not diplomatically complete.
 
 Main surviving local seams:
 
-- p.17: explicit Lovejoy supplement begins `To R.D.'s remark it shld be added`;
-- p.32: after the Rhys-Davids block, `What appears to me ...` and subsequent segmentation remain provisional local synthesis;
-- p.42 / ms p.123: constituent facts are upstream, while `temporally (?) ... logically` remains a strong local relation pair absent a closer carrier;
-- p.49: `discoverable logical system` remains a secure Lovejoy response to Senart;
-- p.51: `But is tre necessarily any ontological function involved? A.O.L.` is a strong marked author seam;
-- p.62: `This is all that is required for the purposes of my paper` is a strong claim-jurisdiction marker;
-- p.68: `Original Elements / Derived Elements` remains a Lovejoy-specific allocation inside an inherited stratification problem.
+- p.17: `To R.D.'s remark it shld be added`;
+- p.32: local segmentation after the Rhys-Davids block;
+- p.42 / ms p.123: `temporally (?) ... logically` relation pair;
+- p.49: `discoverable logical system` response to Senart;
+- p.51: marked `A.O.L.` ontological-function question;
+- p.62: `This is all that is required for the purposes of my paper`;
+- p.68: `Original Elements / Derived Elements` allocation.
 
-Only three narrow carrier HOLDs remain worth preserving: p.32 `v. p.167`; p.36 immediate English mediation for SN 38.12; p.53 immediate upstream carrier despite notebook-to-1898 continuity. Broad 004 source searching is closed.
+Only narrow carrier/image residue remains: p.32 `v. p.167`, p.36 English mediation for SN 38.12, p.53 immediate carrier. No broad reopening.
 
----
+## Notebook 005 — current source-critical ceiling
 
-## 5. Notebook 005 — terminal source-critical state
+120/120 first-pass pages; diplomatic completion remains incomplete. Broad source searching is closed. Most mechanism propositions belong to Marillier, Robertson Smith, Frazer, Tylor, Trumbull, Steinmetz, Cameron, Grout, Kingsley, Mannhardt, Lang, Ellis, Strack, and other ethnographic carriers.
 
-### Governing conclusion
+Strong secure Lovejoy-local relations remain concentrated at:
 
-Rounds 22–33 support the following formulation:
+- **p.49** — source ranking by evidential restraint;
+- **p.55** — `not ritual but alimentary` reclassification of Cameron-owned Manyéma material;
+- **p.65** — `delicate analysis` of presently fused ritual elements;
+- **p.66** — mechanism -> competent social bearer: expiation / whole community versus magic / magically skilled priests;
+- **pp.79–80** — Grout case: `veritable bargain`, rejection of deferred-payment reading, substitution/scapegoat diagnosis;
+- **pp.103–104** — external chronology tests ritual genealogy; historical path exclusion/selection;
+- **p.112** — rejects partial/substitute-human-sacrifice genealogy for circumcision and prefers initiation/blood-covenant/incorporation;
+- **p.119** — `not entirely clear — perh.` keeps organ-specific efficacy and part-as-representative-of-whole as rival mechanisms under explicit uncertainty.
 
-> **Notebook 005 does not document Lovejoy inventing the component mechanism vocabulary of comparative religion. Most propositions can be returned to Marillier, Robertson Smith, Frazer, Tylor, Trumbull, Steinmetz, Cameron, Grout, Kingsley, Mannhardt, Lang, and ethnographic carriers. Lovejoy's strongest recoverable activity lies between inherited propositions: ranking sources, reclassifying cases, mapping mechanism to social bearer, separating fused rationales, rejecting rival genealogies, testing historical paths, restricting generalizations, and sometimes keeping rival explanations open when the evidence underdetermines the mechanism.**
+### Round 33 — p.117
 
-Terminal dossier:
+W3 terminal frequency ordering remains secure:
 
-`research_notes/QUELLENFORSCHUNG_round28_005_terminal_authorial_seams_and_1906_ceiling_2026-09-03.md`
+1. alimentary/anthropophagic cases most numerous;
+2. expiatory & quasi-judicial next most numerous;
+3. human sacrifice for union `altogether exceptional`.
 
-Detailed substrate:
+Steinmetz/Mauss own the quantitative/motive-classification operator; Marillier/Robertson-Smith controversy owns the anti-universal-union field. Marillier's review of Steinmetz is bibliographically secure at *RHR* 34 (1896), pp.113–118. Exact three-step ordering has not been recovered upstream. **Exact proposition authorship remains HOLD.** Negative search is not authorship evidence.
 
-- Round 22 — pp.31–36 Marillier afterlife ownership;
-- Round 23 — pp.47–60 sacrifice ownership;
-- Round 24 — pp.61–75 mechanism/jurisdiction/reinterpretation;
-- Round 25 — pp.76–90 blood covenant/fetish/magic;
-- Round 26 — pp.91–105 Marillier inserts/agrarian path testing;
-- Round 27 — pp.106–120 terminal cannibalism/initiation/ranking.
+### Round 34 — pp.92–99 Marillier insert layers
 
-Targeted refinements:
+Direct-image W3 anchors:
 
-- Round 29 — p.84/p.87/p.117;
-- Round 30 + 30b — pp.103–104 and p.104/p.112/p.117/p.119;
-- Round 31 — p.112 circumcision source adjudication;
-- Round 32 — p.119 alternative body-part mechanisms;
-- Round 33 — p.117 ranked-frequency authorship ceiling.
+- p.92 `Marillier — June 13 — Sacrifice`;
+- p.94 `Marillier — 13 June — Sac.` + `C. Naturalistic divinities`;
+- p.96 `Marillier ... June 20`.
 
-### Strong surviving Lovejoy-local relation seams
+No current W3 Lovejoy-local question, arrow, correction, or objection has been recovered inside these insert layers. Existing summaries saying `Lovejoy asks/tests/distinguishes` are editorial shorthand. Safe subject: `the Marillier-mediated insert records/juxtaposes...`. These pages remain formation/circulation evidence; any local Lovejoy micro-seam is direct-image HOLD only.
 
-- **p.49** — source ranking: Tylor is praised as `the only one wh. does not construct theories beyond his evidence` and should be kept at hand;
-- **p.55** — Cameron owns the Manyéma facts; `not ritual but alimentary` remains a strong local mechanism reclassification;
-- **p.65** — `delicate analysis` explicitly dissociates presently fused ritual elements inside an inherited survivance/syncretism problem;
-- **p.66** — strongest social-jurisdiction relation: `expiatory sacrifice -> whole community` versus `magical sacrifice -> priests possessing magical skill in charms`;
-- **pp.79–80** — Grout case: `veritable bargain`, explicit rejection of simple deferred-payment formula, and substitution/scapegoat diagnosis;
-- **pp.103–104** — external agriculture/domestication chronology tests ritual genealogy; p.104 selects a human-sacrifice -> domestic-animal route while excluding direct wild-animal -> domestic-animal derivation;
-- **p.112** — strong A2 source adjudication: rejects a real nineteenth-century `circumcision = partial/substitute human sacrifice` genealogy and prefers initiation/blood-covenant/incorporation;
-- **p.119** — strong A2 rival-explanation test: organ-specific efficacy does not explain all selections; `not entirely clear — perh.` introduces part-as-representative-of-whole as an alternative mechanism under explicit uncertainty.
+### Round 35 — p.55 source boundary
 
-### Important downgrades
+Cameron's Manyéma/Moéné Bougga packet source-closes:
 
-- p.31–36 determinant-specific future-life decomposition is heavily Marillier-owned;
-- p.50 first three sacrifice class families are substantially Robertson-Smith-owned; local delta is rebracketing/fourth `magiques` class unless a closer carrier appears;
-- p.51 god-man vitality transfer is Frazer-owned; blood/common-meal communion belongs to Robertson-Smith field;
-- p.53/p.64 mechanical/direct magic grammar is Frazer-owned and magical sacrifice is Marillier-owned; local value lies in recombination/internal differentiation, not invention of `primitive energetics`;
-- p.69 animal -> human substitution is Robertson-Smith-owned at developmental-arrow level;
-- p.73 object-soul/destruction-as-release is Tylor-owned; survivance/reinterpretation problem is Marillier/Tylor field-owned;
-- p.84 foundation-sacrifice anti-union/multiple-mechanism decomposition is strongly prefigured by Trumbull, Robertson Smith/Casalis and especially Marillier 1898;
-- p.87 bodily-discharge magical efficacy is field-owned; Strack is the strongest immediate-carrier candidate, Bourke an independent control;
-- p.112's constituent theories and general negative-case method are field-owned; only the specific rejection/preference relation is Lovejoy-local;
-- p.119's constituent mechanisms are field-owned; only the explicit alternative fork is local.
+- combat dead;
+- sickness dead;
+- running-water maceration;
+- alimentary consumption.
 
----
+Cameron himself says male flesh good / female flesh bad, opposite to the current editorial summary's apparent female-gastronomic-superiority direction. Independent nineteenth-century Fiji/Pacific sources do contain a female-better/tender tradition, so a second source is plausible but unidentified.
 
-## 6. p.117 — terminal ranked synthesis, Round-33 ceiling
+Current p.55 state:
 
-The manuscript is W3 for the relative-frequency ordering:
+- `not ritual but alimentary`: W3, strong A2 case reclassification;
+- exact source break before sex/taste comparison: HOLD;
+- exact gastronomic direction: HOLD;
+- `therefore ... male power/value` connective: HOLD, not safe manuscript wording.
 
-1. `in gt. number of cases` — alimentary / anthropophagic;
-2. `in [the] next most numerous cases` — **expiatory & quasi-judicial**;
-3. `a human sacrifice for union is altogether exceptional`;
-4. actual union examples are relatively rare.
+No more generic cannibalism/gender searching.
 
-Round 33 closes the surrounding field:
+### Round 36 — p.90
 
-- Steinmetz 1896 already uses quantitative/motive classification;
-- Mauss 1896 explicitly criticizes statistics made with overly broad rubrics and identifies the same issue in *Endokannibalismus*;
-- Marillier's review of Steinmetz is bibliographically secure at *Revue de l'histoire des religions* 34 (1896), pp.113–118;
-- Marillier's 1897–98/1898–99 EPHE work continues ritual anthropophagy/human sacrifice, with Lovejoy documented as an active auditor in 1898–99;
-- no accessible pre-/co-1899 source has been recovered with the exact three-step p.117 ordering.
+Two constituent mechanism packets are now source-closed:
 
-**Do not promote this negative search result into Lovejoy authorship.**
+- A. B. Ellis 1894: human sacrifice supplies/localizes a guardian spirit to an artificial object/place;
+- Mary Kingsley 1897: during smallpox/war, West-African village gateways are sprinkled with sacrificial blood; villagers eat the meat, while blood is the sacrificial spirit-related component because `blood is the life`.
 
-Current p.117 state:
+The current summary's `Lovejoy separates this from direct magical efficacy` is not W3. The phrase `as a sort of turning of a key against the intruder` has only been recovered in project editorial summaries, not in Kingsley or searchable manuscript/OCR. Do not quote it as Lovejoy wording. p.90 is now an image-only relation HOLD.
 
-- wording/proposition: W3;
-- mechanism categories: F/A0;
-- quantitative/motive operator: Steinmetz/Mauss field A0–A1;
-- anti-universal-union position: Marillier/Robertson-Smith controversy A0–A1;
-- exact ordered proposition authorship: **HOLD**.
+### Round 37 — p.87
 
-Reopen p.117 only for version-level/source-specific evidence, especially Marillier RHR 34 pp.113–118, Marillier lecture/student notes, a visible p.117 source cue, or a Lovejoy draft showing generation/revision of the ranking. Generic anthropophagy/sacrifice searching is stopped.
+Hermann L. Strack, *Der Blutaberglaube bei Christen und Juden* (1891), is upgraded to the structurally strongest immediate-carrier candidate:
 
-Round-33 dossier:
+- notebook p.62 explicitly lists Strack;
+- pp.85–87 are a continuous blood/body-efficacy source run;
+- the 1891 book has a discrete section VI, `Abfälle und Abgänge des menschlichen Körpers`, beginning p.17 and ending before p.20;
+- the 1891 Google full-text index directly includes `Schweiß`.
 
-`research_notes/QUELLENFORSCHUNG_round33_005_targeted_HOLD_p117_ranked_frequency_authorship_ceiling_2026-09-03.md`
+The p.87 bodily-discharge proposition field is closed; Strack is T2/strongest immediate-carrier candidate. A visible p.87 `Strack / p.17` cue is still required for proved physical transmission. Do not back-project later expanded Strack wording into the 1891 edition. No more generic source search.
 
----
+## Remaining 005 queue after Round 37
 
-## 7. Remaining 005 HOLD queue after Round 33
+### Source/version-level
 
-### Source/authorial priority
+1. **p.117** — exact authorship of the W3 ranked synthesis. Reopen only with source-specific/version evidence, especially Marillier *RHR* 34 (1896), pp.113–118, Marillier lecture/student notes, visible p.117 source cue, or Lovejoy draft/version evidence.
 
-1. **p.117** — exact authorship of the W3 ranking; source-specific evidence only.
-2. **pp.92–99** — determine whether any questions, arrows, evaluative clauses, or connective judgments are Lovejoy additions inside physically Marillier-mediated insert layers.
+### Direct-image/diplomatic
 
-### Diplomatic/textual priority
+2. **p.55** — source boundary, sex/taste direction, and any Lovejoy power/value gloss.
+3. **p.90** — whether Ellis and Kingsley packets are explicitly separated by Lovejoy; verify/remove `turning of a key`.
+4. **p.87** — visible Strack/page attachment only.
+5. **p.33 / p.36** — Round-22 afterlife wording/authorial seams.
+6. **pp.92–99** — Marillier insert micro-seams only.
 
-3. **p.55** — male/female gastronomic-direction conflict between Cameron and current editorial summary.
-4. **p.90** — exact spirit-binding/location versus direct-blood-efficacy syntax.
-5. **p.87** — direct Strack/page cue; proposition ownership already closed.
-6. **p.33 / p.36** — Round-22 afterlife image HOLDs.
+p.66, p.112, p.119 are source-closed and retain only wording/micro-paleographic residue.
 
-p.66, p.112 and p.119 retain only wording/micro-paleographic residue and are not broad source-search targets.
+## 005 -> 1906 ceiling
 
-Broad source searching across 005 is closed for the present argument.
+> **The Paris notebook does not originate the component theory of impersonal efficacy. It documents Lovejoy repeatedly reallocating inherited causal categories, restricting competing genealogies, testing historical paths, mapping mechanism to social bearer, and sometimes leaving rival explanations open. The 1906 article later reaggregates one family of those relations at a broader comparative scale.**
 
----
+This is argument-level continuity, not proof of direct causal transmission.
 
-## 8. 005 -> 1906 ceiling
+## Other closed/live branches
 
-> **The Paris notebook does not originate the component theory of impersonal efficacy. It documents Lovejoy repeatedly reallocating inherited causal categories, restricting competing genealogies, and testing what relations particular evidence can bear. The 1906 article later reaggregates one family of those relations at a broader comparative scale.**
+- **1898 concordance:** all 191 notebook PDF pages classified once; every T3/T2/T1 page-to-print correspondence belongs to notebook 004. Notebook 005 supplies analytical parallels, not direct 1898 textual antecedents.
+- **AOS 1897:** direct-primary closure. Lovejoy's No.30 was read by title in his absence; the title chain is a strong precursor to the 1898 JAOS article; manuscript identity remains unproved.
+- **MS-0873 France 1898–99:** direct-read only at Wilson archival-transcription level, not autograph level. Key actor evidence: Lovejoy explicitly diagnoses the gap between philological textual expertise and philosophical reconstruction and seeks work spanning philosophy/comparative religion.
+- **JHU MS-0038 reproduction:** formal quotes pending; do not duplicate requests.
+- **JHI Blog:** v3.4 production hold; no current source-critical result forces a rewrite.
 
-This is argument-level continuity, not proof of direct causal transmission or textual migration.
+## Exact next action
 
----
-
-## 9. AOS 1897 / 1898 publication path — direct-primary closure
-
-Authoritative dossier:
-
-`research_notes/AOS_1897_Lovejoy_election_read_by_title_and_technical_terms_precursor_2026-09-01.md`
-
-Closed at current ceiling:
-
-- Lovejoy is absent from the Baltimore meeting attendance list, 22–24 April 1897;
-- paper No.30 was read by title in his absence;
-- 10 April circular announces `Critical summary of the argument of the Milinda-pañha`;
-- final proceedings describe No.30 as `On the meaning of the Buddhist technical terms ...`;
-- Lovejoy was elected an AOS corporate member at that meeting;
-- Historical Study of Religions Section was instituted at the same meeting;
-- 1898 membership structure does not list Lovejoy among Section members.
-
-Safe judgment:
-
-> **The late-April 1897 technical-terms communication is a strong direct title-chain/publication-path precursor to the 1898 JAOS article. Manuscript identity and exact textual continuity remain unproved.**
-
----
-
-## 10. 1898 page concordance
-
-Authority:
-
-- `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
-- corresponding CSV.
-
-All 191 PDF pages classified once: T3=16, T2=14, T1=17, C=12, A=41, N=89, X=2.
-
-Every T3/T2/T1 positive page-to-print correspondence belongs to MS38_004. MS38_005 supplies no direct textual or argumentative antecedent to the 1898 article; its A pages are analytical parallels only.
-
----
-
-## 11. Paris 1898–99 / MS-0873 archival-transcription witness
-
-Authority:
-
-`research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`
-
-JHU supplied 18 scanned pages of Daniel J. Wilson's transcriptions. This is direct access to an **archival transcription witness**, not Lovejoy's autograph letters.
-
-State-bearing actor evidence:
-
-- 9 Oct 1898: Lovejoy expects work in `philosophy and comparative religion`;
-- 20 Oct 1898: he explicitly diagnoses a jurisdiction gap between philologists who neglect philosophy and philosophers who reconstruct without textual technicalities;
-- he identifies Sylvain Lévi as the scholar he wants to study under;
-- December 1898: no Pāli Buddhism course; he proposes occasional private reading at Lévi's house; Wilson typescript reads `Petakas` and must remain diplomatic at that level;
-- same letter documents Maurice Vernes, Jean Réville, Faculty of Theology library use, and a Sabatier course tried then dropped as too remote/technically presuppositional;
-- 29 Jan 1899: enthusiastic Guyau reading, adjacent evidence only.
-
-Safe formulation:
-
-> **Before and during the Paris year, Lovejoy explicitly described a research problem produced by the separation of philological textual expertise from philosophical reconstruction, and sought study capable of joining the two.**
-
----
-
-## 12. JHU MS-0038 reproduction status
-
-Authority:
-
-`archive_index/JHU_MS0873_MS0038_remote_reproduction_status_2026-09-03.md`
-
-- Box 62 item 2, `Evolution of Religion notes`: very fragile, detached covers, approx.230 pages, formal quote pending;
-- Box 38 folders 9–11, `Primitive Religion`: double-sided notes, often folded or inside envelopes, formal quote pending;
-- known generic Digitization rate from correspondence: $35/hour; formal quotes still pending;
-- do not send duplicate requests.
-
----
-
-## 13. Exact next actions
-
-1. **005 pp.92–99 material-layer HOLD:** use existing image controls and Marillier insert identifications to isolate any Lovejoy-added questions/arrows/evaluative connectives. Do not treat the insert propositions as Lovejoy-owned by handwriting alone.
-2. If `MS38_004_001_061_005_41-80.pdf` becomes directly accessible, prioritize p.55 textual conflict and p.66 exact jurisdiction grammar; no broad source reopening.
-3. If the relevant 81–120 split image becomes directly accessible, prioritize p.90 exact syntax and pp.92–99 material layers; p.117 source ownership reopens only if a source cue or version evidence appears.
-4. If `MS38_004_001_061_005_1-40.pdf` becomes accessible, execute Round-22 p.33 -> p.36 image queue.
-5. After any canonical transcription batch actually changes, regenerate integrated reading surface and run `python tools/audit_repository.py`.
-6. AOS: obtain a true page image of JAOS 18 (1897), p.389 and diplomatically transcribe the complete No.30 title if that branch is resumed.
-7. Blog: regenerate v3.4 DOCX and render-QA only when publication inputs are ready.
-8. JHU reproduction: wait for formal quotes.
-
----
+1. Attempt **source-specific recovery of Marillier's 1896 Steinmetz review, *Revue de l'histoire des religions* 34, pp.113–118**, because this is the only remaining source retrieval that could materially adjudicate p.117.
+2. If that six-page review still cannot be recovered, stop 005 source work: remaining tasks are image/diplomatic only.
+3. When notebook split images become directly accessible, run p.55 -> p.90 -> p.87 and p.33 -> p.36 micro-seam queues without importing printed-source wording into the hand.
+4. Regenerate the integrated reading surface only after canonical transcription actually changes.
 
 ## Restart shorthand
 
-> **Current = 191/191 page coverage, not diplomatic completion. 004 high-value source ownership is closed for the present argument. 005 broad source ownership is closed through Round 28; targeted adjudication through Round 33 has further narrowed the residue. Strong Lovejoy-local seams now lie in source ranking, case reclassification, mechanism→jurisdiction mapping, genealogy/path adjudication, and explicit rival-explanation testing. p.117 is W3 but exact authorship remains HOLD; failed exact-source recovery is not originality evidence. The next productive 005 task is pp.92–99 material-layer attribution, followed by image-dependent p.55/p.90/p.33/p.36. AOS 1897 and 1898 concordance remain closed at their stated ceilings. MS-0873 is direct-read at archival-transcription level, not autograph level. JHU reproduction quotes are pending. Blog v3.4 remains production-held.**
+> **004 source ownership closed for present argument. 005 broad source ownership closed; targeted adjudication through Round 37. Strong Lovejoy-local seams are p.49, p.55, p.65, p.66, pp.79–80, pp.103–104, p.112, p.119. p.117 remains the sole major source/version HOLD. p.55, p.90, p.87, p.33/p.36, pp.92–99 are image/diplomatic HOLDs. Failed source recovery never licenses originality. Next source action: Marillier RHR 34 (1896), pp.113–118 only.**
