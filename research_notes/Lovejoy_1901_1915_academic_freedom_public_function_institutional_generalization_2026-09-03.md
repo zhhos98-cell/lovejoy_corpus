@@ -1,13 +1,13 @@
-# Lovejoy 1901 -> 1915 — academic freedom, public function, and institutional generalization
+# Lovejoy 1901 -> 1915 — academic freedom, dismissal jurisdiction, and institutional generalization
 
 Date: 2026-09-03  
-Status: **1901 ACTOR-LEVEL PRESS PRINCIPLE / 1915 COLLECTIVE PRIMARY DECLARATION / LOVEJOY SUBSTANTIVE DRAFT ROLE CONFIRMED SECONDARILY / NO SIMPLE TEXTUAL GENEALOGY**
+Status: **1901 ACTOR-LEVEL PRESS PRINCIPLE / 1915 COLLECTIVE PRIMARY + DRAFT-HISTORY CONTROL / LOVEJOY-SPECIFIC PRACTICAL-PROPOSAL INPUT IDENTIFIED / PUBLIC-TRUST CLAUSE REASSIGNED TO GIDDINGS / NO SIMPLE TEXTUAL GENEALOGY**
 
 ## Core result
 
-The newly recovered 1901 Ross press statement makes a long-term academic-freedom comparison substantially more precise.
+The 1901 Ross press statement and the 1915 AAUP Declaration are genuinely comparable, but the first comparison produced a source-ownership trap that can now be corrected.
 
-Lovejoy's 1901 public argument is already broader than a defense of Edward A. Ross. It links:
+Lovejoy's 1901 public argument links:
 
 `CASE-SPECIFIC DISMISSAL GROUNDS`
 -> `PROFESSIONAL LIBERTIES`
@@ -17,289 +17,346 @@ Lovejoy's 1901 public argument is already broader than a defense of Edward A. Ro
 -> `UNIVERSITY LEADERSHIP / SOCIAL USEFULNESS`
 -> `DEMOCRATIC SOCIETY`.
 
-The collective 1915 AAUP Declaration preserves closely related relations but rebuilds them into a professional-institutional architecture:
+The final 1915 Declaration contains closely parallel institutional relations. But **parallel final wording plus Lovejoy's membership on the drafting subcommittee does not establish Lovejoy's ownership of those clauses**.
 
-`UNIVERSITY AS PUBLIC TRUST`
-+
-`PROFESSORIAL INDEPENDENCE`
-+
-`PROFESSIONAL SELF-GOVERNMENT`
-+
-`PUBLIC / COMMUNITY FUNCTION`
-+
-`PRIVATE-ENDOWED VS STATE THREAT DIFFERENTIATION`
-+
-`JUDICIAL / DUE-PROCESS MACHINERY`.
+Hans-Joerg Tiede's draft history now supplies clause-level controls.
 
-The strongest safe relation is therefore:
+Most importantly:
 
-> **case-specific public principle -> later professional/institutional generalization and repartition**,
+> **The 1915 public-trust argument for privately endowed universities was taken almost verbatim from Franklin Giddings's submitted draft.**
 
-not:
+Therefore the tempting line
 
-> **1901 resignation statement -> direct draft of 1915 Declaration**.
+`LOVEJOY 1901 PRIVATELY ENDOWED INSTITUTIONS`
+-> `LOVEJOY 1915 PUBLIC TRUST`
+
+is **withdrawn as an authorship/continuity claim**.
+
+The stronger Lovejoy-specific 1901->1915 relation lies elsewhere:
+
+`1901 DISMISSAL GROUNDS / WHOSE JUDGMENT / ACADEMIC-FREEDOM APPLICABILITY`
+-> `1915 LOVEJOY NOTES ON PERSONNEL JURISDICTION / GROUNDS FOR DISMISSAL / FACULTY ADVICE AND CONSENT`
+-> `FINAL COLLECTIVE PROCEDURAL ARCHITECTURE`.
+
+This is a much more securely owned relation.
 
 ---
 
-## I. 1901 — Lovejoy's contemporaneous public principle
+## I. 1901 — actor-level public principle
 
 A later scholarly transcription explicitly cites `Stanford Professor Quits`, *Washington Post*, 3 May 1901, p.1, for Lovejoy's resignation statement. A contemporary *Hawaiian Gazette* reprint of 14 May 1901 independently preserves the later portion of the letter in OCR.
 
-The statement begins in a revealing way. Lovejoy does not simply invoke `academic freedom` as a self-evident doctrine. He says he is uncertain what the phrase means and regards it as open to subtleties of interpretation.
+Lovejoy does not begin with `academic freedom` as a self-interpreting doctrine. He says the phrase is ambiguous / susceptible to subtleties of interpretation and then moves to a case-specific criterion:
 
-He then moves to a narrower criterion:
+- the president regarded the instructor as fit to retain;
+- dismissal nevertheless occurred for the relevant public-utterance reasons;
+- this abridged liberties;
+- university teachers had a right and duty to maintain those liberties.
 
-- the instructor is someone the president regarded as fit to retain;
-- dismissal occurs for the relevant public-utterance reasons;
-- this constitutes an abridgment of liberties;
-- university teachers have a right and duty to demand and maintain those liberties.
+He then broadens the stakes:
 
-The argument then expands institutionally. The maintenance of these liberties is especially important in **privately endowed institutions**. Without them, Lovejoy says, neither the dignity of the teachers' position nor the leadership and social usefulness of universities in a democratic society can be preserved.
+- especially privately endowed institutions;
+- dignity of the teachers' position;
+- leadership and social usefulness of universities;
+- democratic society.
 
-Thus 1901 already contains two relations that matter later:
+Thus two distinct 1901 objects should be kept apart:
 
-### Relation A
+### A. Case/jurisdiction object
 
-`PROFESSORIAL LIBERTY / INDEPENDENCE`
--> `DIGNITY OF PROFESSION`
--> `UNIVERSITY PUBLIC / SOCIAL FUNCTION`.
+`WHAT WERE THE ACTUAL GROUNDS?`
++
+`WHO JUDGED THE TEACHER FIT TO RETAIN?`
++
+`WHEN IS ACADEMIC FREEDOM ACTUALLY INVOLVED?`
 
-### Relation B
+### B. Public-function object
 
-`PRIVATELY ENDOWED UNIVERSITY`
--> `SPECIAL GOVERNANCE / CONTROL PROBLEM`
--> `NEED FOR PROFESSORIAL LIBERTY`.
+`TEACHER LIBERTIES`
+-> `PROFESSIONAL DIGNITY`
+-> `UNIVERSITY SOCIAL / DEMOCRATIC FUNCTION`.
 
-This is actor-level public language at the time of the Ross crisis.
+The later draft evidence connects more securely to **A** than to every constituent of **B**.
 
 Authority:
 `research_notes/Lovejoy_Ross_1901_evidence_review_public_statement_academic_freedom_2026-09-03.md`.
 
-Evidence ceiling: page-image diplomatic collation of the newspaper carriers remains pending.
+---
+
+## II. 1915 final Declaration — collective primary architecture
+
+The final Declaration is a Committee-of-Fifteen document.
+
+It contains:
+
+- public-trust theory of university governance;
+- professorial independence and professional dignity;
+- university responsibility to the community;
+- research, instruction and public-service functions;
+- private-endowed versus state-university threat differentiation;
+- profession-level self-government;
+- tenure / reappointment / dismissal machinery;
+- explicit machinery for determining when an academic-freedom issue is actually involved.
+
+These propositions are direct-primary at the **collective-document level**.
+
+They must not be converted into Lovejoy propositions without version/source ownership.
+
+Primary control: 1915 Declaration.
 
 ---
 
-## II. 1915 — the collective Declaration turns these relations into a general institutional theory
+## III. Source-ownership correction: `public trust` / private-endowment paragraph is Giddings-owned at draft level
 
-The 1915 `Declaration of Principles on Academic Freedom and Academic Tenure` is a collective AAUP committee document.
+This is the most important correction in this run.
 
-Its primary text gives several directly controlled propositions.
+Tiede's reconstruction of the draft history says the final argument that:
 
-### 1. Private endowment does not imply proprietary control
+- trustees are trustees for the public;
+- state universities are obviously public trusts;
+- most privately endowed institutions are not essentially different if they appeal to the public;
+- trustees cannot assume proprietary control over professors' reason/conscience;
 
-The Declaration distinguishes a genuinely proprietary institution from a public trust.
+was taken **almost verbatim from Franklin Giddings's submitted draft report**.
 
-For most privately endowed universities, trustees are treated as trustees for the public rather than owners entitled to bind the professor's reason or conscience.
+Therefore:
 
-This transforms the 1901 concern about `privately endowed institutions` into an explicit **property / trust / governance distinction**.
+`LOVEJOY 1901 PRIVATE-ENDOWED CONCERN`
++
+`FINAL 1915 PRIVATE-ENDOWED PUBLIC-TRUST ARGUMENT`
 
-Primary control: 1915 Declaration, public-trust section.
+= **REAL THEMATIC / RELATIONAL PARALLEL**
 
-### 2. Professorial dignity and independence are public interests
+but
 
-The Declaration rejects the conception of academic teaching as merely private employment and defines the scholar as performing a social function.
+!= `LOVEJOY 1901 -> LOVEJOY 1915 CLAUSE CONTINUITY`.
 
-It directly connects:
+The correct ownership model is:
 
-- dignity of the scholar's profession;
-- independence/security;
-- freedom to perform the profession's function honestly;
-- first-hand work with sources of knowledge;
-- communication to students and the general public;
-- public interest.
+`LOVEJOY 1901 ACTOR PARALLEL`
++
+`GIDDINGS 1915 DRAFT OWNERSHIP`
+-> `COLLECTIVE FINAL DECLARATION`.
 
-This is a much more developed institutional architecture than the 1901 resignation statement, but the relation `INDEPENDENCE -> PROFESSIONAL DIGNITY -> PUBLIC FUNCTION` is strikingly compatible.
+This is exactly why committee membership cannot substitute for draft collation.
 
-### 3. University function is explicitly public
+---
 
-The Declaration specifies three functions:
+## IV. Lovejoy-specific drafting input: practical proposals were based on his handwritten notes
 
-1. advancing inquiry/knowledge;
-2. general instruction;
-3. developing experts for branches of public service.
+Tiede provides a much stronger positive ownership result elsewhere.
 
-It says the university's responsibility as a whole is to the community at large and that restrictions on instructors injure the institution and ultimately the community.
+He states that **Seligman based the Practical Proposals entirely on handwritten notes by Lovejoy**.
 
-The 1901 phrase `leadership and social usefulness ... in our democratic society` has therefore become a much more articulated **public-service / community-responsibility theory**.
+Lovejoy's proposal included an elected faculty body he called a `senate`, with `advice and consent` over:
 
-### 4. Threats are differentiated by institutional form
+- appointments;
+- promotions;
+- reappointments;
+- refusals to reappoint.
 
-The Declaration does something the 1901 press statement does not yet systematize.
+For larger institutions he proposed separate bodies for separate educational units.
 
-For privately endowed institutions, it identifies pressure from:
+This is a direct draft-history ownership claim at the proposal level.
 
-- governing boards linked to private enterprise;
-- benefactors;
-- class and vested interests.
+The final report weakened the scheme:
 
-For state universities, it identifies a different danger:
-
-- legislative dependence;
-- political considerations;
-- governmental policy / public feeling.
+- it retained only a representative faculty body's advice/consent on reappointments/nonreappointments;
+- it did not preserve Lovejoy's specified election/institutional design in full;
+- trustees remained able to take final official action.
 
 Thus:
 
-`ACADEMIC FREEDOM THREAT`
+`LOVEJOY DRAFT POSITION`
+-> `COMMITTEE DISCUSSION / OMISSION`
+-> `WEAKER FINAL FORM`.
 
-is repartitioned by
-
-`INSTITUTIONAL FUNDING / GOVERNANCE FORM`.
-
-This is a real analytical development relative to the more general 1901 reference to privately endowed institutions.
-
-### 5. Freedom is assigned to the profession, not merely the individual
-
-The Declaration explicitly moves beyond individual liberty toward profession-level responsibility.
-
-The scholar's responsibility runs primarily to the public and the judgment of the profession. Professional scholars must themselves judge professional standards; outside lay bodies lack the relevant competence.
-
-The Declaration also insists that freedom does not mean license: professional judgment, competence, scientific method, restraint and self-discipline remain part of the claim.
-
-This is a further institutional layer absent from the short 1901 public statement.
-
-### 6. The principle is attached to procedural machinery
-
-The practical proposals create faculty participation, tenure definition, grounds for dismissal and judicial procedures.
-
-The Declaration's own stated aim includes providing professional judicial bodies that can determine **when academic freedom is actually involved**.
-
-That is especially notable against the 1901 press statement's opening reluctance to treat `academic freedom` as a self-interpreting label.
-
-The later collective solution is not simply to define the phrase abstractly; it builds institutional procedures for deciding whether the principle applies in a case.
+This is a genuine version relation, not thematic inference.
 
 ---
 
-## III. Lovejoy's authorship role in 1915 — stronger than membership, weaker than sole authorship
+## V. Lovejoy-specific drafting input: grounds for dismissal
 
-Authorship must be controlled carefully.
+Lovejoy treated formulation of **grounds for dismissal** as essential protection against academic-freedom violations.
 
-The Declaration is a Committee of Fifteen report. Do not assign every sentence to Lovejoy.
+Seligman's draft, using Lovejoy's notes, contained an incomplete list of acceptable grounds for dismissal.
 
-However the Lovejoy relation is stronger than mere committee membership.
+Tiede identifies specific Lovejoy-origin items, including:
 
-AAUP's institutional history states that a subcommittee consisting of **Seligman, Lovejoy and Frank Fetter** wrote the Declaration.
+- serious/habitual discourtesy to officials, colleagues or students;
+- misrepresentation of authorship of scientific discoveries or hypotheses;
+- Lovejoy's own third item: gross carelessness or inaccuracy in scientific inquiries.
 
-Hans-Joerg Tiede's history reconstructs the drafting more specifically:
+The final Declaration **omitted the enumerated list** and instead left individual institutions to formulate grounds for dismissal.
 
-- Seligman produced a first draft based on committee comments;
-- after a Thanksgiving meeting, Seligman, Fetter and Lovejoy worked on the report;
-- Seligman repeatedly credited Lovejoy with important contributions.
+Therefore the version history is:
 
-Separate scholarship says Lovejoy made major substantive and linguistic changes to Seligman's first draft.
+`LOVEJOY: EXPLICIT GROUNDS ARE NECESSARY`
+-> `SELIGMAN DRAFT: LIST BASED ON LOVEJOY NOTES`
+-> `FINAL: LIST REMOVED / LOCAL INSTITUTIONS TO DEFINE GROUNDS`.
 
-Therefore the safe authorship level is:
+This is especially important for the Ross comparison.
 
-> **COLLECTIVE COMMITTEE TEXT + LOVEJOY SUBSTANTIVE DRAFT/REVISION ROLE**.
+In 1901 Lovejoy's public and retrospective reasoning turns on **what the grounds for dismissal actually were** and whether those grounds made academic freedom relevant.
 
-Not:
+By 1915, his own draft input tries to turn dismissal grounds into a formal institutional category.
 
-> **LOVEJOY TEXT**.
+The safe longitudinal relation is therefore stronger than a vocabulary parallel:
 
-The precise ownership of particular 1915 clauses requires draft/version collation.
+> **A case-specific concern with dismissal grounds and institutional judgment in 1901 is later visible as an explicitly procedural/design problem in Lovejoy's own 1915 drafting notes.**
 
-Repo archival route already exists for Committee-of-Fifteen material and Lovejoy -> Richard T. Ely, 29 Jun 1915; retrieve draft-state evidence before assigning individual clauses.
-
----
-
-## IV. Relation matrix
-
-| Dimension | 1901 Ross public statement | 1915 Declaration | Safe relation |
-|---|---|---|---|
-| trigger | specific dismissal / Ross case | general professional problem | case -> generalization |
-| `academic freedom` | contested/ambiguous phrase; applicability argued from case | general principle with defined domains and procedure | conceptual/institutional elaboration |
-| teacher | individual/professional liberties, right + duty | profession-level independence + self-government | rescaling |
-| institution | especially privately endowed institutions | public trust; private vs state danger types | analytic repartition |
-| governance | lay/founder interference implicit in case | trustees/public trust + professional competence | generalization |
-| public end | dignity + leadership/social usefulness in democratic society | knowledge, instruction, public service, community responsibility | functional elaboration |
-| enforcement | resignation/public protest | faculty/judicial machinery + tenure rules | action -> institution |
-| authorship | Lovejoy actor-level public statement | collective committee report, Lovejoy substantive drafting role | no direct sentence ownership without drafts |
+This still does not prove a continuous private doctrine from 1901 to 1915, but it is real Lovejoy-to-Lovejoy evidence.
 
 ---
 
-## V. What this does and does not show
+## VI. Lovejoy-specific governance relation: professional jurisdiction
 
-### It does show
+Tiede also connects the final report's division of authority to Lovejoy's earlier programmatic governance position.
 
-A relation already explicit in Lovejoy's 1901 public statement later occupies a central place in a document he materially helped draft:
+The final report distinguishes:
 
-> **professorial independence is justified partly through the public/social function of the university rather than solely through an individual right of expression.**
+- matters lay governing boards can judge without specialized scholarly competence, such as habitual neglect or grave moral delinquency;
+- departures from scientific spirit/method, which should not be judged by bodies outside the academic profession.
 
-It also shows a recurring attention to the governance problem posed by private endowment.
+Tiede describes this as reflecting Lovejoy's prior programmatic distinction that some domains belong to faculty authority and others to trustees.
 
-### It does not show
+This produces a more secure Lovejoy relation:
 
-- that the 1915 Declaration was derived from Lovejoy's 1901 statement;
-- that Lovejoy personally authored every corresponding 1915 clause;
-- that Ross alone caused the formation of the AAUP;
-- that nothing important occurred between 1901 and 1915;
-- that the later professional doctrine is unchanged Ross-case language.
+`WHAT KIND OF CLAIM / OFFENSE?`
+-> `WHAT COMPETENCE IS REQUIRED TO JUDGE IT?`
+-> `WHICH INSTITUTIONAL BODY HAS JURISDICTION?`.
 
-Tiede explicitly cautions against reducing AAUP formation to the 1901 episode: Lovejoy's later Carnegie Foundation experience and the need for authoritative collective professional action were also important.
-
-Thus the open middle matters.
+That architecture is highly relevant to the repo's governing unit/relation framework.
 
 ---
 
-## VI. The most interesting transformation is scalar and institutional
+## VII. Extramural utterance: real Lovejoy intervention, final sentence ownership still open
 
-The historical change can be modeled without a simple genealogy claim.
+The draft history supplies another strong but carefully bounded Lovejoy role.
 
-### 1901
+John Wigmore proposed `academic immunity` by analogy with judicial immunity:
 
-`INDIVIDUAL CASE`
--> `PROFESSIONAL LIBERTY`
--> `INSTITUTIONAL / DEMOCRATIC PUBLIC VALUE`.
+- extremely broad protection inside a professor's appointed field;
+- little/no protection outside that jurisdiction.
 
-### 1915
+Lovejoy strongly objected on **both sides**:
 
-`PROFESSION AS CORPORATE UNIT`
--> `PUBLIC-TRUST UNIVERSITY`
--> `DIFFERENTIATED GOVERNANCE THREATS`
--> `JUDICIAL / PROCEDURAL SELF-REGULATION`
--> `COMMUNITY / PUBLIC SERVICE`.
+1. complete immunity inside the discipline would prevent the profession from disciplining incompetence;
+2. limiting protection to the appointed discipline failed to protect extramural speech.
 
-The unit changes:
+He communicated this objection to the committee and separately to Seligman.
 
-`INDIVIDUAL PROFESSOR / PARTICULAR UNIVERSITY`
--> `ACADEMIC PROFESSION / UNIVERSITY SYSTEM`.
+Seligman specifically asked Lovejoy to incorporate Pound's judicial analogy, with a limiting qualification.
 
-The relation also changes:
+Crucially, Seligman's prefinal draft still did **not** define extramural utterance as a separate component of academic freedom. It treated academic freedom primarily as speech inside the university and gave more limited protection outside it.
 
-`MORAL-PUBLIC CLAIM + RESIGNATION`
--> `INSTITUTIONAL DESIGN + PROFESSIONAL JURISDICTION`.
+The final Declaration instead defined three elements:
 
-That is more precise than calling the 1915 Declaration simply the mature form of Lovejoy's Ross position.
+- inquiry/research;
+- teaching;
+- extramural utterance/action;
 
----
+and expressly refused to restrict extramural speech to the scholar's specialty, while retaining constraints on mode/temperateness.
 
-## VII. Wider Lovejoy-method control
+The controlled inference is:
 
-This branch is useful to the larger repo because it gives another concrete case of **unit rescaling without unchanged proposition identity**.
+> **Lovejoy's documented objection pushed directly against the restriction that disappears in the final state.**
 
-It also gives a striking institutional version of a recurring operation:
+But:
 
-`WHAT CLAIM IS ACTUALLY AT ISSUE?`
--> `WHAT EVIDENCE / COMPETENCE LICENSES JUDGMENT?`
--> `WHO HAS JURISDICTION TO DECIDE?`
+`LOVEJOY OBJECTION + FINAL CHANGE`
+!= `LOVEJOY SOLE AUTHOR OF FINAL EXTRAMURAL CLAUSE`.
 
-In 1901 the issue is dismissal grounds and what administrative documents establish.
-
-In 1915 the issue becomes who has competence to judge scholarly/professional conduct and what institutional machinery should decide cases.
-
-This is a comparison of operations, not a proof of one stable method transmitted unchanged across fourteen years.
+This is a version-conditioned contribution, not sentence ownership.
 
 ---
 
-## VIII. Highest-value next tests
+## VIII. Methodological surprise: Lovejoy rejected the survey-first method for academic freedom
 
-1. Recover GLA0056, Lovejoy -> Orrin L. Elliott, 15 Apr 1901, to test private-to-public version relations.
-2. Directly inspect the 3 May 1901 *Washington Post* page and 14 May *Hawaiian Gazette* page to close contemporary wording diplomatically.
-3. Retrieve 1915 Seligman/Lovejoy/Fetter drafts and revisions; identify which clauses entered at which version state.
-4. Retrieve Lovejoy -> Ely, 29 Jun 1915 and adjacent Committee-of-Fifteen material already mapped in the archive branch.
-5. Map intervening 1901–15 Lovejoy academic-freedom cases and organizational work rather than jumping directly from Ross to AAUP.
-6. Keep Carnegie Foundation / collective-action formation separate from Ross-case principle formation.
+Tiede records another useful Lovejoy-specific statement from August 1915.
+
+Guy Stanton Ford proposed surveying existing practices on appointment, tenure and dismissal and deriving adequate/fair practice from the range observed.
+
+Lovejoy objected because little had been regularized anywhere. He argued that principles had to be formulated **before** surveying current practice, explicitly admitting that this was the reverse of how he would approach most other topics.
+
+This is historiographically important because it blocks a simplistic `Lovejoy always moves inductively from cases` model.
+
+For this object:
+
+`NORMATIVE / INSTITUTIONAL PRINCIPLE FIRST`
+-> `THEN SURVEY PRACTICE`.
+
+Thus method is object- and task-specific.
+
+The source itself says this was an exception to Lovejoy's usual preference.
+
+Do not flatten the Ross evidence-review sequence, Buddhist textual work, and AAUP institutional design into one universal procedure.
+
+---
+
+## IX. Revised 1901 -> 1915 relation matrix
+
+| Dimension | 1901 Lovejoy | 1915 draft/final evidence | Ownership/status | Safe relation |
+|---|---|---|---|---|
+| dismissal grounds | actual grounds decisive to whether freedom is involved | Lovejoy notes explicitly demand grounds for dismissal; list enters Seligman draft then is removed | **Lovejoy-specific draft input** | strong procedural generalization |
+| who judges fitness / reappointment | president regarded Ross fit; founder pressure overrides | Lovejoy senate: faculty advice+consent on personnel; final weakens detail | **Lovejoy-specific draft input** | case -> governance design |
+| academic-freedom applicability | term contested; decide from grounds | final proposes professional judicial bodies to decide when issue is involved | collective final; Lovejoy practical-proposal substrate | institutionalization |
+| private endowment | explicit 1901 Lovejoy concern | public-trust paragraph almost verbatim Giddings draft | **Giddings-owned 1915 clause** | parallel, not Lovejoy continuity |
+| profession/public function | Lovejoy links liberties to professional dignity/social usefulness | final develops profession/public/community theory | collective; exact clause ownership unresolved | compatible generalization only |
+| extramural speech | Ross public utterance central to case | Lovejoy objects to Wigmore's specialty limit; final adds extramural freedom as third component | **Lovejoy intervention; final wording collective** | strong contribution, not sole authorship |
+| method of standard-setting | case-specific evidence in 1901 | Lovejoy says principles first, survey later for tenure/freedom | Lovejoy-specific statement | task-specific method shift |
+
+---
+
+## X. Revised strongest historical judgment
+
+The strongest Lovejoy-specific 1901->1915 relation is **not** the visually attractive private-endowment/public-trust parallel.
+
+It is:
+
+> **Ross made dismissal grounds, decision authority, and the conditions under which academic freedom is actually implicated concrete at the level of a particular case. In 1915, Lovejoy's own drafting notes move precisely these kinds of questions into institutional design: faculty participation in appointment/reappointment, explicit grounds for dismissal, and professional jurisdiction over specifically academic judgments.**
+
+A second, separately evidenced contribution concerns extramural speech: Lovejoy rejected a jurisdictional model that protected only statements within one's appointed specialty, and the final Declaration broadened academic freedom to include extramural utterance/action.
+
+These relations survive source-ownership audit.
+
+---
+
+## XI. What the public-trust correction teaches
+
+This branch is itself a methodological control for the whole repo.
+
+The following inference failed:
+
+`A says X in 1901`
++
+`A helps draft collective document containing X in 1915`
+-> `A owns X in 1915`.
+
+Draft evidence shows that another committee member, Giddings, owns the immediate 1915 carrier of the public-trust proposition.
+
+Therefore:
+
+> **ACTOR PARALLEL + COMMITTEE MEMBERSHIP != PROPOSITION OWNERSHIP.**
+
+And:
+
+> **COLLECTIVE FINAL TEXT MUST BE RECUT BY DRAFT OWNERSHIP BEFORE LONGITUDINAL ACTOR CONTINUITY IS CLAIMED.**
+
+This should be treated as a general evidence rule beyond the AAUP branch.
+
+---
+
+## XII. Highest-value next tests
+
+1. Recover Lovejoy's handwritten practical-proposal notes identified by Tiede.
+2. Recover Seligman's prefinal draft and the Thanksgiving / Seligman-Fetter-Lovejoy revision state.
+3. Recover Lovejoy's note to Seligman objecting to Wigmore and the Dec 1915 Lovejoy/Seligman/Wigmore correspondence already mapped in Cornell AAUP records.
+4. Recover GLA0056, Lovejoy -> Orrin L. Elliott, 15 Apr 1901, to test private-to-public version relations.
+5. Directly inspect the 3 May 1901 *Washington Post* and 14 May *Hawaiian Gazette* page images.
+6. Recover Lovejoy -> Richard T. Ely, 29 Jun 1915, Reel 52, but do not assume its content concerns the final Declaration until read.
+7. Map the Seligman prefinal -> final changes mechanically rather than relying only on thematic comparison.
 
 ## Restart shorthand
 
-> **1901->1915 ACADEMIC FREEDOM: Lovejoy's 1901 contemporaneous Ross statement already links dismissal grounds -> professional liberties/right+duty -> especially privately endowed institutions -> dignity of teaching profession -> university leadership/social usefulness -> democratic society. The collective 1915 Declaration, which Seligman/Lovejoy/Fetter materially drafted, generalizes/repartitions these relations into public-trust governance, professorial independence, private-endowed vs state threat differentiation, professional self-government, public/community function, and judicial/due-process machinery. Safe relation = CASE-SPECIFIC PUBLIC PRINCIPLE -> PROFESSIONAL/INSTITUTIONAL GENERALIZATION + RESCALING. Do not call 1915 a direct expansion of the 1901 letter or assign individual clauses to Lovejoy without draft/version evidence.**
+> **1901->1915 RECUT: the attractive private-endowment continuity is NOT Lovejoy-owned in 1915: Tiede says the final public-trust/private-endowed paragraph was almost verbatim Franklin Giddings's draft. Withdraw `Lovejoy 1901 private endowment -> Lovejoy 1915 public trust`. Lovejoy-specific draft evidence is stronger elsewhere: Seligman based Practical Proposals entirely on Lovejoy handwritten notes; Lovejoy proposed an elected faculty senate with advice+consent over appointments/promotions/reappointments/nonreappointments; he treated explicit grounds for dismissal as essential and supplied grounds that entered Seligman's draft before the list was removed; committee discussion weakened his faculty-governance scheme. He also strongly opposed Wigmore's immunity model because it overprotected incompetence inside the field and underprotected extramural speech; Seligman's prefinal did not make extramural utterance a separate freedom, while final did. Safe strong line = 1901 CASE-SPECIFIC DISMISSAL GROUNDS / JUDGMENT -> 1915 LOVEJOY-SPECIFIC PROCEDURAL / JURISDICTIONAL DESIGN. Actor parallel + committee membership != proposition ownership.**
