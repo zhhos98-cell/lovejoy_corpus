@@ -26,8 +26,8 @@ Historical state language in dated notes does not override these living files.
 | MS0873 France 1898–99 actor evidence | `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md` |
 | JHU reproduction / rights status | `archive_index/JHU_MS0873_MS0038_remote_reproduction_status_2026-09-03.md` |
 | Working/governance rules | `WORKING_RULES.md` |
-| Current JHI Blog source | `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md` |
-| Current JHI full-repo calibration | `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md` |
+| Current JHI Blog source | `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md` |
+| Current JHI notebook-guide calibration | `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md` |
 | Publication-facing base evidence ceiling | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
 | `research_notes/` routing | `research_notes/README.md` |
 | Transcription authority map | `archive_transcriptions/README.md` |
@@ -160,13 +160,14 @@ Do not treat these phrases as actor vocabulary or convert structural control int
 
 Writing authority:
 
-1. `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md`
-2. `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md`
+1. `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`
+2. `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`
 3. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
-4. `research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md`
-5. `research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`
+4. `QUELLENFORSCHUNG_CURRENT_GATE.md`
+5. `research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md`
+6. `research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`
 
-Status: production HOLD. v3.6 is the current full-repo-calibrated markdown draft at 2,334 body words; the latest generated DOCX remains v3.3 until a separate production pass.
+Status: production HOLD. v3.7 is the current notebook-guide / Quellenkritik-calibrated markdown draft at 2,366 body words; the latest generated DOCX remains v3.3 until a separate production pass.
 
 ## 8. Comparative method controls
 
