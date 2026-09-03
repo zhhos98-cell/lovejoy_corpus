@@ -1,7 +1,7 @@
 # Arthur O. Lovejoy — James Walker Fellowship, Harvard / Paris 1898–99
 
 Date: 2026-09-03  
-Status: **NEW INSTITUTIONAL HANDLE / ARCHIVAL TARGET**
+Status: **NEW INSTITUTIONAL HANDLE / 1898 APPLICATION PROCEDURE CLOSED / ARCHIVAL TARGET**
 
 ## Core result
 
@@ -19,20 +19,55 @@ The institutional identity can therefore be written safely as:
 
 Do not yet write that Harvard formally approved the Buddhism/Wisdom project as the fellowship project. The individual application/project statement has not been recovered.
 
-## Fellowship character — current controls
+## 1. Exact 1898 fellowship application procedure
 
-Contemporary and near-contemporary Harvard evidence establishes that the James Walker Fellowship was associated with philosophy and could support foreign/travelling study:
+A contemporary Harvard notice dated **8 March 1898** gives the administrative procedure for the exact fellowship cycle relevant to Lovejoy:
+
+- applications for Graduate School fellowships/scholarships, first appointment or reappointment, were due **on or before 31 March 1898**;
+- blank forms were obtained from the **Dean of the Graduate School, No. 10 University Hall**;
+- applications were returned to that office;
+- applicants were to submit `all testimonials and other evidences of the qualifications of applicants`;
+- packets were addressed to the **Committee on Fellowships**;
+- recent Harvard Arts and Sciences students were generally not expected to submit testimonials.
+
+This gives a contemporary institutional paper path:
+
+`Lovejoy application by 31 Mar 1898`
+→ `Dean of Graduate School`
+→ `Committee on Fellowships`
+→ `faculty / Corporation award process`
+→ `James Walker Fellowship, Paris 1898–99`.
+
+The exact Lovejoy packet is not yet recovered, but the administrative route and likely March 1898 application window are now directly controlled.
+
+## 2. Fellowship character — current controls
+
+Contemporary and near-contemporary Harvard evidence establishes that the James Walker Fellowship was associated with the philosophy/psychology field and could support non-resident/travelling study:
 
 - Harvard Crimson, 16 May 1895: Robert MacDougall receives the James Walker Fellowship `to study Philosophy`;
+- Charles Augustus Strong earlier used a James Walker Fellowship for study in Berlin;
 - William Savery's institutional biography records `James Walker Fellow (traveling), Harvard University, 1897–98` and study in Berlin;
-- Harvard's 1909 awards list places the James Walker Fellowship among travelling fellowships and identifies Jacob Loewenberg as a student of Philosophy;
+- Harvard Crimson, 1907: James Walker Fellowship is listed among **non-resident appointments**;
+- Harvard's 1909 awards list places it among travelling fellowships and identifies Jacob Loewenberg as a student of Philosophy;
 - later Harvard aid tables list the James Walker Fellowship as an endowed Graduate School fellowship founded in 1881.
 
 These controls establish institutional type and disciplinary association, not Lovejoy's individual approved topic.
 
-## Harvard records now identified
+### Current interpretive ceiling
 
-### 1. GSAS Dean John Henry Wright correspondence — `UAV 161.5`
+The October 1898 letter is best treated as evidence of **Lovejoy's operational understanding of the fellowship boundary**:
+
+`principal work = philosophy`
+
+while
+
+`comparative religion = adjacent work that could become too dominant`.
+
+Whether this boundary came from explicit fellowship rules, an approved individual project, faculty advice, or Lovejoy's own conservative reading of his obligations remains open.
+
+## 3. Harvard records now identified
+
+### A. GSAS Dean John Henry Wright correspondence — `UAV 161.5`
 
 HOLLIS description:
 
@@ -46,18 +81,18 @@ The collection explicitly includes:
 - applications/forms for fellowships and scholarships;
 - evaluations and other student-level graduate administration.
 
-Lovejoy's 1897–99 fellowship appointment falls squarely inside this date span.
+Lovejoy's March 1898 application window and 1898–99 fellowship appointment fall squarely inside this date span.
 
 Search targets:
 
 - Arthur O. / Arthur Oncken Lovejoy;
 - James Walker Fellowship;
+- March–June 1898;
 - Paris / University of Paris / Sorbonne;
 - philosophy;
-- 1897–98 and 1898–99 fellowship correspondence;
-- recommendations by James, Royce, Everett, Toy, Lanman, or GSAS faculty if present.
+- recommendations by James, Royce, Everett, Toy, Lanman, Dean Wright, or Committee on Fellowships records if present.
 
-### 2. Harvard fellowship/scholarship records — `HUC 1000.11`
+### B. Harvard fellowship/scholarship records — `HUC 1000.11`
 
 Harvard's official-register archival description identifies:
 
@@ -71,7 +106,7 @@ Target:
 - foreign-study authorization;
 - reports/accounting if preserved.
 
-### 3. President / Corporation appointment records and annual reports
+### C. President / Corporation appointment records and annual reports
 
 Search the 1898–99 fellowship award cycle for:
 
@@ -80,7 +115,9 @@ Search the 1898–99 fellowship award cycle for:
 - destination: Paris;
 - any named subject of study.
 
-## Why this matters for the Wisdom/Buddhism branch
+Current public web/Crimson searching recovered the March 1898 application procedure and institutional controls, but **did not recover an individual Lovejoy 1898 award notice or appointment sheet**. This remains a retrieval-layer negative, not an archival absence.
+
+## 4. Why this matters for the Wisdom/Buddhism branch
 
 The 20 Oct 1898 letter currently gives a three-part actor-level structure:
 
@@ -90,18 +127,20 @@ The 20 Oct 1898 letter currently gives a three-part actor-level structure:
 
 Recovering the James Walker Fellowship application/report could decide whether:
 
-- Buddhism was part of the approved Harvard project;
-- Wisdom literature was part of the approved project;
+- Buddhism was part of the proposed Harvard project;
+- Wisdom literature was part of the proposed project;
 - the two were proposed jointly;
 - Lovejoy repartitioned his programme after arriving in France;
 - `philosophy` was a broad administrative rubric under which comparative-religion/philological objects were tolerated;
 - the fellowship left no detailed project-level prescription beyond field and travel.
 
-## Evidence firewall
+## 5. Evidence firewall
 
 Keep distinct:
 
 `FELLOWSHIP IDENTITY`
+!=
+`FELLOWSHIP APPLICATION CONTENT`
 !=
 `FELLOWSHIP-APPROVED PROJECT`
 !=
@@ -112,6 +151,7 @@ Keep distinct:
 Current secure chain:
 
 `Harvard graduate training`
+→ `1898 fellowship application procedure / Committee on Fellowships`
 → `James Walker Fellowship, Paris 1898–99`
 → `Lovejoy's own Oct/Dec letters describing philosophy / Buddhism / Wisdom / comparative-religion allocation`
 → `actual Paris course/private-reading/library practice`.
@@ -122,4 +162,5 @@ The project-content relation between fellowship paperwork and these actor-level 
 
 - `archive_index/Lovejoy_1898_Paris_Wisdom_work_named_carrier_target_2026-09-03.md`;
 - `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
-- `archive_index/lovejoy_wilson_transcription_provenance_batch111.csv`.
+- `archive_index/lovejoy_wilson_transcription_provenance_batch111.csv`;
+- `research_notes/Lovejoy_Paris_Wisdom_carrier_run_Wilson_index_James_Walker_2026-09-03.md`.
