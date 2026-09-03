@@ -1,7 +1,7 @@
 # Lovejoy 1895 → 1904 Monboddo — pre-Harvard baseline and possible self-correction
 
 Date: 2026-09-03  
-Status: **1895 WILSON-MEDIATED / 1904 DIRECT PRIMARY / HIGH-VALUE PRE-HARVARD FALSIFICATION TARGET**
+Status: **1895 WILSON-MEDIATED / 1904 DIRECT PRIMARY / NO 1904 SELF-REFERENCE TO 1895 RECOVERED / HIGH-VALUE PRE-HARVARD FALSIFICATION TARGET**
 
 ## Question
 
@@ -61,9 +61,12 @@ Thus:
 
 The `tails` material supplies a second direct control. Lovejoy says it may be suggestive but is not designed to bear the `weight of proof` for the main proposition.
 
+Direct 1904 primary also shows that Lovejoy bases his Monboddo citations on the second edition of *Origin and Progress of Language* (Edinburgh, 1774) and cites William Knight's 1900 *Lord Monboddo and his Contemporaries* for recently collected letters/context.
+
 Authority:
 
-`research_notes/lovejoy_1904_evolutionists_source_criticism_proof_levels_batch189.md`.
+- `research_notes/lovejoy_1904_evolutionists_source_criticism_proof_levels_batch189.md`;
+- direct public primary, *Popular Science Monthly* 65 (Aug. 1904), Monboddo section.
 
 Evidence status:
 
@@ -71,7 +74,30 @@ Evidence status:
 
 ---
 
-## III. The possible revision — HOLD until 1895 primary recovery
+## III. 1904 does **not** make the revision explicit
+
+A targeted read of the 1904 Monboddo section found **no explicit reference to Lovejoy's own 1895 `James Burnett, Lord Monboddo` article**.
+
+The section's explicit source note instead points to:
+
+- Knight 1900;
+- Monboddo's 1774 second edition.
+
+The `virtual evolutionist` qualification is framed against **Professor Knight's** formulation, not against Lovejoy's earlier article.
+
+Therefore the current relation must remain:
+
+`POSSIBLE SAME-ACTOR SELF-CORRECTION`
+
+not
+
+`EXPLICIT RECANTATION / ACKNOWLEDGED SELF-CORRECTION`.
+
+This negative matters because it removes an easy shortcut. The 1895→1904 version relation must be established by **direct textual collation**, not by an authorial statement that he changed his mind.
+
+---
+
+## IV. The possible revision — HOLD until 1895 primary recovery
 
 If Wilson's annotation accurately represents the 1895 argument, a striking revision may exist:
 
@@ -100,12 +126,13 @@ This would be a rare **same-author / same-historical-object / later-resolution i
 
 But that relation is **not closed** because the 1895 primary has not been read.
 
-Possible alternative outcome:
+Possible alternative outcomes:
 
 - Wilson selected only the broad conclusion;
 - the 1895 body may already distinguish language, species and ancestry;
 - the 1904 difference may be amplification rather than correction;
-- the 1904 phrase `virtual evolutionist` may respond to later historiography rather than Lovejoy's own 1895 wording.
+- the 1904 phrase `virtual evolutionist` may respond primarily to Knight/later historiography rather than Lovejoy's own 1895 position;
+- the source base may have materially changed between 1895 and 1904.
 
 Therefore:
 
@@ -113,9 +140,15 @@ Therefore:
 !=
 `1895 FULL ARGUMENT`.
 
+and
+
+`1904 DIFFERENCE`
+!=
+`ACKNOWLEDGED SELF-CORRECTION`.
+
 ---
 
-## IV. Why this matters for Harvard / Buddhism chronology
+## V. Why this matters for Harvard / Buddhism chronology
 
 The 1895 article predates Lovejoy's documented Harvard advanced Pāli enrollment in 1896–97.
 
@@ -160,7 +193,7 @@ The causal problem would become sharper, not solved.
 
 ---
 
-## V. Acquisition route
+## VI. Acquisition route
 
 Primary target:
 
@@ -180,11 +213,13 @@ Public catalogue control establishes:
 - monthly except January, June, July and August;
 - physical run is held in Sacramento Room.
 
-Exact 1895 issue/month for pp.68–79 remains unclosed in the current public-index pass. This is non-blocking because volume and page range are exact.
+A targeted web pass found BHL digitization for the 1901 v.7 no.5 issue but **no exposed BHL/Internet Archive/Google indexed identifier for the 1895 vol.1 article or complete volume**. Treat this as a bounded digital-discovery negative, not proof that no scan exists anywhere.
+
+Exact 1895 issue/month for pp.68–79 remains unclosed. This is non-blocking because volume and page range are exact.
 
 ---
 
-## VI. Direct collation protocol once recovered
+## VII. Direct collation protocol once recovered
 
 Do not merely compare conclusions.
 
@@ -204,7 +239,7 @@ Code the 1895 article for:
 Then classify each 1904 change as:
 
 - `RETENTION`;
-- `EXPLICIT SELF-CORRECTION`;
+- `EXPLICIT SELF-CORRECTION` — currently unsupported unless 1895/other evidence supplies it;
 - `INCREASED RESOLUTION`;
 - `NEW SOURCE / NEW EVIDENCE`;
 - `NEW HISTORIOGRAPHICAL TARGET`;
@@ -212,10 +247,10 @@ Then classify each 1904 change as:
 
 ---
 
-## VII. Strongest current safe statement
+## VIII. Strongest current safe statement
 
-> **Wilson's annotation of Lovejoy's 1895 Monboddo essay preserves a broad precursor-style conclusion, while Lovejoy's direct 1904 reanalysis sharply separates language evolution, ancestry, species identity and transformism and warns that calling Monboddo a virtual evolutionist is probably too much. This creates a high-value pre-Harvard self-correction test, not yet a demonstrated revision: the 1895 primary must be recovered before deciding whether Lovejoy's historical resolution genuinely increased or Wilson's summary simply compressed an already qualified argument.**
+> **Wilson's annotation of Lovejoy's 1895 Monboddo essay preserves a broad precursor-style conclusion, while Lovejoy's direct 1904 reanalysis sharply separates language evolution, ancestry, species identity and transformism and warns that calling Monboddo a virtual evolutionist is probably too much. The 1904 article does not identify this as a correction of Lovejoy's own 1895 piece; it frames the `virtual evolutionist` qualification against Knight. The pair therefore creates a high-value pre-Harvard same-object revision test, not yet a demonstrated self-correction. The 1895 primary must be recovered before deciding whether Lovejoy's historical resolution genuinely increased or Wilson's summary simply compressed an already qualified argument.**
 
 ## Restart shorthand
 
-> **1895→1904 MONBODDO BASELINE: 1895 Lovejoy primary = UC Magazine 1:68–79, not yet read; Wilson summary ends broad precursor-style: Monboddo anticipated major modern scientific doctrine. 1904 direct primary says `virtual evolutionist` probably too strong and separates language evolution / orangutan ancestry / species identity / general transformism; tail evidence suggests but does not bear proof weight. This may be SAME ACTOR + SAME HISTORICAL OBJECT self-correction from broad precursor classification to proposition-level re-audit. HOLD: Wilson summary != 1895 full argument. Sacramento P3 packet now includes 1895 article. If 1895 already has fine distinctions, proposition-sensitive practice predates Harvard Pāli; if not, 1895→1904 change is real but causes remain open.**
+> **1895→1904 MONBODDO BASELINE: 1895 Lovejoy primary = UC Magazine 1:68–79, not yet read; Wilson summary ends broad precursor-style: Monboddo anticipated major modern scientific doctrine. 1904 direct primary says `virtual evolutionist` probably too strong and separates language evolution / orangutan ancestry / species identity / general transformism; tail evidence suggests but does not bear proof weight. Targeted direct read finds NO 1904 self-reference to 1895; 1904 qualification is against Knight 1900, with Monboddo citations from 1774 second ed. Thus possible same-object self-correction remains HOLD, not explicit recantation. Sacramento P3 packet includes 1895. If 1895 already has fine distinctions, proposition-sensitive practice predates Harvard Pāli; if not, 1895→1904 change is real but causes remain open.**
