@@ -123,7 +123,7 @@ Use:
 - `Pocock_1973_1984_2009_same_text_carrier_reclassification_version_proofburden_2026-08-31.md`
 - `Haddock_1976_Vico_Anachronism_fulltext_1979_JHI_sameactor_method_case_reuse_2026-08-31.md`
 
-### Martin Guerre twenty-first-century identification / verification control cluster
+### Martin Guerre twenty-first-century identification / verification / book-stage control cluster
 
 Read as one non-genealogical comparative sequence:
 
@@ -133,6 +133,9 @@ Read as one non-genealogical comparative sequence:
 4. `martin_guerre_case_portability_vs_identification_concept_transmission_2007_2024_2026-09-03.md` — separates case itinerary from concept genealogy; introduces `retrospective protocolization` and braided transmission.
 5. `martin_guerre_identification_benchmark_convergent_recoding_cole_higgs_thorburn_cgd_2001_2018_2026-09-03.md` — Cole/Higgs/Thorburn/CGD control; replaces an unsupported single citation chain with `convergent recoding`.
 6. `martin_guerre_reference_state_manufacturing_witness_jurisdiction_nist_france_identite_2025_2026.md` — current-standards calibration; refines prospective enrollment into `recursive reference-state manufacturing` and tracks the `witness jurisdiction shift` through NIST applicant references and France Identité certification.
+7. `martin_guerre_reference_state_historical_recursion_bertillon_fingerprint_registration_retrieval_control_2026-09-03.md` — historical control for `historical addressability`: registration → classification → retrieval → comparison, with Bertillonage as the key pre-digital mechanism.
+8. `martin_guerre_book_stage_epistemic_constraint_round1_2026-09-03.md` — returns the analysis to Davis's book and the musical: archive/evidence → warranted inference → represented interiority → audience knowledge → agency/consent.
+9. `martin_guerre_2026_stage_2027_book_reidentification_round2_2026-09-03.md` — terminal book-stage convergence: Old Vic 2026 `whole new identity`, HUP 2027 new edition, paratextual hardening vs theatrical reopening of uncertainty, and same-work identity across revised carriers.
 
 Current compressed Martin Guerre control sequence:
 
@@ -146,13 +149,20 @@ Current compressed Martin Guerre control sequence:
 
 → `reference-state manufacturing`
 
-→ `provenance-bearing assurance`
+→ `historical addressability`
 
-with an important anti-teleological correction:
+→ `proof-burden redistribution across book / film / stage`
 
-`interpersonal testimony does not disappear; its epistemic jurisdiction is bounded, proceduralized, and recorded inside modern exception pathways`.
+→ `authorized sameness across person / text / performance`.
 
-These calibrate unit, relation, revision, carrier, canon, warrant, portability, verification, evidence provenance, and reference-state claims. They do not displace the Lovejoy archival core. The Martin Guerre cluster is comparative method control only: it does **not** enter the Lovejoy evidence chain and does not imply influence, transmission, or shared genealogy with Lovejoy or the active `primitive` branch.
+Two anti-teleological corrections are controlling:
+
+1. `interpersonal testimony does not disappear; its epistemic jurisdiction is bounded, proceduralized, and recorded inside modern exception pathways`;
+2. `later representation does not simply lose historical certainty: different media can either harden, expose, redistribute, or deliberately reopen uncertainty`.
+
+State as of 2026-09-03: **BROAD SWEEP CLOSED UNTIL EVENT-BOUND NEW EVIDENCE.** Reopen only for (a) October 2026 Old Vic programme/script/performance/reviews that resolve Bertrande's knowledge, the dual `Martin` billing, audience position, or trial architecture; or (b) April 2027 HUP edition/foreword collation that changes the current paratext/body-text distinction.
+
+These calibrate unit, relation, revision, carrier, canon, warrant, portability, verification, evidence provenance, reference-state, media-specific epistemic access, and work-identity claims. They do not displace the Lovejoy archival core. The Martin Guerre cluster is comparative method control only: it does **not** enter the Lovejoy evidence chain and does not imply influence, transmission, or shared genealogy with Lovejoy or the active `primitive` branch.
 
 ## 5. Process provenance
 
