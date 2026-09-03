@@ -208,5 +208,5 @@ When the user says `continue` without specifying a branch, choose by immediate c
 
 - if discussing manuscript/source ownership → resume `CURRENT_STATE.md` archival queue;
 - if discussing `primitive`, chronology, politics, Brinton, Boas, or 1906 → continue the argument-development branch from Batches 208–210, 221–223;
-- if discussing JHI Blog production → route through `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` + `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`;
+- if discussing JHI Blog production → route through `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md` + `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md` + `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`;
 - if discussing Paris actor evidence → route through `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`.
