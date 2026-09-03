@@ -1,7 +1,7 @@
 # Lovejoy / Monboddo 1895 → 1904 → 1933 — same actor, different historical object
 
 Date: 2026-09-03  
-Status: **1895 PRIMARY HOLD / 1904 DIRECT PRIMARY / 1933 FULL TRANSLATION WITNESS + ENGLISH SECONDARY QUOTATION CONTROL / SAME-ACTOR OBJECT-REPARTITION CLOSED AT ANALYTICAL LEVEL**
+Status: **1895 PRIMARY HOLD / 1904 DIRECT PRIMARY / 1933 DIRECT ENGLISH OPEN-ACCESS REPRINT PRIMARY / SAME-ACTOR OBJECT-REPARTITION + SAME-EVIDENCE REALLOCATION CLOSED AT ANALYTICAL LEVEL**
 
 ## Core result
 
@@ -23,7 +23,11 @@ The strongest general rule is:
 
 > **SAME HISTORICAL ACTOR != SAME HISTORICAL OBJECT.**
 
-This is not a claim that Lovejoy had a stable named method across the period. It is a same-object control showing that identical actor identity does not stabilize the historian's unit of analysis.
+The 1904→1933 collation adds a second, still stronger control:
+
+> **SAME SOURCE / SAME DATUM + NEW TARGET PROPOSITION can produce NEW EVIDENTIARY RELEVANCE.**
+
+This is not a claim that Lovejoy had a stable named method across the period. It is a same-object/same-source control showing that neither actor identity nor source identity stabilizes the historian's unit of analysis or evidentiary relation.
 
 ---
 
@@ -98,24 +102,39 @@ The 1904 article has not been found explicitly citing Lovejoy's own 1895 Monbodd
 
 ---
 
-## III. 1933 — Lovejoy explicitly reuses 1904 but changes the question again
+## III. 1933 — direct English primary now open; Lovejoy explicitly reuses 1904 and changes the question again
 
 Object:
 
 Arthur O. Lovejoy, `Monboddo and Rousseau`, *Modern Philology* 30.3 (1933): 275–296; reprinted in *Essays in the History of Ideas* (1948), 38–61.
 
-Current accessible full witness:
+### Direct English public witness
 
-- Spanish translation by Teresa Calderón Quindós, *Revista de Filosofía* 63 (2007), explicitly translated from the 1948 English reprint;
-- SciELO full text: `https://www.scielo.cl/scielo.php?pid=S0718-43602007000100013&script=sci_arttext`.
+Johns Hopkins University Press / Project MUSE exposes the complete English 1948 reprint as an open-access chapter in the 2019 Hopkins Open Publishing Encore edition:
 
-Independent English quotation control:
+`https://muse.jhu.edu/pub/1/oa_monograph/chapter/2391051`
 
-- Mouton, `An Apologia for Arthur Lovejoy's Long-Range Approach to the History of Ideas` (2023), quoting English p.293 on the Rousseau/Monboddo genetic question.
+Book record:
+
+`https://muse.jhu.edu/book/67837`
+
+The MUSE record marks the book Open Access under CC BY-NC-ND.
+
+Therefore the prior evidence ceiling
+
+`SPANISH FULL TRANSLATION + ENGLISH SECONDARY QUOTATION`
+
+is retired for substantive English wording.
+
+The original 1933 *Modern Philology* facsimile remains useful only for original-manifestation/page-image control, not as a blocker to direct English primary analysis.
+
+Spanish translation remains an independent derivative control:
+
+Teresa Calderón Quindós trans., *Revista de Filosofía* 63 (2007), explicitly translated from the 1948 English reprint.
 
 ### A. 1933 directly cites the 1904 article
 
-When asking whether Monboddo was an evolutionist in both biological and anthropological senses — specifically whether he accepted a general transformation-of-species hypothesis — Lovejoy's footnote 24 says:
+When asking whether Monboddo was an evolutionist in both biological and anthropological senses — specifically whether he accepted a general transformation-of-species hypothesis — Lovejoy's note says:
 
 `See my "Some Eighteenth Century Evolutionists" ... (1904)`.
 
@@ -127,17 +146,55 @@ This creates a direct authorial continuity:
 
 This is stronger than thematic continuity.
 
-### B. `Evolutionist` is repartitioned by proposition type
+### B. 1933 strengthens one biological inference by rereading the same source
 
-1933 initially says that, with respect to Monboddo's published treatise, the answer to the general biological-transformism question appears negative.
+In 1904 Lovejoy quotes Monboddo's 1773 Knight letter saying the simian race is `of kin to us`, but says Monboddo does not specify what relation he means; collateral descent from a common ancestral species may fairly be supposed.
 
-Lovejoy then reconstructs contrary/expansive evidence from a 1773 letter and other material.
+In 1933 Lovejoy returns to that same letter and now says it `apparently can only mean` that apes, monkeys and man descend from common ancestors.
 
-But the decisive move is not simply `negative -> positive`.
+Because Monboddo did not classify all of them as one species, Lovejoy further infers that descent of one species from another is possible.
 
-He changes the level of the term `evolutionist`.
+He concludes that Monboddo:
 
-He describes Monboddo as an evolutionist in a **deeper** sense because:
+- accepted in principle the general possibility of transformation of species;
+- definitely asserted as a probable hypothesis the common descent of most or all Anthropoidea;
+- was, so far as Lovejoy knew, the first British proponent of `evolutionism, or near-evolutionism, in biology`.
+
+This is a real 1904→1933 evidentiary reinterpretation:
+
+`RELATION UNDERDETERMINED / COLLATERAL DESCENT MAY BE SUPPOSED`
+→
+`COMMON DESCENT + SPECIES-TRANSFORMATION POSSIBILITY`.
+
+It should not be described as simple linear caution or precision. In this locus, the later Lovejoy makes a **stronger** inference.
+
+### C. The tail packet gives a direct relation-indexed relevance control
+
+In 1904 Lovejoy calls the stories of tailed men `really irrelevant` to Monboddo's principal thesis about the relation of man to the orang-outang. He says the packet may `suggest a good deal` but is not designed to bear the `weight of proof` for that proposition.
+
+In 1933 Lovejoy still says the tail stories are without pertinency **for the man–orang-outang kinship argument**.
+
+But he then assigns them to another proposition: the existence of tails/vestigial tails can suggest that man and orang-outang both descend from remote tailed ancestors. Combined with Monboddo's footnote about variation and the `simian tribe`, the packet helps support a broader common-descent hypothesis.
+
+Thus the same evidence remains weak/irrelevant for P1 while becoming relevant for P2:
+
+`P1 = MAN–ORANG SPECIES / DIRECT KINSHIP`
+→ tail evidence non-bearing;
+
+`P2 = REMOTE COMMON ANCESTRY / BROADER ANTHROPOID GENEALOGY`
+→ tail evidence potentially relevant.
+
+This is one of the corpus's strongest direct controls for:
+
+> **relevance and proof weight are proposition-relative rather than intrinsic properties of a datum.**
+
+Authority:
+
+`research_notes/Lovejoy_Monboddo_1904_1933_same_evidence_new_claim_reallocation_2026-09-03.md`.
+
+### D. `Evolutionist` is repartitioned by proposition type
+
+After the biological audit, Lovejoy describes Monboddo as an evolutionist in a `profounder sense` because:
 
 - distinctively human attributes are not primitively given;
 - humanity moves from animality toward rational/political/social capacities;
@@ -149,17 +206,17 @@ Thus:
 
 `BIOLOGICAL SPECIES TRANSFORMISM`
 !=
+`COMMON ANTHROPOID DESCENT`
+!=
 `GENETIC / DEVELOPMENTAL VIEW OF HUMAN NATURE`
 !=
 `SOCIAL / INTELLECTUAL EVOLUTION`
 !=
 `EVOLUTIONARY UNIVERSAL HISTORY`.
 
-The label `evolutionist` can be warranted at one level while remaining qualified at another.
+The label `evolutionist` can be warranted at one level while remaining differently burdened at another.
 
-This is a mature same-actor example of **scope redefinition rather than contradiction**.
-
-### C. The historical object has shifted from `evolution precursor` to `anti-primitivist developmental thinker`
+### E. The historical object shifts from `evolution precursor` to `anti-primitivist developmental thinker`
 
 The 1933 article opens by saying that simply grouping Monboddo and Rousseau as `primitivists` misses the historically significant element.
 
@@ -172,7 +229,7 @@ Lovejoy's object is now a connected complex of theses concerning:
 - evolutionary universal history;
 - relations between Rousseau and Monboddo.
 
-He explicitly argues that Monboddo's genetic/developmental view attacks the heart of primitivism and the uniform conception of human nature.
+He explicitly argues that Monboddo's developmental view attacks the heart of primitivism and the uniform conception of human nature.
 
 Therefore 1933 does not merely add more evidence to 1904.
 
@@ -193,7 +250,7 @@ He then asks whether the similarity is due to:
 - spontaneous occurrence of the same thoughts in two contemporary minds;
 - direct influence of Rousseau upon Monboddo.
 
-His answer is that the question **cannot be answered with certainty**.
+His direct English answer is that the question `cannot be answered with certainty`.
 
 He then expands the causal field rather than forcing a binary:
 
@@ -233,13 +290,11 @@ Possible explanatory routes remain plural:
 /
 `COMMON CONTEMPORARY EVIDENTIARY ENVIRONMENT`.
 
+Lovejoy's positive ceiling is deliberately narrower: all that can confidently be asserted is that Rousseau and Monboddo were `brothers-in-arms` in the six connected theses, while Rousseau's priority makes Monboddo's originality somewhat questionable.
+
 This is one of the cleanest mature Lovejoy controls for:
 
 `SAME / SIMILAR CONTENT != CLOSED GENEALOGY`.
-
-English secondary quotation control:
-
-Mouton 2023 directly quotes Lovejoy p.293: `The question cannot be answered with certainty`, then notes the alternative common-source/common-evidence routes.
 
 ---
 
@@ -249,7 +304,7 @@ Mouton 2023 directly quotes Lovejoy p.293: `The question cannot be answered with
 |---|---|---|---|---|---|
 | 1895 | Wilson-mediated; primary HOLD | broad scientific significance / precursor? | apparently macro `anticipator of evolution` | unknown until article recovered | pre-Harvard baseline / possible broad classification |
 | 1904 | **direct primary** | did Monboddo actually hold biological transformism? | language evolution, ancestry, species identity, transformism separated | each proposition separately tested; suggestive evidence may not bear proof | macro precursor label narrowed by proposition-level audit |
-| 1933 | full translation witness + English quotation control; English facsimile HOLD | primitivism, human perfectibility, social/genetic evolution, Rousseau relation | Monboddo as developmental/anti-primitivist thinker; `evolutionist` repartitioned by sense | biological, anthropological, social-developmental and genealogical claims separately burdened | same actor rebuilt as a different historical object; genetic relation suspended despite strong similarity |
+| 1933 | **direct English OA reprint primary** | primitivism, human perfectibility, social/genetic evolution, Rousseau relation | Monboddo as developmental/anti-primitivist thinker; `evolutionist` repartitioned by sense | same evidence can be reassigned across proposition types; biological/social/genealogical claims separately burdened | same actor rebuilt as a different historical object; some 1904 evidence gains stronger force under a new target claim; direct Rousseau genealogy remains suspended |
 
 ---
 
@@ -259,19 +314,20 @@ The Monboddo sequence is not well described as:
 
 `Lovejoy became progressively more precise`.
 
-That remains partly open because the 1895 primary is missing.
+That remains partly open because the 1895 primary is missing, and the 1904→1933 direct comparison actually shows both narrowing **and strengthening** depending on proposition.
 
 The secure 1904→1933 relation is richer:
 
-1. Lovejoy preserves a narrow biological-transformism audit from 1904;
+1. Lovejoy preserves a biological-transformism audit from 1904;
 2. 1933 explicitly cites that earlier work;
-3. he then changes the historical question and redefines `evolutionist` by proposition scope;
-4. a label denied or qualified at one level can be retained at another;
-5. comparison/content identity is kept separate from genealogy/influence.
+3. he rereads at least one shared source (the 1773 Knight letter) more strongly;
+4. he reassigns the same tail packet from non-bearing evidence for one proposition to relevant evidence for another;
+5. he changes the historical question and redefines `evolutionist` by proposition scope;
+6. comparison/content identity is kept separate from genealogy/influence.
 
 Thus:
 
-> **historical classification is relation- and question-indexed. The same actor can be non-evolutionist under one biological proposition, evolutionist under a deeper developmental/social proposition, anti-primitivist under another classificatory problem, and genetically related to Rousseau only at a suspended/nonexclusive level.**
+> **historical classification and evidentiary relevance are relation- and question-indexed. The same actor can be classified differently under different propositions, while the same evidence can be irrelevant to one relation and probative or suggestive for another.**
 
 This is a direct mature control for the project's rule:
 
@@ -284,6 +340,12 @@ This is a direct mature control for the project's rule:
 `SAME RELATION`
 !=
 `SAME WARRANT`.
+
+And:
+
+`SAME DATUM`
+!=
+`SAME EVIDENTIARY FORCE ACROSS CLAIMS`.
 
 ---
 
@@ -298,24 +360,26 @@ This three-state Monboddo object complements — rather than duplicates — othe
 
 ### Monboddo
 
-`SAME HISTORICAL ACTOR`
-→ different historical objects (scientific precursor, biological transformism, anti-primitivist/social-developmental thinker, Rousseau comparison).
+`SAME HISTORICAL ACTOR + PARTLY SAME SOURCE BASE`
+→ different historical objects and different evidentiary roles (scientific precursor, biological transformism, anti-primitivist/social-developmental thinker, Rousseau comparison).
 
 ### 1908–09 pragmatism
 
 `SAME HISTORICAL LABEL`
 → independent propositions / warranted configuration.
 
-Together these prevent `object identity` from being assumed merely because the name, text corpus, or actor remains stable.
+Together these prevent `object identity` or `evidence identity` from being assumed merely because the name, text corpus, actor, or source remains stable.
 
 ---
 
 ## VIII. Firewalls
 
 - `1895 WILSON SUMMARY != 1895 FULL PRIMARY`.
-- `1933 SPANISH TRANSLATION != ENGLISH FACSIMILE`; use it for full-argument control but obtain the English page image before publication-grade quotation.
+- `1933 OPEN ENGLISH REPRINT != ORIGINAL 1933 JOURNAL FACSIMILE`; the reprint is nevertheless a direct Lovejoy primary textual witness.
 - `1933 CITES 1904 != 1933 MERELY REPEATS 1904`.
 - `MONBODDO BIOLOGICAL TRANSFORMISM QUALIFIED != MONBODDO NOT EVOLUTIONARY IN ANY SENSE`.
+- `STRONGER 1933 READING OF SAME SOURCE != GENERAL LINEAR METHOD DEVELOPMENT`.
+- `TAIL EVIDENCE RELEVANT TO REMOTE COMMON ANCESTRY != VALID EVIDENCE FOR MAN–ORANG SPECIES IDENTITY`.
 - `ROUSSEAU PRIORITY + MONBODDO READING ROUSSEAU != CERTAIN DIRECT INFLUENCE`.
 - `COMMON SOURCES / COMMON EVIDENCE != PROOF OF INDEPENDENT DISCOVERY`; they are alternative causal routes keeping genealogy open.
 - `SAME-ACTOR REPARTITION != ONE STABLE LOVEJOY METHOD`.
@@ -325,10 +389,10 @@ Together these prevent `object identity` from being assumed merely because the n
 ## IX. Next exact actions
 
 1. Recover 1895 *University of California Magazine* vol.1 pp.68–79 from Sacramento and perform same-object collation against 1904/1933.
-2. Recover English page image/text of `Monboddo and Rousseau`, *Modern Philology* 30.3 (1933): 275–296, especially pp.293–296.
-3. Collate the 1904 sections explicitly reused in 1933 footnote 24 and classify 1933 changes as `RETENTION / SCOPE REDEFINITION / NEW SOURCE / NEW QUESTION / NEW GENEALOGICAL BURDEN`.
+2. Original 1933 *Modern Philology* facsimile is now optional manifestation/citation control, not a substantive-text blocker; prioritize only if publication requires original-journal pagination/image.
+3. Extend the 1904→1933 source collation beyond the Knight letter/tails and classify changes as `RETENTION / STRONGER INFERENCE / REASSIGNED RELEVANCE / SCOPE REDEFINITION / NEW SOURCE / NEW QUESTION / NEW GENEALOGICAL BURDEN`.
 4. Do not add this entire longitudinal branch to the current JHI Blog; use it as an external methodological/object-stability control unless the article's scope is later enlarged.
 
 ## Restart shorthand
 
-> **MONBODDO THREE-STATE CONTROL: 1895 UC Magazine 1:68–79 remains primary-HOLD; Wilson transmits broad precursor-style conclusion. 1904 direct primary splits language evolution / ancestry / species identity / biological transformism and says `virtual evolutionist` is probably too strong; suggestive evidence need not bear proof. 1933 `Monboddo and Rousseau` explicitly cites the 1904 article for the biological-transformism question, then repartitions `evolutionist`: biological transformism remains separately qualified while Monboddo is called evolutionary in a deeper genetic/developmental sense of human nature, social progress and universal history; he becomes anti-primitivist rather than simply `primitive`. 1933 also suspends Rousseau→Monboddo genealogy despite priority, reading and strong similarity, retaining direct influence / independent recurrence / common classical sources / common contemporary evidence as live alternatives. Strongest control = SAME ACTOR != SAME HISTORICAL OBJECT; SAME LABEL (`evolutionist`) CAN CHANGE SCOPE BY PROPOSITION TYPE. 1895 primary and 1933 English facsimile remain acquisition targets.**
+> **MONBODDO THREE-STATE CONTROL: 1895 UC Magazine 1:68–79 remains primary-HOLD; Wilson transmits broad precursor-style conclusion. 1904 direct primary splits language evolution / ancestry / species identity / biological transformism and says `virtual evolutionist` is perhaps too strong; Knight 1773 kinship letter only warrants a tentative collateral-common-ancestor reading, while tail stories are irrelevant to man–orang kinship and do not bear proof weight. 1933 direct English OA Project MUSE reprint explicitly cites 1904, rereads the SAME 1773 letter as apparently only meaning common descent of apes/monkeys/man and therefore species-to-species descent possibility; tails remain irrelevant to direct man–orang relation but become relevant to remote common-tailed ancestry. 1933 also repartitions `evolutionist` into biological/common-descent vs deeper genetic/social/universal-history senses and suspends Rousseau→Monboddo genealogy despite priority, reading and strong similarity. Strongest controls = SAME ACTOR != SAME HISTORICAL OBJECT; SAME DATUM + NEW TARGET PROPOSITION -> NEW EVIDENTIARY RELEVANCE. 1895 primary remains the key baseline target.**
