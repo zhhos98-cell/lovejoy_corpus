@@ -1,7 +1,7 @@
 # JHU MS-0038 Box 62 Item 3 — Notes on totemism, 1898–1899 — Bibliothèque Nationale target
 
 Date: 2026-09-03  
-Status: **EXACT FINDING-AID LOCATOR + DATE CLOSED / BNF PROVENANCE FINDING-AID PROBABILITY ONLY / MANUSCRIPT CONTENT OPEN**
+Status: **EXACT FINDING-AID LOCATOR + DATE CLOSED / BNF PROVENANCE FINDING-AID PROBABILITY ONLY / MANUSCRIPT CONTENT OPEN / MARILLIER 1897–98 EXACT PRIMARY TARGET CLOSED**
 
 ## Core discovery
 
@@ -46,15 +46,42 @@ Unlike a later retrospective summary, a dated totemism note packet could show wh
 
 ### 2. Universal-stage versus local-relation problem
 
-Marillier's pre-Paris published work already supplies a field control rejecting totemism as a necessary universal stage of religion and warning against overgeneralized origin schemes.
+Marillier's pre-Paris and immediately pre-arrival published work supplies a particularly exact field control.
 
-A Lovejoy totemism packet can test whether he engaged the same problem directly and how he allocated:
+His four-part series:
 
-`TOTEMISM PRESENT`
-versus
-`TOTEMISM PRIMITIVE / ORIGINAL / UNIVERSAL`
-versus
-`TOTEMISM CAUSES SACRIFICE / RELIGION`.
+`La place du totémisme dans l'évolution religieuse, à propos d'un livre récent: F. B. Jevons, An Introduction to the History of Religion`
+
+is now bibliographically closed as:
+
+- *Revue de l'histoire des religions* 36 (1897), pp. **208–253**;
+- vol. 36 (1897), pp. **321–369**;
+- vol. 37 (1898), pp. **204–233**;
+- vol. 37 (1898), pp. **345–404**.
+
+This is unusually important because the series was appearing immediately before / during Lovejoy's Paris year and directly addresses the exact totemism/evolution problem named in Box 62 Item 3.
+
+Marillier's field-level claim structure is not `totemism does not exist`.
+
+It is narrower:
+
+`TOTEMIC CULT EXISTS IN CLAN CONTEXT`
+!=
+`TOTEMIC CULT NATURALLY EXPANDS INTO TRIBAL / NATIONAL CULT`
+!=
+`LATER ANIMAL GOD MUST HAVE BEEN A TOTEM`
+!=
+`ALL RELIGIONS NECESSARILY PASS THROUGH A TOTEMIC STAGE`.
+
+Contemporaneous quotation/reception preserves an especially sharp proof rule: co-present rites/customs do not establish common origin; a proposed derivation requires its own demonstration. The later relay phrase `simple affirmations are not arguments` is useful as reception of the burden, but publication-grade use should return to Marillier's original French pages.
+
+A Lovejoy totemism packet can therefore test whether he engaged **this exact four-part series** and how he allocated:
+
+`PRESENCE`
+→ `SOCIAL SCOPE`
+→ `TEMPORAL STAGE`
+→ `ORIGIN / DERIVATION`
+→ `LATER TRANSFORMATION / SURVIVAL`.
 
 ### 3. Relation to notebook 005 and later publication
 
@@ -74,9 +101,27 @@ from
 
 Code every named source and exact work/date.
 
-Priority names/problems:
+### First-pass exact Marillier test
 
-- Léon Marillier;
+Search immediately for:
+
+- `Marillier` / `M.` / `L.M.`;
+- Jevons;
+- page numbers in the 36/37 RHR sequence;
+- distinctive propositions about clan confinement, animal gods, necessary stage, pastoral cult, domestication, sacrifice.
+
+If present, distinguish:
+
+`LOVEJOY COPIES MARILLIER`
+from
+`LOVEJOY SUMMARIZES JE VONS THROUGH MARILLIER`
+from
+`LOVEJOY OBJECTS / RECLASSIFIES`
+from
+`LOVEJOY USES SAME CASE INDEPENDENTLY`.
+
+### Wider priority names/problems
+
 - J. G. Frazer;
 - W. Robertson Smith;
 - Andrew Lang;
@@ -100,26 +145,36 @@ For each passage distinguish:
 
 ## III. Core claim tests
 
-1. **Compatibility versus origin**
-   - Does one secure totemic case merely establish coexistence with sacrifice/religion?
-   - Is it promoted into a universal origin claim?
+1. **Presence versus necessary stage**
+   - Does a secure totemic institution establish only local presence?
+   - Is it promoted into a primitive/universal stage?
 
-2. **Population representativeness**
+2. **Compatibility versus origin**
+   - Does one secure totemic case merely establish coexistence with sacrifice/religion?
+   - Is coexistence converted into derivation?
+
+3. **Social scale**
+   - clan cult;
+   - tribe/nation;
+   - animal god after loss of totemic structure.
+   - Does Lovejoy distinguish continuity of visible form from continuity of social relation?
+
+4. **Population representativeness**
    - Which peoples/cases are allowed to bear a general statement?
    - Are negative/counter cases retained?
 
-3. **chronology / survivance**
+5. **chronology / survivance**
    - Is a living custom treated as a survival of an earlier stage?
    - What evidence licenses that temporalization?
 
-4. **genealogy**
+6. **genealogy**
    - Does resemblance imply descent/common origin?
    - Are independent origins considered?
 
-5. **source resolution**
+7. **source resolution**
    - Which witnesses are trusted for practices, terms, social organization, motives, or theoretical interpretation?
 
-6. **Paris infrastructure**
+8. **Paris infrastructure**
    - Bibliothèque Nationale call slips, shelfmarks, copied bibliographies, page references, handwriting/paper clues;
    - direct evidence for the finding aid's probable BnF provenance.
 
@@ -133,13 +188,24 @@ The current project has directly closed that Marillier's comparative-religion pe
 - source criticism;
 - caution about universal stages;
 - survivance / internal stratigraphy;
-- comparison across populations.
+- comparison across populations;
+- explicit refusal to let a local institution automatically bear a universal evolutionary genealogy.
 
 Therefore, even if this packet closely tracks Marillier, do not narrate it as Lovejoy inventing the operators.
 
 The useful question is narrower:
 
-> **Which totemism relations did Lovejoy select, question, or refuse while working inside that field?**
+> **Did Lovejoy actually take up Marillier's 1897–98 totemism argument in Paris, and if so which relations did he retain, question, or reassign?**
+
+This can convert:
+
+`MARILLIER = FIELD / TEACHER CONTROL`
+
+into, if manuscript evidence permits:
+
+`MARILLIER TEXT -> LOVEJOY ACTUAL READING / NOTES`.
+
+That is an uptake question, not an originality claim.
 
 ---
 
@@ -163,9 +229,10 @@ No duplicate/new request should be sent while the current quotation cycle is sti
 - `PROBABLY BIBLIOTHÈQUE NATIONALE != PROVED BNF PROVENANCE`.
 - `ADJACENT TO EVOLUTION NOTES != SAME NOTEBOOK / SAME PROJECT`.
 - `TOTEMISM NOTES != ACCEPTANCE OF TOTEMISM AS UNIVERSAL STAGE`.
+- `MARILLIER SERIES EXISTS BEFORE/PARIS != LOVEJOY READ IT`.
 - `SOURCE IN NOTES != LOVEJOY ENDORSEMENT`.
 - `PARIS TOPICAL CO-PRESENCE != DIRECT CAUSAL INPUT INTO 1906`.
 
 ## Restart shorthand
 
-> **BOX62/ITEM3 TOTEMISM: JHU finding aid directly identifies `Notes on totemism, 1898–1899`, Box62 item3, `Probably taken on readings in Bibliotheque Nationale`. Exact target/date closed at finding-aid level; BnF provenance probabilistic; content open. High-value Paris reading carrier for universal-stage vs compatibility/origin, source grading, survivance, population representativeness and totemism/sacrifice relations; may help date 005 strata. Separate from pending Box62 item2 Evolution quote; do not assume included. Ask extent/cost only after current quote cycle unless later strategically bundled.**
+> **BOX62/ITEM3 TOTEMISM: JHU finding aid directly identifies `Notes on totemism, 1898–1899`, Box62 item3, `Probably taken on readings in Bibliotheque Nationale`. Exact target/date closed at finding-aid level; BnF provenance probabilistic; content open. Exact Marillier uptake target now closed bibliographically: `La place du totémisme dans l'évolution religieuse` four-part Jevons critique, RHR 36 (1897) 208–253 + 321–369; RHR 37 (1898) 204–233 + 345–404. Core field distinction = local/clan totemism presence != tribal/national expansion != later animal-god derivation != necessary universal religious stage; coexistence != common origin. When Item3 is scanned, first test whether Lovejoy actually excerpts/argues with this series. Separate from pending Box62 item2 Evolution quote; ask extent/cost only after current quote cycle.**
