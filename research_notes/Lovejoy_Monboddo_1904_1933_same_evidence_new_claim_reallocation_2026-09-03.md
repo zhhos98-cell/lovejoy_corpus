@@ -1,7 +1,7 @@
 # Lovejoy / Monboddo 1904 → 1933 — same evidence, new target proposition, new evidentiary force
 
 Date: 2026-09-03  
-Status: **DIRECT 1904 PRIMARY + DIRECT ENGLISH 1933 OPEN-ACCESS REPRINT PRIMARY / SAME-SOURCE REINTERPRETATION CLOSED**
+Status: **DIRECT 1904 PRIMARY + DIRECT ENGLISH 1933 OPEN-ACCESS REPRINT PRIMARY / SAME-SOURCE REINTERPRETATION + NEW-EVIDENCE REVALUATION + SCALE REASSIGNMENT CLOSED**
 
 ## Core result
 
@@ -11,15 +11,13 @@ The 1904 and 1933 Monboddo essays supply an unusually clean control for a centra
 
 The historical actor and much of the source base remain the same. What changes is the target proposition.
 
-This yields a stronger relation than generic `Lovejoy became more precise`:
+The collation now distinguishes **three different change operators** that must not be collapsed into one generic `revision`:
 
-`SAME SOURCE / SAME DATUM`
-+
-`NEW TARGET PROPOSITION`
-→
-`NEW RELEVANCE / NEW INFERENTIAL FORCE`.
+1. `SAME DATUM + NEW TARGET PROPOSITION -> NEW RELEVANCE / NEW INFERENTIAL FORCE`;
+2. `OLD TESTIMONY + NEW EXTERNAL EVIDENCE -> RETROSPECTIVE REVALUATION OF CREDIBILITY`;
+3. `SAME DOCTRINE + NEW HISTORICAL SCALE -> NEW OBJECT FUNCTION`.
 
-Do not call this a stable named Lovejoy method. It is a direct same-author textual control.
+Do not call these a stable named Lovejoy method. They are direct same-author textual controls.
 
 ---
 
@@ -45,6 +43,10 @@ The 2019 Hopkins Open Publishing Encore edition is marked Open Access and CC BY-
 
 This retires the earlier evidence ceiling `Spanish translation + English secondary quotation only` for substantive English wording. The original 1933 *Modern Philology* facsimile remains useful only for original manifestation/page-image control.
 
+Independent full derivative witness:
+
+Teresa Calderón Quindós trans., `Monboddo y Rousseau (1933)`, *Revista de Filosofía* 63 (2007), SciELO full text.
+
 ---
 
 ## II. 1904 — the 1773 Knight letter is suggestive but relation underdetermined
@@ -67,6 +69,8 @@ Thus in 1904:
 but not yet securely
 
 `GENERAL SPECIES TRANSFORMISM`.
+
+Direct primary control: 1904 text, especially the Monboddo section around the Knight letter.
 
 ---
 
@@ -153,7 +157,111 @@ This is one of the strongest direct controls in the corpus for:
 
 ---
 
-## V. 1933 also changes the classification scale of `evolutionist`
+## V. Old testimony + new external evidence — retrospective revaluation of Monboddo's ape reports
+
+A second change operator is different from the Knight/tail case because **new twentieth-century evidence enters the evidentiary field**.
+
+### 1904
+
+Lovejoy already reconstructs Monboddo's preferred criterion of species identity as heavily dependent on the orang-outang's `inward principle`, mental habits and dispositions.
+
+He quotes Monboddo's reports that apes:
+
+- show intelligence;
+- live socially;
+- build huts;
+- use sticks as weapons;
+- exhibit attachment, modesty, honor, justice and even burial rites.
+
+Lovejoy describes Monboddo's estimate of ape mentality/temperament as extremely exalted and records Bontius-style anecdotes such as extreme modesty and emotional sensitivity.
+
+In 1904 these reports are principally historical evidence for **what Monboddo counted as species-relevant resemblance**.
+
+### 1933
+
+Lovejoy repeats the same Monboddo testimony but now adds a new evidentiary layer:
+
+- Köhler on chimpanzee tool use and manufacture;
+- Yerkes on primate intelligence and emotion;
+- Kearton on near-human behavior.
+
+Lovejoy says Monboddo certainly exaggerated, but that after a long period of scientific skepticism the higher anthropoids had been shown to possess some of the capacities he attributed to them.
+
+Thus the operation is not:
+
+`SAME TESTIMONY -> STRONGER INTERPRETATION BY ITSELF`.
+
+It is:
+
+`OLD TESTIMONY`
++
+`NEW INDEPENDENT SCIENTIFIC EVIDENCE`
+→
+`RETROSPECTIVE REVALUATION OF OLD TESTIMONY'S CREDIBILITY`.
+
+This distinction matters for source criticism. A historical testimony's **role in reconstructing an actor's belief** and its **truth-value under later evidence** are separate questions.
+
+Analytical rule:
+
+`ACTOR USED REPORT R`
+!=
+`REPORT R WAS TRUE`
+
+but later evidence may change the second judgment without changing the first.
+
+---
+
+## VI. Same doctrine + new scale — language/political state becomes a stadial-development object
+
+A third change operator concerns not evidentiary strength but **historical scale**.
+
+### 1904
+
+Lovejoy says the central thesis of *Origin and Progress of Language* concerns the **evolution of language**, not biological transformation of man.
+
+The proposition is:
+
+`LANGUAGE`
+→ arises only after humans have lived in a `POLITICAL STATE`;
+
+and therefore Monboddo needs examples of human or near-human beings existing without language.
+
+The orang-outang doctrine enters the 1904 essay largely as support for this linguistic/political-state problem.
+
+### 1933
+
+Lovejoy retains the same doctrine but embeds it in a much broader developmental series.
+
+The relevant sequence becomes approximately:
+
+`SOLITARY ANIMALITY / PURE STATE OF NATURE`
+→ `ASSOCIATION`
+→ `ARTS / PRACTICAL SKILLS`
+→ `LANGUAGE`
+→ `RATIONAL / POLITICAL / MORAL LIFE`
+→ broader `SOCIAL / INTELLECTUAL DEVELOPMENT`.
+
+The orang-outang is no longer only an example needed for a theory of language origins. It can function as an approximate **early stage of human progress**: social and technically capable, but not yet possessing language.
+
+The same doctrine is therefore reassigned from:
+
+`LOCAL THEORY OF LANGUAGE ORIGIN`
+
+to
+
+`EVIDENCE FOR HISTORICALLY ACQUIRED HUMAN NATURE / STADIAL DEVELOPMENT / ANTI-PRIMITIVISM`.
+
+This is not a contradiction with 1904. It is a **scale shift**:
+
+`SAME DOCTRINE`
++
+`BROADER QUESTION`
+→
+`NEW HISTORICAL OBJECT FUNCTION`.
+
+---
+
+## VII. 1933 also changes the classification scale of `evolutionist`
 
 After the biological audit, Lovejoy calls Monboddo an evolutionist in a `profounder sense` tied to:
 
@@ -179,7 +287,7 @@ A label can be qualified at one proposition level and affirmed at another.
 
 ---
 
-## VI. Relation to Rousseau genealogy
+## VIII. Relation to Rousseau genealogy
 
 The same 1933 paper gives an independent relation-indexed control.
 
@@ -207,30 +315,54 @@ This is the genetic counterpart to the tail-evidence result.
 
 ---
 
-## VII. Longitudinal significance
+## IX. Change-operator matrix
 
-The 1904→1933 relation should not be summarized as `increasing caution`.
+| Evidence/object relation | 1904 state | 1933 state | Correct code |
+|---|---|---|---|
+| Knight 1773 kinship letter | relation not specified; collateral common ancestry may be supposed | common descent apparently required; species-to-species descent possible | `SAME SOURCE / STRONGER INFERENCE` |
+| tail stories / coccyx | irrelevant to direct man–orang relation; suggestive but no proof weight | still irrelevant to direct relation; relevant to remote tailed common ancestry | `SAME DATUM / REASSIGNED RELEVANCE` |
+| ape intelligence/sociality reports | reconstruct Monboddo's criterion of species identity; testimony often extravagant | same reports + Köhler/Yerkes/Kearton partly vindicate underlying capacities | `OLD TESTIMONY + NEW EVIDENCE / CREDIBILITY REVALUATION` |
+| language-after-political-state thesis | local central theory of language origin; orang-outang solves speechless-human problem | one stage in larger human developmental sequence | `SAME DOCTRINE / SCALE REASSIGNMENT` |
+| `evolutionist` label | general biological transformism remains qualified | biological possibility strengthened; label also affirmed in deeper social/genetic sense | `LABEL / PROPOSITION-SCOPE REDEFINITION` |
+| Rousseau relation | not central to 1904 Monboddo biological audit | similarity + priority + reading, but causal route remains open | `NEW QUESTION / GENEALOGICAL BURDEN` |
 
-In one respect Lovejoy becomes **more assertive** in 1933: he upgrades the Knight letter and tail-related packet into support for a broader common-descent/species-transformation hypothesis.
+The important result is that `REVISION` is too coarse a code.
 
-The stable operation is instead:
+---
+
+## X. Longitudinal significance
+
+The 1904→1933 relation should not be summarized as `increasing caution` or simply `increasing precision`.
+
+Depending on the proposition, Lovejoy can:
+
+- make a **stronger** inference from the same source;
+- keep the same datum irrelevant to one claim while reallocating it to another;
+- revise the credibility of old testimony because new independent evidence has appeared;
+- move one doctrine from a local explanatory role to a broader developmental/historical role;
+- suspend a genealogy despite strong similarity/priority/reading evidence.
+
+The stable project-level formulation is therefore:
 
 `IDENTIFY TARGET CLAIM`
-→ `ASK WHAT RELATION THE SOURCE ACTUALLY BEARS`
-→ `REASSIGN / WITHHOLD EVIDENTIARY FORCE BY CLAIM TYPE`.
+→ `IDENTIFY RELEVANT RELATION`
+→ `ASK WHAT THE SOURCE / EVIDENCE CAN BEAR FOR THAT RELATION`
+→ `REASSIGN OR WITHHOLD FORCE AS CLAIM / SCALE / EVIDENCE FIELD CHANGES`.
 
-This matters for the notebook project because it supplies a mature, direct, same-source analogue of the archival rule:
+This matters for the notebook project because it supplies a mature direct analogue of the archival rule:
 
-> **one piece of evidence can be weak or irrelevant for one relation and important for another.**
+> **one piece of evidence can be weak or irrelevant for one relation and important for another; adding new evidence can also change the credibility of an old report without changing what historical actors did with it.**
 
 Do not retroject the 1933 interpretation into 1898.
 
 ---
 
-## VIII. Firewalls
+## XI. Firewalls
 
 - `1933 OPEN ENGLISH REPRINT != ORIGINAL 1933 JOURNAL FACSIMILE`, though it is a direct Lovejoy primary textual witness.
 - `SAME SOURCE REINTERPRETED != SOURCE CHANGED`.
+- `OLD TESTIMONY PARTLY VINDICATED BY NEW SCIENCE != MONBODDO'S ORIGINAL EVIDENCE WAS STRONG BY EIGHTEENTH-CENTURY STANDARDS`.
+- `SAME DOCTRINE AT NEW SCALE != SAME HISTORICAL OBJECT`.
 - `STRONGER 1933 INFERENCE != PROOF OF A GENERAL METHOD DEVELOPMENT`.
 - `TAIL EVIDENCE RELEVANT TO REMOTE ANCESTRY != VALID EVIDENCE FOR MAN–ORANG SPECIES IDENTITY`.
 - `CONTENT SIMILARITY + READING != CERTAIN DIRECT INFLUENCE`.
@@ -238,4 +370,4 @@ Do not retroject the 1933 interpretation into 1898.
 
 ## Restart shorthand
 
-> **MONBODDO SAME-EVIDENCE CONTROL: 1904 direct primary reads Knight's 1773 `simian race is of kin to us` letter cautiously — Monboddo does not specify relation; Lovejoy says collateral common ancestry may fairly be supposed, while `virtual evolutionist` is perhaps too strong. 1904 tail stories are `really irrelevant` to man–orang kinship/species identity and only `suggest a good deal` without bearing proof weight. 1933 direct English OA reprint (Project MUSE) explicitly cites 1904, rereads the same 1773 letter as apparently only meaning common descent of apes/monkeys/man and therefore implying species-to-species descent is possible; concludes Monboddo accepted transformation in principle and probable common descent of most/all Anthropoidea. Tails remain non-pertinent to direct man–orang kinship but are reassigned to remote common-tailed-ancestor genealogy. Strongest rule: SAME DATUM + NEW TARGET PROPOSITION -> NEW EVIDENTIARY RELEVANCE; EVIDENCE FORCE IS RELATION-INDEXED.**
+> **MONBODDO 1904→1933 CHANGE OPERATORS: direct 1904 + direct English OA 1933. (1) Knight 1773 letter = SAME SOURCE / STRONGER INFERENCE: 1904 relation unspecified, collateral ancestry may be supposed; 1933 common descent apparently required and species-to-species descent possible. (2) tails = SAME DATUM / REASSIGNED RELEVANCE: irrelevant to direct man–orang relation in both, but 1933 relevant to remote common-tailed ancestry. (3) ape intelligence/sociality reports = OLD TESTIMONY + NEW EVIDENCE: 1904 reconstructs Monboddo's species criterion; 1933 Köhler/Yerkes/Kearton partly revalue credibility. (4) language after political state = SAME DOCTRINE / SCALE REASSIGNMENT: 1904 local language-origin problem; 1933 stadial human-development / anti-primitivism evidence. (5) `evolutionist` = LABEL / PROPOSITION-SCOPE REDEFINITION. (6) Rousseau = NEW GENEALOGICAL QUESTION with influence suspended. Strongest rule: EVIDENCE FORCE IS RELATION-INDEXED, but change can come from target proposition, new evidence, or scale—not one generic revision operator.**
