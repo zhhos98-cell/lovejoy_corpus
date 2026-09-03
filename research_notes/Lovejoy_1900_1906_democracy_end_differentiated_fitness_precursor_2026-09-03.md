@@ -1,46 +1,90 @@
 # Lovejoy 1900 → 1906 — democracy as end and differentiated suitability
 
 Date: 2026-09-03  
-Status: **NEW RELATION-FORM HYPOTHESIS / 1900 WILSON-MEDIATED / 1906 DIRECT PRIMARY / NO GENETIC CONTINUITY CLAIM**
+Status: **RELATION-FORM HYPOTHESIS / 1900 WILSON-MEDIATED WITH PARAPHRASE-QUOTE DISTINCTION / 1906 DIRECT PRIMARY / NO GENETIC OR LEXICAL CONTINUITY CLAIM**
 
 ## Question
 
 Does Lovejoy's 1900 `The Social Rôle of the French University` contain an earlier version of the political grammar that becomes explicit in `Democracy in the Twentieth Century` (1906): general or democratic ends retained while institutional suitability is differentiated?
 
-Current answer:
+Current answer after Wilson quotation calibration:
 
-> **There is a potentially important relation-form parallel, but the 1900 side remains mediated through Daniel J. Wilson's summary. It should be treated as a precursor hypothesis to be tested against the primary article, not as established intellectual continuity.**
+> **There is a potentially important relation-form parallel, but it is weaker than a first reading of Wilson's annotation suggested. Wilson's phrase `too democratic` is his unquoted paraphrase, not a verified Lovejoy phrase. The 1900 side therefore cannot presently support lexical continuity and may not yet support actor-level relation continuity. The primary article must test whether Wilson has accurately preserved one argumentative chain or compressed separate passages.**
 
 ---
 
-## 1. 1900 — Wilson-mediated double judgment
+## 1. 1900 — Wilson-mediated architecture, with quotation tiers separated
 
-Wilson's annotation of Lovejoy's 1900 article attributes two judgments that are easy to flatten if read separately:
+Wilson entry 20 attributes a sequence that is easy to flatten if quotation status is ignored.
 
-1. the French university is in some respect `too democratic`, because it tends to encourage students toward fields for which they are not intellectually or socially suited;
-2. despite its defects, the university is probably the greatest agency then operating to make the French `democratic experiment` successful.
+### Wilson-marked Lovejoy quotations
 
-If Wilson's reconstruction is accurate, the article does **not** equate democratic value with undifferentiated allocation.
+Wilson places quotation marks around:
 
-Its possible structure is:
+- university as `primarily an instrument for intellectual discipline and the promotion of scholarship`;
+- university as `a member in a complicated social organism`;
+- French expectation not `to look after the social life or promote the social training of its students`;
+- `personal responsibility`;
+- state schools as the `organ of a party`;
+- the conclusion beginning that the French university `is probably the greatest agency now operating to make a success of the democratic experiment ...`.
+
+The available OCR garbles the final words of the last quotation, so they should not be reconstructed.
+
+### Wilson paraphrase, not Lovejoy quotation
+
+Wilson then says Lovejoy:
+
+- criticizes the university for being `too democratic`;
+- sees it as encouraging students into fields for which they are neither intellectually nor socially suited.
+
+Crucially, **Wilson does not put `too democratic` in quotation marks**.
+
+Thus:
+
+`TOO DEMOCRATIC` = **WILSON PARAPHRASE / LOVEJOY WORDING OPEN**.
+
+And:
+
+`STUDENT-FIELD MISFIT` = **WILSON-MEDIATED PROPOSITION / PRIMARY ARGUMENTATIVE STATUS OPEN**.
+
+This eliminates any present lexical bridge from 1900 `too democratic` to 1906 democracy language.
+
+Wilson OCR locus:
+`https://www.scribd.com/document/940006529/Arthur-O-Lovejoy-an-Annotated-Bibliography-Daniel-J-Wilson-f05ba590096c5ea6f7f8956ea9f51956-Anna-s-Archive`
+
+---
+
+## 2. The live 1900 hypothesis is about Wilson's relation-preserving accuracy
+
+Wilson's annotation places the student/field-misfit paraphrase shortly before a direct quotation praising the university as an agency of the democratic experiment.
+
+That sequence **may** preserve an article-level relation:
 
 `DEMOCRATIC END RETAINED`
 +
 `DIFFERENTIATED SUITABILITY / FIT`
 ->
-`INSTITUTIONAL DISTRIBUTION MUST BE JUDGED CONDITIONALLY`.
+`INSTITUTIONAL DISTRIBUTION JUDGED CONDITIONALLY`.
 
-This formulation remains secondary-mediated pending direct recovery of *University of California Magazine* 6 (1900): 134–146.
+But three weaker alternatives are now equally live:
+
+1. Wilson paraphrases a local criticism with `too democratic` that Lovejoy formulates in substantially different terms;
+2. the student-fit critique and democratic conclusion belong to different sections or argumentative registers;
+3. Wilson's compressed annotation makes separate observations look more integrated than the article itself does.
+
+Therefore the present object is:
+
+> **WILSON-ARCHITECTURE PRECURSOR HYPOTHESIS**, not an actor-explicit Lovejoy continuity.
 
 ---
 
-## 2. Contemporary French controls sharply reduce originality claims
+## 3. Contemporary French controls sharply reduce originality claims
 
-The constituent ingredients of this structure are not Lovejoy-specific.
+The constituent ingredients of the possible structure are not Lovejoy-specific.
 
 ### Expansion plus professional-overcrowding concern
 
-Charles Gide's 1894 Montpellier university address celebrates increasing student numbers but warns that liberal professions are expanding rapidly and the university is their principal gateway.
+Charles Gide's 1894 Montpellier university address celebrates increasing student numbers but immediately sounds a warning: liberal professions are expanding rapidly and the university is their principal gateway.
 
 ### Expansion plus capacity constraint
 
@@ -56,14 +100,14 @@ Georges Renard's July–August 1900 report explicitly treats social-science teac
 
 Therefore the possible Lovejoy-specific issue is not the invention of either democracy or selection/capacity constraints.
 
-It is the **unit and combination** assigned to them.
+It is the **unit and combination** assigned to them — if the primary confirms Wilson's compression.
 
-Authority for these field controls:
+Authority:
 `research_notes/Lovejoy_1900_French_University_clause_ownership_field_residual_2026-09-03.md`.
 
 ---
 
-## 3. 1906 — direct primary structure
+## 4. 1906 — direct primary structure
 
 In `Democracy in the Twentieth Century` (February 1906), Lovejoy directly distinguishes two directions in which nineteenth-century thought broke up Enlightenment `generic Man`:
 
@@ -83,17 +127,17 @@ The safe direct-primary formula already established in the repo is:
 Political firewall: the article applies this grammar to colonial policy and Black enfranchisement/disfranchisement and contains racialized, exclusionary political judgments. The analytic differentiation is not politically innocent and must not be sanitized.
 
 Authority:
-`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` plus the direct 1906 Democracy control files.
+`research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` plus the direct 1906 Democracy controls.
 
 ---
 
-## 4. Possible relation-form parallel
+## 5. Possible relation-form parallel — deliberately non-lexical
 
 At a deliberately abstract level, the two states may share this form:
 
-### 1900, if Wilson is accurate
+### 1900, only if the primary vindicates Wilson's architecture
 
-`DEMOCRACY AS END`
+`DEMOCRATIC INSTITUTIONAL END`
 +
 `INDIVIDUAL / EDUCATIONAL DIFFERENTIATION`
 ->
@@ -107,13 +151,21 @@ At a deliberately abstract level, the two states may share this form:
 ->
 `NOT EVERY INSTITUTION IS EQUALLY FIT FOR EVERY POPULATION / STAGE`.
 
-This makes 1900 a potentially important **small-unit precursor test** for the later political grammar.
+The relation is therefore potentially:
 
-But the unit shift is enormous and must remain explicit.
+`END RETAINED + FIT CONDITION ADDED`.
+
+It is **not** currently:
+
+`SAME WORDING`
+
+or
+
+`SAME DOCTRINE`.
 
 ---
 
-## 5. Hard firewall: same relation-form does not equal same political object
+## 6. Hard firewall: same relation-form does not equal same political object
 
 Do not collapse:
 
@@ -150,79 +202,84 @@ The 1906 scalar expansion may radically transform the political consequences of 
 
 ---
 
-## 6. Why the possible continuity matters
+## 7. Why the possible continuity matters
 
-If the 1900 primary confirms Wilson's summary, the historiographical consequence would be more precise than saying Lovejoy became politically relativist by 1906.
+If the 1900 primary confirms Wilson's architecture, the historiographical consequence would be more precise than saying Lovejoy became politically relativist by 1906.
 
 A possible earlier operation would already be visible:
 
-> **a universal or democratic aim is not rejected when uniform allocation is rejected; instead the aim is pursued through differentiated judgments of fit.**
+> **a democratic aim is not rejected when uniform educational allocation is rejected; instead the aim is pursued through differentiated judgments of fit.**
 
-That operation can later become politically dangerous when the unit changes from students/careers to populations/institutions.
+That relation can later become politically much more consequential when the unit changes from students/careers to populations/institutions.
 
-This would support a scalar model:
+Possible scalar question:
 
 `LOCAL / INDIVIDUAL SUITABILITY`
--> possible later
-`INSTITUTIONAL / POPULATION SUITABILITY`
+-> possible later reuse at
+`INSTITUTIONAL / POPULATION SUITABILITY`.
 
-without claiming that the latter is simply caused by the former.
+The question is not whether one caused the other, but:
 
-The historical problem would then be:
+> **What happens normatively when a conditional-fit operator is applied at a different scale?**
 
-> **What happens normatively when a conditional-fit operator migrates across scales?**
-
-This is directly compatible with the repo's governing architecture:
+This directly tests the repo's architecture:
 
 `WHAT UNIT? -> WHAT RELATION? -> WHAT EVIDENCE LICENSES IT?`
 
-and with the rule:
+and:
 
 `UNIT TYPE BELONGS TO CLAIM`.
 
 ---
 
-## 7. Alternative outcome that would falsify the hypothesis
+## 8. Falsification conditions are now stronger
 
-The 1900 primary could weaken or destroy this proposed bridge if:
+The 1900 primary should **weaken or destroy** this bridge if any of the following is true:
 
-- `too democratic` is Wilson's loose paraphrase rather than Lovejoy's operative concept;
-- the student-fit point is a minor aside rather than connected to the democratic conclusion;
-- `democratic experiment` refers to a different institutional function unrelated to placement/selection;
-- the article attributes the fit argument to a French source rather than adopting it;
-- the two judgments occur in different sections without argumentative connection;
-- Lovejoy explicitly rejects the differentiated-fit inference Wilson's annotation seems to suggest.
+1. Wilson's `too democratic` paraphrase does not correspond to a Lovejoy claim about democracy at all;
+2. Lovejoy's actual wording concerns only professional congestion, not individual suitability;
+3. the student-fit point is a minor aside;
+4. the democratic-experiment conclusion is unrelated to the placement/selection discussion;
+5. the two judgments are separated by topic or section and Wilson's annotation creates a false adjacency;
+6. the fit argument is attributed by Lovejoy to a French observer/source rather than adopted as his own;
+7. Lovejoy explicitly qualifies or rejects the inference Wilson's paraphrase implies.
 
-Therefore **primary recovery is a real falsification test**, not merely an opportunity to add quotations.
+Therefore:
+
+> **PRIMARY RECOVERY TESTS WILSON'S RELATIONAL COMPRESSION.**
+
+It is not merely a quotation-upgrade exercise.
 
 ---
 
-## 8. Exact collation test once 1900 primary is recovered
+## 9. Exact collation test once 1900 primary is recovered
 
 For each relevant 1900 passage, record:
 
-1. analytic unit: student / faculty / university / profession / state / democracy;
-2. relation: fit, allocation, capacity, function, responsibility, representation;
-3. normative end: democracy, intellectual achievement, social responsibility, freedom;
-4. scope: France-specific, comparative, general;
-5. source ownership: Lovejoy observation, named French source, inherited reform language;
-6. whether `too democratic` and `democratic experiment` are explicitly connected.
+1. exact wording — especially whether any phrase corresponding to `too democratic` occurs;
+2. analytic unit: student / faculty / university / profession / state / democracy;
+3. relation: fit, allocation, capacity, function, responsibility, representation;
+4. normative end: democracy, intellectual achievement, social responsibility, freedom;
+5. scope: France-specific, comparative, general;
+6. source ownership: Lovejoy observation, named French source, inherited reform language;
+7. physical/article distance between the student-fit critique and democratic conclusion;
+8. whether Lovejoy himself grammatically connects the two.
 
 Then compare only the relation form to 1906, not vocabulary alone.
 
-A useful table will be:
+Working table:
 
-| Date | Unit | End | Differentiating variable | Fit judgment | Political consequence |
-|---|---|---|---|---|---|
-| 1900 | student / field / university | democratic institutional success | intellectual/social suitability | primary pending | educational allocation |
-| 1906 | stage / population / institution | welfare/liberty/order/culture/civilization | cultural stage + racial/national difference | direct primary | colonial/franchise/institutional judgment |
+| Date | Evidence tier | Unit | End | Differentiating variable | Fit judgment | Political consequence |
+|---|---|---|---|---|---|---|
+| 1900 | Wilson quotation + paraphrase; primary pending | student / field / university | democratic institutional success | intellectual/social suitability, as Wilson summarizes | primary pending | educational allocation |
+| 1906 | direct primary | stage / population / institution | welfare/liberty/order/culture/civilization | cultural stage + racial/national difference | direct primary | colonial/franchise/institutional judgment |
 
 ---
 
-## 9. Current strongest safe formulation
+## 10. Current strongest safe formulation
 
-> **Wilson's summary of Lovejoy's 1900 French-university essay may preserve an early small-scale version of a relation that becomes explicit and politically consequential in 1906: democratic or general ends are retained while suitability is differentiated. The constituent ideas were available in contemporary French educational discourse, and the analytic units differ radically. The live historical question is therefore not simple continuity of doctrine, but whether a conditional-fit operator is reused across scales. Direct recovery of the 1900 article is required before promoting this from hypothesis to actor-level continuity.**
+> **Wilson's annotation of Lovejoy's 1900 French-university essay may preserve an early small-scale relation that becomes explicit and politically consequential in 1906: an affirmative democratic/general end combined with differentiated suitability. But the crucial 1900 phrase `too democratic` is Wilson's unquoted paraphrase, and the student-fit critique may not be argumentatively connected to the quoted democratic conclusion in Lovejoy's original. The live research question is therefore whether Wilson has preserved a real relation-form or created one through bibliographic compression. If the primary confirms it, the comparison should be framed as possible reuse of a conditional-fit operator across radically different units, not lexical continuity, doctrine continuity, or a direct genealogy.**
 
 ## Restart shorthand
 
-> **1900→1906 POLITICAL FIT HYPOTHESIS: Wilson entry20 appears to combine `too democratic` student/field misfit with praise of French university as agency of the `democratic experiment`. If primary confirms the argumentative connection, this may be an early small-unit form of the 1906 direct grammar `general evaluative ends + historically differentiated institutional suitability`. Do NOT collapse student/career fit into population/civilizational fit; constituent selection/capacity/democracy problems are already field-available in Gide/Durkheim/Renard. Research target = migration of a conditional-fit relation across scales, not a direct doctrine genealogy. 1900 primary recovery is a falsification test.**
+> **1900→1906 POLITICAL FIT HYPOTHESIS — DOWNGRADED AFTER WILSON QUOTE CHECK. Wilson entry20 directly quotes `personal responsibility`, `organ of a party`, and the French university as an agency making the `democratic experiment` succeed, BUT `too democratic` is Wilson's unquoted paraphrase. Therefore no lexical continuity and no actor-explicit 1900 fit grammar yet. The primary must test whether student/field misfit and democratic-end passages are actually connected or only compressed together by Wilson. If confirmed, possible relation-form = END RETAINED + FIT CONDITION ADDED, with a major unit shift from student/career allocation (1900) to population/institution/civilizational fit (1906). Field controls already show expansion, capacity constraint, professional congestion, democratic mission and party-state risk were contemporaneously available.**
