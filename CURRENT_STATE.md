@@ -185,10 +185,11 @@ Safe result: Lovejoy explicitly framed his work around philosophy and comparativ
 
 Current writing authority:
 
-- `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md`;
+- `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md`;
+- `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md`;
 - `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`.
 
-Status: production HOLD. Current research strengthens the architecture but does not by itself force a rewrite.
+Status: production HOLD. v3.6 is the current full-repo-calibrated markdown draft (2,334 body words); the existing generated DOCX remains v3.3 until a separate production pass.
 
 ## 8. Default continuation rule
 
@@ -220,4 +221,4 @@ Do not collapse these tracks into one queue.
 
 ## Restart shorthand
 
-> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled through inferential permissions rather than mere vocabulary. Brinton gives stage-first synchronization; Boas gives process-first comparability while the primitive predicate survives; Lovejoy gives relation-first decomposition and transverse reaggregation. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
+> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled through inferential permissions rather than mere vocabulary. Brinton gives stage-first synchronization; Boas gives process-first comparability while the primitive predicate survives; Lovejoy gives relation-first decomposition and transverse reaggregation. JHI Blog writing authority is v3.6, full-repo recalibrated at 2,334 body words. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
