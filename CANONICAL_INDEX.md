@@ -26,8 +26,9 @@ Historical state language in dated notes does not override these living files.
 | MS0873 France 1898–99 actor evidence | `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md` |
 | JHU reproduction / rights status | `archive_index/JHU_MS0873_MS0038_remote_reproduction_status_2026-09-03.md` |
 | Working/governance rules | `WORKING_RULES.md` |
-| Current JHI Blog source | `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md` |
-| Publication-facing evidence ceiling | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
+| Current JHI Blog source | `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md` |
+| Current JHI full-repo calibration | `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md` |
+| Publication-facing base evidence ceiling | `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` |
 | `research_notes/` routing | `research_notes/README.md` |
 | Transcription authority map | `archive_transcriptions/README.md` |
 | Archive-index authority map | `archive_index/README.md` |
@@ -129,6 +130,7 @@ Core routed notes:
 - `research_notes/lovejoy_004_005_reattribution_endpoint_matrix_batch212.md`
 - `research_notes/lovejoy_1897_title_contraction_to_1906_relational_scale_control_batch221.md`
 - `research_notes/brinton_1897_primitive_dechronologization_population_resynchronization_batch222.md`
+- `research_notes/boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
 
 Supporting consolidations:
 
@@ -141,26 +143,30 @@ Current conceptual distinction:
 - relational primitiveness;
 - internal stratification;
 - transverse reaggregation;
-- population synchronization.
+- population synchronization;
+- process-first comparability.
 
-Current compact control:
+Current compact controls:
 
-> **Brinton = synchronization by cultural-stage equivalence.**
+> **Brinton = stage-first synchronization.**
 >
-> **Lovejoy = transverse equivalence after relational decomposition.**
+> **Boas = process-first comparability.**
+>
+> **Lovejoy = relation-first reaggregation.**
 
-Do not treat either phrase as actor vocabulary.
+Do not treat these phrases as actor vocabulary or convert structural control into influence.
 
 ## 7. JHI Blog production
 
 Writing authority:
 
-1. `research_notes/JHI_blog_full_draft_v3_4_clean_submission_2026-08-31.md`
-2. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
-3. `research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md`
-4. `research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`
+1. `research_notes/JHI_blog_full_draft_v3_6_clean_submission_2026-09-03.md`
+2. `research_notes/JHI_blog_v3_6_full_repo_recalibration_2026-09-03.md`
+3. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
+4. `research_notes/JHI_blog_v3_2_citation_hygiene_2026-08-29.md`
+5. `research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`
 
-Status: production HOLD. New research strengthens the architecture but does not automatically enlarge the Blog.
+Status: production HOLD. v3.6 is the current full-repo-calibrated markdown draft at 2,334 body words; the latest generated DOCX remains v3.3 until a separate production pass.
 
 ## 8. Comparative method controls
 
