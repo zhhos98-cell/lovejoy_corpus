@@ -1,7 +1,7 @@
 # Lovejoy 1900 `The Social Rôle of the French University` — clause-level field ownership and residual
 
 Date: 2026-09-03  
-Status: **WILSON-MEDIATED LOVEJOY TEXT / DIRECT CONTEMPORARY FIELD CONTROLS / PRIMARY LOVEJOY ARTICLE STILL PENDING**
+Status: **WILSON-MEDIATED LOVEJOY TEXT / QUOTATION STATUS RECALIBRATED / DIRECT CONTEMPORARY FIELD CONTROLS / PRIMARY LOVEJOY ARTICLE STILL PENDING**
 
 ## Core question
 
@@ -25,19 +25,30 @@ Because the exact month of Lovejoy's 1900 article is not yet closed, no chronolo
 
 ---
 
-## 1. Lovejoy-side witness currently available
+## 1. Lovejoy-side witness currently available — quotation status now controlled
 
-Wilson entry 20 gives the following mediated structure for Lovejoy's article:
+Wilson entry 20 can now be read at page/OCR level in the Wilson bibliography. It gives the following mediated structure for Lovejoy's article:
 
-1. the university may be judged primarily as an instrument of intellectual discipline / promotion of scholarship;
-2. it may also be judged as a `member in a complicated social organism`;
-3. the French university has strong intellectual achievements but weak student social life / social training;
-4. French institutions do not adequately train `personal responsibility`;
-5. the university is `too democratic` insofar as it encourages students toward fields for which they are not intellectually or socially fitted;
-6. state schools can become an `organ of a party`;
-7. despite these defects, the French university is probably the greatest contemporary agency for making the French `democratic experiment` succeed.
+1. Wilson quotes the university as `primarily an instrument for intellectual discipline and the promotion of scholarship`;
+2. Wilson quotes the university as `a member in a complicated social organism`;
+3. Wilson says the French university has strong intellectual achievements but weak student social life / social training, and quotes the French view that the university is not expected `to look after the social life or promote the social training of its students`;
+4. Wilson says French institutions do not adequately train students and quotes `personal responsibility`;
+5. **Wilson himself says** Lovejoy criticizes the university for being `too democratic` and tending to encourage students into fields for which they are neither intellectually nor socially suited. In Wilson's entry, **`too democratic` is not placed in quotation marks** and must presently be treated as Wilson's paraphrase rather than verified Lovejoy wording;
+6. Wilson says state schools tend to be the `organ of a party`, with `organ of a party` explicitly quoted;
+7. Wilson explicitly quotes Lovejoy's conclusion beginning that the French university `is probably the greatest agency now operating to make a success of the democratic experiment ...`; the final words of the quotation are garbled in the available OCR and should not be silently reconstructed.
 
-Until the primary is recovered, these should be treated as **Wilson-mediated clause families**, not Lovejoy quotations except where Wilson clearly marks a short phrase.
+Wilson OCR locus:
+`https://www.scribd.com/document/940006529/Arthur-O-Lovejoy-an-Annotated-Bibliography-Daniel-J-Wilson-f05ba590096c5ea6f7f8956ea9f51956-Anna-s-Archive`
+
+Critical source-status rule:
+
+> **WILSON QUOTATION != DIRECT LOVEJOY PRIMARY, but WILSON PARAPHRASE is an even lower evidentiary tier than a Wilson-transmitted quotation.**
+
+In particular:
+
+`too democratic` = **WILSON PARAPHRASE / PRIMARY WORDING OPEN**.
+
+This matters for the 1900→1906 political branch: no lexical continuity can currently be built from `too democratic`.
 
 ---
 
@@ -144,7 +155,9 @@ Therefore the general problem:
 
 also predates Lovejoy.
 
-This sharply lowers the distinctiveness of Wilson's phrase `too democratic` if it merely means that educational expansion can overfeed particular careers.
+This sharply lowers the distinctiveness of Wilson's **paraphrase** `too democratic` if Wilson is summarizing a Lovejoy argument about educational expansion overfeeding or misallocating particular careers.
+
+But because the phrase is not Wilson-marked as a Lovejoy quotation, the exact Lovejoy operator remains open.
 
 ---
 
@@ -165,7 +178,7 @@ Direct sources:
 - `https://cnum.cnam.fr/pgi/redir.php?ident=8XAE488&onglet=c`
 - `https://cnum.cnam.fr/pgi/redir.php?ident=8XAE480&onglet=c`
 
-This is a strong field control for Wilson's Lovejoy phrase that state schools can become an `organ of a party`.
+This is a strong field control for Wilson's quotation from Lovejoy that state schools can become the `organ of a party`.
 
 Again: no Renard→Lovejoy uptake is demonstrated.
 
@@ -185,7 +198,7 @@ Therefore:
 
 is also available in the contemporaneous field.
 
-Wilson's closing attribution to Lovejoy — French university as a major agency for making the democratic experiment succeed — cannot therefore be treated as unique simply because the phrase is memorable.
+Wilson's quoted Lovejoy conclusion — that the French university `is probably the greatest agency now operating to make a success of the democratic experiment ...` — cannot therefore be treated as unique simply because the phrase is memorable.
 
 ---
 
@@ -205,7 +218,7 @@ Field controls often place constraint on:
 - qualified teaching personnel;
 - overcrowded professions.
 
-Wilson places Lovejoy's constraint on:
+Wilson attributes to Lovejoy a constraint on:
 
 - individual students;
 - intellectual/social suitability;
@@ -218,20 +231,22 @@ Potential operation:
 
 This is only a hypothesis until the primary wording is read.
 
-### B. Democracy as end but not as undifferentiated allocation
+### B. Democracy as end but not as undifferentiated allocation — now explicitly a Wilson-architecture hypothesis
 
-Wilson's summary contains a striking double judgment:
+Wilson's annotation contains a striking sequence:
 
-- the university may be `too democratic` in its allocation of students;
-- the university can nevertheless be a principal agency of the democratic experiment.
+- **Wilson paraphrases** Lovejoy as criticizing the university for being `too democratic` and for student/field misfit;
+- Wilson then **quotes** Lovejoy concluding that the French university is a principal agency of the `democratic experiment`.
 
-The resulting grammar appears to be:
+This may imply:
 
 `DEMOCRACY AS NORMATIVE END`
 !=
 `UNDIFFERENTIATED ACCESS / PLACEMENT AS AUTOMATICALLY GOOD`.
 
-This is more discriminating than either democracy or selection alone.
+But the primary could show that Wilson has compressed two unrelated passages or imposed a vocabulary Lovejoy did not use.
+
+Therefore this is a **relation hypothesis generated by Wilson's annotation architecture**, not yet an actor-level Lovejoy formulation.
 
 ### C. Combining student formation + professional allocation + party-state risk
 
@@ -255,17 +270,17 @@ If so, Lovejoy's historical object would be a **recombined institutional archite
 
 ## 10. Clause-ownership working table
 
-| Wilson-mediated Lovejoy clause | Contemporary field status | Current distinctiveness |
-|---|---|---|
-| intellectual discipline / scholarship | Durkheim 1900 directly foregrounds scientific/intellectual university function | low at proposition level |
-| member in a social organism | broad organism/social-role language is field-available; exact Lovejoy wording still primary-dependent | low/medium |
-| student social life / social training | 1900 higher-ed congress + Durkheim | low |
-| personal responsibility | congress initiative/independence and Durkheim conscious moral formation are close, but exact `personal responsibility` relation awaits Lovejoy | medium |
-| `too democratic` | professional overcrowding + capacity-constrained expansion are field-available | medium; exact unit transfer may matter |
-| students intellectually/socially unsuited to fields | no exact same-unit primary parallel recovered yet | **high-value residual** |
-| state school as `organ of a party` | Renard 1900 directly establishes party/sect/state-teaching problem | low at problem level; exact relation may differ |
-| university as agency of democratic experiment | democratic university-social mission strongly field-available | low at proposition level |
-| democracy as end + differentiated suitability constraint | constituent pieces field-available, exact joint architecture not yet matched | **high-value residual relation** |
+| Wilson-mediated Lovejoy clause | Wilson witness status | Contemporary field status | Current distinctiveness |
+|---|---|---|---|
+| intellectual discipline / scholarship | Wilson-marked quotation | Durkheim 1900 directly foregrounds scientific/intellectual university function | low at proposition level |
+| member in a social organism | Wilson-marked quotation | broad organism/social-role language is field-available | low/medium; exact relation primary-dependent |
+| social life / social training | Wilson-marked quotation for the French expectation | 1900 higher-ed congress + Durkheim | low |
+| `personal responsibility` | Wilson-marked quotation | congress initiative/independence and Durkheim conscious moral formation are close | medium |
+| `too democratic` | **Wilson paraphrase, not Wilson-marked quotation** | professional overcrowding + capacity-constrained expansion are field-available | primary wording required before any lexical claim |
+| students intellectually/socially unsuited to fields | Wilson paraphrase | no exact same-unit primary parallel recovered yet | **high-value residual relation, wording open** |
+| `organ of a party` | Wilson-marked quotation | Renard 1900 directly establishes party/sect/state-teaching problem | low at problem level; exact relation may differ |
+| agency of `democratic experiment` | Wilson-marked quotation, ending OCR-garbled | democratic university-social mission strongly field-available | low at proposition level |
+| democracy as end + differentiated suitability constraint | inferred from Wilson's sequence, not a single quoted Lovejoy proposition | constituent pieces field-available, exact joint architecture not yet matched | **high-value but falsifiable residual relation** |
 
 ---
 
@@ -291,12 +306,20 @@ Then compare only at proposition/relation level against:
 7. Lovejoy's 1896 `Some Harvard Notes` once recovered;
 8. Lovejoy's direct 1902 and 1904 value/institutional writings.
 
+Special quotation checks:
+
+- does Lovejoy actually use any equivalent of Wilson's `too democratic`?
+- what exact grammatical relation joins student/field suitability to democracy?
+- are the suitability critique and democratic conclusion in the same argumentative chain?
+- what words surround `organ of a party`?
+- what is the complete ending of the `democratic experiment` quotation?
+
 ---
 
 ## 12. Current strongest safe judgment
 
-> **The more contemporary French university-reform material is added, the less plausible it becomes to treat any single element of Wilson's summary — social role, student association, moral formation, democratic mission, professional overcrowding, capacity constraints, or partisan state teaching — as Lovejoy's distinctive contribution. The high-value residual has moved to recombination: whether Lovejoy transferred capacity/overcrowding concerns onto individual educational fit and then joined differentiated suitability to a positive democratic end. That proposition remains Wilson-mediated until the 1900 article is directly recovered.**
+> **The more contemporary French university-reform material is added, the less plausible it becomes to treat any single element of Wilson's summary — social role, student association, moral formation, democratic mission, professional overcrowding, capacity constraints, or partisan state teaching — as Lovejoy's distinctive contribution. The high-value residual has moved to recombination: whether Lovejoy transferred capacity/overcrowding concerns onto individual educational fit and then joined differentiated suitability to a positive democratic end. Even that residual is now one evidentiary step weaker than it first appeared, because `too democratic` is Wilson's unquoted paraphrase rather than a verified Lovejoy phrase. The 1900 primary is therefore a falsification test of Wilson's relational compression, not merely a quotation upgrade.**
 
 ## Restart shorthand
 
-> **1900 FRENCH UNIVERSITY FIELD CONTROL: most constituent clauses in Wilson entry20 are now directly field-controlled. Leclerc 1892 closes `social role` as pre-existing frame; 1900 higher-ed congress closes student isolation/social formation/liberal-democracy framing; Durkheim closes intellectual-scientific success vs social/moral deficit and capacity-constrained expansion; Gide 1894 closes university-growth + liberal-profession overcrowding alarm; Renard Jul–Aug 1900 closes state teaching / party-sect partiality. Residual is relation-level: possible transfer from capacity/overcrowding to individual student-fit allocation, and especially DEMOCRACY AS END != UNDIFFERENTIATED ALLOCATION. Lovejoy primary pp.134–146 still required; no influence edges to Leclerc/Gide/Renard/Durkheim claimed.**
+> **1900 FRENCH UNIVERSITY FIELD CONTROL: most constituent clauses in Wilson entry20 are directly field-controlled. Leclerc 1892 closes `social role` as pre-existing frame; 1900 higher-ed congress closes student isolation/social formation/liberal-democracy framing; Durkheim closes intellectual-scientific success vs social/moral deficit and capacity-constrained expansion; Gide 1894 closes university-growth + liberal-profession overcrowding alarm; Renard Jul–Aug 1900 closes state teaching / party-sect partiality. QUOTATION CALIBRATION: `too democratic` is Wilson paraphrase, not Wilson-marked Lovejoy quotation; `personal responsibility`, `organ of a party`, and the democratic-experiment conclusion are Wilson-marked quotations. Residual is relation-level and falsifiable: possible transfer from capacity/overcrowding to individual student-fit allocation, and possible DEMOCRACY AS END != UNDIFFERENTIATED ALLOCATION. Lovejoy primary pp.134–146 is required to test whether Wilson has compressed separate arguments.**
