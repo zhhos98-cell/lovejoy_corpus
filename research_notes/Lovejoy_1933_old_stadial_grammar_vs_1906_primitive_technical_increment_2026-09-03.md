@@ -1,11 +1,11 @@
 # Lovejoy — older stadial grammar vs the technical increment of `primitive`
 
 Date: 2026-09-03  
-Status: **1933 RETROSPECTIVE EIGHTEENTH-CENTURY CONTROL / 1906 DIRECT PRIMARY / PRIMITIVE-OPERATION DELTA CLOSED ANALYTICALLY**
+Status: **OLDER STADIAL GRAMMAR INDEPENDENTLY CONTROLLED BY KNIGHT 1900 + BRITANNICA 1911 / 1933 LOVEJOY RETROSPECTIVE CONTROL / 1906 DIRECT PRIMARY / PRIMITIVE-OPERATION DELTA CLOSED ANALYTICALLY**
 
 ## Core question
 
-If the developmental/stadial grammar of human history already existed in Rousseau/Monboddo, as Lovejoy himself argued in 1933, what additional work does `primitive` perform in Lovejoy's 1906 `The Fundamental Concept of the Primitive Philosophy`?
+If the developmental/stadial grammar of human history already existed in Rousseau/Monboddo, what additional work does `primitive` perform in Lovejoy's 1906 `The Fundamental Concept of the Primitive Philosophy`?
 
 The answer is not simply `it marks an earlier stage`.
 
@@ -25,11 +25,82 @@ This is more technically specific than saying `primitive = lower stage`.
 
 ---
 
-## I. Older stadial grammar — what is already available without the technical category `primitive`
+## I. Older stadial grammar — now independently controlled outside Lovejoy's 1933 retrospective reconstruction
 
-Lovejoy's 1933 reconstruction of Rousseau/Monboddo supplies a retrospective eighteenth-century control.
+The older developmental grammar should no longer be supported only by Lovejoy's 1933 reading of Rousseau/Monboddo.
 
-The older grammar already permits:
+### A. William Angus Knight, 1900 — direct Monboddo scholarly control
+
+William Angus Knight, *Lord Monboddo and Some of His Contemporaries* (1900), in the chapter on the origin of language, already organizes Monboddo's position in explicitly developmental terms.
+
+Knight states that Monboddo:
+
+- treats ideas as acquired habit rather than instinct;
+- treats language as acquired art / human industry;
+- uses alleged `solitary savages` and speechless peoples as evidence;
+- develops `the Political State as necessary for the invention of Language`;
+- says that the political state is no more natural to man than language;
+- places the origin of society before the origin of language;
+- divides animals into solitary/gregarious and political/non-political forms and places man between them;
+- uses peoples without the arts of civilization to reconstruct the rise of civil society through experience rather than instinct.
+
+This establishes that the following grammar was already visible in Monboddo scholarship before Lovejoy's 1933 article:
+
+`NON-SOCIAL / SPEECHLESS CONDITION`
+→ `SOCIETY / POLITICAL STATE`
+→ `LANGUAGE / ART`
+→ `CIVIL DEVELOPMENT`.
+
+Public control:
+
+William Angus Knight, *Lord Monboddo and Some of His Contemporaries* (1900), chapter II, especially printed p.31; public-domain scan indexed via Wikimedia/Internet Archive.
+
+### B. 1911 Encyclopaedia Britannica — public synthesis control
+
+The 1911 *Encyclopaedia Britannica* entry on Monboddo likewise describes him as:
+
+- conceiving man as gradually elevating himself from an animal condition;
+- tracing gradual elevation to the social state;
+- treating language as a consequence of social life rather than an original natural endowment;
+- treating the study of savage peoples as evidence for problems of civilization.
+
+This is especially useful because it is neither Lovejoy nor a later response to Lovejoy.
+
+Therefore:
+
+> **the broad developmental/social-evolutionary Monboddo was already a field-available historical object before Lovejoy's 1933 reclassification.**
+
+### C. Consequence for source ownership
+
+Do **not** attribute to Lovejoy 1933 the discovery that Monboddo had:
+
+- a speechless/animal starting point;
+- acquired language;
+- society before language;
+- developmental social stages;
+- contemporary `savage` populations as evidence for earlier human conditions.
+
+Lovejoy's narrower 1933 delta lies elsewhere:
+
+1. he organizes a six-thesis Rousseau/Monboddo comparison;
+2. he uses those theses to challenge the umbrella label `primitivist` and recast Monboddo as partly anti-primitivist;
+3. he repartitions `evolutionist` across biological, anthropological and social-developmental propositions;
+4. he treats strong content similarity separately from direct genealogy/influence;
+5. he reuses and reweights specific Monboddo evidence within those new questions.
+
+Thus:
+
+`FIELD-AVAILABLE DEVELOPMENTAL MONBODDO`
+!=
+`LOVEJOY 1933 RECOMBINATION / RECLASSIFICATION`.
+
+This exactly parallels the source-ownership controls used for notebooks 004/005.
+
+---
+
+## II. Lovejoy 1933 — retrospective eighteenth-century control, not sole evidence for the older grammar
+
+Lovejoy's 1933 `Monboddo and Rousseau` remains a valuable direct-primary control because he explicitly reconstructs six linked theses:
 
 1. **developmental human nature** — distinctively human capacities are acquired historically rather than fully given at the beginning;
 2. **successive stages** — humanity moves through distinguishable phases from near animality toward developed rational/social forms;
@@ -38,21 +109,42 @@ The older grammar already permits:
 5. **attack on uniform human nature** — one civilized present cannot be universalized as `man as such`;
 6. **universal evolutionary history** — a history of mankind can be reconstructed across stages.
 
-Thus the following operation is already old:
+Lovejoy 1933 is therefore useful for showing how **he** later formulates and recombines the older grammar.
+
+But after Knight 1900 and Britannica 1911:
+
+`LOVEJOY 1933 RETROSPECTIVE CLAIM`
+
+is no longer the only control for
+
+`OLDER STADIAL GRAMMAR EXISTED`.
+
+This removes a potential circularity from the 1906 comparison.
+
+---
+
+## III. What is already available without the technical category `primitive`
+
+Across Monboddo's own materials and pre-1933 scholarship, the following operation is already old:
 
 `CONTEMPORARY HUMAN DIFFERENCE`
 → `READ AS DEVELOPMENTAL DIFFERENCE`
 → `MAP TO EARLIER / LATER STAGES`.
 
+The older grammar already permits:
+
+- developmental rather than fixed human capacities;
+- ordered social/cultural stages;
+- living populations used as evidence for earlier conditions;
+- language/sociality as acquired developments;
+- attack on a uniformly civilized `human nature`;
+- broad human history reconstructed as movement across stages.
+
 Therefore `primitive` cannot be credited with inventing developmental stratification itself.
-
-Authority:
-
-`research_notes/Lovejoy_1906_1933_generic_Man_evolutionary_relativism_stage_grammar_control_2026-09-03.md`.
 
 ---
 
-## II. Notebook-level transformation — time moves inside the object
+## IV. Notebook-level transformation — time moves inside the object
 
 The 005/notebook controls show a different operation from whole-population stadial placement.
 
@@ -79,7 +171,7 @@ This is **internal stratification**.
 
 ---
 
-## III. 1906 first increment — `primitive` becomes a detachable causal predicate
+## V. 1906 first increment — `primitive` becomes a detachable causal predicate
 
 In `The Fundamental Concept of the Primitive Philosophy`, Lovejoy begins by decomposing familiar ethnographic/religious categories until he isolates a recurring causal architecture:
 
@@ -104,7 +196,7 @@ The technical increment is:
 
 ---
 
-## IV. 1906 second increment — horizontal equivalence across heterogeneous histories
+## VI. 1906 second increment — horizontal equivalence across heterogeneous histories
 
 Once the primitive relation is detachable, Lovejoy can compare it across:
 
@@ -140,7 +232,7 @@ The cross-cultural equivalence is built at the level of one extracted relation, 
 
 ---
 
-## V. 1906 third increment — analyst's transverse category is attributed back to actors
+## VII. 1906 third increment — analyst's transverse category is attributed back to actors
 
 Lovejoy does not stop with:
 
@@ -166,7 +258,7 @@ The operation is historically consequential because independently historical pop
 
 ---
 
-## VI. What `primitive` adds beyond old stadial history
+## VIII. What `primitive` adds beyond old stadial history
 
 | Operation | Older stadial grammar | 1906 `primitive` increment |
 |---|---|---|
@@ -185,7 +277,7 @@ The most important technical difference is geometric:
 
 ---
 
-## VII. Why this is not a retreat from totalization
+## IX. Why this is not a retreat from totalization
 
 Internal stratification can look pluralizing because it breaks whole traditions into heterogeneous layers.
 
@@ -211,13 +303,13 @@ It can instead produce a more flexible classificatory instrument.
 
 ---
 
-## VIII. Why this helps the post-Enlightenment chronology thesis
+## X. Why this helps the post-Enlightenment chronology thesis
 
 The refined thesis should distinguish three historical problems.
 
 ### A. Developmental time
 
-Already available in older stadial/evolutionary histories.
+Already available in older stadial/evolutionary histories, independently controlled before Lovejoy's 1933 reconstruction by Knight 1900 and Britannica 1911.
 
 ### B. Internal stratigraphy
 
@@ -245,7 +337,7 @@ It is a relational grid in which one object may contain multiple historical stat
 
 ---
 
-## IX. Relation to the user's larger conceptual distinction
+## XI. Relation to the larger conceptual distinction
 
 The result supports the distinction:
 
@@ -267,12 +359,14 @@ This is exactly the sort of `in-advance` layering that a one-dimensional histori
 
 ---
 
-## X. Political / evidentiary firewall
+## XII. Political / evidentiary firewall
 
 Do not infer:
 
 - that every user of `primitive` performs the same transverse operation;
 - that Lovejoy invented internal stratification;
+- that Lovejoy 1933 discovered developmental Monboddo;
+- that Knight 1900 / Britannica 1911 already perform Lovejoy's exact 1933 six-thesis reclassification;
 - that 1933 Rousseau/Monboddo caused the 1906 article (chronology forbids it);
 - that a broad mechanism found in several cases is genuinely actor-owned simply because Lovejoy calls it `primitive philosophy`;
 - that micro-level source discipline neutralizes macro-level population generalization;
@@ -284,12 +378,20 @@ The 1906 paper itself is especially useful because it combines:
 with
 `BROAD COLLECTIVE REATTRIBUTION`.
 
+Source-ownership rule:
+
+`OLDER DEVELOPMENTAL GRAMMAR = FIELD / MONBODDO-SCHOLARSHIP AVAILABLE`
+
+while
+
+`LOVEJOY 1933 DELTA = SELECTION + SIX-THESIS RECOMBINATION + ANTI-PRIMITIVIST RECLASSIFICATION + GENEALOGY CONTROL`.
+
 ---
 
-## XI. Strongest current formulation
+## XIII. Strongest current formulation
 
-> **Lovejoy's 1933 account of Rousseau and Monboddo shows that developmental/stadial time and the use of living peoples as evidence for earlier human conditions long predate the twentieth-century human sciences. The technical novelty to investigate in `primitive` is therefore not simple stage-making. In Lovejoy's 1906 comparative religion, `primitive` becomes a detachable predicate of relations and causal mechanisms inside historically heterogeneous objects; similarly classified relations can then be compared across otherwise independent traditions and reaggregated as a collective `primitive philosophy`. This produces a stratigraphic comparative grid: vertical differentiation within objects plus horizontal equivalence across objects.**
+> **The developmental Monboddo was not Lovejoy's 1933 invention. Knight's 1900 study already presents speech as acquired, political society as preceding language, and speechless or uncivilized peoples as evidence for reconstructing the rise of social life; the 1911 Encyclopaedia Britannica likewise describes Monboddo's gradual ascent from animal condition to social state. Lovejoy's 1933 contribution is narrower: he recombines this available developmental material into a six-thesis comparison with Rousseau, uses it to challenge the macro label `primitivist`, and separately audits the Rousseau–Monboddo genealogy. This makes the 1906 question sharper. The technical increment to investigate in `primitive` is not simple stage-making but the conversion of developmental status into a detachable predicate of relations/mechanisms inside heterogeneous objects, followed by horizontal reaggregation across otherwise independent traditions and collective reattribution as `primitive philosophy`.**
 
 ## Restart shorthand
 
-> **OLD STADIAL GRAMMAR vs PRIMITIVE TECHNICAL DELTA: Rousseau/Monboddo as reconstructed by Lovejoy 1933 already supply developmental human nature, successive stages, living peoples as evidence for earlier conditions, and attack on uniform Man. 005/1906 add a different operation: `primitive` can attach to a relation/mechanism *inside* a heterogeneous tradition; that stratum becomes portable; independent A/B/C histories can instantiate the same M; M is transversely reaggregated and then reattributed as `Primitive Energetics / primitive philosophy / savage thought / most savages`. Technical delta = STAGE PREDICATE → RELATION PREDICATE → TRANSVERSE REAGGREGATION → COLLECTIVE REATTRIBUTION. Geometry = vertical internal strata + horizontal equivalence, not whole-people unilinear table. Decomposition can enable higher-order totalization.**
+> **OLD STADIAL GRAMMAR vs PRIMITIVE TECHNICAL DELTA — SOURCE OWNERSHIP RECUT: Knight 1900 independently already organizes Monboddo as acquired language + political state before language + speechless savages + society arising before speech; Britannica 1911 describes gradual elevation from animal condition to social state and savage evidence for civilization. Thus developmental Monboddo is FIELD-AVAILABLE, not Lovejoy-1933-owned. Lovejoy 1933 delta = six-thesis Rousseau/Monboddo recombination + anti-primitivist reclassification + proposition-scope repartition + genealogy suspension. 005/1906 technical delta remains: `primitive` attaches to a relation/mechanism *inside* heterogeneous traditions; stratum becomes portable; independent A/B/C histories instantiate M; M is transversely reaggregated and reattributed as `Primitive Energetics / primitive philosophy / savage thought`. Geometry = vertical internal strata + horizontal equivalence.**
