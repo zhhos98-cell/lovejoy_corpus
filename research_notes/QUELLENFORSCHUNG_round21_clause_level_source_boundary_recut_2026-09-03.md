@@ -109,9 +109,34 @@ Safe attribution:
 
 ---
 
-## 5. 004 p.31 / ms p.93 — exact closure to *Vinaya Texts*, vol. I, p.75 note
+## 5. 004 p.30 / ms p.91 — Saṅkhāruppatti packet closes to Oldenberg's English *Buddha*
 
-This is the most important correction of the round.
+The previously unresolved immediate carrier of the passage beginning with rebirth in a powerful princely family is now source-secure.
+
+Oldenberg's English *Buddha* reproduces the Saṅkhāruppatti material in the discussion of the first and second links of dependent origination. The distinctive English sequence matches the notebook closely:
+
+- obtain rebirth in a powerful/princely family;
+- `thinks this thought`;
+- `dwells on this thought`;
+- `cherishes this thought`;
+- the `saṅkhāras` / internal conditions thus cherished lead to rebirth in the desired existence.
+
+This is too distinctive to remain merely a source-family identification.
+
+Calibration:
+
+- Saṅkhāruppatti quoted/digested block: Oldenberg S3 / T3 / A0;
+- Lovejoy's placement of this block beside `Saṅkhāras = karma`, Hardy p.386, and the wider causal-position problem remains the local operation to test.
+
+Correction:
+
+> **The p.30 Saṅkhāruppatti wording is not an unresolved translation carrier and should not be treated as Lovejoy-authored explanatory prose.**
+
+---
+
+## 6. 004 p.31 / ms p.93 — exact closure to *Vinaya Texts*, vol. I, p.75 note
+
+This is one of the most important corrections of the round.
 
 The notebook passage on the parallelism between the Four Noble Truths and the twelve nidānas, including the claim that one textual instance directly replaces the Four-Truths formulation by the nidānas in direct and reverse order, is traceable almost verbatim to the note in T. W. Rhys Davids and Hermann Oldenberg, *Vinaya Texts*, Part I (SBE XIII), p.75.
 
@@ -137,7 +162,7 @@ This locus demonstrates why clause-level Quellenforschung must precede interpret
 
 ---
 
-## 6. 004 p.32 / ms p.95 — Rhys Davids source block ends before `What appears to me ...`
+## 7. 004 p.32 / ms p.95 — Rhys Davids source block ends before `What appears to me ...`
 
 The first part of p.32 is a close uptake of T. W. Rhys Davids, *The Questions of King Milinda*, vol. I (SBE XXXV, 1890), p.80 and the accompanying footnote.
 
@@ -171,9 +196,11 @@ Therefore:
 
 Warren's 1896 discussion remains important context because he already treats the full formula as composite/patchwork and suggests the first two propositions may be a later addition. That is an upstream problem field, not an exact source for Lovejoy's final segmentation wording.
 
+The trailing `v. p. 167` reference attached to the still-more-abridged Milindapañha sequence remains unresolved. Warren printed p.167, Oldenberg printed p.167, and notebook 004 manuscript p.167 do not fit the described locus. Preserve it as a true bibliographic HOLD rather than force a carrier.
+
 ---
 
-## 7. 004 pp.34–35 / ms pp.99–101 — Childers `s.v. khandho` owns the continuity passage
+## 8. 004 pp.34–35 / ms pp.99–101 — Childers `s.v. khandho` owns the continuity passage
 
 This is the second major authorial-boundary correction.
 
@@ -201,7 +228,92 @@ Calibration:
 
 ---
 
-## 8. Consequence for the existing page-by-page editorial summaries
+## 9. 004 p.36 / ms p.103 — canonical reference resolves to SN 38.12; English mediation remains open
+
+The page reads in substance:
+
+- four upādānas: kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, attavādupādāna;
+- there is a way/course for getting rid of them;
+- the way is the noble eightfold path.
+
+The formerly uncertain top reference `Saṁy. Nik. 38/12 [?]` can now be source-resolved to **Saṁyutta-Nikāya 38.12, Upādānapañhā Sutta**, Jambukhādaka-Saṁyutta. Its Pāli sequence is exact in structure: the four upādānas, the question `atthi ... maggo atthi paṭipadā ... pahānāya?`, and the answer `ariyo aṭṭhaṅgiko maggo`.
+
+This also explains Lovejoy's unusually literal English pair `way` / `course`: it maps the Pāli pair `magga` / `paṭipadā`.
+
+Calibration:
+
+- canonical locus: S3 / T3;
+- notebook's English wording: W3;
+- immediate English carrier: unresolved.
+
+No secure pre-1898 English carrier has yet surfaced for this exact SN 38.12 passage. Do not therefore call it either a copied published translation or definitively Lovejoy's own translation. The safe description is **Pāli-source uptake with English mediation unresolved**.
+
+---
+
+## 10. 004 pp.39–47 — a source-owned classificatory sandwich around the p.42 relation sentence
+
+Clause-level collation materially sharpens the previously high-value pp.41–47 block.
+
+### A. pp.39 and 43–45 — Rhys Davids / Childers classification packet
+
+The surrounding khandha classifications are not primarily Lovejoy-generated decompositions.
+
+Rhys Davids's 1877 essay `On Nirvāṇa and on the Buddhist Doctrines of the Groups` and his later *Buddhism* supply the distinctive sequence found in the notebook:
+
+- rūpa and its physical subdivisions;
+- vedanā divided into six sensory classes and then eighteen because each can be pleasant, unpleasant, or indifferent;
+- saññā divided into six classes corresponding to sensation;
+- saṅkhāra in fifty-two divisions `not ... mutually exclusive`;
+- viññāṇa subdivided at great length in later Buddhist psychology.
+
+These source packets are closely tied to Childers's dictionary entries, which Rhys Davids himself cites.
+
+Calibration for the classifications themselves: S3 / T3 / A0.
+
+### B. p.42 / ms p.123 — source facts known; relation sentence still stands as authorial synthesis
+
+The image-secure sentence remains:
+
+`viññāna is temporally (?) an antecedent of nāma-rūpam, & logically a subdivision of it.`
+
+The two constituent facts are upstream and source-supported:
+
+- in dependent origination, viññāṇa precedes nāmarūpa;
+- in classificatory decomposition, consciousness belongs inside the mental side of nāmarūpa / the khandha complex.
+
+A prior focused Childers/Warren/Buddhaghosa source hunt found no exact source wording that supplies Lovejoy's compressed `temporally ... logically` distinction, and the present clause-level pass has not produced one.
+
+Therefore the correct attribution is narrower than an originality claim but stronger than a page-level summary:
+
+> **Lovejoy appears to recombine two source-supplied relations into one explicit relation-type distinction.**
+
+Calibration: W3 / upstream facts S3-T3 / local relation sentence provisional A2.
+
+Do not claim priority for distinguishing temporal and logical relations in Buddhist scholarship generally.
+
+### C. p.46 / ms p.131 — Milindapañha palace-window reductio is source-owned
+
+The soul/living-principle passage is Rhys Davids's *Questions of King Milinda* II.3.6. The distinctive palace-window comparison and Nāgasena's reductio — if one inner soul uses sense organs as interchangeable windows, why can it not see through the ear, etc. — belong to the translated Milindapañha source.
+
+Calibration: S3 / T3 / A0 for the argument and imagery; Lovejoy's selection/placement A1 unless a separate connective gloss is secured.
+
+### D. p.47 / ms p.133 — Oldenberg lexical/causal apparatus
+
+The page explicitly routes through Oldenberg on upādāna / upadhi. Its main packet concerns overlapping senses of support/substratum/clinging, the fire/fuel semantics, and analogous causal series involving taṇhā -> upadhi and taṇhā -> upādāna.
+
+Treat the quoted/attributed lexical and causal propositions as Oldenberg/source-owned. The authorial question begins only where Lovejoy uses this apparatus to adjudicate the later upādāna/upadhi/upādisesa problem.
+
+### Combined consequence
+
+The material around p.42 has the structure:
+
+`SOURCE CLASSIFICATIONS` -> `LOVEJOY RELATION-TYPE SENTENCE` -> `SOURCE CLASSIFICATIONS / TRANSLATED ARGUMENTS`.
+
+This makes p.42 more, not less, valuable: the local operation becomes visible precisely because source ownership on both sides can be stripped away.
+
+---
+
+## 11. Consequence for the existing page-by-page editorial summaries
 
 Several older summaries remain useful as descriptions of the **problem visible on the page**, but they over-assign source-owned propositions to Lovejoy.
 
@@ -211,25 +323,27 @@ The following distinctions now govern reuse:
 2. `LOVEJOY COPIES FIRST-PERSON SOURCE LANGUAGE` != `LOVEJOY PERSONALLY ENDORSES THAT FIRST-PERSON JUDGMENT`;
 3. `MATERIAL SECTION BREAK` != `SOURCE BREAK`;
 4. `SOURCE-OWNED MODEL PLACED IN NOTEBOOK` != `LOVEJOY'S OWN SOLUTION`;
-5. explicit seams such as `To R.D.'s remark it shld be added`, `But not so`, `What appears to me`, and programme/questions such as `May Up. be called ...?` remain disproportionately valuable because they locate local authorial work after source ownership has been stripped away.
+5. `SOURCE-SUPPLIED CONSTITUENT FACTS` != `SOURCE-SUPPLIED RELATION AMONG THOSE FACTS`;
+6. explicit seams such as `To R.D.'s remark it shld be added`, `But not so`, `What appears to me`, the p.42 `temporally ... logically` relation sentence, and programme/questions such as `May Up. be called ...?` remain disproportionately valuable because they locate local authorial work after source ownership has been stripped away.
 
 The strongest notebook argument is therefore becoming **narrower but better**: not that Lovejoy independently generates every decomposition, relation type, or explanatory model, but that at identifiable seams he tests, reweights, combines, or reallocates received source claims.
 
 ---
 
-## 9. Immediate remaining 004 Quellenforschung queue
+## 12. Immediate remaining 004 Quellenforschung queue
 
 High-value clause-level source checks still worth completing before declaring the source phase closed:
 
-1. p.30 / ms p.91 — exact immediate carrier of the `powerful princely family / thinks on it / dwells on it / cherishes it` Saṅkhāruppatti packet; source family is secure but carrier remains HOLD;
-2. p.32 — verify the notebook's secondary Milindapañha page reference and whether it is to Rhys Davids, Warren, or another local carrier; this does not affect the already secure p.80 source block;
-3. p.36 / ms p.103 — locate the exact source for the four-upādāna/removal-path statement if it is to be quoted or used argumentatively;
-4. pp.37–47 — clause-level ownership check around causal-series, khandha/nidāna overlay, and named-source transitions before relying on connective prose as Lovejoy-owned;
-5. pp.55–71 — only source checks that change authorial attribution, not indiscriminate bibliographic completion.
+1. p.32 — resolve the trailing `v. p.167` reference only if an exact carrier can be identified; otherwise preserve HOLD;
+2. pp.48–54 — clause-level ownership check around the Senart transition, `discoverable logical system`, double/triple enumeration, historical origin, and the avijjā/saṅkhāra genealogy pages;
+3. pp.55–71 — only source checks that can change authorial attribution, especially where notebook prose closely anticipates the 1898 article;
+4. propagate substantive source-boundary corrections into `CURRENT_STATE.md`, `QUELLENFORSCHUNG_CURRENT_GATE.md`, and any page-level editorial summaries used for publication claims after this bounded pass stabilizes.
+
+p.30 and p.36 are no longer open carrier-identification tasks at the canonical/source level: p.30 closes to Oldenberg's English *Buddha*; p.36 closes canonically to SN 38.12, with only English mediation unresolved.
 
 ---
 
-## 10. Relation to notebook 005
+## 13. Relation to notebook 005
 
 The same rule should now govern 005.
 
@@ -245,7 +359,7 @@ This source-boundary work should precede interpretive expansion of 005.
 
 ---
 
-## 11. Current round result
+## 14. Current round result
 
 **QUELLENFORSCHUNG REMAINS OPEN, BUT THE 004 AUTHORIAL BOUNDARY IS NOW MATERIALLY NARROWER AND MORE SECURE.**
 
@@ -253,4 +367,8 @@ The central correction is methodological and substantive:
 
 > **Notebook handwriting is a carrier, not proof of authorship of the proposition carried. Source ownership must be exhausted before Lovejoy's local operation is assigned.**
 
-The payoff is a stronger microhistory. Rhys Davids, Warren, Oldenberg, Childers, Hardy, Senart, and canonical Pāli materials supply much of the intellectual apparatus; Lovejoy becomes visible at the seams where he interrupts, questions, recombines, or redistributes the evidentiary burden.
+A second rule now follows from the p.42 control:
+
+> **Source ownership of the constituent propositions does not automatically establish source ownership of the relation Lovejoy draws between them.**
+
+The payoff is a stronger microhistory. Rhys Davids, Warren, Oldenberg, Childers, Hardy, Senart, canonical Pāli materials, and translated Milindapañha supply much of the intellectual apparatus; Lovejoy becomes visible at the seams where he interrupts, questions, recombines, or redistributes the evidentiary burden.
