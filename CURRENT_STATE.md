@@ -52,12 +52,13 @@ Current routed chain:
 - `research_notes/lovejoy_004_005_reattribution_endpoint_matrix_batch212.md`
 - `research_notes/lovejoy_1897_title_contraction_to_1906_relational_scale_control_batch221.md`
 - `research_notes/brinton_1897_primitive_dechronologization_population_resynchronization_batch222.md`
+- `research_notes/boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
 
 Current synthesis:
 
-> `primitive` is being analyzed as an operational stratifying category that converts literal chronological date into relation-specific or developmental position.
+> `primitive` is being analyzed as an operational stratifying category whose historical force depends not only on what it classifies, but on the inferential permissions attached to that classification.
 
-The strongest present model is:
+The strongest present Lovejoy model is:
 
 `relational decomposition`
 
@@ -67,9 +68,11 @@ The strongest present model is:
 
 → `portable relation-specific strata`
 
-→ `transverse reaggregation` (Lovejoy 1906)
+→ `transverse reaggregation` (Lovejoy 1906).
 
-with Brinton as a control for:
+The strongest present period controls are:
+
+Brinton:
 
 `dechronologization`
 
@@ -77,13 +80,27 @@ with Brinton as a control for:
 
 → `population synchronization`.
 
+Boas:
+
+`formal resemblance`
+
+→ `process/source adjudication`
+
+→ `comparability gate`
+
+→ `comparison of reconstructed histories/processes`
+
+→ `general laws`.
+
 Compact comparison:
 
-> **Brinton = synchronization by cultural-stage equivalence.**
+> **Brinton = stage-first synchronization.**
 >
-> **Lovejoy = transverse equivalence after relational decomposition.**
+> **Boas = process-first comparability.**
+>
+> **Lovejoy = relation-first reaggregation.**
 
-This is a difference of inferential route and reaggregation endpoint, not a simple contrast between evolutionism and pluralism.
+This is a difference of inferential route, proof burden, and reaggregation endpoint, not a simple contrast between evolutionism and pluralism. Boas is especially important because his rejection of uniform developmental inference coexists with continued use of `primitive man`, `primitive tribes`, and `primitive art`.
 
 ## 2. Governing firewalls
 
@@ -97,6 +114,8 @@ This is a difference of inferential route and reaggregation endpoint, not a simp
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
 - `RELATIONAL DECOMPOSITION != NECESSARY ANTI-TOTALIZATION`.
 - `CALENDAR CONTEMPORANEITY != EQUAL DEVELOPMENTAL POSITION`.
+- `PRIMITIVE PREDICATE != UNIFORM DEVELOPMENTAL INFERENCE`.
+- `FORMAL RESEMBLANCE != PROVED COMPARABILITY`.
 
 ## 3. Notebook 004 — argument-control ceiling
 
@@ -176,7 +195,7 @@ Status: production HOLD. Current research strengthens the architecture but does 
 If the user says `continue` without specifying a branch:
 
 - after manuscript/source discussion → continue Track A;
-- after `primitive`, chronology, politics, Brinton, 1906, scale-control, or reaggregation discussion → continue Track B;
+- after `primitive`, chronology, politics, Brinton, Boas, 1906, scale-control, comparability, or reaggregation discussion → continue Track B;
 - after Blog discussion → continue JHI production branch;
 - after Paris/actor discussion → continue MS0873/formation branch.
 
@@ -192,11 +211,13 @@ Do not collapse these tracks into one queue.
 
 ### Track B
 
-1. Extend the Brinton/Lovejoy control to additional period actors only where the predicate/relation endpoint can be directly audited.
-2. Test whether `primitive` attaches to mechanism, layer, mind, people, race, civilization, or historical position.
-3. Separate cross-cultural functional equivalence from developmental synchronization and from genealogy/borrowing.
-4. Preserve the distinction between analytical project vocabulary and actors' own terms.
+1. Apply the Batch 223 audit protocol to additional period actors only where predicate address and inferential license can be directly audited.
+2. Test separately whether `primitive` attaches to mechanism, layer, mind, people, race, civilization, art, religion, or historical position.
+3. Record the comparability gate: what must be proved before cases may be pooled.
+4. Separate cross-cultural functional equivalence from developmental synchronization, process identity, and genealogy/borrowing.
+5. Preserve the distinction between analytical project vocabulary and actors' own terms.
+6. Keep Boas as a period methodological control unless direct Lovejoy uptake evidence appears; do not convert structural resemblance into influence.
 
 ## Restart shorthand
 
-> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled as conversion of date into position, with Lovejoy showing relational decomposition → transverse reaggregation and Brinton showing cultural-stage dechronologization → population synchronization. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
+> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled through inferential permissions rather than mere vocabulary. Brinton gives stage-first synchronization; Boas gives process-first comparability while the primitive predicate survives; Lovejoy gives relation-first decomposition and transverse reaggregation. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
