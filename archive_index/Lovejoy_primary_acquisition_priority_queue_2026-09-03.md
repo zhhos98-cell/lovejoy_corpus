@@ -65,21 +65,32 @@ Physical run: *The University of California Magazine*, 1895–1904, 10 vols.
 
 Single bundled request:
 
-1. vol.2 (1896): TOC/index + complete Arthur O. Lovejoy, `Some Harvard Notes`;
-2. vol.6 (1900): pp.134–146, `The Social Rôle of the French University`;
-3. vol.8 no.6, probably Oct.1902: p.284–286 / surrounding spread, `Ecclesiastes Instructed`; search under both *University of California Magazine* and *The Graduate*.
+1. **vol.1 (1895), pp.68–79:** Arthur O. Lovejoy, `James Burnett, Lord Monboddo`, complete article + issue TOC/cover if easy;
+2. vol.2 (1896): TOC/index + complete Arthur O. Lovejoy, `Some Harvard Notes`;
+3. vol.6 (1900): pp.134–146, `The Social Rôle of the French University`;
+4. vol.8 no.6, probably Oct.1902: p.284–286 / surrounding spread, `Ecclesiastes Instructed`; search under both *University of California Magazine* and *The Graduate*.
 
 Why third:
 
-- closes three primary-text gaps at once;
+- closes **four** primary-text gaps at once with one physical periodical run;
 - replaces Wilson summaries with Lovejoy's own signed texts;
-- 1900 article is the best post-Paris institutional-writing bridge;
-- 1902 sonnet directly tests Ecclesiastes object recurrence after the 1898 `Wisdom work`;
-- 1896 text controls the early university/public-spirit/social-service line.
+- **1895 Monboddo is now a high-value pre-Harvard baseline/falsification test**: Wilson's annotation portrays the young Lovejoy concluding that Monboddo anticipated the century's most important scientific doctrine, while Lovejoy's direct 1904 reanalysis sharply restricts Monboddo's status as a biological evolutionist and separates language evolution, human-orangutan ancestry, species identity and transformism. The 1895 primary can determine whether this is a real self-correction from broad precursor classification to proposition-level re-audit, or merely an artifact of Wilson's compressed summary;
+- 1896 text controls the early university/public-spirit/social-service line;
+- 1900 article is the best post-Paris institutional-writing bridge and a falsification test for the current `democracy + differentiated fit` hypothesis;
+- 1902 sonnet directly tests Ecclesiastes object recurrence after the 1898 `Wisdom work`.
 
 Claim impact:
 
-three `WILSON-MEDIATED / BIBLIOGRAPHIC` nodes -> three direct primary texts.
+four `WILSON-MEDIATED / BIBLIOGRAPHIC` nodes -> four direct primary texts.
+
+Special 1895 consequence:
+
+`PRE-HARVARD BROAD PRECURSOR CLASSIFICATION?`
+-> direct primary test
+-> either `EARLY PROPOSITION-SENSITIVE PRACTICE ALREADY PRESENT`
+   or `DOCUMENTABLE LATER SELF-CORRECTION / INCREASED RESOLUTION`.
+
+Do **not** infer Harvard/Pāli causation from either outcome. A change between 1895 and 1904 would only define a temporal interval whose causes remain open.
 
 ## P4 — MS-0873 late Dec 1898–summer 1899 tranche
 
@@ -178,7 +189,7 @@ The most economical sequence is:
 -> decide whether the 1898 Wisdom/Buddhism project has an institutional precursor;
 
 `P3 Sacramento packet`
--> close three direct-primary gaps with one periodical request.
+-> close four direct-primary gaps with one periodical request, including the new 1895 pre-Harvard baseline.
 
 Only then should more diffuse correspondence or editorial provenance be ordered unless a new source changes the branch.
 
@@ -189,7 +200,8 @@ Only then should more diffuse correspondence or editorial provenance be ordered 
 - `TRANSCRIPTION != AUTOGRAPH`.
 - `PUBLICATION IN SAME VENUE != COMMON EDITORIAL CAUSE`.
 - `SAME CORPUS != SAME QUESTION != SAME CARRIER != GENETIC CONTINUITY`.
+- `CHANGE BETWEEN 1895 AND 1904 != HARVARD / BUDDHISM CAUSED THE CHANGE`.
 
 ## Current restart shorthand
 
-> **Acquisition priority: P1 Wilson 1974–75 index; P2 Harvard James Walker 1898 packet; P3 Sacramento 1896/1900/1902 bundled primary texts; P4 targeted MS-0873 late-Dec-1898–summer-1899 tranche; P5 Washington University 1901 syllabus pair; P6 Bancroft Hearst editorial-provenance folder. Existing JHU Evolution/Primitive Religion quotes remain pending and should not be duplicated.**
+> **Acquisition priority: P1 Wilson 1974–75 index; P2 Harvard James Walker 1898 packet; P3 Sacramento 1895/1896/1900/1902 bundled primary texts — 1895 Monboddo is now the pre-Harvard baseline/falsification target; P4 targeted MS-0873 late-Dec-1898–summer-1899 tranche; P5 Washington University 1901 syllabus pair; P6 Bancroft Hearst editorial-provenance folder. Existing JHU Evolution/Primitive Religion quotes remain pending and should not be duplicated.**
