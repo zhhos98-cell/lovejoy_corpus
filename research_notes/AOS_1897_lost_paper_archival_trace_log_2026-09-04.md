@@ -141,6 +141,32 @@ Assessment: **MAJOR CUSTODY-CHAIN UPGRADE / BEINECKE TARGET NOW PRIMARY.**
 
 Sources: AOS meeting circular restating By-Law V; *JAOS* 1919 Notes of the Society for the By-Law I amendment and Lanman manuscript-record-books resolution; current American Oriental Society Library description; 1930 Yale catalogue.
 
+## Trace 8 — surviving AOS record-book and meeting-manuscript comparators
+
+Two concrete survivals materially improve the search model.
+
+### `American Oriental Society Letter Book 1`
+
+Modern Yale-related scholarship cites letters from 1842 and 1843 with the archival locator **`American Oriental Society Letter Book 1` / `Letter Book I, Yale University Library`**. This establishes that at least one of the Society's institutional letter books survived and was available to researchers at Yale; it is no longer merely an inference from the By-Laws.
+
+Current limit: no public search result has yet identified `Letter Book 2`, `3`, etc., or shown a volume covering 1897. Therefore do not project continuous survival from Book 1 to Oertel's 1897 correspondence book.
+
+Assessment: **DIRECT SURVIVAL OF THE RECORD-BOOK CLASS; 1897 COVERAGE OPEN.**
+
+### 1898 AOS meeting-paper manuscript in personal papers
+
+Yale's China Records Project miscellaneous personal papers, RG 8, Box 26, folder 23, catalogs a 38-page handwritten manuscript from 1898, `The Worship of Heaven and Earth by the Emperor of China`, explicitly described as a paper delivered to a meeting of the American Oriental Society at Hartford and later published in *JAOS* 20 (1899), 58-69.
+
+This is an important near-contemporary comparator: an AOS meeting paper could survive outside the Society's central record books, in the author's or associated personal papers. It therefore supports a **distributed-carrier search strategy** for Lovejoy without implying that his manuscript followed the same path.
+
+Assessment: **DIRECT NEAR-CONTEMPORARY CARRIER-BEHAVIOR COMPARATOR.**
+
+### 1896 constitutional text immediately before Lovejoy's submission
+
+*JAOS* 17 (1896), pp. 201-203, contains the Society's `Constitution and By-Laws of the American Oriental Society`. This is the correct immediate pre-1897 legal-procedural witness for checking the Corresponding Secretary's record-book duty and Board-of-Directors manuscript custody. April 1897 amendments must be checked separately before claiming exact continuity through the Lovejoy meeting.
+
+Assessment: **PRIMARY PROCEDURAL WITNESS LOCATED; EXACT ARTICLE/BY-LAW COLLATION PENDING.**
+
 ## Corporate-records status
 
 A direct public finding aid titled as an AOS corporate archive preserving 1897 submissions has **not yet been located**. Yale administrative records show a later `YRG 37 American Oriental Society` records-management survey (1978-1980), which establishes an institutional relationship but does not itself identify nineteenth-century corporate records. Yale also describes legacy holdings containing personal papers of members of the AOS; this again is not a corporate archive.
@@ -149,19 +175,19 @@ The search should distinguish sharply between:
 
 1. AOS **corporate/administrative records**;
 2. the AOS **library/manuscript collections** at Yale/Beinecke;
-3. **personal papers of AOS officers**.
+3. **personal papers of AOS officers / authors / recipients**.
 
-The new 1919 evidence makes (2) potentially relevant to corporate records because AOS itself designated its Library as the repository for manuscript books of record.
+The record-book and 1898 manuscript comparators show that both (2) and (3) are empirically productive carrier classes.
 
 ## Current carrier ranking
 
-1. **Yale/Beinecke AOS manuscript holdings:** search specifically for manuscript books of record, letter/correspondence books, minutes, Directors records, editor records, registers, 1897.
+1. **Yale/Beinecke AOS manuscript holdings:** identify the sequence and date coverage of `American Oriental Society Letter Book` volumes; also search manuscript books of record, minutes, Directors records, editor records, registers, 1897.
 2. AOS submitted-paper / correspondence / minutes / editorial / Directors records under any separate corporate record group if extant.
 3. Lovejoy MS-0038 correspondence index: query `Lanman`, `Oertel`, `Moore`, `Warren`, AOS, Milinda, April 1897.
 4. Oertel MS 590, Box 3, Folder 56 (`I-R`, especially undated material).
 5. Lanman HUG 4510.xx: correspondence plus `HUG 4510.20` engagement calendar for April 1897; check student/colleague correspondence explicitly.
 6. Harvard History of Religions Club central records `HUD 3454.xx` plus Lyon papers Box 16 `Harvard History of Religions Club, 1891-1923`.
-7. George Foot Moore fragmentary survivals / any Andover-era personal papers if a coherent collection can be located.
+7. Other 1897 AOS officers/hosts as distributed personal-paper carriers, especially Daniel Coit Gilman, Henry Clarke Warren, Addison Van Name, and George Foot Moore.
 8. Harvard Graduate Philosophical Society records/programs, searched for exact Lovejoy objects rather than broad influence claims.
 
-Next search: attack Yale/Beinecke AOS manuscript catalog for `record book`, `letter book`, `correspondence`, `minutes`, `directors`, `secretary`, and dates around 1897; separately verify the historical by-law text in force in 1897.
+Next search: establish the surviving AOS Letter Book sequence/date ranges; attack Daniel Coit Gilman and Addison Van Name personal/institutional papers; verify the 1896 By-Laws against April 1897 amendments.
