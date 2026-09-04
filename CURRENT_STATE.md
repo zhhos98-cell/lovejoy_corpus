@@ -1,19 +1,19 @@
 # Lovejoy corpus — current state
 
-Last synchronized: 2026-09-03
+Last synchronized: 2026-09-04
 
-Status: **TWO-TRACK ACTIVE STATE — ARCHIVE COMPLETION + ARGUMENT DEVELOPMENT**
+Status: **CORE LOVEJOY WORK ACTIVE / COMPARATIVE `PRIMITIVE` TRIANGLE FROZEN**
 
 This is the repository's single living state file. Historical status language elsewhere does not override it.
 
 Use together with:
 
 - `CANONICAL_INDEX.md` for authoritative file routing;
-- `PROJECT_ARGUMENT_MAP.md` for the structure of the historical argument;
+- `PROJECT_ARGUMENT_MAP.md` for the structure of the Lovejoy-centered historical argument;
 - `TRANSCRIPTION_COMPLETION_QUEUE.md` for diplomatic/image work;
 - `QUELLENFORSCHUNG_CURRENT_GATE.md` for source-critical evidence rules.
 
-## 1. Two active tracks
+## 1. Active work
 
 ### Track A — archive / source-critical completion
 
@@ -40,67 +40,17 @@ Current image/diplomatic HOLDs:
 
 If the task is explicitly archival completion, use `TRANSCRIPTION_COMPLETION_QUEUE.md` and the terminal source dossiers. Do not import printed-source wording into manuscript transcription.
 
-### Track B — argument development / `primitive`
+### Track B — Lovejoy-local argument development
 
-This track is now independently active and is not subordinate to the p.117 source queue.
+Lovejoy-local work on notebooks 004/005, the 1897–98 publication path, Paris formation, and the 1902/1906 exits remains available where directly supported by Lovejoy evidence.
 
-Current routed chain:
+The previous cross-actor `primitive` comparison centered on Brinton, Boas, and Lovejoy is **FROZEN AND EXCLUDED**. It is not a control framework, not a production argument, and not a continuation route. Do not extend it, cite it into drafts, or use it to structure future research. Historical batch files remain in Git only as research provenance.
 
-- `research_notes/lovejoy_005_primitive_as_relational_strata_non_synchronized_chronology_batch208.md`
-- `research_notes/lovejoy_004_005_chronological_nonisomorphism_relational_time_batch209.md`
-- `research_notes/lovejoy_1906_primitive_predicate_topology_reaggregation_batch210.md`
-- `research_notes/lovejoy_004_005_reattribution_endpoint_matrix_batch212.md`
-- `research_notes/lovejoy_1897_title_contraction_to_1906_relational_scale_control_batch221.md`
-- `research_notes/brinton_1897_primitive_dechronologization_population_resynchronization_batch222.md`
-- `research_notes/boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
+The valid Lovejoy-local methodological control remains:
 
-Current synthesis:
+> one relation is not allowed automatically to answer for another.
 
-> `primitive` is being analyzed as an operational stratifying category whose historical force depends not only on what it classifies, but on the inferential permissions attached to that classification.
-
-The strongest present Lovejoy model is:
-
-`relational decomposition`
-
-→ `proof-burden separation`
-
-→ `public scale contraction` (1897–98)
-
-→ `portable relation-specific strata`
-
-→ `transverse reaggregation` (Lovejoy 1906).
-
-The strongest present period controls are:
-
-Brinton:
-
-`dechronologization`
-
-→ `cultural-stage position`
-
-→ `population synchronization`.
-
-Boas:
-
-`formal resemblance`
-
-→ `process/source adjudication`
-
-→ `comparability gate`
-
-→ `comparison of reconstructed histories/processes`
-
-→ `general laws`.
-
-Compact comparison:
-
-> **Brinton = stage-first synchronization.**
->
-> **Boas = process-first comparability.**
->
-> **Lovejoy = relation-first reaggregation.**
-
-This is a difference of inferential route, proof burden, and reaggregation endpoint, not a simple contrast between evolutionism and pluralism. Boas is especially important because his rejection of uniform developmental inference coexists with continued use of `primitive man`, `primitive tribes`, and `primitive art`.
+Use that only where the notebook or publication evidence supports it directly.
 
 ## 2. Governing firewalls
 
@@ -114,8 +64,7 @@ This is a difference of inferential route, proof burden, and reaggregation endpo
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
 - `RELATIONAL DECOMPOSITION != NECESSARY ANTI-TOTALIZATION`.
 - `CALENDAR CONTEMPORANEITY != EQUAL DEVELOPMENTAL POSITION`.
-- `PRIMITIVE PREDICATE != UNIFORM DEVELOPMENTAL INFERENCE`.
-- `FORMAL RESEMBLANCE != PROVED COMPARABILITY`.
+- `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
 
 ## 3. Notebook 004 — argument-control ceiling
 
@@ -194,34 +143,33 @@ Status: production HOLD. v3.7 is the current notebook-guide / Quellenkritik-cali
 
 Public architecture: notebooks 004 and 005 are the organizing spine; source ownership, witness state, material layers, and authorial seams are explained in the body; 1902/1906 and *Great Chain* function as exits and scale controls rather than the essay's main trajectory.
 
+The frozen comparative `primitive` triangle must not be imported into JHI or other production text.
+
 ## 8. Default continuation rule
 
 If the user says `continue` without specifying a branch:
 
 - after manuscript/source discussion → continue Track A;
-- after `primitive`, chronology, politics, Brinton, Boas, 1906, scale-control, comparability, or reaggregation discussion → continue Track B;
+- after chronology, politics, notebooks 004/005, 1897–98, or 1906 discussion → continue from direct Lovejoy-local evidence only;
 - after Blog discussion → continue JHI production branch;
 - after Paris/actor discussion → continue MS0873/formation branch.
 
-Do not collapse these tracks into one queue.
+Do not automatically open comparative actor sweeps. Do not reopen the frozen Brinton–Boas–Lovejoy comparison.
 
-## 9. Immediate next actions by track
+## 9. Immediate next actions
 
-### Track A
+### Archive / source-critical
 
 1. Recover Marillier, *RHR* 34 (1896), pp.113–118 only if source-specific access becomes available.
 2. Otherwise stop generic 005 source search and wait for direct images for the remaining diplomatic seams.
 3. Regenerate integrated transcription only after canonical page records change.
 
-### Track B
+### Lovejoy-local argument work
 
-1. Apply the Batch 223 audit protocol to additional period actors only where predicate address and inferential license can be directly audited.
-2. Test separately whether `primitive` attaches to mechanism, layer, mind, people, race, civilization, art, religion, or historical position.
-3. Record the comparability gate: what must be proved before cases may be pooled.
-4. Separate cross-cultural functional equivalence from developmental synchronization, process identity, and genealogy/borrowing.
-5. Preserve the distinction between analytical project vocabulary and actors' own terms.
-6. Keep Boas as a period methodological control unless direct Lovejoy uptake evidence appears; do not convert structural resemblance into influence.
+1. Work only from direct Lovejoy notebooks, publications, correspondence/archival witnesses, and source-specific provenance already required by a live proposition.
+2. Keep the 1897–98 publication-path problem, Paris formation, notebook proof architecture, and 1902/1906 exits separable.
+3. Do not use the frozen comparative triangle or generate replacement cross-actor typologies.
 
 ## Restart shorthand
 
-> **Two tracks are live. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Argument track: `primitive` is currently modeled through inferential permissions rather than mere vocabulary. Brinton gives stage-first synchronization; Boas gives process-first comparability while the primitive predicate survives; Lovejoy gives relation-first decomposition and transverse reaggregation. JHI Blog writing authority is v3.7, recentered as a notebook guide with Quellenkritik in the body at 2,366 body words. Use `PROJECT_ARGUMENT_MAP.md` for the argument route and `CANONICAL_INDEX.md` for file authority.**
+> **Core Lovejoy work remains active. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Lovejoy-local argument work may continue from direct evidence. The former Brinton–Boas–Lovejoy `primitive` comparison is frozen, excluded from production, and not a continuation route. JHI Blog writing authority is v3.7, recentered as a notebook guide with Quellenkritik in the body at 2,366 body words. Use `PROJECT_ARGUMENT_MAP.md` for Lovejoy-local argument routing and `CANONICAL_INDEX.md` for file authority.**
