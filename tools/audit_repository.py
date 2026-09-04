@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = (
     "README.md",
+    "CONSOLIDATED_RESEARCH_ENTRYPOINT.md",
     "CURRENT_STATE.md",
     "TRANSCRIPTION_COMPLETION_QUEUE.md",
     "CANONICAL_INDEX.md",
@@ -27,6 +28,12 @@ REQUIRED = (
     "archive_index/README.md",
     "archive_transcriptions/README.md",
     "research_notes/README.md",
+    "research_notes/FROZEN_PROVENANCE_REGISTER.md",
+    "research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md",
+    "research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md",
+    "research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md",
+    "research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md",
+    "research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md",
     "archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md",
     "research_notes/repository_cleanup_2026-09-02.md",
 )
@@ -34,6 +41,7 @@ REQUIRED = (
 ROOT_CONTROL_FILES = {
     ".gitignore",
     "README.md",
+    "CONSOLIDATED_RESEARCH_ENTRYPOINT.md",
     "CURRENT_STATE.md",
     "TRANSCRIPTION_COMPLETION_QUEUE.md",
     "CANONICAL_INDEX.md",
@@ -87,7 +95,6 @@ def local_link_target(markdown: Path, raw_target: str) -> Path | None:
         return None
     target = unquote(target)
     if " " in target and not target.startswith("/"):
-        # Markdown titles after a path are not repository paths.
         target = target.split(" ", 1)[0]
     candidate = Path(target)
     return candidate if candidate.is_absolute() else markdown.parent / candidate
@@ -103,9 +110,7 @@ def main() -> int:
             errors.append(f"missing required file: {relative}")
 
     root_index_path = ROOT / "root_payload_index.md"
-    root_index_text = (
-        root_index_path.read_text(encoding="utf-8") if root_index_path.is_file() else ""
-    )
+    root_index_text = root_index_path.read_text(encoding="utf-8") if root_index_path.is_file() else ""
     for path in files:
         if path.parent != ROOT or path.name in ROOT_CONTROL_FILES:
             continue
@@ -136,9 +141,7 @@ def main() -> int:
             continue
         expected = list(range(start, end + 1))
         if pages != expected:
-            errors.append(
-                f"page-range mismatch: {relative} expected {start}-{end}, got {pages}"
-            )
+            errors.append(f"page-range mismatch: {relative} expected {start}-{end}, got {pages}")
         notebook = "004" if "_004_p" in relative else "005"
         covered[notebook].extend(pages)
 
@@ -170,14 +173,13 @@ def main() -> int:
             target = local_link_target(path, match.group(1))
             if target is not None and not target.exists():
                 line = text.count("\n", 0, match.start()) + 1
-                broken_links.append(
-                    f"{path.relative_to(ROOT)}:{line} -> {match.group(1)}"
-                )
+                broken_links.append(f"{path.relative_to(ROOT)}:{line} -> {match.group(1)}")
     if broken_links:
         errors.extend(f"broken local Markdown link: {item}" for item in broken_links)
 
     living_docs = (
         "README.md",
+        "CONSOLIDATED_RESEARCH_ENTRYPOINT.md",
         "CURRENT_STATE.md",
         "TRANSCRIPTION_COMPLETION_QUEUE.md",
         "CANONICAL_INDEX.md",
@@ -188,6 +190,12 @@ def main() -> int:
         "archive_index/README.md",
         "archive_transcriptions/README.md",
         "research_notes/README.md",
+        "research_notes/FROZEN_PROVENANCE_REGISTER.md",
+        "research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md",
+        "research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md",
+        "research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md",
+        "research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md",
+        "research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md",
     )
     for relative in living_docs:
         path = ROOT / relative
@@ -200,9 +208,7 @@ def main() -> int:
                 continue
             if not (ROOT / target).exists():
                 line = text.count("\n", 0, match.start()) + 1
-                errors.append(
-                    f"missing path in living navigation: {relative}:{line} -> {target}"
-                )
+                errors.append(f"missing path in living navigation: {relative}:{line} -> {target}")
 
     digests: dict[str, list[Path]] = defaultdict(list)
     for path in files:
@@ -210,10 +216,7 @@ def main() -> int:
             digests[hashlib.sha256(path.read_bytes()).hexdigest()].append(path)
     duplicate_sets = [group for group in digests.values() if len(group) > 1]
     for group in duplicate_sets:
-        warnings.append(
-            "exact duplicate content: "
-            + ", ".join(str(path.relative_to(ROOT)) for path in group)
-        )
+        warnings.append("exact duplicate content: " + ", ".join(str(path.relative_to(ROOT)) for path in group))
 
     print(f"Tracked files: {len(files)}")
     print(f"Parsed JSON files: {parsed_json}")
