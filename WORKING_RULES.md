@@ -51,7 +51,7 @@ Default sequence:
 
 Do not begin ordinary research by searching `batch`, `round`, `sweep`, `delta`, `freeze`, or `handoff` files.
 
-## 4. Cleanup and provenance
+## 4. Cleanup, writing, and provenance
 
 The working tree is intentionally provenance-rich but authority-light.
 
@@ -62,6 +62,8 @@ The working tree is intentionally provenance-rich but authority-light.
 5. Scripts belong under `tools/`; root is reserved for living navigation/governance plus intentionally stable legacy payloads.
 6. New research claims should normally update an existing terminal synthesis rather than create another parallel summary file.
 7. Create a new terminal synthesis only when the research object is genuinely distinct and cannot be routed cleanly through the existing five.
+8. For the JHI Blog, `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md` is the live accretion surface. Revise that file in place rather than creating successor draft versions. Create a separate draft-like file only for an explicitly requested submission snapshot, export, or archival freeze.
+9. Keep Quellenkritik, evidentiary ceilings, and defensive caveats in notes/gates where possible. Do not force the public prose to restate every backend safeguard when the sentence itself can remain historically precise without it.
 
 ## 5. Interpretation hygiene
 
