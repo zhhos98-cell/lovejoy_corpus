@@ -288,6 +288,58 @@ Neither negative result proves that Lovejoy had no communication with James or H
 
 Assessment: **NEGATIVE NARROWING / PRIORITIZE LANMAN, OERTEL, WILSON AGGREGATE INSTEAD.**
 
+## Trace 20 — Oertel request unit reduced to one physical folder
+
+Direct visual inspection of the Yale MS 590 finding-aid page confirms that the Oertel correspondence inventory does **not** expose a finer Lovejoy or L-subdivision beneath `I-R`. The relevant sequence is:
+
+- Box 3, Folder 55 — `A-H`, dates including undated;
+- **Box 3, Folder 56 — `I-R`, dates `1889, 1894, 1900-1901, 1907-1909, undated`;**
+- Box 3, Folder 57 — `S-Z, unidentified`;
+- Box 3, Folder 58 — Edward Elbridge Salisbury, `1897, undated`.
+
+Therefore the public catalogue cannot reduce the Lovejoy target any further. If an 1897 Lovejoy title notice/cover note survives in Oertel under an omitted or undated date, the operational task is now simply:
+
+> **request MS 590, Box 3, Folder 56 and inspect the individual I-R sheets, especially undated material, for Lovejoy.**
+
+This is a manual point-check target, not a positive Lovejoy hit. The listed dates also mean that an item explicitly dated 1897 would be anomalous relative to the current folder-level date summary; that anomaly is possible but must not be presumed.
+
+Source: Yale MS 590 finding aid, direct page image inspection.
+
+Assessment: **SEARCH-SPACE COLLAPSED TO ONE REQUESTABLE FOLDER / NO TEXT RECOVERED.**
+
+## Trace 21 — Henry Clarke Warren as a Lanman/HOS internal target, not an influence claim
+
+Henry C. Warren is already independently fixed in the 1897 AOS administrative map as Treasurer. Harvard's Lanman finding aid independently states that Lanman and Henry Clarke Warren co-founded the Harvard Oriental Series in 1891 and that the Lanman papers preserve:
+
+- correspondence with students and colleagues;
+- `Harvard Oriental Series, 1891-1917 and undated` records, including correspondence, mailing lists, proofs, and notices;
+- engagement calendars beginning in 1896.
+
+No standalone `Henry Clarke Warren papers` collection has yet surfaced in the Harvard archival searches run for this trace. That negative search should not be promoted into a claim that no Warren papers survive elsewhere.
+
+Operational consequence: search **Warren by name inside Lanman correspondence/HOS records**, especially 1896-1898, because this is a documented archival carrier linking the AOS officer and HOS co-founder. Do not infer that Warren supervised, assigned, inspired, or commented on Lovejoy's Buddhist paper without a direct witness.
+
+Source: Harvard University Archives, `Papers of Charles Rockwell Lanman, 1825-1941`, HUG 4510.xx.
+
+Assessment: **TARGET NAME ADDED INSIDE AN EXISTING HIGH-VALUE CARRIER / NO LOVEJOY-WARREN TRANSMISSION EVIDENCE.**
+
+## Trace 22 — Yale transfer/cataloguing metadata may unlock the missing AOS record-book shelfmarks
+
+The search for `American Oriental Society Letter Book II` and other nineteenth-century record-book names has stalled at the public catalogue level. Yale's own library administrative records now provide a different route: reconstruct the transfer/reclassification of the Society Library and its manuscript records into Yale custody.
+
+Two concrete subject files are publicly catalogued:
+
+1. `Librarian, Yale University records`, RU 120, **Box 116, Folder 1591 — American Oriental Society, 1940-1959**. The surrounding series also contains manuscript checklists and accession lists.
+2. `Catalogue Department, Yale University Library, records`, RU 303, **Box 2, Folder 75 — American Oriental Society, 1922-1989**.
+
+A third auxiliary carrier exists in the Arts of the Book Collection exhibit-label records, RU 793, Box 1: `American Oriental Society- Centenary Celebration` and `American Oriental Society Exhibit`.
+
+These are not evidence that Lovejoy's paper or an 1897 record book survives. Their value is custodial/metacataloguing: they may record the AOS Library's transfer, old-to-new call-number mappings, inventories, exhibit labels, or treatment of manuscript record books. If so, they could identify the present shelfmark/date coverage of the letter books, proceedings books, Directors' books, or deposited manuscripts described in the 1919 custody resolution.
+
+Sources: Yale RU 120 finding aid; Yale RU 303 finding aid; Yale RU 793 finding aid.
+
+Assessment: **MAJOR SEARCH-PATH UPGRADE: TRACE THE CATALOGUE/TRANSFER HISTORY BEFORE FURTHER BLIND `LETTER BOOK II` SEARCHING.**
+
 ## Negative control — misleading Open Library / Internet Archive volume metadata
 
 Public discovery for Internet Archive identifier `journalamerican18socigoog` is unreliable for this task: Open Library metadata can present it in a way suggestive of JAOS volume 18, while inspection of the scan/text route exposes content beginning with the **Fourth Volume (1854)**. Do not use this identifier as the 1897 volume witness without independent page-level verification.
@@ -303,29 +355,32 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 ## Current carrier ranking
 
 1. **JHU MS-0873 Box 1, 1894–1898 chronological tranche**, especially 10–24 Apr 1897.
-2. **Yale/Beinecke AOS manuscript books of record**: identify Letter Book sequence/date ranges; proceedings/minute books; Directors records; editor records; registers.
-3. **Oertel MS 590 Box 3 Folder 56**, especially undated I-R material: now a direct procedural title-submission recipient target, while full-manuscript custody remains unproven.
-4. **JHU Gilman MS-0001 correspondence**, attacked by correspondent first and March-April 1897 second.
-5. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
-6. Lanman HUG 4510.xx, especially `HUG 4510.20` April 1897 engagement calendar and student/colleague correspondence.
-7. Harvard History of Religions Club `HUD 3454.xx` + Lyon Box 16.
-8. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
-9. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
+2. **Yale AOS custody/cataloguing metadata route**: RU 120 Box 116 f.1591 + RU 303 Box 2 f.75, used to recover present shelfmarks/date ranges for AOS manuscript books of record.
+3. **Yale/Beinecke AOS manuscript books of record**, once shelfmarks/date coverage are identified: Corresponding Secretary letter/copy books; proceedings/minute books; Directors records; editor records; registers/deposits.
+4. **Oertel MS 590 Box 3 Folder 56**, manual inspection of individual `I-R` sheets, especially undated material.
+5. **JHU Gilman MS-0001 correspondence**, attacked by correspondent first and March-April 1897 second.
+6. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
+7. **Lanman HUG 4510.xx**, especially `HUG 4510.20` April 1897 engagement calendar, student/colleague correspondence, and HOS records with `Warren` as a targeted internal name.
+8. Harvard History of Religions Club `HUD 3454.xx` + Lyon Box 16.
+9. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
+10. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
 
-De-prioritized for the immediate 1897 text hunt: UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898.
+De-prioritized for the immediate 1897 text hunt: UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale transfer/cataloguing history.
 
 ## Current judgment
 
 **The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to physically and procedurally defined routes:
 
-`Oertel = documented 1897 title-submission recipient`
+`Oertel = documented 1897 title-submission recipient; manual target = MS 590 Box 3 f.56`
 
-+ `AOS manuscript record books / deposited-manuscript custody chain at Yale/Beinecke`
++ `Yale custody metadata = possible key to current shelfmarks of AOS manuscript record books`
 
 + `Wilson MS-0873 chronological 1894–1898 correspondence aggregate`
 
-+ `Gilman MS-0001 correspondent-level host/officer corpus`.
++ `Gilman MS-0001 correspondent-level host/officer corpus`
 
-The Chicago recipient file has now been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897.
++ `Lanman/HOS records = Harvard-side internal carrier; Warren is a targeted name, not a transmission claim`.
 
-The next decisive result would be an item-level hit in any of the four top routes. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
+The Chicago recipient file has been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897.
+
+The next decisive result would be an item-level hit in MS-0873, Oertel f.56, or a Yale catalogue/transfer file that resolves the nineteenth-century AOS record-book shelfmarks. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
