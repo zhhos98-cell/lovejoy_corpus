@@ -1,73 +1,84 @@
 # Working rules
 
-Last updated: 2026-09-01
+Last updated: 2026-09-04
 
 ## 1. Durable-state rule
 
-This repository is the durable research state. Do not leave thesis-bearing progress only in a chat session.
+This repository is the durable research state. Do not leave thesis-bearing progress only in chat.
 
-During an active research run:
+During active work:
 
-1. **Synchronize early and repeatedly.** Commit every material evidentiary result, correction, bounded negative, branch decision, or superseded hypothesis.
-2. **Optimize for restart safety.** A checkpoint should state what was tested, source/locator, result, warrant/confidence, what changed, and the exact next action.
-3. **Keep one living state.** `CURRENT_STATE.md` is the only authority for whether a branch is live, frozen, parked, or complete.
-4. **Use one current canonical index.** `CANONICAL_INDEX.md` is the stable routing surface for current evidence. Dated indices are historical snapshots unless explicitly reactivated.
-5. **Do not reconstruct from chat memory when repo state exists.** Restart from `CURRENT_STATE.md`, then the canonical index, then the terminal/source-specific dossier.
-6. **Record negative controls.** Failed locators and bounded negatives are evidence when they constrain claims; distinguish search-layer failure from archival absence.
-7. **Separate evidence levels.** Keep direct primary, mediated quotation, field control, analyst-level structural homology, and genealogy/influence claims distinct.
+1. Commit material evidentiary results, corrections, bounded negatives, branch decisions, and superseded hypotheses when they change durable state.
+2. Keep one living state: `CURRENT_STATE.md` alone controls active/held/frozen/complete status.
+3. Keep one canonical routing surface: `CANONICAL_INDEX.md`.
+4. Use `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` as the default human restart point.
+5. Restart from a terminal synthesis before reopening historical process notes.
+6. Record bounded negatives with their search/source limits; search failure is not archival absence.
+7. Separate direct primary evidence, mediated witness, field control, analyst-level homology, and genealogy/influence claims.
 
 Compact rule:
 
-> **Sync often enough that losing the conversation costs at most one small research step.**
+> **durable state should survive loss of the conversation without forcing reconstruction from old process notes.**
 
 ## 2. Branch lifecycle
 
-Every thesis-bearing research branch should move through:
+Thesis-bearing work should move through:
 
 `reopen / define question`
 → `source-specific checkpoints`
 → `terminal synthesis / closure dossier`
-→ `update CURRENT_STATE + canonical index`
-→ **refreeze**.
+→ `update CURRENT_STATE + CANONICAL_INDEX + relevant terminal synthesis`
+→ **refreeze process layer**.
 
 After refreeze:
 
-- old `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` text inside process files is historical;
-- the final handoff/closure and canonical index control interpretation;
-- do not reopen simply because an old queue remains unfinished;
-- broad exploratory sweeps should not continue after the live proposition is already saturated.
+- old `ACTIVE`, `HOLD`, `pending`, `next action`, `blocker`, or `missing` language inside historical files is provenance only;
+- terminal synthesis and living controls govern continuation;
+- do not reopen because an old queue remains unfinished;
+- do not continue broad exploratory sweeps after the live proposition has reached a source-specific ceiling.
 
-A frozen branch may reopen only when direct new primary evidence changes a live proposition, a current source is contradicted, publication requires exact citation/facsimile verification, or an analytical category already in use requires materially different historical reconstruction.
+A frozen branch may reopen only under `research_notes/FROZEN_PROVENANCE_REGISTER.md`.
 
-## 3. Cleanup and provenance
+## 3. Consolidated authority order
 
-The working tree should privilege:
+Default sequence:
 
-`CURRENT_STATE`
-→ `CANONICAL_INDEX.md`
-→ `terminal dossiers`
-→ `evidence infrastructure / raw provenance`.
+`CONSOLIDATED_RESEARCH_ENTRYPOINT.md`
+→ `CURRENT_STATE.md` / `CANONICAL_INDEX.md`
+→ one of the five terminal syntheses
+→ exact canonical/primary witness
+→ source-specific audit trail only if required.
 
-Rules:
+Do not begin ordinary research by searching `batch`, `round`, `sweep`, `delta`, `freeze`, or `handoff` files.
 
-1. Raw manuscripts, transcriptions, source payloads, material-audit records, edit logs and reproducible data should be preserved unless independently proven redundant.
-2. Consolidated matrices/batch outputs may remain when they preserve provenance or reproduce a claim, even if they are not narrative authority.
-3. Process notes that are fully superseded and add no unique provenance may be removed from the working tree after their terminal conclusion is preserved; Git history remains the process archive.
-4. Do not move large legacy OCR/metadata payloads merely for aesthetics if existing references may depend on their paths. Record the legacy layout and migrate only in a dedicated path-breaking cleanup.
-5. Scripts belong under `tools/`; root should be reserved primarily for project navigation and legacy source/data payloads whose paths are intentionally stable.
-6. A cleanup pass should leave a dated manifest under `research_notes/` describing retained layers, removed/moved files, and any intentionally unresolved structural debt.
+## 4. Cleanup and provenance
 
-## 4. Interpretation hygiene
+The working tree is intentionally provenance-rich but authority-light.
 
-For the current Lovejoy project specifically:
+1. Raw manuscripts, canonical transcriptions, source payloads, material-audit records, and reproducible data should be preserved unless independently proven redundant.
+2. Historical process notes may remain at stable paths when they preserve unique provenance.
+3. Frozen status changes routing authority, not truth-value.
+4. Do not move heavily cited legacy paths merely for aesthetics. Physical migration requires a redirect map, reference rewrite, and audit in the same operation.
+5. Scripts belong under `tools/`; root is reserved for living navigation/governance plus intentionally stable legacy payloads.
+6. New research claims should normally update an existing terminal synthesis rather than create another parallel summary file.
+7. Create a new terminal synthesis only when the research object is genuinely distinct and cannot be routed cleanly through the existing five.
 
+## 5. Interpretation hygiene
+
+For the current Lovejoy project:
+
+- notebook handwriting is not automatic proposition authorship;
+- source-owned constituent propositions do not automatically own the relation among them;
 - relation non-identity does not establish historical independence;
-- decomposition or proposition insulation is not uniquely Lovejoyian;
 - structural recurrence is not genealogy;
-- teacher/curricular adjacency is not total-method transmission;
-- logical-analysis controls calibrate the notebook argument rather than create a standalone Blog section;
-- the Carnap line is frozen field/adversarial control unless direct new primary evidence changes a live claim.
+- teacher/curricular adjacency is not method transmission;
+- morphological/classificatory order is not historical order;
+- failed source recovery is not Lovejoy originality;
+- title continuity is not manuscript identity;
+- cross-actor analytical similarity is not a historical argument.
 
-## 5. Restart shorthand
+The Brinton–Boas–Lovejoy `primitive` triangle remains frozen and excluded from production.
 
-> **Read `CURRENT_STATE.md`, then `CANONICAL_INDEX.md`. Treat everything else as source, support, or history unless those two files say otherwise.**
+## 6. Default restart
+
+> **Open `CONSOLIDATED_RESEARCH_ENTRYPOINT.md`, choose the relevant terminal synthesis, and descend to exact evidence only as needed. Everything else is support or provenance unless a living control explicitly routes it.**

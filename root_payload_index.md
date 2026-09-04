@@ -1,11 +1,11 @@
 # Lovejoy corpus — root payload index
 
-Date: 2026-09-02  
+Date: 2026-09-04  
 Status: **STRUCTURAL INVENTORY / LEGACY PATHS PRESERVED**
 
 This file accounts for tracked files that remain directly in the repository root but are not living navigation/governance files. Root payloads are intentionally retained at stable paths because many historical notes and commits refer to them. Presence here means **preserved and indexed**, not **canonical authority**.
 
-Current living root controls are `README.md`, `CURRENT_STATE.md`, `TRANSCRIPTION_COMPLETION_QUEUE.md`, `CANONICAL_INDEX.md`, `ARCHIVE_TRANSCRIPTION_PROGRESS.md`, `QUELLENFORSCHUNG_CURRENT_GATE.md`, and `WORKING_RULES.md`. Directory-level routing is in `archive_transcriptions/README.md`, `archive_index/README.md`, and `research_notes/README.md`.
+Current living root controls are `README.md`, `CONSOLIDATED_RESEARCH_ENTRYPOINT.md`, `CURRENT_STATE.md`, `TRANSCRIPTION_COMPLETION_QUEUE.md`, `CANONICAL_INDEX.md`, `ARCHIVE_TRANSCRIPTION_PROGRESS.md`, `QUELLENFORSCHUNG_CURRENT_GATE.md`, and `WORKING_RULES.md`. Directory-level routing is in `archive_transcriptions/README.md`, `archive_index/README.md`, and `research_notes/README.md`.
 
 ## 1. Lovejoy primary / near-primary text payloads
 
