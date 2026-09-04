@@ -2,192 +2,185 @@
 
 Date opened: 2026-09-04  
 Status: **LIVE PROCESS LOG / NON-AUTHORITATIVE AUDIT TRAIL**  
-Route results back into `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md` and living controls only when they materially change the argument.
+Route material results into `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md` and living controls only when they change the argument.
 
 Target object:
 
 `10 Apr 1897 — Arthur O. Lovejoy, Critical summary of the argument of the Milinda-pañha`
 
-Search purpose: recover any manuscript, abstract, title slip, cover letter, secretary/directors record, correspondence, meeting program, or other intermediate carrier connected to the documented AOS communication. Do not infer manuscript identity from title continuity.
+Search purpose: recover any manuscript, abstract, title slip, cover letter, correspondence, minutes, editor/directors record, program, or other intermediate carrier. **Do not infer manuscript identity from title continuity.**
+
+## Secure documentary baseline
+
+- 10 Apr 1897 AOS Final Circular: `Critical summary of the argument of the Milinda-pañha`.
+- 22–24 Apr 1897 Baltimore Proceedings: Lovejoy absent; communication read by title; content-level title recoverable as `On the meaning of the Buddhist technical terms upādāna and upādāna-kkhandhā` (exact typography HOLD).
+- 1898 JAOS: `The Buddhistic technical terms upādāna and upādisesa`.
+- The second named technical term changes. The surviving public sequence is a sequence of documentary/problem states, not proof of one unchanged manuscript.
 
 ## Trace 1 — Hanns Oertel papers, Yale
 
-Repository: Yale University Library, Manuscripts and Archives, Humanities and Fine Arts Collection, MS 590.
+Yale MS 590, Box 3 correspondence is alphabetically grouped. Folder 56 = `I-R`, with dates `1889, 1894, 1900-1901, 1907-1909, undated`; Lovejoy would fall here. No finding-aid-level 1897 Lovejoy item is named. The undated component remains a legitimate reading-room target. Folder 58 contains Edward Elbridge Salisbury material dated `1897, undated`, showing that 1897 AOS-adjacent correspondence survives in Oertel's papers without establishing a Lovejoy carrier.
 
-Finding-aid facts:
-
-- Hanns Oertel's materials include personal and academic correspondence.
-- Correspondence is alphabetically grouped in Box 3.
-- Folder 56 = `I-R`, dates listed: `1889, 1894, 1900-1901, 1907-1909, undated`.
-- `Lovejoy` would alphabetically fall in `I-R`.
-- Therefore there is **no finding-aid-level positive identification of a 1897 Lovejoy letter**, but the `undated` component of Folder 56 remains a legitimate archival target.
-- Folder 58 contains Edward Elbridge Salisbury material dated `1897, undated`, showing that 1897 AOS-adjacent correspondence survives elsewhere in Oertel's papers, but this does not establish a Lovejoy carrier.
-
-Assessment: **TARGETED READING-ROOM CHECK WARRANTED; NO TEXT RECOVERED.**
-
-Source: Yale finding aid, `Guide to the Humanities and Fine Arts Collection`, MS 590, especially Hanns Oertel correspondence inventory, Box 3, folders 55-58.
+Assessment: **TARGETED CHECK; NO TEXT RECOVERED.**
 
 ## Trace 2 — Charles Rockwell Lanman papers, Harvard
 
-Repository: Harvard University Archives, `Papers of Charles Rockwell Lanman, 1825-1941`, call number `HUG 4510.xx`.
+`Papers of Charles Rockwell Lanman, 1825-1941`, HUG 4510.xx, 34.90 cubic feet, contains professional correspondence with students/colleagues, research and teaching materials, manuscripts, and Harvard Oriental Series records. HOLLIS reports no digital content.
 
-Finding-aid facts:
+The collection also preserves **engagement calendars, 1896-1936 (`HUG 4510.20`)**. April 1897 is therefore a concrete day-level target for `AOS`, `Lovejoy`, `Baltimore`, paper/submission, or meeting traces. A calendar entry would establish activity/proximity, not paper content.
 
-- Collection extent: 34.90 cubic feet.
-- Includes professional correspondence with students and colleagues, research/teaching materials, articles, manuscripts, notes, and Harvard Oriental Series records.
-- Correspondence series spans 1873-1938.
-- Collection has **0 digital content** in HOLLIS archival discovery.
-- Lanman was professor of Sanskrit at Harvard and editor/founder figure in the Harvard Oriental Series; the collection is therefore a plausible carrier environment for Lovejoy's 1896-97 Pāli work, but **proximity is not evidence of transmission**.
-- The same collection preserves **engagement calendars, 1896-1936 (`HUG 4510.20`)**. The April 1897 calendar is therefore a concrete day-level target for AOS, Lovejoy, submission, or meeting traces. A calendar entry would establish activity/proximity only, not paper content.
-- HOLLIS explicitly points from Lanman's finding aid to the separate `Records of the History of Religions Club, 1892-1952`, call number `HUD 3454.xx`.
-- The finding aid also specifies that Lanman's professional papers include correspondence with **students and colleagues** and that the Harvard Oriental Series records contain correspondence, mailing lists, proofs, and notices. This strengthens the warrant for a name-level Lovejoy check, but does not establish that any Lovejoy item survives.
+Assessment: **HIGH-VALUE REQUESTABLE TARGET; NO LOVEJOY ITEM YET IDENTIFIED.**
 
-Assessment: **HIGH-VALUE FINDING-AID / BOX-LEVEL TARGET; NO LOVEJOY ITEM YET IDENTIFIED.**
+## Trace 3 — Harvard History of Religions Club carriers
 
-Source: HOLLIS for Archival Discovery, `Papers of Charles Rockwell Lanman, 1825-1941`, HUG 4510.xx.
+David Gordon Lyon papers, Box 16, contains an explicit file `Harvard History of Religions Club, 1891-1923`, distinct from the Club's central institutional records `HUD 3454.xx`. A contemporary 1893 description says the Club met monthly and had papers read followed by general discussion. This establishes carrier behavior only, not Lovejoy attendance or uptake.
 
-## Trace 3 — David Gordon Lyon papers / Harvard History of Religions Club
+Assessment: **CONCRETE BOX-LEVEL TARGET.**
 
-Repository: Harvard University Archives, `Papers of David Gordon Lyon, 1861, 1872-1935`.
+## Trace 4 — Lovejoy MS-0038, JHU
 
-Finding-aid fact:
+Arthur O. Lovejoy papers, MS-0038: correspondence occupies Boxes 72-84. Daniel J. Wilson prepared a detailed correspondence index in 1974-1975; later refiling retained the order corresponding to that index. Public web indexing has not surfaced a Lanman/Oertel/AOS/Milinda item. **No web hit is not evidence of archival absence.**
 
-- Box 16 contains a file explicitly titled **`Harvard History of Religions Club, 1891-1923`**.
-- This is a second, personal-paper carrier distinct from the Club's central institutional records (`HUD 3454.xx`).
-- Because the file spans Lovejoy's Harvard years, it is a concrete target for 1896-97 programs, minutes, correspondence, or paper announcements. No Lovejoy-specific item has yet been identified at finding-aid level.
-- A contemporary 1893 description states that the Club met monthly and that papers were read followed by general discussion. This establishes the documentary behavior of the institution, not Lovejoy attendance or uptake.
+Target names/terms: `Lanman`, `Oertel`, `Moore`, `Warren`, `Gilman`, `American Oriental Society`, `Milinda`, `Pali/Pāli`, `Buddhist`, `upādāna`, and dates 10–24 Apr 1897.
 
-Assessment: **CONCRETE BOX-LEVEL TARGET; NO TEXT RECOVERED.**
+Assessment: **ORIGINAL-WITNESS CONTROL; PUBLIC INDEX SEARCH INCOMPLETE.**
 
-Source: HOLLIS finding aid for David Gordon Lyon papers, Box 16; contemporary description in *The Biblical World* (1893).
+## Trace 5 — 1897 AOS institutional routing
 
-## Trace 4 — Lovejoy papers, JHU: correspondence index as a search instrument
+The 10 Apr 1897 Final Circular maps several distinct administrative chains around Lovejoy's No. 24 communication:
 
-Repository: Johns Hopkins University Special Collections, `Arthur Oncken Lovejoy papers`, MS-0038.
+- George F. Moore — Recording Secretary; minutes; also reports for Board of Editors.
+- Hanns Oertel — Acting Corresponding Secretary; correspondence.
+- Charles R. Lanman — Scribe of the Directors.
+- Henry C. Warren — Treasurer.
+- Addison Van Name — Librarian.
 
-Finding-aid facts:
+Consequence: the submission should not be modeled as having only one possible trail through Oertel. It could leave independent traces in **correspondence / proceedings books / editorial handling / Directors' records / library custody**.
 
-- Correspondence occupies Boxes 72-84.
-- Daniel J. Wilson prepared a detailed item-level index in 1974-1975 and a complete correspondence index; later refiling retained the original order corresponding to Wilson's index.
-- This means a targeted search for `Lanman`, `Oertel`, `American Oriental Society`, `Milinda`, or other 1897 carriers can in principle be reduced to item-level correspondence rather than re-reading the whole collection.
-- Public web indexing has not yet surfaced a Lanman/Oertel/AOS item in MS-0038; absence from web search is **not** evidence of archival absence.
-- JHU's current 2019/2023 re-description states that the current finding aid is the most up-to-date and complete listing available, but it still does not expose every correspondent as a top-level indexed name.
+Assessment: **INSTITUTIONAL CARRIER MAP SECURE; NO MANUSCRIPT RECOVERED.**
 
-Assessment: **HIGH-VALUE INDEX QUERY TARGET; PUBLIC INDEX SEARCH INCOMPLETE.**
+## Trace 6 — George Foot Moore
 
-## Trace 5 — 1897 AOS institutional routing from the Final Circular
+Harvard Divinity School Faculty Writings File `bMS 13001/Moore, G. F.` is chiefly published writings/later memorial material and does not expose a coherent 1897 AOS secretary file. Houghton `Autograph File, M` contains fragmentary Moore letters/manuscripts but no identified Lovejoy/AOS object.
 
-The 10 Apr 1897 Final Circular itself maps four distinct administrative carrier chains around Lovejoy's No. 24 communication:
+Assessment: **PUBLIC FINDING-AID DEAD END FOR A COHERENT MOORE ADMINISTRATIVE FILE; FRAGMENTARY TARGET ONLY.**
 
-- **Recording Secretary: George F. Moore** — minutes of the previous meeting.
-- **Acting Corresponding Secretary: Hanns Oertel** — report explicitly subdivided into `a. Correspondence` and `b. Members deceased`.
-- **Board of Editors: reported by George F. Moore**.
-- **Directors: reported by their Scribe, Charles R. Lanman**.
-- **Treasurer: Henry C. Warren**.
+## Trace 7 — AOS custody rules and manuscript books of record
 
-The same circular lists Lovejoy as No. 24, `Critical summary of the argument of the Milinda-pañha`.
-
-Consequence: do **not** model the lost submission as having only one probable paper trail through Oertel. A communication could leave traces independently in correspondence, recording-secretary minutes, editorial handling, or Directors' business. Whether those records survive is a separate archival question.
-
-Assessment: **INSTITUTIONAL CARRIER MAP UPGRADE; NO MANUSCRIPT RECOVERED.**
-
-Primary source: AOS Final Circular, 10 Apr 1897, University of Chicago Library circular file; direct image checked in the source PDF.
-
-## Trace 6 — George Foot Moore survival check
-
-Public Harvard discovery currently exposes a `Harvard Divinity School Faculty Writings File`, `bMS 13001/Moore, G. F.`, but its listed contents are chiefly Moore's published writings and later memorial material; it does **not** expose 1897 AOS secretary papers or incoming submissions.
-
-Houghton Library's `Autograph File, M` is described as containing single letters/manuscripts from George Foot Moore among many other figures. This is a possible fragmentary carrier but not a coherent Moore administrative archive, and no Lovejoy/AOS item is identified at finding-aid level.
-
-Assessment: **PUBLIC FINDING-AID DEAD END FOR A COHERENT 1897 MOORE SECRETARY FILE; FRAGMENTARY CHECK REMAINS POSSIBLE.**
-
-## Trace 7 — AOS internal custody rules and the Society Library
-
-This materially sharpens the corporate-record search.
-
-### Deposited/read papers
-
-A later AOS annual-meeting circular, while restating an existing By-Law V, quotes the rule:
+Later AOS procedural printing restates By-Law V:
 
 `All papers read before the Society, and all manuscripts deposited by authors for publication or for other purposes, shall be at the disposal of the Board of Directors.`
 
-The same editorial notice says manuscripts intended for publication should be sent to the editor by a deadline; urgent papers could be sent and even set up before the meeting, or delivered ready for the printer immediately afterward.
+This is procedure evidence, not proof that Lovejoy deposited a manuscript.
 
-This is **institutional-procedure evidence**, not proof that Lovejoy deposited a manuscript. But it makes the Board of Directors / editor a direct custody target if a manuscript or abstract was actually deposited.
-
-### Corresponding Secretary's copy book
-
-In 1919 AOS proposed deleting from By-Law I the Corresponding Secretary's old duty to `keep, in a book provided for the purpose, a copy of his letters`. The fact that deletion was proposed in 1919 establishes that such a record-book requirement had existed; exact date of adoption and uninterrupted 1897 application still require constitution/by-law verification.
-
-### `manuscript books of record`
-
-The same 1919 notice records a motion by Charles R. Lanman:
+In 1919 AOS proposed deleting from By-Law I the Corresponding Secretary's old duty to `keep, in a book provided for the purpose, a copy of his letters`. The same 1919 notice records Lanman's resolution:
 
 `Resolved: That the proper repository of the manuscript books of record of the Society is the Society's Library.`
 
-This is the strongest custody clue yet: Society record books were understood as manuscript objects with an institutional repository, not merely as officers' private papers.
+The Society Library later merged into Yale University Library; current AOS/Yale guidance places printed material in Sterling and manuscripts in Beinecke. Therefore nineteenth-century AOS letter books, proceedings books, Directors' books, or other manuscript record books are now a primary Yale/Beinecke target if they survived.
 
-### Later repository path
+Assessment: **MAJOR CUSTODY-CHAIN UPGRADE; DO NOT INFER LOVEJOY MANUSCRIPT AT BEINECKE UNTIL ITEM-LEVEL EVIDENCE.**
 
-The American Oriental Society Library later merged into Yale University Library. Current AOS/Yale-facing guidance states that the collection's printed material is/was in Sterling Memorial Library and its **manuscripts are housed in Beinecke Rare Book and Manuscript Library**. A 1930 `Catalogue of the Library of the American Oriental Society` was published by Yale University Library.
+## Trace 8 — surviving AOS record-book / meeting-manuscript comparators
 
-Therefore the next specific archival hypothesis is:
+### `American Oriental Society Letter Book I`
 
-> if nineteenth-century AOS correspondence copy books, minute books, Directors record books, or deposited-paper registers survived as part of the Society Library, they may now be catalogued among AOS manuscript holdings at Yale/Beinecke, even if they are not exposed under a modern `American Oriental Society records` finding-aid title.
+Modern and older scholarship cite 1842-43 Salisbury/Freytag correspondence with the archival locator `American Oriental Society Letter Book 1` / `Letter Book I, Yale University Library`. This directly proves survival of at least one Society institutional letter book. Public searching has **not yet identified Letter Book II+ or a volume covering 1897**. Search failure is not archival absence.
 
-Do **not** infer that Lovejoy's manuscript itself is at Beinecke until an item/record is found.
+Assessment: **RECORD-BOOK CLASS DIRECTLY SURVIVES; 1897 DATE COVERAGE OPEN.**
 
-Assessment: **MAJOR CUSTODY-CHAIN UPGRADE / BEINECKE TARGET NOW PRIMARY.**
+### 1898 AOS meeting paper in personal papers
 
-Sources: AOS meeting circular restating By-Law V; *JAOS* 1919 Notes of the Society for the By-Law I amendment and Lanman manuscript-record-books resolution; current American Oriental Society Library description; 1930 Yale catalogue.
+Yale China Records Project RG 8, Box 26, folder 23 catalogs a 38-page handwritten 1898 manuscript, `The Worship of Heaven and Earth by the Emperor of China`, described as delivered to an AOS meeting and later published in JAOS 20 (1899): 58-69. This is a near-contemporary demonstration that an AOS meeting manuscript can survive in distributed personal/associated papers.
 
-## Trace 8 — surviving AOS record-book and meeting-manuscript comparators
+Assessment: **DIRECT DISTRIBUTED-CARRIER COMPARATOR.**
 
-Two concrete survivals materially improve the search model.
+## Trace 9 — Daniel Coit Gilman papers, JHU: major digitized host/officer carrier
 
-### `American Oriental Society Letter Book 1`
+`Daniel Coit Gilman papers`, MS-0001, Johns Hopkins Special Collections:
 
-Modern Yale-related scholarship cites letters from 1842 and 1843 with the archival locator **`American Oriental Society Letter Book 1` / `Letter Book I, Yale University Library`**. This establishes that at least one of the Society's institutional letter books survived and was available to researchers at Yale; it is no longer merely an inference from the By-Laws.
+- 45.9 cubic feet;
+- correspondence spans the period including Gilman's JHU presidency, 1876-1902;
+- finding aid describes wide-ranging correspondence with contemporary educators and scholars;
+- JHU's digitized view currently exposes **2636 digital records** from the collection.
 
-Current limit: no public search result has yet identified `Letter Book 2`, `3`, etc., or shown a volume covering 1897. Therefore do not project continuous survival from Book 1 to Oertel's 1897 correspondence book.
+Gilman was an institutional node for the Baltimore 1897 meeting. Public searching has not yet surfaced a Lovejoy-specific or AOS-submission item, so this is **not** a recovered trace of the paper. But unlike a generic personal-paper hypothesis, this is a large, substantially digitized correspondence corpus that can be attacked by name/date.
 
-Assessment: **DIRECT SURVIVAL OF THE RECORD-BOOK CLASS; 1897 COVERAGE OPEN.**
+Primary digital target window: March–April 1897; query `Lovejoy`, `Oertel`, `Lanman`, `Moore`, `Bloomfield`, `American Oriental Society`, `Baltimore`.
 
-### 1898 AOS meeting-paper manuscript in personal papers
+Finding aid: `https://aspace.library.jhu.edu/repositories/3/resources/1045`
+Digitized corpus: `https://aspace.library.jhu.edu/repositories/3/resources/1045/digitized`
 
-Yale's China Records Project miscellaneous personal papers, RG 8, Box 26, folder 23, catalogs a 38-page handwritten manuscript from 1898, `The Worship of Heaven and Earth by the Emperor of China`, explicitly described as a paper delivered to a meeting of the American Oriental Society at Hartford and later published in *JAOS* 20 (1899), 58-69.
+Assessment: **HIGH-VALUE DIGITAL CARRIER; NO LOVEJOY ITEM YET RECOVERED.**
 
-This is an important near-contemporary comparator: an AOS meeting paper could survive outside the Society's central record books, in the author's or associated personal papers. It therefore supports a **distributed-carrier search strategy** for Lovejoy without implying that his manuscript followed the same path.
+## Trace 10 — Wilson MS-0873: cross-repository chronological shortcut to 1897
 
-Assessment: **DIRECT NEAR-CONTEMPORARY CARRIER-BEHAVIOR COMPARATOR.**
+`Daniel J. Wilson transcriptions of Arthur O. Lovejoy letters`, JHU MS-0873, Box 1, is now one of the strongest actionable targets.
 
-### 1896 constitutional text immediately before Lovejoy's submission
+Wilson's own collection description states that while researching Lovejoy he typed **all letters he thought might be significant**; the result is five binders arranged chronologically, 1872-1962. Most professional correspondence begins in **1894**. Originals came mostly from JHU but also from **Harvard, Stanford, Washington University, and other repositories/colleagues**. The collection is about 500 items / 1.25 cubic feet. Wilson warns that transcript errors are possible and originals must control final quotation.
 
-*JAOS* 17 (1896), pp. 201-203, contains the Society's `Constitution and By-Laws of the American Oriental Society`. This is the correct immediate pre-1897 legal-procedural witness for checking the Corresponding Secretary's record-book duty and Board-of-Directors manuscript custody. April 1897 amendments must be checked separately before claiming exact continuity through the Lovejoy meeting.
+This means the requestable target is not “all Lovejoy correspondence” but:
 
-Assessment: **PRIMARY PROCEDURAL WITNESS LOCATED; EXACT ARTICLE/BY-LAW COLLATION PENDING.**
+> **MS-0873, Box 1 — chronological tranche covering 1894–1898, with concentrated inspection around 10–24 Apr 1897.**
 
-## Corporate-records status
+Search terms/names: `American Oriental Society`, `AOS`, `Milinda`, `Pali/Pāli`, `Buddhist`, `upādāna`, `Lanman`, `Oertel`, `Moore`, `Gilman`, `Baltimore`.
 
-A direct public finding aid titled as an AOS corporate archive preserving 1897 submissions has **not yet been located**. Yale administrative records show a later `YRG 37 American Oriental Society` records-management survey (1978-1980), which establishes an institutional relationship but does not itself identify nineteenth-century corporate records. Yale also describes legacy holdings containing personal papers of members of the AOS; this again is not a corporate archive.
+Repository audit found no already-extracted 1897 Wilson transcription in the current GitHub corpus. Existing frozen Batch 182 had independently identified the 1894–1898 tranche as a high-value target; that remains audit trail, not authority.
 
-The search should distinguish sharply between:
+Finding aid: `https://aspace.library.jhu.edu/repositories/3/resources/1465`
 
-1. AOS **corporate/administrative records**;
-2. the AOS **library/manuscript collections** at Yale/Beinecke;
-3. **personal papers of AOS officers / authors / recipients**.
+Assessment: **TOP-TIER CORRESPONDENCE TARGET; SECONDARY ARCHIVAL WITNESS UNTIL ORIGINALS VERIFIED.**
 
-The record-book and 1898 manuscript comparators show that both (2) and (3) are empirically productive carrier classes.
+## Trace 11 — Addison Van Name: obvious Yale collection de-prioritized
+
+The readily discoverable `Gibbs-Van Name Papers`, GEN MSS 83, is mainly a Ralph Gibbs Van Name / Josiah Willard Gibbs publishing-family collection, not a coherent Addison Van Name professional/AOS archive. Finding-aid level inspection gives an Addison Van Name file only as `1906, n.d.` and no `American Oriental Society` hit.
+
+This does **not** prove that Addison's AOS/librarian papers are lost or absent elsewhere at Yale. It only removes GEN MSS 83 from the front rank for the 1897 search.
+
+Assessment: **NEGATIVE NARROWING / DE-PRIORITIZE THIS COLLECTION.**
+
+## Trace 12 — record-book classes immediately around the Lovejoy meeting
+
+The correct procedural witness immediately before the Lovejoy communication is `Constitution and By-Laws of the American Oriental Society`, JAOS 17 (1896): 201-203. Exact 1896 page-level collation remains pending, as do any April 1897 amendments.
+
+Official AOS constitutional printing from the adjacent period explicitly requires the Recording Secretary to keep proceedings `in a book provided for the purpose`; the 1919 amendment notice independently proves a corresponding-secretary letter-copy-book requirement existed before its proposed deletion. Together with Lanman's 1919 `manuscript books of record` resolution, the concrete record classes to request/search are now:
+
+1. Corresponding Secretary **letter/copy book**;
+2. Recording Secretary **proceedings/minute book**;
+3. Directors' **record book / Scribe's records**;
+4. editor / Board of Editors manuscript-handling records;
+5. deposited manuscripts / submission registers, if separately retained.
+
+Do not claim that every class survives to 1897 until catalog or physical evidence fixes date coverage.
+
+Assessment: **SEARCH VOCABULARY UPGRADED FROM GENERIC `AOS RECORDS` TO SPECIFIC MANUSCRIPT BOOK CLASSES.**
+
+## Distributed-carrier control
+
+A separate recipient-paper example strengthens this method: Henry Charles Lea's papers at Penn include `American Oriental Society, letters to Lea (7 items), 1898-1910`. Thus AOS correspondence can survive in recipient personal papers even when a central corporate sequence is difficult to locate.
+
+Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 
 ## Current carrier ranking
 
-1. **Yale/Beinecke AOS manuscript holdings:** identify the sequence and date coverage of `American Oriental Society Letter Book` volumes; also search manuscript books of record, minutes, Directors records, editor records, registers, 1897.
-2. AOS submitted-paper / correspondence / minutes / editorial / Directors records under any separate corporate record group if extant.
-3. Lovejoy MS-0038 correspondence index: query `Lanman`, `Oertel`, `Moore`, `Warren`, AOS, Milinda, April 1897.
-4. Oertel MS 590, Box 3, Folder 56 (`I-R`, especially undated material).
-5. Lanman HUG 4510.xx: correspondence plus `HUG 4510.20` engagement calendar for April 1897; check student/colleague correspondence explicitly.
-6. Harvard History of Religions Club central records `HUD 3454.xx` plus Lyon papers Box 16 `Harvard History of Religions Club, 1891-1923`.
-7. Other 1897 AOS officers/hosts as distributed personal-paper carriers, especially Daniel Coit Gilman, Henry Clarke Warren, Addison Van Name, and George Foot Moore.
-8. Harvard Graduate Philosophical Society records/programs, searched for exact Lovejoy objects rather than broad influence claims.
+1. **JHU MS-0873 Box 1, 1894–1898 chronological tranche**, especially 10–24 Apr 1897.
+2. **Yale/Beinecke AOS manuscript books of record**: identify Letter Book sequence/date ranges; proceedings/minute books; Directors records; editor records; registers.
+3. **JHU Gilman MS-0001 digitized correspondence**, March–April 1897 and named AOS officers.
+4. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
+5. Oertel MS 590 Box 3 Folder 56, especially undated I–R material.
+6. Lanman HUG 4510.xx, especially `HUG 4510.20` April 1897 engagement calendar and student/colleague correspondence.
+7. Harvard History of Religions Club `HUD 3454.xx` + Lyon Box 16.
+8. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
+9. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
 
-Next search: establish the surviving AOS Letter Book sequence/date ranges; attack Daniel Coit Gilman and Addison Van Name personal/institutional papers; verify the 1896 By-Laws against April 1897 amendments.
+## Current judgment
+
+**The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to three physically and procedurally defined routes:
+
+`AOS manuscript record books at Yale/Beinecke`
+
++ `Wilson MS-0873 chronological 1894–1898 correspondence aggregate`
+
++ `Gilman MS-0001 digitized host/officer correspondence corpus`.
+
+The next decisive result would be an item-level hit in any of those routes. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
