@@ -1,15 +1,15 @@
 # `research_notes/` — routing and provenance map
 
-Date: 2026-09-03  
+Date: 2026-09-04  
 Status: **DIRECTORY INDEX / NOT A SECOND CURRENT-STATE FILE**
 
 `research_notes/` is intentionally a large provenance layer. It contains terminal dossiers, matrices, source-collation notes, writing artifacts, comparative controls, and historical batch/process records. It remains physically flat for path stability, but it is not flat in authority.
 
 Use the living root files first:
 
-- `../CURRENT_STATE.md` — current open/closed state and active tracks;
+- `../CURRENT_STATE.md` — current open/closed/frozen state and active tracks;
 - `../CANONICAL_INDEX.md` — authoritative file routing;
-- `../PROJECT_ARGUMENT_MAP.md` — historical argument architecture;
+- `../PROJECT_ARGUMENT_MAP.md` — Lovejoy-centered historical argument architecture;
 - `../TRANSCRIPTION_COMPLETION_QUEUE.md` — diplomatic/image queue;
 - `../QUELLENFORSCHUNG_CURRENT_GATE.md` — source-critical evidence rules.
 
@@ -66,19 +66,17 @@ Use:
 - `Brinton_Boston_1896_97_Harvard_history_of_religions_local_infrastructure_2026-08-31.md`;
 - `MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`.
 
-Course availability, enrollment/grades, teacher relation, institutional proximity, attendance, private reading, and method transmission are separate propositions.
+Course availability, enrollment/grades, teacher relation, institutional proximity, attendance, private reading, and method transmission are separate propositions. Infrastructure files do not license revival of abandoned conceptual comparisons.
 
-## 2. Active `primitive` / chronology argument cluster
+## 2. Lovejoy-local argument cluster
 
-This is a first-class active branch. Read in this order:
+Read Lovejoy-local argument files only when they bear directly on a live proposition:
 
 1. `lovejoy_005_primitive_as_relational_strata_non_synchronized_chronology_batch208.md`
 2. `lovejoy_004_005_chronological_nonisomorphism_relational_time_batch209.md`
 3. `lovejoy_1906_primitive_predicate_topology_reaggregation_batch210.md`
 4. `lovejoy_004_005_reattribution_endpoint_matrix_batch212.md`
 5. `lovejoy_1897_title_contraction_to_1906_relational_scale_control_batch221.md`
-6. `brinton_1897_primitive_dechronologization_population_resynchronization_batch222.md`
-7. `boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
 
 Supporting consolidations:
 
@@ -86,13 +84,7 @@ Supporting consolidations:
 - `004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`
 - `1906_primitive_energetics_reception_transformation_consolidated.md`
 
-Current compact control:
-
-> **Brinton = stage-first synchronization.**  
-> **Boas = process-first comparability.**  
-> **Lovejoy = relation-first reaggregation.**
-
-Do not confuse project vocabulary with actors' vocabulary or structural control with influence.
+The former cross-actor `primitive` triangle, including Batches 222 and 223, is **FROZEN / NOT ROUTED / NOT FOR PRODUCTION OR NEXT-STEP WORK**. It is retained only as historical research provenance. Do not cite, extend, summarize, or use it as a control framework.
 
 ## 3. JHI Blog production
 
@@ -106,6 +98,8 @@ Current writing authority:
 6. `JHI_blog_image_caption_permission_plan_2026-08-29.md`
 
 Status: **production HOLD**. v3.7 is the current notebook-guide / Quellenkritik-calibrated Markdown draft at 2,366 body words. Earlier clean drafts, skeletons, logs, and draft architectures are process provenance unless routed from the living root files. The generated DOCX remains v3.3 until a separate production pass.
+
+The frozen cross-actor `primitive` comparison is excluded from production text.
 
 ## 4. Comparative method controls
 
@@ -122,7 +116,7 @@ General controls:
 
 **Start and normally stop at:** `martin_guerre_21c_readme.md`.
 
-That file is the integrated synthesis and routes the underlying source-level controls on identification, reference-state manufacture, historical addressability, book/film/stage proof burdens, and the 2026–27 event-bound reopen gates. The cluster is comparative-method provenance only. It is not part of the Lovejoy archival chain, the `primitive` evidence chain, or a claim of shared genealogy.
+That file is the integrated synthesis and routes the underlying source-level controls on identification, reference-state manufacture, historical addressability, book/film/stage proof burdens, and the 2026–27 event-bound reopen gates. The cluster is comparative-method provenance only. It is not part of the Lovejoy archival chain or a claim of shared genealogy.
 
 ## 5. Process provenance
 
