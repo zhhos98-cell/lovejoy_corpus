@@ -155,6 +155,67 @@ Do not claim that every class survives to 1897 until catalog or physical evidenc
 
 Assessment: **SEARCH VOCABULARY UPGRADED FROM GENERIC `AOS RECORDS` TO SPECIFIC MANUSCRIPT BOOK CLASSES.**
 
+## Trace 13 — direct 1897 title-submission route to Hanns Oertel
+
+The 18 Mar 1897 AOS Preliminary Circular now fixes the first administrative hop at actor-and-address level. It tells members intending to offer communications to send **their names and the titles of their papers at once** to the undersigned at:
+
+`31 York Square, New Haven, Conn.`
+
+The circular is signed by **Hanns Oertel, Acting Corresponding Secretary**. The 10 Apr Final Circular then prints Lovejoy's `Critical summary of the argument of the Milinda-pañha`.
+
+Consequences:
+
+- Lovejoy's announced title was not merely generated retrospectively by the Proceedings; under the Society's stated 1897 submission procedure, a title notice should have reached Oertel before the final circular was compiled.
+- This makes Oertel the **documented procedural recipient for the title-submission stage**, not merely an institutionally proximate officer.
+- It does **not** prove Lovejoy sent Oertel a full manuscript, abstract, or cover letter; the preliminary circular asks for name + title, not the paper text.
+- Therefore Oertel MS 590 remains a sharply defined target for a title notice / cover note / later correction, especially undated `I-R`, while a full paper must still be searched through Directors/editorial/deposit routes independently.
+
+Primary source: American Oriental Society, `Preliminary Circular, dated March 18, 1897`, University of Chicago Library circular file, `https://www.lib.uchicago.edu/ead/pdf/ofcpreshjb-0007-013.pdf`.
+
+Assessment: **DIRECT PROCEDURAL TRACE UPGRADE; TITLE-SUBMISSION ROUTE SECURE, FULL-MANUSCRIPT ROUTE NOT ESTABLISHED.**
+
+## Trace 14 — By-Law V continuity: exact 1897 wording remains a deliberate HOLD
+
+The custody rule can now be calibrated more tightly without overclaiming:
+
+- JAOS 17 (1896) contains an official `Constitution and By-Laws of the American Oriental Society`, pp. 201-203.
+- Official AOS procedural material in the adjacent period gives By-Law V in the form: `All papers read before the Society, and all manuscripts deposited by authors for publication or for other purposes, shall be at the disposal of the Board of Directors.`
+- JAOS 18 (1897), the same volume that contains the Baltimore Proceedings, also prints `Constitution and By-Laws of the American Oriental Society` immediately after the Proceedings (JSTOR stable 592309).
+- Direct retrieval/collation of the 1897 Constitution pages has so far failed through the available JSTOR text/PDF path. Search also has not yet established whether any 1897 amendment touched By-Law V.
+- A later constitutional printing independently preserves the related duty that the Recording Secretary keep proceedings `in a book provided for the purpose`; the 1919 amendment notice independently confirms an older Corresponding Secretary letter-copy-book duty.
+
+Rule for this project: **do not write `1897 By-Law V exact wording verified` until the 1897 Constitution pages themselves are visually or textually collated, or until an amendment audit demonstrates the 1896 wording carried unchanged through 1897.** The custody model is strongly supported by adjacent official witnesses; exact-date diplomatic verification remains open.
+
+Relevant public carriers: JAOS 17 (1896) Constitution and By-Laws, JSTOR stable 592503; JAOS 18 (1897) Constitution and By-Laws, JSTOR stable 592309; University of Chicago AOS circular file.
+
+Assessment: **CONTINUITY STRONG / 1897 EXACT-TEXT HOLD.**
+
+## Trace 15 — Gilman MS-0001 search reduced from corpus-scale to correspondent-scale
+
+The Daniel Coit Gilman carrier can now be attacked more efficiently:
+
+- the current JHU finding aid identifies `Daniel Coit Gilman papers`, MS-0001, and exposes 2636 digitized records;
+- an ArchiveGrid description of the same JHU collection describes Series 1 as **correspondence arranged alphabetically by correspondent, 1842-1907**;
+- JHU's current collection record explicitly associates **Charles Rockwell Lanman** and **Maurice Bloomfield** with MS-0001;
+- JHU also states elsewhere that official University records from Gilman's presidency were often so intermingled with his personal papers that the Gilman papers remained intact in Special Collections.
+
+This changes the practical search from `scan March-April 1897 across 2636 records` to a two-axis attack:
+
+1. correspondent/folder axis: `Lovejoy`, `Lanman`, `Oertel`, `Moore`, `Bloomfield`, plus organizational AOS headings;
+2. date axis inside any matching folder: March-April 1897, especially 18 Mar–24 Apr.
+
+Current web/index searching has still produced **no item-level Lovejoy/Oertel/AOS submission hit** in MS-0001. `Lanman` being an associated name proves collection presence, not a 1897 AOS communication.
+
+Sources: JHU MS-0001 finding aid `https://aspace.library.jhu.edu/repositories/3/resources/1045`; ArchiveGrid component `48134620`; JHU `Johns Hopkins University collection` description of Gilman-era official/personal records.
+
+Assessment: **SEARCH-SPACE REDUCTION / NO PAPER TRACE YET.**
+
+## Negative control — misleading Open Library / Internet Archive volume metadata
+
+Public discovery for Internet Archive identifier `journalamerican18socigoog` is unreliable for this task: Open Library metadata can present it in a way suggestive of JAOS volume 18, while inspection of the scan/text route exposes content beginning with the **Fourth Volume (1854)**. Do not use this identifier as the 1897 volume witness without independent page-level verification.
+
+Assessment: **DE-PRIORITIZE THIS DIGITAL CARRIER; PREVENT FALSE 1897 COLLATION.**
+
 ## Distributed-carrier control
 
 A separate recipient-paper example strengthens this method: Henry Charles Lea's papers at Penn include `American Oriental Society, letters to Lea (7 items), 1898-1910`. Thus AOS correspondence can survive in recipient personal papers even when a central corporate sequence is difficult to locate.
@@ -165,9 +226,9 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 
 1. **JHU MS-0873 Box 1, 1894–1898 chronological tranche**, especially 10–24 Apr 1897.
 2. **Yale/Beinecke AOS manuscript books of record**: identify Letter Book sequence/date ranges; proceedings/minute books; Directors records; editor records; registers.
-3. **JHU Gilman MS-0001 digitized correspondence**, March–April 1897 and named AOS officers.
-4. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
-5. Oertel MS 590 Box 3 Folder 56, especially undated I–R material.
+3. **Oertel MS 590 Box 3 Folder 56**, especially undated I-R material: now a direct procedural title-submission recipient target, while full-manuscript custody remains unproven.
+4. **JHU Gilman MS-0001 correspondence**, attacked by correspondent first and March-April 1897 second.
+5. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
 6. Lanman HUG 4510.xx, especially `HUG 4510.20` April 1897 engagement calendar and student/colleague correspondence.
 7. Harvard History of Religions Club `HUD 3454.xx` + Lyon Box 16.
 8. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
@@ -175,12 +236,14 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 
 ## Current judgment
 
-**The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to three physically and procedurally defined routes:
+**The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to physically and procedurally defined routes:
 
-`AOS manuscript record books at Yale/Beinecke`
+`Oertel = documented 1897 title-submission recipient`
+
++ `AOS manuscript record books / deposited-manuscript custody chain at Yale/Beinecke`
 
 + `Wilson MS-0873 chronological 1894–1898 correspondence aggregate`
 
-+ `Gilman MS-0001 digitized host/officer correspondence corpus`.
++ `Gilman MS-0001 correspondent-level host/officer corpus`.
 
 The next decisive result would be an item-level hit in any of those routes. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
