@@ -91,7 +91,7 @@ Consequence: do **not** model the lost submission as having only one probable pa
 
 Assessment: **INSTITUTIONAL CARRIER MAP UPGRADE; NO MANUSCRIPT RECOVERED.**
 
-Primary source: AOS Final Circular, 10 Apr 1897, University of Chicago Library circular file.
+Primary source: AOS Final Circular, 10 Apr 1897, University of Chicago Library circular file; direct image checked in the source PDF.
 
 ## Trace 6 — George Foot Moore survival check
 
@@ -101,26 +101,67 @@ Houghton Library's `Autograph File, M` is described as containing single letters
 
 Assessment: **PUBLIC FINDING-AID DEAD END FOR A COHERENT 1897 MOORE SECRETARY FILE; FRAGMENTARY CHECK REMAINS POSSIBLE.**
 
+## Trace 7 — AOS internal custody rules and the Society Library
+
+This materially sharpens the corporate-record search.
+
+### Deposited/read papers
+
+A later AOS annual-meeting circular, while restating an existing By-Law V, quotes the rule:
+
+`All papers read before the Society, and all manuscripts deposited by authors for publication or for other purposes, shall be at the disposal of the Board of Directors.`
+
+The same editorial notice says manuscripts intended for publication should be sent to the editor by a deadline; urgent papers could be sent and even set up before the meeting, or delivered ready for the printer immediately afterward.
+
+This is **institutional-procedure evidence**, not proof that Lovejoy deposited a manuscript. But it makes the Board of Directors / editor a direct custody target if a manuscript or abstract was actually deposited.
+
+### Corresponding Secretary's copy book
+
+In 1919 AOS proposed deleting from By-Law I the Corresponding Secretary's old duty to `keep, in a book provided for the purpose, a copy of his letters`. The fact that deletion was proposed in 1919 establishes that such a record-book requirement had existed; exact date of adoption and uninterrupted 1897 application still require constitution/by-law verification.
+
+### `manuscript books of record`
+
+The same 1919 notice records a motion by Charles R. Lanman:
+
+`Resolved: That the proper repository of the manuscript books of record of the Society is the Society's Library.`
+
+This is the strongest custody clue yet: Society record books were understood as manuscript objects with an institutional repository, not merely as officers' private papers.
+
+### Later repository path
+
+The American Oriental Society Library later merged into Yale University Library. Current AOS/Yale-facing guidance states that the collection's printed material is/was in Sterling Memorial Library and its **manuscripts are housed in Beinecke Rare Book and Manuscript Library**. A 1930 `Catalogue of the Library of the American Oriental Society` was published by Yale University Library.
+
+Therefore the next specific archival hypothesis is:
+
+> if nineteenth-century AOS correspondence copy books, minute books, Directors record books, or deposited-paper registers survived as part of the Society Library, they may now be catalogued among AOS manuscript holdings at Yale/Beinecke, even if they are not exposed under a modern `American Oriental Society records` finding-aid title.
+
+Do **not** infer that Lovejoy's manuscript itself is at Beinecke until an item/record is found.
+
+Assessment: **MAJOR CUSTODY-CHAIN UPGRADE / BEINECKE TARGET NOW PRIMARY.**
+
+Sources: AOS meeting circular restating By-Law V; *JAOS* 1919 Notes of the Society for the By-Law I amendment and Lanman manuscript-record-books resolution; current American Oriental Society Library description; 1930 Yale catalogue.
+
 ## Corporate-records status
 
-A direct public finding aid for an AOS corporate archive preserving 1897 submissions has **not yet been located**. Yale administrative records show a later `YRG 37 American Oriental Society` records-management survey (1978-1980), which establishes an institutional relationship but does not itself identify nineteenth-century corporate records. Yale also describes legacy holdings containing personal papers of members of the AOS; this again is not a corporate archive.
+A direct public finding aid titled as an AOS corporate archive preserving 1897 submissions has **not yet been located**. Yale administrative records show a later `YRG 37 American Oriental Society` records-management survey (1978-1980), which establishes an institutional relationship but does not itself identify nineteenth-century corporate records. Yale also describes legacy holdings containing personal papers of members of the AOS; this again is not a corporate archive.
 
 The search should distinguish sharply between:
 
 1. AOS **corporate/administrative records**;
-2. the AOS **library/manuscript collections** at Yale;
+2. the AOS **library/manuscript collections** at Yale/Beinecke;
 3. **personal papers of AOS officers**.
 
-Only (1) or officer papers with retained administrative files would directly answer the submission-carrier question.
+The new 1919 evidence makes (2) potentially relevant to corporate records because AOS itself designated its Library as the repository for manuscript books of record.
 
 ## Current carrier ranking
 
-1. AOS submitted-paper / correspondence / minutes / editorial / Directors records, if extant.
-2. Lovejoy MS-0038 correspondence index: query `Lanman`, `Oertel`, `Moore`, `Warren`, AOS, Milinda, April 1897.
-3. Oertel MS 590, Box 3, Folder 56 (`I-R`, especially undated material).
-4. Lanman HUG 4510.xx: correspondence plus `HUG 4510.20` engagement calendar for April 1897; check student/colleague correspondence explicitly.
-5. Harvard History of Religions Club central records `HUD 3454.xx` plus Lyon papers Box 16 `Harvard History of Religions Club, 1891-1923`.
-6. George Foot Moore fragmentary survivals / any Andover-era personal papers if a coherent collection can be located.
-7. Harvard Graduate Philosophical Society records/programs, searched for exact Lovejoy objects rather than broad influence claims.
+1. **Yale/Beinecke AOS manuscript holdings:** search specifically for manuscript books of record, letter/correspondence books, minutes, Directors records, editor records, registers, 1897.
+2. AOS submitted-paper / correspondence / minutes / editorial / Directors records under any separate corporate record group if extant.
+3. Lovejoy MS-0038 correspondence index: query `Lanman`, `Oertel`, `Moore`, `Warren`, AOS, Milinda, April 1897.
+4. Oertel MS 590, Box 3, Folder 56 (`I-R`, especially undated material).
+5. Lanman HUG 4510.xx: correspondence plus `HUG 4510.20` engagement calendar for April 1897; check student/colleague correspondence explicitly.
+6. Harvard History of Religions Club central records `HUD 3454.xx` plus Lyon papers Box 16 `Harvard History of Religions Club, 1891-1923`.
+7. George Foot Moore fragmentary survivals / any Andover-era personal papers if a coherent collection can be located.
+8. Harvard Graduate Philosophical Society records/programs, searched for exact Lovejoy objects rather than broad influence claims.
 
-Next search: identify the surviving AOS corporate-record chain; search Henry Clarke Warren and any Moore/Andover personal-paper carriers; reduce Lanman/student correspondence and Club records to requestable units; continue name-level attack on Wilson/JHU correspondence index.
+Next search: attack Yale/Beinecke AOS manuscript catalog for `record book`, `letter book`, `correspondence`, `minutes`, `directors`, `secretary`, and dates around 1897; separately verify the historical by-law text in force in 1897.
