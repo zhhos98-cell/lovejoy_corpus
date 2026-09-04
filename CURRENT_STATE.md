@@ -2,7 +2,7 @@
 
 Last synchronized: 2026-09-04
 
-Status: **CORE LOVEJOY WORK ACTIVE / COMPARATIVE `PRIMITIVE` TRIANGLE FROZEN**
+Status: **CORE LOVEJOY WORK ACTIVE / PRE-1898 BUDDHIST OUTPUT SEARCH ACTIVE / COMPARATIVE `PRIMITIVE` TRIANGLE FROZEN**
 
 This is the repository's single living state file. Historical status language elsewhere does not override it.
 
@@ -22,7 +22,8 @@ Current state:
 - MS38_004: 71/71 first-pass pages; high-value clause ownership closed for the present argument; diplomatic residue remains.
 - MS38_005: 120/120 first-pass pages; broad source ownership closed; targeted adjudication through Round 37; diplomatic transcription incomplete.
 - notebook-to-1898 concordance: 191/191 pages classified.
-- AOS 1897: direct-primary closure.
+- AOS 1897 attendance/election/read-by-title status: direct-primary closure.
+- AOS 1897 No. 30 title content: upgraded 2026-09-04 to `upādāna / upādāna-kkhandhā` at normalized content level; exact printed diacritics/ending remain visual HOLD.
 - MS0873 France 1898–99: Wilson archival-transcription direct read closed; autograph verification not claimed.
 - JHU MS0038 digitization: formal quotes pending.
 
@@ -52,6 +53,42 @@ The valid Lovejoy-local methodological control remains:
 
 Use that only where the notebook or publication evidence supports it directly.
 
+### Track C — unknown pre-1898 Buddhist papers / reports / communications
+
+This track is now active and narrowly defined. It is not a general history-of-Buddhism or comparative-actor sweep.
+
+Controlling new note:
+
+- `research_notes/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`
+
+Current strongest result:
+
+`10 Apr 1897 — Critical summary of the argument of the Milinda-pañha`
+
+→ `22–24 Apr 1897 — On the meaning of the Buddhist technical terms [upādāna] and [upādāna-kkhandhā]` **(normalized content recovery; exact printed form visual HOLD)**
+
+→ `1898 — The Buddhistic technical terms upādāna and upādisesa`.
+
+The second technical term changes between the late-April 1897 meeting state and the 1898 publication state. Therefore the 1897 communication must be treated as a distinct documentary/problem state, not as the 1898 title with missing words silently restored.
+
+Current search class:
+
+- announced papers;
+- papers read by title;
+- submitted abstracts/manuscripts/title slips;
+- graduate-society addresses/discussions;
+- secretary reports/minutes;
+- course or seminar exercises only when they can be tied to a concrete Lovejoy-authored object;
+- standalone pamphlets/stenographic or club print carriers.
+
+Highest-value carrier targets:
+
+1. AOS 1897 No. 30 manuscript/abstract/title-slip/secretary/directors records under both known title states;
+2. Lovejoy correspondence, especially 10–24 Apr 1897;
+3. Graduate Philosophical Society of Harvard minutes/programs for 1896–97. Wilson explicitly used these minutes; Lovejoy served as secretary and led at least one discussion. Audit for concrete Lovejoy titles involving Buddhism, Pāli, India, Sāṃkhya, Nirvāṇa, dependent origination, Milinda, or technical terms.
+
+Institutional proximity is not evidence of attendance, uptake, or influence.
+
 ## 2. Governing firewalls
 
 - `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
@@ -62,6 +99,8 @@ Use that only where the notebook or publication evidence supports it directly.
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
+- `INDEXED OCR CONTENT RECOVERY != DIPLOMATIC TITLE TRANSCRIPTION`.
+- `INSTITUTIONAL CARRIER EXISTENCE != LOVEJOY AUTHORSHIP`.
 - `RELATIONAL DECOMPOSITION != NECESSARY ANTI-TOTALIZATION`.
 - `CALENDAR CONTEMPORANEITY != EQUAL DEVELOPMENTAL POSITION`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
@@ -83,6 +122,8 @@ Current argument-level rule:
 
 This supports separation of temporal, logical, semantic, causal, genealogical, and functional warrants. Do not turn recurrence of this operation into an origin or priority claim.
 
+For the 1897 No. 30 search, the especially relevant 004 cluster is the sustained `upādāna / upādānakkhandha` problem around pp. 47–70. Similarity of object does not establish draft identity.
+
 ## 4. Notebook 005 — source-critical ceiling
 
 Strong secure Lovejoy-local relations remain concentrated at:
@@ -100,8 +141,9 @@ The notebook does not originate the component theory of impersonal efficacy. It 
 
 ## 5. AOS 1897 / publication path
 
-Controlling dossier:
+Current title-state authority:
 
+- `research_notes/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`
 - `research_notes/AOS_1897_Lovejoy_election_read_by_title_and_technical_terms_precursor_2026-09-01.md`
 
 Closed facts:
@@ -116,11 +158,11 @@ Public title path:
 
 `Critical summary of the argument of the Milinda-pañha`
 
-→ `On the meaning of the Buddhist technical terms ...`
+→ `On the meaning of the Buddhist technical terms [upādāna] and [upādāna-kkhandhā]` **(normalized from indexed OCR; exact typography HOLD)**
 
 → 1898 `The Buddhistic technical terms upādāna and upādisesa`.
 
-Interpretive ceiling: strong publication-path scale contraction; manuscript identity remains unproved.
+Interpretive ceiling: direct evidence of changing public research objects; manuscript identity and exact content continuity remain unproved.
 
 ## 6. Paris / formation
 
@@ -143,13 +185,14 @@ Status: production HOLD. v3.7 is the current notebook-guide / Quellenkritik-cali
 
 Public architecture: notebooks 004 and 005 are the organizing spine; source ownership, witness state, material layers, and authorial seams are explained in the body; 1902/1906 and *Great Chain* function as exits and scale controls rather than the essay's main trajectory.
 
-The frozen comparative `primitive` triangle must not be imported into JHI or other production text.
+The frozen comparative `primitive` triangle must not be imported into JHI or other production text. The 2026-09-04 AOS title recovery is research-state evidence and does not automatically enter the held JHI draft.
 
 ## 8. Default continuation rule
 
 If the user says `continue` without specifying a branch:
 
 - after manuscript/source discussion → continue Track A;
+- after pre-1898 Buddhism / unknown paper/report / AOS 1897 discussion → continue Track C and search intermediate institutional carriers;
 - after chronology, politics, notebooks 004/005, 1897–98, or 1906 discussion → continue from direct Lovejoy-local evidence only;
 - after Blog discussion → continue JHI production branch;
 - after Paris/actor discussion → continue MS0873/formation branch.
@@ -164,12 +207,14 @@ Do not automatically open comparative actor sweeps. Do not reopen the frozen Bri
 2. Otherwise stop generic 005 source search and wait for direct images for the remaining diplomatic seams.
 3. Regenerate integrated transcription only after canonical page records change.
 
-### Lovejoy-local argument work
+### Unknown pre-1898 Buddhist outputs
 
-1. Work only from direct Lovejoy notebooks, publications, correspondence/archival witnesses, and source-specific provenance already required by a live proposition.
-2. Keep the 1897–98 publication-path problem, Paris formation, notebook proof architecture, and 1902/1906 exits separable.
-3. Do not use the frozen comparative triangle or generate replacement cross-actor typologies.
+1. Recover a visual image of JAOS 18 Proceedings p.389 / No.30 to close exact orthography of the `upādāna / upādāna-kkhandhā` title.
+2. Search AOS archival/secretarial carriers under both 10 Apr and 22–24 Apr title states for a submitted abstract, manuscript, title slip, or contents statement.
+3. Audit Graduate Philosophical Society of Harvard 1896–97 minutes/programs for concrete Lovejoy-authored titles; do not broaden into generic Harvard intellectual ecology.
+4. Search Lovejoy correspondence around the April 1897 title change.
+5. Keep ordinary bibliography sweep low priority: Wilson's normal publication sequence already jumps from 1896 `Some Harvard Notes` to the 1898 Buddhist article, making semi-public institutional carriers the more plausible location of unknown pre-1898 Buddhist outputs.
 
 ## Restart shorthand
 
-> **Core Lovejoy work remains active. Archive track: 004 argument control closed; 005 broad source ownership closed through Round 37, p.117 sole major source/version HOLD, remaining image/diplomatic seams listed above. Lovejoy-local argument work may continue from direct evidence. The former Brinton–Boas–Lovejoy `primitive` comparison is frozen, excluded from production, and not a continuation route. JHI Blog writing authority is v3.7, recentered as a notebook guide with Quellenkritik in the body at 2,366 body words. Use `PROJECT_ARGUMENT_MAP.md` for Lovejoy-local argument routing and `CANONICAL_INDEX.md` for file authority.**
+> **Core Lovejoy work remains active. A new Track C targets unknown pre-1898 Buddhist communications in intermediate carriers. The 1897 AOS title chain is now Milinda-pañha → normalized `upādāna / upādāna-kkhandhā` → 1898 `upādāna / upādisesa`; exact 1897 typography and manuscript continuity remain HOLD. Graduate Philosophical Society 1896–97 minutes/programs and AOS submission records are the highest-value next carriers. Archive track remains separately active. The former Brinton–Boas–Lovejoy `primitive` comparison is frozen, excluded from production, and not a continuation route.**
