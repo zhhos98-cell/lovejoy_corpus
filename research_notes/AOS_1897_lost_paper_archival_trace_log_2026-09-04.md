@@ -210,6 +210,84 @@ Sources: JHU MS-0001 finding aid `https://aspace.library.jhu.edu/repositories/3/
 
 Assessment: **SEARCH-SPACE REDUCTION / NO PAPER TRACE YET.**
 
+## Trace 16 — 23 Mar 1897 Gilman→Langley letter: distributed pre-meeting carrier comparator
+
+A two-page Daniel Coit Gilman letter to Samuel P. Langley, dated **Baltimore, 23 Mar 1897**, survives at least through a documented autograph-market chain. The Heritage Auctions description transcribes Gilman as proposing that a matter involving cataloguing Egyptian antiquities be brought before the American Oriental Society because the Society, `of which I am President`, would hold a three-day session in Baltimore, **22–24 Apr 1897**.
+
+Use of this witness is narrow:
+
+- it directly demonstrates that Gilman was conducting substantive correspondence about routing matters into the upcoming Baltimore AOS meeting one month before it;
+- it independently demonstrates survival of 1897 AOS-meeting administrative/intellectual traffic as ordinary external correspondence outside a central Society archive;
+- it does **not** mention Lovejoy and gives no evidence that Gilman handled Lovejoy's title, manuscript, or revision;
+- the accessible text is an auction-house transcription/description of the letter, not a repository-controlled diplomatic transcription.
+
+Source: Heritage Auctions, lot 47745, `Daniel Gilman Letter Signed`, sold 19 May 2021.
+
+Assessment: **DIRECT DISTRIBUTED-CARRIER COMPARATOR / NO LOVEJOY TRACE.**
+
+## Trace 17 — Chicago presidential recipient file visually audited at the image level
+
+The University of Chicago carrier has now been identified precisely as:
+
+`University of Chicago Office of the President, Harper, Judson and Burton Administrations Records, Box 7, Folder 13 — American Oriental Society, 1896-1904`.
+
+This is **not** the AOS corporate archive. It is a recipient-side University presidential file. The digitized folder is 31 image pages.
+
+Direct screenshot inspection of the relevant sequence shows:
+
+- 1896 preliminary circular / membership materials;
+- 1897 **Final Circular, dated 10 Apr 1897**, including Lovejoy No. 24 `Critical summary of the argument of the Milinda-pañha`;
+- 1897 **Preliminary Circular, dated 18 Mar 1897**;
+- the sequence then moves into 1898 circular material.
+
+Within the visually inspected 1897 sequence, **no Lovejoy-specific cover letter, abstract, manuscript leaf, or correction slip appears between/adjacent to the circulars**. This is a negative result about this digitized recipient folder only; it does not prove such material never existed elsewhere.
+
+The 10 Apr Final Circular image independently reconfirms that Lovejoy is not among the members/friends listed as expected to be present.
+
+Sources: UChicago finding aid `ICU.SPCL.OFCPRESHJB`, Box 7 Folder 13; digitized PDF `ofcpreshjb-0007-013.pdf`, direct screenshot inspection.
+
+Assessment: **IMAGE-LEVEL NEGATIVE NARROWING / CHICAGO FOLDER DE-PRIORITIZED AS A TEXT CARRIER.**
+
+## Trace 18 — 1899/1900 procedural comparators: do not retroject abstracts into 1897
+
+The same Chicago recipient file gives unusually strong adjacent procedural evidence:
+
+### 1899 Final Circular
+
+Direct image inspection shows the editor asking that, absent special arrangement, manuscripts of papers intended for publication be sent to him by a stated post-meeting deadline; the circular also says authors could notify the editor before the meeting of estimated space so a manuscript might be ready for the printer immediately after the meeting or, when convenient, be sent in and set up **before** the meeting.
+
+The same 1899 circular explicitly reminds members of By-Law V:
+
+`All papers read before the Society, and all manuscripts deposited by authors for publication or for other purposes, shall be at the disposal of the Board of Directors.`
+
+It also states that a paper is normally limited to twenty minutes and that authors of long papers are requested to prepare in advance an **abstract**, whose reading should fit the time limit, so that the epitome gives the Society the general outline of the thesis.
+
+### 1900 Preliminary Circular
+
+Direct image inspection shows a still stronger procedure: the local committee requests that **abstracts of all papers** be prepared and sent in **with the titles**, so they can be manifolded and transmitted to members with the final circular.
+
+Consequence for Lovejoy 1897:
+
+- these witnesses prove a nearby and rapidly formalizing title→abstract/manuscript→publication carrier system;
+- they **do not** license an inference that the same abstract requirement existed in 1897;
+- the 18 Mar 1897 circular itself asks only for **name + paper title**, so the minimum secure 1897 submission object remains a title notice;
+- any 1897 abstract or full manuscript must be independently recovered, not supplied by retrojection from 1899/1900 procedure.
+
+Source: UChicago `ofcpreshjb-0007-013.pdf`, direct screenshots of 1899 Final Circular and 1900 Preliminary Circular.
+
+Assessment: **PROCEDURAL COMPARATOR STRONG / RETROJECTION FIREWALL STRENGTHENED.**
+
+## Trace 19 — early Harvard correspondence negative controls
+
+Two obvious professor-correspondence routes can be reduced:
+
+- Harvard/Houghton William James incoming correspondence catalogs **six Lovejoy letters**, but the listed Lovejoy sequence begins in **1907**, not 1897. This de-prioritizes the catalogued James incoming-letter group as an AOS 1897 carrier.
+- George Holmes Howison papers at Berkeley catalog **11 Lovejoy letters, 1898-1917**. This is a real early Lovejoy correspondence group, but its catalogued date range begins after the 1897 AOS meeting.
+
+Neither negative result proves that Lovejoy had no communication with James or Howison in 1897 through any other carrier. They only remove these specific catalogued letter groups from the front rank.
+
+Assessment: **NEGATIVE NARROWING / PRIORITIZE LANMAN, OERTEL, WILSON AGGREGATE INSTEAD.**
+
 ## Negative control — misleading Open Library / Internet Archive volume metadata
 
 Public discovery for Internet Archive identifier `journalamerican18socigoog` is unreliable for this task: Open Library metadata can present it in a way suggestive of JAOS volume 18, while inspection of the scan/text route exposes content beginning with the **Fourth Volume (1854)**. Do not use this identifier as the 1897 volume witness without independent page-level verification.
@@ -234,6 +312,8 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 8. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
 9. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
 
+De-prioritized for the immediate 1897 text hunt: UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898.
+
 ## Current judgment
 
 **The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to physically and procedurally defined routes:
@@ -246,4 +326,6 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 
 + `Gilman MS-0001 correspondent-level host/officer corpus`.
 
-The next decisive result would be an item-level hit in any of those routes. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
+The Chicago recipient file has now been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897.
+
+The next decisive result would be an item-level hit in any of the four top routes. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
