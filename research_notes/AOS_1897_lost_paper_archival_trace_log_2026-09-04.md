@@ -40,6 +40,7 @@ Finding-aid facts:
 - Lanman was professor of Sanskrit at Harvard and editor/founder figure in the Harvard Oriental Series; the collection is therefore a plausible carrier environment for Lovejoy's 1896-97 Pāli work, but **proximity is not evidence of transmission**.
 - The same collection preserves **engagement calendars, 1896-1936 (`HUG 4510.20`)**. The April 1897 calendar is therefore a concrete day-level target for AOS, Lovejoy, submission, or meeting traces. A calendar entry would establish activity/proximity only, not paper content.
 - HOLLIS explicitly points from Lanman's finding aid to the separate `Records of the History of Religions Club, 1892-1952`, call number `HUD 3454.xx`.
+- The finding aid also specifies that Lanman's professional papers include correspondence with **students and colleagues** and that the Harvard Oriental Series records contain correspondence, mailing lists, proofs, and notices. This strengthens the warrant for a name-level Lovejoy check, but does not establish that any Lovejoy item survives.
 
 Assessment: **HIGH-VALUE FINDING-AID / BOX-LEVEL TARGET; NO LOVEJOY ITEM YET IDENTIFIED.**
 
@@ -54,10 +55,11 @@ Finding-aid fact:
 - Box 16 contains a file explicitly titled **`Harvard History of Religions Club, 1891-1923`**.
 - This is a second, personal-paper carrier distinct from the Club's central institutional records (`HUD 3454.xx`).
 - Because the file spans Lovejoy's Harvard years, it is a concrete target for 1896-97 programs, minutes, correspondence, or paper announcements. No Lovejoy-specific item has yet been identified at finding-aid level.
+- A contemporary 1893 description states that the Club met monthly and that papers were read followed by general discussion. This establishes the documentary behavior of the institution, not Lovejoy attendance or uptake.
 
 Assessment: **CONCRETE BOX-LEVEL TARGET; NO TEXT RECOVERED.**
 
-Source: HOLLIS finding aid for David Gordon Lyon papers, Box 16.
+Source: HOLLIS finding aid for David Gordon Lyon papers, Box 16; contemporary description in *The Biblical World* (1893).
 
 ## Trace 4 — Lovejoy papers, JHU: correspondence index as a search instrument
 
@@ -69,20 +71,56 @@ Finding-aid facts:
 - Daniel J. Wilson prepared a detailed item-level index in 1974-1975 and a complete correspondence index; later refiling retained the original order corresponding to Wilson's index.
 - This means a targeted search for `Lanman`, `Oertel`, `American Oriental Society`, `Milinda`, or other 1897 carriers can in principle be reduced to item-level correspondence rather than re-reading the whole collection.
 - Public web indexing has not yet surfaced a Lanman/Oertel/AOS item in MS-0038; absence from web search is **not** evidence of archival absence.
+- JHU's current 2019/2023 re-description states that the current finding aid is the most up-to-date and complete listing available, but it still does not expose every correspondent as a top-level indexed name.
 
 Assessment: **HIGH-VALUE INDEX QUERY TARGET; PUBLIC INDEX SEARCH INCOMPLETE.**
 
+## Trace 5 — 1897 AOS institutional routing from the Final Circular
+
+The 10 Apr 1897 Final Circular itself maps four distinct administrative carrier chains around Lovejoy's No. 24 communication:
+
+- **Recording Secretary: George F. Moore** — minutes of the previous meeting.
+- **Acting Corresponding Secretary: Hanns Oertel** — report explicitly subdivided into `a. Correspondence` and `b. Members deceased`.
+- **Board of Editors: reported by George F. Moore**.
+- **Directors: reported by their Scribe, Charles R. Lanman**.
+- **Treasurer: Henry C. Warren**.
+
+The same circular lists Lovejoy as No. 24, `Critical summary of the argument of the Milinda-pañha`.
+
+Consequence: do **not** model the lost submission as having only one probable paper trail through Oertel. A communication could leave traces independently in correspondence, recording-secretary minutes, editorial handling, or Directors' business. Whether those records survive is a separate archival question.
+
+Assessment: **INSTITUTIONAL CARRIER MAP UPGRADE; NO MANUSCRIPT RECOVERED.**
+
+Primary source: AOS Final Circular, 10 Apr 1897, University of Chicago Library circular file.
+
+## Trace 6 — George Foot Moore survival check
+
+Public Harvard discovery currently exposes a `Harvard Divinity School Faculty Writings File`, `bMS 13001/Moore, G. F.`, but its listed contents are chiefly Moore's published writings and later memorial material; it does **not** expose 1897 AOS secretary papers or incoming submissions.
+
+Houghton Library's `Autograph File, M` is described as containing single letters/manuscripts from George Foot Moore among many other figures. This is a possible fragmentary carrier but not a coherent Moore administrative archive, and no Lovejoy/AOS item is identified at finding-aid level.
+
+Assessment: **PUBLIC FINDING-AID DEAD END FOR A COHERENT 1897 MOORE SECRETARY FILE; FRAGMENTARY CHECK REMAINS POSSIBLE.**
+
 ## Corporate-records status
 
-A direct public finding aid for an AOS corporate archive preserving 1897 submissions has **not yet been located**. Yale administrative records show a later `YRG 37 American Oriental Society` records-management survey (1978-1980), which establishes an institutional relationship but does not itself identify nineteenth-century corporate records. Search remains open.
+A direct public finding aid for an AOS corporate archive preserving 1897 submissions has **not yet been located**. Yale administrative records show a later `YRG 37 American Oriental Society` records-management survey (1978-1980), which establishes an institutional relationship but does not itself identify nineteenth-century corporate records. Yale also describes legacy holdings containing personal papers of members of the AOS; this again is not a corporate archive.
+
+The search should distinguish sharply between:
+
+1. AOS **corporate/administrative records**;
+2. the AOS **library/manuscript collections** at Yale;
+3. **personal papers of AOS officers**.
+
+Only (1) or officer papers with retained administrative files would directly answer the submission-carrier question.
 
 ## Current carrier ranking
 
-1. AOS submitted-paper / corresponding-secretary / directors records, if extant.
-2. Lovejoy MS-0038 correspondence index: query `Lanman`, `Oertel`, AOS, Milinda, April 1897.
+1. AOS submitted-paper / correspondence / minutes / editorial / Directors records, if extant.
+2. Lovejoy MS-0038 correspondence index: query `Lanman`, `Oertel`, `Moore`, `Warren`, AOS, Milinda, April 1897.
 3. Oertel MS 590, Box 3, Folder 56 (`I-R`, especially undated material).
-4. Lanman HUG 4510.xx: correspondence plus `HUG 4510.20` engagement calendar for April 1897.
+4. Lanman HUG 4510.xx: correspondence plus `HUG 4510.20` engagement calendar for April 1897; check student/colleague correspondence explicitly.
 5. Harvard History of Religions Club central records `HUD 3454.xx` plus Lyon papers Box 16 `Harvard History of Religions Club, 1891-1923`.
-6. Harvard Graduate Philosophical Society records/programs, searched for exact Lovejoy objects rather than broad influence claims.
+6. George Foot Moore fragmentary survivals / any Andover-era personal papers if a coherent collection can be located.
+7. Harvard Graduate Philosophical Society records/programs, searched for exact Lovejoy objects rather than broad influence claims.
 
-Next search: reduce Lanman and History of Religions Club to concrete components; identify the surviving AOS corporate-record chain; exploit the Wilson item-level correspondence index if publicly queryable.
+Next search: identify the surviving AOS corporate-record chain; search Henry Clarke Warren and any Moore/Andover personal-paper carriers; reduce Lanman/student correspondence and Club records to requestable units; continue name-level attack on Wilson/JHU correspondence index.
