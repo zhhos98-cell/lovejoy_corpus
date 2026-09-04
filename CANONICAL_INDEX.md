@@ -1,12 +1,12 @@
 # Lovejoy corpus — canonical index
 
-Last synchronized: 2026-09-03  
+Last synchronized: 2026-09-04  
 Status: **CURRENT STABLE NAVIGATION**
 
 This is the repository's current routing surface.
 
-- `CURRENT_STATE.md` controls open/closed branch state.
-- `PROJECT_ARGUMENT_MAP.md` controls the structure of the historical argument.
+- `CURRENT_STATE.md` controls open/closed/frozen branch state.
+- `PROJECT_ARGUMENT_MAP.md` controls the Lovejoy-centered historical argument.
 - `TRANSCRIPTION_COMPLETION_QUEUE.md` controls diplomatic/image completion.
 - `QUELLENFORSCHUNG_CURRENT_GATE.md` controls source-critical evidence rules.
 
@@ -33,7 +33,6 @@ Historical status language inside dated notes does not override these living fil
 | Transcription authority map | `archive_transcriptions/README.md` |
 | Archive-index authority map | `archive_index/README.md` |
 | Legacy root payload inventory | `root_payload_index.md` |
-| Latest structural cleanup record | `research_notes/repository_cleanup_2026-09-03.md` |
 
 ## 2. Notebook text authority
 
@@ -123,7 +122,9 @@ Start with:
 
 Rule: course availability, enrollment/grade, institutional proximity, teacher relation, lecture attendance, private reading, and method transmission are separate propositions.
 
-## 6. Active `primitive` / chronology argument branch
+The presence of Brinton in formation/infrastructure files does not reactivate the abandoned cross-actor `primitive` comparison.
+
+## 6. Lovejoy-local argument branch
 
 Use `PROJECT_ARGUMENT_MAP.md` first.
 
@@ -134,8 +135,6 @@ Core routed notes:
 3. `research_notes/lovejoy_1906_primitive_predicate_topology_reaggregation_batch210.md`
 4. `research_notes/lovejoy_004_005_reattribution_endpoint_matrix_batch212.md`
 5. `research_notes/lovejoy_1897_title_contraction_to_1906_relational_scale_control_batch221.md`
-6. `research_notes/brinton_1897_primitive_dechronologization_population_resynchronization_batch222.md`
-7. `research_notes/boas_1896_primitive_predicate_survival_process_first_comparability_batch223.md`
 
 Supporting consolidations:
 
@@ -143,13 +142,9 @@ Supporting consolidations:
 - `research_notes/004_005_1906_diagnostic_mechanism_reaggregation_consolidated.md`
 - `research_notes/1906_primitive_energetics_reception_transformation_consolidated.md`
 
-Current compact control:
+These files may be used only for Lovejoy-local propositions that survive the current evidence gates.
 
-> **Brinton = stage-first synchronization.**  
-> **Boas = process-first comparability.**  
-> **Lovejoy = relation-first reaggregation.**
-
-These are analytical controls, not actor vocabulary and not evidence of influence.
+The former cross-actor `primitive` comparison, including Batches 222 and 223, is **FROZEN / NOT ROUTED / NOT FOR PRODUCTION OR NEXT-STEP WORK**. It remains only as historical research provenance and must not be treated as a control framework or citation path.
 
 ## 7. JHI Blog production
 
@@ -163,6 +158,8 @@ Writing authority:
 6. `research_notes/JHI_blog_image_caption_permission_plan_2026-08-29.md`
 
 Status: **production HOLD**. v3.7 is the current notebook-guide / Quellenkritik-calibrated Markdown draft at 2,366 body words; the latest generated DOCX remains v3.3 until a separate production pass.
+
+The frozen comparative `primitive` triangle is excluded from JHI production.
 
 ## 8. Comparative method controls
 
@@ -187,19 +184,15 @@ These calibrate method claims. They do not displace the Lovejoy archival core an
 - root payloads = legacy OCR/source payloads retained at stable paths and inventoried in `root_payload_index.md`.
 - Git history = recovery layer for genuinely removed supersession-only files.
 
-Latest cleanup record:
-
-- `research_notes/repository_cleanup_2026-09-03.md`.
-
 The repository is intentionally **not physically reorganized by moving heavily referenced legacy paths**. Authority is organized through living routing files instead. A physical migration requires a redirect map, reference rewrite, and audit in the same operation.
 
 ## 10. Reopening rule
 
 Reopen a frozen research line only for:
 
-- new/direct primary evidence bearing on a live proposition;
+- new/direct primary evidence bearing on a live Lovejoy proposition;
 - a contradiction in current evidence;
 - publication-level exact verification;
-- a materially necessary actor-level reconstruction of a category already in use.
+- a materially necessary actor-level reconstruction already demanded by direct Lovejoy evidence.
 
-Argument development and diplomatic transcription are separate tracks. Do not force one to wait on the other unless the proposition actually depends on the unresolved manuscript reading.
+Do not reopen the frozen cross-actor `primitive` comparison for conceptual completeness, typology building, vocabulary harvesting, or general period comparison.
