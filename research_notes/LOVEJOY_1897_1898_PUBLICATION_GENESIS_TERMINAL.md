@@ -1,15 +1,15 @@
 # Lovejoy 1897–1898 publication genesis — terminal synthesis
 
-Last synchronized: 2026-09-04  
+Last synchronized: 2026-09-05  
 Status: **DEFAULT 1897–1898 PUBLICATION ROUTE**
 
 ## Direct documentary sequence
 
 - **10 Apr 1897, AOS final circular:** `Critical summary of the argument of the Milinda-pañha`.
-- **22–24 Apr 1897, Baltimore Proceedings:** Lovejoy absent; communication read by title; normalized content-level title `On the meaning of the Buddhist technical terms upādāna and upādāna-kkhandhā`. Exact typography remains visual HOLD.
+- **Proceedings reporting the Baltimore meeting of 22–24 Apr 1897:** Lovejoy absent; communication read by title; normalized content-level title `On the meaning of the Buddhist technical terms upādāna and upādāna-kkhandhā`. Exact typography remains visual HOLD. **Carrier-date control:** the Proceedings were prepared/printed after the meeting; the title recorded there cannot yet be dated diplomatically to 22–24 Apr itself.
 - **1898, JAOS:** `The Buddhistic technical terms upādāna and upādisesa`.
 
-The second named technical object changes between late April 1897 and the 1898 publication.
+The second named technical object changes between the recoverable 1897 Proceedings title carrier and the 1898 publication. The currently recovered evidence does **not** establish the exact day on which the Milinda title was replaced by the technical-terms title.
 
 ## Core model
 
@@ -19,9 +19,9 @@ Do not model this as one unchanged manuscript repeatedly retitled. The evidence 
 
 Observed object fates:
 
-- `Milinda-pañha`: organizing public title-object -> source/witness inside the later technical argument;
-- `upādānakkhandha`: late-April title-level co-object -> internal controversy/evidentiary object in the 1898 article;
-- `upādisesa`: not named in the recoverable late-April title -> promoted to 1898 title-level co-object;
+- `Milinda-pañha`: organizing public title-object in the 10 Apr circular -> source/witness inside the later technical argument;
+- `upādānakkhandha`: Proceedings title-level co-object -> internal controversy/evidentiary object in the 1898 article;
+- `upādisesa`: not named in the recoverable Proceedings title -> promoted to 1898 title-level co-object;
 - khandha psychology: large notebook worksheet -> explicitly omitted analytical infrastructure;
 - Sāṃkhya/Buddhism chronology: large research branch -> essentially outside the 1898 paper;
 - relation distinctions: notebook working operations -> retained in printed architecture.
@@ -57,20 +57,27 @@ Notebook p.62, `This is all that is required for the purposes of my paper`, is t
 
 ## Evidence firewall
 
-Secure: the three public object/title states; absence/read-by-title status at Baltimore; change in second named technical term; close 004-to-print correspondence; explicit omission of substantial notebook analysis.
+Secure: 10 Apr circular title; the later Proceedings title carrier reporting the Baltimore meeting; Lovejoy's absence/read-by-title status as recorded in the Proceedings; change in the second named technical term between the Proceedings carrier and 1898; close 004-to-print correspondence; explicit omission of substantial notebook analysis.
 
-Strong inference: late-April 1897 was closer to the `upādāna / upādānakkhandha` cluster than previously visible; 1898 is a recomposed extraction from a broader research field.
+Strong inference: the Proceedings title state is closer to the `upādāna / upādānakkhandha` cluster than the 10 Apr Milinda title made visible; 1898 is a recomposed extraction from a broader research field.
 
-HOLD: manuscript identity across 10 Apr, late Apr, and 1898; whether 004 is a direct draft; whether `upādisesa` was already present in the late-April submission; whether the April change was revision, substitution, or two papers.
+HOLD: **when between 10 Apr and the preparation/printing of the Proceedings the title/object changed**; whether the technical-terms title was already the title used on 22–24 Apr; manuscript identity across the circular, Proceedings carrier, and 1898; whether 004 is a direct draft; whether `upādisesa` was already present in the 1897 communication; whether the change was revision, substitution, or two papers.
+
+Carrier-date firewall:
+
+> **MEETING DATE != AUTOMATIC DATE OF THE TITLE PRINTED IN POST-MEETING PROCEEDINGS.**
+
+The 1897 meeting report itself says Vol. XVIII Second Half would be issued after the Proceedings of the meeting could be printed. Until a contemporaneous meeting program, title slip, correspondence, minute-book entry, or equivalent witness is recovered, do not compress the title change into a secure `10 Apr -> 22 Apr` revision interval.
 
 ## Default routing
 
 Start here, then use only as needed:
 
 1. `AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
-2. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
-3. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
-4. repository 1898 article witness;
-5. direct AOS/archival carrier records for manuscript-identity claims.
+2. `AOS_1897_lost_paper_archival_trace_log_2026-09-04.md` for live carrier search and negative controls;
+3. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
+4. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
+5. repository 1898 article witness;
+6. direct AOS/archival carrier records for manuscript-identity or exact title-change timing claims.
 
 Older Milinda/title/publication-selection batch files are frozen provenance.
