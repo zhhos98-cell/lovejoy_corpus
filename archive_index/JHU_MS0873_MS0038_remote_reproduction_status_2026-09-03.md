@@ -113,9 +113,41 @@ Publication/image planning should therefore separate:
 - MS-0038 Box 62 item 2 `Evolution of Religion notes`: **quote pending**.
 - MS-0038 Box 38 folders 9–11 `Primitive Religion`: **quote pending; folder 10 now known to contain `Manitouism` unprinted fragments + 1900/1905–06 Religion Lectures**.
 - MS-0038 Box 23 folder 11 `Fire Cults and Mana Concept, 1906`: **exact locator/content-description closed; no reproduction request yet recorded here**.
+- **MS-0873 chronological segment covering 1897, especially March–April and 10–24 April: NOT YET REQUESTED.**
+- **MS-0038 Box 37 Folder 1, component `Minutes of Graduate Philosophical Society of Harvard University`, especially January–April 1897: NOT YET REQUESTED.**
 - Do not submit duplicate reproduction requests while JHU quotes are pending.
 
-## 6. Cost-estimation rule until quotes arrive
+## 6. Newly isolated 1897 micro-targets — operationally distinct from pending large quotes
+
+Review of the existing JHU correspondence thread confirms that the researcher has **not** yet asked Brooke Shilling for either of the following:
+
+### A. MS-0873 — smallest chronological segment containing March–April 1897
+
+Purpose: inspect Wilson's selected transcriptions for correspondence around the documented AOS title sequence, especially 10–24 Apr 1897.
+
+Names/terms to prioritize after receipt:
+
+`American Oriental Society`, `AOS`, `Milinda`, `Pāli/Pali`, `Buddhist`, `upādāna`, `Lanman`, `Oertel`, `Moore`, `Gilman`, `Baltimore`.
+
+Because MS-0873 is organized chronologically and JHU previously supplied an 18-page 1898–99 segment directly, the **smallest binder segment containing March–April 1897** is a realistic narrowly scoped reference-copy target. This is not a promise that it falls within the no-cost allowance; length and staff judgment control.
+
+### B. MS-0038 Box 37 Folder 1 — Graduate Philosophical Society minutes component
+
+Exact component title: `Minutes of Graduate Philosophical Society of Harvard University`.
+
+Purpose: inspect January–April 1897, including the February 1897 Lovejoy-led `problem of evil` discussion reported by Wilson and any meeting entries around the AOS submission/title-change window.
+
+The current JHU finding aid states that Lovejoy kept minutes as secretary and that 1896–1897 is included. The collection is open for use; it is housed off-site and normally requires advance retrieval. Current JHU policy permits single research copies subject to repository handling/reproduction rules.
+
+Operational request should specify the **minutes component**, not all of mixed Box 37 Folder 1.
+
+### Request-management rule
+
+These two 1897 targets are **new and non-duplicative**, but they should not be conflated with the already pending Digitization quotes for the large/fragile Box 62 and Box 38 materials. If/when requested, present them as a tightly bounded follow-up for small reference scans and make clear that there is no urgency. Do not state or imply that free scanning is guaranteed.
+
+No email requesting these targets has been sent as of this update.
+
+## 7. Cost-estimation rule until quotes arrive
 
 Known base rate: **$35/hour**.  
 Unknowns: actual capture image count, conservation/support setup time, unfolding/refolding and envelope handling, reshoots, metadata/processing time included by Digitization.
