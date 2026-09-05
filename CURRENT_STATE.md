@@ -1,6 +1,6 @@
 # Lovejoy corpus — current state
 
-Last synchronized: 2026-09-04  
+Last synchronized: 2026-09-05  
 Status: **CORE LOVEJOY WORK ACTIVE / PRE-1898 OUTPUT SEARCH ACTIVE / HISTORICAL PROCESS LAYER FROZEN**
 
 This is the single living state file. Historical status language elsewhere does not override it.
@@ -38,19 +38,21 @@ Default synthesis: `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINA
 
 Secure public object chain:
 
-`10 Apr 1897 — Critical summary of the argument of the Milinda-pañha`
+`10 Apr 1897 — Final Circular: Critical summary of the argument of the Milinda-pañha`
 
-→ `22–24 Apr 1897 — upādāna / upādāna-kkhandhā` (normalized content-level recovery; exact typography HOLD)
+→ `post-meeting Proceedings reporting 22–24 Apr 1897 — upādāna / upādāna-kkhandhā` (normalized content-level recovery; exact typography HOLD; **do not automatically date this title form to the meeting days themselves**)
 
 → `1898 — upādāna / upādisesa`.
 
-The second named technical term changes. Treat these as distinct documentary/problem states; do not infer one unchanged manuscript.
+The second named technical term changes. Treat these as distinct documentary/problem states; do not infer one unchanged manuscript. The exact date of the Milinda-title -> technical-terms-title change remains OPEN because the Proceedings were prepared/printed after the meeting.
 
 Highest-value live carriers:
 
-1. AOS No.30 manuscript/abstract/title-slip/secretary/directors records under both 1897 title states;
-2. Lovejoy correspondence, especially 10–24 Apr 1897;
-3. Harvard Graduate Philosophical Society minutes/programs for 1896–97, restricted to concrete Lovejoy-authored objects.
+1. JHU MS-0873 Box 1 chronological Lovejoy-letter tranche covering 1894–1898, especially 1897;
+2. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated) for the documented title-submission route;
+3. contemporaneous AOS program/title-slip/minute/editorial records capable of dating the title change independently of the post-meeting Proceedings;
+4. Yale/AOS manuscript record-book custody/cataloguing trail;
+5. Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records.
 
 ### Formation 1895–1899
 
@@ -73,6 +75,7 @@ Use later materials only as scale/reaggregation controls. They are not a retrosp
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
+- `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN POST-MEETING PROCEEDINGS`.
 - `INDEXED OCR CONTENT RECOVERY != DIPLOMATIC TITLE TRANSCRIPTION`.
 - `INSTITUTIONAL CARRIER EXISTENCE != LOVEJOY AUTHORSHIP`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
