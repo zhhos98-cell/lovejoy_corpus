@@ -9,7 +9,6 @@ This directory is intentionally small. It contains only current production contr
 1. `JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md` — canonical prose draft.
 2. `JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md` — current calibration/control.
 3. `JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — final evidence gate.
-4. `JHI_FULL_REPO_MICRO_REUSE_AUDIT_2026-09-05.md` — current micro-reuse audit; consult only when doing the reuse pass.
 
 ## Terminal research authority
 
@@ -18,9 +17,10 @@ This directory is intentionally small. It contains only current production contr
 - `LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`
 - `LOVEJOY_FORMATION_1895_1899_TERMINAL.md`
 - `LOVEJOY_1902_1906_EXIT_TERMINAL.md`
+- `JHI_MICRO_REUSE_TERMINAL_2026-09-05.md`
 - `FROZEN_PROVENANCE_REGISTER.md`
 
-If one of these closes a domain, do not re-run the earlier rounds merely because they exist.
+If one of these closes a domain, do not re-run the earlier rounds merely because they exist. In particular, the former corpus-wide micro-reuse ledger is frozen; reuse is now demand-driven from the canonical draft or a terminal synthesis.
 
 ## Curated exact evidence
 
