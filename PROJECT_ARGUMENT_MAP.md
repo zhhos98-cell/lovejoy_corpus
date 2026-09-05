@@ -33,7 +33,7 @@ Documented public object/carrier path:
 
 → `22–24 Apr 1897 Baltimore meeting — No. 30 handled by title; exact meeting title and Lovejoy-specific brief statement remain open`
 
-→ `June 1897 JAOS 18 Second Half — printed Proceedings p.380: upādāna / upādāna-kkhandhā`
+→ `June 1897 JAOS 18 Second Half — printed Proceedings p.389: upādānam / upādāna-kkhandhā` (direct visual diplomatic form; normalized discussion form `upādāna / upādānakkhandha`)
 
 → `1898 — upādāna / upādisesa`.
 
@@ -47,7 +47,7 @@ Notebook 004 is broader than the published article. Its publication transformati
 
 The strongest local operations separate temporal, logical, classificatory, causal, semantic, genealogical, and functional relations rather than letting one settle the others automatically.
 
-Short-form consequence: the argument is ready. Recovery of the exact 10 Apr -> June transition carrier would upgrade mechanism-level precision but is not required to state the documentary reconfiguration itself.
+Short-form consequence: the argument is ready. Recovery of the exact 10 Apr -> June transition carrier would upgrade mechanism-level precision but is not required to state the documentary reconfiguration itself. The former p.380 / exact-typography HOLD is closed by `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
 
 ## 3. Notebook 005 -> stratified comparative-religion work
 
