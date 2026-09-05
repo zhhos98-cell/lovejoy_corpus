@@ -73,13 +73,15 @@ Later AOS procedural printing restates By-Law V:
 
 This is procedure evidence, not proof that Lovejoy deposited a manuscript.
 
-In 1919 AOS proposed deleting from By-Law I the Corresponding Secretary's old duty to `keep, in a book provided for the purpose, a copy of his letters`. The same 1919 notice records Lanman's resolution:
+In 1919 AOS proposed deleting from By-Law I the Corresponding Secretary's old duty to `keep, in a book provided for the purpose, a copy of his letters`. The same pre-meeting notice prints a motion to be presented by Charles R. Lanman:
 
 `Resolved: That the proper repository of the manuscript books of record of the Society is the Society's Library.`
 
-The Society Library later merged into Yale University Library; current AOS/Yale guidance places printed material in Sterling and manuscripts in Beinecke. Therefore nineteenth-century AOS letter books, proceedings books, Directors' books, or other manuscript record books are now a primary Yale/Beinecke target if they survived.
+**Adoption is not established by this notice.** Until the 1919 proceedings or Board records explicitly show action on the motion, use it only as evidence that Lanman proposed this custody rule, not as an executed custody order.
 
-Assessment: **MAJOR CUSTODY-CHAIN UPGRADE; DO NOT INFER LOVEJOY MANUSCRIPT AT BEINECKE UNTIL ITEM-LEVEL EVIDENCE.**
+The Society Library was already deposited at Yale by 1855 and was made a permanent deposit in 1924. Current AOS/Yale guidance places printed material in Sterling and manuscripts in Beinecke. Nineteenth-century AOS letter books, proceedings books, Directors' books, or other manuscript record books therefore remain a primary Yale/Beinecke target if they survived, but their actual custody path must be independently recovered.
+
+Assessment: **CUSTODY-CHAIN SEARCH WARRANTED / 1919 ADOPTION HOLD / DO NOT INFER LOVEJOY MANUSCRIPT AT BEINECKE UNTIL ITEM-LEVEL EVIDENCE.**
 
 ## Trace 8 — surviving AOS record-book / meeting-manuscript comparators
 
@@ -143,7 +145,7 @@ Assessment: **NEGATIVE NARROWING / DE-PRIORITIZE THIS COLLECTION.**
 
 The correct procedural witness immediately before the Lovejoy communication is `Constitution and By-Laws of the American Oriental Society`, JAOS 17 (1896): 201-203. Exact 1896 page-level collation remains pending, as do any April 1897 amendments.
 
-Official AOS constitutional printing from the adjacent period explicitly requires the Recording Secretary to keep proceedings `in a book provided for the purpose`; the 1919 amendment notice independently proves a corresponding-secretary letter-copy-book requirement existed before its proposed deletion. Together with Lanman's 1919 `manuscript books of record` resolution, the concrete record classes to request/search are now:
+Official AOS constitutional printing from the adjacent period explicitly requires the Recording Secretary to keep proceedings `in a book provided for the purpose`; the 1919 amendment notice independently proves a corresponding-secretary letter-copy-book requirement existed before its proposed deletion. Lanman's 1919 proposed custody motion supplies a further record-class clue, but not proof of adoption. The concrete record classes to request/search are now:
 
 1. Corresponding Secretary **letter/copy book**;
 2. Recording Secretary **proceedings/minute book**;
@@ -323,22 +325,29 @@ Source: Harvard University Archives, `Papers of Charles Rockwell Lanman, 1825-19
 
 Assessment: **TARGET NAME ADDED INSIDE AN EXISTING HIGH-VALUE CARRIER / NO LOVEJOY-WARREN TRANSMISSION EVIDENCE.**
 
-## Trace 22 — Yale transfer/cataloguing metadata may unlock the missing AOS record-book shelfmarks
+## Trace 22 — Yale internal cataloguing metadata and access calibration
 
-The search for `American Oriental Society Letter Book II` and other nineteenth-century record-book names has stalled at the public catalogue level. Yale's own library administrative records now provide a different route: reconstruct the transfer/reclassification of the Society Library and its manuscript records into Yale custody.
+The search for `American Oriental Society Letter Book II` and other nineteenth-century record-book names has stalled at the public catalogue level. Yale's own library administrative records provide a route to reconstruct old call numbers and later manuscript relocation, but access status matters.
 
-Two concrete subject files are publicly catalogued:
+### RU 303 — currently unavailable AOS subject file
 
-1. `Librarian, Yale University records`, RU 120, **Box 116, Folder 1591 — American Oriental Society, 1940-1959**. The surrounding series also contains manuscript checklists and accession lists.
-2. `Catalogue Department, Yale University Library, records`, RU 303, **Box 2, Folder 75 — American Oriental Society, 1922-1989**.
+`Catalogue Department, Yale University Library, records`, RU 303, Accession `2015-A-053`, contains **Box 2, Folder 75 — American Oriental Society, 1922-1989**. The finding aid states that Accession `2015-A-053: Records, 1924-2008` is **restricted until January 1, 2043**. Therefore f.75 is not a present research-room target despite its attractive title/date range.
+
+### RU 303 — open old catalog/classification route
+
+The same RU 303 contains Accession `1997-A-037: Old Yale classification schedules, and not on shelf inventories, circa 1900-1979`, explicitly **open for research**. Of particular interest are the circa-1900 catalog books:
+
+- Box 16 — `1.11-15`
+- Box 17 — `21.11-29a611`
+- Box 18 — `30.11-32a.611`
+- Box 19 — `40-57.04`
+- Box 20 — `57a.19-74.56`
+
+These are search instruments, not evidence that AOS administrative books are in any particular numerical class. Their value is that they may preserve the old Yale call-number/shelfmark environment while the AOS Library was still a separate deposited unit.
 
 A third auxiliary carrier exists in the Arts of the Book Collection exhibit-label records, RU 793, Box 1: `American Oriental Society- Centenary Celebration` and `American Oriental Society Exhibit`.
 
-These are not evidence that Lovejoy's paper or an 1897 record book survives. Their value is custodial/metacataloguing: they may record the AOS Library's transfer, old-to-new call-number mappings, inventories, exhibit labels, or treatment of manuscript record books. If so, they could identify the present shelfmark/date coverage of the letter books, proceedings books, Directors' books, or deposited manuscripts described in the 1919 custody resolution.
-
-Sources: Yale RU 120 finding aid; Yale RU 303 finding aid; Yale RU 793 finding aid.
-
-Assessment: **MAJOR SEARCH-PATH UPGRADE: TRACE THE CATALOGUE/TRANSFER HISTORY BEFORE FURTHER BLIND `LETTER BOOK II` SEARCHING.**
+Assessment: **ACCESS-CALIBRATED SEARCH PATH: DE-PRIORITIZE RESTRICTED RU303 f.75; PRIORITIZE OPEN CIRCA-1900 CATALOG BOOKS FOR SHELFMARK RECONSTRUCTION.**
 
 ## Trace 23 — JSTOR Baltimore Proceedings closed as a text carrier
 
@@ -376,6 +385,40 @@ Sources: HathiTrust catalog record for the 1930 AOS Library catalogue; Yale retr
 
 Assessment: **MAJOR CUSTODY-HISTORY CORRECTION / 1897 YALE LOCATION SECURE AT COLLECTION LEVEL, ITEM SURVIVAL OPEN.**
 
+## Trace 25 — RU 120 `Deposits, 1920-1938`: open administrative target spanning the 1924 permanent deposit
+
+The `Librarian, Yale University records`, RU 120, Accession `19ND-A-233: Correspondence and subject files, 1901-1950`, contains:
+
+> **Box 119, Folder 1319 — `Deposits`, 1920-1938.**
+
+The RU 120 finding aid states that the collection as a whole is available for research and that restricted material is specifically noted as such. Folder 1319 carries no restriction note in the container list.
+
+This is not evidence that f.1319 contains American Oriental Society material. Its value is categorical and chronological: the file class `Deposits` spans the **1924 change from deposit to permanent deposit** documented by the 1930 AOS catalogue. It is therefore a stronger currently requestable target for the administrative paperwork of that status change than the Sterling-building `American Oriental Society, 1922` planning file.
+
+Operational use if inspected: search for `American Oriental Society`, old deposit terms, custody responsibility, inventories, manuscript/record books, location/shelfmark references, and any cross-reference to Catalogue Department files.
+
+Assessment: **HIGH-VALUE OPEN YALE ADMINISTRATIVE TARGET / AOS CONTENT NOT YET ESTABLISHED.**
+
+## Trace 26 — 1919 Lanman custody motion: adoption status remains HOLD
+
+The exact searchable 1919 notice frames Lanman's statement under:
+
+`Motions to be presented to the American Oriental Society at its next meeting by Charles R. Lanman.`
+
+followed by:
+
+`Resolved: That the proper repository of the manuscript books of record of the Society is the Society's Library.`
+
+A separate article in JAOS 39, James H. Breasted, `Important Actions Taken by the Board of Directors at the Philadelphia Meeting April 23-25, 1919`, pp. 151-154, proves that Board actions from that meeting were separately reported. Current public indexed searching has **not** recovered an explicit statement that Lanman's manuscript-books motion was adopted, rejected, referred, or otherwise acted upon.
+
+Therefore the project rule is:
+
+> **LANMAN MOTION EXISTS != MOTION ADOPTED.**
+
+Until direct proceedings/Board minutes show the action, use the motion only to establish that the custody of `manuscript books of record` was an explicit institutional problem in 1919 and that the Society's Library was proposed as their proper repository.
+
+Assessment: **PROPOSED CUSTODY RULE SECURE / ADOPTION HOLD.**
+
 ## Negative control — misleading Open Library / Internet Archive volume metadata
 
 Public discovery for Internet Archive identifier `journalamerican18socigoog` is unreliable for this task: Open Library metadata can present it in a way suggestive of JAOS volume 18, while inspection of the scan/text route exposes content beginning with the **Fourth Volume (1854)**. Do not use this identifier as the 1897 volume witness without independent page-level verification.
@@ -391,32 +434,33 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 ## Current carrier ranking
 
 1. **JHU MS-0873 Box 1, 1894–1898 chronological tranche**, especially 10–24 Apr 1897.
-2. **Yale/AOS internal custody and cataloguing route**: 1930 catalogue + RU 303 AOS files + old Yale classification schedules/catalog books + RU 120 AOS subject file, used to recover record-book shelfmarks/date ranges and later manuscript relocation.
-3. **Yale/Beinecke AOS manuscript books of record**, once shelfmarks/date coverage are identified: Corresponding Secretary letter/copy books; proceedings/minute books; Directors records; editor records; registers/deposits.
-4. **Oertel MS 590 Box 3 Folder 56**, manual inspection of individual `I-R` sheets, especially undated material.
-5. **JHU Gilman MS-0001 correspondence**, attacked by correspondent first and March-April 1897 second.
-6. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
-7. **Lanman HUG 4510.xx**, especially `HUG 4510.20` April 1897 engagement calendar, student/colleague correspondence, and HOS records with `Warren` as a targeted internal name.
-8. Harvard History of Religions Club `HUD 3454.xx` + Lyon Box 16.
-9. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
-10. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
+2. **Yale RU 120, Box 119, Folder 1319 — `Deposits`, 1920-1938**, to test the 1924 AOS permanent-deposit paperwork and extract custody/inventory cross-references.
+3. **Yale RU 303, Accession 1997-A-037, Boxes 16-20 — open circa-1900 catalog books**, to reconstruct old call numbers/shelfmarks for the separately deposited AOS Library and any manuscript record books that entered the catalog system.
+4. **Yale/Beinecke AOS manuscript books of record**, once shelfmarks/date coverage are identified: Corresponding Secretary letter/copy books; proceedings/minute books; Directors records; editor records; registers/deposits.
+5. **Oertel MS 590 Box 3 Folder 56**, manual inspection of individual `I-R` sheets, especially undated material.
+6. **JHU Gilman MS-0001 correspondence**, attacked by correspondent first and March-April 1897 second.
+7. Lovejoy MS-0038 original correspondence / Wilson index, used to control any MS-0873 hit.
+8. **Lanman HUG 4510.xx**, especially `HUG 4510.20` April 1897 engagement calendar, student/colleague correspondence, and HOS records with `Warren` as a targeted internal name.
+9. Harvard History of Religions Club `HUD 3454.xx` + Lyon Box 16.
+10. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
+11. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
 
-De-prioritized for the immediate 1897 text hunt: **JSTOR Baltimore Proceedings beyond its title/meeting-status witness function**; UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale/AOS internal cataloguing history.
+Restricted/de-prioritized for the immediate hunt: **RU 303 Accession 2015-A-053, Box 2 Folder 75 `American Oriental Society, 1922-1989` (restricted until 2043)**; JSTOR Baltimore Proceedings beyond its title/meeting-status witness function; UChicago Box 7 Folder 13 beyond its completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale/AOS internal cataloguing history.
 
 ## Current judgment
 
-**The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to physically and procedurally defined routes:
+**The 1897 text is still not recovered.** The search has nevertheless moved from a generic “lost paper” problem to a small number of physically requestable and access-calibrated routes:
 
-`Oertel = documented 1897 title-submission recipient; manual target = MS 590 Box 3 f.56`
+`Wilson MS-0873 = shortest cross-repository Lovejoy-correspondence route`
 
-+ `AOS Library already at Yale in 1897 = internal custody/cataloguing problem, not later transfer problem`
++ `RU120 f.1319 = open 1920-38 deposit-administration route across the 1924 permanent-deposit change`
 
-+ `Wilson MS-0873 chronological 1894–1898 correspondence aggregate`
++ `RU303 open circa-1900 catalog books = old-shelfmark reconstruction route`
 
-+ `Gilman MS-0001 correspondent-level host/officer corpus`
++ `Oertel = documented 1897 title-submission recipient; manual target = MS 590 Box 3 f.56`
 
-+ `Lanman/HOS records = Harvard-side internal carrier; Warren is a targeted name, not a transmission claim`.
++ `AOS Library already at Yale in 1897 = internal custody/cataloguing problem, not later transfer problem`.
 
-The Chicago recipient file has been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897. The JSTOR Baltimore Proceedings is now also closed as a text-recovery carrier and retained only for title/meeting-status evidence.
+The 1919 Lanman statement is now explicitly fenced as a **motion to be presented, not a proven adopted custody order**. The restricted RU303 AOS subject file is also removed from the present request queue. The Chicago recipient file and JSTOR Proceedings remain closed as text-recovery carriers.
 
-The next decisive result would be an item-level hit in MS-0873, Oertel f.56, or a Yale/AOS internal catalogue/record-book trail that resolves nineteenth-century record-book shelfmarks. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
+The next decisive result would be an item-level hit in MS-0873 or Oertel f.56, or a Yale administrative/catalog trail that produces the present/old shelfmark and date coverage of nineteenth-century AOS record books. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
