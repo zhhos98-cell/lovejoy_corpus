@@ -501,3 +501,27 @@ It does **not by title alone** establish a whole-library inventory, shelfmark re
 Source: JAOS 26 (1905) table of contents, JSTOR stable 592897 and 592898.
 
 Assessment: **TARGET UPGRADE / ACCESSION PUBLICATION SECURE / RECATALOGUING INFERENCE HOLD.**
+
+## Trace 29 — Oertel partial Nachlass at the Bayerische Staatsbibliothek: confirmed backup carrier, 1897 relevance unresolved
+
+A second Oertel personal-paper carrier exists outside Yale: the Bayerische Staatsbibliothek, Munich, holds **`Ana 395`**, a partial Nachlass of Hanns Oertel.
+
+The public catalog layers are not fully consistent:
+
+- the BSB's current December 2025 Nachlass overview describes `Hanns Oertel (1868-1952)`, `Ana 395`, **4 Schachteln**, with a public summary naming a `Manuskript über Sprachwurzeln des Sanskrit`;
+- the MIDA thematic archival resource describes the same `Ana 395` as a **Teilnachlaß Hanns Oertel**, contents `Manuskript über Sprachwurzeln des Sanskrit; Korrespondenz`, extent `1 flacher Kasten`, with no date range supplied;
+- older scholarly directory metadata likewise reports an Oertel partial Nachlass at the BSB containing manuscript material and correspondence, but without an 1890s date span or correspondent list.
+
+Public web/Kalliope searching has so far produced **no component-level hit for Lovejoy, Lanman, the American Oriental Society, or 1897** inside `Ana 395`. Kalliope does expose later Oertel correspondence in other distributed archives (for example Vandenhoeck & Ruprecht files in the 1920s-1940s), but those are not `Ana 395` and do not bear on Lovejoy's 1897 submission.
+
+The discrepancy in box count/content summary should not be interpreted as loss or survival of correspondence without component-level BSB evidence. It may reflect different catalog dates, repackaging, or summary depth.
+
+Project rule:
+
+> **ANA 395 EXISTS + ONE CATALOG LAYER REPORTS CORRESPONDENCE != ANA 395 CONTAINS 1897 U.S.-PERIOD CORRESPONDENCE.**
+
+Operational consequence: keep BSB `Ana 395` as a **backup distributed Oertel carrier**. Upgrade it only if BSB component description or staff confirmation supplies date coverage/correspondents reaching Oertel's Yale/AOS years. Until then it does not displace Yale MS 590 f.56 or Wilson MS-0873.
+
+Sources: Bayerische Staatsbibliothek current Nachlass overview (December 2025); MIDA thematic resource on India-related Nachlässe in German archives; BSB catalog identifier historically linked as `BV041723006` (component record currently not retrievable through the public web cache).
+
+Assessment: **CONFIRMED PARTIAL NACHLASS / CORRESPONDENCE REPORTED IN ONE CATALOG LAYER / 1897 RELEVANCE UNRESOLVED / BACKUP CARRIER ONLY.**
