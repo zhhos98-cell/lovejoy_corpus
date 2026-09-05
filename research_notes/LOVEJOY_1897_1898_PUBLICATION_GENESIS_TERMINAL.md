@@ -8,7 +8,7 @@ Status: **DEFAULT 1897–1898 PUBLICATION ROUTE**
 - **18 Mar 1897, AOS preliminary circular:** intending contributors are explicitly asked to send **their names and paper titles** to Hanns Oertel; intending attendees are separately asked to send their names even if they do not plan to read papers. The circular says both paper titles and names of those signifying intention to attend will be announced in the 10 Apr Final Circular. This directly establishes two administrative response channels before Lovejoy's title appears.
 - **10 Apr 1897, AOS final circular:** `Critical summary of the argument of the Milinda-pañha`. The same circular separately lists, from answers to circulars, members and friends whose presence was hoped for; Lovejoy is not among those thirty-six names. This establishes **no positive attendance response represented in the Final Circular**, not a formal declination.
 - **22–24 Apr 1897, Baltimore meeting:** the later Proceedings say No. 30 `(by Lovejoy)` belonged to a closing-session group that `were read by title, and with or without a brief statement of their contents.` This securely establishes No. 30's read-by-title handling while leaving Lovejoy-specific brief-statement status OPEN. It does not by itself fix the technical title printed later.
-- **June 1897, JAOS 18 Second Half published Proceedings carrier:** the volume front matter states that the Second Half was `Issued, June, 1897`; its member list on p. 391 is marked `REVISED, MAY, 1897`. Printed p. 380 fixes Lovejoy as No. 30 under the title prefix `On the meaning of the Buddhist technical terms ...`; parallel indexed OCR recovers the content-level pair as `upādāna` and `upādāna-kkhandhā`. Exact Pāli typography remains visual HOLD.
+- **June 1897, JAOS 18 Second Half published Proceedings carrier:** the volume front matter states that the Second Half was `Issued, June, 1897`; its member list on p. 391 is marked `REVISED, MAY, 1897`. Direct visual inspection of printed **p.389** gives Lovejoy as No. 30 under `On the meaning of the Buddhist technical terms upādānam and upādāna-kkhandhā.` The former exact-typography HOLD is closed. Normalized discussion form may be given as `upādāna / upādānakkhandha` when normalization is explicit.
 - **1898, JAOS:** `The Buddhistic technical terms upādāna and upādisesa`.
 
 The second named technical object changes between the June 1897 Proceedings title carrier and the 1898 publication. The exact day on which the 10 Apr Milinda title was replaced by the technical-terms title remains unknown, but the carrier chronology is now bounded more precisely: the Milinda state is directly printed on 10 Apr; the technical-term state is directly present in the **June 1897 publication carrier**. Whether the technical title was already used on 22–24 Apr remains separately OPEN.
@@ -65,11 +65,11 @@ Notebook p.62, `This is all that is required for the purposes of my paper`, is t
 
 ## Evidence firewall
 
-Secure: 18 Mar circular separation of contributor name/title response from attendance-intention response; 10 Apr circular Milinda title; same-circular Lovejoy title registration without a positive Lovejoy signal in the promised expected-presence list; April meeting treatment of No. 30 as read by title; original-volume June Proceedings No. 30 on printed p. 380; content-level recovery of the `upādāna / upādāna-kkhandhā` pair; June 1897 issue date from the original-volume front matter; May-revised member list in the same issue; Lovejoy's absence independently controlled; change in the second named technical term between the June 1897 carrier and 1898; close 004-to-print correspondence; explicit omission of substantial notebook analysis.
+Secure: 18 Mar circular separation of contributor name/title response from attendance-intention response; 10 Apr circular Milinda title; same-circular Lovejoy title registration without a positive Lovejoy signal in the promised expected-presence list; April meeting treatment of No. 30 as read by title; original-volume June Proceedings No. 30 on printed **p.389**; direct diplomatic reading `upādānam / upādāna-kkhandhā`; June 1897 issue date from the original-volume front matter; May-revised member list in the same issue; Lovejoy's absence independently controlled; change in the second named technical term between the June 1897 carrier and 1898; close 004-to-print correspondence; explicit omission of substantial notebook analysis.
 
 Strong inference: the June Proceedings title state is closer to the `upādāna / upādānakkhandha` cluster than the 10 Apr Milinda title made visible; 1898 is a recomposed extraction from a broader research field. After the 10 Apr printed state, the title-change mechanism must run through a remote authorial, officer/editorial, Proceedings-normalization, or other non-in-person carrier rather than Lovejoy orally retitling the communication at Baltimore.
 
-HOLD: **when between 10 Apr and the June Proceedings publication workflow the title/object changed**; whether the technical-terms title was already the title used on 22–24 Apr; exact Pāli typography on printed p. 380; whether No. 30 was accompanied at the closing session by a brief statement of contents and, if so, what carrier/source supplied it; manuscript identity across the circular, April meeting handling, June carrier, and 1898; whether 004 is a direct draft; whether `upādisesa` was already present in the 1897 communication; whether the change was authorial revision, officer/editorial reframing, Proceedings normalization, substitution, or evidence of two papers.
+HOLD: **when between 10 Apr and the June Proceedings publication workflow the title/object changed**; whether the technical-terms title was already the title used on 22–24 Apr; whether No. 30 was accompanied at the closing session by a brief statement of contents and, if so, what carrier/source supplied it; manuscript identity across the circular, April meeting handling, June carrier, and 1898; whether 004 is a direct draft; whether `upādisesa` was already present in the 1897 communication; whether the change was authorial revision, officer/editorial reframing, Proceedings normalization, substitution, or evidence of two papers.
 
 Attendance/title firewall:
 
@@ -87,18 +87,23 @@ Carrier-date firewall:
 
 > **22–24 APR MEETING DATE != JUNE 1897 PRINTED TITLE-CARRIER DATE; JUNE CARRIER TITLE != PROOF OF APRIL MEETING TITLE.**
 
+Diplomatic-form firewall:
+
+> **PRINTED `upādānam / upādāna-kkhandhā` != AUTOMATICALLY NORMALIZED CITATION FORM `upādāna / upādānakkhandha`.**
+
 ## Default routing
 
 Start here, then use only as needed:
 
-1. `AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
-2. `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md` for the 18 Mar / 10 Apr response architecture and Lovejoy state;
-3. `archive_index/AOS_1896_1897_abstract_procedure_control_2026-09-05.md` for abstract / brief-statement procedure;
-4. `archive_index/AOS_1897_1899_1919_bylaw_recordbook_control_2026-09-05.md` for directly verified 1897 record-book duties and By-Law V;
-5. `AOS_1897_lost_paper_archival_trace_log_2026-09-04.md` for live carrier search and negative controls;
-6. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
-7. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
-8. repository 1898 article witness;
-9. direct AOS/archival carrier records for manuscript-identity or exact title-change timing claims.
+1. `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md` for exact printed page/title form;
+2. `AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md` for carrier recovery/history;
+3. `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md` for the 18 Mar / 10 Apr response architecture and Lovejoy state;
+4. `archive_index/AOS_1896_1897_abstract_procedure_control_2026-09-05.md` for abstract / brief-statement procedure;
+5. `archive_index/AOS_1897_1899_1919_bylaw_recordbook_control_2026-09-05.md` for directly verified 1897 record-book duties and By-Law V;
+6. `AOS_1897_lost_paper_archival_trace_log_2026-09-04.md` for frozen carrier-search provenance and negative controls;
+7. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
+8. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
+9. repository 1898 article witness;
+10. direct AOS/archival carrier records for manuscript-identity or exact title-change timing claims.
 
 Older Milinda/title/publication-selection batch files are frozen provenance.
