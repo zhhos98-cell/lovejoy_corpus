@@ -2,7 +2,7 @@
 
 Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comparative religion, philosophical practice, and the prehistory of his historical method.
 
-**Current state (2026-09-05):** the repository has a reduced active research surface. Archival/source-critical work remains open only at explicit HOLDs; Lovejoy-local argument work remains active; the pre-1898 Buddhist-output search remains active; the former Brinton–Boas–Lovejoy comparative `primitive` triangle is frozen and excluded from production.
+**Current state (2026-09-05):** the repository has a reduced active research surface. The current 004 -> 1897/98 short-form argument is **ready**; remaining pre-1898 archival work is request-ready or externally blocked and is non-blocking for short-form writing. Archival/source-critical work remains open only at explicit HOLDs; the former Brinton–Boas–Lovejoy comparative `primitive` triangle is frozen and excluded from production.
 
 The repository remains physically large because provenance and heavily cited legacy paths are preserved. File count is not the same thing as active authority.
 
@@ -10,15 +10,16 @@ The repository remains physically large because provenance and heavily cited leg
 
 1. [`CONSOLIDATED_RESEARCH_ENTRYPOINT.md`](CONSOLIDATED_RESEARCH_ENTRYPOINT.md) — default human research router.
 2. [`CURRENT_STATE.md`](CURRENT_STATE.md) — single living state file and exact live HOLDs.
-3. [`CANONICAL_INDEX.md`](CANONICAL_INDEX.md) — authoritative navigation.
-4. [`PROJECT_ARGUMENT_MAP.md`](PROJECT_ARGUMENT_MAP.md) — consolidated Lovejoy-centered argument architecture.
-5. [`QUELLENFORSCHUNG_CURRENT_GATE.md`](QUELLENFORSCHUNG_CURRENT_GATE.md) — source-critical protocol.
-6. [`TRANSCRIPTION_COMPLETION_QUEUE.md`](TRANSCRIPTION_COMPLETION_QUEUE.md) — diplomatic/image completion queue.
-7. [`research_notes/FROZEN_PROVENANCE_REGISTER.md`](research_notes/FROZEN_PROVENANCE_REGISTER.md) — global freeze/reopening policy.
+3. [`LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`](LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md) — short-form must-do / optional / external-blocked gate.
+4. [`CANONICAL_INDEX.md`](CANONICAL_INDEX.md) — authoritative navigation.
+5. [`PROJECT_ARGUMENT_MAP.md`](PROJECT_ARGUMENT_MAP.md) — consolidated Lovejoy-centered argument architecture.
+6. [`QUELLENFORSCHUNG_CURRENT_GATE.md`](QUELLENFORSCHUNG_CURRENT_GATE.md) — source-critical protocol.
+7. [`TRANSCRIPTION_COMPLETION_QUEUE.md`](TRANSCRIPTION_COMPLETION_QUEUE.md) — diplomatic/image completion queue.
+8. [`research_notes/FROZEN_PROVENANCE_REGISTER.md`](research_notes/FROZEN_PROVENANCE_REGISTER.md) — global freeze/reopening policy.
 
 Default workflow:
 
-> **living control -> terminal synthesis -> exact witness -> historical audit trail only if needed**
+> **living control -> short-form completion gate when relevant -> terminal synthesis -> exact witness -> historical audit trail only if needed**
 
 ## Five terminal syntheses
 
@@ -48,7 +49,9 @@ The strongest present publication-genesis chain is:
 
 → `10 Apr 1897 AOS Final Circular: Critical summary of the argument of the Milinda-pañha`
 
-→ `post-meeting Proceedings reporting 22–24 Apr 1897: upādāna / upādāna-kkhandhā` (normalized content-level title; exact typography HOLD; title form not yet independently dated to the meeting days)
+→ `22–24 Apr 1897 Baltimore meeting: No. 30 later recorded as read by title; exact meeting title and Lovejoy-specific brief statement remain open`
+
+→ `June 1897 JAOS 18 Second Half, explicitly Issued, June, 1897: printed Proceedings p.380 carries upādāna / upādāna-kkhandhā` (normalized content-level title; exact typography DIPLOMATIC HOLD)
 
 → `1898 JAOS: upādāna / upādisesa`
 
@@ -56,7 +59,7 @@ The strongest present publication-genesis chain is:
 
 → later 1902/1906 exits and scale changes.
 
-The 1897–98 sequence documents changing public research objects; it does not prove one unchanged manuscript under multiple titles. The meeting date also does not automatically date a title recovered only from post-meeting Proceedings.
+The 1897–98 sequence documents changing public research objects; it does not prove one unchanged manuscript under multiple titles. The meeting date also does not automatically date a title recovered only from the June printed Proceedings. The exact 10 April -> June transition mechanism remains a bounded archival question rather than a short-form writing prerequisite.
 
 ## Notebook state
 
@@ -72,7 +75,7 @@ The 1897–98 sequence documents changing public research objects; it does not p
 - 120/120 first-pass pages covered.
 - Broad source ownership closed; targeted adjudication through Round 37.
 - Diplomatic transcription incomplete.
-- Only explicit HOLDs in `CURRENT_STATE.md` / `TRANSCRIPTION_COMPLETION_QUEUE.md` remain live.
+- Only explicit HOLDs in `CURRENT_STATE.md` / `TRANSCRIPTION_COMPLETION_QUEUE.md` remain live, and they do not block the current 004 -> 1897/98 short-form argument unless directly quoted.
 
 The integrated reading surface is [`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`](archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md). The word `final` in that legacy filename is not a diplomatic-completion claim.
 
@@ -96,6 +99,7 @@ Production remains HOLD. Current writing authority is listed in `CANONICAL_INDEX
 |---|---|
 | Human entry point | `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` |
 | Living state | `CURRENT_STATE.md` |
+| Short-form completion gate | `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` |
 | Canonical navigation | `CANONICAL_INDEX.md` |
 | Argument architecture | `PROJECT_ARGUMENT_MAP.md` |
 | Source-critical policy | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
@@ -116,7 +120,8 @@ Production remains HOLD. Current writing authority is listed in `CANONICAL_INDEX
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
-- `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN POST-MEETING PROCEEDINGS`.
+- `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN JUNE PROCEEDINGS`.
+- `EXTERNAL ARCHIVAL FOLLOW-UP != SHORT-FORM WRITING BLOCKER`.
 - `INSTITUTIONAL PROXIMITY != ATTENDANCE / UPTAKE / INFLUENCE`.
 - `MORPHOLOGICAL ORDER != HISTORICAL ORDER`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
