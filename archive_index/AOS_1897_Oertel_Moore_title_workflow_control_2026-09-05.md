@@ -5,7 +5,7 @@ Status: **DIRECT ROLE/PROCEDURE EVIDENCE / SEARCH CHAIN SHARPENED / NO TITLE-CHA
 
 ## Purpose
 
-The Lovejoy title-change problem is now bounded between a directly printed 10 April `Milinda-pañha` state and a June 1897 Proceedings carrier with the recoverable `upādāna / upādāna-kkhandhā` state. This note maps the AOS officers whose documented roles sit on the relevant administrative path without converting office responsibility into authorship of the title change.
+The Lovejoy title-change problem is now bounded between a directly printed 10 April `Milinda-pañha` state and a June 1897 Proceedings carrier with the direct visual printed state `upādānam / upādāna-kkhandhā` on p.389. This note maps the AOS officers whose documented roles sit on the relevant administrative path without converting office responsibility into authorship of the title change.
 
 Core rule:
 
@@ -72,7 +72,7 @@ The documentary chain can now be expressed without guessing manuscript identity:
 
 → Editors / journal-production workflow, with **Moore directly present on both the recording and editorial sides**
 
-→ `June 1897 JAOS 18 Second Half` — technical-terms title printed on p.380.
+→ `June 1897 JAOS 18 Second Half` — technical-terms title printed on **p.389** as `upādānam / upādāna-kkhandhā`.
 
 What is missing is the transition object between the Milinda registration state and the June printed technical-title state.
 
@@ -143,7 +143,12 @@ Direct primary controls already held by the repository:
 
 - 18 Mar and 10 Apr 1897 AOS circulars, University of Chicago recipient file;
 - original *JAOS* 18 pt.2 (1897), Internet Archive `pt2journalofamer18ameruoft`, especially Baltimore Proceedings and pp.403–405 Constitution/By-Laws;
+- researcher-downloaded JSTOR stable `592308`, direct visual p.389 control;
 - June 1897 original-volume editorial/publication matter.
+
+Direct title control:
+
+- `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
 
 Public archival controls inspected 2026-09-05:
 
