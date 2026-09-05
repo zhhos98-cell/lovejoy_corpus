@@ -1,35 +1,37 @@
-# AOS 1897 No. 30 — recovery of the `upādāna / upādāna-kkhandhā` title carrier state
+# AOS 1897 No. 30 — recovery of the `upādāna / upādānakkhandha` title carrier state
 
 Date: 2026-09-05  
-Status: **DIRECT JUNE 1897 ORIGINAL-VOLUME CARRIER + JSTOR CONTENT RECOVERY / APRIL MEETING TITLE OPEN / EXACT TYPOGRAPHIC FORM HOLD**
+Status: **DIRECT JUNE 1897 ORIGINAL-VOLUME CARRIER + DIRECT JSTOR PAGE-IMAGE CONTROL / APRIL MEETING TITLE OPEN**
 
 ## Core result
 
-The recoverable technical-terms title is securely a **June 1897 printed Proceedings carrier state reporting the April Baltimore meeting**, not yet a diplomatically verified 22–24 April meeting title.
+The recoverable technical-terms title is securely a **June 1897 printed Proceedings carrier state reporting the April Baltimore meeting**, not yet an independently witnessed 22–24 April meeting title.
 
-The relevant original volume is independently digitized as Internet Archive identifier `pt2journalofamer18ameruoft`, University of Toronto / Robarts copy of *Journal of the American Oriental Society* 18, pt.2 (1897). Its front matter states that the Second Half is for July–December 1897 and was **`Issued, June, 1897`**. The same issue places a `LIST OF MEMBERS` immediately after the Proceedings on p. 391 marked **`REVISED, MAY, 1897`**.
+The relevant original volume is independently digitized as Internet Archive identifier `pt2journalofamer18ameruoft`, University of Toronto / Robarts copy of *Journal of the American Oriental Society* 18, pt.2 (1897). Its front matter states that the Second Half is for July–December 1897 and was **`Issued, June, 1897`**. The same issue places a `LIST OF MEMBERS` immediately after the Proceedings on p.391 marked **`REVISED, MAY, 1897`**.
 
 At the April meeting itself, the Editors reported that volume XVIII, Second Half was `nearly all in type` and would be issued `as soon as the Proceedings of the present meeting can be printed.` The published Proceedings were therefore an explicitly post-meeting component inserted into an otherwise largely typeset issue.
 
-Within that June carrier, the full-volume OCR reaches the printed `Papers Announced` list on **p. 380** and gives No. 30 as:
+Direct visual inspection of the researcher-downloaded JSTOR PDF fixes Lovejoy's No.30 entry on **printed p.389**. It reads:
 
-> `Mr. Arthur O. Lovejoy, Harvard University; On the ...ing of the Buddhist technical terms ...`
+> `Mr. Arthur O. Lovejoy, Harvard University; On the meaning of the Buddhist technical terms upādānam and upādāna-kkhandhā.`
 
-The OCR loses part of `meaning` and, crucially, drops the line containing the two Pāli terms. This original-volume OCR therefore independently verifies **author, affiliation, item number, printed page, title prefix, and June carrier date**, but it cannot by itself supply a diplomatic reading of the term pair.
+This closes the former diplomatic HOLD. The page image directly controls:
 
-A separate JSTOR indexed-text retrieval for the same public-domain Proceedings (`JAOS` 18 [1897], 375–390; stable 592308) exposes the end of Lovejoy's No. 30 title in OCR-corrupted form. The second term is mechanically identifiable as **`upādāna-kkhandhā` / `upādānakkhandhā`**. The first term is the corresponding **`upādāna`** form, although the exact printed ending/diacritics remain to be visually checked.
+- printed page **389**;
+- first term **`upādānam`**, with final roman `m`;
+- second term **`upādāna-kkhandhā`**;
+- printed hyphen after `upādāna-`;
+- visible macrons in both terms, including final `ā` in `kkhandhā`.
 
-Therefore the content-level **June carrier title** can be normalized safely as:
+The earlier `p.380` reading came from a mistaken page association in OCR-based recovery and is superseded. The normalized content-level form used for discussion can remain:
 
-> **On the meaning of the Buddhist technical terms `upādāna` and `upādāna-kkhandhā`**
+> **`upādāna / upādānakkhandha`**
 
-with this strict qualification:
+with the strict distinction that this is a normalized discussion form, while the printed 1897 title itself is `upādānam / upādāna-kkhandhā`.
 
-> **normalized content identification, not diplomatic transcription and not automatic reconstruction of the title used at the April meeting. Exact printed diacritics, hyphenation, and the grammatical ending of the first term remain VISUAL HOLD until printed p. 380 is directly inspected.**
+Direct visual control is recorded separately in:
 
-The Lovejoy No. 30 entry is on **printed p. 380**, correcting the earlier erroneous `p. 389` visual target.
-
-This also supersedes any suggestion that the two terms can simply be supplied as `upādāna and upādisesa` from the 1898 article title.
+`archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
 
 ## Documentary sequence
 
@@ -60,19 +62,20 @@ The same wording prevents `read by title` from being equated with `only a bare t
 
 ### June 1897 — published Proceedings carrier
 
-The original-volume front matter explicitly says **`Issued, June, 1897`**. Printed p. 380 gives the No. 30 technical-terms title carrier state; p. 387 records its read-by-title handling; p. 391 begins a member list `REVISED, MAY, 1897`.
+The original-volume front matter explicitly says **`Issued, June, 1897`**. Printed p.389 gives the No.30 technical-terms title carrier state; p.387 records its read-by-title handling; p.391 begins a member list `REVISED, MAY, 1897`.
 
-Direct original-volume carrier:
+Direct carrier controls:
 
-- Internet Archive `pt2journalofamer18ameruoft`, University of Toronto / Robarts scan, *JAOS* 18 pt.2 (1897), especially front matter and printed pp. 380, 387, 391.
+- Internet Archive `pt2journalofamer18ameruoft`, University of Toronto / Robarts scan, *JAOS* 18 pt.2 (1897), especially front matter and printed pp.387, 389, 391;
+- JSTOR stable `592308`, researcher-downloaded PDF, direct visual inspection of p.389.
 
-Parallel indexed carrier:
+Printed diplomatic pair:
 
-- JSTOR stable `592308`.
+`upādānam` + `upādāna-kkhandhā`.
 
-The recoverable content-level pair is:
+Normalized discussion pair:
 
-`upādāna` + `upādāna-kkhandhā`.
+`upādāna` + `upādānakkhandha`.
 
 ### 1898 — published JAOS article
 
@@ -89,7 +92,7 @@ Thus the controlled public documentary path is now:
 
 → `22–24 Apr — No.30 meeting handling: read by title; Lovejoy-specific brief statement OPEN; exact meeting title OPEN`
 
-→ `June 1897 — published Proceedings p.380: upādāna / upādāna-kkhandhā title carrier state`
+→ `June 1897 — published Proceedings p.389: upādānam / upādāna-kkhandhā title carrier state`
 
 → `1898 — upādāna / upādisesa published term-pair object`.
 
@@ -99,9 +102,9 @@ The **second technical term changes** between the June 1897 carrier and the 1898
 
 The recovered term is not peripheral to notebook 004 or to the published article's first half.
 
-Notebook 004 repeatedly works on the relation between `upādāna` and the five `upādānakkhandha`, especially in the cluster now routed around pp. 47–70. The central contemporary dispute is Senart's claim that `upādāna` is effectively an abbreviated collective designation for the five `upādānaskandhas`; Lovejoy tests the cited passages, rejects the equation, and reconstructs the relation between attachment and the skandhas.
+Notebook 004 repeatedly works on the relation between `upādāna` and the five `upādānakkhandha`, especially in the cluster now routed around pp.47–70. The central contemporary dispute is Senart's claim that `upādāna` is effectively an abbreviated collective designation for the five `upādānaskandhas`; Lovejoy tests the cited passages, rejects the equation, and reconstructs the relation between attachment and the skandhas.
 
-The 1898 article preserves this problem prominently on pp. 126–129. It introduces Senart's use of `upādānakkhandha`, rejects the identification `upādāna = upādānakkhandha`, and spends several pages specifying the relation between attachment and the skandhas before moving to the later `upādi / upādisesa` problem.
+The 1898 article preserves this problem prominently on pp.126–129. It introduces Senart's use of `upādānakkhandha`, rejects the identification `upādāna = upādānakkhandha`, and spends several pages specifying the relation between attachment and the skandhas before moving to the later `upādi / upādisesa` problem.
 
 The June 1897 title carrier therefore points directly into a problem cluster already independently visible in notebook 004 and in the first part of the 1898 publication.
 
@@ -110,9 +113,9 @@ The June 1897 title carrier therefore points directly into a problem cluster alr
 ### DIRECT / SECURE
 
 - 10 Apr 1897: Lovejoy's announced AOS object was a `Critical summary of the argument of the Milinda-pañha`.
-- 22–24 Apr meeting: No. 30 was handled by title in a group that could, item by item, have been accompanied by a brief statement of contents.
-- The original-volume Proceedings were published in **June 1897**; printed p. 380 places Lovejoy No. 30 under `On the ... of the Buddhist technical terms ...`; JSTOR indexed OCR identifies the term pair at content level as `upādāna` and `upādāna-kkhandhā`.
-- Printed p. 387 explicitly includes `30 (by Lovejoy)` among papers read by title.
+- 22–24 Apr meeting: No.30 was handled by title in a group that could, item by item, have been accompanied by a brief statement of contents.
+- The original-volume Proceedings were published in **June 1897**; direct visual inspection fixes Lovejoy No.30 on **printed p.389** as `On the meaning of the Buddhist technical terms upādānam and upādāna-kkhandhā`.
+- Printed p.387 explicitly includes `30 (by Lovejoy)` among papers read by title.
 - 1898: the published article instead names `upādāna` and `upādisesa`.
 - The 1898 article's first part directly treats the `upādāna / upādānakkhandha` relation and Senart's equation.
 
@@ -122,10 +125,8 @@ The June 1897 title carrier is closer in object to notebook 004's `upādāna / k
 
 ### HOLD
 
-- exact printed spelling and diacritics of both terms on **printed p. 380**;
-- whether the first term is printed in a grammatical form ending in `-m` / `-ṃ` rather than citation-form `upādāna`;
 - whether the technical-terms title was already the title used on 22–24 Apr;
-- whether No. 30 was accompanied by a brief statement of contents and, if so, what carrier supplied it;
+- whether No.30 was accompanied by a brief statement of contents and, if so, what carrier supplied it;
 - whether Senart was named in the 1897 communication;
 - whether the 10 Apr Milinda communication and June technical-term carrier represent one revised manuscript, two drafts, editorial reframing, Proceedings normalization, or a substitution;
 - whether notebook 004 is a direct draft of either communication;
@@ -137,7 +138,7 @@ This is exactly the kind of object the current search should prioritize: a **doc
 
 The high-value search is therefore recovery of intermediate carriers between 10 April and the June publication workflow:
 
-1. AOS title slip / remote correction / cover letter / manuscript / abstract / brief statement of contents for No. 30, searched under both the `Milinda-pañha` and `upādāna / upādāna-kkhandhā` states;
+1. AOS title slip / remote correction / cover letter / manuscript / abstract / brief statement of contents for No.30, searched under both the `Milinda-pañha` and `upādāna / upādānakkhandha` states;
 2. Lovejoy correspondence around March–June 1897 explaining the title/object change;
 3. the AOS Corresponding Secretary letter-copy book and Recording Secretary proceedings/minute book, both record classes directly required by the verified 1897 By-Laws;
 4. Graduate Philosophical Society of Harvard minutes and programs for 1896–97, audited for Lovejoy paper/report titles involving Buddhism, India, Pāli, Sāṃkhya, Nirvāṇa, dependent origination, or related terms;
@@ -149,11 +150,13 @@ The high-value search is therefore recovery of intermediate carriers between 10 
 
 - American Oriental Society, `Final Circular`, 10 Apr 1897, University of Chicago Library circular file: `https://www.lib.uchicago.edu/ead/pdf/ofcpreshjb-0007-013.pdf`.
 - `Proceedings of the American Oriental Society, at Its Meeting in Baltimore, Maryland, April 22d, 23d, and 24th, 1897`, *JAOS* 18 (1897): 375–390; Internet Archive identifier `pt2journalofamer18ameruoft`, University of Toronto / Robarts scan; JSTOR stable `592308`.
-- Same original volume, front matter: Second Half `Issued, June, 1897`; p. 391 member list `REVISED, MAY, 1897`.
+- Same original volume, front matter: Second Half `Issued, June, 1897`; p.391 member list `REVISED, MAY, 1897`.
+- Researcher-downloaded JSTOR PDF of stable `592308`, direct visual inspection of printed p.389.
 - Arthur Oncken Lovejoy, `The Buddhistic technical terms upādāna and upādisesa`, *JAOS* 19 (1898): 126–136, JSTOR stable `592475`.
 
 ### Repository controls
 
+- `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`
 - `archive_index/AOS_1896_1897_abstract_procedure_control_2026-09-05.md`
 - `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md`
 - `archive_index/AOS_1897_1899_1919_bylaw_recordbook_control_2026-09-05.md`
@@ -163,4 +166,4 @@ The high-value search is therefore recovery of intermediate carriers between 10 
 
 ## Current judgment
 
-**MAJOR TITLE-STATE AND CARRIER-DATE UPGRADE.** The 1897 AOS object should no longer be described as though the technical title were securely a 22–24 April title. The recoverable states are now: 10 April Milinda title; April meeting handling by title with Lovejoy-specific brief-statement status unresolved; **June 1897 published Proceedings carrier** with the recoverable `upādāna / upādāna-kkhandhā` object; 1898 publication with `upādisesa`. This materially narrows both the chronology and the archival target while preserving the title/manuscript distinction.
+**MAJOR TITLE-STATE / CARRIER-DATE / DIPLOMATIC CONTROL CLOSED.** The 1897 AOS object should not be described as though the technical title were securely a 22–24 April title. The recoverable states are now: 10 April Milinda title; April meeting handling by title with Lovejoy-specific brief-statement status unresolved; **June 1897 published Proceedings carrier on p.389 with exact printed `upādānam / upādāna-kkhandhā`**; 1898 publication with `upādisesa`. This materially narrows the chronology and closes the former page/typography uncertainty while preserving the title/manuscript distinction.
