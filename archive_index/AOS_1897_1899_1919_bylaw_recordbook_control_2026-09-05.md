@@ -1,7 +1,7 @@
 # AOS 1897 / 1899 / 1919 by-law and record-book chronology control
 
 Date: 2026-09-05  
-Status: **DIRECT OFFICIAL TEXT / CHRONOLOGY CORRECTION / 1919 ADOPTION STILL OPEN**
+Status: **DIRECT OFFICIAL TEXT / CHRONOLOGY CORRECTION / LATER-REPRINT TRAP CONTROLLED / 1919 ADOPTION STILL OPEN**
 
 ## Purpose
 
@@ -59,6 +59,32 @@ Therefore:
 
 `1899 OPT-OUT CLAUSE != 1897 RULE`.
 
+## 2A. Bibliographic trap — later reprints retain the `With Amendments of April, 1897` heading
+
+Later official printings prove that the heading `With Amendments of April, 1897` is **not** a diplomatic date-stamp for every provision printed beneath it.
+
+A clear control is the `Constitution and By-Laws of the American Oriental Society` printed in **JAOS 28 (1907), pp. 434–436, JSTOR stable 592784**. Searchable official text retains the heading:
+
+> `With Amendments of April, 1897.`
+
+while By-Law V in that later printing contains the opt-out language:
+
+> `unless notice to the contrary is given to the Editors at the time of presentation.`
+
+The same pattern is visible in other post-1899 reprints. Since the published 1899 Proceedings directly record the recommendation and unanimous adoption of that opt-out clause in April 1899, a later constitution headed `With Amendments of April, 1897` cannot be treated as a frozen transcript of the 1897 by-laws.
+
+Interpretive rule:
+
+> **THE HEADING TRACKS A CONSTITUTIONAL AMENDMENT STATE; IT DOES NOT GUARANTEE THAT EVERY BY-LAW BELOW REMAINED UNCHANGED SINCE APRIL 1897.**
+
+This is the specific bibliographic mechanism by which a later AOS reprint can silently back-project the 1899 By-Law V language if the reprint date is ignored.
+
+Project firewall:
+
+`LATER REPRINT HEADED 1897 != DIPLOMATIC 1897 BY-LAW TEXT`.
+
+Operational consequence: exact 1897 claims should control to JAOS 18 (1897), pp. 403–405, or to an amendment chronology that independently proves a provision's date. Do not use the recurring `With Amendments of April, 1897` heading alone as evidence that a quoted by-law was already present in 1897.
+
 ## 3. What the 1897 custody rule can and cannot establish
 
 The older form of By-Law V distinguishes two classes:
@@ -68,7 +94,7 @@ The older form of By-Law V distinguishes two classes:
 
 It assigns such material to the disposal of the Board of Directors. It does **not** establish that every announced communication was accompanied by a manuscript, that every title read in an author's absence counted as a deposited manuscript, or that every deposited object was permanently retained.
 
-For Lovejoy in 1897, the direct circular evidence still establishes only the name-and-title submission route to Hanns Oertel before the 10 April Final Circular. The later Proceedings report that Lovejoy was absent and that his communication was read by title. By-Law V strengthens the institutional warrant for searching Board/editorial/deposit carriers, but it does not turn that warrant into evidence that a Lovejoy manuscript entered those carriers.
+For Lovejoy in 1897, the direct circular evidence establishes the name-and-title submission route to Hanns Oertel before the 10 April Final Circular. The 18 March Preliminary Circular explicitly solicits contributor name + title separately from attendance intention. The later Proceedings report that Lovejoy was absent and that his communication was read by title. By-Law V strengthens the institutional warrant for searching Board/editorial/deposit carriers, but it does not turn that warrant into evidence that a Lovejoy manuscript entered those carriers.
 
 Project firewall:
 
@@ -119,10 +145,11 @@ The carrier search should now use the following chronology rather than a timeles
 
 ### 1897
 
-- Oertel is the directly documented name-and-title recipient.
+- Oertel is the directly documented name-and-title recipient under the 18 March printed procedure.
 - Board of Directors / editor / deposit routes remain institutionally warranted by the older By-Law V.
 - A deposited Lovejoy manuscript remains unproved.
 - The 1899 author opt-out clause must not be used to reconstruct Lovejoy's 1897 procedural choices.
+- Later AOS constitutions carrying the `With Amendments of April, 1897` heading must be date-controlled before any by-law wording is projected backward.
 
 ### 1919 and later custody reconstruction
 
@@ -138,6 +165,7 @@ The carrier search should now use the following chronology rather than a timeles
 - older By-Law V was still being quoted without the author opt-out in AOS material immediately before the 1899 annual meeting;
 - the opt-out language was recommended and unanimously adopted at the April 1899 meeting;
 - the 1899 printed By-Law V contains the new opt-out language;
+- later official AOS reprints can retain the `With Amendments of April, 1897` heading while containing the post-1897 opt-out clause;
 - Lanman's 1919 repository motion was printed in advance;
 - the published 1919 Proceedings record action on Edgerton's amendments and on a different Lanman motion.
 
@@ -153,4 +181,4 @@ The carrier search should now use the following chronology rather than a timeles
 
 Compact control:
 
-> **1897 DISPOSAL RULE != 1899 OPT-OUT RULE != 1919 PROPOSED RECORD-BOOK REPOSITORY RULE.**
+> **1897 DISPOSAL RULE != 1899 OPT-OUT RULE != LATER `1897`-HEADED REPRINT != 1919 PROPOSED RECORD-BOOK REPOSITORY RULE.**
