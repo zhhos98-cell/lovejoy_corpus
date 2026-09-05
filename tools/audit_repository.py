@@ -25,6 +25,8 @@ REQUIRED = (
     "QUELLENFORSCHUNG_CURRENT_GATE.md",
     "WORKING_RULES.md",
     "root_payload_index.md",
+    "source/README.md",
+    "source/SOURCE_INDEX.md",
     "archive_index/README.md",
     "archive_transcriptions/README.md",
     "research_notes/README.md",
@@ -38,17 +40,16 @@ REQUIRED = (
     "research_notes/repository_cleanup_2026-09-02.md",
 )
 
-ROOT_CONTROL_FILES = {
-    ".gitignore",
-    "README.md",
-    "CONSOLIDATED_RESEARCH_ENTRYPOINT.md",
-    "CURRENT_STATE.md",
-    "TRANSCRIPTION_COMPLETION_QUEUE.md",
-    "CANONICAL_INDEX.md",
-    "ARCHIVE_TRANSCRIPTION_PROGRESS.md",
-    "QUELLENFORSCHUNG_CURRENT_GATE.md",
-    "WORKING_RULES.md",
-    "root_payload_index.md",
+RAW_ROOT_SUFFIXES = {
+    ".pdf",
+    ".txt",
+    ".json",
+    ".xml",
+    ".csv",
+    ".tsv",
+    ".zip",
+    ".epub",
+    ".html",
 }
 
 CANONICAL_BATCHES = (
@@ -68,7 +69,7 @@ CANONICAL_BATCHES = (
 
 LINK_RE = re.compile(r"(?<!!)\[[^]]*\]\(([^)]+)\)")
 BACKTICK_PATH_RE = re.compile(
-    r"`((?:research_notes|archive_transcriptions|archive_index|tools)/[^`]+\.(?:md|json|csv|tsv|py))`"
+    r"`((?:research_notes|archive_transcriptions|archive_index|source|tools)/[^`]+\.(?:md|json|csv|tsv|txt|xml|html|py))`"
 )
 
 
@@ -109,13 +110,11 @@ def main() -> int:
         if not (ROOT / relative).is_file():
             errors.append(f"missing required file: {relative}")
 
-    root_index_path = ROOT / "root_payload_index.md"
-    root_index_text = root_index_path.read_text(encoding="utf-8") if root_index_path.is_file() else ""
     for path in files:
-        if path.parent != ROOT or path.name in ROOT_CONTROL_FILES:
-            continue
-        if f"`{path.name}`" not in root_index_text:
-            errors.append(f"unindexed root payload: {path.name}")
+        if path.parent == ROOT and path.suffix.lower() in RAW_ROOT_SUFFIXES:
+            errors.append(
+                f"raw payload in repository root: {path.name} (move under source/ and register in source/SOURCE_INDEX.md)"
+            )
 
     parsed_json = 0
     for path in files:
@@ -187,6 +186,8 @@ def main() -> int:
         "QUELLENFORSCHUNG_CURRENT_GATE.md",
         "WORKING_RULES.md",
         "root_payload_index.md",
+        "source/README.md",
+        "source/SOURCE_INDEX.md",
         "archive_index/README.md",
         "archive_transcriptions/README.md",
         "research_notes/README.md",
@@ -221,6 +222,7 @@ def main() -> int:
     print(f"Tracked files: {len(files)}")
     print(f"Parsed JSON files: {parsed_json}")
     print("Canonical page coverage: 004=71/71, 005=120/120")
+    print("Raw source routing: source/SOURCE_INDEX.md")
     print("Diplomatic transcription completion is governed separately by TRANSCRIPTION_COMPLETION_QUEUE.md")
     if warnings:
         print(f"Warnings: {len(warnings)}")
