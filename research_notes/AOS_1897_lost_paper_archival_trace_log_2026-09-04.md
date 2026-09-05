@@ -464,3 +464,40 @@ Restricted/de-prioritized for the immediate hunt: **RU 303 Accession 2015-A-053,
 The 1919 Lanman statement is now explicitly fenced as a **motion to be presented, not a proven adopted custody order**. The restricted RU303 AOS subject file is also removed from the present request queue. The Chicago recipient file and JSTOR Proceedings remain closed as text-recovery carriers.
 
 The next decisive result would be an item-level hit in MS-0873 or Oertel f.56, or a Yale administrative/catalog trail that produces the present/old shelfmark and date coverage of nineteenth-century AOS record books. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
+
+## Trace 27 — 1912 Librarian report limits the Oertel whole-library reorganization hypothesis
+
+A direct AOS Librarian report from 1912 supplies an important control on later claims that Hanns Oertel had comprehensively reorganized the Society Library around 1905.
+
+Professor Albert T. Clay's report states:
+
+- `Aside from the cataloguing of serial publications no attempt has been made to classify the accessions.`
+- the Library remained in a `condition of disorder` that made works other than serial publications almost impossible to locate;
+- the serial publications had been catalogued by `Miss Whitney and her associates under the direction of the former Librarian, Professor Oertel`.
+
+The direct warrant is therefore narrower than a whole-library reorganization claim: **Oertel-directed serial cataloguing is secure; comprehensive classification/reorganization of the non-serial holdings is contradicted by the 1912 report's description of continuing disorder.**
+
+Project rule:
+
+> **OERTEL-DIRECTED SERIAL CATALOGUING != WHOLE-LIBRARY RECATALOGUING.**
+
+Any secondary claim that Oertel had the entire AOS Library reorganized by 1905 should remain unsupported/overstated unless a direct earlier report proves a broader operation. This also means the circa-1900 Yale catalog books remain useful search instruments, but they should not be interpreted through an assumed single 1905 global recataloguing event.
+
+Source: AOS Proceedings / `Report of the Librarian`, JAOS 32 (1912), Librarian Albert T. Clay.
+
+Assessment: **DIRECT PRIMARY CORRECTION / SEARCH-MODEL CALIBRATED.**
+
+## Trace 28 — 1905 volume marks a seven-year accession-publication node, not yet a recataloguing event
+
+JAOS 26 (1905) prints two adjacent institutional items after the scholarly articles:
+
+- `Proceedings of the American Oriental Society, at Its Meeting in Springfield, Mass., 1905`, pp. 417-426;
+- `Additions to the Library: April, 1898-April, 1905`, pp. 427-449.
+
+The second item establishes a **seven-year cumulative accession-list publication node** ending in April 1905. It is therefore a high-value witness for what the Society chose to register/publish about library growth at that moment.
+
+It does **not by title alone** establish a whole-library inventory, shelfmark revision, recataloguing, or treatment of administrative manuscript record books. The 1905 Proceedings and the accession-list opening matter remain targeted for direct page-level inspection.
+
+Source: JAOS 26 (1905) table of contents, JSTOR stable 592897 and 592898.
+
+Assessment: **TARGET UPGRADE / ACCESSION PUBLICATION SECURE / RECATALOGUING INFERENCE HOLD.**
