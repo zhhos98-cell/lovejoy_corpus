@@ -42,7 +42,7 @@ Secure public object/carrier chain:
 
 → `22–24 Apr 1897 — Baltimore meeting: No. 30 later recorded as read by title; the group was handled with or without brief statements of contents, but Lovejoy-specific brief-statement status is OPEN`
 
-→ `June 1897 — JAOS 18 Second Half, explicitly "Issued, June, 1897": Proceedings p.380 carries the technical-terms title state upādāna / upādāna-kkhandhā` (normalized content-level recovery; exact Pāli typography DIPLOMATIC HOLD)
+→ `June 1897 — JAOS 18 Second Half, explicitly "Issued, June, 1897": Proceedings p.389 carries the diplomatic title state upādānam / upādāna-kkhandhā` (direct page-image control; normalized discussion form `upādāna / upādānakkhandha`)
 
 → `1898 — upādāna / upādisesa`.
 
@@ -65,9 +65,9 @@ JHU **RG-04-090, Series 8: Paul Haupt, 1878–1916** is now **DE-PRIORITIZED**. 
 
 The UChicago Box 7 Folder 13 1897 recipient-file route is **closed** for an additional post-meeting circular/correction carrier after complete page-level audit. A. V. Williams Jackson MS 1009 is de-prioritized because its publicly described surviving profile is scholarly notes/drafts rather than an AOS editorial correspondence series. Generic Yale `Letter Book II` web searching has reached a public-discovery ceiling.
 
-Current stop/restart note: `archive_index/LOVEJOY_1897_SESSION_HANDOFF_2026-09-05_1336.md`. Current short-form completion control: `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`.
+Current short-form completion control: `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`. Historical 1897 search handoffs remain provenance and do not override this living state.
 
-Separate small HOLD: direct page-image inspection of **JAOS 18 pt.2 printed p.380** for exact Pāli typography. Content-level title recovery remains controlled; this is now classified as a **publication-grade diplomatic cleanup**, not a short-form argument blocker.
+The former AOS No. 30 diplomatic HOLD is **CLOSED**: direct visual inspection of printed p.389 fixes `upādānam` and `upādāna-kkhandhā`, including the hyphen and grammatical ending. Control: `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
 
 ### Formation 1895–1899
 
@@ -93,7 +93,7 @@ Use later materials only as scale/reaggregation controls. They are not a retrosp
 - `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN JUNE PROCEEDINGS`.
 - `READ BY TITLE != BARE TITLE ONLY`.
 - `GROUP-LEVEL WITH/WITHOUT BRIEF STATEMENT != LOVEJOY-SPECIFIC BRIEF STATEMENT`.
-- `INDEXED OCR CONTENT RECOVERY != DIPLOMATIC TITLE TRANSCRIPTION`.
+- `NORMALIZED TERM FORM != DIPLOMATIC PRINTED TITLE FORM`.
 - `INSTITUTIONAL CARRIER EXISTENCE != LOVEJOY AUTHORSHIP`.
 - `LOCAL HOST-INSTITUTION ECHO != AOS CORPORATE RECORD`.
 - `PUBLIC CATALOGUE NO-HIT != ARCHIVAL ABSENCE`.
@@ -112,7 +112,7 @@ More generally, historical process files are frozen by naming/status class under
 
 ## 4. JHI Blog
 
-Production remains on HOLD. Existing current writing authority is preserved in `CANONICAL_INDEX.md`; consolidation of research routing does not automatically promote a newer draft or import the 2026-09-04 AOS title recovery into production text.
+Production remains on HOLD. Existing current writing authority is preserved in `CANONICAL_INDEX.md`; consolidation of research routing does not automatically promote a newer draft or import research-state evidence without a controlled local patch.
 
 ## 5. Default continuation
 
