@@ -16,7 +16,8 @@ Historical file paths are preserved for provenance. Default authority is now int
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Diplomatic/image completion | `TRANSCRIPTION_COMPLETION_QUEUE.md` |
 | Notebook page coverage/residual limits | `ARCHIVE_TRANSCRIPTION_PROGRESS.md` |
-| Working/governance rules | `AGENTS.md` + `WORKING_RULES.md` |
+| Article editing/calibration protocol | `AGENTS.md` |
+| Working/governance rules | `WORKING_RULES.md` |
 | Frozen provenance policy | `research_notes/FROZEN_PROVENANCE_REGISTER.md` |
 
 ## 2. Terminal research syntheses
@@ -83,16 +84,18 @@ The 1897 AOS online discovery phase is currently closed at its public ceiling. T
 
 ## 7. JHI Blog production
 
-Production remains HOLD.
+Production remains HOLD, but the canonical prose has completed the repository-governed **Round 0–7 calibration pass**. HOLD now means that no final submission/export approval has been given; it does not mean that another corpus-wide research or rewrite pass is required.
 
-Current writing authority remains:
+Current writing authority is:
 
 1. `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`
-2. `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`
-3. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
-4. `QUELLENFORSCHUNG_CURRENT_GATE.md`
+2. `research_notes/JHI_blog_v3_7_round0_7_calibration_control_2026-09-05.md`
+3. `AGENTS.md`
+4. `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`
+5. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
+6. `QUELLENFORSCHUNG_CURRENT_GATE.md`
 
-Existing earlier/later exploratory drafts are writing provenance unless `CURRENT_STATE.md` explicitly promotes them. The short-form completion checklist governs research readiness; it does not itself promote a production draft.
+The Round 0–7 control records the exact local-diff logic: factual hygiene, chronology, sentence-level source control, conceptual-center reduction, historiography, prose temperature, notes/diplomatic cleanup, and final counter-test. Existing earlier/later exploratory drafts are writing provenance unless `CURRENT_STATE.md` explicitly promotes them. Do not restore material removed by the conceptual-center or counter-test rounds merely because the repository contains more evidence for it.
 
 ## 8. Comparative controls and frozen branches
 
