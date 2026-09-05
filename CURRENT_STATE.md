@@ -1,92 +1,102 @@
 # Lovejoy corpus — current state
 
 Last synchronized: 2026-09-05  
-Status: **SHORT-FORM ARGUMENT READY / PRE-1898 ARCHIVAL FOLLOW-UP NON-BLOCKING / HISTORICAL PROCESS LAYER FROZEN**
+Status: **SHORT-FORM ARGUMENT READY / ACTIVE SURFACE CONSOLIDATED / HISTORICAL PROCESS FROZEN**
 
 This is the single living state file. Historical status language elsewhere does not override it.
 
-For ordinary research begin with `CONSOLIDATED_RESEARCH_ENTRYPOINT.md`, then one of the five terminal syntheses. For short-form completion decisions use `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`. Historical `batch` / `round` / `sweep` / `delta` files are provenance by default under `research_notes/FROZEN_PROVENANCE_REGISTER.md`.
+Default entry: `CONSOLIDATED_RESEARCH_ENTRYPOINT.md`. Do not begin from a full-repository scan.
 
-## 1. Active research surface
+## 1. Active research domains
 
 ### Notebook 004
 
 Default synthesis: `research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md`.
 
-State: 71/71 first-pass pages; high-value clause ownership closed for the present argument; diplomatic residue remains. Reopen broad 004 work only for a direct new witness, contradiction, publication-grade exact quotation, or source identification that could materially change authorial attribution.
+State: **71/71 first-pass pages; argument-level source ownership closed for the present project.** Remaining residue is diplomatic, micro-paleographic, foreign-language, bibliographic, or exact-quotation level. Reopen broad 004 work only for a direct new witness, contradiction, publication-grade exact quotation, or source identification that could materially change authorial attribution.
 
 ### Notebook 005
 
 Default synthesis: `research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md`.
 
-State: 120/120 first-pass pages; broad source ownership closed; targeted adjudication through Round 37; diplomatic transcription incomplete.
+State: **120/120 first-pass pages; broad source ownership closed; diplomatic transcription incomplete.** Live HOLDs remain controlled by `TRANSCRIPTION_COMPLETION_QUEUE.md`, especially p.117, p.55, p.90, p.87, p.33/p.36, and pp.92–99. They do not block the current 004-centered short form unless a final sentence directly depends on them.
 
-Live HOLDs remain:
+Do not resume broad 005 source hunting.
 
-- p.117 exact authorship/source-version of ranked sacrifice synthesis;
-- p.55 source boundary / sex-taste direction / power-value gloss;
-- p.90 Ellis/Kingsley packet relation and `turning of a key` verification;
-- p.87 visible Strack/page attachment;
-- p.33 / p.36 local wording and authorial seams;
-- pp.92–99 Marillier insert micro-seams.
-
-Use `TRANSCRIPTION_COMPLETION_QUEUE.md` for exact archival work. Stop generic source hunting after a terminal ceiling is reached. These HOLDs do not block the current 004 -> 1897/98 short-form argument unless the final text directly quotes them.
-
-### 1897–1898 publication genesis / unknown pre-1898 outputs
+### 1897–1898 publication genesis
 
 Default synthesis: `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`.
 
-Secure public object/carrier chain:
+Secure carrier chain:
 
 `10 Apr 1897 — Final Circular: Critical summary of the argument of the Milinda-pañha`
 
-→ `22–24 Apr 1897 — Baltimore meeting: No. 30 later recorded as read by title; the group was handled with or without brief statements of contents, but Lovejoy-specific brief-statement status is OPEN`
+→ `22–24 Apr — Baltimore meeting: No.30 later recorded among papers read by title; Lovejoy-specific brief-statement status OPEN; exact meeting title OPEN`
 
-→ `June 1897 — JAOS 18 Second Half, explicitly "Issued, June, 1897": Proceedings p.389 carries the diplomatic title state upādānam / upādāna-kkhandhā` (direct page-image control; normalized discussion form `upādāna / upādānakkhandha`)
+→ `June 1897 — JAOS 18 Second Half: printed Proceedings p.389 gives On the meaning of the Buddhist technical terms upādānam and upādāna-kkhandhā`
 
-→ `1898 — upādāna / upādisesa`.
+→ `1898 — The Buddhistic technical terms upādāna and upādisesa`.
 
-The June carrier itself contains a member list on p.391 marked `REVISED, MAY, 1897`; at the April meeting the Editors reported that the Second Half was nearly all in type and would be issued once the Proceedings could be printed. The technical-terms title is therefore securely a **post-meeting, June-publication carrier state**. Do not automatically date that title form to 22–24 April. The exact Milinda-title -> technical-terms-title change remains OPEN within the interval after the 10 Apr printed circular and by the June published carrier; whether the technical title was already used at the meeting is separately OPEN.
+Direct p.389 typography is **CLOSED**. The June technical title is a post-meeting printed-carrier state and must not automatically be dated to 22–24 April. The 10 Apr -> June mechanism remains unknown. Treat each carrier as a distinct documentary state; do not infer one unchanged manuscript.
 
-The second named technical term changes. Treat the 10 Apr circular, April meeting handling, June Proceedings carrier, and 1898 article as distinct documentary/problem states; do not infer one unchanged manuscript.
+Short-form status: **argument-ready**. No JHU/Yale/AOS physical archival recovery is required for the current piece. Such work is optional future upgrading only; it is not an active research queue and need not be mentioned in finished prose unless rhetorically useful.
 
-Short-form status: **argument-ready**. The missing transition mechanism is an explicitly bounded archival question, not a prerequisite to writing.
+Exact active witnesses:
 
-Highest-value future carriers, now calibrated by one-day triage:
+- `research_notes/evidence/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
+- `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`;
+- `research_notes/evidence/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`.
 
-1. AOS 1897 Corresponding Secretary **letter-copy book** and Recording Secretary **proceedings/minute book** — record classes directly required by the verified 1897 Constitution/By-Laws; present shelfmarks/date coverage remain unresolved after public-discovery ceiling. **EXTERNAL-BLOCKED / FUTURE ARCHIVIST-CUSTODY QUERY**;
-2. JHU MS-0873 Box 1 — request the smallest continuous chronological segment covering **March–April 1897**; public description exposes Box 1 and chronological organization but not binder-year boundaries. **REQUEST-READY / EXTERNAL**;
-3. Yale MS 590 Box 3 Folder 56 (`I-R`) — locator closed. Finding aid dates the folder 1889, 1894, 1900–1901, 1907–1909, and undated; no dated 1897 unit is exposed, so only undated material preserves the spring-1897 possibility. **REQUEST-READY / LOWER PRIORITY**;
-4. JHU **RG-15-010 Volume 1**, March–May 1897 — exact local-host minutes volume covering dates/attendance/speakers/titles/announcements. **LOCATOR CLOSED / EXTERNAL INSPECTION REQUIRED**;
-5. Yale/AOS manuscript record-book custody/cataloguing trail and Lanman HUG 4510.xx remain optional future controls when a new catalogue/custody source appears;
-6. Price papers/scrapbooks and contemporaneous Baltimore press remain secondary local echoes only.
-
-JHU **RG-04-090, Series 8: Paul Haupt, 1878–1916** is now **DE-PRIORITIZED**. The series exists and covers 1897, but public discovery exposes no 1896–98 box/folder unit and no AOS/Lovejoy item. Reopen only if new container metadata appears. Control: `archive_index/JHU_RG04090_Paul_Haupt_1878_1916_carrier_ceiling_2026-09-05.md`.
-
-The UChicago Box 7 Folder 13 1897 recipient-file route is **closed** for an additional post-meeting circular/correction carrier after complete page-level audit. A. V. Williams Jackson MS 1009 is de-prioritized because its publicly described surviving profile is scholarly notes/drafts rather than an AOS editorial correspondence series. Generic Yale `Letter Book II` web searching has reached a public-discovery ceiling.
-
-Current short-form completion control: `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`. Historical 1897 search handoffs remain provenance and do not override this living state.
-
-The former AOS No. 30 diplomatic HOLD is **CLOSED**: direct visual inspection of printed p.389 fixes `upādānam` and `upādāna-kkhandhā`, including the hyphen and grammatical ending. Control: `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
+Archive/custody history is routed separately through `archive_index/ARCHIVE_ROUTER.md` and should not be traversed by default.
 
 ### Formation 1895–1899
 
 Default synthesis: `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`.
 
-Current strongest actor-level result: Lovejoy framed his Paris work around philosophy and comparative religion, explicitly diagnosed a philologist/philosopher jurisdiction gap, and sought textual/technical competence sufficient for philosophical reconstruction. MS0873 is Wilson's archival transcription witness, not autograph-level verification.
+Strongest actor-level controls are now promoted into `research_notes/evidence/`:
+
+- Harvard student record / advanced-Pāli enrollment closure;
+- JHU MS-0873 Wilson transcription witness for Paris 1898–99.
+
+Current safe result: Lovejoy combined philosophical training with technical Buddhist/Indic and comparative-religion work; in 1898 he explicitly formulated a problem produced by the split between philological textual expertise and philosophical reconstruction. Do not convert this into a single-teacher genealogy. Wilson's Paris witness remains an archival transcription, not autograph-level inspection.
 
 ### 1902–1906 exits
 
 Default synthesis: `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md`.
 
-Use later materials only as scale/reaggregation controls. They are not a retrospective master key to notebooks 004/005.
+Use later material only as scale/reaggregation control. Do not reopen it as a retrospective key to notebooks 004/005.
 
-## 2. Governing firewalls
+## 2. Current JHI production state
+
+Canonical prose: `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`.
+
+Calibration/evidence authority is defined in `CANONICAL_INDEX.md` and `AGENTS.md`. Repository consolidation does not authorize a successor draft, a whole-draft regeneration, or another corpus-wide research sweep.
+
+The former full-repository micro-reuse audit is **frozen**. Reusable small units are consolidated in `research_notes/JHI_MICRO_REUSE_TERMINAL_2026-09-05.md`. Micro-reuse is now demand-driven by a specific sentence or note.
+
+## 3. Repository routing state
+
+Active layers are now:
+
+- `research_notes/` — terminal syntheses + current JHI production controls;
+- `research_notes/evidence/` — four repeatedly reused exact-witness dossiers;
+- `archive_transcriptions/` — canonical notebook records/direct-image controls;
+- `archive_index/` — curated locator/acquisition/custody controls;
+- `source/` — classified raw and near-raw payloads.
+
+Historical layers are preserved but non-routing:
+
+- `research_notes/_frozen/snapshot_2026-09-05/`;
+- `archive_index/_frozen/snapshot_2026-09-05/`;
+- Git history.
+
+Do not recurse into frozen snapshots or raw OCR payloads by default.
+
+## 4. Governing firewalls
 
 - `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
 - `NOTEBOOK HANDWRITING != PROPOSITION AUTHORSHIP`.
 - `SOURCE-OWNED CONSTITUENTS != SOURCE-OWNED RELATION`.
-- `PRINTED SOURCE COLLATION != RECOVERY OF ILLEGIBLE MANUSCRIPT WORDING`.
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
@@ -94,36 +104,31 @@ Use later materials only as scale/reaggregation controls. They are not a retrosp
 - `READ BY TITLE != BARE TITLE ONLY`.
 - `GROUP-LEVEL WITH/WITHOUT BRIEF STATEMENT != LOVEJOY-SPECIFIC BRIEF STATEMENT`.
 - `NORMALIZED TERM FORM != DIPLOMATIC PRINTED TITLE FORM`.
-- `INSTITUTIONAL CARRIER EXISTENCE != LOVEJOY AUTHORSHIP`.
-- `LOCAL HOST-INSTITUTION ECHO != AOS CORPORATE RECORD`.
 - `PUBLIC CATALOGUE NO-HIT != ARCHIVAL ABSENCE`.
+- `INSTITUTIONAL PROXIMITY != ATTENDANCE / UPTAKE / INFLUENCE`.
+- `MORPHOLOGICAL ORDER != HISTORICAL ORDER`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
-- `EXTERNAL ARCHIVAL FOLLOW-UP != SHORT-FORM WRITING BLOCKER`.
 
 Compact Lovejoy-local control:
 
 > **one relation is not allowed automatically to answer for another.**
 
-## 3. Frozen branches
+## 5. Frozen branches
 
-The Brinton–Boas–Lovejoy `primitive` triangle, including Batches 222/223, remains frozen and excluded from production and continuation work.
+The Brinton–Boas–Lovejoy `primitive` triangle remains frozen and excluded from production. Historical batch/round/sweep/delta files, old handoffs, generic archive searches, and superseded draft states remain provenance only.
 
-More generally, historical process files are frozen by naming/status class under `research_notes/FROZEN_PROVENANCE_REGISTER.md`. They remain auditable provenance, not default routing surfaces.
+## 6. Default continuation
 
-## 4. JHI Blog
+When the user says `continue`, identify the domain first and enter through its terminal control:
 
-Production remains on HOLD. Existing current writing authority is preserved in `CANONICAL_INDEX.md`; consolidation of research routing does not automatically promote a newer draft or import research-state evidence without a controlled local patch.
+- 004 -> `research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
+- 005 -> `research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md`;
+- AOS / Milinda / 1897–98 -> `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`;
+- Harvard / Paris -> `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`;
+- 1902/1906 -> `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md`;
+- exact notebook wording -> `archive_transcriptions/` + `TRANSCRIPTION_COMPLETION_QUEUE.md`;
+- archive locator/custody -> `archive_index/ARCHIVE_ROUTER.md`;
+- raw source payload -> `source/SOURCE_INDEX.md`;
+- Blog -> `CANONICAL_INDEX.md` + `AGENTS.md`.
 
-## 5. Default continuation
-
-When the user says `continue`:
-
-- 004 discussion -> `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
-- 005 / ritual / `primitive` discussion -> `LOVEJOY_005_TERMINAL_SYNTHESIS.md`;
-- AOS / Milinda / pre-1898 output discussion -> first read `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`, then `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`; do **not** resume generic online archival sweeping by default. If pursuing archival upgrades, use the ranked request-ready/external carriers above;
-- Harvard / Paris discussion -> `LOVEJOY_FORMATION_1895_1899_TERMINAL.md`;
-- 1902/1906 discussion -> `LOVEJOY_1902_1906_EXIT_TERMINAL.md`;
-- exact transcription/source ownership -> canonical page records + `QUELLENFORSCHUNG_CURRENT_GATE.md` / `TRANSCRIPTION_COMPLETION_QUEUE.md`;
-- Blog discussion -> current JHI production route in `CANONICAL_INDEX.md`.
-
-Do not reopen historical process notes or comparative actor sweeps by default. For the 1897 AOS search specifically, do not repeat generic UChicago circular, generic Yale Letter Book II, generic Jackson, broad Baltimore press, repeated RG-04-090 Paul Haupt, or corpus-wide MS-0873/MS-0038 searches unless a new source changes the ceiling.
+Do not interpret `continue` as permission to resume a full-repository or full-archive sweep.
