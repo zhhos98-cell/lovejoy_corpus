@@ -5,13 +5,14 @@ Status: **DEFAULT 1897–1898 PUBLICATION ROUTE**
 
 ## Direct documentary sequence
 
+- **18 Mar 1897, AOS preliminary circular:** intending contributors are explicitly asked to send **their names and paper titles** to Hanns Oertel; intending attendees are separately asked to send their names even if they do not plan to read papers. The circular says both paper titles and names of those signifying intention to attend will be announced in the 10 Apr Final Circular. This directly establishes two administrative response channels before Lovejoy's title appears.
 - **10 Apr 1897, AOS final circular:** `Critical summary of the argument of the Milinda-pañha`. The same circular separately lists, from answers to circulars, members and friends whose presence was hoped for; Lovejoy is not among those thirty-six names. This establishes **no positive attendance response represented in the Final Circular**, not a formal declination.
 - **Proceedings reporting the Baltimore meeting of 22–24 Apr 1897:** Lovejoy absent; communication read by title; normalized content-level title `On the meaning of the Buddhist technical terms upādāna and upādāna-kkhandhā`. Exact typography remains visual HOLD. **Carrier-date control:** the Proceedings were prepared/printed after the meeting; the title recorded there cannot yet be dated diplomatically to 22–24 Apr itself.
 - **1898, JAOS:** `The Buddhistic technical terms upādāna and upādisesa`.
 
 The second named technical object changes between the recoverable 1897 Proceedings title carrier and the 1898 publication. The currently recovered evidence does **not** establish the exact day on which the Milinda title was replaced by the technical-terms title.
 
-The 10 Apr circular now supplies a same-document administrative control: **paper/title registration and positive attendance response were distinct channels**. Combined with the later Proceedings record of Lovejoy's absence, this excludes an in-person oral retitling by Lovejoy at Baltimore as the mechanism of the recoverable title change. Live mechanisms are a remote authorial correction/revision, officer/editorial reframing, post-meeting Proceedings normalization, or another unrecovered intermediate carrier.
+The 18 Mar circular makes the 10 Apr same-document differentiation procedurally explicit: **paper/title registration and attendance intention were separately solicited channels**. Lovejoy's paper/title is represented in the communication channel by 10 Apr, while no positive attendance-intention response for him is represented in the promised presence list. Combined with the later Proceedings record of his absence, this excludes an in-person oral retitling by Lovejoy at Baltimore as the mechanism of the recoverable title change. Live mechanisms are a remote authorial correction/revision, officer/editorial reframing, post-meeting Proceedings normalization, or another unrecovered intermediate carrier.
 
 ## Core model
 
@@ -59,7 +60,7 @@ Notebook p.62, `This is all that is required for the purposes of my paper`, is t
 
 ## Evidence firewall
 
-Secure: 10 Apr circular title; same-circular separation between Lovejoy's registered paper title and the positive expected-presence list in which he is not named; the later Proceedings title carrier reporting the Baltimore meeting; Lovejoy's absence/read-by-title status as recorded in the Proceedings; change in the second named technical term between the Proceedings carrier and 1898; close 004-to-print correspondence; explicit omission of substantial notebook analysis.
+Secure: 18 Mar circular separation of contributor name/title response from attendance-intention response; 10 Apr circular title; same-circular Lovejoy title registration without a positive Lovejoy signal in the promised expected-presence list; the later Proceedings title carrier reporting the Baltimore meeting; Lovejoy's absence/read-by-title status as recorded in the Proceedings; change in the second named technical term between the Proceedings carrier and 1898; close 004-to-print correspondence; explicit omission of substantial notebook analysis.
 
 Strong inference: the Proceedings title state is closer to the `upādāna / upādānakkhandha` cluster than the 10 Apr Milinda title made visible; 1898 is a recomposed extraction from a broader research field. After the 10 Apr printed state, the title-change mechanism must run through a remote authorial, officer/editorial, Proceedings-normalization, or other non-in-person carrier rather than Lovejoy orally retitling the communication at Baltimore.
 
@@ -67,7 +68,11 @@ HOLD: **when between 10 Apr and the preparation/printing of the Proceedings the 
 
 Attendance/title firewall:
 
-> **TITLE REGISTERED != POSITIVE ATTENDANCE RESPONSE; ABSENCE FROM THE POSITIVE-PRESENCE LIST != FORMAL DECLINATION; TITLE REGISTERED != ABSTRACT OR MANUSCRIPT RECEIVED.**
+> **TITLE-RESPONSE CHANNEL != ATTENDANCE-INTENTION CHANNEL; TITLE REGISTERED != POSITIVE ATTENDANCE RESPONSE; ABSENCE FROM THE POSITIVE-PRESENCE LIST != FORMAL DECLINATION; TITLE REGISTERED != ABSTRACT OR MANUSCRIPT RECEIVED.**
+
+Submission-window firewall:
+
+> **18 MAR SOLICITATION -> 10 APR REGISTRATION != PROOF THAT LOVEJOY'S TITLE WAS FIRST SUBMITTED AFTER 18 MAR.**
 
 Carrier-date firewall:
 
@@ -80,7 +85,7 @@ The 1897 meeting report itself says Vol. XVIII Second Half would be issued after
 Start here, then use only as needed:
 
 1. `AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
-2. `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md` for the 10 Apr same-document title/attendance differentiation;
+2. `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md` for the 18 Mar / 10 Apr response architecture and Lovejoy state;
 3. `AOS_1897_lost_paper_archival_trace_log_2026-09-04.md` for live carrier search and negative controls;
 4. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
 5. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
