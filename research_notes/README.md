@@ -10,6 +10,10 @@ This directory is intentionally small. It contains only current production contr
 2. `JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md` — current calibration/control.
 3. `JHI_FINAL_EVIDENCE_GATE_2026-08-27.md` — final evidence gate.
 
+## Reading companions
+
+- `JHI_blog_full_draft_v3_7_bilingual_paragraph_companion_2026-09-05.md` — paragraph-by-paragraph English → Chinese reading companion keyed to the canonical v3.7 public body. It is **not** production authority. The English paragraph remains authoritative for submission wording and footnote attachment; Chinese follows immediately as a reading translation. Canonical endnotes are reproduced verbatim and followed by short Chinese evidence summaries rather than a second full translation.
+
 ## Terminal research authority
 
 - `LOVEJOY_004_TERMINAL_SYNTHESIS.md`
