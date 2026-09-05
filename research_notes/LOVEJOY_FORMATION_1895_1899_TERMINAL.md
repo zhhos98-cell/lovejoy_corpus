@@ -1,6 +1,6 @@
 # Lovejoy formation 1895–1899 — terminal synthesis
 
-Last synchronized: 2026-09-04  
+Last synchronized: 2026-09-05  
 Status: **DEFAULT FORMATION SURFACE**
 
 ## Governing distinction
@@ -9,7 +9,7 @@ Keep separate: course availability; enrollment/grade; teacher relation; lecture 
 
 ## Harvard / Boston
 
-Current Harvard materials establish relevant Orientalist/comparative-religion training and direct student-record evidence for coursework. Use the student-record dossier for exact enrollment/grade claims and the Harvard Orientalist-training dossier for institutional context.
+Current Harvard materials establish relevant Orientalist/comparative-religion training and direct student-record evidence for coursework. Use the student-record dossier for exact enrollment/grade claims. Broader older training sweeps remain frozen provenance unless a specific institutional-context claim requires them.
 
 Safe formation claim:
 
@@ -59,9 +59,9 @@ Limit: Wilson transcriptions are not autograph-level inspection; publication-cri
 
 Start here, then use only as needed:
 
-1. `MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
-2. `Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`;
-3. `lovejoy_harvard_orientalist_training_1895_1898.md`;
-4. source-specific institutional dossiers only where a direct proposition requires them.
+1. `evidence/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
+2. `evidence/Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`;
+3. `../archive_index/ARCHIVE_ROUTER.md` for source-acquisition or institutional-locator questions;
+4. older broad Harvard/Orientalist training sweeps only through `research_notes/_frozen/snapshot_2026-09-05/` when a specific provenance question requires them.
 
 Older formation sweeps/infrastructure comparisons are frozen provenance.
