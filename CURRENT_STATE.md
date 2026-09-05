@@ -1,7 +1,7 @@
 # Lovejoy corpus — current state
 
 Last synchronized: 2026-09-05  
-Status: **SHORT-FORM ARGUMENT READY / ACTIVE SURFACE CONSOLIDATED / HISTORICAL PROCESS FROZEN**
+Status: **SHORT-FORM ARGUMENT READY / FULL-REPOSITORY MICRO-REUSE PASS COMPLETE / ACTIVE SURFACE CONSOLIDATED / HISTORICAL PROCESS FROZEN**
 
 This is the single living state file. Historical status language elsewhere does not override it.
 
@@ -73,11 +73,13 @@ Use later material only as scale/reaggregation control. Do not reopen it as a re
 
 Canonical prose: `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`.
 
+**Production authority: READY.** The explicitly reactivated full-repository micro-reuse pass has been completed and closed. `research_notes/JHI_FULL_REPO_MICRO_REUSE_RESUMED_2026-09-05.md` is the completed ledger; `research_notes/JHI_MICRO_REUSE_TERMINAL_2026-09-05.md` is the active terminal control. Any older in-file `HOLD` status line created while that pass was open is stale process metadata and does not override this living state.
+
 Calibration/evidence authority is defined in `CANONICAL_INDEX.md` and `AGENTS.md`. Repository consolidation does not authorize a successor draft, a whole-draft regeneration, or another corpus-wide research sweep.
 
-The former full-repository micro-reuse audit is **frozen**. Reusable small units are consolidated in `research_notes/JHI_MICRO_REUSE_TERMINAL_2026-09-05.md`. Micro-reuse is now demand-driven by a specific sentence or note.
+The completed pass found no surviving unclassified article-local `BODY` or `NOTE` candidate after closure of the transcription, source, archive-index, tools/root, and frozen research-note surfaces. Future micro-reuse is demand-driven by a specific sentence, note, contradiction, or newly recovered primary witness.
 
-The new March 1897 Cambridge Conferences/Vivekananda witness does **not** reopen or block the current 004-centered short form. Use it only if a specific formation, institutional-participation, or pre-1898 political-language sentence requires it.
+The March 1897 Cambridge Conferences/Vivekananda witness does **not** reopen or block the current 004-centered short form. Use it only if a specific formation, institutional-participation, or pre-1898 political-language sentence requires it.
 
 ## 3. Repository routing state
 
@@ -86,8 +88,8 @@ Active layers are now:
 - `research_notes/` — terminal syntheses + current JHI production controls;
 - `research_notes/evidence/` — five repeatedly reused exact-witness dossiers;
 - `archive_transcriptions/` — canonical notebook records/direct-image controls;
-- `archive_index/` — curated locator/acquisition/custody controls;
-- `source/` — classified raw and near-raw payloads.
+- `archive_index/` — curated locator/acquisition/custody controls; prose + CSV disposition complete for the micro-reuse pass;
+- `source/` — classified raw and near-raw payloads; path-complete.
 
 Historical layers are preserved but non-routing:
 
@@ -126,6 +128,8 @@ The Brinton–Boas–Lovejoy `primitive` triangle remains frozen and excluded fr
 
 The March 1897 Cambridge Conferences/Vivekananda witness permits a narrow Lovejoy-specific question about collective `Aryan family` rhetoric; it does not by itself reactivate the broader frozen `primitive` comparison.
 
+Residual quarantine objects are non-blocking acquisition targets rather than active repo-scan queues: the exact 1897 lost AOS carrier/title-transition mechanism, the primary 1901 Buddhism syllabus, the primary 1895 Monboddo article, and RAI MS 99 / related teacher-student working-sheet evidence.
+
 ## 6. Default continuation
 
 When the user says `continue`, identify the domain first and enter through its terminal control:
@@ -140,4 +144,4 @@ When the user says `continue`, identify the domain first and enter through its t
 - raw source payload -> `source/SOURCE_INDEX.md`;
 - Blog -> `CANONICAL_INDEX.md` + `AGENTS.md`.
 
-Do not interpret `continue` as permission to resume a full-repository or full-archive sweep.
+Do not interpret `continue` as permission to resume a full-repository or full-archive sweep unless the user explicitly reactivates that scope again.
