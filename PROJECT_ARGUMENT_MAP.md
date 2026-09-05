@@ -1,6 +1,6 @@
 # Lovejoy corpus — project argument map
 
-Last synchronized: 2026-09-04  
+Last synchronized: 2026-09-05  
 Status: **CONSOLIDATED LOVEJOY-CENTERED ARGUMENT ROUTER**
 
 This file says how the arguments connect. `CURRENT_STATE.md` says what is open/held/frozen; `CANONICAL_INDEX.md` says where authority lives.
@@ -28,15 +28,17 @@ Default files:
 
 Documented public object path:
 
-`10 Apr 1897 — Milinda-pañha whole-text argument`
+`10 Apr 1897 Final Circular — Milinda-pañha whole-text argument`
 
-→ `22–24 Apr 1897 — upādāna / upādāna-kkhandhā`
+→ `post-meeting Proceedings reporting 22–24 Apr 1897 — upādāna / upādāna-kkhandhā`
 
 → `1898 — upādāna / upādisesa`.
 
+The second node is deliberately carrier-dated rather than event-dated: the Proceedings were prepared/printed after the meeting, so the technical-terms title cannot yet be assigned securely to 22–24 Apr themselves.
+
 Interpretive result:
 
-> the public research object is revised and reallocated across documentary states; title continuity does not establish manuscript identity.
+> the public research object is revised and reallocated across documentary states; title continuity does not establish manuscript identity, and a meeting date does not automatically date a title form found only in post-meeting Proceedings.
 
 Notebook 004 is broader than the published article. Its publication transformation is best described as problem selection, object recomposition, selective witness retention, explicit omission of analytical worksheets, and narrowing of claims to the article's burden of proof.
 
@@ -84,9 +86,11 @@ The live question is narrow:
 
 Highest-value carriers:
 
-1. AOS No.30 manuscript/abstract/title-slip/secretary/directors records under both 1897 title states;
-2. Lovejoy correspondence around 10–24 Apr 1897;
-3. Harvard Graduate Philosophical Society minutes/programs for 1896–97, restricted to concrete Lovejoy-authored objects.
+1. JHU MS-0873 Box 1 chronological Lovejoy-letter tranche covering 1894–1898;
+2. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated), because Oertel is the documented recipient of 1897 title submissions;
+3. contemporaneous AOS program/title-slip/minute/editorial records capable of dating the Milinda-title -> technical-terms-title change independently of the post-meeting Proceedings;
+4. Yale/AOS manuscript record-book custody/cataloguing trail;
+5. Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records.
 
 Institutional proximity does not prove attendance, uptake, or influence.
 
@@ -105,6 +109,7 @@ Do not infer:
 - transmission from proximity;
 - assent from citation;
 - manuscript identity from title continuity;
+- exact title-date from meeting date when the title is recovered only in post-meeting Proceedings;
 - originality from failed source recovery;
 - historical order from morphological/classificatory order;
 - genealogy from analytical resemblance.
