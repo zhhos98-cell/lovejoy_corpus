@@ -1,7 +1,7 @@
 # Johns Hopkins Philological Association — 1897 local-host carrier control
 
 Date: 2026-09-05  
-Status: **EXACT 1897-COVERING VOLUME IDENTIFIED / AOS-LOVEJOY CONTENT UNINSPECTED**
+Status: **EXACT 1897-COVERING VOLUME IDENTIFIED / PARALLEL JHU CIRCULAR VOLUME LOCATED / AOS-LOVEJOY CONTENT UNINSPECTED**
 
 ## Purpose
 
@@ -98,7 +98,37 @@ The realistic 1897 target is therefore:
 
 rather than a full paper or abstract.
 
-## 6. Priority
+## 6. Parallel public witness — Johns Hopkins University Circular, 1895–1897
+
+A separate public publication carrier has now been reduced to an exact volume-level object.
+
+HathiTrust's catalogue for the `Johns Hopkins University Circular` exposes a **full-view University of Michigan item covering volumes 15–16, 1895–1897**, with Hathi item identifier:
+
+> `mdp.39015009245302`
+
+Google Books/Play also exposes an aggregate public-domain volume covering `The Johns Hopkins University Circular: Volumes 15-19`, Google Books ID:
+
+> `GgE_AQAAMAAJ`
+
+This is useful as an independently distributed Hopkins publication capable in principle of carrying university announcements or retrospective notices around the April 1897 AOS meeting.
+
+Current web/indexed searching for `American Oriental Society`, `Lovejoy`, and `Philological Association` against this volume has not exposed a relevant indexed passage. The available Hathi item interface did not permit page-level/full-text inspection through the present access path, and the Google landing page did not expose a usable internal text search.
+
+Therefore the evidentiary status is:
+
+> **EXACT FULL-VIEW VOLUME LOCATED / INDEXED NO-HIT / PAGE-LEVEL CONTENT UNINSPECTED.**
+
+Do not write that the 1897 Circular contains no AOS notice.
+
+A further institutional caution comes from the RG-15-010 finding aid itself: later attempts in 1921 and 1925 to arrange regular publication of Philological Association proceedings in the University Circular were unsuccessful. That history is evidence against assuming that the Circular routinely duplicated Philological Association minutes. It does not exclude an isolated 1897 host-university announcement or report.
+
+Project firewall:
+
+> **JHU CIRCULAR INDEXED NO-HIT != PAGE-LEVEL ABSENCE; PARALLEL UNIVERSITY PUBLICATION != DUPLICATE OF RG-15-010 MINUTES.**
+
+The next useful public-publication move is only a bounded one: identify the exact April–May 1897 volume XVI issue/page spans and inspect those issues if a page-readable carrier becomes available. Do not repeatedly search the whole 1895–1897 volume with generic terms.
+
+## 7. Priority
 
 This carrier belongs below the direct AOS/Lovejoy routes but above generic Baltimore institutional searching:
 
@@ -106,10 +136,11 @@ This carrier belongs below the direct AOS/Lovejoy routes but above generic Balti
 2. JHU MS-0873 1897 Lovejoy correspondence tranche;
 3. Oertel MS 590 Box 3 Folder 56;
 4. **JHU RG-15-010 Volume 1, March–May 1897 local-host minutes**;
-5. broader host/officer papers and press carriers.
+5. exact April–May 1897 `Johns Hopkins University Circular` issues if a page-readable carrier becomes available;
+6. broader host/officer papers and press carriers.
 
-It is especially useful because the entire requested object can be stated as one bounded volume and a three-month inspection window rather than a large correspondence corpus.
+It is especially useful because the archival target can be stated as one bounded volume and a three-month inspection window rather than a large correspondence corpus.
 
 Compact control:
 
-> **RG-15-010 VOLUME 1 DIRECTLY COVERS 1897 AND RECORDS TITLES/ANNOUNCEMENTS; WHETHER IT CONTAINS ANY AOS OR LOVEJOY TRACE REMAINS OPEN.**
+> **RG-15-010 VOLUME 1 DIRECTLY COVERS 1897 AND RECORDS TITLES/ANNOUNCEMENTS; WHETHER IT CONTAINS ANY AOS OR LOVEJOY TRACE REMAINS OPEN. A PARALLEL 1895–1897 JHU CIRCULAR FULL-VIEW VOLUME IS LOCATED, BUT ITS SPRING-1897 AOS CONTENT REMAINS PAGE-LEVEL UNINSPECTED.**
