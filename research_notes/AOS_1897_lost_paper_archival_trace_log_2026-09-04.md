@@ -352,6 +352,30 @@ Consequence:
 
 Assessment: **CLOSED NEGATIVE CARRIER FOR TEXT RECOVERY / KEEP ONLY AS TITLE-AND-MEETING-STATUS WITNESS.**
 
+## Trace 24 — AOS Library was already deposited at Yale during Lovejoy's 1897 submission
+
+The 1930 `Catalogue of the Library of the American Oriental Society`, published by Yale University Library, gives a decisive custody-history note in the HathiTrust catalog record:
+
+- the Society's library, formerly in Boston, was **placed on deposit in the Yale University Library in 1855**;
+- in **1924** it was placed on **permanent deposit**;
+- it was kept as a **separate unit**.
+
+This materially changes the custody model. The 1897 AOS submission did not occur before a later transfer of the Society Library into Yale; by 1897 the AOS Library had already been physically deposited at Yale for more than forty years. Therefore the likely documentary chain is geographically and institutionally tighter:
+
+`Oertel / New Haven title-submission route`
+
+→ `AOS officers / Directors / Society Library already at Yale`
+
+→ later Yale cataloguing/reclassification / present Beinecke manuscript custody.
+
+Current Yale retrospective-conversion documentation also preserves `American Oriental Society` as a distinct old catalog/location identity (`smlaos`; OCLC location code `YU4V`), consistent with the collection's historical treatment as a separate unit.
+
+This does **not** prove that Lovejoy's title notice, manuscript, or any 1897 record book survives. It changes where continuity should be expected: the key problem is no longer reconstructing an inter-institutional transfer into Yale, but reconstructing **internal Yale/AOS custody, cataloguing, and later manuscript relocation**.
+
+Sources: HathiTrust catalog record for the 1930 AOS Library catalogue; Yale retrospective-conversion location guide.
+
+Assessment: **MAJOR CUSTODY-HISTORY CORRECTION / 1897 YALE LOCATION SECURE AT COLLECTION LEVEL, ITEM SURVIVAL OPEN.**
+
 ## Negative control — misleading Open Library / Internet Archive volume metadata
 
 Public discovery for Internet Archive identifier `journalamerican18socigoog` is unreliable for this task: Open Library metadata can present it in a way suggestive of JAOS volume 18, while inspection of the scan/text route exposes content beginning with the **Fourth Volume (1854)**. Do not use this identifier as the 1897 volume witness without independent page-level verification.
@@ -367,7 +391,7 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 ## Current carrier ranking
 
 1. **JHU MS-0873 Box 1, 1894–1898 chronological tranche**, especially 10–24 Apr 1897.
-2. **Yale AOS custody/cataloguing metadata route**: RU 120 Box 116 f.1591 + RU 303 Box 2 f.75, used to recover present shelfmarks/date ranges for AOS manuscript books of record.
+2. **Yale/AOS internal custody and cataloguing route**: 1930 catalogue + RU 303 AOS files + old Yale classification schedules/catalog books + RU 120 AOS subject file, used to recover record-book shelfmarks/date ranges and later manuscript relocation.
 3. **Yale/Beinecke AOS manuscript books of record**, once shelfmarks/date coverage are identified: Corresponding Secretary letter/copy books; proceedings/minute books; Directors records; editor records; registers/deposits.
 4. **Oertel MS 590 Box 3 Folder 56**, manual inspection of individual `I-R` sheets, especially undated material.
 5. **JHU Gilman MS-0001 correspondence**, attacked by correspondent first and March-April 1897 second.
@@ -377,7 +401,7 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 9. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
 10. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
 
-De-prioritized for the immediate 1897 text hunt: **JSTOR Baltimore Proceedings beyond its title/meeting-status witness function**; UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale transfer/cataloguing history.
+De-prioritized for the immediate 1897 text hunt: **JSTOR Baltimore Proceedings beyond its title/meeting-status witness function**; UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale/AOS internal cataloguing history.
 
 ## Current judgment
 
@@ -385,7 +409,7 @@ De-prioritized for the immediate 1897 text hunt: **JSTOR Baltimore Proceedings b
 
 `Oertel = documented 1897 title-submission recipient; manual target = MS 590 Box 3 f.56`
 
-+ `Yale custody metadata = possible key to current shelfmarks of AOS manuscript record books`
++ `AOS Library already at Yale in 1897 = internal custody/cataloguing problem, not later transfer problem`
 
 + `Wilson MS-0873 chronological 1894–1898 correspondence aggregate`
 
@@ -395,4 +419,4 @@ De-prioritized for the immediate 1897 text hunt: **JSTOR Baltimore Proceedings b
 
 The Chicago recipient file has been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897. The JSTOR Baltimore Proceedings is now also closed as a text-recovery carrier and retained only for title/meeting-status evidence.
 
-The next decisive result would be an item-level hit in MS-0873, Oertel f.56, or a Yale catalogue/transfer file that resolves the nineteenth-century AOS record-book shelfmarks. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
+The next decisive result would be an item-level hit in MS-0873, Oertel f.56, or a Yale/AOS internal catalogue/record-book trail that resolves nineteenth-century record-book shelfmarks. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
