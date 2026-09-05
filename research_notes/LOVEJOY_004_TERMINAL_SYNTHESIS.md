@@ -1,6 +1,6 @@
 # Lovejoy notebook 004 — terminal synthesis
 
-Last synchronized: 2026-09-04  
+Last synchronized: 2026-09-05  
 Status: **DEFAULT 004 ARGUMENT SURFACE**
 
 This file consolidates the present research state for JHU MS38 notebook 004. It does not replace canonical paginated transcription batches or `QUELLENFORSCHUNG_CURRENT_GATE.md`.
@@ -72,7 +72,7 @@ Start here. Then use only as needed:
 1. `../QUELLENFORSCHUNG_CURRENT_GATE.md`;
 2. `../archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`;
 3. canonical `*_clean.json` page batches;
-4. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
+4. `evidence/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
 5. a source-specific dossier only if a live claim requires reopening its source boundary.
 
 Historical batch/round/sweep notes are frozen provenance unless explicitly routed by a living control.
