@@ -14,6 +14,8 @@ from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
+FROZEN_ROOT = ROOT / "research_notes" / "_frozen"
+SOURCE_ROOT = ROOT / "source"
 
 REQUIRED = (
     "README.md",
@@ -30,14 +32,16 @@ REQUIRED = (
     "archive_index/README.md",
     "archive_transcriptions/README.md",
     "research_notes/README.md",
+    "research_notes/FROZEN_INDEX.md",
     "research_notes/FROZEN_PROVENANCE_REGISTER.md",
     "research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md",
     "research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md",
     "research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md",
     "research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md",
     "research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md",
+    "research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md",
+    "research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md",
     "archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md",
-    "research_notes/repository_cleanup_2026-09-02.md",
 )
 
 RAW_ROOT_SUFFIXES = {
@@ -87,6 +91,35 @@ def tracked_files() -> list[Path]:
     ]
 
 
+def under(path: Path, parent: Path) -> bool:
+    try:
+        path.relative_to(parent)
+        return True
+    except ValueError:
+        return False
+
+
+def is_frozen(path: Path) -> bool:
+    return under(path, FROZEN_ROOT)
+
+
+def is_raw_source(path: Path) -> bool:
+    return under(path, SOURCE_ROOT)
+
+
+def legacy_frozen_fallback(target: Path) -> Path | None:
+    """Resolve a pre-freeze research_notes path into the frozen snapshot when possible."""
+    research_root = ROOT / "research_notes"
+    try:
+        relative = target.resolve().relative_to(research_root.resolve())
+    except ValueError:
+        return None
+    if relative.parts and relative.parts[0] == "_frozen":
+        return None
+    candidate = research_root / "_frozen" / "snapshot_2026-09-05" / relative
+    return candidate if candidate.exists() else None
+
+
 def local_link_target(markdown: Path, raw_target: str) -> Path | None:
     target = raw_target.strip()
     if target.startswith("<") and target.endswith(">"):
@@ -116,9 +149,10 @@ def main() -> int:
                 f"raw payload in repository root: {path.name} (move under source/ and register in source/SOURCE_INDEX.md)"
             )
 
+    # Validate active/curated JSON, but do not repeatedly parse raw OCR payloads or frozen rounds.
     parsed_json = 0
     for path in files:
-        if path.suffix.lower() != ".json":
+        if path.suffix.lower() != ".json" or is_frozen(path) or is_raw_source(path):
             continue
         try:
             json.loads(path.read_text(encoding="utf-8"))
@@ -161,7 +195,7 @@ def main() -> int:
 
     broken_links: list[str] = []
     for path in files:
-        if path.suffix.lower() != ".md":
+        if path.suffix.lower() != ".md" or is_frozen(path):
             continue
         try:
             text = path.read_text(encoding="utf-8")
@@ -170,9 +204,16 @@ def main() -> int:
             continue
         for match in LINK_RE.finditer(text):
             target = local_link_target(path, match.group(1))
-            if target is not None and not target.exists():
-                line = text.count("\n", 0, match.start()) + 1
-                broken_links.append(f"{path.relative_to(ROOT)}:{line} -> {match.group(1)}")
+            if target is None or target.exists():
+                continue
+            fallback = legacy_frozen_fallback(target)
+            if fallback is not None:
+                warnings.append(
+                    f"legacy research-note link resolves through frozen snapshot: {path.relative_to(ROOT)} -> {fallback.relative_to(ROOT)}"
+                )
+                continue
+            line = text.count("\n", 0, match.start()) + 1
+            broken_links.append(f"{path.relative_to(ROOT)}:{line} -> {match.group(1)}")
     if broken_links:
         errors.extend(f"broken local Markdown link: {item}" for item in broken_links)
 
@@ -191,6 +232,7 @@ def main() -> int:
         "archive_index/README.md",
         "archive_transcriptions/README.md",
         "research_notes/README.md",
+        "research_notes/FROZEN_INDEX.md",
         "research_notes/FROZEN_PROVENANCE_REGISTER.md",
         "research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md",
         "research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md",
@@ -204,25 +246,34 @@ def main() -> int:
             continue
         text = path.read_text(encoding="utf-8")
         for match in BACKTICK_PATH_RE.finditer(text):
-            target = match.group(1)
-            if any(character in target for character in "*{}"):
+            target = ROOT / match.group(1)
+            if any(character in str(target) for character in "*{}") or target.exists():
                 continue
-            if not (ROOT / target).exists():
-                line = text.count("\n", 0, match.start()) + 1
-                errors.append(f"missing path in living navigation: {relative}:{line} -> {target}")
+            fallback = legacy_frozen_fallback(target)
+            if fallback is not None:
+                warnings.append(
+                    f"living navigation uses legacy research-note path: {relative} -> {fallback.relative_to(ROOT)}"
+                )
+                continue
+            line = text.count("\n", 0, match.start()) + 1
+            errors.append(f"missing path in living navigation: {relative}:{line} -> {match.group(1)}")
 
+    # Duplicate hashing is limited to active curated files; raw source payloads and frozen snapshots are intentionally excluded.
     digests: dict[str, list[Path]] = defaultdict(list)
     for path in files:
-        if path.is_file():
-            digests[hashlib.sha256(path.read_bytes()).hexdigest()].append(path)
+        if is_frozen(path) or is_raw_source(path):
+            continue
+        digests[hashlib.sha256(path.read_bytes()).hexdigest()].append(path)
     duplicate_sets = [group for group in digests.values() if len(group) > 1]
     for group in duplicate_sets:
-        warnings.append("exact duplicate content: " + ", ".join(str(path.relative_to(ROOT)) for path in group))
+        warnings.append("exact duplicate active content: " + ", ".join(str(path.relative_to(ROOT)) for path in group))
 
     print(f"Tracked files: {len(files)}")
-    print(f"Parsed JSON files: {parsed_json}")
+    print(f"Parsed active/curated JSON files: {parsed_json}")
     print("Canonical page coverage: 004=71/71, 005=120/120")
     print("Raw source routing: source/SOURCE_INDEX.md")
+    print("Frozen research history: research_notes/FROZEN_INDEX.md")
+    print("Audit skips raw source OCR payloads and research_notes/_frozen for expensive parse/hash/link passes")
     print("Diplomatic transcription completion is governed separately by TRANSCRIPTION_COMPLETION_QUEUE.md")
     if warnings:
         print(f"Warnings: {len(warnings)}")
