@@ -2,7 +2,7 @@
 
 Research archive for Arthur O. Lovejoy's early Buddhist and Indian studies, comparative religion, philosophical practice, and the prehistory of his historical method.
 
-**Current state (2026-09-04):** the repository has a reduced active research surface. Archival/source-critical work remains open only at explicit HOLDs; Lovejoy-local argument work remains active; the pre-1898 Buddhist-output search remains active; the former Brinton–Boas–Lovejoy comparative `primitive` triangle is frozen and excluded from production.
+**Current state (2026-09-05):** the repository has a reduced active research surface. Archival/source-critical work remains open only at explicit HOLDs; Lovejoy-local argument work remains active; the pre-1898 Buddhist-output search remains active; the former Brinton–Boas–Lovejoy comparative `primitive` triangle is frozen and excluded from production.
 
 The repository remains physically large because provenance and heavily cited legacy paths are preserved. File count is not the same thing as active authority.
 
@@ -46,9 +46,9 @@ The strongest present publication-genesis chain is:
 
 `MS38 notebook 004`
 
-→ `10 Apr 1897 AOS: Critical summary of the argument of the Milinda-pañha`
+→ `10 Apr 1897 AOS Final Circular: Critical summary of the argument of the Milinda-pañha`
 
-→ `22–24 Apr 1897 AOS: upādāna / upādāna-kkhandhā` (normalized content-level title; exact typography HOLD)
+→ `post-meeting Proceedings reporting 22–24 Apr 1897: upādāna / upādāna-kkhandhā` (normalized content-level title; exact typography HOLD; title form not yet independently dated to the meeting days)
 
 → `1898 JAOS: upādāna / upādisesa`
 
@@ -56,7 +56,7 @@ The strongest present publication-genesis chain is:
 
 → later 1902/1906 exits and scale changes.
 
-The 1897–98 sequence documents changing public research objects; it does not prove one unchanged manuscript under multiple titles.
+The 1897–98 sequence documents changing public research objects; it does not prove one unchanged manuscript under multiple titles. The meeting date also does not automatically date a title recovered only from post-meeting Proceedings.
 
 ## Notebook state
 
@@ -116,6 +116,7 @@ Production remains HOLD. Current writing authority is listed in `CANONICAL_INDEX
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
+- `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN POST-MEETING PROCEEDINGS`.
 - `INSTITUTIONAL PROXIMITY != ATTENDANCE / UPTAKE / INFLUENCE`.
 - `MORPHOLOGICAL ORDER != HISTORICAL ORDER`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
