@@ -1,7 +1,7 @@
 # Lovejoy’s Buddhism Problem
 
 Status: **LIVE ACCRETION DRAFT / v3.7 FILE RETAINED / JHI BLOG LINK-ENDNOTE STYLE**  
-Last layered in place: 2026-09-04  
+Last layered in place: 2026-09-05  
 Production status: **HOLD**  
 Working rule: revise this file in place; do not create a successor JHI draft unless an explicit submission snapshot or export is requested.  
 Calibration control: `JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`
@@ -50,7 +50,7 @@ That is Lovejoy’s Buddhism problem in the 1890s. Buddhist doctrine could not b
 
 [^4]: Arthur O. Lovejoy, notebook “Sankhya + Buddhism,” digitized source ID `MS38_004_001_061_004`, *Arthur Oncken Lovejoy papers*, MS-0038, Special Collections, The Johns Hopkins University; [collection finding aid](https://aspace.library.jhu.edu/repositories/3/resources/54). Manuscript page numbers are cited in the text. Exact quotation in the essay follows the repository’s image-controlled transcription and source-ownership gate.
 
-[^5]: American Oriental Society, Final Circular, 10 Apr. 1897, Lovejoy entry; “Proceedings of the American Oriental Society, at Its Meeting in Baltimore, Maryland, April 22d, 23d, and 24th, 1897,” *Journal of the American Oriental Society* 18 (1897): 375–390, esp. 389; Lovejoy, “The Buddhistic Technical Terms Upadana and Upadisesa,” 126–136. The late-April title is normalized at the content level as *upādāna / upādāna-kkhandhā* from indexed Proceedings text; exact printed diacritics, hyphenation, and the first term’s grammatical ending remain subject to direct visual verification of p. 389.
+[^5]: American Oriental Society, Final Circular, 10 Apr. 1897, Lovejoy entry; “Proceedings of the American Oriental Society, at Its Meeting in Baltimore, Maryland, April 22d, 23d, and 24th, 1897,” *Journal of the American Oriental Society* 18 (1897): 375–390, esp. 389; Lovejoy, “The Buddhistic Technical Terms Upadana and Upadisesa,” 126–136. Direct visual inspection of the Proceedings fixes the printed No. 30 title on p. 389 as *upādānam / upādāna-kkhandhā*. This is the June printed carrier state; whether the same exact title was already used at the April meeting remains open.
 
 [^6]: Arthur O. Lovejoy, working notebook, digitized source ID `MS38_004_001_061_005`, *Arthur Oncken Lovejoy papers*, MS-0038, Special Collections, The Johns Hopkins University. The notebook has a strong Paris 1898–99 core but is physically and chronologically composite; a page headed “Hist. Relig. — Dec. 20, 1905” establishes later reuse without dating adjacent leaves.
 
@@ -60,4 +60,4 @@ That is Lovejoy’s Buddhism problem in the 1890s. Buddhist doctrine could not b
 
 This file is now the live JHI Blog accretion surface. Revisions should be layered here rather than spun out into successor draft files. Create a separate file only for an explicit submission snapshot, export, or archival freeze.
 
-The 2026-09-04 layer now returns the essay to a first-order historical question: what problems Lovejoy encountered in Buddhist and comparative-religion materials and how he argued through them. The retrospective-bibliography opening and most language of constructed objects, reallocation, scale, address, and archival production have been removed from the public prose. The evidence controls remain in the repository’s terminal syntheses and source-critical gate.
+The 2026-09-05 factual-hygiene layer closes the AOS No. 30 page/typography hold without changing the surrounding argument. Direct visual control is recorded in `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`. The larger 2026-09-04 layer returned the essay to a first-order historical question: what problems Lovejoy encountered in Buddhist and comparative-religion materials and how he argued through them. The retrospective-bibliography opening and most language of constructed objects, reallocation, scale, address, and archival production remain outside the public prose. The evidence controls remain in the repository’s terminal syntheses and source-critical gate.
