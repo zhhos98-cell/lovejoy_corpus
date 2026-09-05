@@ -1,34 +1,65 @@
 # JHI micro-reuse pass — terminal control
 
 Date: 2026-09-05  
-Status: **TERMINAL / CORPUS-WIDE REUSE SWEEP FROZEN**
+Status: **TERMINAL / REACTIVATED FULL-REPOSITORY PASS COMPLETE / FROZEN BY DEFAULT**
 
-This file replaces the in-progress full-repository micro-reuse audit as the active control. The historical ledger remains preserved unchanged at:
+The explicitly reactivated 2026-09-05 full-repository micro-reuse pass is complete. Its final ledger is:
+
+`research_notes/JHI_FULL_REPO_MICRO_REUSE_RESUMED_2026-09-05.md`
+
+Historical pre-reactivation provenance remains at:
 
 `research_notes/_frozen/snapshot_2026-09-05/JHI_FULL_REPO_MICRO_REUSE_AUDIT_2026-09-05.md`
 
-Do **not** resume a corpus-wide path-by-path pass by default. The new repository architecture routes ordinary work through terminal syntheses, curated exact witnesses, and source/archive routers.
+Do **not** resume generic corpus-wide harvesting by default. Current work routes through the canonical draft, terminal syntheses, curated exact witnesses, and source/archive routers. Reopen only a named quarantine object, a direct contradiction, or a newly recovered primary witness.
 
-## Reusable micro-units already recovered
+## Final promoted micro-units
 
-These are the high-confidence units worth retaining from the broad audit. They do not require reopening the files that produced them unless an exact citation, quotation, or provenance question arises.
+The completed pass retained the following article-local gains.
 
-- **Hardy / causal distinction:** R. Spence Hardy, *A Manual of Budhism* (1853), pp.394–396; notebook 004 p.33/ms97 cites p.394 under `Upādāna, Relation to Karma`. Use as a source-reworking control, not a Lovejoy-priority claim.
-- **Oldenberg / Senart priority control:** Oldenberg, *Buddha*, 3rd ed. (1897), pp.272–273, already rejects Senart's `upādāna = upādānakkhandha`; Lovejoy's historical interest lies in selection, reweighting, recombination, and use rather than priority.
-- **Lexical source packet:** Oldenberg English *Buddha* (1882) p.433; Rhys Davids, *Buddhism* rev. ed. (1894) p.113; Edward Müller, *A Simplified Grammar of the Pali Language* (1884), with the notebook/article page-reference discrepancy preserved; Dahlmann, *Nirvāṇa* (1896) p.14.
-- **Harvard actor-level chronology:** first registration 26 Sep. 1895; Sanskrit sequence in 1895–96; `Sanskrit 5`, A, and Semitic 13, A, in 1896–97; direct Pāli-course crosswalk is controlled by `evidence/Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`.
-- **Paris actor-level problem statement:** 9 Oct. 1898 `philosophy and comparative religion`; 20 Oct. Buddhist/Hebrew-Wisdom work and explicit philology/philosophy jurisdiction gap; Dec. no formal Pāli Buddhism course and private `Petakas` reading with Sylvain Lévi. Controlled by `evidence/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`.
-- **1897 AOS circular architecture:** 18 Mar contributor-title and attendance channels were separately solicited; 10 Apr prints `Critical summary of the argument of the Milinda-pañha`. Use the canonical `archive_index/` controls rather than the historical search ledger.
-- **1897 p.389 diplomatic control:** `Mr. Arthur O. Lovejoy, Harvard University; On the meaning of the Buddhist technical terms upādānam and upādāna-kkhandhā.` Exact p.389 control is already active in `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
+- **Harvard chronology:** first registration 26 Sep. 1895; Sanskrit sequence in 1895–96 before `Sanskrit 5` / advanced Pāli and Semitic 13 in 1896–97.
+- **Paris actor-level wording:** 9 Oct. 1898 `philosophy and comparative religion`; 20 Oct. Buddhist/Hebrew-Wisdom work and explicit philology/philosophy jurisdiction problem; December private Buddhist reading when no Pāli Buddhism course was offered.
+- **AOS workflow:** Hanns Oertel as 1897 title-intake node and George F. Moore as Recording Secretary/editorial node, without assigning authorship of the title transition.
+- **004 author/source seams:** p.17 / MS p.63 `To R.D.'s remark it shld be added`; p.51 / MS p.141 `But is there necessarily any ontological function involved? A.O.L.`
+- **004 relation controls:** p.27 branching *nidāna* diagram; p.50 independent temporal/logical recurrence; direct 1898 *upādānakkhandha* bidirectional causal reading and anti-ontological `Psychology of sensation` restriction.
+- **Hardy / Oldenberg / lexical controls:** inherited causal and semantic problem architecture is now visible without giving Lovejoy false priority; Müller page discrepancy remains explicit.
+- **005 bounded controls:** p.53 `purely mechanical`; p.65 `delicate analysis`; p.69 `not an evidence of advancement`; pp.103–104 chronology objection / possible `vicious circle`.
+- **EPHE status:** Lovejoy is listed among `auditeurs ayant pris une part active aux travaux`, separately from `élèves titulaires`.
+- **AOS corporate membership:** Lovejoy was elected a corporate member at the April 1897 Baltimore meeting; membership is kept distinct from attendance and professional identity.
+- **Söderblom workshop comparator:** shared Marillier problem/source apparatus and note circulation are documented; Lovejoy borrowing or identity of working sheets is not.
+- **1901 Buddhism syllabus:** existence is bibliographically secure; Wilson records the four headings `The Place of Buddhism among the Philosophies of India`, `Two Essential Formulas of Buddhism` (lectures 2–3), and `Buddhist Ethics and its Goal`. The primary syllabus text remains unrecovered.
+- **1902 authorial reuse:** *Religion and the Time-Process* explicitly sends readers back to Lovejoy's 1898 Buddhist article while separating affinity from historical transmission.
+- **1904 bounded recurrence:** Bruno–Spinoza `that/what` relation split; Evolutionists proof-burden control; Duprat translation-witness case in which a `hopelessly bad` translation cannot safely carry the author's meaning without reconstruction.
+- **1906 bounded Buddhist continuity:** More review returns to *Sutta Nipāta* 1073–1076 to constrain a positive Nirvāṇa reconstruction.
 
-## Excluded / frozen reuse branches
+## Repository-surface closure
 
-The broad audit also encountered many potentially reusable items that are not active article requirements: comparative `primitive`, broad 1906 politics, Great Chain parallels, later-career institutional material, negative archive sweeps, and source-context that does not change a live sentence. These remain frozen and should not be promoted for completeness alone.
+- `archive_transcriptions/`: 191/191 corrected-text semantic coverage across 004 + 005, with diplomatic/image holds preserved where appropriate.
+- 1898 Lovejoy article local HTML: sentence-level pass complete.
+- `source/`: path-complete; no active unclassified payload.
+- `archive_index/`: prose + CSV disposition complete, including early-date exception sweeps.
+- `tools/` and root governance: reproducibility/routing only.
+- frozen `research_notes/`: family-level disposition complete with targeted early-primary / `HOLD` exception searches.
+
+No additional surviving article-local `BODY` or `NOTE` candidate remains unclassified in the current repository.
+
+## Residual quarantine — non-blocking
+
+These are future acquisition targets, not reasons to restart the audit:
+
+1. exact 1897 AOS lost carrier / title-transition mechanism and Lovejoy-specific brief-statement status;
+2. primary copy of the 1901 *Syllabus: The Philosophy of Buddhism*;
+3. primary 1895 `James Burnett, Lord Monboddo` article for the pre-Harvard falsification test;
+4. RAI MS 99 / related teacher-student working-sheet evidence for Marillier transmission questions.
+
+The old AOS p.380 typography hold is superseded by the direct p.389 visual control.
+
+## Frozen / excluded branches
+
+Comparative `primitive`, broad 1906 politics, Great Chain, Carnap/formal logic, global-history maps, AAUP/Russell/Science Service, Martin Guerre, later reception, and other later-career institutional/ecology work remain `NO-FIT / FROZEN` for this short form unless explicitly reactivated.
 
 ## Reactivation rule
 
-Reopen a historical audit item only when the canonical draft or a terminal synthesis exposes a **specific sentence-level need** that cannot be answered by the active surface. Then retrieve only the named frozen source, extract the exact unit, and patch the relevant living control. Do not continue the old `every tracked path gets a disposition` completion criterion.
+> **micro-reuse is demand-driven, not corpus-wide.**
 
-Compact rule:
-
-> **micro-reuse is now demand-driven, not corpus-wide.**
+Reopen only the named object needed to resolve a specific sentence, source-version problem, contradiction, or new primary witness. Do not restart an undifferentiated full-repository pass.
