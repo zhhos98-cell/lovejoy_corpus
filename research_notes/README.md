@@ -2,7 +2,7 @@
 
 Status: ACTIVE SURFACE / HISTORICAL ROUNDS FROZEN 2026-09-05
 
-This directory is intentionally small. It contains only current production controls, terminal syntheses, and the provenance router needed for active work.
+This directory is intentionally small. It contains only current production controls, terminal syntheses, a curated exact-evidence layer, and the provenance router needed for active work.
 
 ## Production authority
 
@@ -22,6 +22,12 @@ This directory is intentionally small. It contains only current production contr
 
 If one of these closes a domain, do not re-run the earlier rounds merely because they exist.
 
+## Curated exact evidence
+
+Use `evidence/README.md` after a terminal synthesis identifies the exact witness required. The active evidence layer currently contains only four repeatedly reused dossiers: the 191-page notebook-to-print concordance, the 1897 AOS No.30 carrier/title recovery, the MS-0873 Paris Wilson-transcription direct read, and the Harvard student-record/Pāli-5 closure.
+
+Do not use `evidence/` as a new dumping ground for exploratory notes. Promote a frozen dossier only when a living terminal synthesis repeatedly needs it as an exact witness.
+
 ## Frozen history
 
 All files that formerly occupied the flat `research_notes/` directory are preserved unchanged under:
@@ -32,4 +38,4 @@ Use `FROZEN_INDEX.md` before entering that snapshot. The default rule is **do no
 
 ## Reactivation rule
 
-If frozen material becomes genuinely necessary, do not restore an entire old round series. Extract the needed evidence into the relevant terminal synthesis/current control (with provenance), or create one bounded delta note. The active surface should stay small.
+If frozen material becomes genuinely necessary, do not restore an entire old round series. Extract the needed evidence into the relevant terminal synthesis/current control, promote one repeatedly reused exact dossier into `evidence/`, or create one bounded delta note. The active surface should stay small.
