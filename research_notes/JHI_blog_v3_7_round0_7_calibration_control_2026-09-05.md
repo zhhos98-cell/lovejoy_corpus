@@ -1,15 +1,15 @@
 # JHI Blog v3.7 — rounds 0–7 calibration control
 
 Date: 2026-09-05  
-Status: **CALIBRATION COMPLETE / CANONICAL DRAFT PATCHED IN PLACE / PRODUCTION HOLD PRESERVED**
+Status: **CALIBRATION COMPLETE / READER PASS COMPLETE / CANONICAL DRAFT PATCHED IN PLACE / PRODUCTION HOLD PRESERVED**
 
 Canonical prose draft:
 
 `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`
 
-Current canonical blob after Round 7:
+Current canonical blob after reader pass:
 
-`c3f05375f6d4120c2744d194843d8841a2776ed0`
+`3e6e43c870239ba3cb513515c1f6748facaa5984`
 
 Governing article protocol:
 
@@ -153,6 +153,30 @@ Changes:
 - kept the 1902 paragraph because it gives a compact published control for `resemblance != transmission`;
 - preserved the AOS paragraph because it documents a changing public research object and is now factually/diplomatically controlled, without making archival recovery of the missing transition mechanism a condition of writing.
 
+## Post-calibration reader pass
+
+Purpose: read the canonical body as a normal intellectual-history reader rather than as a repository auditor. No new research was opened and no removed parallel thesis was restored.
+
+Canonical-draft commits:
+
+- `496c5e8c4aaca65d7ad42ae6b01c21c39e5e9959`
+- `af45efad302de5cc066a990110b4a257227d167a`
+- `4a3907290d93b29f9d9336d71811ffd4182b95e7`
+
+Reader-pass changes:
+
+- added `A year before the article appeared` to orient the return from 1898 to the 1897 AOS sequence;
+- changed the Harvard transition from the more abstract `two sides of the problem were already present` to the directly demonstrated combination of Pāli study and comparative religion;
+- reduced proper-name density in the notebook entrance rather than listing every scholar represented in 004;
+- reframed the 004 publication-selection paragraph around what the paper `needed to do`;
+- removed the `Original Elements / Derived Elements` sentence because it duplicated the selection point without carrying independent reader-facing work;
+- introduced 005 explicitly as a related caution about classification and historical sequence rather than as a new topic;
+- changed `settle the two technical-term problems` to `address the two technical-term problems` so the sentence no longer collides with Lovejoy's explicit refusal of final settlement on `upādisesa`;
+- reframed the 1902 paragraph as a `limit on historical inference`, which states its function before the Aristotle/Vedānta example;
+- sharpened the conclusion by returning to the proposition that the late-1890s Buddhist problem was larger than translation alone.
+
+Reader-pass stop rule: the remaining body should not be smoothed further merely for elegance. Reopen only for a concrete reader confusion, source problem, historiographical intervention, or publication-format requirement.
+
 ## Current public-body architecture
 
 The calibrated body now moves through:
@@ -167,7 +191,7 @@ The calibrated body now moves through:
 8. 1897 AOS public-description sequence -> 1898 article;
 9. notebook-to-print selection and provisional conclusion;
 10. one compressed 005 comparative control;
-11. 1902 resemblance/transmission exit;
+11. 1902 historical-inference exit;
 12. focused conclusion.
 
 ## What must not be silently restored
@@ -189,8 +213,10 @@ Reopen one of these only if the user explicitly changes the article's scope or a
 
 Research status for this short form: **argument-ready and calibrated**.
 
+Reader status: **reader-pass complete at the current scope**.
+
 Production status remains **HOLD** because this calibration does not itself constitute the user's final publication/export approval.
 
 Slow archival follow-up remains optional and non-blocking.
 
-Next ordinary operation should be a user/readership pass on the calibrated canonical text, not another corpus-wide evidence expansion.
+Next ordinary operation should be publication-format / title / opening-close polish only if the user wants to move from HOLD to submission preparation. It should not be another corpus-wide evidence expansion.
