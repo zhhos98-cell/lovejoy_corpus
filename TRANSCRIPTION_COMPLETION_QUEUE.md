@@ -1,9 +1,30 @@
 # Lovejoy manuscript transcription completion queue
 
-Last synchronized: 2026-09-02
-Status: **TRANSCRIPTION INCOMPLETE / PAGE COVERAGE COMPLETE**
+Last synchronized: 2026-09-05
+Status: **TRANSCRIPTION INCOMPLETE / PAGE COVERAGE COMPLETE / CANONICAL WITNESS-LAYER HYGIENE UPDATED**
 
 This file separates page coverage from transcription completion. `191/191` means that every PDF page has a page record and material overview. It does **not** mean that every page has a complete diplomatic transcription from the manuscript image.
+
+## 2026-09-05 execution note
+
+A corpus-wide canonical transcription-hygiene pass was completed across notebook 005 without pretending that unavailable page images had been reread. The pass propagated already-existing direct-image controls and later source-ownership adjudications into the canonical JSON records.
+
+Canonical batch changes in this pass:
+
+- `p046-060`: p.55 reduced to the image-secure `not ritual but alimentary`, male-flesh preference, and existence of a male/female gastronomic contrast; exact taste direction, source boundary, and power/value connective returned to diplomatic HOLD — commit `ebeb58c150a108d1b31d89aec9c36be805e0543c`;
+- `p076-090`: p.84 anti-union relation and p.90 guardian-spirit/direct-blood relation downgraded from editorially overstrong Lovejoy claims to explicit relation-level HOLDs — commit `0121bfb65bb8f32c5bfb3a3713dc7365a8890615`;
+- `p091-105`: pp.92–99 re-tagged as Marillier-mediated insert packets unless a local image-secure intervention is demonstrated; p.103 explicitly registered as W3 for the `involves a vicious circle` chronology veto; p.104 W3 path exclusion/selection preserved — commit `c75c6c564366daf8340851de46efb7161f1877ab`;
+- `p106-120`: p.112 calibrated as strong case-adjudication with exact-wording HOLD; p.117 remains W3 wording with proposition-authorship HOLD; p.119 downgraded from a Lovejoy-origin explanatory fork to an undated late-insert authorship/chronology HOLD — commit `6f9682233d6318fcf1920a60bf74f00568e74dc2`;
+- `p061-075`: source-owned mechanisms separated from local relations; p.66 retained as strong W3 mechanism→jurisdiction relation, p.69 counter-arrow calibrated to the Robertson-Smith field, p.73 narrowed to local explanatory reassignment — commit `e0bcf54ff56b0de74d40dd540fcc4d81a50ccf60`;
+- `p031-045`: pp.31–36 and pp.42–43 now carry explicit `DIPLOMATIC HOLD` / `text_layer` / source-collation metadata; no Marillier wording was imported into the manuscript — commit `ce79786a7b35b37c156d2c2d964da4c88734a105`.
+
+This pass **did not mark any new page diplomatically complete**. It made the remaining incompleteness more explicit and prevented editorial/source summaries from masquerading as manuscript wording or Lovejoy proposition ownership.
+
+### Current image-access constraint
+
+The split original scans are identified in the user's file Library, including `MS38_004_001_061_005_1-40.pdf`, `..._41-80.pdf`, and `..._81-120.pdf`. In the 2026-09-05 runtime, direct page-image rendering returned no pixels and raw/page-range materialization returned a 403. Therefore criterion 1 below could not be satisfied for a fresh diplomatic pass. This is a tooling/access constraint, **not** evidence that the images or manuscript are absent.
+
+Until direct image access returns, do not use OCR or Marillier/source collation to manufacture diplomatic wording.
 
 ## Completion vocabulary
 
@@ -32,16 +53,18 @@ A page can be marked diplomatically complete only when:
 
 ## Notebook 005 — active completion queue
 
-Notebook 005 has 120/120 first-pass page coverage and broad targeted original-image rechecks through Round 20. It is **not** diplomatically complete.
+Notebook 005 has 120/120 first-pass page coverage and broad targeted original-image rechecks through Round 20 plus later proposition/source-specific direct-image controls. It is **not** diplomatically complete.
 
 ### Priority A — visibly incomplete first-pass pages
 
-- **pp.31–36**: inserted leaves remain low or low-medium confidence; multiple entries explicitly state that most lines, proper names, source references, or geographic wording remain illegible or only partially legible. These pages require full direct-image retranscription, not further summary polishing.
-- **pp.42–43**: Greek lexical/textual slips are only partially transcribed; exact Greek and several references remain open.
+- **pp.31–36**: inserted leaves remain low or low-medium confidence. Canonical records now explicitly mark these as `DIPLOMATIC HOLD`. Marillier collation narrows the likely source packets but is stored only as `external_source_collation`; these pages still require full direct-image retranscription.
+- **pp.42–43**: Greek lexical/textual slips remain only partially transcribed. Canonical records now separate the host-page outline from loose slips and explicitly mark the Greek layer as diplomatically incomplete.
 
 ### Priority B — resume the interrupted systematic second pass
 
-Round 20 explicitly hands off to **pp.47–60**. Existing upgrades at p.49, p.53, and p.55 must be preserved. The remaining pages in this block should be checked page by page for diplomatic wording, not only mechanism-changing deltas.
+Resume **pp.47–60** when the original image is directly visible. Existing image-secure controls at p.49 and p.53 must be preserved. At p.55 preserve only what is currently W3 unless fresh image inspection closes the disputed sex/taste direction and source boundary.
+
+The 2026-09-05 hygiene pass reviewed this entire batch for witness/source ceilings, but **that review is not a substitute for page-by-page diplomatic retranscription**.
 
 ### Priority C — complete the rest of 005 page by page
 
@@ -52,11 +75,11 @@ After pp.47–60, continue through:
 - pp.91–105;
 - pp.106–120.
 
-Targeted controls already secure important loci such as pp.64, 66, 69, 92–96, 104, and 117–120. Those controls reduce risk but do not substitute for full-page diplomatic transcription of the surrounding pages.
+The 2026-09-05 pass has already made the main known witness/source boundaries explicit in these batches, including p.66, p.84, p.90, pp.92–99, pp.103–104, p.112, p.117, and p.119. This reduces interpretive risk but does not establish full-page diplomatic completion.
 
 ### Priority D — backfill pp.1–30 as needed
 
-Rounds 19–20 materially improved pp.3–6 and pp.16–30. A later completion pass should still verify that every readable line in pp.1–30 is represented diplomatically, rather than accepting proposition-sensitive closure as page completion.
+Rounds 19–20 materially improved pp.3–6 and pp.16–30. The original-image sweep of pp.20–28 found no mechanism-changing delta, so do not manufacture one. A later edition pass should still verify that every readable line in pp.1–30 is represented diplomatically rather than accepting proposition-sensitive closure as page completion.
 
 ## Notebook 004 — residual completion queue
 
@@ -74,9 +97,19 @@ Residual work is concentrated in:
 
 ## Integrated edition status
 
-`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` is retained at its stable historical path because many files refer to it. The word `final` in the filename is **not a completion claim**. Treat it as the current integrated working reading surface generated from the canonical JSON batches.
+`archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md` is retained at its stable historical path because many files refer to it. The word `final` in the filename is **not a completion claim**.
 
-Do not rename or migrate this path casually. If a genuinely diplomatic edition is later completed, create a new explicitly versioned edition and update routing files then.
+**Synchronization warning, 2026-09-05:** the canonical 005 JSON batches listed above were changed after the last generated integrated surface. In the present connector-only runtime the repository generator cannot be executed against the GitHub working tree, and there is no safe partial-patch action for the generated file. Therefore the integrated Markdown is temporarily **STALE RELATIVE TO THE CANONICAL JSON**. Until regenerated, use the paginated canonical JSON batches as page authority.
+
+Required regeneration when repo-shell access is available:
+
+```bash
+python tools/build_integrated_transcription.py
+python tools/build_integrated_transcription.py --check
+python tools/audit_repository.py
+```
+
+Do not manually rewrite the 191-page integrated file merely to conceal this synchronization state.
 
 ## Execution rule
 
@@ -89,8 +122,8 @@ Before changing a canonical batch:
 3. inspect the original image;
 4. preserve later direct-image corrections already merged;
 5. replace summary with diplomatic wording only where the image licenses it;
-6. regenerate the integrated reading surface and run `python tools/audit_repository.py` after batch edits.
+6. regenerate the integrated reading surface and run `python tools/audit_repository.py` after batch edits when repo-shell access permits; if it does not, record the generated-surface divergence explicitly rather than claiming synchronization.
 
 ## Current restart point
 
-Start with **005 pp.31–36**, then **pp.42–43**, then resume **pp.47–60**. This order addresses the clearest known first-pass incompleteness before continuing the interrupted systematic second pass.
+When direct image access returns, start with **005 pp.31–36**, then **pp.42–43**, then resume **pp.47–60**. The 2026-09-05 hygiene pass has already narrowed the exact uncertainty and source-ownership burden at these and later loci, so the next pass should be paleographic/diplomatic rather than another thematic source sweep.
