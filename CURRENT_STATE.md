@@ -36,23 +36,27 @@ Use `TRANSCRIPTION_COMPLETION_QUEUE.md` for exact archival work. Stop generic so
 
 Default synthesis: `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`.
 
-Secure public object chain:
+Secure public object/carrier chain:
 
 `10 Apr 1897 — Final Circular: Critical summary of the argument of the Milinda-pañha`
 
-→ `post-meeting Proceedings reporting 22–24 Apr 1897 — upādāna / upādāna-kkhandhā` (normalized content-level recovery; exact typography HOLD; **do not automatically date this title form to the meeting days themselves**)
+→ `22–24 Apr 1897 — Baltimore meeting: No. 30 later recorded as read by title; the group was handled with or without brief statements of contents, but Lovejoy-specific brief-statement status is OPEN`
+
+→ `June 1897 — JAOS 18 Second Half, explicitly "Issued, June, 1897": Proceedings p.380 carries the technical-terms title state upādāna / upādāna-kkhandhā` (normalized content-level recovery; exact Pāli typography HOLD)
 
 → `1898 — upādāna / upādisesa`.
 
-The second named technical term changes. Treat these as distinct documentary/problem states; do not infer one unchanged manuscript. The exact date of the Milinda-title -> technical-terms-title change remains OPEN because the Proceedings were prepared/printed after the meeting.
+The June carrier itself contains a member list on p.391 marked `REVISED, MAY, 1897`; at the April meeting the Editors reported that the Second Half was nearly all in type and would be issued once the Proceedings could be printed. The technical-terms title is therefore securely a **post-meeting, June-publication carrier state**. Do not automatically date that title form to 22–24 April. The exact Milinda-title -> technical-terms-title change remains OPEN within the interval after the 10 Apr printed circular and by the June published carrier; whether the technical title was already used at the meeting is separately OPEN.
+
+The second named technical term changes. Treat the 10 Apr circular, April meeting handling, June Proceedings carrier, and 1898 article as distinct documentary/problem states; do not infer one unchanged manuscript.
 
 Highest-value live carriers:
 
-1. JHU MS-0873 Box 1 chronological Lovejoy-letter tranche covering 1894–1898, especially 1897;
-2. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated) for the documented title-submission route;
-3. contemporaneous AOS program/title-slip/minute/editorial records capable of dating the title change independently of the post-meeting Proceedings;
-4. Yale/AOS manuscript record-book custody/cataloguing trail;
-5. Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records.
+1. JHU MS-0873 Box 1 chronological Lovejoy-letter tranche covering 1894–1898, especially March–April 1897;
+2. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated) for the documented title-submission / possible remote-correction route;
+3. AOS Corresponding Secretary letter-copy book and Recording Secretary proceedings/minute book for 1897, both record classes now directly required by the verified 1897 By-Laws;
+4. contemporaneous AOS program/title-slip/editorial/meeting-packet records capable of dating the title change or identifying a `brief statement of contents` independently of the June Proceedings carrier;
+5. Yale/AOS manuscript record-book custody/cataloguing trail and Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records.
 
 ### Formation 1895–1899
 
@@ -75,7 +79,9 @@ Use later materials only as scale/reaggregation controls. They are not a retrosp
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
-- `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN POST-MEETING PROCEEDINGS`.
+- `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN JUNE PROCEEDINGS`.
+- `READ BY TITLE != BARE TITLE ONLY`.
+- `GROUP-LEVEL WITH/WITHOUT BRIEF STATEMENT != LOVEJOY-SPECIFIC BRIEF STATEMENT`.
 - `INDEXED OCR CONTENT RECOVERY != DIPLOMATIC TITLE TRANSCRIPTION`.
 - `INSTITUTIONAL CARRIER EXISTENCE != LOVEJOY AUTHORSHIP`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
