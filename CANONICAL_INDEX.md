@@ -1,6 +1,6 @@
 # Lovejoy corpus — canonical index
 
-Last synchronized: 2026-09-04  
+Last synchronized: 2026-09-05  
 Status: **CONSOLIDATED STABLE NAVIGATION**
 
 Historical file paths are preserved for provenance. Default authority is now intentionally narrow.
@@ -11,6 +11,7 @@ Historical file paths are preserved for provenance. Default authority is now int
 |---|---|
 | Human research router | `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` |
 | Current open/closed/frozen state | `CURRENT_STATE.md` |
+| Short-form must-do / optional / external-blocked decisions | `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` |
 | Historical argument architecture | `PROJECT_ARGUMENT_MAP.md` |
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Diplomatic/image completion | `TRANSCRIPTION_COMPLETION_QUEUE.md` |
@@ -28,7 +29,7 @@ Historical file paths are preserved for provenance. Default authority is now int
 | Harvard/Boston/Paris formation 1895–99 | `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md` |
 | 1902/1906 later exits and scale control | `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md` |
 
-Ordinary research should start with these files rather than historical batch/round/sweep notes.
+Ordinary research should start with these files rather than historical batch/round/sweep notes. For the current non-journal short-form piece, consult `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` before reopening any archival branch.
 
 ## 3. Exact notebook text authority
 
@@ -51,8 +52,10 @@ Material/audit controls remain available through `archive_transcriptions/README.
 Use only after the terminal synthesis requires more detail:
 
 - full 191-page notebook-to-1898 concordance: `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` + `.csv`;
-- late-April AOS title recovery: `research_notes/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
+- 1897 No. 30 title/carrier recovery, with June-publication dating and April-meeting title held open: `research_notes/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
 - earlier AOS attendance/election/read-by-title control: `research_notes/AOS_1897_Lovejoy_election_read_by_title_and_technical_terms_precursor_2026-09-01.md`;
+- one-day archival triage / non-blocking external follow-up: `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`;
+- Paul Haupt public-discovery ceiling: `archive_index/JHU_RG04090_Paul_Haupt_1878_1916_carrier_ceiling_2026-09-05.md`;
 - repository 1898 article witness: `The Buddhistic technical terms upadana and upadisesa..html`.
 
 Milinda/source-resolution process dossiers remain frozen provenance unless a terminal synthesis explicitly requires them.
@@ -69,11 +72,13 @@ Course availability, enrollment/grade, teacher relation, institutional proximity
 
 ## 6. Archive/source-critical live work
 
-Use `CURRENT_STATE.md` for exact HOLDs.
+Use `CURRENT_STATE.md` for exact HOLDs and `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` for blocking versus non-blocking status.
 
 Notebook 004 broad source work is closed for present purposes; reopen only under the current gate.
 
 Notebook 005 retains only the explicitly live source/version and image/diplomatic HOLDs. Historical Round files remain available for audit but are not default routes.
+
+The 1897 AOS online discovery phase is currently closed at its public ceiling. The remaining high-value routes are request-ready or external archival follow-up: AOS record-book custody/shelfmarks, MS-0873 March–April 1897, Oertel MS 590 Box 3 Folder 56, and RG-15-010 Volume 1. RG-04-090 Paul Haupt is de-prioritized unless new container metadata appears.
 
 ## 7. JHI Blog production
 
@@ -86,7 +91,7 @@ Current writing authority remains:
 3. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
 4. `QUELLENFORSCHUNG_CURRENT_GATE.md`
 
-Existing earlier/later exploratory drafts are writing provenance unless `CURRENT_STATE.md` explicitly promotes them.
+Existing earlier/later exploratory drafts are writing provenance unless `CURRENT_STATE.md` explicitly promotes them. The short-form completion checklist governs research readiness; it does not itself promote a production draft.
 
 ## 8. Comparative controls and frozen branches
 
@@ -108,6 +113,6 @@ No bulk physical migration is authorized by this consolidation. Heavily referenc
 
 Default sequence:
 
-> **living control -> terminal synthesis -> exact canonical/primary witness -> historical audit trail only if needed**
+> **living control -> short-form completion gate when relevant -> terminal synthesis -> exact canonical/primary witness -> historical audit trail only if needed**
 
 Historical status words inside dated notes do not override this index.
