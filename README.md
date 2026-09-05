@@ -51,7 +51,7 @@ The strongest present publication-genesis chain is:
 
 → `22–24 Apr 1897 Baltimore meeting: No. 30 later recorded as read by title; exact meeting title and Lovejoy-specific brief statement remain open`
 
-→ `June 1897 JAOS 18 Second Half, explicitly Issued, June, 1897: printed Proceedings p.380 carries upādāna / upādāna-kkhandhā` (normalized content-level title; exact typography DIPLOMATIC HOLD)
+→ `June 1897 JAOS 18 Second Half, explicitly Issued, June, 1897: printed Proceedings p.389 carries upādānam / upādāna-kkhandhā` (direct visual diplomatic control; normalized discussion form `upādāna / upādānakkhandha`)
 
 → `1898 JAOS: upādāna / upādisesa`
 
@@ -59,7 +59,7 @@ The strongest present publication-genesis chain is:
 
 → later 1902/1906 exits and scale changes.
 
-The 1897–98 sequence documents changing public research objects; it does not prove one unchanged manuscript under multiple titles. The meeting date also does not automatically date a title recovered only from the June printed Proceedings. The exact 10 April -> June transition mechanism remains a bounded archival question rather than a short-form writing prerequisite.
+The 1897–98 sequence documents changing public research objects; it does not prove one unchanged manuscript under multiple titles. The meeting date also does not automatically date a title recovered only from the June printed Proceedings. The exact 10 April -> June transition mechanism remains a bounded archival question rather than a short-form writing prerequisite. Direct visual control of the June title is recorded in `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`.
 
 ## Notebook state
 
