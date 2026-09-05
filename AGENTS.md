@@ -16,7 +16,7 @@ This file is a persistent instruction set for ChatGPT, Codex, and other agents w
 - **Surgical patch, not regeneration.** Preserve surrounding prose verbatim unless the requested change truly requires local restructuring.
 - Do not rewrite paragraphs or sections merely for flow, completeness, tone, balance, elegance, or symmetry.
 - Do not let model completion raise the draft's explanatory or defensive temperature.
-- Work from one canonical draft when a canonical draft exists. Do not create parallel prose versions unless the user explicitly requests them.
+- Work from one canonical draft when a canonical draft exists. Do not create `draft_05`, `draft_06`, parallel prose versions, or substitute rewrites unless the user explicitly requests them.
 - If a bilingual or reading companion exists, it mirrors the canonical text; it is not an independent draft and should be synchronized only after the canonical passage is stable.
 - User annotations are local instructions. Patch the annotated place rather than using the annotation as permission to regenerate the surrounding section.
 - Before any write, fetch the current file/blob SHA. Sequential updates to the same file must use the latest returned SHA.
@@ -72,6 +72,15 @@ This file is a persistent instruction set for ChatGPT, Codex, and other agents w
 
 ## 9. QA before writing back
 
-Check each proposed change for source control; chronology and actor clarity; whether it strengthens the central conceptual problem; whether it accidentally creates a new parallel thesis; whether counterevidence remains visible; unnecessary defensive language or invented jargon; paragraph rhythm; and whether growth comes from historical/intellectual substance rather than explanation for its own sake.
+Check each proposed change for:
+
+1. source control;
+2. chronology and actor clarity;
+3. whether it strengthens the central conceptual problem;
+4. whether it accidentally creates a new parallel thesis;
+5. whether counterevidence remains visible;
+6. unnecessary defensive language or invented jargon;
+7. paragraph rhythm and excessive single-sentence paragraphs;
+8. whether growth comes from historical/intellectual substance rather than explanation for its own sake.
 
 After editing, report the exact repository path and commit SHA, and describe the conceptual or historical effect of the local diff.
