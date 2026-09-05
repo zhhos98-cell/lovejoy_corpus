@@ -3,22 +3,25 @@
 Last synchronized: 2026-09-05  
 Status: **CONSOLIDATED STABLE NAVIGATION**
 
-Historical file paths are preserved for provenance. Default authority is now intentionally narrow.
+The repository is provenance-rich but the active authority surface is intentionally narrow. Do not recursively scan `research_notes/_frozen/`, `archive_index/_frozen/`, or raw `source/` payloads unless an active control identifies a specific need.
 
 ## 1. Start here
 
 | Need | Use |
 |---|---|
-| Human research router | `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` |
+| Human/agent research router | `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` |
 | Current open/closed/frozen state | `CURRENT_STATE.md` |
-| Short-form must-do / optional / external-blocked decisions | `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` |
+| Short-form completion decisions | `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` |
 | Historical argument architecture | `PROJECT_ARGUMENT_MAP.md` |
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Diplomatic/image completion | `TRANSCRIPTION_COMPLETION_QUEUE.md` |
 | Notebook page coverage/residual limits | `ARCHIVE_TRANSCRIPTION_PROGRESS.md` |
 | Article editing/calibration protocol | `AGENTS.md` |
 | Working/governance rules | `WORKING_RULES.md` |
-| Frozen provenance policy | `research_notes/FROZEN_PROVENANCE_REGISTER.md` |
+| Raw/near-raw source router | `source/SOURCE_INDEX.md` |
+| Archive locator/acquisition router | `archive_index/ARCHIVE_ROUTER.md` |
+| Curated exact-witness router | `research_notes/evidence/README.md` |
+| Frozen research provenance | `research_notes/FROZEN_PROVENANCE_REGISTER.md` |
 
 ## 2. Terminal research syntheses
 
@@ -30,7 +33,7 @@ Historical file paths are preserved for provenance. Default authority is now int
 | Harvard/Boston/Paris formation 1895–99 | `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md` |
 | 1902/1906 later exits and scale control | `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md` |
 
-Ordinary research should start with these files rather than historical batch/round/sweep notes. For the current non-journal short-form piece, consult `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` before reopening any archival branch.
+If a terminal synthesis closes a domain, do not re-run its historical batch/round/sweep files merely because they remain in the frozen snapshot.
 
 ## 3. Exact notebook text authority
 
@@ -40,83 +43,90 @@ Integrated reading surface:
 
 - `archive_transcriptions/MS38_004_005_integrated_page_by_page_final_2026-09-01.md`.
 
+Full notebook-to-1898 correspondence witness:
+
+- `research_notes/evidence/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`.
+
 Critical rule:
 
 > `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
 
 The integrated filename's `final` is legacy path provenance, not a diplomatic-completion claim.
 
-Material/audit controls remain available through `archive_transcriptions/README.md` and the source-critical gate.
+## 4. 1897–1898 publication-genesis evidence
 
-## 4. Exact publication-genesis evidence
+Start with `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`, then use only the exact control required:
 
-Use only after the terminal synthesis requires more detail:
+- p.389 visual/diplomatic control: `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`;
+- title/carrier recovery: `research_notes/evidence/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
+- 18 Mar / 10 Apr circular architecture: `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md`;
+- abstract/brief-statement procedure: `archive_index/AOS_1896_1897_abstract_procedure_control_2026-09-05.md`;
+- AOS record-book duties: `archive_index/AOS_1897_1899_1919_bylaw_recordbook_control_2026-09-05.md`;
+- notebook-to-print concordance: `research_notes/evidence/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
+- archive/custody context only if specifically needed: `archive_index/ARCHIVE_ROUTER.md`.
 
-- direct visual control of AOS No. 30 printed p.389 and diplomatic title `upādānam / upādāna-kkhandhā`: `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`;
-- full 191-page notebook-to-1898 concordance: `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` + `.csv`;
-- 1897 No. 30 title/carrier recovery, with June-publication dating and April-meeting title held open: `research_notes/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
-- earlier AOS attendance/election/read-by-title control: `research_notes/AOS_1897_Lovejoy_election_read_by_title_and_technical_terms_precursor_2026-09-01.md`;
-- one-day archival triage / non-blocking external follow-up: `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`;
-- Paul Haupt public-discovery ceiling: `archive_index/JHU_RG04090_Paul_Haupt_1878_1916_carrier_ceiling_2026-09-05.md`;
-- repository 1898 article witness: `The Buddhistic technical terms upadana and upadisesa..html`.
-
-Milinda/source-resolution process dossiers remain frozen provenance unless a terminal synthesis explicitly requires them.
+Current direct diplomatic state is printed p.389: `upādānam / upādāna-kkhandhā`. The 10 Apr -> June transition mechanism and exact April meeting title remain bounded unknowns, not writing blockers.
 
 ## 5. Formation evidence
 
-Primary routed evidence:
+Start with `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`.
 
-- `research_notes/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
-- `research_notes/Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`;
-- `research_notes/lovejoy_harvard_orientalist_training_1895_1898.md`.
+Repeated exact witnesses are:
 
-Course availability, enrollment/grade, teacher relation, institutional proximity, attendance, private reading, and methodological transmission remain separate propositions.
+- `research_notes/evidence/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
+- `research_notes/evidence/Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`.
+
+Course availability, enrollment/grade, teacher relation, institutional proximity, attendance, private reading, and methodological transmission remain separate propositions. Older broad formation sweeps are frozen provenance.
 
 ## 6. Archive/source-critical live work
 
 Use `CURRENT_STATE.md` for exact HOLDs and `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` for blocking versus non-blocking status.
 
-Notebook 004 broad source work is closed for present purposes; reopen only under the current gate.
+Notebook 004 broad source work is closed for present purposes. Notebook 005 retains only explicit source/version and diplomatic HOLDs; broad 005 source hunting remains closed.
 
-Notebook 005 retains only the explicitly live source/version and image/diplomatic HOLDs. Historical Round files remain available for audit but are not default routes.
-
-The 1897 AOS online discovery phase is currently closed at its public ceiling. The No. 30 page/typography question is also closed at direct visual level. Remaining high-value routes are request-ready or external archival follow-up: AOS record-book custody/shelfmarks, MS-0873 March–April 1897, Oertel MS 590 Box 3 Folder 56, and RG-15-010 Volume 1. RG-04-090 Paul Haupt is de-prioritized unless new container metadata appears.
+The 1897 AOS online-discovery phase is closed at its public ceiling. Direct p.389 typography is closed. JHU/Yale/AOS physical or slow archival follow-up is **optional future upgrade / not required for the current short form**. Paul Haupt is de-prioritized unless new container metadata appears.
 
 ## 7. JHI Blog production
 
-Production remains HOLD, but the canonical prose has completed the repository-governed **Round 0–7 calibration pass**. HOLD now means that no final submission/export approval has been given; it does not mean that another corpus-wide research or rewrite pass is required.
-
-Current writing authority is:
+Canonical prose authority:
 
 1. `research_notes/JHI_blog_full_draft_v3_7_clean_submission_2026-09-03.md`
-2. `research_notes/JHI_blog_v3_7_round0_7_calibration_control_2026-09-05.md`
-3. `AGENTS.md`
-4. `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`
-5. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
-6. `QUELLENFORSCHUNG_CURRENT_GATE.md`
+2. `research_notes/JHI_blog_v3_7_notebook_guide_quellenkritik_calibration_2026-09-03.md`
+3. `research_notes/JHI_FINAL_EVIDENCE_GATE_2026-08-27.md`
+4. `QUELLENFORSCHUNG_CURRENT_GATE.md`
+5. `AGENTS.md`
 
-The Round 0–7 control records the exact local-diff logic: factual hygiene, chronology, sentence-level source control, conceptual-center reduction, historiography, prose temperature, notes/diplomatic cleanup, and final counter-test. Existing earlier/later exploratory drafts are writing provenance unless `CURRENT_STATE.md` explicitly promotes them. Do not restore material removed by the conceptual-center or counter-test rounds merely because the repository contains more evidence for it.
+`research_notes/JHI_FULL_REPO_MICRO_REUSE_AUDIT_2026-09-05.md` is a bounded current audit control, not a successor prose draft and not authority to reopen corpus-wide research.
 
-## 8. Comparative controls and frozen branches
+Earlier drafts, round controls, and experimental JHI notes are frozen provenance unless explicitly promoted here or in `CURRENT_STATE.md`.
 
-The former Brinton–Boas–Lovejoy `primitive` triangle, including Batches 222/223, is frozen, excluded from production, and non-routing.
+## 8. Frozen branches
 
-Comparative-method controls such as the unit/relation matrix, Skinner/Pocock/Haddock files, and Martin Guerre sidecar may calibrate methodological claims but do not enter the Lovejoy historical evidence chain without an independently established relation.
+The Brinton–Boas–Lovejoy `primitive` comparative triangle remains frozen and excluded from production by default.
 
-## 9. Provenance structure
+Historical process files are preserved at:
 
-- `archive_index/` = locators, custody, rights/reproduction, search provenance;
+- `research_notes/_frozen/snapshot_2026-09-05/` — old research rounds, batches, sweeps, handoffs, drafts, source-specific process notes;
+- `archive_index/_frozen/snapshot_2026-09-05/` — old archive harvests, batch CSVs, negative searches, repository coverage, superseded acquisition targets.
+
+Do not traverse either snapshot by default.
+
+## 9. Repository layers
+
+- `source/` = raw and near-raw source payloads, classified by source type/context;
+- `archive_index/` = curated locator, custody, acquisition, and source-identity controls;
 - `archive_transcriptions/` = canonical page records, image/material audits, integrated reading surface;
-- `research_notes/` = terminal syntheses + exact dossiers + frozen historical provenance;
-- root payloads = preserved source/OCR payloads inventoried in `root_payload_index.md`;
-- Git history = recovery layer.
+- `research_notes/evidence/` = small repeatedly reused exact-witness dossiers;
+- `research_notes/` top level = terminal syntheses + current production controls;
+- `_frozen/` snapshots = provenance/recovery layers;
+- Git history = final recovery layer.
 
-No bulk physical migration is authorized by this consolidation. Heavily referenced paths remain stable.
+No historical provenance has been discarded by this consolidation; it has been removed from the default search surface.
 
 ## 10. Authority rule
 
 Default sequence:
 
-> **AGENTS/editing protocol -> living control -> short-form completion gate when relevant -> terminal synthesis -> exact canonical/primary witness -> historical audit trail only if needed**
+> **AGENTS/editing protocol -> living control -> terminal synthesis -> curated exact witness -> canonical transcription/raw source/archive locator only if needed -> frozen provenance only for a specifically named question**
 
 Historical status words inside dated notes do not override this index.
