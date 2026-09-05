@@ -16,7 +16,7 @@ Historical file paths are preserved for provenance. Default authority is now int
 | Source-critical protocol | `QUELLENFORSCHUNG_CURRENT_GATE.md` |
 | Diplomatic/image completion | `TRANSCRIPTION_COMPLETION_QUEUE.md` |
 | Notebook page coverage/residual limits | `ARCHIVE_TRANSCRIPTION_PROGRESS.md` |
-| Working/governance rules | `WORKING_RULES.md` |
+| Working/governance rules | `AGENTS.md` + `WORKING_RULES.md` |
 | Frozen provenance policy | `research_notes/FROZEN_PROVENANCE_REGISTER.md` |
 
 ## 2. Terminal research syntheses
@@ -51,6 +51,7 @@ Material/audit controls remain available through `archive_transcriptions/README.
 
 Use only after the terminal synthesis requires more detail:
 
+- direct visual control of AOS No. 30 printed p.389 and diplomatic title `upādānam / upādāna-kkhandhā`: `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md`;
 - full 191-page notebook-to-1898 concordance: `research_notes/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` + `.csv`;
 - 1897 No. 30 title/carrier recovery, with June-publication dating and April-meeting title held open: `research_notes/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md`;
 - earlier AOS attendance/election/read-by-title control: `research_notes/AOS_1897_Lovejoy_election_read_by_title_and_technical_terms_precursor_2026-09-01.md`;
@@ -78,7 +79,7 @@ Notebook 004 broad source work is closed for present purposes; reopen only under
 
 Notebook 005 retains only the explicitly live source/version and image/diplomatic HOLDs. Historical Round files remain available for audit but are not default routes.
 
-The 1897 AOS online discovery phase is currently closed at its public ceiling. The remaining high-value routes are request-ready or external archival follow-up: AOS record-book custody/shelfmarks, MS-0873 March–April 1897, Oertel MS 590 Box 3 Folder 56, and RG-15-010 Volume 1. RG-04-090 Paul Haupt is de-prioritized unless new container metadata appears.
+The 1897 AOS online discovery phase is currently closed at its public ceiling. The No. 30 page/typography question is also closed at direct visual level. Remaining high-value routes are request-ready or external archival follow-up: AOS record-book custody/shelfmarks, MS-0873 March–April 1897, Oertel MS 590 Box 3 Folder 56, and RG-15-010 Volume 1. RG-04-090 Paul Haupt is de-prioritized unless new container metadata appears.
 
 ## 7. JHI Blog production
 
@@ -113,6 +114,6 @@ No bulk physical migration is authorized by this consolidation. Heavily referenc
 
 Default sequence:
 
-> **living control -> short-form completion gate when relevant -> terminal synthesis -> exact canonical/primary witness -> historical audit trail only if needed**
+> **AGENTS/editing protocol -> living control -> short-form completion gate when relevant -> terminal synthesis -> exact canonical/primary witness -> historical audit trail only if needed**
 
 Historical status words inside dated notes do not override this index.
