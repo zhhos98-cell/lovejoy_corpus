@@ -95,15 +95,14 @@ Diplomatic-form firewall:
 
 Start here, then use only as needed:
 
-1. `archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md` for exact printed page/title form;
-2. `AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md` for carrier recovery/history;
-3. `archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md` for the 18 Mar / 10 Apr response architecture and Lovejoy state;
-4. `archive_index/AOS_1896_1897_abstract_procedure_control_2026-09-05.md` for abstract / brief-statement procedure;
-5. `archive_index/AOS_1897_1899_1919_bylaw_recordbook_control_2026-09-05.md` for directly verified 1897 record-book duties and By-Law V;
-6. `AOS_1897_lost_paper_archival_trace_log_2026-09-04.md` for frozen carrier-search provenance and negative controls;
-7. `MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md`;
-8. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
-9. repository 1898 article witness;
-10. direct AOS/archival carrier records for manuscript-identity or exact title-change timing claims.
+1. `../archive_index/AOS_1897_No30_p389_direct_visual_control_2026-09-05.md` for exact printed page/title form;
+2. `evidence/AOS_1897_No30_upadana_upadanakkhandha_title_recovery_2026-09-04.md` for carrier recovery/history;
+3. `../archive_index/AOS_1897_Final_Circular_Lovejoy_title_attendance_control_2026-09-05.md` for the 18 Mar / 10 Apr response architecture and Lovejoy state;
+4. `../archive_index/AOS_1896_1897_abstract_procedure_control_2026-09-05.md` for abstract / brief-statement procedure;
+5. `../archive_index/AOS_1897_1899_1919_bylaw_recordbook_control_2026-09-05.md` for directly verified 1897 record-book duties and By-Law V;
+6. `evidence/MS38_004_005_to_1898_page_concordance_full_coverage_2026-09-03.md` for the complete notebook-to-print classification;
+7. `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
+8. repository 1898 article witness through `../source/SOURCE_INDEX.md`;
+9. `../archive_index/ARCHIVE_ROUTER.md` for any specifically renewed carrier/custody question.
 
-Older Milinda/title/publication-selection batch files are frozen provenance.
+The older lost-paper trace log and other Milinda/title/publication-selection search rounds remain frozen provenance under `research_notes/_frozen/snapshot_2026-09-05/` and should not be traversed by default.
