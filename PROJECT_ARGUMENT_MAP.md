@@ -75,7 +75,9 @@ Strongest actor-level result:
 
 Lovejoy explicitly diagnosed a jurisdiction problem between philological textual expertise and philosophical reconstruction and sought a form of Buddhist study that could join them. Paris evidence strengthens the notebook reconstruction without licensing a single-teacher influence genealogy.
 
-Formation is distributed across philosophical training, textual competence, comparative religion, Buddhist reconstruction, Hebrew Wisdom work, and selective institutional/private-reading arrangements.
+A March 1897 *Prabuddha Bhārata* carrier now adds a pre-Paris institutional-action layer: Lovejoy is printed among the signatories of a Cambridge Conferences address to Vivekananda and identified as secretary of the Harvard Graduate Philosophical Society for 1896–97. This supports documented participation in a comparative ethics/philosophy/religion communication network, not attendance at any particular lecture or individual authorship of the collective address.
+
+Formation is distributed across philosophical training, textual competence, comparative religion, Buddhist reconstruction, collective/institutional communication, Hebrew Wisdom work, and selective institutional/private-reading arrangements.
 
 ## 5. 1902–1906 exits
 
@@ -85,11 +87,17 @@ Default file:
 
 Use later material to ask how locally separated relations are reaggregated at broader explanatory scales. Do not use 1902/1906 or later canonical works as a retrospective master key to notebooks 004/005. Do not expand this branch for the present short-form piece.
 
-## 6. Active discovery question: unknown pre-1898 Buddhist outputs
+## 6. Active discovery question: pre-1898 Buddhist/Indic outputs and intermediate carriers
 
-The live question is narrow:
+The live question remains narrow:
 
 > **what Lovejoy Buddhist/Indic communications, reports, addresses, exercises, abstracts, or meeting papers existed before the 1898 JAOS publication but survive only in intermediate institutional carriers?**
+
+One positive carrier is now recovered outside the AOS publication chain:
+
+- **March 1897, *Prabuddha Bhārata*** — a collective Cambridge Conferences address to Vivekananda prints `A. O. LOVEJOY` among the signatories and identifies him as secretary of the Harvard Graduate Philosophical Society, 1896–97. The address concerns Vedānta, comparative study, ethical/transnational fraternity, and uses `great Aryan Family` language. Treat it as a **Lovejoy-bearing collective institutional communication**, not as an individually authored Lovejoy scholarly paper. Exact control: `research_notes/evidence/LOVEJOY_1897_Cambridge_Conferences_Vivekananda_address_control_2026-09-05.md`.
+
+This changes the discovery question from pure absence to carrier differentiation. The remaining high-value question is whether additional **Lovejoy-specific scholarly or administrative objects** existed between notebook work and the 1898 publication, especially objects that can clarify the AOS title/content transition or expose another direct Buddhist communication.
 
 The one-day archival triage has converted most online-search tasks into request-ready or external-blocked targets. Highest-value future carriers are now:
 
@@ -101,13 +109,15 @@ The one-day archival triage has converted most online-search tasks into request-
 
 JHU RG-04-090 Series 8 (Paul Haupt, 1878–1916) is no longer a default continuation route. It remains a real institutional series, but no 1896–98 container or AOS/Lovejoy item has surfaced in public discovery. Reopen only if new container metadata appears.
 
-Institutional proximity does not prove attendance, uptake, or influence.
+Institutional participation, co-signature, programme availability, attendance, proposition-level uptake, and intellectual influence remain separate relations.
 
 ## 7. Frozen comparative branch
 
 The Brinton–Boas–Lovejoy `primitive` triangle and Batches 222/223 are frozen, non-routing, and excluded from production.
 
 Another actor may enter only when direct source-specific Lovejoy evidence makes that actor necessary for a live proposition. Conceptual symmetry is insufficient.
+
+The 1897 Cambridge Conferences/Vivekananda witness does permit a tightly bounded Lovejoy-specific question about collective `Aryan family` rhetoric because Lovejoy is directly named as a signatory. It does **not** by itself reopen the broader comparative `primitive` branch.
 
 ## 8. Evidence firewall
 
@@ -117,6 +127,8 @@ Do not infer:
 
 - transmission from proximity;
 - assent from citation;
+- individual drafting from appearance in a collective signatory block;
+- attendance at a specific lecture from Cambridge Conferences membership;
 - manuscript identity from title continuity;
 - exact title-date from meeting date when the title is recovered only in the June Proceedings;
 - originality from failed source recovery;
