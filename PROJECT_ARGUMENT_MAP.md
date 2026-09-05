@@ -1,9 +1,9 @@
 # Lovejoy corpus — project argument map
 
 Last synchronized: 2026-09-05  
-Status: **CONSOLIDATED LOVEJOY-CENTERED ARGUMENT ROUTER**
+Status: **CONSOLIDATED LOVEJOY-CENTERED ARGUMENT ROUTER / SHORT-FORM READY**
 
-This file says how the arguments connect. `CURRENT_STATE.md` says what is open/held/frozen; `CANONICAL_INDEX.md` says where authority lives.
+This file says how the arguments connect. `CURRENT_STATE.md` says what is open/held/frozen; `CANONICAL_INDEX.md` says where authority lives; `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` fixes what is and is not blocking for a short-form article/blog.
 
 ## 1. Core problem
 
@@ -11,7 +11,7 @@ The project asks how Lovejoy's late-1890s work moved among textual criticism, co
 
 Core control:
 
-> **different relations require different warrants, and the research object can change between notebook work, announced communication, meeting record, article, and later synthesis.**
+> **different relations require different warrants, and the research object can change between notebook work, announced communication, meeting record, publication carrier, article, and later synthesis.**
 
 Compact Lovejoy-local rule:
 
@@ -25,24 +25,29 @@ Default files:
 
 - `research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md`
 - `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`
+- `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md`
 
-Documented public object path:
+Documented public object/carrier path:
 
 `10 Apr 1897 Final Circular — Milinda-pañha whole-text argument`
 
-→ `post-meeting Proceedings reporting 22–24 Apr 1897 — upādāna / upādāna-kkhandhā`
+→ `22–24 Apr 1897 Baltimore meeting — No. 30 handled by title; exact meeting title and Lovejoy-specific brief statement remain open`
+
+→ `June 1897 JAOS 18 Second Half — printed Proceedings p.380: upādāna / upādāna-kkhandhā`
 
 → `1898 — upādāna / upādisesa`.
 
-The second node is deliberately carrier-dated rather than event-dated: the Proceedings were prepared/printed after the meeting, so the technical-terms title cannot yet be assigned securely to 22–24 Apr themselves.
+The June node is deliberately carrier-dated rather than event-dated. The original volume says the Second Half was `Issued, June, 1897`, and the Proceedings were printed after the April meeting. The technical-terms title therefore cannot yet be assigned securely to 22–24 April themselves.
 
 Interpretive result:
 
-> the public research object is revised and reallocated across documentary states; title continuity does not establish manuscript identity, and a meeting date does not automatically date a title form found only in post-meeting Proceedings.
+> the public research object is revised and reallocated across documentary states; title continuity does not establish manuscript identity, a meeting date does not automatically date a title form found only in the June Proceedings, and the surviving chain permits us to bound a transformation without pretending to recover its missing mechanism.
 
 Notebook 004 is broader than the published article. Its publication transformation is best described as problem selection, object recomposition, selective witness retention, explicit omission of analytical worksheets, and narrowing of claims to the article's burden of proof.
 
 The strongest local operations separate temporal, logical, classificatory, causal, semantic, genealogical, and functional relations rather than letting one settle the others automatically.
+
+Short-form consequence: the argument is ready. Recovery of the exact 10 Apr -> June transition carrier would upgrade mechanism-level precision but is not required to state the documentary reconfiguration itself.
 
 ## 3. Notebook 005 -> stratified comparative-religion work
 
@@ -57,6 +62,8 @@ Current result:
 At the same time, ranked civilizational vocabulary remains present. Internal stratification does not erase hierarchy.
 
 The strongest Lovejoy-local operations are source ranking, case reclassification, relation-separation, mechanism-to-social-bearer mapping, independent chronology tests, restriction of genealogies, and preservation of rival alternatives.
+
+For the present 004 -> 1897/98 short-form article, 005 is supporting comparative material rather than a live expansion surface.
 
 ## 4. Formation 1895–1899
 
@@ -76,7 +83,7 @@ Default file:
 
 - `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md`.
 
-Use later material to ask how locally separated relations are reaggregated at broader explanatory scales. Do not use 1902/1906 or later canonical works as a retrospective master key to notebooks 004/005.
+Use later material to ask how locally separated relations are reaggregated at broader explanatory scales. Do not use 1902/1906 or later canonical works as a retrospective master key to notebooks 004/005. Do not expand this branch for the present short-form piece.
 
 ## 6. Active discovery question: unknown pre-1898 Buddhist outputs
 
@@ -84,13 +91,15 @@ The live question is narrow:
 
 > **what Lovejoy Buddhist/Indic communications, reports, addresses, exercises, abstracts, or meeting papers existed before the 1898 JAOS publication but survive only in intermediate institutional carriers?**
 
-Highest-value carriers:
+The one-day archival triage has converted most online-search tasks into request-ready or external-blocked targets. Highest-value future carriers are now:
 
-1. JHU MS-0873 Box 1 chronological Lovejoy-letter tranche covering 1894–1898;
-2. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated), because Oertel is the documented recipient of 1897 title submissions;
-3. contemporaneous AOS program/title-slip/minute/editorial records capable of dating the Milinda-title -> technical-terms-title change independently of the post-meeting Proceedings;
-4. Yale/AOS manuscript record-book custody/cataloguing trail;
-5. Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records.
+1. AOS 1897 Corresponding Secretary letter-copy book and Recording Secretary proceedings/minute book — directly warranted record classes, present 1897 shelfmarks/date coverage unresolved after public-discovery ceiling;
+2. JHU MS-0873 Box 1, smallest chronological segment covering March–April 1897 — request-ready actor-side carrier;
+3. Yale MS 590 Box 3 Folder 56 (`I-R`) — exact locator closed; dated metadata does not expose 1897, so only undated material preserves the spring-1897 possibility;
+4. JHU RG-15-010 Volume 1, March–May 1897 — exact local-host minutes carrier, external inspection required;
+5. Lanman HUG 4510.xx and Yale/AOS custody/cataloguing material only when a new item-level or custody lead appears.
+
+JHU RG-04-090 Series 8 (Paul Haupt, 1878–1916) is no longer a default continuation route. It remains a real institutional series, but no 1896–98 container or AOS/Lovejoy item has surfaced in public discovery. Reopen only if new container metadata appears.
 
 Institutional proximity does not prove attendance, uptake, or influence.
 
@@ -109,11 +118,13 @@ Do not infer:
 - transmission from proximity;
 - assent from citation;
 - manuscript identity from title continuity;
-- exact title-date from meeting date when the title is recovered only in post-meeting Proceedings;
+- exact title-date from meeting date when the title is recovered only in the June Proceedings;
 - originality from failed source recovery;
 - historical order from morphological/classificatory order;
-- genealogy from analytical resemblance.
+- genealogy from analytical resemblance;
+- a recovered revision mechanism from a bounded before/after title change;
+- archival absence from public-discovery failure.
 
 ## 9. Default continuation
 
-Route ordinary work through `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` and the terminal synthesis matching the immediate question. Reopen exact archival/source dossiers only when the terminal synthesis or a live HOLD requires them. Historical process notes are frozen by default.
+Route ordinary work through `CONSOLIDATED_RESEARCH_ENTRYPOINT.md` and the terminal synthesis matching the immediate question. For 1897 publication-genesis work, read `LOVEJOY_SHORTFORM_COMPLETION_CHECKLIST.md` before reopening archival discovery. Historical process notes are frozen by default, and request-ready/external carriers should not trigger another broad online sweep.
