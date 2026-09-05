@@ -37,6 +37,7 @@ Ordinary work should begin here rather than with historical batch/round/sweep no
 
 - complete 191-page notebook-to-1898 concordance;
 - 1897 AOS No.30 title/carrier recovery;
+- March 1897 Cambridge Conferences -> Vivekananda collective-address witness naming Lovejoy and his Harvard Graduate Philosophical Society office;
 - MS-0873 Paris 1898–99 Wilson-transcription direct read;
 - Harvard student-record / advanced-Pāli enrollment closure.
 
@@ -57,6 +58,8 @@ This directory is intentionally small. Exploratory source dossiers remain frozen
 → `1898–99 Paris correspondence`
 
 → later 1902/1906 exits and scale changes.
+
+The March 1897 Cambridge Conferences/Vivekananda address is a parallel Lovejoy-bearing institutional-communication carrier, not part of this AOS manuscript/title chain.
 
 The June title is a post-meeting printed-carrier state and must not automatically be back-dated to the April meeting. The exact 10 Apr -> June transition mechanism remains unknown but is not required for the current short form.
 
@@ -86,11 +89,13 @@ Use [`source/SOURCE_INDEX.md`](source/SOURCE_INDEX.md) for raw/OCR/reference/dis
 
 ## Formation
 
-Current strongest exact witnesses are the Harvard student record and the JHU MS-0873 Wilson transcription packet, both routed through `research_notes/evidence/`. Keep course availability, enrollment/grade, teacher relation, lecture attendance, private reading, and methodological transmission separate.
+Current strongest exact witnesses are now the March 1897 *Prabuddha Bhārata* Cambridge Conferences/Vivekananda address, the Harvard student record, and the JHU MS-0873 Wilson transcription packet, all routed through `research_notes/evidence/`. The 1897 address moves one proposition beyond generic institutional proximity: Lovejoy is printed as a signatory/member of a comparative ethics/philosophy/religion communication and identified as secretary of the Harvard Graduate Philosophical Society, 1896–97. Keep collective signatory status, individual drafting, programme availability, lecture attendance, enrollment/grade, teacher relation, private reading, and methodological transmission separate.
 
 ## `primitive`, later Lovejoy, and politics
 
 Notebook 005 can support a bounded claim about ranked developmental language coexisting with relation-specific historical stratification. The former Brinton–Boas–Lovejoy triangle is frozen. 1902/1906 and later Lovejoy remain exit/scale controls, not retrospective master keys for the 1890s.
+
+The March 1897 collective address supplies a new Lovejoy-bearing pre-1898 carrier for `great Aryan Family` rhetoric. It permits a narrow analysis of the collective act to which his name was attached; it does not establish that Lovejoy drafted the phrase or by itself reopen the frozen comparative `primitive` branch.
 
 ## JHI Blog
 
@@ -101,6 +106,8 @@ Canonical prose remains [`research_notes/JHI_blog_full_draft_v3_7_clean_submissi
 - `PAGE COVERAGE != DIPLOMATIC TRANSCRIPTION COMPLETION`.
 - `NOTEBOOK HANDWRITING != PROPOSITION AUTHORSHIP`.
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
+- `COLLECTIVE SIGNATORY != INDIVIDUAL DRAFTER`.
+- `INSTITUTIONAL PARTICIPATION != ATTENDANCE AT EACH PROGRAMME ITEM`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
 - `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN JUNE PROCEEDINGS`.
 - `INSTITUTIONAL PROXIMITY != ATTENDANCE / UPTAKE / INFLUENCE`.
