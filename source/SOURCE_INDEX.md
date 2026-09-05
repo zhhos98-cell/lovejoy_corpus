@@ -1,8 +1,8 @@
 # Source index
 
-Status: ACTIVE ROUTER / STRUCTURAL MIGRATION 2026-09-05
+Status: **ACTIVE RAW / NEAR-RAW PAYLOAD ROUTER**
 
-This index routes raw and near-raw payloads. It is not an argument map and does not promote OCR output to canonical evidence.
+This index routes source payloads. It is not an argument map and does not promote OCR output to canonical evidence. Begin from a terminal synthesis or living control; enter `source/` only when the exact raw/near-raw witness is needed.
 
 ## Archive
 
@@ -33,17 +33,21 @@ This index routes raw and near-raw payloads. It is not an argument map and does 
 
 ## Contextual corpus
 
-Periodicals and serials:
+### Periodicals / articles
+
 - `source/context/periodicals/hibbertjournal05londuoft.pdf_by_PaddleOCR-VL-1.6.json`
 - `source/context/periodicals/Wiener_Zeitschrift_für_die_Kunde_des_Mo.pdf_by_PaddleOCR-VL-1.6.json`
 - `source/context/periodicals/S0035869X00145927.pdf_by_PaddleOCR-VL-1.6.json`
 - `source/context/periodicals/THEREV~1.PDF_by_PaddleOCR-VL-1.6.json`
 - `source/context/periodicals/The Hatchet 1906.pdf_by_PaddleOCR-VL-1.6.json`
+- `source/context/periodicals/Thomas_1898_Survivance_culte_totemique_Galles_RHR38.pdf_by_PaddleOCR-VL-1.6.json` — N. W. Thomas, `La survivance du culte totémique des animaux et les rites agraires dans le pays de Galles`, *Revue de l'histoire des religions* 38 (1898): 295–347; JSTOR stable 23660286. Former root filename: `35.pdf_by_PaddleOCR-VL-1.6.json`.
 
-Books/long-form contextual witnesses:
+### Books / long-form contextual witnesses
+
 - `source/context/books/F_Max_Müller_als_Mythendichter(OCR).pdf_by_PaddleOCR-VL-1.6.json`
 - `source/context/books/Memoirs_of_the_International_congress_of_anthropology_(IA_memoirsofinterna00inte).pdf_by_PaddleOCR-VL-1.6.json`
 - `source/context/books/提取自studiesinphilos00univgoog.pdf_by_PaddleOCR-VL-1.6.json`
+- `source/context/books/Oltramare_1909_Formule_bouddhique_douze_causes.pdf_by_PaddleOCR-VL-1.6.json` — Paul Oltramare, *La formule bouddhique des douze causes: son sens originel et son interprétation théologique* (Genève: Georg, 1909), Wellcome/Royal College of Surgeons witness. Former root filename: `b22427624.pdf_by_PaddleOCR-VL-1.6.json`.
 - `source/context/text/hvd-hnav7c-1787789071.txt`
 
 ## Discovery exports / metadata
@@ -59,13 +63,8 @@ Books/long-form contextual witnesses:
 
 - `source/notebooks/indexes/page_by_page_index_004_005_bilingual.md` — bilingual page-by-page routing index; not a substitute for canonical clean transcription batches.
 
-## Unclassified retained payloads
+## Classification state
 
-- `source/_unclassified/35.pdf_by_PaddleOCR-VL-1.6.json`
-- `source/_unclassified/b22427624.pdf_by_PaddleOCR-VL-1.6.json`
+All payloads migrated from repository root on 2026-09-05 now have a bibliographic/source-class destination. The former `_unclassified/` holding entries `35...` and `b22427624...` were identified from their own OCR front matter and reclassified without altering blob content.
 
-These two remain intentionally unclassified until bibliographic identity is established. Keeping them here prevents filename-based inference from leaking into article claims.
-
-## Legacy path migration
-
-All payloads above were moved from repository root on 2026-09-05 without changing blob content. Git history preserves the old paths; active retrieval should use the new paths above.
+Git history preserves the old root paths and temporary `_unclassified/` locations. Active retrieval should use the paths above.
