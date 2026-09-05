@@ -55,10 +55,13 @@ Default synthesis: `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`.
 
 Strongest actor-level controls are now promoted into `research_notes/evidence/`:
 
+- March 1897 *Prabuddha Bhārata* Cambridge Conferences -> Vivekananda collective-address witness, naming Lovejoy and identifying him as secretary of the Harvard Graduate Philosophical Society, 1896–97;
 - Harvard student record / advanced-Pāli enrollment closure;
 - JHU MS-0873 Wilson transcription witness for Paris 1898–99.
 
-Current safe result: Lovejoy combined philosophical training with technical Buddhist/Indic and comparative-religion work; in 1898 he explicitly formulated a problem produced by the split between philological textual expertise and philosophical reconstruction. Do not convert this into a single-teacher genealogy. Wilson's Paris witness remains an archival transcription, not autograph-level inspection.
+Current safe result: Lovejoy combined philosophical training with technical Buddhist/Indic and comparative-religion work; before Paris he is now directly represented in a comparative-religion collective communication, and in 1898 he explicitly formulated a problem produced by the split between philological textual expertise and philosophical reconstruction. The 1897 address does not establish individual drafting, attendance at specific Cambridge Conferences lectures, or proposition-level influence. Do not convert this into a single-teacher genealogy. Wilson's Paris witness remains an archival transcription, not autograph-level inspection.
+
+The March 1897 collective address also supplies a bounded Lovejoy-bearing carrier for `great Aryan Family` rhetoric. Treat this as a collective act to which his name was attached, not as proof that he coined the phrase or held a fully recoverable personal racial doctrine.
 
 ### 1902–1906 exits
 
@@ -74,12 +77,14 @@ Calibration/evidence authority is defined in `CANONICAL_INDEX.md` and `AGENTS.md
 
 The former full-repository micro-reuse audit is **frozen**. Reusable small units are consolidated in `research_notes/JHI_MICRO_REUSE_TERMINAL_2026-09-05.md`. Micro-reuse is now demand-driven by a specific sentence or note.
 
+The new March 1897 Cambridge Conferences/Vivekananda witness does **not** reopen or block the current 004-centered short form. Use it only if a specific formation, institutional-participation, or pre-1898 political-language sentence requires it.
+
 ## 3. Repository routing state
 
 Active layers are now:
 
 - `research_notes/` — terminal syntheses + current JHI production controls;
-- `research_notes/evidence/` — four repeatedly reused exact-witness dossiers;
+- `research_notes/evidence/` — five repeatedly reused exact-witness dossiers;
 - `archive_transcriptions/` — canonical notebook records/direct-image controls;
 - `archive_index/` — curated locator/acquisition/custody controls;
 - `source/` — classified raw and near-raw payloads.
@@ -99,6 +104,8 @@ Do not recurse into frozen snapshots or raw OCR payloads by default.
 - `SOURCE-OWNED CONSTITUENTS != SOURCE-OWNED RELATION`.
 - `FAILED SOURCE RECOVERY != LOVEJOY ORIGINALITY`.
 - `CITATION / ADJACENCY != UPTAKE / ASSENT`.
+- `COLLECTIVE SIGNATORY != INDIVIDUAL DRAFTER`.
+- `INSTITUTIONAL PARTICIPATION != ATTENDANCE AT EACH PROGRAMME ITEM`.
 - `TITLE CONTINUITY != MANUSCRIPT IDENTITY`.
 - `MEETING DATE != AUTOMATIC DATE OF A TITLE PRINTED IN JUNE PROCEEDINGS`.
 - `READ BY TITLE != BARE TITLE ONLY`.
@@ -115,7 +122,9 @@ Compact Lovejoy-local control:
 
 ## 5. Frozen branches
 
-The Brinton–Boas–Lovejoy `primitive` triangle remains frozen and excluded from production. Historical batch/round/sweep/delta files, old handoffs, generic archive searches, and superseded draft states remain provenance only.
+The Brinton–Boas–Lovejoy `primitive` triangle remains frozen and excluded from production. Historical batch/round/sweep files, old handoffs, generic archive searches, and superseded draft states remain provenance only.
+
+The March 1897 Cambridge Conferences/Vivekananda witness permits a narrow Lovejoy-specific question about collective `Aryan family` rhetoric; it does not by itself reactivate the broader frozen `primitive` comparison.
 
 ## 6. Default continuation
 
@@ -124,7 +133,7 @@ When the user says `continue`, identify the domain first and enter through its t
 - 004 -> `research_notes/LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
 - 005 -> `research_notes/LOVEJOY_005_TERMINAL_SYNTHESIS.md`;
 - AOS / Milinda / 1897–98 -> `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`;
-- Harvard / Paris -> `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`;
+- Harvard / Cambridge Conferences / Paris -> `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`;
 - 1902/1906 -> `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md`;
 - exact notebook wording -> `archive_transcriptions/` + `TRANSCRIPTION_COMPLETION_QUEUE.md`;
 - archive locator/custody -> `archive_index/ARCHIVE_ROUTER.md`;
