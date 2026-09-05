@@ -32,6 +32,7 @@ The repository is provenance-rich but the active authority surface is intentiona
 | 1897 AOS -> 1898 JAOS publication genesis | `research_notes/LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md` |
 | Harvard/Boston/Paris formation 1895–99 | `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md` |
 | 1902/1906 later exits and scale control | `research_notes/LOVEJOY_1902_1906_EXIT_TERMINAL.md` |
+| JHI micro-reuse / recovered small units | `research_notes/JHI_MICRO_REUSE_TERMINAL_2026-09-05.md` |
 
 If a terminal synthesis closes a domain, do not re-run its historical batch/round/sweep files merely because they remain in the frozen snapshot.
 
@@ -96,7 +97,7 @@ Canonical prose authority:
 4. `QUELLENFORSCHUNG_CURRENT_GATE.md`
 5. `AGENTS.md`
 
-`research_notes/JHI_FULL_REPO_MICRO_REUSE_AUDIT_2026-09-05.md` is a bounded current audit control, not a successor prose draft and not authority to reopen corpus-wide research.
+The former corpus-wide micro-reuse ledger is frozen. Its reusable output is consolidated in `research_notes/JHI_MICRO_REUSE_TERMINAL_2026-09-05.md`; micro-reuse is now demand-driven and does not authorize another path-by-path full-repository pass.
 
 Earlier drafts, round controls, and experimental JHI notes are frozen provenance unless explicitly promoted here or in `CURRENT_STATE.md`.
 
