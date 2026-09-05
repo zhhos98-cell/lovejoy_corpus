@@ -340,6 +340,18 @@ Sources: Yale RU 120 finding aid; Yale RU 303 finding aid; Yale RU 793 finding a
 
 Assessment: **MAJOR SEARCH-PATH UPGRADE: TRACE THE CATALOGUE/TRANSFER HISTORY BEFORE FURTHER BLIND `LETTER BOOK II` SEARCHING.**
 
+## Trace 23 — JSTOR Baltimore Proceedings closed as a text carrier
+
+User direct visual inspection confirms that the JSTOR 1897 Baltimore Proceedings contains **no Lovejoy paper text or abstract** beyond the meeting-record/title state already used in the project.
+
+Consequence:
+
+- stop searching the JSTOR Proceedings for hidden body text or an abstract;
+- retain it only as a witness for the late-April title state and the fact that the communication was read by title;
+- redirect text-recovery effort to archival carriers that could preserve the pre-meeting title notice, correspondence, manuscript, editorial handling, or later custody/cataloguing metadata.
+
+Assessment: **CLOSED NEGATIVE CARRIER FOR TEXT RECOVERY / KEEP ONLY AS TITLE-AND-MEETING-STATUS WITNESS.**
+
 ## Negative control — misleading Open Library / Internet Archive volume metadata
 
 Public discovery for Internet Archive identifier `journalamerican18socigoog` is unreliable for this task: Open Library metadata can present it in a way suggestive of JAOS volume 18, while inspection of the scan/text route exposes content beginning with the **Fourth Volume (1854)**. Do not use this identifier as the 1897 volume witness without independent page-level verification.
@@ -365,7 +377,7 @@ Assessment: **DISTRIBUTED-CARRIER STRATEGY EMPIRICALLY WARRANTED.**
 9. Distributed papers of 1897 AOS officers/hosts/recipients: Gilman, Warren, Van Name, Moore, others.
 10. Harvard Graduate Philosophical Society records/programs for concrete Lovejoy-authored objects only.
 
-De-prioritized for the immediate 1897 text hunt: UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale transfer/cataloguing history.
+De-prioritized for the immediate 1897 text hunt: **JSTOR Baltimore Proceedings beyond its title/meeting-status witness function**; UChicago Box 7 Folder 13 beyond its now-completed circular audit; catalogued William James incoming Lovejoy letters; Howison Lovejoy correspondence beginning 1898; generic public searches for `American Oriental Society Letter Book II` without first reconstructing Yale transfer/cataloguing history.
 
 ## Current judgment
 
@@ -381,6 +393,6 @@ De-prioritized for the immediate 1897 text hunt: UChicago Box 7 Folder 13 beyond
 
 + `Lanman/HOS records = Harvard-side internal carrier; Warren is a targeted name, not a transmission claim`.
 
-The Chicago recipient file has been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897.
+The Chicago recipient file has been **visually audited and negatively narrowed**: it preserves the public circular chain but no Lovejoy-specific enclosure in the relevant 1897 image sequence. Adjacent 1899/1900 circulars strengthen the procedural model while simultaneously forbidding retrojection of an abstract/manuscript requirement into 1897. The JSTOR Baltimore Proceedings is now also closed as a text-recovery carrier and retained only for title/meeting-status evidence.
 
 The next decisive result would be an item-level hit in MS-0873, Oertel f.56, or a Yale catalogue/transfer file that resolves the nineteenth-century AOS record-book shelfmarks. Until then, `Critical summary...` remains **DOCUMENTED / TEXT NOT RECOVERED**.
