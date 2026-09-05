@@ -52,11 +52,19 @@ The second named technical term changes. Treat the 10 Apr circular, April meetin
 
 Highest-value live carriers:
 
-1. JHU MS-0873 Box 1 chronological Lovejoy-letter tranche covering 1894–1898, especially March–April 1897;
-2. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated) for the documented title-submission / possible remote-correction route;
-3. AOS Corresponding Secretary letter-copy book and Recording Secretary proceedings/minute book for 1897, both record classes now directly required by the verified 1897 By-Laws;
-4. contemporaneous AOS program/title-slip/editorial/meeting-packet records capable of dating the title change or identifying a `brief statement of contents` independently of the June Proceedings carrier;
-5. Yale/AOS manuscript record-book custody/cataloguing trail and Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records.
+1. AOS 1897 Corresponding Secretary **letter-copy book** and Recording Secretary **proceedings/minute book** — both record classes are now directly required by the verified 1897 Constitution/By-Laws; present shelfmarks/date coverage remain open;
+2. JHU MS-0873 Box 1 — request the smallest continuous chronological segment covering **March–April 1897**; do not invent a binder/file number from the 1898–99 France scan;
+3. Oertel MS 590 Box 3 Folder 56 (`I-R`, especially undated) — documented title-intake / possible remote-correction route;
+4. JHU **RG-15-010 Volume 1**, March–May 1897 — exact local-host minutes volume covering dates/attendance/speakers/titles/announcements; AOS/Lovejoy content uninspected;
+5. Yale/AOS manuscript record-book custody/cataloguing trail and Lanman HUG 4510.xx, especially April 1897 engagement calendar and relevant correspondence/HOS records;
+6. JHU **RG-04-090, Series 8: Paul Haupt, 1878–1916** — newly identified institutional series; next task is container-level reduction before assigning any AOS relevance;
+7. Price papers/scrapbooks and contemporaneous Baltimore press carriers as secondary local echoes.
+
+The UChicago Box 7 Folder 13 1897 recipient-file route is **closed** for an additional post-meeting circular/correction carrier after complete page-level audit. A. V. Williams Jackson MS 1009 is de-prioritized because its publicly described surviving profile is scholarly notes/drafts rather than an AOS editorial correspondence series. Generic Yale `Letter Book II` web searching has reached a public-discovery ceiling.
+
+Current stop/restart note: `archive_index/LOVEJOY_1897_SESSION_HANDOFF_2026-09-05_1336.md`.
+
+Separate small HOLD: direct page-image inspection of **JAOS 18 pt.2 printed p.380** for exact Pāli typography. Content-level title recovery remains controlled; diplomatic transcription is not yet closed.
 
 ### Formation 1895–1899
 
@@ -84,6 +92,8 @@ Use later materials only as scale/reaggregation controls. They are not a retrosp
 - `GROUP-LEVEL WITH/WITHOUT BRIEF STATEMENT != LOVEJOY-SPECIFIC BRIEF STATEMENT`.
 - `INDEXED OCR CONTENT RECOVERY != DIPLOMATIC TITLE TRANSCRIPTION`.
 - `INSTITUTIONAL CARRIER EXISTENCE != LOVEJOY AUTHORSHIP`.
+- `LOCAL HOST-INSTITUTION ECHO != AOS CORPORATE RECORD`.
+- `PUBLIC CATALOGUE NO-HIT != ARCHIVAL ABSENCE`.
 - `CROSS-ACTOR ANALYTICAL SIMILARITY != HISTORICAL ARGUMENT`.
 
 Compact Lovejoy-local control:
@@ -106,10 +116,10 @@ When the user says `continue`:
 
 - 004 discussion -> `LOVEJOY_004_TERMINAL_SYNTHESIS.md`;
 - 005 / ritual / `primitive` discussion -> `LOVEJOY_005_TERMINAL_SYNTHESIS.md`;
-- AOS / Milinda / pre-1898 output discussion -> `LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md` and live carrier search;
+- AOS / Milinda / pre-1898 output discussion -> first read `archive_index/LOVEJOY_1897_SESSION_HANDOFF_2026-09-05_1336.md`, then `LOVEJOY_1897_1898_PUBLICATION_GENESIS_TERMINAL.md`; resume with **RG-04-090 Series 8 container reduction**, and if unproductive fall back to **RG-15-010 Volume 1, March–May 1897**, while preserving the ranked direct-carrier priorities above;
 - Harvard / Paris discussion -> `LOVEJOY_FORMATION_1895_1899_TERMINAL.md`;
 - 1902/1906 discussion -> `LOVEJOY_1902_1906_EXIT_TERMINAL.md`;
 - exact transcription/source ownership -> canonical page records + `QUELLENFORSCHUNG_CURRENT_GATE.md` / `TRANSCRIPTION_COMPLETION_QUEUE.md`;
 - Blog discussion -> current JHI production route in `CANONICAL_INDEX.md`.
 
-Do not reopen historical process notes or comparative actor sweeps by default.
+Do not reopen historical process notes or comparative actor sweeps by default. For the 1897 AOS search specifically, do not repeat generic UChicago circular, generic Yale Letter Book II, generic Jackson, broad Baltimore press, or corpus-wide MS-0873/MS-0038 searches unless a new source changes the ceiling.
