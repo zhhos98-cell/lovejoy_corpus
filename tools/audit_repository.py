@@ -14,7 +14,9 @@ from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
-FROZEN_ROOT = ROOT / "research_notes" / "_frozen"
+RESEARCH_FROZEN_ROOT = ROOT / "research_notes" / "_frozen"
+ARCHIVE_FROZEN_ROOT = ROOT / "archive_index" / "_frozen"
+FROZEN_ROOTS = (RESEARCH_FROZEN_ROOT, ARCHIVE_FROZEN_ROOT)
 SOURCE_ROOT = ROOT / "source"
 
 REQUIRED = (
@@ -30,6 +32,7 @@ REQUIRED = (
     "source/README.md",
     "source/SOURCE_INDEX.md",
     "archive_index/README.md",
+    "archive_index/ARCHIVE_ROUTER.md",
     "archive_transcriptions/README.md",
     "research_notes/README.md",
     "research_notes/FROZEN_INDEX.md",
@@ -100,7 +103,7 @@ def under(path: Path, parent: Path) -> bool:
 
 
 def is_frozen(path: Path) -> bool:
-    return under(path, FROZEN_ROOT)
+    return any(under(path, frozen_root) for frozen_root in FROZEN_ROOTS)
 
 
 def is_raw_source(path: Path) -> bool:
@@ -108,16 +111,21 @@ def is_raw_source(path: Path) -> bool:
 
 
 def legacy_frozen_fallback(target: Path) -> Path | None:
-    """Resolve a pre-freeze research_notes path into the frozen snapshot when possible."""
-    research_root = ROOT / "research_notes"
-    try:
-        relative = target.resolve().relative_to(research_root.resolve())
-    except ValueError:
-        return None
-    if relative.parts and relative.parts[0] == "_frozen":
-        return None
-    candidate = research_root / "_frozen" / "snapshot_2026-09-05" / relative
-    return candidate if candidate.exists() else None
+    """Resolve a pre-freeze active path into a preserved snapshot when possible."""
+    candidates = (
+        (ROOT / "research_notes", RESEARCH_FROZEN_ROOT / "snapshot_2026-09-05"),
+        (ROOT / "archive_index", ARCHIVE_FROZEN_ROOT / "snapshot_2026-09-05"),
+    )
+    for active_root, snapshot_root in candidates:
+        try:
+            relative = target.resolve().relative_to(active_root.resolve())
+        except ValueError:
+            continue
+        if relative.parts and relative.parts[0] == "_frozen":
+            return None
+        candidate = snapshot_root / relative
+        return candidate if candidate.exists() else None
+    return None
 
 
 def local_link_target(markdown: Path, raw_target: str) -> Path | None:
@@ -209,7 +217,7 @@ def main() -> int:
             fallback = legacy_frozen_fallback(target)
             if fallback is not None:
                 warnings.append(
-                    f"legacy research-note link resolves through frozen snapshot: {path.relative_to(ROOT)} -> {fallback.relative_to(ROOT)}"
+                    f"legacy active-path link resolves through frozen snapshot: {path.relative_to(ROOT)} -> {fallback.relative_to(ROOT)}"
                 )
                 continue
             line = text.count("\n", 0, match.start()) + 1
@@ -230,6 +238,7 @@ def main() -> int:
         "source/README.md",
         "source/SOURCE_INDEX.md",
         "archive_index/README.md",
+        "archive_index/ARCHIVE_ROUTER.md",
         "archive_transcriptions/README.md",
         "research_notes/README.md",
         "research_notes/FROZEN_INDEX.md",
@@ -252,7 +261,7 @@ def main() -> int:
             fallback = legacy_frozen_fallback(target)
             if fallback is not None:
                 warnings.append(
-                    f"living navigation uses legacy research-note path: {relative} -> {fallback.relative_to(ROOT)}"
+                    f"living navigation uses legacy path resolved in frozen snapshot: {relative} -> {fallback.relative_to(ROOT)}"
                 )
                 continue
             line = text.count("\n", 0, match.start()) + 1
@@ -273,7 +282,8 @@ def main() -> int:
     print("Canonical page coverage: 004=71/71, 005=120/120")
     print("Raw source routing: source/SOURCE_INDEX.md")
     print("Frozen research history: research_notes/FROZEN_INDEX.md")
-    print("Audit skips raw source OCR payloads and research_notes/_frozen for expensive parse/hash/link passes")
+    print("Frozen archive-search history: archive_index/_frozen/snapshot_2026-09-05/")
+    print("Audit skips source/, research_notes/_frozen/, and archive_index/_frozen/ for expensive parse/hash/link passes")
     print("Diplomatic transcription completion is governed separately by TRANSCRIPTION_COMPLETION_QUEUE.md")
     if warnings:
         print(f"Warnings: {len(warnings)}")
