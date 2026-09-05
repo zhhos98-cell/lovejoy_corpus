@@ -1,6 +1,6 @@
 # Source tree
 
-`source/` is the mandatory home for raw or near-raw source payloads that are used by research notes but should not sit in the repository root.
+`source/` is the mandatory home for raw or near-raw source payloads used by research notes but not appropriate for repository root.
 
 Route by evidentiary/provenance function rather than file extension:
 
@@ -8,17 +8,20 @@ Route by evidentiary/provenance function rather than file extension:
 - `institutions/` — institutional publications, programs, reports, and related OCR payloads.
 - `lovejoy/` — Lovejoy publications and later Lovejoy corpus material.
 - `reference/` — dictionaries, bibliographies, and biographical/reference works.
-- `context/` — contemporaneous books, periodicals, and text witnesses used for contextual/source comparison.
-- `discovery/` — search/export/metadata payloads. These are discovery aids, not automatically evidentiary witnesses.
-- `notebooks/` — notebook-level indexes and, when present, notebook source payloads/derivatives.
-- `_unclassified/` — retained raw payloads whose bibliographic identity is not yet secure enough for a semantic folder. Do not infer identity from filename alone.
+- `context/` — contemporaneous books, periodicals, articles, and text witnesses used for contextual/source comparison.
+- `discovery/` — search/export/metadata payloads; discovery aids, not automatically evidentiary witnesses.
+- `notebooks/` — notebook-level indexes and notebook source payloads/derivatives when present.
+
+As of 2026-09-05, every payload migrated from repository root has a bibliographic/source-class destination. The temporary `_unclassified/` holding area is no longer active.
 
 ## Retrieval rule
 
 Future research should begin from `SOURCE_INDEX.md`, the relevant terminal synthesis, or a curated transcription/index. Do not recursively scan the whole source tree merely to rediscover a previously routed witness.
 
-A JSON/XML/TXT derivative is not automatically canonical just because it is machine-readable. Canonical transcription and argument authority remain defined by the living controls and terminal syntheses.
+A JSON/XML/TXT derivative is not automatically canonical because it is machine-readable. Canonical transcription and argument authority remain defined by the living controls and terminal syntheses.
 
-## Root rule
+## Ingestion rule
 
-Raw source payloads do not belong in repository root. New downloads/OCR exports should be placed under the appropriate `source/` branch at ingestion time and registered in `SOURCE_INDEX.md` when they are intended for reuse.
+Raw source payloads do not belong in repository root. New downloads/OCR exports should be placed under the appropriate `source/` branch at ingestion time and registered in `SOURCE_INDEX.md` when intended for reuse.
+
+If a new payload genuinely cannot be identified from its own metadata/front matter, a temporary `_unclassified/` path may be created, but it should be resolved before the payload becomes part of an active evidence chain.
