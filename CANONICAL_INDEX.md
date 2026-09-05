@@ -74,10 +74,13 @@ Start with `research_notes/LOVEJOY_FORMATION_1895_1899_TERMINAL.md`.
 
 Repeated exact witnesses are:
 
+- `research_notes/evidence/LOVEJOY_1897_Cambridge_Conferences_Vivekananda_address_control_2026-09-05.md`;
 - `research_notes/evidence/MS0873_France_1898_99_Wilson_transcriptions_direct_read_2026-09-03.md`;
 - `research_notes/evidence/Harvard_Lovejoy_student_record_card_direct_transcription_and_Pali5_closure_2026-08-31.md`.
 
-Course availability, enrollment/grade, teacher relation, institutional proximity, attendance, private reading, and methodological transmission remain separate propositions. Older broad formation sweeps are frozen provenance.
+The 1897 Cambridge Conferences witness establishes actor-bearing participation in a collective comparative-religion communication and a printed Harvard Graduate Philosophical Society office. It does not establish individual drafting, attendance at specific programme items, or proposition-level transmission.
+
+Course availability, enrollment/grade, teacher relation, institutional proximity, institutional participation, collective communication, attendance, private reading, and methodological transmission remain separate propositions. Older broad formation sweeps are frozen provenance.
 
 ## 6. Archive/source-critical live work
 
